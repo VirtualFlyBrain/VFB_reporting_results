@@ -1,4 +1,4 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #71 from commit: 'Creating full set of reports.' on master
+ Current results are from the latest travis build #72 from commit: 'Creating full set of reports.' on master
