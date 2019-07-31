@@ -1,6 +1,6 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #77 from commit: 'Merge pull request #9 from VirtualFlyBrain/CATMAID-reports
+ Current results are from the latest travis build #78 from commit: 'Merge pull request #8 from VirtualFlyBrain/owlery
 
-Catmaid reports' on master
+Owlery' on master
