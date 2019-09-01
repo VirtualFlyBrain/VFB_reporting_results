@@ -12,7 +12,7 @@ Court2017	Adult VNS neuropils (Court2017)	True	doi_10_1101_122952	CC-BY-SA_4.0	2
 Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	5387
 Dickson_VT	Dickson lab VT line collection - VDRC images	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	18016
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	384
-Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	True	FBrf0231611	CC-BY-SA_4.0	64
+Fushiki2016	Larval peristalitic lcomotor system neurons - EM (Fushiki2016)	True	FBrf0231611	CC-BY-SA_4.0	64
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-BY-SA_4.0	33
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	2
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	True	FBrf0236775	CC-BY-SA_4.0	1
@@ -37,6 +37,6 @@ TrumanWood2018public	Truman Larval Flip-Out Collection	True		unlicensed	2
 Tsubouchi2017	Adult somatosensory system neurons (Tsubouchi2017)	False	FBrf0237124	CC-BY-SA_4.0	0
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	True		CC-BY-SA_4.0	255
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	115
-Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	True	FBrf0238545	CC-BY-SA_4.0	79
+Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018		FBrf0238545	CC-BY-SA_4.0	79
 Yu2013	Lee lab adult brain lineage clone image set	True	FBrf0221412	CC-BY-NC-SA_4.0	107
 Zwart2016	Larval motor circuit neurons (Zwart2016)	True	FBrf0233076	CC-BY-SA_4.0	3
