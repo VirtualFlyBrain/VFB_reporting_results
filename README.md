@@ -1,4 +1,4 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #123 from commit: 'adding branch to commit message' on master
+ Current results are from the latest travis build #124 from commit: 'adding branch to commit message' on master
