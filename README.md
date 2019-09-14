@@ -1,6 +1,6 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #142 from commit: 'Merge pull request #13 from VirtualFlyBrain/CellTypeAnnotations
+ Current results are from the latest travis build #144 from commit: 'Merge pull request #13 from VirtualFlyBrain/CellTypeAnnotations
 
 Adding reports for Cell type annotations' on master
