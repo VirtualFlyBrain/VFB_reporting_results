@@ -128,15 +128,15 @@ skid	name	paper_id	paper_name	FBbt_ID
 203504	VP1d dlALT PN 71750 ARH-NM	11490509	Paper: Zheng et al 2018	
 203840	APL 203841 MR JSL	11490509	Paper: Zheng et al 2018	
 205947	KCaBs 205948 ARH CF	11490509	Paper: Zheng et al 2018	
-346114	MBON a2sc Right ASB	13040382	MBONa2sc#1	
+346114	MBONa2sc#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 400943	PN glomerulus VC3m 24596 BH	11490509	Paper: Zheng et al 2018	
 424295	KCaBc 424296 NS	11490509	Paper: Zheng et al 2018	
 424379	KCaBs 424380 LK	11490509	Paper: Zheng et al 2018	
 488055	AV4b1#1 488056 downstream DA1 GSXEJ	12870485	Paper: Dolan et al. 2019	
 515387	KCaBs 515388 IJA	11490509	Paper: Zheng et al 2018	
 533772	AD3b1#1 LHON 533773 Vulture GSXEJ	12870485	Paper: Dolan et al. 2019	
-535060	putative MB-C1 535061	11490509	Paper: Zheng et al 2018	
 535060	putative MB-C1 535061	12870485	Paper: Dolan et al. 2019	
+535060	putative MB-C1 535061	11490509	Paper: Zheng et al 2018	
 581536	PN glomerulus DL3 47095 JMR	11490509	Paper: Zheng et al 2018	
 755022	PN glomerulus DA1 57358 IJA	11490509	Paper: Zheng et al 2018	
 771242	PN glomerulus DC1 23665 AA	11490509	Paper: Zheng et al 2018	
@@ -146,18 +146,18 @@ skid	name	paper_id	paper_name	FBbt_ID
 1149173	VP4 PN t5ALT mlALT 282136 RJVR ECM	11490509	Paper: Zheng et al 2018	
 1149437	aSP-g candidate R 1149438 IT	12870485	Paper: Dolan et al. 2019	
 1288534	AV4a1#1 1288535 DM1 Centric 2 ASB	12870485	Paper: Dolan et al. 2019	
-1299700	PD2a1#1 1299701 ASB	13040382	PD2a1#1	
+1299700	PD2a1#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 1313334	WED-PN3#1 1313335 Athens ASB	12870485	Paper: Dolan et al. 2019	
-1415893	PD2a1#3 1415894 Cu Chulainn ASB	13040382	PD2a1#3	
+1415893	PD2a1#3	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 1415926	AV6a1#1 1415927 Haddock ASB	12870485	Paper: Dolan et al. 2019	
-1420974	MBON a2sc Left ASB	13040382	MBONa2sc#2	
-1454234	PD2a1#4 1454235 Medb ASB	13040382	PD2a1#4	
+1420974	MBONa2sc#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
+1454234	PD2a1#4	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 1478950	putative peptidergic neuron 1478951 NM ASB	12870485	Paper: Dolan et al. 2019	
 1530770	MB-CP2 SCL fragment 68908	11490509	Paper: Zheng et al 2018	
-1540941	MBON a'2 1540941 ASB	13040382	MBONap2#1	
+1540941	MBONap2#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 1546454	EB canal neuron 1546455 AES	12870485	Paper: Dolan et al. 2019	
 1549518	contralateral MB-CP2 1549519 SAC	11490509	Paper: Zheng et al 2018	
-1606113	PD2b1#1 1606114 ASB	13040382	PD2b1#1	
+1606113	PD2b1#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 1621078	PV5 [LH.R->] 1621079 Canary ASB	12870485	Paper: Dolan et al. 2019	
 1703751	AD1b2#5 1703752 FML Cremini - downstream of DA2	12870485	Paper: Dolan et al. 2019	
 1703872	PV2a1#1 1703873 FML Beech - downstream of DA2	12870485	Paper: Dolan et al. 2019	
@@ -178,7 +178,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 2130631	PV6a3#2 2130632 Wilson FML ASB 	12870485	Paper: Dolan et al. 2019	
 2153398	WED-PN4#1 2153399 Double Trouble RJVR ASB	12870485	Paper: Dolan et al. 2019	
 2198365	AV2b1#1 LHON Savage RJVR	12870485	Paper: Dolan et al. 2019	
-2205218	PD2a1#2 1290496 Deirdre ASB	13040382	PD2a1#2	
+2205218	PD2a1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 2227995	WED-PN1#1 2227996 Grey Herron SD	12870485	Paper: Dolan et al. 2019	
 2333007	MBON-y1pedc>a/B 298954 JSL	12823574	Paper: Felsenberg et al 2018	
 2391559	PV4 LH.R -> CAL.R 2391560 DL4 Upstream RJVR Ramoth	12870485	Paper: Dolan et al. 2019	
@@ -197,7 +197,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 3080225	AD1b2#6 3080226 Dark World JJ	12870485	Paper: Dolan et al. 2019	
 3104789	KCy 16943 BH	11490509	Paper: Zheng et al 2018	
 3136591	PV2d1#1 DL4 upstream 3136592 Auk RJVR ASB	12870485	Paper: Dolan et al. 2019	
-3345012	PD2b1#2 3345012 Cù Sìth ASB	13040382	PD2b1#2	
+3345012	PD2b1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
 3367291	PV4 [LH.R] 3367292 Twirl ASB	12870485	Paper: Dolan et al. 2019	
 3445525	KCy 6487 ML-NS	11490509	Paper: Zheng et al 2018	
 3481901	PD3a1#1 3481902 DC4 Bully RJVR ASB	12870485	Paper: Dolan et al. 2019	
@@ -250,4 +250,4 @@ skid	name	paper_id	paper_name	FBbt_ID
 11524386	PV4a3#1 5918554 Marshall SD	12870485	Paper: Dolan et al. 2019	
 11524475	LH.R -> SLP.R 1704980 FML Fly Agaric - downstream of DA2	12870485	Paper: Dolan et al. 2019	
 11545702	PV12a1 putative Gad1-F-600202 40613 AJ	12870485	Paper: Dolan et al. 2019	
-11547665	PD2a1#5 3516954 Conchobar ASB	13040382	PD2a1#5	
+11547665	PD2a1#5	13040382	Paper: Dolan and Belliart-Guérin et al. 2018	
