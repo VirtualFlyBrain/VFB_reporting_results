@@ -1,6 +1,4 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #165 from commit: 'Merge pull request #13 from VirtualFlyBrain/CellTypeAnnotations
-
-Adding reports for Cell type annotations' on master
+ Current results are from the latest travis build #164 from commit: 'Adding get_catmaid_papers code' on OfficialFAFBNames
