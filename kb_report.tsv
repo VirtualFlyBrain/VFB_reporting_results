@@ -1,7 +1,4 @@
 ds.short_form	ds.label	ds.production	pub	license	individuals
- Dolan2018	EM FAFB Dolan and Belliart-Guérin et al. 2018		FBrf0240600	CC-BY-SA_4.0	0
- Dolan2019	EM FAFB Dolan et al. 2019		FBrf0242477	CC-BY-SA_4.0	0
- Felsenberg2018	EM FAFB Felsenberg et al. 2018		FBrf0240371	CC-BY-SA_4.0	0
 Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	True	FBrf0227179	CC-BY-SA_4.0	292
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY-SA_4.0	12
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	True	FBrf0232785	CC-BY-SA_4.0	160
@@ -14,9 +11,10 @@ CostaJefferis_v3	NBLAST clustering of FlyCircuit 1.0 neurons (Costa2016)	True	FB
 Court2017	Adult VNS neuropils (Court2017)	True	doi_10_1101_122952	CC-BY-SA_4.0	24
 Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	5387
 Dickson_VT	Dickson lab VT line collection - VDRC images	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	18016
-Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018		FBrf0240600	CC-BY-SA_4.0	10
-Dolan2019	EM FAFB Dolan et al. 2019		FBrf0242477	CC-BY-SA_4.0	94
+Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-SA_4.0	10
+Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	94
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	384
+Felsenberg2018	EM FAFB Felsenberg et al. 2018	True	FBrf0240371	CC-BY-SA_4.0	3
 Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	True	FBrf0231611	CC-BY-SA_4.0	64
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-BY-SA_4.0	33
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	2
