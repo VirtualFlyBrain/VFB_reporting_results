@@ -1,6 +1,13 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #183 from commit: 'Merge pull request #16 from VirtualFlyBrain/OfficialFAFBNames
+ Current results are from the latest travis build #190 from commit: 'Update comparison.py' on master
 
-Update to use Official fafb names' on master
+
+# EM dataset reports
+For each EM dataset the followinf reports are generated:
+## ????_comparison.tsv 
+  a general overview for each dataset listing the number of included neuron skeletons (skids) in the relivant CATMAID instnace vs VFB KnowledgeBase (KB).
+## ????_new_skids.tsv
+  New skids to be imported into VFB
+
