@@ -1,8 +1,9 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #192 from commit: 'Update comparison.py' on master
+Current results are from the latest travis build #192 from commit: 'Update comparison.py' on master
 
+See https://github.com/VirtualFlyBrain/VFB_reporting for the underlyinh scripts.
 
 # EM dataset reports
 For each EM dataset the followinf reports are generated:
