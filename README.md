@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #196 from commit: 'Update comparison.py' on master
+ Current results are from the latest travis build #197 from commit: 'adding basic listing reports' on master
 
 
 # EM dataset reports
