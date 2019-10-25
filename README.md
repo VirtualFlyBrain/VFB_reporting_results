@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #216 from commit: 'saving lists' on master
+ Current results are from the latest travis build #217 from commit: 'saving lists' on master
 
 
 # EM dataset reports
