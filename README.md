@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #222 from commit: 'switched back save_directory' on neuron-tags
+ Current results are from the latest travis build #223 from commit: 'saving lists' on master
 
 
 # EM dataset reports
