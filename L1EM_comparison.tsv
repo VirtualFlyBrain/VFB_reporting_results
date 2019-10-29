@@ -1,18 +1,18 @@
-Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_CATMAID
-19496665	Zwart et al. 2016	Zwart2016	41	41	0	0
-19711421	Berck, Khandelwal et al. 2016	Berck2016	160	160	0	0
-19711583	Eichler, Li, Litwin-Kumar et al. 2017	Eichler2017	387	387	0	0
-19711972	Larderet, Fritsch et al. 2017	Larderet2017	72	72	0	0
-19712046	Ohyama, Schneider-Mizell et al. 2015	Ohyama2015	108	108	0	0
-19712156	Jovanic, Schneider-Mizell et al. 2016	Jovanic2016	44	44	0	0
-19712202	Schlegel et al. 2016	Schlegel2016	192	192	0	0
-19712396	Fushiki et al. 2016	Fushiki2016	82	83	0	1
-19716589	Takagi et al. 2017	Takagi2017	38	38	0	0
-19756504	Heckscher et al. 2015	Heckscher2015	134	135	0	1
-19756692	Gerhard et al. 2017	Gerhard2017	55	55	0	0
-19862922	Burgos et al 2018	Burgos2018	94	94	0	0
-20282757	Miroschnikow et al. 2018	Miroschnikow2018	738	738	0	0
-20498648	Jovanic et al. 2019	Jovanic2019	37	37	0	0
-20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CarreiraRosario2018	31	31	0	0
-20726614	Zarin, Mark et al. 2019	Zarin2019	194	194	0	0
-20726939	Mark et al. 2019	Mark2019	78	78	0	0
+Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_CATMAID	neuron_only
+19496665	Zwart et al. 2016	Zwart2016	41	3	38	0	3
+19711421	Berck, Khandelwal et al. 2016	Berck2016	160	160	0	0	6
+19711583	Eichler, Li, Litwin-Kumar et al. 2017	Eichler2017	387	384	3	0	338
+19711972	Larderet, Fritsch et al. 2017	Larderet2017	72	71	1	0	71
+19712046	Ohyama, Schneider-Mizell et al. 2015	Ohyama2015	108	111	1	0	12
+19712156	Jovanic, Schneider-Mizell et al. 2016	Jovanic2016	44	18	26	0	18
+19712202	Schlegel et al. 2016	Schlegel2016	192	192	0	0	192
+19712396	Fushiki et al. 2016	Fushiki2016	82	64	19	1	64
+19716589	Takagi et al. 2017	Takagi2017	38	28	10	0	28
+19756504	Heckscher et al. 2015	Heckscher2015	134	62	73	1	62
+19756692	Gerhard et al. 2017	Gerhard2017	55	33	22	0	33
+19862922	Burgos et al 2018	Burgos2018	94	37	57	0	37
+20282757	Miroschnikow et al. 2018		738	0	738	0	0
+20498648	Jovanic et al. 2019		37	0	37	0	0
+20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018		31	0	31	0	0
+20726614	Zarin, Mark et al. 2019		194	0	194	0	0
+20726939	Mark et al. 2019		78	0	78	0	0
