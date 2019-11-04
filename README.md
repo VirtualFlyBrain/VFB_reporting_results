@@ -1,7 +1,9 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #226 from commit: 'saving lists' on master
+ Current results are from the latest travis build #232 from commit: 'Merge pull request #22 from VirtualFlyBrain/neuron-tags
+
+Functionality to check if skids are annotated only as neuron in VFB' on master
 
 
 # EM dataset reports
