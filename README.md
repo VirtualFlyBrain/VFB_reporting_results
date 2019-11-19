@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #246 from commit: 'Merge pull request #22 from VirtualFlyBrain/neuron-tags
+ Current results are from the latest travis build #247 from commit: 'Merge pull request #22 from VirtualFlyBrain/neuron-tags
 
 Functionality to check if skids are annotated only as neuron in VFB' on master
 
