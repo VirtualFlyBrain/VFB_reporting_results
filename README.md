@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #253 from commit: 'Adding some simple vfb_neo reporting tools.' on master
+ Current results are from the latest travis build #254 from commit: 'Adding some simple vfb_neo reporting tools.' on master
 
 
 # EM dataset reports
