@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #267 from commit: 'new notebooks + some refactoring' on master
+ Current results are from the latest travis build #270 from commit: 'Switched to run from pdb->kb' on Aligning_catmaid_reporting_to_schema
 
 
 # EM dataset reports
