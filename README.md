@@ -1,7 +1,7 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #275 from commit: 'new notebooks + some refactoring' on master
+ Current results are from the latest travis build #273 from commit: 'Fixed skid/typing query (accession is int).' on Aligning_catmaid_reporting_to_schema
 
 
 # EM dataset reports
