@@ -43,7 +43,7 @@ For each EM dataset the following reports are generated:
   
 #### EM_CATMAID\_{source}_skids.tsv
 
-   # Why is this  needed - is is  still updated?
+   \# Why is this  needed - is is  still updated?
 
 #### {source}\_CAT_cellType_skids.tsv
 
