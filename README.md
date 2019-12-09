@@ -47,6 +47,8 @@ For each EM dataset the followinf reports are generated:
 
   **QUERY1**
   
+  Query for cell type annotations with FBbt  (only  applies to FAFB)
+  
   **Endpoint:** annotations/query-targets
   
   **query json:**
