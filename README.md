@@ -5,24 +5,47 @@ repository containing results of various data change and consistency checking.
 
 Switching neo queries to work with new schema.  Should fix #24' on master
 
+## Pipeline reports:
 
-# EM dataset reports
+### Neo4j  servers:
+
+kb: knowledge_base
+
+dev: dev pipeline, pre-release - used to drive v2 dev test site. This pipeline should be used for schema changes that require code updates to work.
+
+staging:  data pipeline, pre-release - used to drive v2 staging/a/alpha test site.  This pipeline should be used only to  stage data, the absense of any schema changes. However, schema changes to KB can potentially muddle the data/dev distinction.
+
+pdb: production - live database running VFB 2
+
+### reports
+
+{server}\_{report/diff}.tsv
+
+report = complete report of content
+
+diff = diff of server to kb, to track progress of data to release
+
+
+
+
+
+## EM dataset reports
 For each EM dataset the followinf reports are generated:
 
-## Reports:
+### Reports:
 
-###
-
-### {source}_comparison.tsv 
+#### {source}_comparison.tsv 
   A general overview for each dataset listing the number of included neuron skeletons (skids) in the relevant CATMAID instance vs VFB KnowledgeBase (KB).  For neurons in VFB, it lists which neurons are classified only under 'neuron' - i.e. which are candidates for deepening annotations.
   
-### {source}_new_skids.tsv
+#### {source}_new_skids.tsv
   New skids to be imported into VFB
   
   
-## Query details (CATMAID): 
+### Query details (CATMAID): 
   
-###  SKID queries:
+####  SKID queries:
+
+  **QUERY1**
   
   **Endpoint:** annotations/query-targets
   
@@ -38,25 +61,27 @@ For each EM dataset the followinf reports are generated:
   
   => 
   
-  **Return values used:*
+  **Return values used:**
   
   entities.name = FBbt id
   
-  -> iteration of entities.id -> skids
+  **QUERY2:** 
   
-  endpoint: annotations/query-targets
+  iterate of cell type annotations (`entities.name`) to find skids:
   
-  query_json: {"annotated_with": celltype_annotaion, "with_annotations": False, "annotation_reference": "id"}
+  **endpoint:** annotations/query-targets
   
-  call_types["annotated_with"] = celltype["id"]
-  
-  NOTE - UNFINISHED
+  **query_json:** 
+  ```py
+  {"annotated_with": entities.id, "with_annotations": False,
+  "annotation_reference": "id", }
+  ```
   
   **Return values used:*
 
      neurons.skeleton_ids -> skid
   
-### DataSet queries:
+#### DataSet/pub queries:
     
   **Endpoint:** annotations/query-targets
   
@@ -75,25 +100,5 @@ For each EM dataset the followinf reports are generated:
    
   entities.id -> Paper_ID 
   entities.name -> 	CATMAID_name
-
-# Pipeline reports:
-
-## servers:
-
-kb: knowledge_base
-
-dev: dev pipeline - pre-release
-
-staging:  data pipeline - pre-release
-
-pdb: production
-
-## reports
-
-{server}\_{report/diff}.tsv
-
-report = complete report of content
-
-diff = diff of server to kb, to track progress of data to release
 
 
