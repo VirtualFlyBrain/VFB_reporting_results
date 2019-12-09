@@ -1,7 +1,7 @@
 # VFB_reporting_results
-repository containing results of various data change and consistency checking.
+Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #281 from commit: 'adding note' on master
+ Current results are from the latest travis build #282 from commit: 'changing to match DOS version' on master
 
 
 ## Pipeline reports:
