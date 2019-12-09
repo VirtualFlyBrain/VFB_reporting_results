@@ -1,7 +1,9 @@
 # VFB_reporting_results
 repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #273 from commit: 'Fixed skid/typing query (accession is int).' on Aligning_catmaid_reporting_to_schema
+ Current results are from the latest travis build #276 from commit: 'Merge pull request #25 from VirtualFlyBrain/Aligning_catmaid_reporting_to_schema
+
+Switching neo queries to work with new schema.  Should fix #24' on master
 
 
 # EM dataset reports
