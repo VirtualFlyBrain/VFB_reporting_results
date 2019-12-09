@@ -56,7 +56,7 @@ For each EM dataset the following reports are generated:
 
   **QUERY1**
   
-  Query for cell type annotations with FBbt  (only  applies to FAFB)
+  Query for cell type annotations with FBbt (Does not apply to L1EM)
   
   **Endpoint:** annotations/query-targets
   
@@ -67,10 +67,7 @@ For each EM dataset the following reports are generated:
   "annotation_reference": "id"}
   ```
   
-  FAFB: `celltype_annotation: 11078097`  #  Add doc to explain this?
-  L1EM: `celltype_annotation: ?`   # Broken!??
-  
-  => 
+  FAFB: `celltype_annotation: 11078097` # internal annotation id allowing us to pull cell-type annotations
   
   **Return values used:**
   
