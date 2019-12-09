@@ -1,10 +1,10 @@
 # VFB_reporting_results
-Repo for the results of pipelines reporting dataflow to and within VFB.
+repository containing results of various data change and consistency checking.
 
- Current results are from the latest travis build #279 from commit: 'Update README.md' on master
+ Current results are from the latest travis build #281 from commit: 'adding note' on master
 
 
-## Internal pipeline reports:
+## Pipeline reports:
 
 ### Neo4j  servers:
 
@@ -25,29 +25,19 @@ report = complete report of content
 diff = diff of server to kb, to track progress of data to release
 
 
-## EM dataset pipeline reports
-For each EM dataset the following reports are generated:
+
+
+
+## EM dataset reports
+For each EM dataset the followinf reports are generated:
 
 ### Reports:
 
-  \# Note: Seem to have proliferated - can we  simplify?!!
-
-#### {source}\_comparison.tsv 
+#### {source}_comparison.tsv 
   A general overview for each dataset listing the number of included neuron skeletons (skids) in the relevant CATMAID instance vs VFB KnowledgeBase (KB).  For neurons in VFB, it lists which neurons are classified only under 'neuron' - i.e. which are candidates for deepening annotations.
   
-#### {source}\_new_skids.tsv
-  New skids - not yet imported into VFB.
-  
-#### {source}\_neuron_only_skids.tsv
-  Neurons imported  into VFB - but only annotated as 'neuron'.  These are candidates for curation.
-  
-#### EM_CATMAID\_{source}_skids.tsv
-
-   \# Why is this  needed - is is  still updated?
-
-#### {source}\_CAT_cellType_skids.tsv
-
-  Report of cell type (FBbt) annotations on neurons in CATMAID
+#### {source}_new_skids.tsv
+  New skids to be imported into VFB
   
   
 ### Query details (CATMAID): 
@@ -56,7 +46,7 @@ For each EM dataset the following reports are generated:
 
   **QUERY1**
   
-  Query for cell type annotations with FBbt (Does not apply to L1EM)
+  Query for cell type annotations with FBbt  (only  applies to FAFB)
   
   **Endpoint:** annotations/query-targets
   
@@ -67,7 +57,10 @@ For each EM dataset the following reports are generated:
   "annotation_reference": "id"}
   ```
   
-  FAFB: `celltype_annotation: 11078097` # internal annotation id allowing us to pull cell-type annotations
+  FAFB: `celltype_annotation: 11078097`  #  Add doc to explain this?
+  L1EM: `celltype_annotation: ?`   # Broken!??
+  
+  => 
   
   **Return values used:**
   
@@ -110,3 +103,5 @@ For each EM dataset the following reports are generated:
   entities.name -> 	CATMAID_name
 
 
+-------------
+Note: the reports readme.md is automatically generated on each run. Please edit [reports.md](https://github.com/VirtualFlyBrain/VFB_reporting/blob/master/reports.md) if changes are needed.
