@@ -46,7 +46,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 13803032	Projection from LH 2_right	19711421	Berck, Khandelwal et al. 2016	
 17068730	Ladder (olfactory) ant.	19711421	Berck, Khandelwal et al. 2016	
 17844900	Giant-step left	19711421	Berck, Khandelwal et al. 2016	
-15788431	KC young no claws	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+15721919	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 11691603	KC17	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 11525714	MBE22 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 11524047	MBE15b right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -126,10 +126,10 @@ skid	name	paper_id	paper_name	FBbt_ID
 9769559	KC87 very young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9766793	KC86	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9747710	Handlebar PN (CB on Right)	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+9747418	PPLV - 2 Left (maybe PVL014c)	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9741463	KC85 young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9730873	KC84	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9707941	KC83	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-9609048	KC82	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9606354	KC81 very young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9578602	KC80 young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 9574259	KC79 young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -205,6 +205,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 15861524	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15828093	KC young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15810983	MBE30 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+15788431	KC young no claws	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15788419	KC young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15764960	KC young no claws	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15741951	KC young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -213,7 +214,6 @@ skid	name	paper_id	paper_name	FBbt_ID
 15734666	KC young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15722867	KC82	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15722306	KC no claws	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-15721919	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15691122	KC young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 15691118	KC young no claw	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8598886	CPLd interneuron	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -244,7 +244,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 16058860	KC100	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 16053670	KC young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8559607	KC54	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-9747418	PPLV - 2 Left (maybe PVL014c)	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+9609048	KC82	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8509987	KC53	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4230061	KC12	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4230739	KC13	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -255,13 +255,13 @@ skid	name	paper_id	paper_name	FBbt_ID
 4241237	MBE6 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4381129	MBE19 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4381377	MBE4f left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+4393049	non-olfactory PN right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4401350	MBE15a left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4411505	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4412036	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4412315	KC2/24	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4414163	MBE1d left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4414184	MBE1d right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-4414426	KC15	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 4415241	KC16	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 5395823	MBE15b left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 5051342	KC21	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -315,9 +315,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 3709977	backwards handlebar left (looks like 35a)	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 3890028	MBE24a right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 5835815	KC23	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-4393049	non-olfactory PN right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+4414426	KC15	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 5836163	KC25	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-8259192	KC44 young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+5836035	KC24	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8259179	KC43 very young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8254894	PN in Olfactory Bundle 2 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8248706	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
@@ -346,185 +346,172 @@ skid	name	paper_id	paper_name	FBbt_ID
 8297018	MBE16 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8274902	KC48	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8263285	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-5836035	KC24	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+8263140	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8262503	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8262372	LON KC left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8318678	KC no claws	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7910624	MBE2as left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-8263140	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7897469	MBE2as right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7057894	MBE1c left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7055857	MBE6 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7020344	handlebar-like 4 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-6704232	KC54	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+8259192	KC44 young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 6703240	MBE23 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-6702830	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7092086	PN in Olfactory Bundle 1 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-6699205	MBE30 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-5937084	KC65;_42a left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-5836387	KC29	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-5836206	KC28	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-5836197	KC27	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 5836181	KC26	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7901791	MBE4a left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+5836197	KC27	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+5836206	KC28	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+5836387	KC29	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+5937084	KC65;_42a left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 5966099	MBE4h right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7187384	Thermo KC B_left - mbi2 - unknown	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 6611894	MBE1c right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+6699205	MBE30 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+6702830	KC no pair	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+6704232	KC54	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7020344	handlebar-like 4 right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7055857	MBE6 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7057894	MBE1c left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7187384	Thermo KC B_left - mbi2 - unknown	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7092086	PN in Olfactory Bundle 1 left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7215582	KC103 very young	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7897469	MBE2as right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7891312	KC40	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7868195	KC39	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7196392	KC31	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7840791	MBE9b right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7840203	KC38	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7829784	KC36	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7838405	KC37	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7555968	nc1;right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7802210	MBE5a left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7616956	MBE9a right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7196392	KC31	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7828725	KC35	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7829784	KC36	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7786053	KC34	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 7690945	KC33	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-7828725	KC35	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
-8337623	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-7952981	5thLN;left	19711972	Larderet, Fritsch et al. 2017	
-8111135	nc1;left	19711972	Larderet, Fritsch et al. 2017	
-8124177	pOLP;right	19711972	Larderet, Fritsch et al. 2017	
-8247641	ChalOLP;right	19711972	Larderet, Fritsch et al. 2017	
-8340950	nc2;left	19711972	Larderet, Fritsch et al. 2017	
-7940800	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-8270683	nc2;right	19711972	Larderet, Fritsch et al. 2017	
-8271034	LONI;right	19711972	Larderet, Fritsch et al. 2017	
-8118929	LN3;left	19711972	Larderet, Fritsch et al. 2017	
-7897051	GlulOLP;right	19711972	Larderet, Fritsch et al. 2017	
-7566199	Rh6PR-7;right	19711972	Larderet, Fritsch et al. 2017	
-7778722	Rh5PR-6;right	19711972	Larderet, Fritsch et al. 2017	
-7694589	LONI;left	19711972	Larderet, Fritsch et al. 2017	
-7568455	Rh5PR-5;right	19711972	Larderet, Fritsch et al. 2017	
-7555968	nc1;right	19711972	Larderet, Fritsch et al. 2017	
-7555204	Rh6PR-2;right	19711972	Larderet, Fritsch et al. 2017	
-7485368	Rh5PR-3;right	19711972	Larderet, Fritsch et al. 2017	
-2775943	LN3;right	19711972	Larderet, Fritsch et al. 2017	
-8353473	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-7480731	Rh5PR-1;left	19711972	Larderet, Fritsch et al. 2017	
-7483922	Rh5PR-3;left	19711972	Larderet, Fritsch et al. 2017	
-7874184	LN1;right	19711972	Larderet, Fritsch et al. 2017	
-8358800	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-8717219	5thLN;right	19711972	Larderet, Fritsch et al. 2017	
+7616956	MBE9a right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7555968	nc1;right	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
+7802210	MBE5a left	19711583	Eichler, Li, Litwin-Kumar et al. 2017	
 8362221	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+8447845	Rh6PR-10;right	19711972	Larderet, Fritsch et al. 2017	
+8353473	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+8432028	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017	
+8361378	anlagen cell-older_left	19711972	Larderet, Fritsch et al. 2017	
+8358800	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+8340950	nc2;left	19711972	Larderet, Fritsch et al. 2017	
 16267292	Rh6PR-9;right	19711972	Larderet, Fritsch et al. 2017	
-17414715	ChalOLP;left	19711972	Larderet, Fritsch et al. 2017	
-2775707	LN4;right	19711972	Larderet, Fritsch et al. 2017	
+8271034	LONI;right	19711972	Larderet, Fritsch et al. 2017	
+8270683	nc2;right	19711972	Larderet, Fritsch et al. 2017	
+8247641	ChalOLP;right	19711972	Larderet, Fritsch et al. 2017	
+8124177	pOLP;right	19711972	Larderet, Fritsch et al. 2017	
+8448457	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+37365	Rh6PR-9;left	19711972	Larderet, Fritsch et al. 2017	
+766246	Rh5PR-1;right	19711972	Larderet, Fritsch et al. 2017	
+8337623	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+8448464	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
 16087799	LN4;left	19711972	Larderet, Fritsch et al. 2017	
+8448568	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+17414715	ChalOLP;left	19711972	Larderet, Fritsch et al. 2017	
+900032	Rh6PR-1;right	19711972	Larderet, Fritsch et al. 2017	
 10241716	Rh6PR-5;left	19711972	Larderet, Fritsch et al. 2017	
 9940382	pOLP;left	19711972	Larderet, Fritsch et al. 2017	
 9927082	LN1;left	19711972	Larderet, Fritsch et al. 2017	
 9567051	PVL09 left	19711972	Larderet, Fritsch et al. 2017	
 9539868	PVL09 right	19711972	Larderet, Fritsch et al. 2017	
+8717219	5thLN;right	19711972	Larderet, Fritsch et al. 2017	
 8700125	GlulOLP;left	19711972	Larderet, Fritsch et al. 2017	
-8361378	anlagen cell-older_left	19711972	Larderet, Fritsch et al. 2017	
 8480418	OLP4;right	19711972	Larderet, Fritsch et al. 2017	
+8470256	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017	
 8449478	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
 8449457	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
 8448809	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
 8448796	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-8448568	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
 8448477	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-8448464	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-8448457	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-8447845	Rh6PR-10;right	19711972	Larderet, Fritsch et al. 2017	
-8432028	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017	
-8470256	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017	
-2552701	Rh5PR-4;right	19711972	Larderet, Fritsch et al. 2017	
-2215622	Rh6PR-8;left	19711972	Larderet, Fritsch et al. 2017	
-2215247	Rh6PR-7;left	19711972	Larderet, Fritsch et al. 2017	
-900032	Rh6PR-1;right	19711972	Larderet, Fritsch et al. 2017	
 902038	Rh6PR-3;right	19711972	Larderet, Fritsch et al. 2017	
-902877	Rh5PR-2;right	19711972	Larderet, Fritsch et al. 2017	
+7952981	5thLN;left	19711972	Larderet, Fritsch et al. 2017	
 946481	Rh6PR-8;right	19711972	Larderet, Fritsch et al. 2017	
-1816102	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017	
-1856512	Rh6PR-4;right	19711972	Larderet, Fritsch et al. 2017	
-2200028	Rh6PR-2;left	19711972	Larderet, Fritsch et al. 2017	
-2204467	LN2;left	19711972	Larderet, Fritsch et al. 2017	
-2206279	Rh6PR-3;left	19711972	Larderet, Fritsch et al. 2017	
-2208920	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
-2209091	Rh5PR-4;left	19711972	Larderet, Fritsch et al. 2017	
-2215447	Rh6PR-4;left	19711972	Larderet, Fritsch et al. 2017	
+2215622	Rh6PR-8;left	19711972	Larderet, Fritsch et al. 2017	
 2216131	Rh6PR-6;left	19711972	Larderet, Fritsch et al. 2017	
 2216187	Rh5PR-2;left	19711972	Larderet, Fritsch et al. 2017	
 2216445	Rh6PR-1;left	19711972	Larderet, Fritsch et al. 2017	
 2512602	LN2;right	19711972	Larderet, Fritsch et al. 2017	
 2532841	Rh6PR-6;right	19711972	Larderet, Fritsch et al. 2017	
 2544902	Rh6PR-5;right	19711972	Larderet, Fritsch et al. 2017	
-766246	Rh5PR-1;right	19711972	Larderet, Fritsch et al. 2017	
-37365	Rh6PR-9;left	19711972	Larderet, Fritsch et al. 2017	
+2552701	Rh5PR-4;right	19711972	Larderet, Fritsch et al. 2017	
+2775707	LN4;right	19711972	Larderet, Fritsch et al. 2017	
+2775943	LN3;right	19711972	Larderet, Fritsch et al. 2017	
+7480731	Rh5PR-1;left	19711972	Larderet, Fritsch et al. 2017	
+2215447	Rh6PR-4;left	19711972	Larderet, Fritsch et al. 2017	
+7483922	Rh5PR-3;left	19711972	Larderet, Fritsch et al. 2017	
+7555204	Rh6PR-2;right	19711972	Larderet, Fritsch et al. 2017	
+7555968	nc1;right	19711972	Larderet, Fritsch et al. 2017	
+7566199	Rh6PR-7;right	19711972	Larderet, Fritsch et al. 2017	
+7568455	Rh5PR-5;right	19711972	Larderet, Fritsch et al. 2017	
+7694589	LONI;left	19711972	Larderet, Fritsch et al. 2017	
+7778722	Rh5PR-6;right	19711972	Larderet, Fritsch et al. 2017	
+7874184	LN1;right	19711972	Larderet, Fritsch et al. 2017	
+7897051	GlulOLP;right	19711972	Larderet, Fritsch et al. 2017	
+7940800	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+8111135	nc1;left	19711972	Larderet, Fritsch et al. 2017	
+902877	Rh5PR-2;right	19711972	Larderet, Fritsch et al. 2017	
+7485368	Rh5PR-3;right	19711972	Larderet, Fritsch et al. 2017	
+2215247	Rh6PR-7;left	19711972	Larderet, Fritsch et al. 2017	
+8118929	LN3;left	19711972	Larderet, Fritsch et al. 2017	
+2208920	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017	
+2206279	Rh6PR-3;left	19711972	Larderet, Fritsch et al. 2017	
+2204467	LN2;left	19711972	Larderet, Fritsch et al. 2017	
+2200028	Rh6PR-2;left	19711972	Larderet, Fritsch et al. 2017	
+1816102	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017	
+1856512	Rh6PR-4;right	19711972	Larderet, Fritsch et al. 2017	
+2209091	Rh5PR-4;left	19711972	Larderet, Fritsch et al. 2017	
+6264270	basin-related descending 1 sog_r	19712046	Ohyama, Schneider-Mizell et al. 2015	
+5754346	telegoro-1L	19712046	Ohyama, Schneider-Mizell et al. 2015	
+5268581	basin-related descending 1 sog_l	19712046	Ohyama, Schneider-Mizell et al. 2015	
 5108525	A08h_a1r right	19712046	Ohyama, Schneider-Mizell et al. 2015	
 4555763	A08h_a1l	19712046	Ohyama, Schneider-Mizell et al. 2015	
-5268581	basin-related descending 1 sog_l	19712046	Ohyama, Schneider-Mizell et al. 2015	
-4262162	A00c_a3r	19712046	Ohyama, Schneider-Mizell et al. 2015	
+5691934	telephone-1L	19712046	Ohyama, Schneider-Mizell et al. 2015	
 3863488	hook-2_a2r	19712046	Ohyama, Schneider-Mizell et al. 2015	
 3862443	telephone-1R	19712046	Ohyama, Schneider-Mizell et al. 2015	
 3764792	telegoro-1R	19712046	Ohyama, Schneider-Mizell et al. 2015	
 3546835	A02n_a1l Pseudolooper-4	19712046	Ohyama, Schneider-Mizell et al. 2015	
+4262162	A00c_a3r	19712046	Ohyama, Schneider-Mizell et al. 2015	
 2743404	hook-2_a2l	19712046	Ohyama, Schneider-Mizell et al. 2015	
 1339400	A00c_a3l	19712046	Ohyama, Schneider-Mizell et al. 2015	
-5691934	telephone-1L	19712046	Ohyama, Schneider-Mizell et al. 2015	
-5754346	telegoro-1L	19712046	Ohyama, Schneider-Mizell et al. 2015	
-6264270	basin-related descending 1 sog_r	19712046	Ohyama, Schneider-Mizell et al. 2015	
-471755	Ladder-b a1	19712156	Jovanic, Schneider-Mizell et al. 2016	
-11995	Ladder-a a1	19712156	Jovanic, Schneider-Mizell et al. 2016	
-471705	Ladder-d_a1	19712156	Jovanic, Schneider-Mizell et al. 2016	
-4096366	Drunken-1 a1r	19712156	Jovanic, Schneider-Mizell et al. 2016	
-16310625	Griddle-2 t3l	19712156	Jovanic, Schneider-Mizell et al. 2016	
-4305390	Griddle-2 t3r	19712156	Jovanic, Schneider-Mizell et al. 2016	
-4824878	Griddle-1 a1r	19712156	Jovanic, Schneider-Mizell et al. 2016	
-471720	Ladder-c a1	19712156	Jovanic, Schneider-Mizell et al. 2016	
-7195651	Griddle-1 a1l	19712156	Jovanic, Schneider-Mizell et al. 2016	
-7599503	Ladder-e a1	19712156	Jovanic, Schneider-Mizell et al. 2016	
-7657358	Ladder-f a2	19712156	Jovanic, Schneider-Mizell et al. 2016	
-7683401	Griddle-2 a1r	19712156	Jovanic, Schneider-Mizell et al. 2016	
-8045800	Griddle-1 t3r	19712156	Jovanic, Schneider-Mizell et al. 2016	
-8577316	Ladder-f a1	19712156	Jovanic, Schneider-Mizell et al. 2016	
-6207232	Drunken-1 a1l	19712156	Jovanic, Schneider-Mizell et al. 2016	
-10804041	Griddle-2 a1l	19712156	Jovanic, Schneider-Mizell et al. 2016	
-9867541	Griddle-1 t3l	19712156	Jovanic, Schneider-Mizell et al. 2016	
-8614658	Ladder-a_t3l	19712156	Jovanic, Schneider-Mizell et al. 2016	
-15572414	AN-R-Sens-B1-AVa-25	19712202	Schlegel et al. 2016	
-15564807	AN-R-Sens-B1-AVa-22	19712202	Schlegel et al. 2016	
-15564782	AN-R-Sens-B1-AVa-23	19712202	Schlegel et al. 2016	
-15564706	AN-R-Sens-B1-AVa-24	19712202	Schlegel et al. 2016	
-15562137	AN-R-Sens-B1-ACa-07	19712202	Schlegel et al. 2016	
-15543068	AN-R-Sens-B1-AVa-21	19712202	Schlegel et al. 2016	
-15541976	AN-R-Sens-B2-ACp-19	19712202	Schlegel et al. 2016	
-15541944	AN-R-Sens-B2-ACp-02	19712202	Schlegel et al. 2016	
-15532105	AN-R-Sens-B2-AVa-24	19712202	Schlegel et al. 2016	
-15506094	AN-R-Sens-B2-ACp-18	19712202	Schlegel et al. 2016	
-15242799	BC ; Right	19712202	Schlegel et al. 2016	
-15573396	AN-R-Sens-B1-ACa-09	19712202	Schlegel et al. 2016	
-14795310	A09e_a3l	19712202	Schlegel et al. 2016	
-14728550	A09e_a3r	19712202	Schlegel et al. 2016	
 13793212	DMS 2 right	19712202	Schlegel et al. 2016	
-12944429	neuron 12944430	19712202	Schlegel et al. 2016	
-13429045	AF4: Large Spider Neuron right	19712202	Schlegel et al. 2016	
-13535380	IPC 1 right	19712202	Schlegel et al. 2016	
-13535387	DH44 3 right	19712202	Schlegel et al. 2016	
-13581830	hugin-PC right 4	19712202	Schlegel et al. 2016	
-13744425	AN-L-Sens-B1-ACa-02	19712202	Schlegel et al. 2016	
-13751194	DH44 2 right	19712202	Schlegel et al. 2016	
+14728550	A09e_a3r	19712202	Schlegel et al. 2016	
+14795310	A09e_a3l	19712202	Schlegel et al. 2016	
 15202263	IPC 4 right	19712202	Schlegel et al. 2016	
-15573450	AN-R-Sens-B1-ACa-14	19712202	Schlegel et al. 2016	
-18461988	Contralateral axon	19712202	Schlegel et al. 2016	
-15574328	AN-R-Sens-B1-AVa-15	19712202	Schlegel et al. 2016	
-3158085	AF5: Short-presynaptic-D-1L	19712202	Schlegel et al. 2016	
-3436420	Pre PMN R right	19712202	Schlegel et al. 2016	
-3420915	SOG into brain contralaterally right - paired with #3622234	19712202	Schlegel et al. 2016	
-3315001	hugin-PC right 1	19712202	Schlegel et al. 2016	
-3299767	hugin-PC right 2	19712202	Schlegel et al. 2016	
-3281684	IPC 5 left	19712202	Schlegel et al. 2016	
-3276003	L1: Short-presynapticD-3-R	19712202	Schlegel et al. 2016	
+15543068	AN-R-Sens-B1-AVa-21	19712202	Schlegel et al. 2016	
+15242799	BC ; Right	19712202	Schlegel et al. 2016	
+15532105	AN-R-Sens-B2-AVa-24	19712202	Schlegel et al. 2016	
+15541944	AN-R-Sens-B2-ACp-02	19712202	Schlegel et al. 2016	
+15541976	AN-R-Sens-B2-ACp-19	19712202	Schlegel et al. 2016	
+13751194	DH44 2 right	19712202	Schlegel et al. 2016	
+15506094	AN-R-Sens-B2-ACp-18	19712202	Schlegel et al. 2016	
+13744425	AN-L-Sens-B1-ACa-02	19712202	Schlegel et al. 2016	
+12634154	IPC 3 left	19712202	Schlegel et al. 2016	
+13535387	DH44 3 right	19712202	Schlegel et al. 2016	
+13535380	IPC 1 right	19712202	Schlegel et al. 2016	
+13429045	AF4: Large Spider Neuron right	19712202	Schlegel et al. 2016	
+12944429	neuron 12944430	19712202	Schlegel et al. 2016	
 12920745	post B5 17	19712202	Schlegel et al. 2016	
+12824059	post B5 37	19712202	Schlegel et al. 2016	
+15562137	AN-R-Sens-B1-ACa-07	19712202	Schlegel et al. 2016	
+12042430	VNC interneuron	19712202	Schlegel et al. 2016	
+11874130	v'td-2_a1l	19712202	Schlegel et al. 2016	
+11868260	Angler_right	19712202	Schlegel et al. 2016	
+11734960	A00g_t1	19712202	Schlegel et al. 2016	
+11517136	A01?_a8l	19712202	Schlegel et al. 2016	
+11291634	Midline Projection Neuron  - paired with #7340664	19712202	Schlegel et al. 2016	
+13581830	hugin-PC right 4	19712202	Schlegel et al. 2016	
+15564706	AN-R-Sens-B1-AVa-24	19712202	Schlegel et al. 2016	
+15769680	AN-L-Sens-B1-AVa-19	19712202	Schlegel et al. 2016	
+15564807	AN-R-Sens-B1-AVa-22	19712202	Schlegel et al. 2016	
+3266033	PaN Hugin Input 2	19712202	Schlegel et al. 2016	
+3276003	L1: Short-presynapticD-3-R	19712202	Schlegel et al. 2016	
+3281684	IPC 5 left	19712202	Schlegel et al. 2016	
+3299767	hugin-PC right 2	19712202	Schlegel et al. 2016	
+3315001	hugin-PC right 1	19712202	Schlegel et al. 2016	
+3420915	SOG into brain contralaterally right - paired with #3622234	19712202	Schlegel et al. 2016	
+3436420	Pre PMN R right	19712202	Schlegel et al. 2016	
+11291344	v'td_a5r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
 19912140	T1r asc contra 02	19712202	Schlegel et al. 2016	
 19120853	pCC a1r	19712202	Schlegel et al. 2016	
-15574231	AN-R-Sens-B1-ACa-08	19712202	Schlegel et al. 2016	
 18520222	A26f_a2r	19712202	Schlegel et al. 2016	
+18461988	Contralateral axon	19712202	Schlegel et al. 2016	
+17641913	AF4: TOH left	19712202	Schlegel et al. 2016	
 16575803	Grumpy_right	19712202	Schlegel et al. 2016	
 16442344	AN-R-Sens-B1-AVa-20	19712202	Schlegel et al. 2016	
 15998753	AN-L-Sens-B2-AVa-25	19712202	Schlegel et al. 2016	
@@ -532,13 +519,20 @@ skid	name	paper_id	paper_name	FBbt_ID
 15995929	AN-L-Sens-B2-ACp-20	19712202	Schlegel et al. 2016	
 15770904	AN-L-Sens-B1-AVa-24	19712202	Schlegel et al. 2016	
 15770032	AN-L-Sens-B1-ACa-03	19712202	Schlegel et al. 2016	
-15769680	AN-L-Sens-B1-AVa-19	19712202	Schlegel et al. 2016	
 15769419	AN-L-Sens-B1-ACa-08	19712202	Schlegel et al. 2016	
 15575327	AN-R-Sens-B1-AVa-26	19712202	Schlegel et al. 2016	
-17641913	AF4: TOH left	19712202	Schlegel et al. 2016	
-12824059	post B5 37	19712202	Schlegel et al. 2016	
+15574328	AN-R-Sens-B1-AVa-15	19712202	Schlegel et al. 2016	
+15574231	AN-R-Sens-B1-ACa-08	19712202	Schlegel et al. 2016	
+15573450	AN-R-Sens-B1-ACa-14	19712202	Schlegel et al. 2016	
+15573396	AN-R-Sens-B1-ACa-09	19712202	Schlegel et al. 2016	
+15572414	AN-R-Sens-B1-AVa-25	19712202	Schlegel et al. 2016	
+15564782	AN-R-Sens-B1-AVa-23	19712202	Schlegel et al. 2016	
+11121240	A00g_a3 ?	19712202	Schlegel et al. 2016	
 3561724	IPC 5 right	19712202	Schlegel et al. 2016	
-12042430	VNC interneuron	19712202	Schlegel et al. 2016	
+10868477	v'td-2_a1r	19712202	Schlegel et al. 2016	
+2622540	A01?_a4r	19712202	Schlegel et al. 2016	
+2632168	neuron 2632169	19712202	Schlegel et al. 2016	
+2659386	DMS 1 right	19712202	Schlegel et al. 2016	
 2679035	SEZ-IN-15-right	19712202	Schlegel et al. 2016	
 2679278	hugin-PH left 1	19712202	Schlegel et al. 2016	
 2810998	hugin-PH right 2	19712202	Schlegel et al. 2016	
@@ -549,68 +543,67 @@ skid	name	paper_id	paper_name	FBbt_ID
 2935173	WS: from olfactory to Hugin interneuron right	19712202	Schlegel et al. 2016	
 2935198	AF3 thermo 3rd right	19712202	Schlegel et al. 2016	
 3046503	IPC 7 left	19712202	Schlegel et al. 2016	
-3266033	PaN Hugin Input 2	19712202	Schlegel et al. 2016	
+3192952	AN-R-Sens-B2-AVa-25	19712202	Schlegel et al. 2016	
 3613276	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565	19712202	Schlegel et al. 2016	
 3622234	SOG into Brain contralaterally left - paired with #3420915	19712202	Schlegel et al. 2016	
 3722787	A23f2 (= Pre-goro9)_a3l	19712202	Schlegel et al. 2016	
 3795424	v'td_a5l (Abdominal Sensory)	19712202	Schlegel et al. 2016	
 3915835	v'td-2_a3l	19712202	Schlegel et al. 2016	
 3946432	WS: from olfactory to Hugin interneuron left	19712202	Schlegel et al. 2016	
-5038703	hugin-RG right 1	19712202	Schlegel et al. 2016	
-4785242	AF3 thermo 3rd left	19712202	Schlegel et al. 2016	
-4780447	A26f_a3l	19712202	Schlegel et al. 2016	
-4641120	PaN Hugin Input 6 - paired with 1 - gap crossings unfinished	19712202	Schlegel et al. 2016	
-4595609	pCC a1l	19712202	Schlegel et al. 2016	
-4523803	DMS 2 left	19712202	Schlegel et al. 2016	
-2659386	DMS 1 right	19712202	Schlegel et al. 2016	
-4523584	DMS 1 left	19712202	Schlegel et al. 2016	
-4453485	IPC 4 left	19712202	Schlegel et al. 2016	
-4400767	DH44 2 left	19712202	Schlegel et al. 2016	
-4364826	Grumpy_left	19712202	Schlegel et al. 2016	
-4363883	v'td_a3l (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-4284106	Holder_left	19712202	Schlegel et al. 2016	
 4179669	A26g_a2l	19712202	Schlegel et al. 2016	
+4284106	Holder_left	19712202	Schlegel et al. 2016	
+4363883	v'td_a3l (Abdominal Sensory)	19712202	Schlegel et al. 2016	
+4364826	Grumpy_left	19712202	Schlegel et al. 2016	
+4400767	DH44 2 left	19712202	Schlegel et al. 2016	
+4453485	IPC 4 left	19712202	Schlegel et al. 2016	
 4506509	IPC 6 left	19712202	Schlegel et al. 2016	
-2632168	neuron 2632169	19712202	Schlegel et al. 2016	
-2622540	A01?_a4r	19712202	Schlegel et al. 2016	
+4523584	DMS 1 left	19712202	Schlegel et al. 2016	
+4523803	DMS 2 left	19712202	Schlegel et al. 2016	
 2622502	Projection Neuron right - Type I - paired with #8010889	19712202	Schlegel et al. 2016	
-1429969	AN-L-Sens-B1-AVa-20	19712202	Schlegel et al. 2016	
-1428271	AN-L-Sens-B1-AVa-22	19712202	Schlegel et al. 2016	
-1414206	AN-L-Sens-B1-AVa-16	19712202	Schlegel et al. 2016	
-1406463	AN-L-Sens-B1-ACa-14	19712202	Schlegel et al. 2016	
-1405493	AN-L-Sens-B1-ACa-09	19712202	Schlegel et al. 2016	
-3598000	DPMm1 Brain descending into VNC 2 right	19712202	Schlegel et al. 2016	
-1435466	AN-L-Sens-B1-AVa-21	19712202	Schlegel et al. 2016	
-1398253	AN-L-Sens-B1-ACa-05	19712202	Schlegel et al. 2016	
-1377586	AN-L-Sens-B1-ACa-07	19712202	Schlegel et al. 2016	
-1375101	AN-L-Sens-B1-AVa-17	19712202	Schlegel et al. 2016	
-1367171	AN-L-Sens-B1-ACa-04	19712202	Schlegel et al. 2016	
-864517	SOG Neuron into Thoracic - gap crossing unfinished	19712202	Schlegel et al. 2016	
-40152	AN-L-Sens-B1-ACa-10	19712202	Schlegel et al. 2016	
-3595837	DPMm1 Brain descending into VNC right	19712202	Schlegel et al. 2016	
-1395971	AN-L-Sens-B1-ACa-11	19712202	Schlegel et al. 2016	
-5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	19712202	Schlegel et al. 2016	
-1706716	AN-L-Sens-B2-ACp-19	19712202	Schlegel et al. 2016	
-2138427	hugin-RG left 1	19712202	Schlegel et al. 2016	
+4595609	pCC a1l	19712202	Schlegel et al. 2016	
 2620299	Premotor for PaN + MN - paired with #10885848?	19712202	Schlegel et al. 2016	
-2619764	neuron - paired with #6796532	19712202	Schlegel et al. 2016	
 2613540	hugin-VNC left 1	19712202	Schlegel et al. 2016	
-2613532	hugin-VNC left 2	19712202	Schlegel et al. 2016	
-2606279	hugin-PH left 2	19712202	Schlegel et al. 2016	
-2597151	AF5: Short-presynaptic-D-1R	19712202	Schlegel et al. 2016	
+3595837	DPMm1 Brain descending into VNC right	19712202	Schlegel et al. 2016	
+3598000	DPMm1 Brain descending into VNC 2 right	19712202	Schlegel et al. 2016	
+40152	AN-L-Sens-B1-ACa-10	19712202	Schlegel et al. 2016	
+864517	SOG Neuron into Thoracic - gap crossing unfinished	19712202	Schlegel et al. 2016	
+1367171	AN-L-Sens-B1-ACa-04	19712202	Schlegel et al. 2016	
+1375101	AN-L-Sens-B1-AVa-17	19712202	Schlegel et al. 2016	
+1377586	AN-L-Sens-B1-ACa-07	19712202	Schlegel et al. 2016	
+1395971	AN-L-Sens-B1-ACa-11	19712202	Schlegel et al. 2016	
+1398253	AN-L-Sens-B1-ACa-05	19712202	Schlegel et al. 2016	
+1405493	AN-L-Sens-B1-ACa-09	19712202	Schlegel et al. 2016	
+1406463	AN-L-Sens-B1-ACa-14	19712202	Schlegel et al. 2016	
+1414206	AN-L-Sens-B1-AVa-16	19712202	Schlegel et al. 2016	
+1428271	AN-L-Sens-B1-AVa-22	19712202	Schlegel et al. 2016	
+1429969	AN-L-Sens-B1-AVa-20	19712202	Schlegel et al. 2016	
+1435466	AN-L-Sens-B1-AVa-21	19712202	Schlegel et al. 2016	
+1706716	AN-L-Sens-B2-ACp-19	19712202	Schlegel et al. 2016	
 1711076	A26f_a3r	19712202	Schlegel et al. 2016	
-2456826	AN-R-Sens-B1-ACa-01	19712202	Schlegel et al. 2016	
-2357110	IPC 6 right	19712202	Schlegel et al. 2016	
-2355126	IPC 7 right	19712202	Schlegel et al. 2016	
-2340336	AN-R-Sens-B1-ACa-02	19712202	Schlegel et al. 2016	
-2284021	AN-L-Sens-B1-ACa-01	19712202	Schlegel et al. 2016	
-2283495	IPC 3 right	19712202	Schlegel et al. 2016	
+2138427	hugin-RG left 1	19712202	Schlegel et al. 2016	
 2260755	DH44 1 right	19712202	Schlegel et al. 2016	
+2283495	IPC 3 right	19712202	Schlegel et al. 2016	
+2284021	AN-L-Sens-B1-ACa-01	19712202	Schlegel et al. 2016	
+2340336	AN-R-Sens-B1-ACa-02	19712202	Schlegel et al. 2016	
+2355126	IPC 7 right	19712202	Schlegel et al. 2016	
+2357110	IPC 6 right	19712202	Schlegel et al. 2016	
 2369444	Z: contra_left 	19712202	Schlegel et al. 2016	
-12634154	IPC 3 left	19712202	Schlegel et al. 2016	
-5311299	T1r Ascending into PC_right	19712202	Schlegel et al. 2016	
-5378683	T1l Ascending into PC_left	19712202	Schlegel et al. 2016	
-3594705	hugin-VNC right 2	19712202	Schlegel et al. 2016	
+2456826	AN-R-Sens-B1-ACa-01	19712202	Schlegel et al. 2016	
+2597151	AF5: Short-presynaptic-D-1R	19712202	Schlegel et al. 2016	
+2606279	hugin-PH left 2	19712202	Schlegel et al. 2016	
+2613532	hugin-VNC left 2	19712202	Schlegel et al. 2016	
+2619764	neuron - paired with #6796532	19712202	Schlegel et al. 2016	
+4641120	PaN Hugin Input 6 - paired with 1 - gap crossings unfinished	19712202	Schlegel et al. 2016	
+4780447	A26f_a3l	19712202	Schlegel et al. 2016	
+4785242	AF3 thermo 3rd left	19712202	Schlegel et al. 2016	
+8748462	A26f_a2l	19712202	Schlegel et al. 2016	
+9319255	A01?_a4l	19712202	Schlegel et al. 2016	
+9455820	Sweetness Right 130521_Cand1_OSN2_IN5 Bilateral	19712202	Schlegel et al. 2016	
+9503203	v'td_a4r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
+9563254	A01?_a8r	19712202	Schlegel et al. 2016	
+9716858	AN-R-Sens-B1-AVa-19	19712202	Schlegel et al. 2016	
+9748269	AN-R-Sens-B1-AVa-18	19712202	Schlegel et al. 2016	
+9748579	hugin-PC right 3	19712202	Schlegel et al. 2016	
 9748981	Moggy_right	19712202	Schlegel et al. 2016	
 9758503	Holder_right	19712202	Schlegel et al. 2016	
 9787565	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276	19712202	Schlegel et al. 2016	
@@ -627,94 +620,74 @@ skid	name	paper_id	paper_name	FBbt_ID
 10119916	Z: contra_right	19712202	Schlegel et al. 2016	
 10329208	IPC 1 left	19712202	Schlegel et al. 2016	
 10418394	DH44 1 left	19712202	Schlegel et al. 2016	
-11874130	v'td-2_a1l	19712202	Schlegel et al. 2016	
-11868260	Angler_right	19712202	Schlegel et al. 2016	
-11734960	A00g_t1	19712202	Schlegel et al. 2016	
-11517136	A01?_a8l	19712202	Schlegel et al. 2016	
-11291634	Midline Projection Neuron  - paired with #7340664	19712202	Schlegel et al. 2016	
-11291344	v'td_a5r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-9748579	hugin-PC right 3	19712202	Schlegel et al. 2016	
-11121240	A00g_a3 ?	19712202	Schlegel et al. 2016	
-10868477	v'td-2_a1r	19712202	Schlegel et al. 2016	
-10852875	v'td_a2r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-10728318	DPMm1 Brain descending into VNC 2 left	19712202	Schlegel et al. 2016	
-10716080	DPMm1 Brain descending into VNC left	19712202	Schlegel et al. 2016	
-10563755	DH44 3 left	19712202	Schlegel et al. 2016	
 10459723	IPC 2 left	19712202	Schlegel et al. 2016	
-10885848	T1 Local Interneuron - paired with #2620299? a27l t2?	19712202	Schlegel et al. 2016	
-9748269	AN-R-Sens-B1-AVa-18	19712202	Schlegel et al. 2016	
-9716858	AN-R-Sens-B1-AVa-19	19712202	Schlegel et al. 2016	
-9563254	A01?_a8r	19712202	Schlegel et al. 2016	
-6795358	hugin-VNC right 1	19712202	Schlegel et al. 2016	
-6445994	Pre PMN L	19712202	Schlegel et al. 2016	
-5860970	A23f2 (= Pre-goro9)_a3r	19712202	Schlegel et al. 2016	
-5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	19712202	Schlegel et al. 2016	
-5644800	T1l descending 	19712202	Schlegel et al. 2016	
-5617164	v'td-2_a2l	19712202	Schlegel et al. 2016	
-6796532	neuron - paired with #2619764	19712202	Schlegel et al. 2016	
-5615961	hugin-RG left 2	19712202	Schlegel et al. 2016	
-5613144	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016	
-5607156	A26x_a4r	19712202	Schlegel et al. 2016	
-5601924	hugin-RG right 2	19712202	Schlegel et al. 2016	
-5500958	Coaster (NPF) 2 right	19712202	Schlegel et al. 2016	
-5404887	Happy Left 	19712202	Schlegel et al. 2016	
-5382876	v'td_a3r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-5614978	T1l asc contra 01	19712202	Schlegel et al. 2016	
-5349961	Happy Right 	19712202	Schlegel et al. 2016	
-6802553	T1l asc contra 02	19712202	Schlegel et al. 2016	
-7136254	Moggy_left	19712202	Schlegel et al. 2016	
-9503203	v'td_a4r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-9455820	Sweetness Right 130521_Cand1_OSN2_IN5 Bilateral	19712202	Schlegel et al. 2016	
-9319255	A01?_a4l	19712202	Schlegel et al. 2016	
-8748462	A26f_a2l	19712202	Schlegel et al. 2016	
+10563755	DH44 3 left	19712202	Schlegel et al. 2016	
+10716080	DPMm1 Brain descending into VNC left	19712202	Schlegel et al. 2016	
+10728318	DPMm1 Brain descending into VNC 2 left	19712202	Schlegel et al. 2016	
+10852875	v'td_a2r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
 8010889	Projection Neuron left - Type I - paired with #2622502	19712202	Schlegel et al. 2016	
+3594705	hugin-VNC right 2	19712202	Schlegel et al. 2016	
 8008617	T1r descending	19712202	Schlegel et al. 2016	
-6883831	AN-R-Sens-B1-AVa-16	19712202	Schlegel et al. 2016	
 8005609	v'td_a2l (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-7381964	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016	
-7340664	Midline Projection Neuron _ a3l	19712202	Schlegel et al. 2016	
-7340629	v'td_a6l (Abdominal Sensory)	19712202	Schlegel et al. 2016	
-7338309	DPMpl12 Brain into SEZ left	19712202	Schlegel et al. 2016	
-7331555	v'td_a6r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
+5038703	hugin-RG right 1	19712202	Schlegel et al. 2016	
+5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	19712202	Schlegel et al. 2016	
+5311299	T1r Ascending into PC_right	19712202	Schlegel et al. 2016	
+5349961	Happy Right 	19712202	Schlegel et al. 2016	
+5378683	T1l Ascending into PC_left	19712202	Schlegel et al. 2016	
+5382876	v'td_a3r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
+5404887	Happy Left 	19712202	Schlegel et al. 2016	
+5500958	Coaster (NPF) 2 right	19712202	Schlegel et al. 2016	
+5601924	hugin-RG right 2	19712202	Schlegel et al. 2016	
+5607156	A26x_a4r	19712202	Schlegel et al. 2016	
+5613144	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016	
+5614978	T1l asc contra 01	19712202	Schlegel et al. 2016	
+5615961	hugin-RG left 2	19712202	Schlegel et al. 2016	
+5617164	v'td-2_a2l	19712202	Schlegel et al. 2016	
+10885848	T1 Local Interneuron - paired with #2620299? a27l t2?	19712202	Schlegel et al. 2016	
+5644800	T1l descending 	19712202	Schlegel et al. 2016	
+5860970	A23f2 (= Pre-goro9)_a3r	19712202	Schlegel et al. 2016	
+6445994	Pre PMN L	19712202	Schlegel et al. 2016	
+6795358	hugin-VNC right 1	19712202	Schlegel et al. 2016	
+6796532	neuron - paired with #2619764	19712202	Schlegel et al. 2016	
+6802553	T1l asc contra 02	19712202	Schlegel et al. 2016	
+6883831	AN-R-Sens-B1-AVa-16	19712202	Schlegel et al. 2016	
+7136254	Moggy_left	19712202	Schlegel et al. 2016	
 7165165	Medial Unpaired T3?	19712202	Schlegel et al. 2016	
+7331555	v'td_a6r (Abdominal Sensory)	19712202	Schlegel et al. 2016	
+7338309	DPMpl12 Brain into SEZ left	19712202	Schlegel et al. 2016	
+7340629	v'td_a6l (Abdominal Sensory)	19712202	Schlegel et al. 2016	
+7340664	Midline Projection Neuron _ a3l	19712202	Schlegel et al. 2016	
+7381964	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016	
 7557604	L1: Short-presynapticD-3-L	19712202	Schlegel et al. 2016	
-3192952	AN-R-Sens-B2-AVa-25	19712202	Schlegel et al. 2016	
-13302529	A18f?_a3r	19712396	Fushiki et al. 2016	
-12949240	T01d4_t3l	19712396	Fushiki et al. 2016	
+5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	19712202	Schlegel et al. 2016	
+3158085	AF5: Short-presynaptic-D-1L	19712202	Schlegel et al. 2016	
+12873914	A27e_a1l	19712396	Fushiki et al. 2016	
 13095126	A31f_a1l?	19712396	Fushiki et al. 2016	
 12946254	A03 12946255	19712396	Fushiki et al. 2016	
 12901480	a03d/e_a3l	19712396	Fushiki et al. 2016	
 12900705	A03ax_a2l	19712396	Fushiki et al. 2016	
-12873914	A27e_a1l	19712396	Fushiki et al. 2016	
 12873722	A31d_a1r	19712396	Fushiki et al. 2016	
 12834795	A14b a1r	19712396	Fushiki et al. 2016	
 12820085	A14b a1l	19712396	Fushiki et al. 2016	
 12809874	feagment	19712396	Fushiki et al. 2016	
+12949240	T01d4_t3l	19712396	Fushiki et al. 2016	
 12809152	A31d_a1l	19712396	Fushiki et al. 2016	
-12787696	A01b2_a1r	19712396	Fushiki et al. 2016	
 12778086	A18b3_a2l	19712396	Fushiki et al. 2016	
 12643185	A03a4_a3l	19712396	Fushiki et al. 2016	
 12140925	A01a_a1l	19712396	Fushiki et al. 2016	
 10492631	A05a_t3r	19712396	Fushiki et al. 2016	
-10492185	vdaA_a1l (class II)	19712396	Fushiki et al. 2016	
-10474991	A00g_a2	19712396	Fushiki et al. 2016	
-10414725	A27h_a2l	19712396	Fushiki et al. 2016	
-10398171	A27h_a1r	19712396	Fushiki et al. 2016	
+18418512	Saaghi-1_a1l (AAZ1 (A06l))	19712396	Fushiki et al. 2016	
+18427863	A05a_t3l	19712396	Fushiki et al. 2016	
+20575657	T03g_t3r	19712396	Fushiki et al. 2016	
+12787696	A01b2_a1r	19712396	Fushiki et al. 2016	
+17435371	Saaghi-1_a1r (AAZ1 (A06l))	19712396	Fushiki et al. 2016	
 13121967	A18b3_a2r	19712396	Fushiki et al. 2016	
 13122056	A00g_a1  (RF: assym)	19712396	Fushiki et al. 2016	
-13124815	vdaA_a1r (class II)	19712396	Fushiki et al. 2016	
-13522678	A05a_a1L	19712396	Fushiki et al. 2016	
-20575657	T03g_t3r	19712396	Fushiki et al. 2016	
-18427863	A05a_t3l	19712396	Fushiki et al. 2016	
-18418512	Saaghi-1_a1l (AAZ1 (A06l))	19712396	Fushiki et al. 2016	
-17435371	Saaghi-1_a1r (AAZ1 (A06l))	19712396	Fushiki et al. 2016	
-17114293	A27k_up_a1l	19712396	Fushiki et al. 2016	
-17077342	A27e_a1r	19712396	Fushiki et al. 2016	
 16274373	A02j Looper-10_a2l_pre-motor	19712396	Fushiki et al. 2016	
 16257962	A03a6_a1r	19712396	Fushiki et al. 2016	
 16066985	A27a_a1l	19712396	Fushiki et al. 2016	
-10376512	A27h_a2r	19712396	Fushiki et al. 2016	
 15565587	neuron 15565588	19712396	Fushiki et al. 2016	
+15504376	A27j2_a1r_GABA	19712396	Fushiki et al. 2016	
 15504369	A27j2_a1l_GABA	19712396	Fushiki et al. 2016	
 14913093	A08s1_a1r	19712396	Fushiki et al. 2016	
 14046472	A12b?_a1r	19712396	Fushiki et al. 2016	
@@ -724,12 +697,15 @@ skid	name	paper_id	paper_name	FBbt_ID
 14046245	A27a_a1r	19712396	Fushiki et al. 2016	
 13545404	neuron 13545405	19712396	Fushiki et al. 2016	
 13525684	A03a4_a3r	19712396	Fushiki et al. 2016	
-15504376	A27j2_a1r_GABA	19712396	Fushiki et al. 2016	
-10227539	crescent a1r	19712396	Fushiki et al. 2016	
-10492059	A31f_a1r?	19712396	Fushiki et al. 2016	
-10133525	A14 dude?_a1r	19712396	Fushiki et al. 2016	
+13522678	A05a_a1L	19712396	Fushiki et al. 2016	
+13302529	A18f?_a3r	19712396	Fushiki et al. 2016	
+13124815	vdaA_a1r (class II)	19712396	Fushiki et al. 2016	
+17077342	A27e_a1r	19712396	Fushiki et al. 2016	
+10492185	vdaA_a1l (class II)	19712396	Fushiki et al. 2016	
+17114293	A27k_up_a1l	19712396	Fushiki et al. 2016	
+10474991	A00g_a2	19712396	Fushiki et al. 2016	
 8039617	A08e3_a1r	19712396	Fushiki et al. 2016	
-10223572	A27h_a1l	19712396	Fushiki et al. 2016	
+7987962	T03g2?_t3r 	19712396	Fushiki et al. 2016	
 7926496	A02j Looper-10_a2r_pre-motor	19712396	Fushiki et al. 2016	
 7924478	A01b2_a1l 	19712396	Fushiki et al. 2016	
 7808341	crescent a1l_JMpair 1 A08s upstream	19712396	Fushiki et al. 2016	
@@ -750,28 +726,34 @@ skid	name	paper_id	paper_name	FBbt_ID
 3365860	A02j Looper-10_a3l	19712396	Fushiki et al. 2016	
 4990880	A05k_a1l	19712396	Fushiki et al. 2016	
 8257688	A27p a1r	19712396	Fushiki et al. 2016	
-7987962	T03g2?_t3r 	19712396	Fushiki et al. 2016	
-10017073	A27k_up_a1r	19712396	Fushiki et al. 2016	
 8421329	A08e3_a1l 	19712396	Fushiki et al. 2016	
-10004243	A27k_a1r	19712396	Fushiki et al. 2016	
-9976875	A27p a1l	19712396	Fushiki et al. 2016	
 9544992	A01x3_a1l	19712396	Fushiki et al. 2016	
-10089193	A03a6_a1l 	19712396	Fushiki et al. 2016	
-10089252	A03x_a2l (EGHBAL)	19712396	Fushiki et al. 2016	
+10414725	A27h_a2l	19712396	Fushiki et al. 2016	
+10398171	A27h_a1r	19712396	Fushiki et al. 2016	
+10376512	A27h_a2r	19712396	Fushiki et al. 2016	
+10492059	A31f_a1r?	19712396	Fushiki et al. 2016	
+10223572	A27h_a1l	19712396	Fushiki et al. 2016	
+10133525	A14 dude?_a1r	19712396	Fushiki et al. 2016	
 10089445	Saaghi-1_a2r (AAZ1 (A06l))	19712396	Fushiki et al. 2016	
+10227539	crescent a1r	19712396	Fushiki et al. 2016	
+10089193	A03a6_a1l 	19712396	Fushiki et al. 2016	
 10053734	vdaC_a1r (class II)	19712396	Fushiki et al. 2016	
 10053304	A05k_a1r	19712396	Fushiki et al. 2016	
+10017073	A27k_up_a1r	19712396	Fushiki et al. 2016	
+10004243	A27k_a1r	19712396	Fushiki et al. 2016	
+9976875	A27p a1l	19712396	Fushiki et al. 2016	
+10089252	A03x_a2l (EGHBAL)	19712396	Fushiki et al. 2016	
+5904833	A03a5_a1l	19716589	Takagi et al. 2017	
 5297998	A03a5_a1r	19716589	Takagi et al. 2017	
 4791651	MN6/7 RP3_a2r	19716589	Takagi et al. 2017	
 4514711	putative md class III/IV_t2l	19716589	Takagi et al. 2017	
 3952743	putative md III/IV_t1l	19716589	Takagi et al. 2017	
-3931434	MN1 aCC_a3l	19716589	Takagi et al. 2017	
 1931981	T19v_t1r	19716589	Takagi et al. 2017	
 918889	A02o_a1l Wave-1	19716589	Takagi et al. 2017	
-5904833	A03a5_a1l	19716589	Takagi et al. 2017	
-13885023	MN ISN MN_a2l (U4/U5)	19716589	Takagi et al. 2017	
-8342582	swallowtail_t2r	19716589	Takagi et al. 2017	
+3931434	MN1 aCC_a3l	19716589	Takagi et al. 2017	
 13874213	MN30 RP4_a2l	19716589	Takagi et al. 2017	
+8342582	swallowtail_t2r	19716589	Takagi et al. 2017	
+360861	Pre-goro6 right	19716589	Takagi et al. 2017	
 16306343	md class IV? t1l	19716589	Takagi et al. 2017	
 16264802	MN6/7 RP3_a2l	19716589	Takagi et al. 2017	
 16100981	Pre-swallowtail1 right	19716589	Takagi et al. 2017	
@@ -779,9 +761,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 14472972	T07u_t2r	19716589	Takagi et al. 2017	
 14194703	MN13 ISN MN-VL2_a1r	19716589	Takagi et al. 2017	
 14194234	MN30 RP4_a1l	19716589	Takagi et al. 2017	
-6724973	goro-like t1r	19716589	Takagi et al. 2017	
 14087107	MN30 RP4_a1r	19716589	Takagi et al. 2017	
-360861	Pre-goro6 right	19716589	Takagi et al. 2017	
+13885023	MN ISN MN_a2l (U4/U5)	19716589	Takagi et al. 2017	
+6724973	goro-like t1r	19716589	Takagi et al. 2017	
 360668	putative MD III/IV_T1r	19716589	Takagi et al. 2017	
 3942269	MN1 aCC_a3r	19716589	Takagi et al. 2017	
 13875211	MN2? ISN MN (U3?-MN2- NB7-1?)_a2r	19716589	Takagi et al. 2017	
@@ -802,7 +784,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 4326468	MN8 (RF:SBM) LT3_a1l	19756504	Heckscher et al. 2015	
 4050398	SN motor neuron a1l	19756504	Heckscher et al. 2015	
 4101976	MN27 (SN MN VA2)_a1r	19756504	Heckscher et al. 2015	
-15505125	ddaE_t3l	19756504	Heckscher et al. 2015	
+14087107	MN30 RP4_a1r	19756504	Heckscher et al. 2015	
 4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	19756504	Heckscher et al. 2015	
 4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	19756504	Heckscher et al. 2015	
 4271519	SN motor neuron a1l ventral dendrite	19756504	Heckscher et al. 2015	
@@ -816,7 +798,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 4326520	MN27 (SN MN VA2)_a1l	19756504	Heckscher et al. 2015	
 4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	19756504	Heckscher et al. 2015	
 4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	19756504	Heckscher et al. 2015	
-15551560	dmd1_a1r_JMpair3	19756504	Heckscher et al. 2015	
+14087339	MN4 (ISN U5 NB7-1?)_a1l	19756504	Heckscher et al. 2015	
 4881629	MN8 (RF:SBM) LT3_a1r 	19756504	Heckscher et al. 2015	
 13882192	MN ISN MN_a2l [MN-VL2 (13)?]	19756504	Heckscher et al. 2015	
 13883598	MN10U2_a2l	19756504	Heckscher et al. 2015	
@@ -855,6 +837,26 @@ skid	name	paper_id	paper_name	FBbt_ID
 14048287	MN2 ISN(U3-NB7-1?)_a1r	19756504	Heckscher et al. 2015	
 14048538	MN15/16 VO4/5 (NB7-1? ISN)_a1r	19756504	Heckscher et al. 2015	
 14048876	MN28 ISN_a1r	19756504	Heckscher et al. 2015	
+14573136	dbd_t3r_JMpair5	19756504	Heckscher et al. 2015	
+14493979	vbd_a1r	19756504	Heckscher et al. 2015	
+14478517	MN6/7 RP3_a1l	19756504	Heckscher et al. 2015	
+14238853	MN6/7 RP3_a1r	19756504	Heckscher et al. 2015	
+14206438	MN14 RP1_a1r	19756504	Heckscher et al. 2015	
+14203725	MN15/16 VO4/5 (NB7-1? ISN)_a1l	19756504	Heckscher et al. 2015	
+14201007	A08e1_a2r	19756504	Heckscher et al. 2015	
+14199565	MNISNb/d-Is RP5_a1r	19756504	Heckscher et al. 2015	
+14199031	MN18 (ISN DT1)_a1l	19756504	Heckscher et al. 2015	
+14198375	ISN MN_a1r	19756504	Heckscher et al. 2015	
+14194703	MN13 ISN MN-VL2_a1r	19756504	Heckscher et al. 2015	
+14194234	MN30 RP4_a1l	19756504	Heckscher et al. 2015	
+14194026	MN ISN MN_a1r    R only 	19756504	Heckscher et al. 2015	
+14088451	MN11 (ISN NB3-2)_a1l	19756504	Heckscher et al. 2015	
+14088149	MN3 (ISN U4 DA3 NB7-1?)_a1l 	19756504	Heckscher et al. 2015	
+15351530	ddaD_a2r	19756504	Heckscher et al. 2015	
+12825902	Neuron 20725668	19756504	Heckscher et al. 2015	
+15505125	ddaE_t3l	19756504	Heckscher et al. 2015	
+15625865	Saaghi-3_a2r (AAZ3 (A06e))	19756504	Heckscher et al. 2015	
+14085813	MN9 U1_a1l	19756504	Heckscher et al. 2015	
 19139253	MN15/16/17 VO4–6 (NB7-1? )_a1l	19756504	Heckscher et al. 2015	
 19111930	MN13 ISN MN-VL2_a1l 	19756504	Heckscher et al. 2015	
 18514164	Saaghi-3_a2l (AAZ3 (A06e))	19756504	Heckscher et al. 2015	
@@ -869,27 +871,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 16042164	SN motor neuron a1r bilateral	19756504	Heckscher et al. 2015	
 16009772	A08c_a1l	19756504	Heckscher et al. 2015	
 15879188	A08e2_a2r	19756504	Heckscher et al. 2015	
-15625865	Saaghi-3_a2r (AAZ3 (A06e))	19756504	Heckscher et al. 2015	
-15351530	ddaD_a2r	19756504	Heckscher et al. 2015	
-12825902	Neuron 20725668	19756504	Heckscher et al. 2015	
-14573136	dbd_t3r_JMpair5	19756504	Heckscher et al. 2015	
-14478517	MN6/7 RP3_a1l	19756504	Heckscher et al. 2015	
-14085813	MN9 U1_a1l	19756504	Heckscher et al. 2015	
-14086309	MN19 (ISN NB3-2)_a1l	19756504	Heckscher et al. 2015	
-14087107	MN30 RP4_a1r	19756504	Heckscher et al. 2015	
-14087339	MN4 (ISN U5 NB7-1?)_a1l	19756504	Heckscher et al. 2015	
-14088149	MN3 (ISN U4 DA3 NB7-1?)_a1l 	19756504	Heckscher et al. 2015	
-14088451	MN11 (ISN NB3-2)_a1l	19756504	Heckscher et al. 2015	
-14194026	MN ISN MN_a1r    R only 	19756504	Heckscher et al. 2015	
-14194234	MN30 RP4_a1l	19756504	Heckscher et al. 2015	
-14194703	MN13 ISN MN-VL2_a1r	19756504	Heckscher et al. 2015	
-14198375	ISN MN_a1r	19756504	Heckscher et al. 2015	
-14199031	MN18 (ISN DT1)_a1l	19756504	Heckscher et al. 2015	
-14201007	A08e1_a2r	19756504	Heckscher et al. 2015	
-14203725	MN15/16 VO4/5 (NB7-1? ISN)_a1l	19756504	Heckscher et al. 2015	
-14206438	MN14 RP1_a1r	19756504	Heckscher et al. 2015	
-14238853	MN6/7 RP3_a1r	19756504	Heckscher et al. 2015	
-14493979	vbd_a1r	19756504	Heckscher et al. 2015	
+15551560	dmd1_a1r_JMpair3	19756504	Heckscher et al. 2015	
 4535767	MN5 LO1_a1r	19756504	Heckscher et al. 2015	
 12809923	A08e2_a1l	19756504	Heckscher et al. 2015	
 11928389	Jaam-3_a1l (HMD3 (A12 c3))	19756504	Heckscher et al. 2015	
@@ -924,7 +906,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 5085455	MN20 ISN_a1r	19756504	Heckscher et al. 2015	
 10649843	MN1 aCC_a1l	19756504	Heckscher et al. 2015	
 11958584	Saaghi-3_a1r (AAZ3 (A06e))	19756504	Heckscher et al. 2015	
-14199565	MNISNb/d-Is RP5_a1r	19756504	Heckscher et al. 2015	
+14086309	MN19 (ISN NB3-2)_a1l	19756504	Heckscher et al. 2015	
 11578922	vpda classI md?_t3l	19756504	Heckscher et al. 2015	
 11466247	Jaam-2_a1l (HMD2 (A12g))	19756504	Heckscher et al. 2015	
 11321644	neuron 11321645 frag run into a1 neuron	19756504	Heckscher et al. 2015	
@@ -1023,8 +1005,8 @@ skid	name	paper_id	paper_name	FBbt_ID
 4717261	A02o_a2r Wave-1	19862922	Burgos et al 2018	
 2558717	TePn05 classIV-related projection C right	19862922	Burgos et al 2018	
 627858	A09e_a4r	19862922	Burgos et al 2018	
-2693767	A09l_a3l Down-and-back-1	19862922	Burgos et al 2018	
 722935	ddaA a1l classs III md	19862922	Burgos et al 2018	
+2693767	A09l_a3l Down-and-back-1	19862922	Burgos et al 2018	
 754774	A02o_a6l Wave-1	19862922	Burgos et al 2018	
 888730	A09a_a3r Basin-2	19862922	Burgos et al 2018	
 918889	A02o_a1l Wave-1	19862922	Burgos et al 2018	
@@ -1034,43 +1016,44 @@ skid	name	paper_id	paper_name	FBbt_ID
 1378190	A09l_a3r Down-and-back-1	19862922	Burgos et al 2018	
 1401061	A02o_a5r Wave-1	19862922	Burgos et al 2018	
 1370785	A09e_a5l	19862922	Burgos et al 2018	
+1815127	A09c_a3l Basin-4	19862922	Burgos et al 2018	
 1702280	A09l_a4r Down-and-back-1	19862922	Burgos et al 2018	
 2370290	A09e_a5r	19862922	Burgos et al 2018	
-1815127	A09c_a3l Basin-4	19862922	Burgos et al 2018	
-15690093	MN-L-Sens-B2-ACp-09	20282757	Miroschnikow et al. 2018	
-15715643	MN-L-Sens-B2-ACp-04	20282757	Miroschnikow et al. 2018	
+15690392	MN-L-Sens-B2-VM-11	20282757	Miroschnikow et al. 2018	
 15715796	MN-L-Sens-B2-VM-04	20282757	Miroschnikow et al. 2018	
 15716094	MN-L-Sens-B2-ACp-05	20282757	Miroschnikow et al. 2018	
 15716127	MN-L-Sens-B2-ACp-13	20282757	Miroschnikow et al. 2018	
+15716309	MN-L-Sens-B2-ACp-03	20282757	Miroschnikow et al. 2018	
 15716934	MN-L-Sens-B2-ACpl-02 (Awesome MN sensory 1)	20282757	Miroschnikow et al. 2018	
-15716701	MN-L-Sens-B2-ACp-02	20282757	Miroschnikow et al. 2018	
 15717229	MN-L-Sens-B2-VM-15	20282757	Miroschnikow et al. 2018	
 15717426	MN-L-Sens-B2-AVp-02	20282757	Miroschnikow et al. 2018	
 15717736	MN-L-Sens-B3-ACp-05	20282757	Miroschnikow et al. 2018	
 15717935	MN-L-Sens-B3-ACpl-07	20282757	Miroschnikow et al. 2018	
 15718275	MN-L-Sens-B3-ACp-06 (J Neuron)	20282757	Miroschnikow et al. 2018	
-15716309	MN-L-Sens-B2-ACp-03	20282757	Miroschnikow et al. 2018	
-15715151	MN-L-Sens-B2-VM-01	20282757	Miroschnikow et al. 2018	
-15714330	MN-L-Sens-B1-VM-03	20282757	Miroschnikow et al. 2018	
+15723479	MN-L-Sens-B3-AVp-02	20282757	Miroschnikow et al. 2018	
+15716701	MN-L-Sens-B2-ACp-02	20282757	Miroschnikow et al. 2018	
+15715643	MN-L-Sens-B2-ACp-04	20282757	Miroschnikow et al. 2018	
 15714639	MN-L-Sens-B2-ACpl-01 (Awesome MN sensory 2)	20282757	Miroschnikow et al. 2018	
+15714845	MN-L-Sens-B2-VM-10	20282757	Miroschnikow et al. 2018	
+15714330	MN-L-Sens-B1-VM-03	20282757	Miroschnikow et al. 2018	
 15714173	MN-L-Sens-B1-VM-05	20282757	Miroschnikow et al. 2018	
 15713374	MN-L-Sens-B2-VM-17	20282757	Miroschnikow et al. 2018	
-15713206	MN-L-Sens-B2-VM-18	20282757	Miroschnikow et al. 2018	
 15712024	MN-L-Sens-B2-VM-13	20282757	Miroschnikow et al. 2018	
+15711289	MN-L-Sens-B2-VM-16	20282757	Miroschnikow et al. 2018	
 15711222	MN-L-Sens-B2-VM-07	20282757	Miroschnikow et al. 2018	
 15700147	MN-L-Sens-B1-VM-04	20282757	Miroschnikow et al. 2018	
 15699715	MN-L-Sens-B2-VM-23	20282757	Miroschnikow et al. 2018	
 15698623	MN-L-Sens-B1-VM-02	20282757	Miroschnikow et al. 2018	
 15690955	MN-L-Sens-B2-VM-06	20282757	Miroschnikow et al. 2018	
+15723727	MN-L-Sens-B3-ACp-01	20282757	Miroschnikow et al. 2018	
 15690711	MN-L-Sens-B2-VM-14	20282757	Miroschnikow et al. 2018	
-15723479	MN-L-Sens-B3-AVp-02	20282757	Miroschnikow et al. 2018	
-15690392	MN-L-Sens-B2-VM-11	20282757	Miroschnikow et al. 2018	
-15714845	MN-L-Sens-B2-VM-10	20282757	Miroschnikow et al. 2018	
-15711289	MN-L-Sens-B2-VM-16	20282757	Miroschnikow et al. 2018	
-15746421	MN-R-Sens-B2-ACpl-02 (Awesome MN sensory 1)	20282757	Miroschnikow et al. 2018	
-15724175	MN-L-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
+15715151	MN-L-Sens-B2-VM-01	20282757	Miroschnikow et al. 2018	
+15713206	MN-L-Sens-B2-VM-18	20282757	Miroschnikow et al. 2018	
+15748726	AN-R-Sens-B1-AVa-43	20282757	Miroschnikow et al. 2018	
+15724385	MN-L-Sens-B3-AVp-01	20282757	Miroschnikow et al. 2018	
+15982951	AN-L-motor-10	20282757	Miroschnikow et al. 2018	
+15690093	MN-L-Sens-B2-ACp-09	20282757	Miroschnikow et al. 2018	
 15982306	AN-L-Sens-B1-AVa-28	20282757	Miroschnikow et al. 2018	
-15689373	MN-L-Sens-B2-ACp-12	20282757	Miroschnikow et al. 2018	
 15938337	MN-L-Sens-B2-ACp-08	20282757	Miroschnikow et al. 2018	
 15914721	MN-R-Sens-B3-VM-14	20282757	Miroschnikow et al. 2018	
 15770945	AN-L-Sens-B1-AVa-25	20282757	Miroschnikow et al. 2018	
@@ -1085,7 +1068,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 15769419	AN-L-Sens-B1-ACa-08	20282757	Miroschnikow et al. 2018	
 15766999	AN-L-Sens-B1-AVa-38	20282757	Miroschnikow et al. 2018	
 15762568	MN-R-Sens-B2-VM-14	20282757	Miroschnikow et al. 2018	
-15748726	AN-R-Sens-B1-AVa-43	20282757	Miroschnikow et al. 2018	
+15746421	MN-R-Sens-B2-ACpl-02 (Awesome MN sensory 1)	20282757	Miroschnikow et al. 2018	
 15743905	MN-R-Sens-B1-VM-04	20282757	Miroschnikow et al. 2018	
 15736147	MN-R-Sens-B2-ACp-03	20282757	Miroschnikow et al. 2018	
 15730680	MN-L-Sens-B2-VM-20	20282757	Miroschnikow et al. 2018	
@@ -1097,11 +1080,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 15725127	MN-L-Sens-B3-VM-10	20282757	Miroschnikow et al. 2018	
 15724636	MN-L-Sens-B3-VM-08	20282757	Miroschnikow et al. 2018	
 15724520	MN-L-Sens-B3-VM-06	20282757	Miroschnikow et al. 2018	
-15724385	MN-L-Sens-B3-AVp-01	20282757	Miroschnikow et al. 2018	
-15723727	MN-L-Sens-B3-ACp-01	20282757	Miroschnikow et al. 2018	
-15688358	MN-L-Sens-B2-ACp-20	20282757	Miroschnikow et al. 2018	
-15640724	MN-R-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
-15686444	DPlal bilateral 1 left	20282757	Miroschnikow et al. 2018	
+15724175	MN-L-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
+15689373	MN-L-Sens-B2-ACp-12	20282757	Miroschnikow et al. 2018	
+15640893	MN-R-Sens-B3-ACp-03	20282757	Miroschnikow et al. 2018	
+15686512	MN-L-Sens-B2-ACp-14	20282757	Miroschnikow et al. 2018	
+15640425	MN-R-Sens-B3-AVp-03	20282757	Miroschnikow et al. 2018	
 15639548	MN-R-Sens-B3-VM-10	20282757	Miroschnikow et al. 2018	
 15639275	MN-R-Sens-B3-VM-08	20282757	Miroschnikow et al. 2018	
 15639171	MN-R-Sens-B3-ACp-02	20282757	Miroschnikow et al. 2018	
@@ -1130,11 +1113,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 15611642	MN-R-Sens-B2-VM-09	20282757	Miroschnikow et al. 2018	
 15610387	MN-R-Sens-B2-VM-08	20282757	Miroschnikow et al. 2018	
 15609885	MN-R-Sens-B2-ACp-17	20282757	Miroschnikow et al. 2018	
-15609427	MN-R-Sens-B2-?-00	20282757	Miroschnikow et al. 2018	
-15640425	MN-R-Sens-B3-AVp-03	20282757	Miroschnikow et al. 2018	
 15640548	MN-R-Sens-B3-AVp-02	20282757	Miroschnikow et al. 2018	
 15640567	MN-R-Sens-B3-VM-13	20282757	Miroschnikow et al. 2018	
-15982951	AN-L-motor-10	20282757	Miroschnikow et al. 2018	
+15640724	MN-R-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
+15983118	SE0 L2	20282757	Miroschnikow et al. 2018	
+15686444	DPlal bilateral 1 left	20282757	Miroschnikow et al. 2018	
 15681740	MN-L-Sens-B2-ACp-21	20282757	Miroschnikow et al. 2018	
 15681246	Bubsy Left	20282757	Miroschnikow et al. 2018	
 15680710	MN-L-Sens-B2-VM-03	20282757	Miroschnikow et al. 2018	
@@ -1148,9 +1131,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 15677030	MN-L-Sens-B2-VM-05	20282757	Miroschnikow et al. 2018	
 15675901	MN-L-Sens-B2-VM-22	20282757	Miroschnikow et al. 2018	
 15674262	MN-L-Sens-B2-ACp-11 (Olfactory Gustatory connector 2)	20282757	Miroschnikow et al. 2018	
+15688358	MN-L-Sens-B2-ACp-20	20282757	Miroschnikow et al. 2018	
 15674083	MN-L-Sens-B2-VM-02	20282757	Miroschnikow et al. 2018	
-15686512	MN-L-Sens-B2-ACp-14	20282757	Miroschnikow et al. 2018	
-15673925	MN-L-Sens-B2-ACpl-03	20282757	Miroschnikow et al. 2018	
+15673867	MN-L-Sens-B2-ACp-22	20282757	Miroschnikow et al. 2018	
 15672957	MN-R-Sens-B3-VM-12	20282757	Miroschnikow et al. 2018	
 15672153	MN-R-Sens-B3-VM-04	20282757	Miroschnikow et al. 2018	
 15671848	MN-R-Sens-B3-VM-09	20282757	Miroschnikow et al. 2018	
@@ -1164,11 +1147,10 @@ skid	name	paper_id	paper_name	FBbt_ID
 15651438	MN-R-Sens-B2-ACp-22	20282757	Miroschnikow et al. 2018	
 15645825	MN-R-Sens-B3-ACp-06	20282757	Miroschnikow et al. 2018	
 15641926	MN-R-Sens-B3-ACp-01	20282757	Miroschnikow et al. 2018	
-15640893	MN-R-Sens-B3-ACp-03	20282757	Miroschnikow et al. 2018	
-15673867	MN-L-Sens-B2-ACp-22	20282757	Miroschnikow et al. 2018	
-15983118	SE0 L2	20282757	Miroschnikow et al. 2018	
+15673925	MN-L-Sens-B2-ACpl-03	20282757	Miroschnikow et al. 2018	
+15983156	AN-L-Sens-B1-AVa-39	20282757	Miroschnikow et al. 2018	
 15998817	AN-L-Sens-B2-ACp-12	20282757	Miroschnikow et al. 2018	
-15983225	AN-L-Sens-B1-AVa-34	20282757	Miroschnikow et al. 2018	
+15984231	AN-L-Sens-B1-AVa-35	20282757	Miroschnikow et al. 2018	
 17721400	neuron 17721401	20282757	Miroschnikow et al. 2018	
 17718177	AX ; SEZ-IN-A03-right	20282757	Miroschnikow et al. 2018	
 17717854	KS LN 1 left	20282757	Miroschnikow et al. 2018	
@@ -1202,7 +1184,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 17254290	Pre-PMN-R-05	20282757	Miroschnikow et al. 2018	
 17884299	Gustatory PN right	20282757	Miroschnikow et al. 2018	
 18028397	MBE5b right	20282757	Miroschnikow et al. 2018	
-15607180	MN-R-Sens-B2-VM-07	20282757	Miroschnikow et al. 2018	
+15609427	MN-R-Sens-B2-?-00	20282757	Miroschnikow et al. 2018	
 20152212	Neuron 20152213	20282757	Miroschnikow et al. 2018	
 19912140	T1r asc contra 02	20282757	Miroschnikow et al. 2018	
 19816278	NPF-like 1 right	20282757	Miroschnikow et al. 2018	
@@ -1232,9 +1214,10 @@ skid	name	paper_id	paper_name	FBbt_ID
 18231999	AN-R-Sens-B1-AVa-45	20282757	Miroschnikow et al. 2018	
 18225324	Neuron 18225325	20282757	Miroschnikow et al. 2018	
 17951153	AN-R-Sens-B1-AVa-32	20282757	Miroschnikow et al. 2018	
+15983225	AN-L-Sens-B1-AVa-34	20282757	Miroschnikow et al. 2018	
 17254278	Pre-PMN-L-08	20282757	Miroschnikow et al. 2018	
-17248923	AN-R-motor-05	20282757	Miroschnikow et al. 2018	
 17225493	fork of GPhN (left) former SEZ IN - unfinished	20282757	Miroschnikow et al. 2018	
+15998768	AN-L-Sens-B2-ACp-09	20282757	Miroschnikow et al. 2018	
 15998753	AN-L-Sens-B2-AVa-25	20282757	Miroschnikow et al. 2018	
 15998469	AN-L-Sens-B2-ACp-05	20282757	Miroschnikow et al. 2018	
 15998319	AN-L-Sens-B2-VM-05	20282757	Miroschnikow et al. 2018	
@@ -1263,11 +1246,10 @@ skid	name	paper_id	paper_name	FBbt_ID
 15995012	SE0 L1	20282757	Miroschnikow et al. 2018	
 15994926	AN-L-Sens-B1-AVa-36	20282757	Miroschnikow et al. 2018	
 15984797	AN-L-Sens-B1-AVa-23	20282757	Miroschnikow et al. 2018	
-15984231	AN-L-Sens-B1-AVa-35	20282757	Miroschnikow et al. 2018	
-15998768	AN-L-Sens-B2-ACp-09	20282757	Miroschnikow et al. 2018	
 15998782	AN-L-Sens-B2-ACp-04	20282757	Miroschnikow et al. 2018	
+17248923	AN-R-motor-05	20282757	Miroschnikow et al. 2018	
 15998899	AN-L-Sens-B2-AVp-02	20282757	Miroschnikow et al. 2018	
-15998913	AN-L-Sens-B2-VM-04	20282757	Miroschnikow et al. 2018	
+16018123	T2r asc contra 01	20282757	Miroschnikow et al. 2018	
 17220054	SEZ-IN-A07-left	20282757	Miroschnikow et al. 2018	
 17219367	SEZ-IN-06-right	20282757	Miroschnikow et al. 2018	
 17213784	Neuron 17213785	20282757	Miroschnikow et al. 2018	
@@ -1282,8 +1264,8 @@ skid	name	paper_id	paper_name	FBbt_ID
 16744167	SEZ-IN-11-right	20282757	Miroschnikow et al. 2018	
 16575803	Grumpy_right	20282757	Miroschnikow et al. 2018	
 16500055	SEZ to brain left - gap todo	20282757	Miroschnikow et al. 2018	
-15983156	AN-L-Sens-B1-AVa-39	20282757	Miroschnikow et al. 2018	
 16485079	LH bilateral axon 2 MB_right; BLVa12 b 3	20282757	Miroschnikow et al. 2018	
+16468935	gate1_left	20282757	Miroschnikow et al. 2018	
 16442344	AN-R-Sens-B1-AVa-20	20282757	Miroschnikow et al. 2018	
 16362243	AN-R-Sens-B2-VM-07	20282757	Miroschnikow et al. 2018	
 16341966	AN-R-Sens-B2-ACp-07	20282757	Miroschnikow et al. 2018	
@@ -1297,37 +1279,36 @@ skid	name	paper_id	paper_name	FBbt_ID
 16123983	PaN-R-Sens-B1-VM-03	20282757	Miroschnikow et al. 2018	
 16115501	AN-R-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
 16018440	SEZ to brain right	20282757	Miroschnikow et al. 2018	
-16018123	T2r asc contra 01	20282757	Miroschnikow et al. 2018	
-16468935	gate1_left	20282757	Miroschnikow et al. 2018	
-15606918	MN-R-Sens-B2-VM-04	20282757	Miroschnikow et al. 2018	
-4097554	AN-R-Sens-B3-ACpl-10	20282757	Miroschnikow et al. 2018	
-15599768	Neuron 15599769	20282757	Miroschnikow et al. 2018	
-3639968	AN-L-Sens-B3-ACal-02 (temp sensing left neuron together 2)	20282757	Miroschnikow et al. 2018	
+15998913	AN-L-Sens-B2-VM-04	20282757	Miroschnikow et al. 2018	
+15607180	MN-R-Sens-B2-VM-07	20282757	Miroschnikow et al. 2018	
+4453485	IPC 4 left	20282757	Miroschnikow et al. 2018	
+15605657	AN-R-Sens-B2-AVp-03	20282757	Miroschnikow et al. 2018	
 3650600	AN-R-Sens-B3-ACal-01 (temp sensing right neuron alone)	20282757	Miroschnikow et al. 2018	
 3652587	AN-L-Sens-B3-ACp-08	20282757	Miroschnikow et al. 2018	
 3690921	Lower Looping PN Right - AVM004 (BAla1/2)	20282757	Miroschnikow et al. 2018	
 3709977	backwards handlebar left (looks like 35a)	20282757	Miroschnikow et al. 2018	
 3728746	Munin right 1	20282757	Miroschnikow et al. 2018	
+3732322	SEZ-IN-32-right	20282757	Miroschnikow et al. 2018	
 3756659	PN Only Connects To Togethers Right	20282757	Miroschnikow et al. 2018	
 3762060	Bubsy Right	20282757	Miroschnikow et al. 2018	
 3795498	AN-R-Sens-B2-ACp-12	20282757	Miroschnikow et al. 2018	
 3801211	BC: neuron 3801212 - paired with #2147157	20282757	Miroschnikow et al. 2018	
-3622234	SOG into Brain contralaterally left - paired with #3420915	20282757	Miroschnikow et al. 2018	
+3639968	AN-L-Sens-B3-ACal-02 (temp sensing left neuron together 2)	20282757	Miroschnikow et al. 2018	
 3822523	AN-R-Sens-B3-ACp-08	20282757	Miroschnikow et al. 2018	
 3945232	Sleepy Left	20282757	Miroschnikow et al. 2018	
 3945454	Sleepy-2 Left	20282757	Miroschnikow et al. 2018	
 3946166	Pre-goro3 left	20282757	Miroschnikow et al. 2018	
-3946364	AF6: Munin Output left	20282757	Miroschnikow et al. 2018	
 3948033	SOG interneuron	20282757	Miroschnikow et al. 2018	
 3966683	AN-R-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) right	20282757	Miroschnikow et al. 2018	
 3985829	AN-R-Sens-B3-ACal-05 (Non-ORN 1)	20282757	Miroschnikow et al. 2018	
 3991518	Handlebar PN (CB on left)	20282757	Miroschnikow et al. 2018	
 4017089	AN-R-Sens-B3-ACal-06 (Degraded? Temp?)	20282757	Miroschnikow et al. 2018	
 4023881	AN-R-Sens-B3-ACal-04 (Non-ORN 2)	20282757	Miroschnikow et al. 2018	
-3859195	Munin left 2	20282757	Miroschnikow et al. 2018	
 4030526	AN-R-Sens-B3-VM-14	20282757	Miroschnikow et al. 2018	
+3859195	Munin left 2	20282757	Miroschnikow et al. 2018	
+3622234	SOG into Brain contralaterally left - paired with #3420915	20282757	Miroschnikow et al. 2018	
 3613276	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565	20282757	Miroschnikow et al. 2018	
-3608397	AN-L-Sens-B3-ACal-01 (temp sensing left neuron alone)	20282757	Miroschnikow et al. 2018	
+3609202	AN-L-Sens-B3-ACal-03 (temp sensing left neuron together 1)	20282757	Miroschnikow et al. 2018	
 3192952	AN-R-Sens-B2-AVa-25	20282757	Miroschnikow et al. 2018	
 3199456	MN-R-Sens-B3-ACp-05	20282757	Miroschnikow et al. 2018	
 3267019	MN-L-Sens-B2-VM-19	20282757	Miroschnikow et al. 2018	
@@ -1338,8 +1319,8 @@ skid	name	paper_id	paper_name	FBbt_ID
 3340561	AN-R-motor-10	20282757	Miroschnikow et al. 2018	
 3356289	SEZ-IN-A06-right	20282757	Miroschnikow et al. 2018	
 3414508	contra-vine left	20282757	Miroschnikow et al. 2018	
-3609202	AN-L-Sens-B3-ACal-03 (temp sensing left neuron together 1)	20282757	Miroschnikow et al. 2018	
 3420915	SOG into brain contralaterally right - paired with #3622234	20282757	Miroschnikow et al. 2018	
+3436420	Pre PMN R right	20282757	Miroschnikow et al. 2018	
 3443129	T3r asc contra 01	20282757	Miroschnikow et al. 2018	
 3450751	mPN BAmd1-g right	20282757	Miroschnikow et al. 2018	
 3454765	SEZ-IN-A04-right	20282757	Miroschnikow et al. 2018	
@@ -1350,11 +1331,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 3561724	IPC 5 right	20282757	Miroschnikow et al. 2018	
 3562954	MN-R-Sens-B2-VM-21	20282757	Miroschnikow et al. 2018	
 3586984	AN-L-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) 	20282757	Miroschnikow et al. 2018	
-3436420	Pre PMN R right	20282757	Miroschnikow et al. 2018	
+3608397	AN-L-Sens-B3-ACal-01 (temp sensing left neuron alone)	20282757	Miroschnikow et al. 2018	
 4044654	AN-R-Sens-B3-VM-13	20282757	Miroschnikow et al. 2018	
+3189407	T2l asc contra 01	20282757	Miroschnikow et al. 2018	
 4059758	AN-R-Sens-B3-VM-15	20282757	Miroschnikow et al. 2018	
-4096703	AN-R-Sens-B3-VM-12	20282757	Miroschnikow et al. 2018	
-5116147	AN-L-Sens-B3-ACal-06 (degraded alone temperature partner neuron)	20282757	Miroschnikow et al. 2018	
+4097554	AN-R-Sens-B3-ACpl-10	20282757	Miroschnikow et al. 2018	
 5116861	AN-L-Sens-B3-VM-15	20282757	Miroschnikow et al. 2018	
 5120097	AN-L-Sens-B3-VM-12	20282757	Miroschnikow et al. 2018	
 5120990	AN-L-Sens-B3-VM-13	20282757	Miroschnikow et al. 2018	
@@ -1364,9 +1345,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 5404887	Happy Left 	20282757	Miroschnikow et al. 2018	
 5434746	MxN-R-motor-05 - MHD-B	20282757	Miroschnikow et al. 2018	
 5435750	MxN-R-motor-04 - MHD-A	20282757	Miroschnikow et al. 2018	
-5095269	AN-L-Sens-B3-VM-14	20282757	Miroschnikow et al. 2018	
 5437704	MxN-R-motor-06 - MHD-C	20282757	Miroschnikow et al. 2018	
-5440613	MxN-R-motor-08 - MHE-B	20282757	Miroschnikow et al. 2018	
+5116147	AN-L-Sens-B3-ACal-06 (degraded alone temperature partner neuron)	20282757	Miroschnikow et al. 2018	
+5439602	MxN-R-motor-09 - MHE-C	20282757	Miroschnikow et al. 2018	
 5448622	MN-R-Sens-B1-ACpl-01	20282757	Miroschnikow et al. 2018	
 5450669	MxN-L-motor-05 - MHD-B	20282757	Miroschnikow et al. 2018	
 5452286	MxN-L-motor-06 - MHD-C	20282757	Miroschnikow et al. 2018	
@@ -1376,10 +1357,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 6133702	AF6 right - ASB TODO 1.1	20282757	Miroschnikow et al. 2018	
 6369544	t2r medial soma 1	20282757	Miroschnikow et al. 2018	
 6445994	Pre PMN L	20282757	Miroschnikow et al. 2018	
-5439602	MxN-R-motor-09 - MHE-C	20282757	Miroschnikow et al. 2018	
+6703240	MBE23 right	20282757	Miroschnikow et al. 2018	
+5440613	MxN-R-motor-08 - MHE-B	20282757	Miroschnikow et al. 2018	
+5095269	AN-L-Sens-B3-VM-14	20282757	Miroschnikow et al. 2018	
 5093516	AN-L-Sens-B3-ACal-04 (Non-ORN 2)	20282757	Miroschnikow et al. 2018	
 5088293	AN-L-Sens-B3-ACpl-10	20282757	Miroschnikow et al. 2018	
-5057916	AN-L-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
 4108016	Upper Looping PN Left - AVM004	20282757	Miroschnikow et al. 2018	
 4120910	SEZ-IN-04-left	20282757	Miroschnikow et al. 2018	
 4152020	from upper looping PN - peptidergic right	20282757	Miroschnikow et al. 2018	
@@ -1389,7 +1371,6 @@ skid	name	paper_id	paper_name	FBbt_ID
 4338596	MN-L-Sens-B2-ACp-01	20282757	Miroschnikow et al. 2018	
 4393049	non-olfactory PN right	20282757	Miroschnikow et al. 2018	
 4400767	DH44 2 left	20282757	Miroschnikow et al. 2018	
-4453485	IPC 4 left	20282757	Miroschnikow et al. 2018	
 4506509	IPC 6 left	20282757	Miroschnikow et al. 2018	
 4523584	DMS 1 left	20282757	Miroschnikow et al. 2018	
 4523803	DMS 2 left	20282757	Miroschnikow et al. 2018	
@@ -1403,9 +1384,10 @@ skid	name	paper_id	paper_name	FBbt_ID
 4985759	AVL011 PN Left	20282757	Miroschnikow et al. 2018	
 4992273	neuron 4992274	20282757	Miroschnikow et al. 2018	
 4992322	neuron 4992323	20282757	Miroschnikow et al. 2018	
-3189407	T2l asc contra 01	20282757	Miroschnikow et al. 2018	
+5057916	AN-L-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018	
+4096703	AN-R-Sens-B3-VM-12	20282757	Miroschnikow et al. 2018	
+6794664	SEZ-IN-medial projections right	20282757	Miroschnikow et al. 2018	
 3158123	presynaptic-D-2-MAP-L left	20282757	Miroschnikow et al. 2018	
-3158085	AF5: Short-presynaptic-D-1L	20282757	Miroschnikow et al. 2018	
 3157405	AN: DPMlp Lar_left	20282757	Miroschnikow et al. 2018	
 1347886	AN-L-Sens-B2-AVp-01	20282757	Miroschnikow et al. 2018	
 1351125	AN-L-Sens-B1-AVa-40	20282757	Miroschnikow et al. 2018	
@@ -1457,7 +1439,7 @@ skid	name	paper_id	paper_name	FBbt_ID
 1011675	AN-L-Sens-B2-ACp-02	20282757	Miroschnikow et al. 2018	
 1067653	Interneuron--35 in total	20282757	Miroschnikow et al. 2018	
 1554836	Interneuron--35 in total	20282757	Miroschnikow et al. 2018	
-6703240	MBE23 right	20282757	Miroschnikow et al. 2018	
+3158085	AF5: Short-presynaptic-D-1L	20282757	Miroschnikow et al. 2018	
 1575789	X right (Interneuron--35 in total)	20282757	Miroschnikow et al. 2018	
 1709802	AN-L-Sens-B2-AVa-24	20282757	Miroschnikow et al. 2018	
 2456826	AN-R-Sens-B1-ACa-01	20282757	Miroschnikow et al. 2018	
@@ -1487,9 +1469,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 2391092	PaN-L-motor-01	20282757	Miroschnikow et al. 2018	
 2376542	SEZ-IN-12-right--14	20282757	Miroschnikow et al. 2018	
 1715990	AN-L-Sens-B2-ACp-17	20282757	Miroschnikow et al. 2018	
-15605657	AN-R-Sens-B2-AVp-03	20282757	Miroschnikow et al. 2018	
+1822302	Interneuron--35 in total	20282757	Miroschnikow et al. 2018	
 1924051	BAmas12 midline neuron 1 left	20282757	Miroschnikow et al. 2018	
-1939616	neuron 1939617--1	20282757	Miroschnikow et al. 2018	
+15606918	MN-R-Sens-B2-VM-04	20282757	Miroschnikow et al. 2018	
 2037005	neuron 2037006	20282757	Miroschnikow et al. 2018	
 2142817	pre-dorsal-MAP presynaptic-D-2-R left	20282757	Miroschnikow et al. 2018	
 2147157	BC: presynaptic -medial - paired with #3801211	20282757	Miroschnikow et al. 2018	
@@ -1510,10 +1492,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 2357110	IPC 6 right	20282757	Miroschnikow et al. 2018	
 2369444	Z: contra_left 	20282757	Miroschnikow et al. 2018	
 1706716	AN-L-Sens-B2-ACp-19	20282757	Miroschnikow et al. 2018	
-6794664	SEZ-IN-medial projections right	20282757	Miroschnikow et al. 2018	
-1822302	Interneuron--35 in total	20282757	Miroschnikow et al. 2018	
-6883831	AN-R-Sens-B1-AVa-16	20282757	Miroschnikow et al. 2018	
-15421363	MBE2a left	20282757	Miroschnikow et al. 2018	
+6802553	T1l asc contra 02	20282757	Miroschnikow et al. 2018	
+1939616	neuron 1939617--1	20282757	Miroschnikow et al. 2018	
+6885133	SEZ-IN-A05-left - paired with #18354200	20282757	Miroschnikow et al. 2018	
 15434200	AN-R-Sens-B2-ACp-06	20282757	Miroschnikow et al. 2018	
 15445198	AN-R-Sens-B2-VM-08	20282757	Miroschnikow et al. 2018	
 15451084	AN-R-Sens-B2-ACp-09	20282757	Miroschnikow et al. 2018	
@@ -1523,9 +1504,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 15506094	AN-R-Sens-B2-ACp-18	20282757	Miroschnikow et al. 2018	
 15507888	AN-R-Sens-B2-ACp-20	20282757	Miroschnikow et al. 2018	
 15508475	AN-R-Sens-B2-VM-04	20282757	Miroschnikow et al. 2018	
-15409328	AN-R-Sens-B2-ACp-08	20282757	Miroschnikow et al. 2018	
 15508735	AN-R-Sens-B2-ACp-01	20282757	Miroschnikow et al. 2018	
-15525858	AN-R-Sens-B2-ACp-14	20282757	Miroschnikow et al. 2018	
+15421363	MBE2a left	20282757	Miroschnikow et al. 2018	
+15522777	AN-R-Sens-B2-ACp-21	20282757	Miroschnikow et al. 2018	
 15530882	AN-R-Sens-B2-ACp-15	20282757	Miroschnikow et al. 2018	
 15531033	AN-R-Sens-B2-ACp-03	20282757	Miroschnikow et al. 2018	
 15531916	AN-R-Sens-B2-ACp-04	20282757	Miroschnikow et al. 2018	
@@ -1535,11 +1516,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 15541976	AN-R-Sens-B2-ACp-19	20282757	Miroschnikow et al. 2018	
 15542199	AN-R-Sens-B2-?-00	20282757	Miroschnikow et al. 2018	
 15542354	AN-R-Sens-B1-AVa-42	20282757	Miroschnikow et al. 2018	
-15522777	AN-R-Sens-B2-ACp-21	20282757	Miroschnikow et al. 2018	
+15543068	AN-R-Sens-B1-AVa-21	20282757	Miroschnikow et al. 2018	
+15525858	AN-R-Sens-B2-ACp-14	20282757	Miroschnikow et al. 2018	
+15409328	AN-R-Sens-B2-ACp-08	20282757	Miroschnikow et al. 2018	
 15398807	AN-R-Sens-B2-ACp-17	20282757	Miroschnikow et al. 2018	
 15398730	MBE23 left	20282757	Miroschnikow et al. 2018	
-15253921	MBE34 left	20282757	Miroschnikow et al. 2018	
-13142932	Dopey_right	20282757	Miroschnikow et al. 2018	
 13168715	SEZ-IN-09-left	20282757	Miroschnikow et al. 2018	
 13190771	fork of GPhN (right)	20282757	Miroschnikow et al. 2018	
 13429045	AF4: Large Spider Neuron right	20282757	Miroschnikow et al. 2018	
@@ -1562,11 +1543,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 15202263	IPC 4 right	20282757	Miroschnikow et al. 2018	
 15225589	pre-dorsal-MAP presynaptic-D-2-R right	20282757	Miroschnikow et al. 2018	
 15250080	BAmas12_ven descending 4 right	20282757	Miroschnikow et al. 2018	
-15543068	AN-R-Sens-B1-AVa-21	20282757	Miroschnikow et al. 2018	
-12948470	PVL005 1 left	20282757	Miroschnikow et al. 2018	
+15253921	MBE34 left	20282757	Miroschnikow et al. 2018	
 15543394	AN-R-Sens-B1-AVa-31	20282757	Miroschnikow et al. 2018	
-15547732	AN-R-Sens-B1-AVa-33	20282757	Miroschnikow et al. 2018	
-15574328	AN-R-Sens-B1-AVa-15	20282757	Miroschnikow et al. 2018	
+13142932	Dopey_right	20282757	Miroschnikow et al. 2018	
+15546924	AN-R-Sens-B1-AVa-30	20282757	Miroschnikow et al. 2018	
+15548107	AN-R-Sens-B1-ACa-17	20282757	Miroschnikow et al. 2018	
 15574508	AN-R-Sens-B1-AVa-38	20282757	Miroschnikow et al. 2018	
 15574941	AN-R-Sens-B1-AVa-34	20282757	Miroschnikow et al. 2018	
 15575052	AN-R-Sens-B1-AVa-36	20282757	Miroschnikow et al. 2018	
@@ -1576,9 +1557,9 @@ skid	name	paper_id	paper_name	FBbt_ID
 15581428	SEZ-IN-08-left	20282757	Miroschnikow et al. 2018	
 15586536	AN-R-Sens-B1-ACa-11	20282757	Miroschnikow et al. 2018	
 15587166	AN-R-Sens-B1-AVa-39	20282757	Miroschnikow et al. 2018	
-15574231	AN-R-Sens-B1-ACa-08	20282757	Miroschnikow et al. 2018	
 15588691	MN-R-Sens-B2-ACp-12	20282757	Miroschnikow et al. 2018	
-15589362	MN-R-Sens-B2-ACp-06	20282757	Miroschnikow et al. 2018	
+15574328	AN-R-Sens-B1-AVa-15	20282757	Miroschnikow et al. 2018	
+15588800	MN-R-Sens-B2-ACp-20	20282757	Miroschnikow et al. 2018	
 15589411	MN-R-Sens-B2-ACp-21	20282757	Miroschnikow et al. 2018	
 15590761	AN-L-Sens-B2-ACp-07	20282757	Miroschnikow et al. 2018	
 15592696	AN-R-Sens-B2-ACp-11	20282757	Miroschnikow et al. 2018	
@@ -1587,12 +1568,12 @@ skid	name	paper_id	paper_name	FBbt_ID
 15595607	MN-R-Sens-B2-ACp-08	20282757	Miroschnikow et al. 2018	
 15595823	MN-R-Sens-B2-ACp-15	20282757	Miroschnikow et al. 2018	
 15595950	MN-R-Sens-B2-ACpl-01 (Awesome MN sensory 2)	20282757	Miroschnikow et al. 2018	
-6802553	T1l asc contra 02	20282757	Miroschnikow et al. 2018	
-15588800	MN-R-Sens-B2-ACp-20	20282757	Miroschnikow et al. 2018	
+15599768	Neuron 15599769	20282757	Miroschnikow et al. 2018	
+6883831	AN-R-Sens-B1-AVa-16	20282757	Miroschnikow et al. 2018	
+15589362	MN-R-Sens-B2-ACp-06	20282757	Miroschnikow et al. 2018	
+15574231	AN-R-Sens-B1-ACa-08	20282757	Miroschnikow et al. 2018	
 15574199	AN-R-Sens-B1-ACa-06	20282757	Miroschnikow et al. 2018	
 15573450	AN-R-Sens-B1-ACa-14	20282757	Miroschnikow et al. 2018	
-15573428	SE0 R4	20282757	Miroschnikow et al. 2018	
-15548107	AN-R-Sens-B1-ACa-17	20282757	Miroschnikow et al. 2018	
 15548694	AN-R-Sens-B1-ACa-10	20282757	Miroschnikow et al. 2018	
 15556081	MN-R-Sens-B2-ACp-11	20282757	Miroschnikow et al. 2018	
 15556868	MN-R-Sens-B2-ACp-02	20282757	Miroschnikow et al. 2018	
@@ -1615,11 +1596,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 15573331	AN-R-Sens-B2-ACp-16	20282757	Miroschnikow et al. 2018	
 15573381	AN-R-Sens-B1-ACa-12	20282757	Miroschnikow et al. 2018	
 15573396	AN-R-Sens-B1-ACa-09	20282757	Miroschnikow et al. 2018	
-15546924	AN-R-Sens-B1-AVa-30	20282757	Miroschnikow et al. 2018	
-12901662	AN-R-motor-12	20282757	Miroschnikow et al. 2018	
-3732322	SEZ-IN-32-right	20282757	Miroschnikow et al. 2018	
-12634154	IPC 3 left	20282757	Miroschnikow et al. 2018	
-8177700	MxN-R-motor-03 - LR-B	20282757	Miroschnikow et al. 2018	
+15573428	SE0 R4	20282757	Miroschnikow et al. 2018	
+15547732	AN-R-Sens-B1-AVa-33	20282757	Miroschnikow et al. 2018	
+12948470	PVL005 1 left	20282757	Miroschnikow et al. 2018	
+3946364	AF6: Munin Output left	20282757	Miroschnikow et al. 2018	
+12740290	SEZ-IN-A01-left	20282757	Miroschnikow et al. 2018	
 8199012	MN-R-Sens-B3-?-00	20282757	Miroschnikow et al. 2018	
 8208555	MxN-L-motor-01 - SGDO	20282757	Miroschnikow et al. 2018	
 8213784	Old Fashioned Telephone Left	20282757	Miroschnikow et al. 2018	
@@ -1629,11 +1610,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 8435311	MxN-L-motor-09 - MHE-C	20282757	Miroschnikow et al. 2018	
 8438283	Dopey_left	20282757	Miroschnikow et al. 2018	
 8574714	PaN-R-motor-02	20282757	Miroschnikow et al. 2018	
-8169737	Input to MN motor neurons left - inputs to motor neurons on both sides	20282757	Miroschnikow et al. 2018	
 8598886	CPLd interneuron	20282757	Miroschnikow et al. 2018	
-8810739	MN-R-Sens-B2-AVp-02	20282757	Miroschnikow et al. 2018	
+8177700	MxN-R-motor-03 - LR-B	20282757	Miroschnikow et al. 2018	
+8752697	AN: DPMlp Lar_right	20282757	Miroschnikow et al. 2018	
 8922644	MBE16 left	20282757	Miroschnikow et al. 2018	
-9074101	MBE35 right	20282757	Miroschnikow et al. 2018	
+9015745	NI? left_former:Left Mid	20282757	Miroschnikow et al. 2018	
 9109799	MBE35 left	20282757	Miroschnikow et al. 2018	
 9275210	PVL005 - 2 Right (V1); BLVa34 a 11	20282757	Miroschnikow et al. 2018	
 9291474	AVL011 PN Right	20282757	Miroschnikow et al. 2018	
@@ -1641,13 +1622,13 @@ skid	name	paper_id	paper_name	FBbt_ID
 9455885	Bashful_right	20282757	Miroschnikow et al. 2018	
 9503414	midline projection neuron in the brain_PI 	20282757	Miroschnikow et al. 2018	
 9583435	NI? right	20282757	Miroschnikow et al. 2018	
-8752697	AN: DPMlp Lar_right	20282757	Miroschnikow et al. 2018	
+9712223	KS LN 1 right	20282757	Miroschnikow et al. 2018	
+8810739	MN-R-Sens-B2-AVp-02	20282757	Miroschnikow et al. 2018	
+8169737	Input to MN motor neurons left - inputs to motor neurons on both sides	20282757	Miroschnikow et al. 2018	
 8167773	MxN-R-motor-02 - LR-A	20282757	Miroschnikow et al. 2018	
 8149490	MxN-R-motor-01 - SGDO	20282757	Miroschnikow et al. 2018	
-8134938	MxN-R-motor-07 - MHE-A	20282757	Miroschnikow et al. 2018	
-6885133	SEZ-IN-A05-left - paired with #18354200	20282757	Miroschnikow et al. 2018	
-12740290	SEZ-IN-A01-left	20282757	Miroschnikow et al. 2018	
 7020344	handlebar-like 4 right	20282757	Miroschnikow et al. 2018	
+12901662	AN-R-motor-12	20282757	Miroschnikow et al. 2018	
 7092086	PN in Olfactory Bundle 1 left	20282757	Miroschnikow et al. 2018	
 7136254	Moggy_left	20282757	Miroschnikow et al. 2018	
 7160160	AN-R-Sens-B2-AVp-01	20282757	Miroschnikow et al. 2018	
@@ -1668,11 +1649,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 8094859	MBE11a right	20282757	Miroschnikow et al. 2018	
 8105236	MxN-L-motor-02 - LR-A	20282757	Miroschnikow et al. 2018	
 8111135	nc1;left	20282757	Miroschnikow et al. 2018	
-9712223	KS LN 1 right	20282757	Miroschnikow et al. 2018	
+8134938	MxN-R-motor-07 - MHE-A	20282757	Miroschnikow et al. 2018	
 9716858	AN-R-Sens-B1-AVa-19	20282757	Miroschnikow et al. 2018	
-9015745	NI? left_former:Left Mid	20282757	Miroschnikow et al. 2018	
-9747418	PPLV - 2 Left (maybe PVL014c)	20282757	Miroschnikow et al. 2018	
-10563755	DH44 3 left	20282757	Miroschnikow et al. 2018	
+9730269	SEZ-IN-13-right	20282757	Miroschnikow et al. 2018	
+9074101	MBE35 right	20282757	Miroschnikow et al. 2018	
+9747710	Handlebar PN (CB on Right)	20282757	Miroschnikow et al. 2018	
 10768709	Bilateral near MB_right	20282757	Miroschnikow et al. 2018	
 10934438	MN-R-Sens-B2-ACp-18	20282757	Miroschnikow et al. 2018	
 11067379	non-olfactory PN left	20282757	Miroschnikow et al. 2018	
@@ -1680,8 +1661,8 @@ skid	name	paper_id	paper_name	FBbt_ID
 11333054	Gustatory? PN left	20282757	Miroschnikow et al. 2018	
 11637858	Y Neuron-right	20282757	Miroschnikow et al. 2018	
 11638511	Tiger_left	20282757	Miroschnikow et al. 2018	
-9730269	SEZ-IN-13-right	20282757	Miroschnikow et al. 2018	
-11642879	BD ; Left	20282757	Miroschnikow et al. 2018	
+11639192	contra-vine 2 left	20282757	Miroschnikow et al. 2018	
+9747418	PPLV - 2 Left (maybe PVL014c)	20282757	Miroschnikow et al. 2018	
 11671564	AN-L-Sens-B2-ACp-21	20282757	Miroschnikow et al. 2018	
 11687553	T3l asc contra 01	20282757	Miroschnikow et al. 2018	
 11736972	MN-L-Sens-B2-ACp-15	20282757	Miroschnikow et al. 2018	
@@ -1695,13 +1676,13 @@ skid	name	paper_id	paper_name	FBbt_ID
 12253020	MN-R-Sens-B2-ACp-14	20282757	Miroschnikow et al. 2018	
 12260696	MN-L-Sens-B2-ACp-06	20282757	Miroschnikow et al. 2018	
 12335381	BAmas12 midline 3 right	20282757	Miroschnikow et al. 2018	
+12634154	IPC 3 left	20282757	Miroschnikow et al. 2018	
+10563755	DH44 3 left	20282757	Miroschnikow et al. 2018	
 10459723	IPC 2 left	20282757	Miroschnikow et al. 2018	
-10418394	DH44 1 left	20282757	Miroschnikow et al. 2018	
-11639192	contra-vine 2 left	20282757	Miroschnikow et al. 2018	
-10263287	SEZ-IN-07-right	20282757	Miroschnikow et al. 2018	
-9747710	Handlebar PN (CB on Right)	20282757	Miroschnikow et al. 2018	
+11642879	BD ; Left	20282757	Miroschnikow et al. 2018	
 10329208	IPC 1 left	20282757	Miroschnikow et al. 2018	
-9748579	hugin-PC right 3	20282757	Miroschnikow et al. 2018	
+9748269	AN-R-Sens-B1-AVa-18	20282757	Miroschnikow et al. 2018	
+10418394	DH44 1 left	20282757	Miroschnikow et al. 2018	
 9748981	Moggy_right	20282757	Miroschnikow et al. 2018	
 9787565	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276	20282757	Miroschnikow et al. 2018	
 9787592	BAmas12_ven descending 3 left	20282757	Miroschnikow et al. 2018	
@@ -1710,19 +1691,20 @@ skid	name	paper_id	paper_name	FBbt_ID
 9795662	BAmas12_ven descending 4 left	20282757	Miroschnikow et al. 2018	
 9796597	hugin-PC left 2	20282757	Miroschnikow et al. 2018	
 9801441	BE ;  Right	20282757	Miroschnikow et al. 2018	
-9748269	AN-R-Sens-B1-AVa-18	20282757	Miroschnikow et al. 2018	
-9805588	Angler_left	20282757	Miroschnikow et al. 2018	
 9805520	hugin-PC left 3	20282757	Miroschnikow et al. 2018	
-10160250	mPN BAmd1-g left	20282757	Miroschnikow et al. 2018	
+9748579	hugin-PC right 3	20282757	Miroschnikow et al. 2018	
+9808022	MN-L-Sens-B2-AVp-01	20282757	Miroschnikow et al. 2018	
+9805588	Angler_left	20282757	Miroschnikow et al. 2018	
+10263287	SEZ-IN-07-right	20282757	Miroschnikow et al. 2018	
+10119916	Z: contra_right	20282757	Miroschnikow et al. 2018	
 9935752	T1r asc contra 01	20282757	Miroschnikow et al. 2018	
 9934374	neuron 9934375: incomplete neuron with soma; unidentified	20282757	Miroschnikow et al. 2018	
-9853425	AN-R-Sens-B3-ACp-09 (gustatory pheromone neuron)	20282757	Miroschnikow et al. 2018	
-10119916	Z: contra_right	20282757	Miroschnikow et al. 2018	
+10160250	mPN BAmd1-g left	20282757	Miroschnikow et al. 2018	
+9842383	neuron 9842384	20282757	Miroschnikow et al. 2018	
 9838294	AN-L-Sens-B1-ACa-13	20282757	Miroschnikow et al. 2018	
 9820270	AN-L-Sens-B1-AVa-29	20282757	Miroschnikow et al. 2018	
 9813902	hugin-PC left 4	20282757	Miroschnikow et al. 2018	
-9808022	MN-L-Sens-B2-AVp-01	20282757	Miroschnikow et al. 2018	
-9842383	neuron 9842384	20282757	Miroschnikow et al. 2018	
+9853425	AN-R-Sens-B3-ACp-09 (gustatory pheromone neuron)	20282757	Miroschnikow et al. 2018	
 183502	A09e_a4l	20498648	Jovanic et al. 2019	
 627858	A09e_a4r	20498648	Jovanic et al. 2019	
 722935	ddaA a1l classs III md	20498648	Jovanic et al. 2019	
@@ -1751,7 +1733,6 @@ skid	name	paper_id	paper_name	FBbt_ID
 5308485	SEZ-DN1_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 4835694	A27h_a4l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 4727546	A18b_a1r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-2072202	A27l_a3r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 4719759	A27l_a2l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 4542433	A18b_a1l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 4213417	A27k_a1l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
@@ -1759,42 +1740,43 @@ skid	name	paper_id	paper_name	FBbt_ID
 4038808	A27k_a2l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 2111886	A27l_a3l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 10216846	A27h?_t3l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-5355175	A27l_a2r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-15700463	A27h_a7r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 10004243	A27k_a1r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-15695112	A27h_a6l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-13557064	MDNb_right	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-12247555	ThDN left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-11541264	ThDN right	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-10728333	MDNa_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-10219170	A27l_a1l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-10728328	MDNb_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-10223572	A27h_a1l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-10589761	A18b_a2l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+15700463	A27h_a7r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+5355175	A27l_a2r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 10499711	A27l_a1r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
 10223754	DN_mx (Descending neuron_mx)_r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
-13258642	A26f_a1l	20726614	Zarin, Mark et al. 2019	
-14044614	MNISNb/d-Is RP5_a1l	20726614	Zarin, Mark et al. 2019	
+10223572	A27h_a1l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+10728328	MDNb_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+10728333	MDNa_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+10589761	A18b_a2l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+12247555	ThDN left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+13557064	MDNb_right	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+2072202	A27l_a3r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+15695112	A27h_a6l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+11541264	ThDN right	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+10219170	A27l_a1l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	
+12809152	A31d_a1l	20726614	Zarin, Mark et al. 2019	
+12683525	A03a3_a1r (pre dMNs)	20726614	Zarin, Mark et al. 2019	
 12704772	A03a3_a1l (pre dMNs) 	20726614	Zarin, Mark et al. 2019	
 12705004	A31b_a1l 	20726614	Zarin, Mark et al. 2019	
-12809874	feagment	20726614	Zarin, Mark et al. 2019	
-13331383	marathon_a1l ( A07f2?_a1l ) 	20726614	Zarin, Mark et al. 2019	
-12809923	A08e2_a1l	20726614	Zarin, Mark et al. 2019	
+14044614	MNISNb/d-Is RP5_a1l	20726614	Zarin, Mark et al. 2019	
 12809976	A06c_a1l	20726614	Zarin, Mark et al. 2019	
 12820178	A02h_a1l	20726614	Zarin, Mark et al. 2019	
 12820277	A14a_a1l	20726614	Zarin, Mark et al. 2019	
 12825902	Neuron 20725668	20726614	Zarin, Mark et al. 2019	
-13522678	A05a_a1L	20726614	Zarin, Mark et al. 2019	
+12873722	A31d_a1r	20726614	Zarin, Mark et al. 2019	
 12944478	A31k_a1r	20726614	Zarin, Mark et al. 2019	
 12949240	T01d4_t3l	20726614	Zarin, Mark et al. 2019	
 12953345	A02f_a1r	20726614	Zarin, Mark et al. 2019	
 13057994	MNISN-Is RP2_a1r	20726614	Zarin, Mark et al. 2019	
 13058240	MNISN-Is RP2_a1l	20726614	Zarin, Mark et al. 2019	
-12809152	A31d_a1l	20726614	Zarin, Mark et al. 2019	
-12873722	A31d_a1r	20726614	Zarin, Mark et al. 2019	
-10858401	A06a_a1l	20726614	Zarin, Mark et al. 2019	
-12468812	A09l_a1l Down-and-back-1	20726614	Zarin, Mark et al. 2019	
-7992966	A02e_a1l	20726614	Zarin, Mark et al. 2019	
+13258642	A26f_a1l	20726614	Zarin, Mark et al. 2019	
+13331383	marathon_a1l ( A07f2?_a1l ) 	20726614	Zarin, Mark et al. 2019	
+13522678	A05a_a1L	20726614	Zarin, Mark et al. 2019	
+12809874	feagment	20726614	Zarin, Mark et al. 2019	
+12809923	A08e2_a1l	20726614	Zarin, Mark et al. 2019	
+11065546	Saaghi-3?_t3r (AAZ3 (A06e))	20726614	Zarin, Mark et al. 2019	
+12096730	T01x2_t3r T01a or T01j	20726614	Zarin, Mark et al. 2019	
 8026224	MN10 U2_a1l	20726614	Zarin, Mark et al. 2019	
 8039617	A08e3_a1r	20726614	Zarin, Mark et al. 2019	
 8198957	A08e1_a1r	20726614	Zarin, Mark et al. 2019	
@@ -1808,8 +1790,8 @@ skid	name	paper_id	paper_name	FBbt_ID
 10015769	A27j_a1r	20726614	Zarin, Mark et al. 2019	
 10053304	A05k_a1r	20726614	Zarin, Mark et al. 2019	
 10089193	A03a6_a1l 	20726614	Zarin, Mark et al. 2019	
-12683525	A03a3_a1r (pre dMNs)	20726614	Zarin, Mark et al. 2019	
 10089252	A03x_a2l (EGHBAL)	20726614	Zarin, Mark et al. 2019	
+10090269	A27e(2)_a1l	20726614	Zarin, Mark et al. 2019	
 10185585	T01d1_t3r	20726614	Zarin, Mark et al. 2019	
 10219170	A27l_a1l	20726614	Zarin, Mark et al. 2019	
 10223572	A27h_a1l	20726614	Zarin, Mark et al. 2019	
@@ -1820,15 +1802,14 @@ skid	name	paper_id	paper_name	FBbt_ID
 10649843	MN1 aCC_a1l	20726614	Zarin, Mark et al. 2019	
 10678017	MN12-III (ISN VL1 V-MN NB5-2)_a1l	20726614	Zarin, Mark et al. 2019	
 10855206	A03g_a1r	20726614	Zarin, Mark et al. 2019	
-11065546	Saaghi-3?_t3r (AAZ3 (A06e))	20726614	Zarin, Mark et al. 2019	
+10858401	A06a_a1l	20726614	Zarin, Mark et al. 2019	
+14045016	MN14 RP1_a1l	20726614	Zarin, Mark et al. 2019	
 11106522	A01x2_a1l (A01d4)	20726614	Zarin, Mark et al. 2019	
 12036009	Saaghi-2_a1r (AAZ2  (A06f))	20726614	Zarin, Mark et al. 2019	
-12096730	T01x2_t3r T01a or T01j	20726614	Zarin, Mark et al. 2019	
-10090269	A27e(2)_a1l	20726614	Zarin, Mark et al. 2019	
-14045016	MN14 RP1_a1l	20726614	Zarin, Mark et al. 2019	
-14086309	MN19 (ISN NB3-2)_a1l	20726614	Zarin, Mark et al. 2019	
-14045854	MN3 (ISN U4 DA3 NB7-1?)_a1r	20726614	Zarin, Mark et al. 2019	
-15290305	A03xKT_a1r	20726614	Zarin, Mark et al. 2019	
+12468812	A09l_a1l Down-and-back-1	20726614	Zarin, Mark et al. 2019	
+14045489	MN15/16/17 VO4–6 (NB7-1? )_a1r	20726614	Zarin, Mark et al. 2019	
+14087107	MN30 RP4_a1r	20726614	Zarin, Mark et al. 2019	
+14046720	MN12-III (ISN VL1 V-MN NB5-2)_a1r	20726614	Zarin, Mark et al. 2019	
 15290335	A27e(2)_a1r	20726614	Zarin, Mark et al. 2019	
 15571023	A31k_a1l	20726614	Zarin, Mark et al. 2019	
 16080562	MN25 (TN)_a2r	20726614	Zarin, Mark et al. 2019	
@@ -1839,8 +1820,8 @@ skid	name	paper_id	paper_name	FBbt_ID
 16264802	MN6/7 RP3_a2l	20726614	Zarin, Mark et al. 2019	
 16274373	A02j Looper-10_a2l_pre-motor	20726614	Zarin, Mark et al. 2019	
 16433395	MN20 ISN_a1l	20726614	Zarin, Mark et al. 2019	
-15233041	A02b_a1r 	20726614	Zarin, Mark et al. 2019	
 16515841	A18b3_a1r	20726614	Zarin, Mark et al. 2019	
+16690920	A18j_a1r	20726614	Zarin, Mark et al. 2019	
 16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	20726614	Zarin, Mark et al. 2019	
 17071666	A26f_a1r	20726614	Zarin, Mark et al. 2019	
 17435371	Saaghi-1_a1r (AAZ1 (A06l))	20726614	Zarin, Mark et al. 2019	
@@ -1851,12 +1832,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 18425292	A18b2?_a1l	20726614	Zarin, Mark et al. 2019	
 19111930	MN13 ISN MN-VL2_a1l 	20726614	Zarin, Mark et al. 2019	
 19139253	MN15/16/17 VO4–6 (NB7-1? )_a1l	20726614	Zarin, Mark et al. 2019	
-7987962	T03g2?_t3r 	20726614	Zarin, Mark et al. 2019	
-16690920	A18j_a1r	20726614	Zarin, Mark et al. 2019	
-14045489	MN15/16/17 VO4–6 (NB7-1? )_a1r	20726614	Zarin, Mark et al. 2019	
+7992966	A02e_a1l	20726614	Zarin, Mark et al. 2019	
+15290305	A03xKT_a1r	20726614	Zarin, Mark et al. 2019	
+15233041	A02b_a1r 	20726614	Zarin, Mark et al. 2019	
 15094230	DLneuron2_a1r 	20726614	Zarin, Mark et al. 2019	
-14866379	A02h_a1r	20726614	Zarin, Mark et al. 2019	
-14046720	MN12-III (ISN VL1 V-MN NB5-2)_a1r	20726614	Zarin, Mark et al. 2019	
+14866842	A02g_a1l	20726614	Zarin, Mark et al. 2019	
 14047130	MN2 ISN(U3-NB7-1?)_a1l	20726614	Zarin, Mark et al. 2019	
 14047554	MN9 U1_a1r	20726614	Zarin, Mark et al. 2019	
 14047760	MN10 U2_a1r	20726614	Zarin, Mark et al. 2019	
@@ -1865,11 +1845,11 @@ skid	name	paper_id	paper_name	FBbt_ID
 14048538	MN15/16 VO4/5 (NB7-1? ISN)_a1r	20726614	Zarin, Mark et al. 2019	
 14048876	MN28 ISN_a1r	20726614	Zarin, Mark et al. 2019	
 14085813	MN9 U1_a1l	20726614	Zarin, Mark et al. 2019	
-14087107	MN30 RP4_a1r	20726614	Zarin, Mark et al. 2019	
+14086309	MN19 (ISN NB3-2)_a1l	20726614	Zarin, Mark et al. 2019	
 14087339	MN4 (ISN U5 NB7-1?)_a1l	20726614	Zarin, Mark et al. 2019	
-14866842	A02g_a1l	20726614	Zarin, Mark et al. 2019	
 14088149	MN3 (ISN U4 DA3 NB7-1?)_a1l 	20726614	Zarin, Mark et al. 2019	
-14194234	MN30 RP4_a1l	20726614	Zarin, Mark et al. 2019	
+14045854	MN3 (ISN U4 DA3 NB7-1?)_a1r	20726614	Zarin, Mark et al. 2019	
+14088451	MN11 (ISN NB3-2)_a1l	20726614	Zarin, Mark et al. 2019	
 14194703	MN13 ISN MN-VL2_a1r	20726614	Zarin, Mark et al. 2019	
 14199031	MN18 (ISN DT1)_a1l	20726614	Zarin, Mark et al. 2019	
 14199565	MNISNb/d-Is RP5_a1r	20726614	Zarin, Mark et al. 2019	
@@ -1880,37 +1860,39 @@ skid	name	paper_id	paper_name	FBbt_ID
 14478517	MN6/7 RP3_a1l	20726614	Zarin, Mark et al. 2019	
 14826752	T01d3_t3l	20726614	Zarin, Mark et al. 2019	
 14858626	A02e_a1r	20726614	Zarin, Mark et al. 2019	
-14088451	MN11 (ISN NB3-2)_a1l	20726614	Zarin, Mark et al. 2019	
-7934159	A27n_a1l	20726614	Zarin, Mark et al. 2019	
-4124563	A27n_a1r	20726614	Zarin, Mark et al. 2019	
-7876385	A08e1_a1l 	20726614	Zarin, Mark et al. 2019	
+14866379	A02h_a1r	20726614	Zarin, Mark et al. 2019	
+14194234	MN30 RP4_a1l	20726614	Zarin, Mark et al. 2019	
+7987962	T03g2?_t3r 	20726614	Zarin, Mark et al. 2019	
 4274364	MN29 (SN MN VA3)_a1l	20726614	Zarin, Mark et al. 2019	
+7926496	A02j Looper-10_a2r_pre-motor	20726614	Zarin, Mark et al. 2019	
+4124563	A27n_a1r	20726614	Zarin, Mark et al. 2019	
 4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	20726614	Zarin, Mark et al. 2019	
 4326468	MN8 (RF:SBM) LT3_a1l	20726614	Zarin, Mark et al. 2019	
 4326520	MN27 (SN MN VA2)_a1l	20726614	Zarin, Mark et al. 2019	
 4382895	MN29 (SN MN VA3)_a1r	20726614	Zarin, Mark et al. 2019	
 4386719	Saaghi-2_a1l (AAZ2  (A06f))	20726614	Zarin, Mark et al. 2019	
 4397287	MN26 (SN MN VA1)_a1r	20726614	Zarin, Mark et al. 2019	
+4123487	T01d2_t3l	20726614	Zarin, Mark et al. 2019	
 4478328	A06x1_a1r	20726614	Zarin, Mark et al. 2019	
-4488976	MN1 aCC_a1r	20726614	Zarin, Mark et al. 2019	
 4524871	MN26 (SN MN VA1)_a1l	20726614	Zarin, Mark et al. 2019	
 4535767	MN5 LO1_a1r	20726614	Zarin, Mark et al. 2019	
 4538681	T03a1_t3r	20726614	Zarin, Mark et al. 2019	
 4538738	A23a_a1l	20726614	Zarin, Mark et al. 2019	
 4541202	A10e_a2l	20726614	Zarin, Mark et al. 2019	
 4541716	A03a1_a1r (pre dMNs) 	20726614	Zarin, Mark et al. 2019	
-4123487	T01d2_t3l	20726614	Zarin, Mark et al. 2019	
+4542433	A18b_a1l	20726614	Zarin, Mark et al. 2019	
+4488976	MN1 aCC_a1r	20726614	Zarin, Mark et al. 2019	
+4542822	A06x1_a1l	20726614	Zarin, Mark et al. 2019	
 4123145	A01x_a1l	20726614	Zarin, Mark et al. 2019	
-4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	20726614	Zarin, Mark et al. 2019	
 4113612	A27k_a2r	20726614	Zarin, Mark et al. 2019	
 1100936	A01j?_a1l	20726614	Zarin, Mark et al. 2019	
-7926496	A02j Looper-10_a2r_pre-motor	20726614	Zarin, Mark et al. 2019	
+2798040	A02i_a1l	20726614	Zarin, Mark et al. 2019	
 3546835	A02n_a1l Pseudolooper-4	20726614	Zarin, Mark et al. 2019	
-3995976	A01d3_a1l	20726614	Zarin, Mark et al. 2019	
+7934159	A27n_a1l	20726614	Zarin, Mark et al. 2019	
 4028114	MN5 LO1_a1l	20726614	Zarin, Mark et al. 2019	
 4034528	A06a_a1r	20726614	Zarin, Mark et al. 2019	
 4038469	A01x_a1r	20726614	Zarin, Mark et al. 2019	
-4542433	A18b_a1l	20726614	Zarin, Mark et al. 2019	
+4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	20726614	Zarin, Mark et al. 2019	
 4038808	A27k_a2l	20726614	Zarin, Mark et al. 2019	
 4070588	A18b2?_a1r	20726614	Zarin, Mark et al. 2019	
 4071032	A02f_a1l 	20726614	Zarin, Mark et al. 2019	
@@ -1920,82 +1902,81 @@ skid	name	paper_id	paper_name	FBbt_ID
 4104476	T01d1_t3l	20726614	Zarin, Mark et al. 2019	
 4113533	A01c1_a1l	20726614	Zarin, Mark et al. 2019	
 4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	20726614	Zarin, Mark et al. 2019	
-4542822	A06x1_a1l	20726614	Zarin, Mark et al. 2019	
-2798040	A02i_a1l	20726614	Zarin, Mark et al. 2019	
-4584506	T01d2_t3r	20726614	Zarin, Mark et al. 2019	
-5084467	A01c2_ipsi_dendrite_a1l	20726614	Zarin, Mark et al. 2019	
+4543281	A03a4_a2r	20726614	Zarin, Mark et al. 2019	
+3995976	A01d3_a1l	20726614	Zarin, Mark et al. 2019	
+4717729	MN25 (TN)_a2l	20726614	Zarin, Mark et al. 2019	
 5085455	MN20 ISN_a1r	20726614	Zarin, Mark et al. 2019	
 5297998	A03a5_a1r	20726614	Zarin, Mark et al. 2019	
 5298032	A14a_a1r	20726614	Zarin, Mark et al. 2019	
 5309932	A03g_a1l	20726614	Zarin, Mark et al. 2019	
 5351821	A05a_a1r	20726614	Zarin, Mark et al. 2019	
 5358138	A19l_a1l	20726614	Zarin, Mark et al. 2019	
-5078760	A18j_a1l	20726614	Zarin, Mark et al. 2019	
 5899328	MN28 ISN_a1l	20726614	Zarin, Mark et al. 2019	
-6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	20726614	Zarin, Mark et al. 2019	
+5084467	A01c2_ipsi_dendrite_a1l	20726614	Zarin, Mark et al. 2019	
+5904833	A03a5_a1l	20726614	Zarin, Mark et al. 2019	
 6570401	a03d/e_a2l	20726614	Zarin, Mark et al. 2019	
 6578062	A02b_a1l 	20726614	Zarin, Mark et al. 2019	
 6811349	A01x3_a1r	20726614	Zarin, Mark et al. 2019	
 6970942	MN18 (ISN DT1)_a1r	20726614	Zarin, Mark et al. 2019	
 7280270	A06c_a1r	20726614	Zarin, Mark et al. 2019	
-4543281	A03a4_a2r	20726614	Zarin, Mark et al. 2019	
-5904833	A03a5_a1l	20726614	Zarin, Mark et al. 2019	
-5057361	A02i_a1r	20726614	Zarin, Mark et al. 2019	
+7876385	A08e1_a1l 	20726614	Zarin, Mark et al. 2019	
+4584506	T01d2_t3r	20726614	Zarin, Mark et al. 2019	
+6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	20726614	Zarin, Mark et al. 2019	
+5078760	A18j_a1l	20726614	Zarin, Mark et al. 2019	
 7867016	DLneuron2_a1l 	20726614	Zarin, Mark et al. 2019	
-4990880	A05k_a1l	20726614	Zarin, Mark et al. 2019	
 4991402	A18a_a1r 	20726614	Zarin, Mark et al. 2019	
-4725907	marathon_a1r ( A07f2?_a1r ) 	20726614	Zarin, Mark et al. 2019	
-4727546	A18b_a1r	20726614	Zarin, Mark et al. 2019	
+5057361	A02i_a1r	20726614	Zarin, Mark et al. 2019	
 4728865	A03a1_a1l (pre dMNs) 	20726614	Zarin, Mark et al. 2019	
 4729046	A23a_a1r	20726614	Zarin, Mark et al. 2019	
 4730042	A18b3_a1l	20726614	Zarin, Mark et al. 2019	
 4731383	T01d3_t3r 	20726614	Zarin, Mark et al. 2019	
 4732074	T01d4_t3r	20726614	Zarin, Mark et al. 2019	
-4717729	MN25 (TN)_a2l	20726614	Zarin, Mark et al. 2019	
-4791651	MN6/7 RP3_a2r	20726614	Zarin, Mark et al. 2019	
-4840830	T01x2_t3l T01a or T01j	20726614	Zarin, Mark et al. 2019	
-4848300	A03x_a2r (EGHBAL)	20726614	Zarin, Mark et al. 2019	
-4881629	MN8 (RF:SBM) LT3_a1r 	20726614	Zarin, Mark et al. 2019	
-4935973	A10e_a2r 	20726614	Zarin, Mark et al. 2019	
-4936149	A01c1_a1r	20726614	Zarin, Mark et al. 2019	
 4789092	A01j?_a1r	20726614	Zarin, Mark et al. 2019	
+4727546	A18b_a1r	20726614	Zarin, Mark et al. 2019	
+4840830	T01x2_t3l T01a or T01j	20726614	Zarin, Mark et al. 2019	
+4990880	A05k_a1l	20726614	Zarin, Mark et al. 2019	
+4791651	MN6/7 RP3_a2r	20726614	Zarin, Mark et al. 2019	
 4978454	A19l_a1r	20726614	Zarin, Mark et al. 2019	
+4725907	marathon_a1r ( A07f2?_a1r ) 	20726614	Zarin, Mark et al. 2019	
+4935973	A10e_a2r 	20726614	Zarin, Mark et al. 2019	
+4881629	MN8 (RF:SBM) LT3_a1r 	20726614	Zarin, Mark et al. 2019	
+4848300	A03x_a2r (EGHBAL)	20726614	Zarin, Mark et al. 2019	
+4936149	A01c1_a1r	20726614	Zarin, Mark et al. 2019	
+12820277	A14a_a1l	20726939	Mark et al. 2019	
 12820178	A02h_a1l	20726939	Mark et al. 2019	
 12820085	A14b a1l	20726939	Mark et al. 2019	
 12809976	A06c_a1l	20726939	Mark et al. 2019	
 12809923	A08e2_a1l	20726939	Mark et al. 2019	
 12140925	A01a_a1l	20726939	Mark et al. 2019	
-12042425	Saaghi-6_a1l (AAZ6  (A06b))	20726939	Mark et al. 2019	
-11928389	Jaam-3_a1l (HMD3 (A12 c3))	20726939	Mark et al. 2019	
+12040460	Saaghi-4_a1l (AAZ4  (A06g))	20726939	Mark et al. 2019	
 12039793	Saaghi-5_a1l (AAZ5 (A06g2))	20726939	Mark et al. 2019	
-12014775	A03?_preA08m_a1l	20726939	Mark et al. 2019	
+11928389	Jaam-3_a1l (HMD3 (A12 c3))	20726939	Mark et al. 2019	
 11466247	Jaam-2_a1l (HMD2 (A12g))	20726939	Mark et al. 2019	
 11455472	VLEL9_a1l (top level LCH5 input not VLEL)	20726939	Mark et al. 2019	
 11106522	A01x2_a1l (A01d4)	20726939	Mark et al. 2019	
+13004884	A02a- looper-1_a1l_JMpair1	20726939	Mark et al. 2019	
 10929797	VLEL4_a1l  (top level LCH input not VLEL)	20726939	Mark et al. 2019	
-12820277	A14a_a1l	20726939	Mark et al. 2019	
-12040460	Saaghi-4_a1l (AAZ4  (A06g))	20726939	Mark et al. 2019	
+12042425	Saaghi-6_a1l (AAZ6  (A06b))	20726939	Mark et al. 2019	
+12014775	A03?_preA08m_a1l	20726939	Mark et al. 2019	
+16531827	A03 upstream of A08m_a1l	20726939	Mark et al. 2019	
+14522404	A06 (pre-A08m)_a1l	20726939	Mark et al. 2019	
 10858401	A06a_a1l	20726939	Mark et al. 2019	
-16504350	A01bx_a1l_to be completed_JMpair3	20726939	Mark et al. 2019	
-14046279	A02d_a1l 	20726939	Mark et al. 2019	
-10804041	Griddle-2 a1l	20726939	Mark et al. 2019	
 18963687	A03?_a1l	20726939	Mark et al. 2019	
 18769231	A02j_a1l	20726939	Mark et al. 2019	
 18509063	neuron 18509064 with a soma	20726939	Mark et al. 2019	
 18458734	A06k_a1l	20726939	Mark et al. 2019	
 18418512	Saaghi-1_a1l (AAZ1 (A06l))	20726939	Mark et al. 2019	
+14046279	A02d_a1l 	20726939	Mark et al. 2019	
 17970304	A03?_post_A02k_a1l	20726939	Mark et al. 2019	
-17399735	A08o_a1l	20726939	Mark et al. 2019	
 17114293	A27k_up_a1l	20726939	Mark et al. 2019	
-16531827	A03 upstream of A08m_a1l	20726939	Mark et al. 2019	
+16504350	A01bx_a1l_to be completed_JMpair3	20726939	Mark et al. 2019	
 16272893	ipsilateral local a2l	20726939	Mark et al. 2019	
 16112458	neuron 16112459	20726939	Mark et al. 2019	
 16009772	A08c_a1l	20726939	Mark et al. 2019	
 14866842	A02g_a1l	20726939	Mark et al. 2019	
-14522404	A06 (pre-A08m)_a1l	20726939	Mark et al. 2019	
-13004884	A02a- looper-1_a1l_JMpair1	20726939	Mark et al. 2019	
+17399735	A08o_a1l	20726939	Mark et al. 2019	
 10474936	Saaghi-3_a1l (AAZ3 (A06e))	20726939	Mark et al. 2019	
-6931770	A01x_l	20726939	Mark et al. 2019	
+6578062	A02b_a1l 	20726939	Mark et al. 2019	
 10273060	A03d?_a1l	20726939	Mark et al. 2019	
 5084467	A01c2_ipsi_dendrite_a1l	20726939	Mark et al. 2019	
 4715415	A02k Pseudolooper-1_a1l 	20726939	Mark et al. 2019	
@@ -2012,23 +1993,22 @@ skid	name	paper_id	paper_name	FBbt_ID
 2798040	A02i_a1l	20726939	Mark et al. 2019	
 2042488	hook? t3l	20726939	Mark et al. 2019	
 4071032	A02f_a1l 	20726939	Mark et al. 2019	
+10299625	A14a1_a1l	20726939	Mark et al. 2019	
 6570401	a03d/e_a2l	20726939	Mark et al. 2019	
-6578062	A02b_a1l 	20726939	Mark et al. 2019	
-7195651	Griddle-1 a1l	20726939	Mark et al. 2019	
+7343002	A06bx_a1l	20726939	Mark et al. 2019	
 10089252	A03x_a2l (EGHBAL)	20726939	Mark et al. 2019	
 10054666	A19x a1l	20726939	Mark et al. 2019	
 9544992	A01x3_a1l	20726939	Mark et al. 2019	
 8840084	A01xxxxx_a1l	20726939	Mark et al. 2019	
 8688631	A03a4_a2l	20726939	Mark et al. 2019	
 8421329	A08e3_a1l 	20726939	Mark et al. 2019	
+6931770	A01x_l	20726939	Mark et al. 2019	
 8235049	to do B (A06m?)_a1l	20726939	Mark et al. 2019	
-8196192	Jaam-1_a1l (HMD1 (A12p))	20726939	Mark et al. 2019	
 8059283	A08s1_a1l 	20726939	Mark et al. 2019	
 8057753	A08j2_a1l  (top level LCH5 input not VLEL)	20726939	Mark et al. 2019	
 7992966	A02e_a1l	20726939	Mark et al. 2019	
 7924478	A01b2_a1l 	20726939	Mark et al. 2019	
 7876385	A08e1_a1l 	20726939	Mark et al. 2019	
 7827470	Ipsilateral mixed LN a1l A03xxx	20726939	Mark et al. 2019	
-7343002	A06bx_a1l	20726939	Mark et al. 2019	
-10299625	A14a1_a1l	20726939	Mark et al. 2019	
+8196192	Jaam-1_a1l (HMD1 (A12p))	20726939	Mark et al. 2019	
 7855607	A14a2/c?_a1l	20726939	Mark et al. 2019	

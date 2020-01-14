@@ -4,7 +4,7 @@ Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_C
 19711583	Eichler, Li, Litwin-Kumar et al. 2017	Eichler2017	387	436	0	0	338
 19711972	Larderet, Fritsch et al. 2017	Larderet2017	72	72	0	0	72
 19712046	Ohyama, Schneider-Mizell et al. 2015	Ohyama2015	108	203	0	0	13
-19712156	Jovanic, Schneider-Mizell et al. 2016	Jovanic2016	44	70	0	0	18
+19712156	Jovanic, Schneider-Mizell et al. 2016	Jovanic2016	44	88	0	0	0
 19712202	Schlegel et al. 2016	Schlegel2016	192	192	0	0	192
 19712396	Fushiki et al. 2016	Fushiki2016	82	83	0	1	83
 19716589	Takagi et al. 2017	Takagi2017	38	40	0	0	36
@@ -15,4 +15,4 @@ Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_C
 20498648	Jovanic et al. 2019	Jovanic2019	37	55	0	0	19
 20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CarreiraRosario2018	31	31	0	0	31
 20726614	Zarin, Mark et al. 2019	Zarin2019	194	201	0	0	187
-20726939	Mark et al. 2019	Mark2019	78	84	0	0	72
+20726939	Mark et al. 2019	Mark2019	78	86	0	0	70
