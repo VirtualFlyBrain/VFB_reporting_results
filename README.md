@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #368 from commit: 'Revert "swapping to generic catmaid meta annotation"
+ Current results are from the latest travis build #369 from commit: 'Revert "swapping to generic catmaid meta annotation"
 
 This reverts commit 1441218a8caf5eabcfb50f4a685b1a69a91e5fab.' on master
 
