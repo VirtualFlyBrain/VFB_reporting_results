@@ -23,6 +23,7 @@ Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	True	
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	True	FBrf0229965	CC-BY-SA_4.0	135
 Ito2013	Ito lab adult brain lineage clone image set	True	FBrf0221438	CC-BY-NC-SA_4.0	96
 JRC2018	JRC 2018 templates & ROIs		doi_10_1101_376384	CC-BY-NC-SA_4.0	48
+JRC_FlyEM_Hemibrain_neurons_V1.0.1	JRC_FlyEM_Hemibrain neurons Version 1.0.1		doi_10_1101_2020_01_21_911859	CC-BY_4.0	0
 Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	True	FBrf0219813	CC-BY-NC-SA_4.0	3469
 JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	True	FBrf0224194	CC-BY-SA_4.0	58
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	True	FBrf0233796	CC-BY-SA_4.0	44
@@ -47,7 +48,7 @@ Tsubouchi2017	Adult somatosensory system neurons (Tsubouchi2017)	False	FBrf02371
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	True		CC-BY-SA_4.0	255
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	165
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	True	FBrf0238545	CC-BY-SA_4.0	79
-Xu2020	JRC_FlyEM_Hemibrain painted domains		doi_10_1101_2020_01_21_911859	CC-BY-NC-SA_4.0	98
+Xu2020	JRC_FlyEM_Hemibrain painted domains		doi_10_1101_2020_01_21_911859	CC-BY_4.0	18598
 Yu2013	Lee lab adult brain lineage clone image set	True	FBrf0221412	CC-BY-NC-SA_4.0	95
 Zarin2019	EM L1 Zarin, Mark et al. 2019	True	doi_10_1101_617977	CC-BY-SA_4.0	194
 Zheng2018	EM FAFB Zheng et al 2018	True	FBrf0240126	CC-BY-SA_4.0	145
