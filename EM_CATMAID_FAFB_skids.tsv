@@ -9,10 +9,10 @@ skid	name	paper_id	paper_name
 2205218	PD2a1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
 3345012	PD2b1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
 11547665	PD2a1#5	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-30591	MBON-Calyx#1	12870485	Paper: Dolan et al. 2019
+30591	MBON-Calyx 30592 ARH ASB JSL	12870485	Paper: Dolan et al. 2019
 488055	AV4c2#1	12870485	Paper: Dolan et al. 2019
 533772	AD3b1#1	12870485	Paper: Dolan et al. 2019
-535060	MB-C1#1	12870485	Paper: Dolan et al. 2019
+535060	putative MB-C1 535061	12870485	Paper: Dolan et al. 2019
 1102557	PV6c1#1	12870485	Paper: Dolan et al. 2019
 1103232	PV4c1#1	12870485	Paper: Dolan et al. 2019
 1149437	AD1e1#1	12870485	Paper: Dolan et al. 2019
@@ -38,7 +38,6 @@ skid	name	paper_id	paper_name
 2153398	WED-PN4#1	12870485	Paper: Dolan et al. 2019
 2198365	AV2b2#1	12870485	Paper: Dolan et al. 2019
 2227995	WED-PN1#1	12870485	Paper: Dolan et al. 2019
-2391559	PV4c2#1	12870485	Paper: Dolan et al. 2019
 2402951	AD1d1#1	12870485	Paper: Dolan et al. 2019
 2425247	PV5a1#1	12870485	Paper: Dolan et al. 2019
 2548003	PV4a7#2	12870485	Paper: Dolan et al. 2019
@@ -103,10 +102,109 @@ skid	name	paper_id	paper_name
 11524386	PV4a3#1	12870485	Paper: Dolan et al. 2019
 11524475	PV4d1#1	12870485	Paper: Dolan et al. 2019
 11545702	PV12a1#1	12870485	Paper: Dolan et al. 2019
-2109445	MBON-y5B'2a 2109446 NS	12823574	Paper: Felsenberg et al 2018
-2333007	MBON-y1pedc>a/B 298954 JSL	12823574	Paper: Felsenberg et al 2018
-4291899	Neuron 4291900 Putative MBON-B'2mp	12823574	Paper: Felsenberg et al 2018
-33	PN glomerulus VA6 017 DB	11490509	Paper: Zheng et al 2018
+14809659	PV4c2#1	12870485	Paper: Dolan et al. 2019
+2109445	MBON-y5B'2a	12823574	Paper: Felsenberg et al 2018
+2333007	MBON-y1pedc>a/B	12823574	Paper: Felsenberg et al 2018
+4291899	MBON-B'2mp	12823574	Paper: Felsenberg et al 2018
+3095992	JO-B-13 (type-2)	14896682	Paper: Kim et al 2020
+3109296	JO-B-31 (type-3)	14896682	Paper: Kim et al 2020
+3123085	JO-B-30 (type-3)	14896682	Paper: Kim et al 2020
+3129714	JO-B-33 (type-4)	14896682	Paper: Kim et al 2020
+3129720	JO-B-34 (type-4)	14896682	Paper: Kim et al 2020
+3129725	JO-B-35 (type-4)	14896682	Paper: Kim et al 2020
+3149051	JO-B-4 (type-1)	14896682	Paper: Kim et al 2020
+3164346	JO-B-36 (type-4)	14896682	Paper: Kim et al 2020
+3169611	JO-B-32 (type-3)	14896682	Paper: Kim et al 2020
+3170487	JO-B-37 (type-4)	14896682	Paper: Kim et al 2020
+3171269	JO-B-38 (type-4)	14896682	Paper: Kim et al 2020
+3172961	JO-B-28 (type-3)	14896682	Paper: Kim et al 2020
+3178473	JO-B-39 (type-4)	14896682	Paper: Kim et al 2020
+3186832	JO-B-40 (type-4)	14896682	Paper: Kim et al 2020
+3187712	JO-B-6 (type-1)	14896682	Paper: Kim et al 2020
+3188032	JO-B-41 (type-4)	14896682	Paper: Kim et al 2020
+3188524	JO-A-15 (type-2)	14896682	Paper: Kim et al 2020
+3216944	JO-A-16 (type-2)	14896682	Paper: Kim et al 2020
+3224320	JO-A-17 (type-2)	14896682	Paper: Kim et al 2020
+3252871	JO-A-18 (type-2)	14896682	Paper: Kim et al 2020
+3265380	JO-A-19 (type-2)	14896682	Paper: Kim et al 2020
+3278280	AMMC-B1-1	14896682	Paper: Kim et al 2020
+3351842	JO-A-20 (type-2)	14896682	Paper: Kim et al 2020
+3353939	JO-A-8 (type-1)	14896682	Paper: Kim et al 2020
+3354422	JO-A-21 (type-2)	14896682	Paper: Kim et al 2020
+3379262	JO-A-6 (type-1)	14896682	Paper: Kim et al 2020
+3387407	JO-B-25 (type-3)	14896682	Paper: Kim et al 2020
+3402380	JO-B-23 (type-2)	14896682	Paper: Kim et al 2020
+3403100	JO-B-14 (type-2)	14896682	Paper: Kim et al 2020
+3410761	JO-B-15 (type-2)	14896682	Paper: Kim et al 2020
+3410772	JO-A-22 (type-2)	14896682	Paper: Kim et al 2020
+3423628	JO-A-23 (type-2)	14896682	Paper: Kim et al 2020
+3425912	JO-A-24 (type-2)	14896682	Paper: Kim et al 2020
+3428621	JO-A-25 (type-2)	14896682	Paper: Kim et al 2020
+3439547	JO-A-44 (type-3)	14896682	Paper: Kim et al 2020
+3441502	JO-A-26 (type-2)	14896682	Paper: Kim et al 2020
+3445359	JO-A-45 (type-3)	14896682	Paper: Kim et al 2020
+3446283	JO-A-27 (type-2)	14896682	Paper: Kim et al 2020
+3447303	JO-A-28 (type-2)	14896682	Paper: Kim et al 2020
+3449992	JO-A-3 (type-1)	14896682	Paper: Kim et al 2020
+3458430	JO-A-9 (type-1)	14896682	Paper: Kim et al 2020
+3458576	JO-B-16 (type-2)	14896682	Paper: Kim et al 2020
+3458820	JO-A-7 (type-1)	14896682	Paper: Kim et al 2020
+3459185	JO-A-4 (type-1)	14896682	Paper: Kim et al 2020
+3468150	JO-A-29 (type-2)	14896682	Paper: Kim et al 2020
+3469424	JO-A-30 (type-2)	14896682	Paper: Kim et al 2020
+3470123	JO-A-31 (type-2)	14896682	Paper: Kim et al 2020
+3475003	JO-A-32 (type-2)	14896682	Paper: Kim et al 2020
+3476053	JO-A-33 (type-2)	14896682	Paper: Kim et al 2020
+3477376	JO-A-2 (type-1)	14896682	Paper: Kim et al 2020
+3477673	JO-B-12 (type-2)	14896682	Paper: Kim et al 2020
+3485838	JO-A-34 (type-2)	14896682	Paper: Kim et al 2020
+3487462	JO-A-35 (type-2)	14896682	Paper: Kim et al 2020
+3488976	JO-A-36 (type-2)	14896682	Paper: Kim et al 2020
+3490054	JO-A-1 (type-1)	14896682	Paper: Kim et al 2020
+3491416	JO-A-37 (type-2)	14896682	Paper: Kim et al 2020
+3491533	JO-A-38 (type-2)	14896682	Paper: Kim et al 2020
+3502670	JO-A-39 (type-2)	14896682	Paper: Kim et al 2020
+3504256	JO-A-11 (type-1)	14896682	Paper: Kim et al 2020
+3506478	JO-A-13 (type-1)	14896682	Paper: Kim et al 2020
+3515963	JO-A-5 (type-1)	14896682	Paper: Kim et al 2020
+3516673	JO-A-10 (type-1)	14896682	Paper: Kim et al 2020
+3517017	JO-A-40 (type-2)	14896682	Paper: Kim et al 2020
+3529301	JO-A-41 (type-2)	14896682	Paper: Kim et al 2020
+3531049	JO-A-14 (type-1)	14896682	Paper: Kim et al 2020
+3538466	JO-B-17 (type-2)	14896682	Paper: Kim et al 2020
+3555162	JO-A-42 (type-2)	14896682	Paper: Kim et al 2020
+3563320	JO-B-18 (type-2)	14896682	Paper: Kim et al 2020
+3571801	JO-A-43 (type-2)	14896682	Paper: Kim et al 2020
+3579164	JO-B-27 (type-3)	14896682	Paper: Kim et al 2020
+3580997	JO-B-8 (type-1)	14896682	Paper: Kim et al 2020
+3581009	JO-B-9 (type-1)	14896682	Paper: Kim et al 2020
+3581020	JO-B-24 (type-2)	14896682	Paper: Kim et al 2020
+3630644	JO-B-29 (type-3)	14896682	Paper: Kim et al 2020
+3639511	JO-B-42 (type-4)	14896682	Paper: Kim et al 2020
+3642969	JO-B-21 (type-2)	14896682	Paper: Kim et al 2020
+3652095	JO-B-19 (type-2)	14896682	Paper: Kim et al 2020
+3653474	JO-B-43 (type-4)	14896682	Paper: Kim et al 2020
+3654886	JO-B-44 (type-4)	14896682	Paper: Kim et al 2020
+3656399	JO-B-3 (type-1)	14896682	Paper: Kim et al 2020
+3671778	JO-B-2 (type-1)	14896682	Paper: Kim et al 2020
+3674078	JO-B-10 (type-1)	14896682	Paper: Kim et al 2020
+3675673	JO-B-26 (type-3)	14896682	Paper: Kim et al 2020
+3693844	JO-B-11 (type-1)	14896682	Paper: Kim et al 2020
+3704262	JO-B-7 (type-1)	14896682	Paper: Kim et al 2020
+3743875	JO-B-45 (type-4)	14896682	Paper: Kim et al 2020
+3746370	JO-B-1 (type-1)	14896682	Paper: Kim et al 2020
+3747723	JO-A-12 (type-1)	14896682	Paper: Kim et al 2020
+3748235	JO-B-20 (type-2)	14896682	Paper: Kim et al 2020
+3748800	JO-B-22 (type-2)	14896682	Paper: Kim et al 2020
+3749227	JO-B-5 (type-1)	14896682	Paper: Kim et al 2020
+3750066	AMMC-B1-4	14896682	Paper: Kim et al 2020
+3760675	AMMC-B1-3	14896682	Paper: Kim et al 2020
+3760679	AMMC-B1-2	14896682	Paper: Kim et al 2020
+3760683	AMMC-B1-5	14896682	Paper: Kim et al 2020
+1191261	OA-VPM4	13500459	Paper: Sayin et al 2019
+1329078	OA-VPM3	13500459	Paper: Sayin et al 2019
+2333007	MBON-y1pedc>a/B	13500459	Paper: Sayin et al 2019
+42	PN glomerulus VA6 017 DB	11490509	Paper: Zheng et al 2018
 7286	KCa'B'ap 7287 EAM	11490509	Paper: Zheng et al 2018
 7646	KCa'B'm 7647 LK	11490509	Paper: Zheng et al 2018
 9578	KCy 9579 EAM	11490509	Paper: Zheng et al 2018
@@ -116,13 +214,13 @@ skid	name	paper_id	paper_name
 16406	KCa'B'ap 16407 BH	11490509	Paper: Zheng et al 2018
 21999	PN glomerulus VL2a 22000 JMR	11490509	Paper: Zheng et al 2018
 22132	PN glomerulus VC1 22133 BH	11490509	Paper: Zheng et al 2018
-22277	PN glomerulus VC3m 22278 AA	11490509	Paper: Zheng et al 2018
+22277	PN putative glomerulus VC3m 22278 AA	11490509	Paper: Zheng et al 2018
 22422	PN glomerulus DL2v 22423 JMR	11490509	Paper: Zheng et al 2018
 22594	PN glomerulus DM5 22595 BH	11490509	Paper: Zheng et al 2018
-22744	PN glomerulus VC3m 22745 JMR	11490509	Paper: Zheng et al 2018
+22744	PN putative glomerulus VC3m 22745 JMR	11490509	Paper: Zheng et al 2018
 22906	PN glomerulus VA5 22907 JMR	11490509	Paper: Zheng et al 2018
 22976	PN glomerulus VL2p 22977 JMR	11490509	Paper: Zheng et al 2018
-23005	VP1d + VP4 PN lALT 23006 bilateral AA ECM	11490509	Paper: Zheng et al 2018
+23005	VP4 PN 23006 AA	11490509	Paper: Zheng et al 2018
 23134	PN glomerulus VC3l 23135 BH	11490509	Paper: Zheng et al 2018
 23432	PN glomerulus VA2 23433 AA	11490509	Paper: Zheng et al 2018
 23512	PN glomerulus VM5v 23513 CF	11490509	Paper: Zheng et al 2018
@@ -139,7 +237,7 @@ skid	name	paper_id	paper_name
 27884	PN glomerulus V bilateral 27885 JMR	11490509	Paper: Zheng et al 2018
 28876	PN glomerulus DM3 28877 JMR	11490509	Paper: Zheng et al 2018
 30434	PN glomerulus VM5v 30435 BH	11490509	Paper: Zheng et al 2018
-30591	MBON-Calyx#1	11490509	Paper: Zheng et al 2018
+30591	MBON-Calyx 30592 ARH ASB JSL	11490509	Paper: Zheng et al 2018
 30791	PN glomerulus DL2d 30792 BH	11490509	Paper: Zheng et al 2018
 30891	PN glomerulus DM1 30892 BH	11490509	Paper: Zheng et al 2018
 32214	PN glomerulus VA7m 32215 BH	11490509	Paper: Zheng et al 2018
@@ -152,11 +250,11 @@ skid	name	paper_id	paper_name
 37212	Multiglomerular PN unknown 37213 JMR	11490509	Paper: Zheng et al 2018
 37235	Multiglomerular PN unknown 37236 JMR	11490509	Paper: Zheng et al 2018
 37250	PN glomerulus DA4m 37251 JMR	11490509	Paper: Zheng et al 2018
-37513	VP3 PN mALT bilateral 37489 AJ	11490509	Paper: Zheng et al 2018
-37935	PN glomerulus VC4 37936 CF	11490509	Paper: Zheng et al 2018
+37513	VP3 PN 37489 AJ	11490509	Paper: Zheng et al 2018
+37935	PN putative glomerulus VC4 37936 CF	11490509	Paper: Zheng et al 2018
 38885	PN glomerulus DA2 38886 BH	11490509	Paper: Zheng et al 2018
 39139	PN glomerulus VM5d 39140 CF	11490509	Paper: Zheng et al 2018
-39254	PN putative glomerulus VC5 39255 JMR	11490509	Paper: Zheng et al 2018
+39254	PN putative glomerulus VM6 39255 JMR	11490509	Paper: Zheng et al 2018
 39668	PN glomerulus DL5 39669 JMR	11490509	Paper: Zheng et al 2018
 39682	PN glomerulus DM4 39683 JMR	11490509	Paper: Zheng et al 2018
 40306	PN glomerulus VM7d 40307 CF	11490509	Paper: Zheng et al 2018
@@ -165,11 +263,11 @@ skid	name	paper_id	paper_name
 41308	PN glomerulus VM3 41309 BH	11490509	Paper: Zheng et al 2018
 41578	PN glomerulus VC3l 41579 AJ	11490509	Paper: Zheng et al 2018
 42421	PN glomerulus VA1d 42422 JMR	11490509	Paper: Zheng et al 2018
-42927	PN glomerulus VC4 42928 JMR	11490509	Paper: Zheng et al 2018
+42927	PN putative glomerulus VC4 42928 JMR	11490509	Paper: Zheng et al 2018
 43539	PN glomerulus VM7v 43540 CF	11490509	Paper: Zheng et al 2018
 45242	PN glomerulus VC2 45243 AA	11490509	Paper: Zheng et al 2018
-45882	VP3 PN mALT bilateral 45883 AA ECM	11490509	Paper: Zheng et al 2018
-46105	Bilateral VP5 + VP1m PN mALT 46106 AA ECM	11490509	Paper: Zheng et al 2018
+45882	VP3 PN 45883 AA ECM	11490509	Paper: Zheng et al 2018
+46105	bilat VP1 PN 46106 AA ECM	11490509	Paper: Zheng et al 2018
 46493	PN glomerulus DC4 46494 JMR	11490509	Paper: Zheng et al 2018
 46800	PN glomerulus VC3l 46801 JMR	11490509	Paper: Zheng et al 2018
 49026	adPN polyL 49027 AJ	11490509	Paper: Zheng et al 2018
@@ -180,16 +278,16 @@ skid	name	paper_id	paper_name
 53631	PN glomerulus DA2 53632 AA	11490509	Paper: Zheng et al 2018
 53671	PN glomerulus VM5v 53672 AA	11490509	Paper: Zheng et al 2018
 54072	PN glomerulus VM2 54073 JMR	11490509	Paper: Zheng et al 2018
-55085	PN glomerulus VC4 55086 AJ	11490509	Paper: Zheng et al 2018
+55085	PN putative glomerulus VC4 55086 AJ	11490509	Paper: Zheng et al 2018
 55125	PN glomerulus VA1v 55126 BH	11490509	Paper: Zheng et al 2018
 56424	PN glomerulus DM2 56425 BH	11490509	Paper: Zheng et al 2018
 56623	PN glomerulus DL2v 56624 BH	11490509	Paper: Zheng et al 2018
-57003	PN glomerulus lvVM4 57004 ML	11490509	Paper: Zheng et al 2018
+57003	PN glomerulus VM4 57004 ML	11490509	Paper: Zheng et al 2018
 57241	PN glomerulus DC3 57242 ML	11490509	Paper: Zheng et al 2018
 57246	PN glomerulus VA1v 57247 HG	11490509	Paper: Zheng et al 2018
 57254	adPN polyL 57255 NS	11490509	Paper: Zheng et al 2018
 57266	adPN polyL 57267 ML	11490509	Paper: Zheng et al 2018
-57274	mALT mPN putative DP1l glomerulus and glomerulus VL2p 57275 LK	11490509	Paper: Zheng et al 2018
+57274	PN putative DP1l glomerulus and glomerulus VL2p 57275 LK	11490509	Paper: Zheng et al 2018
 57307	PN glomerulus DM6 57308 ML	11490509	Paper: Zheng et al 2018
 57311	PN glomerulus DA1 57312 LK	11490509	Paper: Zheng et al 2018
 57319	PN glomerulus VA3 57320 IJA	11490509	Paper: Zheng et al 2018
@@ -197,7 +295,7 @@ skid	name	paper_id	paper_name
 57333	PN glomerulus DL2d 57334 IJA	11490509	Paper: Zheng et al 2018
 57337	PN glomerulus DL2d 57338 IJA	11490509	Paper: Zheng et al 2018
 57341	PN glomerulus DL2d 57342 ML	11490509	Paper: Zheng et al 2018
-57349	PN glomerulus DA3 57350 HG	11490509	Paper: Zheng et al 2018
+57349	PN putative glomerulus DA3 57350 HG	11490509	Paper: Zheng et al 2018
 57353	PN glomerulus DA1 57354 GA	11490509	Paper: Zheng et al 2018
 57361	PN glomerulus VA5 57362 ML	11490509	Paper: Zheng et al 2018
 57365	PN glomerulus VA5 57366 NS	11490509	Paper: Zheng et al 2018
@@ -208,42 +306,41 @@ skid	name	paper_id	paper_name
 57414	PN glomerulus DC3 57415 LK	11490509	Paper: Zheng et al 2018
 57418	PN glomerulus DA2 57419 LK	11490509	Paper: Zheng et al 2018
 57422	PN glomerulus DA2 57423 NS A	11490509	Paper: Zheng et al 2018
-57426	Multiglomerular PN mALT 57427 NS	11490509	Paper: Zheng et al 2018
-57471	VP5+ and SEZ PN mALT 57472 LK ECM	11490509	Paper: Zheng et al 2018
-57499	PN glomerulus VL1 57500 ML	11490509	Paper: Zheng et al 2018
-57503	Bilateral VP1m + VP5 PN mALT 57504 LK ECM	11490509	Paper: Zheng et al 2018
-57516	VP2 PN mALT 57517 LK ECM	11490509	Paper: Zheng et al 2018
+57426	PN unknown glomerulus 34 57427 NS	11490509	Paper: Zheng et al 2018
+57499	PN putative glomerulus VL1 57500 ML	11490509	Paper: Zheng et al 2018
+57503	VP1 PN 57504 LK ECM	11490509	Paper: Zheng et al 2018
+57516	VP2 PN 57517 LK ECM	11490509	Paper: Zheng et al 2018
 58686	PN glomerulus DP1m 22768 BH ASB	11490509	Paper: Zheng et al 2018
-59129	Multiglomerular PN mALT VM5v+X 59130 AJ	11490509	Paper: Zheng et al 2018
+59129	PN VM5v and unknown glomerulus 59130 AJ	11490509	Paper: Zheng et al 2018
 60445	putative MB-C1 32768 JMR	11490509	Paper: Zheng et al 2018
 60799	PN glomerulus DM6 60800 JMR	11490509	Paper: Zheng et al 2018
 61221	PN glomerulus DA1 61222 AJ	11490509	Paper: Zheng et al 2018
 61773	PN glomerulus DL2v 61774 JMR	11490509	Paper: Zheng et al 2018
 62434	PN glomerulus VM5d 62435 AJ	11490509	Paper: Zheng et al 2018
-65465	PN glomerulus DA3 57407 ML	11490509	Paper: Zheng et al 2018
+65465	PN putative glomerulus DA3 57407 ML	11490509	Paper: Zheng et al 2018
 65762	PN glomerulus DC2 65763 AJ	11490509	Paper: Zheng et al 2018
 67408	PN glomerulus DM2 67409 BH	11490509	Paper: Zheng et al 2018
-67637	PN glomerulus DL2v 67638 BH	11490509	Paper: Zheng et al 2018
+67637	PN glomerulus DL2d 67638 BH	11490509	Paper: Zheng et al 2018
 68697	PN glomerulus DM6 68698 BH	11490509	Paper: Zheng et al 2018
-73937	PN glomerulus VL1 73938 LK	11490509	Paper: Zheng et al 2018
+73937	PN putative glomerulus VL1 73938 LK	11490509	Paper: Zheng et al 2018
 165303	PN glomerulus VA3 34321 JMR	11490509	Paper: Zheng et al 2018
 175032	KCa'B'ap 175033 AJ	11490509	Paper: Zheng et al 2018
 186573	PN glomerulus VA7m 21764 AA	11490509	Paper: Zheng et al 2018
-192423	VP1d dlALT PN 192424 CLM -NM	11490509	Paper: Zheng et al 2018
+192423	dlALT PN 192424 CLM -NM	11490509	Paper: Zheng et al 2018
 192547	PN glomerulus V bilateral 192548 EAM GSXEJ RJVR	11490509	Paper: Zheng et al 2018
-203504	VP1d dlALT PN 71750 ARH-NM	11490509	Paper: Zheng et al 2018
+203504	dlALT PN 71750 ARH-NM	11490509	Paper: Zheng et al 2018
 203840	APL 203841 MR JSL	11490509	Paper: Zheng et al 2018
 205947	KCaBs 205948 ARH CF	11490509	Paper: Zheng et al 2018
-400943	PN glomerulus VC3m 24596 BH	11490509	Paper: Zheng et al 2018
+400943	PN putative glomerulus VC3m 24596 BH	11490509	Paper: Zheng et al 2018
 424295	KCaBc 424296 NS	11490509	Paper: Zheng et al 2018
 424379	KCaBs 424380 LK	11490509	Paper: Zheng et al 2018
 515387	KCaBs 515388 IJA	11490509	Paper: Zheng et al 2018
-535060	MB-C1#1	11490509	Paper: Zheng et al 2018
+535060	putative MB-C1 535061	11490509	Paper: Zheng et al 2018
 581536	PN glomerulus DL3 47095 JMR	11490509	Paper: Zheng et al 2018
 755022	PN glomerulus DA1 57358 IJA	11490509	Paper: Zheng et al 2018
 771242	PN glomerulus DC1 23665 AA	11490509	Paper: Zheng et al 2018
 775731	PN glomerulus VM1 39831 JMR	11490509	Paper: Zheng et al 2018
-1149173	VP4 PN t5ALT mlALT 282136 RJVR ECM	11490509	Paper: Zheng et al 2018
+1149173	t5ALT neuron 282136	11490509	Paper: Zheng et al 2018
 1530770	MB-CP2 SCL fragment 68908	11490509	Paper: Zheng et al 2018
 1549518	contralateral MB-CP2 1549519 SAC	11490509	Paper: Zheng et al 2018
 1746412	KCaBc 424308 CF	11490509	Paper: Zheng et al 2018
@@ -251,3 +348,4 @@ skid	name	paper_id	paper_name
 1785034	PN glomerulus DA2 57399 LK	11490509	Paper: Zheng et al 2018
 3104789	KCy 16943 BH	11490509	Paper: Zheng et al 2018
 3445525	KCy 6487 ML-NS	11490509	Paper: Zheng et al 2018
+14003783	Multiglom and SEZ PN 57472 LK ECM	11490509	Paper: Zheng et al 2018
