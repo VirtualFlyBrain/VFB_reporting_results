@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #476 from commit: 'corrected CL neuron iri' on master
+ Current results are from the latest travis build #477 from commit: 'corrected CL neuron iri' on master
 
 
 ## Internal pipeline reports:
