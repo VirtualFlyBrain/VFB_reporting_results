@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #521 from commit: 'Merge pull request #34 from VirtualFlyBrain/nonetype_error
+ Current results are from the latest travis build #522 from commit: 'Merge pull request #34 from VirtualFlyBrain/nonetype_error
 
 Fixed nonetype error from flattening lists in comparison.py' on master
 
