@@ -1,7 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #523 from commit: 'dataset names from comparison file, moved scripts to folder, basic readme file' on FAFB_type_curation_file
+ Current results are from the latest travis build #524 from commit: 'Merge pull request #34 from VirtualFlyBrain/nonetype_error
+
+Fixed nonetype error from flattening lists in comparison.py' on master
 
 
 ## Internal pipeline reports:
