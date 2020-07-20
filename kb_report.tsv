@@ -1,4 +1,5 @@
 ds.short_form	ds.label	ds.production	pub	license	individuals
+Andrade2019	EM L1 Andrade et al. 2019		FBrf0241389	CC-BY-SA_4.0	0
 Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	True	FBrf0227179	CC-BY-SA_4.0	1619
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY-SA_4.0	16
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	True	FBrf0232785	CC-BY-SA_4.0	160
@@ -16,6 +17,7 @@ Dickson_VT	Dickson lab VT line collection - VDRC images	True	doi_10_1101_198648	
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-SA_4.0	10
 Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	94
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
+Eschbach2020	EM L1 Eschbach et al 2020		FBrf0245294	CC-BY-SA_4.0	0
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	True	FBrf0240371	CC-BY-SA_4.0	3
 FlyLight2019AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	False	FBrf0233230	CC-BY-SA_4.0	4
 FlyLight2019Hampel2015	Grooming neurons and drivers (Hampel 2015)	False	FBrf0229838	CC-BY-SA_4.0	2
@@ -56,6 +58,7 @@ Schlegel2016	larval hugin neurons - EM (Schlegel2016)	True	FBrf0234450	CC-BY-SA_
 Shih2020	FlyCircuit 1.2 neurons	False	FBrf0245194	CC-BY_4.0	8
 Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY_4.0	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY-SA_4.0	38
+Tastekin2018	EM L1 Tastekin et al 2018		FBrf0240828	CC-BY-SA_4.0	0
 Truman2016	L3 Larval CNS Template (Truman2016)	True		CC-BY-SA_4.0	1
 TrumanWood2018	Truman Larval Flip-Out Collection	False		unlicensed	12241
 TrumanWood2018public	Truman Larval Flip-Out Collection	True		CC-BY-SA_4.0	2
