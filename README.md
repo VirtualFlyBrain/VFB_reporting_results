@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #527 from commit: 'cleaning out unused code' on master
+ Current results are from the latest travis build #529 from commit: 'updated template name' on FAFB_type_curation_file
 
 
 ## Internal pipeline reports:
