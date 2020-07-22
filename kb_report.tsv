@@ -15,7 +15,7 @@ Court2020	Adult VNS neuropils (Court2020)	True	doi_10_1101__122952		21
 Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	5387
 Dickson_VT	Dickson lab VT line collection - VDRC images	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	18016
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-SA_4.0	10
-Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	94
+Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	95
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
 Eschbach2020	EM L1 Eschbach et al 2020		FBrf0245294	CC-BY-SA_4.0	0
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	True	FBrf0240371	CC-BY-SA_4.0	3
@@ -39,7 +39,7 @@ Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	True	FBrf0219813	CC-BY-NC
 JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	True	FBrf0224194	CC-BY-SA_4.0	58
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	True	FBrf0233796	CC-BY-SA_4.0	44
 Jovanic2019	EM L1 Jovanic et al. 2019	True	FBrf0241547	CC-BY-SA_4.0	37
-Kim2020	EM FAFB Kim et al 2020		doi_10_1002__cne_24877	CC-BY-SA_4.0	0
+Kim2020	EM FAFB Kim et al 2020		doi_10_1002__cne_24877	CC-BY-SA_4.0	95
 Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	True	FBrf0237184	CC-BY-SA_4.0	4
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	True	FBrf0211243	CC-BY-SA_4.0	504
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	True	FBrf0223724	CC-BY-SA_4.0	111
@@ -54,7 +54,7 @@ Miroschnikow2018	EM L1 Miroschnikow et al. 2018	True	FBrf0240975	CC-BY-SA_4.0	73
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	True	FBrf0239335	CC-BY-SA_4.0	134
 Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	True	FBrf0228257	CC-BY-SA_4.0	109
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	True	FBrf0236042	CC-BY-SA_4.0	40
-Sayin2019	EM FAFB Sayin et al 2019	False	FBrf0243986	CC-BY-SA_4.0	0
+Sayin2019	EM FAFB Sayin et al 2019	False	FBrf0243986	CC-BY-SA_4.0	2
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	True	FBrf0234450	CC-BY-SA_4.0	193
 Shih2020	FlyCircuit 1.2 neurons	False	FBrf0245194	CC-BY_4.0	8
 Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY_4.0	0
@@ -73,6 +73,6 @@ Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	False			22593
 Xu2020roi	JRC_FlyEM_Hemibrain painted domains	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	98
 Yu2013	Lee lab adult brain lineage clone image set	True	FBrf0221412	CC-BY-NC-SA_4.0	105
 Zarin2019	EM L1 Zarin, Mark et al. 2019	True	doi_10_1101_617977	CC-BY-SA_4.0	194
-Zheng2018	EM FAFB Zheng et al 2018	True	FBrf0240126	CC-BY-SA_4.0	145
-Zheng2020	EM FAFB Zheng et al 2020	False	doi_10_1101__2020_04_17_047167	CC-BY-SA_4.0	0
+Zheng2018	EM FAFB Zheng et al 2018	True	FBrf0240126	CC-BY-SA_4.0	147
+Zheng2020	EM FAFB Zheng et al 2020	False	doi_10_1101__2020_04_17_047167	CC-BY-SA_4.0	1492
 Zwart2016	Larval motor circuit neurons (Zwart2016)	True	FBrf0233076	CC-BY-SA_4.0	41
