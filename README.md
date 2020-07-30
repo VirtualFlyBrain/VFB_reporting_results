@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #541 from commit: 'minor edits - folder rename' on FAFB_type_curation_file
+ Current results are from the latest travis build #542 from commit: 'minor edits' on FAFB_type_curation_file
 
 
 ## Internal pipeline reports:
