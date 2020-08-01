@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #547 from commit: 'Merge pull request #35 from VirtualFlyBrain/FAFB_type_curation_file
+ Current results are from the latest travis build #548 from commit: 'Merge pull request #35 from VirtualFlyBrain/FAFB_type_curation_file
 
 scripts for generating curation records from reports' on master
 
