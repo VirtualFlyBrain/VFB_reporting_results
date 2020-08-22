@@ -28,6 +28,7 @@ FlyLight2019Robie2017	split-GAL4 lines for EB neurons (Robie2017)	False	FBrf0236
 FlyLight2019Strother2017	Splits targetting the visual motion pathway, Strother2017	False	FBrf0235230	CC-BY-SA_4.0	63
 FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	False	FBrf0240744	CC-BY-SA_4.0	100
 FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	False	FBrf0234700	CC-BY-SA_4.0	87
+FlyLightGen1Set2019	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	True	FBrf0219813	CC-BY-NC-SA_4.0	0
 Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	True	FBrf0231611	CC-BY-SA_4.0	83
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-BY-SA_4.0	55
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	2
@@ -56,7 +57,7 @@ Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	Tru
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	True	FBrf0236042	CC-BY-SA_4.0	40
 Sayin2019	EM FAFB Sayin et al 2019	True	FBrf0243986	CC-BY-SA_4.0	2
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	True	FBrf0234450	CC-BY-SA_4.0	193
-Shih2020	FlyCircuit 1.2 neurons	False	FBrf0245194	CC-BY_4.0	12549
+Shih2020	FlyCircuit 1.2 neurons	True	FBrf0245194	CC-BY_4.0	12541
 Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY_4.0	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY-SA_4.0	38
 Tastekin2018	EM L1 Tastekin et al 2018	True	FBrf0240828	CC-BY-SA_4.0	10
