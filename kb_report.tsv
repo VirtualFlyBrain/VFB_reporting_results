@@ -19,15 +19,15 @@ Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	95
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
 Eschbach2020	EM L1 Eschbach et al 2020	True	FBrf0245294	CC-BY-SA_4.0	189
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	True	FBrf0240371	CC-BY-SA_4.0	3
-FlyLight2019AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	False	FBrf0233230	CC-BY-SA_4.0	4
-FlyLight2019Hampel2015	Grooming neurons and drivers (Hampel 2015)	False	FBrf0229838	CC-BY-SA_4.0	2
-FlyLight2019Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	False	FBrf0237184	CC-BY-SA_4.0	8
-FlyLight2019LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	False	FBrf0242477	CC-BY-SA_4.0	364
-FlyLight2019Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	False	FBrf0239335	CC-BY-SA_4.0	247
-FlyLight2019Robie2017	split-GAL4 lines for EB neurons (Robie2017)	False	FBrf0236042	CC-BY-SA_4.0	21
-FlyLight2019Strother2017	Splits targetting the visual motion pathway, Strother2017	False	FBrf0235230	CC-BY-SA_4.0	63
-FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	False	FBrf0240744	CC-BY-SA_4.0	100
-FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	False	FBrf0234700	CC-BY-SA_4.0	87
+FlyLight2019AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY-SA_4.0	4
+FlyLight2019Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	2
+FlyLight2019Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	True	FBrf0237184	CC-BY-SA_4.0	8
+FlyLight2019LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	True	FBrf0242477	CC-BY-SA_4.0	364
+FlyLight2019Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	True	FBrf0239335	CC-BY-SA_4.0	247
+FlyLight2019Robie2017	split-GAL4 lines for EB neurons (Robie2017)	True	FBrf0236042	CC-BY-SA_4.0	21
+FlyLight2019Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY-SA_4.0	63
+FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	True	FBrf0240744	CC-BY-SA_4.0	100
+FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	87
 FlyLightGen1Set2019	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	True	FBrf0219813	CC-BY-NC-SA_4.0	15888
 Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	True	FBrf0231611	CC-BY-SA_4.0	83
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-BY-SA_4.0	55
