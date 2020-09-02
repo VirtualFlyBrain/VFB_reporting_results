@@ -1,108 +1,901 @@
 skid	name	paper_id	paper_name
+16	Uniglomerular mALT VA6 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+27	Uniglomerular mALT DM4 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+717	Uniglomerular mALT VA4 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+734	Uniglomerular mALT DM1 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+949	Uniglomerular mALT VM3 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+1165	Uniglomerular mALT VM3 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+1992	Uniglomerular mALT DL5 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2076	Uniglomerular mALT DC1 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2115	Uniglomerular mALT VA3 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2338	Uniglomerular mALT VA2 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3133	Uniglomerular mALT VA6 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3425	Uniglomerular mALT VA3 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3719	Uniglomerular mALT VA7m lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3906	Uniglomerular mALT VC3m lvPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+4070	Uniglomerular mALT VC3l adPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+4477	Uniglomerular mALT DM5 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+5043	Uniglomerular mALT DP1m adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+5714	Uniglomerular mALT DC2 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+21999	Uniglomerular mALT VL2a adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+22132	Uniglomerular mALT VC1 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+22277	Uniglomerular mALT VC3m lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+22422	Uniglomerular mALT DL2v adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+22594	Uniglomerular mALT DM5 lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+22744	Uniglomerular mALT VC3m lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+22906	Uniglomerular mALT VA5 lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+22976	Uniglomerular mALT VL2p adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+23005	Multiglomerular lALT l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+23134	Uniglomerular mALT VC3l adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+23432	Uniglomerular mALT VA2 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+23512	Uniglomerular mALT VM5v adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+23569	Uniglomerular mALT VA4 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+23597	Uniglomerular mALT VM4 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+23829	Uniglomerular mALT DL4 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+24251	Uniglomerular mALT VM7v adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+24622	Uniglomerular mALT D adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+24726	Uniglomerular mALT VM1 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+27048	Uniglomerular mALT DP1l adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+27246	Uniglomerular mALT VM3 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+27295	Uniglomerular mALT DA1 lPN#R6	15754279	Paper: Bates and Schlegel et al 2020
+27611	Uniglomerular mALT DM5 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+27884	Uniglomerular lALT V ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+28876	Uniglomerular mALT DM3 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+30434	Uniglomerular mALT VM5v adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+30791	Uniglomerular mALT DL2d adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+30891	Uniglomerular mALT DM1 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+32214	Uniglomerular mALT VA7m lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+32399	Uniglomerular mALT DC3 adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+32793	Multiglomerular mALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020
+32801	Multiglomerular mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+33903	Uniglomerular mALT DL3 lPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+35246	Uniglomerular mALT D adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+35447	Uniglomerular mALT VM5d adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+36108	Uniglomerular mALT VA7m lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+36390	Uniglomerular mALT VA1d adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+37212	Multiglomerular mALT lPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+37235	Multiglomerular mALT lPN#R9	15754279	Paper: Bates and Schlegel et al 2020
+37250	Uniglomerular mALT DA4m adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+37513	Biglomerular mALT VP3 + VP1l ivPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+37935	Uniglomerular mALT VC4 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+38885	Uniglomerular mALT DA2 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+39139	Uniglomerular mALT VM5d adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+39254	Uniglomerular mALT VC5 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+39668	Uniglomerular mALT DL5 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+39682	Uniglomerular mALT DM4 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+40306	Uniglomerular mALT VM7d adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+40637	Uniglomerular mALT D adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+40749	Uniglomerular mALT DA4l adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+41308	Uniglomerular mALT VM3 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+41578	Uniglomerular mALT VC3l adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+42421	Uniglomerular mALT VA1d adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+42927	Uniglomerular mALT VC4 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+43539	Uniglomerular mALT VM7v adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+45242	Uniglomerular mALT VC2 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+45882	Biglomerular mALT VP3 + VP1l ivPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+46105	Biglomerular VP1m + VP5 mALT ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+46493	Uniglomerular mALT DC4 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+46800	Uniglomerular mALT VC3l adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+49026	Multiglomerular mALT adPN#R7	15754279	Paper: Bates and Schlegel et al 2020
+49865	Uniglomerular mALT VM5d adPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+51080	Uniglomerular mALT VA1v adPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+51886	Uniglomerular mALT VM2 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+52106	Uniglomerular mALT VA1v adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+53631	Uniglomerular mALT DA2 lPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+53671	Uniglomerular mALT VM5v adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+54072	Uniglomerular mALT VM2 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+55085	Uniglomerular mALT VC4 adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+55125	Uniglomerular mALT VA1v adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+56424	Uniglomerular mALT DM2 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+56623	Uniglomerular mALT DL2v adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+56983	Multiglomerular mALT lvPN#R15	15754279	Paper: Bates and Schlegel et al 2020
+56995	Multiglomerular mALT lvPN#R11	15754279	Paper: Bates and Schlegel et al 2020
+56999	Uniglomerular mALT VP1l+ lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57003	Uniglomerular mALT VM4 lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57007	Multiglomerular mALT lvPN#R31	15754279	Paper: Bates and Schlegel et al 2020
+57011	Multiglomerular mALT lvPN#R41	15754279	Paper: Bates and Schlegel et al 2020
+57015	Multiglomerular mALT lvPN#R18	15754279	Paper: Bates and Schlegel et al 2020
+57019	Multiglomerular mALT lvPN#R40	15754279	Paper: Bates and Schlegel et al 2020
+57023	Multiglomerular mALT lvPN#R43	15754279	Paper: Bates and Schlegel et al 2020
+57035	Multiglomerular mALT lvPN#R45	15754279	Paper: Bates and Schlegel et al 2020
+57039	Multiglomerular mALT lvPN#R38	15754279	Paper: Bates and Schlegel et al 2020
+57047	Multiglomerular mALT lvPN#R42	15754279	Paper: Bates and Schlegel et al 2020
+57051	Multiglomerular mALT lvPN#R22	15754279	Paper: Bates and Schlegel et al 2020
+57059	Multiglomerular mALT lvPN#R29	15754279	Paper: Bates and Schlegel et al 2020
+57063	Uniglomerular mALT VP2 + SEZ lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57076	Multiglomerular mALT lvPN#R37	15754279	Paper: Bates and Schlegel et al 2020
+57080	Multiglomerular mALT lvPN#R36	15754279	Paper: Bates and Schlegel et al 2020
+57089	Multiglomerular mALT lvPN#R39	15754279	Paper: Bates and Schlegel et al 2020
+57114	Multiglomerular mALT lvPN#R28	15754279	Paper: Bates and Schlegel et al 2020
+57122	Multiglomerular mALT lvPN#R27	15754279	Paper: Bates and Schlegel et al 2020
+57126	Multiglomerular mALT lvPN#R25	15754279	Paper: Bates and Schlegel et al 2020
+57130	Uniglomerular mALT VC5+ lvPN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020
+57134	Multiglomerular mALT lvPN#R21	15754279	Paper: Bates and Schlegel et al 2020
+57138	Multiglomerular mALT lvPN#R20	15754279	Paper: Bates and Schlegel et al 2020
+57142	Multiglomerular mALT lvPN#R26	15754279	Paper: Bates and Schlegel et al 2020
+57146	Uniglomerular mALT VP2 + SEZ lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57158	Multiglomerular mALT lvPN#R44	15754279	Paper: Bates and Schlegel et al 2020
+57166	Uniglomerular mALT VP2 + SEZ lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57171	Multiglomerular mALT lvPN#R30	15754279	Paper: Bates and Schlegel et al 2020
+57175	Multiglomerular mALT lvPN#R19	15754279	Paper: Bates and Schlegel et al 2020
+57179	Multiglomerular mALT lvPN#R46	15754279	Paper: Bates and Schlegel et al 2020
+57192	Uniglomerular mALT VM4 lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57196	Multiglomerular mALT lvPN#R32	15754279	Paper: Bates and Schlegel et al 2020
+57200	Uniglomerular mALT VP1l+ lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57204	Multiglomerular mALT lvPN#R16	15754279	Paper: Bates and Schlegel et al 2020
+57208	Multiglomerular mALT lvPN#R17	15754279	Paper: Bates and Schlegel et al 2020
+57212	Multiglomerular mALT lvPN#R33	15754279	Paper: Bates and Schlegel et al 2020
+57216	Uniglomerular mALT DL5 lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57220	Multiglomerular mALT lvPN#R9	15754279	Paper: Bates and Schlegel et al 2020
+57224	Uniglomerular mALT VP1l+ lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57232	Multiglomerular mALT lvPN#R24	15754279	Paper: Bates and Schlegel et al 2020
+57236	Uniglomerular mALT VC5+ lvPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+57241	Uniglomerular mALT DC3 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57246	Uniglomerular mALT VA1v adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57254	Multiglomerular mALT adPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+57258	Multiglomerular mALT adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57266	Multiglomerular mALT adPN#R6	15754279	Paper: Bates and Schlegel et al 2020
+57270	Multiglomerular mALT adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57274	Multiglomerular mALT adPN#R11	15754279	Paper: Bates and Schlegel et al 2020
+57278	Multiglomerular mALT adPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+57307	Uniglomerular mALT DM6 adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57311	Uniglomerular mALT DA1 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57319	Uniglomerular mALT VA3 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57323	Uniglomerular mALT DA1 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57333	Uniglomerular mALT DL2d adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57337	Uniglomerular mALT DL2d adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57341	Uniglomerular mALT DL2d adPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+57349	Uniglomerular mALT DA3 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57353	Uniglomerular mALT DA1 lPN#R7	15754279	Paper: Bates and Schlegel et al 2020
+57361	Uniglomerular mALT VA5 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57365	Uniglomerular mALT VA5 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57381	Uniglomerular mALT DA1 lPN#R8	15754279	Paper: Bates and Schlegel et al 2020
+57385	Uniglomerular mALT DM5 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57389	Multiglomerular mALT lPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+57394	Multiglomerular mALT lPN#R10	15754279	Paper: Bates and Schlegel et al 2020
+57402	Uniglomerular mALT DC2 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57410	Uniglomerular mALT VA7l adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57414	Uniglomerular mALT DC3 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57418	Uniglomerular mALT DA2 lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57422	Uniglomerular mALT DA2 lPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+57426	Multiglomerular mALT lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+57430	Multiglomerular mALT lPN bilateral#R3	15754279	Paper: Bates and Schlegel et al 2020
+57434	Multiglomerular mALT lPN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020
+57442	Multiglomerular mALT lPN#R7	15754279	Paper: Bates and Schlegel et al 2020
+57446	Multiglomerular mALT lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57450	Multiglomerular mALT lPN#R11	15754279	Paper: Bates and Schlegel et al 2020
+57455	Multiglomerular mALT lPN#R12	15754279	Paper: Bates and Schlegel et al 2020
+57459	Uniglomerular mALT DL3 lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57463	Multiglomerular mALT lPN#R6	15754279	Paper: Bates and Schlegel et al 2020
+57467	Multiglomerular mALT lPN#R8	15754279	Paper: Bates and Schlegel et al 2020
+57475	Multiglomerular mALT smPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+57479	OA-VUMa2#1	15754279	Paper: Bates and Schlegel et al 2020
+57487	Biglomerular mALT VP1l + VP3 ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+57495	Biglomerular mALT VP1l + VP3 ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+57499	Uniglomerular mALT VL1 ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+57503	Biglomerular VP1m + VP5 mALT ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+57516	Uniglomerular mALT VP2 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+57536	Multiglomerular mALT l2PN#R3	15754279	Paper: Bates and Schlegel et al 2020
+57543	Multiglomerular mALT adPN#R8	15754279	Paper: Bates and Schlegel et al 2020
+58686	Uniglomerular mALT DP1m adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+59129	Uniglomerular mALT VC3l adPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+60799	Uniglomerular mALT DM6 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+61221	Uniglomerular mALT DA1 lPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+61773	Uniglomerular mALT DL2v adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+62434	Uniglomerular mALT VM5d adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+65465	Uniglomerular mALT DA3 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+65762	Uniglomerular mALT DC2 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+67408	Uniglomerular mALT DM2 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+67637	Uniglomerular mALT DL2v adPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+68697	Uniglomerular mALT DM6 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+73926	Multiglomerular mALT adPN#R10	15754279	Paper: Bates and Schlegel et al 2020
+73937	Uniglomerular mALT VL1 ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+77661	Uniglomerular mALT DL3 lPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+80008	Multiglomerular mALT adPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+165303	Uniglomerular mALT VA3 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+177540	Multiglomerular mALT lvPN#R35	15754279	Paper: Bates and Schlegel et al 2020
+177545	Multiglomerular mALT lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+177549	Multiglomerular mALT lvPN#R13	15754279	Paper: Bates and Schlegel et al 2020
+177584	Multiglomerular mALT lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+177656	Multiglomerular mALT lvPN#R7	15754279	Paper: Bates and Schlegel et al 2020
+177706	Uniglomerular mALT DL3 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+177997	Multiglomerular mALT lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+181551	LHCENT8#1	15754279	Paper: Bates and Schlegel et al 2020
+182684	Multiglomerular mALT lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+186573	Uniglomerular mALT VA7m lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+192423	Uniglomerular dALT VP1d il2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+192430	Multiglomerular t2-mALT lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+192547	Uniglomerular lALT V ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+199461	Multiglomerular mALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020
+203504	Uniglomerular dALT VP1d il2PN#L1	15754279	Paper: Bates and Schlegel et al 2020
+400943	Uniglomerular mALT VC3m lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+434153	Uniglomerular mALT VM1 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+483289	Uniglomerular mALT DL4 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+488055	LHAV4c1#1	15754279	Paper: Bates and Schlegel et al 2020
+531931	Uniglomerular mlALT VA1d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+554327	LHCENT8#2	15754279	Paper: Bates and Schlegel et al 2020
+563760	LHCENT4#1	15754279	Paper: Bates and Schlegel et al 2020
+581536	Uniglomerular mALT DL3 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+583167	Multiglomerular mlALT vPN#R63	15754279	Paper: Bates and Schlegel et al 2020
+699859	Uniglomerular mALT DL2d adPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+709943	Multiglomerular mlALT vPN#R41	15754279	Paper: Bates and Schlegel et al 2020
+755022	Uniglomerular mALT DA1 lPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+771242	Uniglomerular mALT DC1 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+775731	Uniglomerular mALT VM1 lPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+856254	OA-VUMa2#2	15754279	Paper: Bates and Schlegel et al 2020
+1101751	LHPV6a3#1	15754279	Paper: Bates and Schlegel et al 2020
+1136366	Multiglomerular mALT lvPN#R12	15754279	Paper: Bates and Schlegel et al 2020
+1136923	Multiglomerular mALT lvPN#R8	15754279	Paper: Bates and Schlegel et al 2020
+1137895	Multiglomerular mALT lvPN#R14	15754279	Paper: Bates and Schlegel et al 2020
+1142316	Multiglomerular mALT lvPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+1144225	Multiglomerular mALT lvPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+1144402	Multiglomerular mALT lvPN#R6	15754279	Paper: Bates and Schlegel et al 2020
+1149173	Uniglomerular t5-mlALT VP4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1149437	aSP-g1b#2	15754279	Paper: Bates and Schlegel et al 2020
+1288606	LHCENT6#1	15754279	Paper: Bates and Schlegel et al 2020
+1298816	LHAV6a3#1	15754279	Paper: Bates and Schlegel et al 2020
+1299626	LHPV5a2#2	15754279	Paper: Bates and Schlegel et al 2020
+1299700	LHPD2a1#1	15754279	Paper: Bates and Schlegel et al 2020
+1299740	LHMB1#1	15754279	Paper: Bates and Schlegel et al 2020
+1313071	WEDPN3#1	15754279	Paper: Bates and Schlegel et al 2020
+1313334	WEDPN3#3	15754279	Paper: Bates and Schlegel et al 2020
+1316519	LHPV2b5#1	15754279	Paper: Bates and Schlegel et al 2020
+1334915	Multiglomerular lALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020
+1339810	Multiglomerular lALT l2PN#R5	15754279	Paper: Bates and Schlegel et al 2020
+1356477	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+1363077	Multiglomerular t3-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1372988	Multiglomerular mALT lvPN#R23	15754279	Paper: Bates and Schlegel et al 2020
+1415893	LHPD2a1#3	15754279	Paper: Bates and Schlegel et al 2020
+1415926	LHAV6a1#1	15754279	Paper: Bates and Schlegel et al 2020
+1454234	LHPD2a1#4	15754279	Paper: Bates and Schlegel et al 2020
+1532304	Uniglomerular mlALT DP1m vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+1533152	Uniglomerular mlALT VM2 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1533901	Multiglomerular mlALT vPN#R18	15754279	Paper: Bates and Schlegel et al 2020
+1606113	LHPD2b1#1	15754279	Paper: Bates and Schlegel et al 2020
+1664544	Multiglomerular t3-mALT l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+1695556	Multiglomerular mALT adPN#R9	15754279	Paper: Bates and Schlegel et al 2020
+1702624	Uniglomerular mlALT VL2p vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1703751	LHAD1b2#12	15754279	Paper: Bates and Schlegel et al 2020
+1703872	LHPV2a2#1	15754279	Paper: Bates and Schlegel et al 2020
+1706774	LHAV3c1#1	15754279	Paper: Bates and Schlegel et al 2020
+1710793	LHPV4a1#3	15754279	Paper: Bates and Schlegel et al 2020
+1710886	LHPV2c1#1	15754279	Paper: Bates and Schlegel et al 2020
+1712057	Uniglomerular mALT VP2+ adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1720254	Multiglomerular mALT lvPN#R47	15754279	Paper: Bates and Schlegel et al 2020
+1722202	Uniglomerular mlALT VA1v vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+1722886	Multiglomerular mlALT vPN#R40	15754279	Paper: Bates and Schlegel et al 2020
+1724508	Multiglomerular mlALT vPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+1724523	Uniglomerular mlALT VL2a vPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+1725235	Multiglomerular mlALT vPN#R59	15754279	Paper: Bates and Schlegel et al 2020
+1727913	Multiglomerular lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1759551	Multiglomerular mlALT vPN#R37	15754279	Paper: Bates and Schlegel et al 2020
+1775706	Uniglomerular mALT DL1 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1785034	Uniglomerular mALT DA2 lPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1803633	LHAD3a10#1	15754279	Paper: Bates and Schlegel et al 2020
+1811442	Uniglomerular mlALT DA1 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+1812558	LHAD3a8#1	15754279	Paper: Bates and Schlegel et al 2020
+1853423	LHAV4a4#2	15754279	Paper: Bates and Schlegel et al 2020
+1866895	LHCENT7#1	15754279	Paper: Bates and Schlegel et al 2020
+1870230	LHAV2a3#1	15754279	Paper: Bates and Schlegel et al 2020
+1879479	LHAD1f4#1	15754279	Paper: Bates and Schlegel et al 2020
+1903280	Uniglomerular mlALT VL2a vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+1909670	Multiglomerular mlALT vPN#R66	15754279	Paper: Bates and Schlegel et al 2020
+1911124	LHAV4a4#1	15754279	Paper: Bates and Schlegel et al 2020
+1967862	LHAV1a2#1	15754279	Paper: Bates and Schlegel et al 2020
+2042935	LHPV5d1#1	15754279	Paper: Bates and Schlegel et al 2020
+2050178	Multiglomerular mlALT vPN#R19	15754279	Paper: Bates and Schlegel et al 2020
+2051048	LHPV12a1#2	15754279	Paper: Bates and Schlegel et al 2020
+2070199	Multiglomerular t2-mALT ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020
+2096700	LHPV4b3#2	15754279	Paper: Bates and Schlegel et al 2020
+2122447	WEDPN1A#1	15754279	Paper: Bates and Schlegel et al 2020
+2153398	WEDPN4#1	15754279	Paper: Bates and Schlegel et al 2020
+2182498	Multiglomerular mlALT vPN#R62	15754279	Paper: Bates and Schlegel et al 2020
+2204528	LHPV5a1#4	15754279	Paper: Bates and Schlegel et al 2020
+2205218	LHPD2a1#2	15754279	Paper: Bates and Schlegel et al 2020
+2227866	Uniglomerular mlALT VA1v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+2227995	WEDPN1A#2	15754279	Paper: Bates and Schlegel et al 2020
+2319457	Uniglomerular mALT DA1 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2321681	Uniglomerular mALT VL2a adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2334841	Uniglomerular mlALT DA1 vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2335985	Uniglomerular mALT DL3 lPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+2340896	Uniglomerular mALT DL3 lPN#L5	15754279	Paper: Bates and Schlegel et al 2020
+2345089	Uniglomerular mALT DA1 lPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+2348022	Uniglomerular mALT VA7m lPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+2349018	Uniglomerular mALT DL3 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2349022	Uniglomerular mALT DL3 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2349030	Uniglomerular mALT DL3 lPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+2350853	Uniglomerular mALT DA3 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2352723	Uniglomerular mALT VA7m lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2353601	Uniglomerular mALT VA5 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2374382	Uniglomerular mALT DA4m adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2379517	Uniglomerular mALT DA1 lPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+2380564	Uniglomerular mALT DA1 lPN#L5	15754279	Paper: Bates and Schlegel et al 2020
+2381432	Uniglomerular mlALT VA1v vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2381753	Uniglomerular mALT DA1 lPN#L6	15754279	Paper: Bates and Schlegel et al 2020
+2405329	Uniglomerular mALT DA2 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2405823	Uniglomerular mALT DA2 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2405959	Uniglomerular mALT DA2 lPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+2425247	LHPV5a2#1	15754279	Paper: Bates and Schlegel et al 2020
+2444645	Uniglomerular mALT DA4l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2449653	Uniglomerular mALT DL2d adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+2449792	Uniglomerular mALT DA3 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2467659	Uniglomerular mALT DA2 lPN#L5	15754279	Paper: Bates and Schlegel et al 2020
+2468193	Uniglomerular mALT DM5 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2468708	Uniglomerular mALT DA2 lPN#L6	15754279	Paper: Bates and Schlegel et al 2020
+2470860	Uniglomerular mALT DP1l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2474754	Uniglomerular mALT DC3 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2477473	aSP-g1b#1	15754279	Paper: Bates and Schlegel et al 2020
+2484510	Uniglomerular mlALT VP4 vPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+2548003	LHPV4a10#1	15754279	Paper: Bates and Schlegel et al 2020
+2551627	Uniglomerular mALT VA1v adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+2561343	Uniglomerular mlALT VA1v vPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+2600341	Multiglomerular lALT l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020
+2604019	Uniglomerular mALT DL2v adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2610846	Uniglomerular mALT VM4 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2615448	Uniglomerular mALT VM5d adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+2633111	LHAV3a1#3	15754279	Paper: Bates and Schlegel et al 2020
+2639558	LHAV4d1#1	15754279	Paper: Bates and Schlegel et al 2020
+2645953	Multiglomerular mlALT vPN#R70	15754279	Paper: Bates and Schlegel et al 2020
+2653656	Uniglomerular mlALT VA1d vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2659704	LHAV1a1#1	15754279	Paper: Bates and Schlegel et al 2020
+2684792	LHAV1a1#2	15754279	Paper: Bates and Schlegel et al 2020
+2693456	Uniglomerular mALT DC4 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+2766186	Multiglomerular mlALT vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+2794070	LHAV1a3#1	15754279	Paper: Bates and Schlegel et al 2020
+2831091	LHPV5a1#5	15754279	Paper: Bates and Schlegel et al 2020
+2839458	Uniglomerular mALT VA1d adPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+2842610	LHAD1b2#11	15754279	Paper: Bates and Schlegel et al 2020
+2845576	Multiglomerular mlALT vPN#R34	15754279	Paper: Bates and Schlegel et al 2020
+2846667	Uniglomerular mlALT VL1 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+2851242	LHAV4g1#1	15754279	Paper: Bates and Schlegel et al 2020
+2863104	Uniglomerular mALT DA1 lPN#R5	15754279	Paper: Bates and Schlegel et al 2020
+2992998	Multiglomerular mlALT vPN#R29	15754279	Paper: Bates and Schlegel et al 2020
+2999878	Uniglomerular mALT DA2 lPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+3003322	Multiglomerular mlALT vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+3020362	Multiglomerular mlALT vPN#R31	15754279	Paper: Bates and Schlegel et al 2020
+3075158	LHAD1b2#10	15754279	Paper: Bates and Schlegel et al 2020
+3078257	LHAD1b2#9	15754279	Paper: Bates and Schlegel et al 2020
+3080086	LHAD1b2#8	15754279	Paper: Bates and Schlegel et al 2020
+3080183	LHAD1c1#1	15754279	Paper: Bates and Schlegel et al 2020
+3080225	LHAD1b2#7	15754279	Paper: Bates and Schlegel et al 2020
+3139915	Multiglomerular mlALT vPN#R65	15754279	Paper: Bates and Schlegel et al 2020
+3239781	Uniglomerular mALT DA1 lPN#L7	15754279	Paper: Bates and Schlegel et al 2020
+3301234	Uniglomerular mlALT VL2a vPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+3345012	LHPD2b1#2	15754279	Paper: Bates and Schlegel et al 2020
+3376158	LHPV6o1#1	15754279	Paper: Bates and Schlegel et al 2020
+3394015	LHCENT1#1	15754279	Paper: Bates and Schlegel et al 2020
+3416395	LHPV2f2#1	15754279	Paper: Bates and Schlegel et al 2020
+3420237	Uniglomerular mALT VC5 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3467989	Multiglomerular mlALT vPN#R6	15754279	Paper: Bates and Schlegel et al 2020
+3481901	LHPD3a5#1	15754279	Paper: Bates and Schlegel et al 2020
+3519113	Uniglomerular mALT VC1 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3646122	Uniglomerular mALT VA1d adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+3648956	Multiglomerular mALT lPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+3663498	Multiglomerular mlALT vPN#R69	15754279	Paper: Bates and Schlegel et al 2020
+3715995	Uniglomerular mALT VL2p adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3742499	Uniglomerular mALT VP1l lvPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020
+3771419	Multiglomerular mlALT vPN#R15	15754279	Paper: Bates and Schlegel et al 2020
+3788293	LHPV5a1#1	15754279	Paper: Bates and Schlegel et al 2020
+3799421	WEDPN2B#3	15754279	Paper: Bates and Schlegel et al 2020
+3813278	Multiglomerular mlALT vPN#R7	15754279	Paper: Bates and Schlegel et al 2020
+3813282	Multiglomerular mlALT vPN#R11	15754279	Paper: Bates and Schlegel et al 2020
+3813322	Multiglomerular mlALT vPN#R50	15754279	Paper: Bates and Schlegel et al 2020
+3813331	Uniglomerular mlALT DM4 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+3813335	Multiglomerular mlALT vPN#R20	15754279	Paper: Bates and Schlegel et al 2020
+3813343	Uniglomerular mlALT VM2 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+3813347	Multiglomerular mlALT vPN#R38	15754279	Paper: Bates and Schlegel et al 2020
+3813351	Multiglomerular mlALT vPN#R49	15754279	Paper: Bates and Schlegel et al 2020
+3813399	Multiglomerular mlALT vPN#R71	15754279	Paper: Bates and Schlegel et al 2020
+3813403	Uniglomerular mlALT DC4 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+3813424	Multiglomerular mlALT vPN#R56	15754279	Paper: Bates and Schlegel et al 2020
+3813430	Multiglomerular mlALT vPN#R32	15754279	Paper: Bates and Schlegel et al 2020
+3813434	Multiglomerular mlALT vPN#R16	15754279	Paper: Bates and Schlegel et al 2020
+3813438	Multiglomerular mlALT vPN#R57	15754279	Paper: Bates and Schlegel et al 2020
+3813442	Multiglomerular mlALT vPN#R55	15754279	Paper: Bates and Schlegel et al 2020
+3813447	Multiglomerular mlALT vPN#R54	15754279	Paper: Bates and Schlegel et al 2020
+3813451	Multiglomerular mlALT vPN#R47	15754279	Paper: Bates and Schlegel et al 2020
+3813455	Uniglomerular mlALT VL2a vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+3813483	Multiglomerular mlALT vPN#R46	15754279	Paper: Bates and Schlegel et al 2020
+3813487	Multiglomerular mlALT vPN#R45	15754279	Paper: Bates and Schlegel et al 2020
+3813495	Multiglomerular mlALT vPN#R44	15754279	Paper: Bates and Schlegel et al 2020
+3813499	Multiglomerular mlALT vPN#R4	15754279	Paper: Bates and Schlegel et al 2020
+3842493	Multiglomerular mlALT vPN#R33	15754279	Paper: Bates and Schlegel et al 2020
+3877150	LHAD1b2#6	15754279	Paper: Bates and Schlegel et al 2020
+3892961	Uniglomerular mALT VA1v adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3897655	LHPV4a1#2	15754279	Paper: Bates and Schlegel et al 2020
+3903440	Multiglomerular mlALT vPN#R30	15754279	Paper: Bates and Schlegel et al 2020
+3908507	Multiglomerular lALT l2PN#R3	15754279	Paper: Bates and Schlegel et al 2020
+3922783	Multiglomerular mlALT vPN#R68	15754279	Paper: Bates and Schlegel et al 2020
+3933006	WEDPN3#2	15754279	Paper: Bates and Schlegel et al 2020
+3933200	Uniglomerular mALT DL2d adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+3954226	WEDPN7C#2	15754279	Paper: Bates and Schlegel et al 2020
+3959520	Multiglomerular mlALT vPN#R35	15754279	Paper: Bates and Schlegel et al 2020
+3998193	Multiglomerular mlALT vPN#R64	15754279	Paper: Bates and Schlegel et al 2020
+3999003	Multiglomerular mlALT vPN#R67	15754279	Paper: Bates and Schlegel et al 2020
+4002166	Multiglomerular t9-lALT lv2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4027387	WEDPN8C#1	15754279	Paper: Bates and Schlegel et al 2020
+4041464	Uniglomerular t1-mALT V l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4044614	LHPV4a2#2	15754279	Paper: Bates and Schlegel et al 2020
+4058666	Multiglomerular t2-mALT lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4100701	LHPV4k1#1	15754279	Paper: Bates and Schlegel et al 2020
+4163773	Uniglomerular mALT DM2 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+4164206	Uniglomerular mALT DM2 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+4182038	LHPD3a2#1	15754279	Paper: Bates and Schlegel et al 2020
+4195469	Multiglomerular lALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020
+4207871	Uniglomerular mALT DA1 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+4215506	LHPV4a5#1	15754279	Paper: Bates and Schlegel et al 2020
+4267053	WEDPN1A#3	15754279	Paper: Bates and Schlegel et al 2020
+4280558	WEDPN1B#1	15754279	Paper: Bates and Schlegel et al 2020
+4340854	Uniglomerular mlALT DL2d vPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+4467245	Uniglomerular mALT VA1v adPN#L5	15754279	Paper: Bates and Schlegel et al 2020
+4491591	Multiglomerular mlALT vPN#R61	15754279	Paper: Bates and Schlegel et al 2020
+4494818	Uniglomerular mALT D adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+4494848	Uniglomerular mALT DL2v adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+4494870	Uniglomerular mALT VM5d adPN#L5	15754279	Paper: Bates and Schlegel et al 2020
+4494902	Uniglomerular mALT VC3l adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+4494955	Uniglomerular mALT DL2v adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+4494998	Uniglomerular mALT VM5d adPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+4495013	Uniglomerular mALT VA7l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+4507894	Uniglomerular mlALT VL2p vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+4513533	LHAD1b2#5	15754279	Paper: Bates and Schlegel et al 2020
+4564401	Uniglomerular mALT DC2 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+4586967	Uniglomerular mALT VC3l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+4624321	Multiglomerular mlALT vPN#R10	15754279	Paper: Bates and Schlegel et al 2020
+4624325	Uniglomerular mlALT DC4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4624334	Multiglomerular mlALT vPN#R17	15754279	Paper: Bates and Schlegel et al 2020
+4624338	Multiglomerular mlALT vPN#R22	15754279	Paper: Bates and Schlegel et al 2020
+4624346	Multiglomerular mlALT vPN#R8	15754279	Paper: Bates and Schlegel et al 2020
+4624362	Multiglomerular mlALT vPN#R21	15754279	Paper: Bates and Schlegel et al 2020
+4624374	Uniglomerular mlALT VM2 vPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+4624378	Multiglomerular mlALT vPN#R39	15754279	Paper: Bates and Schlegel et al 2020
+4631791	Multiglomerular mlALT vPN#R43	15754279	Paper: Bates and Schlegel et al 2020
+4632023	Multiglomerular mlALT vPN#R53	15754279	Paper: Bates and Schlegel et al 2020
+4632091	Uniglomerular mlALT DP1l vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4632101	Multiglomerular mlALT vPN#R42	15754279	Paper: Bates and Schlegel et al 2020
+4632128	Multiglomerular mlALT vPN#R12	15754279	Paper: Bates and Schlegel et al 2020
+4632208	Multiglomerular mlALT vPN#R14	15754279	Paper: Bates and Schlegel et al 2020
+4662243	Multiglomerular mlALT vPN#R52	15754279	Paper: Bates and Schlegel et al 2020
+4671556	Biglomerular t10-lALT VP5 + VP3 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4672476	WEDPN5#1	15754279	Paper: Bates and Schlegel et al 2020
+4672650	Uniglomerular t10-lALT VP5 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4744251	LHAD1b2#1	15754279	Paper: Bates and Schlegel et al 2020
+4812228	Uniglomerular mlALT DL2d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020
+4876532	Biglomerular t10-lALT VP5 + VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4905365	Multiglomerular t4-mALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+4926877	Multiglomerular mlALT vPN#R60	15754279	Paper: Bates and Schlegel et al 2020
+4927529	Multiglomerular mlALT vPN#R26	15754279	Paper: Bates and Schlegel et al 2020
+4946872	WEDPN6A#1	15754279	Paper: Bates and Schlegel et al 2020
+4946893	WEDPN2B#1	15754279	Paper: Bates and Schlegel et al 2020
+4947032	WEDPN7A#1	15754279	Paper: Bates and Schlegel et al 2020
+4949516	Multiglomerular mlALT vPN#R25	15754279	Paper: Bates and Schlegel et al 2020
+4954519	Multiglomerular mlALT vPN#R58	15754279	Paper: Bates and Schlegel et al 2020
+4954525	Multiglomerular lALT imPN#2	15754279	Paper: Bates and Schlegel et al 2020
+4970161	LHAD1b2#2	15754279	Paper: Bates and Schlegel et al 2020
+5002989	WEDPN1A#4	15754279	Paper: Bates and Schlegel et al 2020
+5019352	Uniglomerular mlALT DM4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+5030649	LHAD1b2#3	15754279	Paper: Bates and Schlegel et al 2020
+5031366	LHAD1b2#4	15754279	Paper: Bates and Schlegel et al 2020
+5169854	Multiglomerular mALT lvPN#R34	15754279	Paper: Bates and Schlegel et al 2020
+5217967	Uniglomerular mlALT DL2v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+5269364	Uniglomerular mALT DL1 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+5305037	Uniglomerular mALT DL1 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+5341336	LHAV3a1#1	15754279	Paper: Bates and Schlegel et al 2020
+5471515	Uniglomerular t5-mlALT VP3 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+5485737	Multiglomerular mlALT vPN#R28	15754279	Paper: Bates and Schlegel et al 2020
+5494609	Multiglomerular mALT lvPN#R10	15754279	Paper: Bates and Schlegel et al 2020
+5672990	Uniglomerular lALT VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+5676478	LHPV5c2#1	15754279	Paper: Bates and Schlegel et al 2020
+5806820	LHPV5a5#1	15754279	Paper: Bates and Schlegel et al 2020
+5807209	LHPV5a1#6	15754279	Paper: Bates and Schlegel et al 2020
+5807241	LHPV5d3#2	15754279	Paper: Bates and Schlegel et al 2020
+5807249	LHPV5d3#1	15754279	Paper: Bates and Schlegel et al 2020
+5807269	LHPV5d3#3	15754279	Paper: Bates and Schlegel et al 2020
+5807321	LHPV5a1#7	15754279	Paper: Bates and Schlegel et al 2020
+5810932	WEDPN7A#2	15754279	Paper: Bates and Schlegel et al 2020
+5918547	LHPV4a4#5	15754279	Paper: Bates and Schlegel et al 2020
+5937632	LHPV5a1#2	15754279	Paper: Bates and Schlegel et al 2020
+5946848	Biglomerular t10-lALT VP5 + VP2 l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020
+6082926	WEDPN7C#1	15754279	Paper: Bates and Schlegel et al 2020
+6536624	LHAD1b1#1	15754279	Paper: Bates and Schlegel et al 2020
+6622015	Multiglomerular mlALT vPN#R51	15754279	Paper: Bates and Schlegel et al 2020
+6649190	Multiglomerular t-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+6695923	Uniglomerular mlALT DP1m vPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+6696675	Multiglomerular mlALT vPN#R36	15754279	Paper: Bates and Schlegel et al 2020
+6698696	Multiglomerular mlALT vPN#R27	15754279	Paper: Bates and Schlegel et al 2020
+6699444	Multiglomerular mlALT vPN#R48	15754279	Paper: Bates and Schlegel et al 2020
+6700447	Multiglomerular mlALT vPN#R9	15754279	Paper: Bates and Schlegel et al 2020
+6701307	Multiglomerular mlALT vPN#R24	15754279	Paper: Bates and Schlegel et al 2020
+6701319	Multiglomerular mlALT vPN#R23	15754279	Paper: Bates and Schlegel et al 2020
+6702019	Multiglomerular mlALT vPN#R13	15754279	Paper: Bates and Schlegel et al 2020
+6825565	LHPV4a4#4	15754279	Paper: Bates and Schlegel et al 2020
+6967069	Multiglomerular mlALT vPN#R3	15754279	Paper: Bates and Schlegel et al 2020
+7017522	Multiglomerular t10-lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+7481072	WEDPN8C#2	15754279	Paper: Bates and Schlegel et al 2020
+7483643	LHPV4a2#1	15754279	Paper: Bates and Schlegel et al 2020
+7712104	Uniglomerular mALT VC3m lvPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+8406430	Multiglomerular t10-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+8566851	Multiglomerular lALT lv2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+8715672	Multiglomerular t2-mALT ilPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+8777795	Multiglomerular t5-lALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+8825246	Multiglomerular t3-mALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020
+9008431	Uniglomerular mALT VM1 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+9206583	WEDPN8B#1	15754279	Paper: Bates and Schlegel et al 2020
+9206998	WEDPN8C#3	15754279	Paper: Bates and Schlegel et al 2020
+9249174	WEDPN2B#2	15754279	Paper: Bates and Schlegel et al 2020
+9290368	Uniglomerular mALT VA5 lPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+9589676	Uniglomerular mALT VC4 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+9599181	Uniglomerular mALT VM7d adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+9719939	Uniglomerular mALT VM7d adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+9806717	Uniglomerular mALT VM2 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+9899909	Uniglomerular mALT DM3 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+9900451	Uniglomerular mALT VA5 lPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+9901677	Uniglomerular mALT VC3l adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+10078400	Multiglomerular mALT l2PN#R5	15754279	Paper: Bates and Schlegel et al 2020
+10138363	Uniglomerular mALT VA1d adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+10155401	Uniglomerular mALT VA1d adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+10205688	Uniglomerular mALT VC2 lPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+10533089	Uniglomerular mALT VM7d adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+10537555	Uniglomerular mALT DM6 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+10537635	Uniglomerular mALT DM6 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+10538081	Uniglomerular mALT VM7v adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+10538493	Uniglomerular mALT DL2d adPN#L5	15754279	Paper: Bates and Schlegel et al 2020
+10541812	Uniglomerular mALT VM5d adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+10541930	Uniglomerular mALT DL2d adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+10932520	Uniglomerular mlALT VL1 vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+11067958	Uniglomerular mALT D adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+11085462	Uniglomerular mALT VC4 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+11109412	Uniglomerular mlALT VL2a vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+11234968	Uniglomerular t10-lALT VP3+l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+11519370	LHAD1a1#1	15754279	Paper: Bates and Schlegel et al 2020
+11519759	LHCENT9#1	15754279	Paper: Bates and Schlegel et al 2020
+11519897	LHCENT5#1	15754279	Paper: Bates and Schlegel et al 2020
+11522498	LHPV5a1#3	15754279	Paper: Bates and Schlegel et al 2020
+11522927	LHPV4a1#1	15754279	Paper: Bates and Schlegel et al 2020
+11524119	Uniglomerular lALT VP1m l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020
+11524190	LHAV4a1#1	15754279	Paper: Bates and Schlegel et al 2020
+11524386	LHPV4a3#1	15754279	Paper: Bates and Schlegel et al 2020
+11524508	LHPV2c1#2	15754279	Paper: Bates and Schlegel et al 2020
+11543484	LHCENT3#1	15754279	Paper: Bates and Schlegel et al 2020
+11543519	LHAV2d1#1	15754279	Paper: Bates and Schlegel et al 2020
+11544074	Uniglomerular mALT DL1 adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+11544121	Uniglomerular mALT VM7d adPN#R2	15754279	Paper: Bates and Schlegel et al 2020
+11545702	LHPV12a1#1	15754279	Paper: Bates and Schlegel et al 2020
+11545803	LHAV3f1#1	15754279	Paper: Bates and Schlegel et al 2020
+11546775	Multiglomerular t6-mALT smPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+11547665	LHPD2a1#5	15754279	Paper: Bates and Schlegel et al 2020
+11964657	Uniglomerular mALT VM7v adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+12070989	Multiglomerular lALT imPN#1	15754279	Paper: Bates and Schlegel et al 2020
+12202011	Uniglomerular mALT D adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+12202021	Uniglomerular mALT DL2v adPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+12202025	Uniglomerular mALT VM2 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+12718438	Uniglomerular mALT DC3 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+12773180	Uniglomerular mALT VM5v adPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+12784997	Uniglomerular mALT VA1v adPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+12790425	Uniglomerular mALT DM6 adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+12795588	Uniglomerular mALT VM5v adPN#L3	15754279	Paper: Bates and Schlegel et al 2020
+12798240	Uniglomerular mALT VA1v adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+12820972	Uniglomerular mALT VM5d adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+13272860	Uniglomerular mlALT DP1m vPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+13272939	Uniglomerular mlALT DP1m vPN#L1	15754279	Paper: Bates and Schlegel et al 2020
+13565080	LHCENT2#1	15754279	Paper: Bates and Schlegel et al 2020
+14003783	Uniglomerular mALT VP5 + SEZ adPN#R1	15754279	Paper: Bates and Schlegel et al 2020
+14375426	Uniglomerular mALT DL2d adPN#L4	15754279	Paper: Bates and Schlegel et al 2020
+14447818	Uniglomerular mALT VM5v adPN#L2	15754279	Paper: Bates and Schlegel et al 2020
+15738898	LHAV4a3#1	15754279	Paper: Bates and Schlegel et al 2020
+720956	WPNB3#3	15981708	Paper: Coates et al 2020
+829827	Dense ABAF LN#1	15981708	Paper: Coates et al 2020
+1783540	DA2 ORN #4	15981708	Paper: Coates et al 2020
+1989293	DA2 ORN #5	15981708	Paper: Coates et al 2020
+1989493	DC1 ORN #5	15981708	Paper: Coates et al 2020
+1990940	Patchy LN #1	15981708	Paper: Coates et al 2020
+2825182	LN #1	15981708	Paper: Coates et al 2020
+2849437	Patchy LN #2	15981708	Paper: Coates et al 2020
+2851276	LN #2	15981708	Paper: Coates et al 2020
+2891306	Dense ABAF LN#2	15981708	Paper: Coates et al 2020
+3077882	SIMPAL-Right #1	15981708	Paper: Coates et al 2020
+3085783	SIMPAL-Right #2	15981708	Paper: Coates et al 2020
+3601125	WPNB1#2	15981708	Paper: Coates et al 2020
+3644717	SMP Input Neuron #1	15981708	Paper: Coates et al 2020
+3721315	CSDn-left	15981708	Paper: Coates et al 2020
+3755537	WPNB2#2	15981708	Paper: Coates et al 2020
+3802286	DA2 ORN #6	15981708	Paper: Coates et al 2020
+3808894	DC1 ORN #6	15981708	Paper: Coates et al 2020
+3808901	DC1 ORN #7	15981708	Paper: Coates et al 2020
+3808955	vLN#1	15981708	Paper: Coates et al 2020
+3821611	WPNB1#1	15981708	Paper: Coates et al 2020
+3823702	LN #3	15981708	Paper: Coates et al 2020
+3823762	DC1 ORN #15	15981708	Paper: Coates et al 2020
+3823793	DC1 ORN #8	15981708	Paper: Coates et al 2020
+3823828	DC1 ORN #9	15981708	Paper: Coates et al 2020
+3823842	DC1 ORN #10	15981708	Paper: Coates et al 2020
+3871868	WPNB3#4	15981708	Paper: Coates et al 2020
+4079928	DM1 ORN #6	15981708	Paper: Coates et al 2020
+4081029	DM1 ORN #18	15981708	Paper: Coates et al 2020
+4081141	DM1 ORN #7	15981708	Paper: Coates et al 2020
+4081183	DM1 ORN #8	15981708	Paper: Coates et al 2020
+4081193	DM1 ORN #9	15981708	Paper: Coates et al 2020
+4081200	DM1 ORN #20	15981708	Paper: Coates et al 2020
+4095049	VM1 ORN #4	15981708	Paper: Coates et al 2020
+4271367	WPNB3#5	15981708	Paper: Coates et al 2020
+4799868	LN #4	15981708	Paper: Coates et al 2020
+5007809	DA2 ORN #7	15981708	Paper: Coates et al 2020
+5038796	DM5 ORN #8	15981708	Paper: Coates et al 2020
+5110857	DM5 ORN #9	15981708	Paper: Coates et al 2020
+5111043	LN #5	15981708	Paper: Coates et al 2020
+5111160	LN #6	15981708	Paper: Coates et al 2020
+5111282	DM5 ORN #10	15981708	Paper: Coates et al 2020
+5111360	DM5 ORN #23	15981708	Paper: Coates et al 2020
+5114950	LN #22	15981708	Paper: Coates et al 2020
+5115050	LN #7	15981708	Paper: Coates et al 2020
+5115064	LN #8	15981708	Paper: Coates et al 2020
+5157807	SIMPAL-Left #2	15981708	Paper: Coates et al 2020
+5157896	DC1 ORN #16	15981708	Paper: Coates et al 2020
+5158081	DC1 ORN #11	15981708	Paper: Coates et al 2020
+5164684	DC1 ORN #12	15981708	Paper: Coates et al 2020
+5171464	LN #9	15981708	Paper: Coates et al 2020
+5184269	VM1 ORN #5	15981708	Paper: Coates et al 2020
+5219918	sparse ABAF LN#1	15981708	Paper: Coates et al 2020
+5243155	Patchy LN #3	15981708	Paper: Coates et al 2020
+5530489	VM1 ORN #6	15981708	Paper: Coates et al 2020
+5533203	VM1 ORN #7	15981708	Paper: Coates et al 2020
+5692633	Patchy LN #4	15981708	Paper: Coates et al 2020
+5849310	DM1 ORN #21	15981708	Paper: Coates et al 2020
+5849467	DM1 ORN #22	15981708	Paper: Coates et al 2020
+5994210	Patchy LN #5	15981708	Paper: Coates et al 2020
+6097229	WPNB2#1	15981708	Paper: Coates et al 2020
+6128900	VM1 ORN #8	15981708	Paper: Coates et al 2020
+6185002	LN #10	15981708	Paper: Coates et al 2020
+6190457	Patchy LN #6	15981708	Paper: Coates et al 2020
+6192677	LN #11	15981708	Paper: Coates et al 2020
+6209269	Patchy LN #7	15981708	Paper: Coates et al 2020
+6478900	WPNB3#2	15981708	Paper: Coates et al 2020
+6535884	DA2 ORN #8	15981708	Paper: Coates et al 2020
+6621981	VM2 ORN #1	15981708	Paper: Coates et al 2020
+6645033	CSDn-right	15981708	Paper: Coates et al 2020
+6715465	DA2 ORN #9	15981708	Paper: Coates et al 2020
+6792329	WPNB3#6	15981708	Paper: Coates et al 2020
+7018632	vLNb#1	15981708	Paper: Coates et al 2020
+7161775	DM1 ORN #10	15981708	Paper: Coates et al 2020
+7167832	DM1 ORN #23	15981708	Paper: Coates et al 2020
+7179380	DM1 ORN #11	15981708	Paper: Coates et al 2020
+7179492	DM1 ORN #12	15981708	Paper: Coates et al 2020
+7179501	DM1 ORN #13	15981708	Paper: Coates et al 2020
+7179547	DM1 ORN #14	15981708	Paper: Coates et al 2020
+7179613	DM1 ORN #15	15981708	Paper: Coates et al 2020
+7276604	WPNB3#1	15981708	Paper: Coates et al 2020
+7278969	DA1 ORN #1	15981708	Paper: Coates et al 2020
+7278989	LN #12	15981708	Paper: Coates et al 2020
+7298321	Patchy LN #8	15981708	Paper: Coates et al 2020
+7298505	LNsez #1	15981708	Paper: Coates et al 2020
+7298540	Patchy LN #9	15981708	Paper: Coates et al 2020
+7298614	Patchy LN #10	15981708	Paper: Coates et al 2020
+7337521	DA2 ORN #10	15981708	Paper: Coates et al 2020
+7348199	Patchy LN #11	15981708	Paper: Coates et al 2020
+7348208	DA2 ORN #12	15981708	Paper: Coates et al 2020
+7349832	DA2 ORN #13	15981708	Paper: Coates et al 2020
+7349865	DA2 ORN #14	15981708	Paper: Coates et al 2020
+7349870	DA2 ORN #15	15981708	Paper: Coates et al 2020
+7363590	DA2 ORN #16	15981708	Paper: Coates et al 2020
+7363897	DA2 ORN #17	15981708	Paper: Coates et al 2020
+7364280	Patchy LN #12	15981708	Paper: Coates et al 2020
+7365232	vLN#2	15981708	Paper: Coates et al 2020
+7365266	DA2 ORN #18	15981708	Paper: Coates et al 2020
+7462291	DA2 ORN #19	15981708	Paper: Coates et al 2020
+7490384	DA2 ORN #20	15981708	Paper: Coates et al 2020
+7490413	DA2 ORN #21	15981708	Paper: Coates et al 2020
+7702725	Patchy LN #13	15981708	Paper: Coates et al 2020
+7961811	VM1 ORN #9	15981708	Paper: Coates et al 2020
+8149476	vLN#3	15981708	Paper: Coates et al 2020
+8149505	vLNb#2	15981708	Paper: Coates et al 2020
+8382473	Patchy LN #14	15981708	Paper: Coates et al 2020
+8382638	VM2 ORN #2	15981708	Paper: Coates et al 2020
+8382644	VM2 ORN #3	15981708	Paper: Coates et al 2020
+8382651	VM2 ORN #4	15981708	Paper: Coates et al 2020
+8404202	LN #13	15981708	Paper: Coates et al 2020
+8409238	Patchy LN #15	15981708	Paper: Coates et al 2020
+8411733	VM3 ORN #2	15981708	Paper: Coates et al 2020
+8451180	LN #14	15981708	Paper: Coates et al 2020
+8490593	DA2 ORN #22	15981708	Paper: Coates et al 2020
+8490608	DA2 ORN #23	15981708	Paper: Coates et al 2020
+8490628	DA2 ORN #24	15981708	Paper: Coates et al 2020
+8490635	DA2 ORN #25	15981708	Paper: Coates et al 2020
+8540881	SIMPAL-Left #1	15981708	Paper: Coates et al 2020
+8543282	VM2 ORN #5	15981708	Paper: Coates et al 2020
+8552643	VM1 ORN #10	15981708	Paper: Coates et al 2020
+8552754	VM1 ORN #11	15981708	Paper: Coates et al 2020
+8594279	DC1 ORN #13	15981708	Paper: Coates et al 2020
+8633531	Patchy LN #16	15981708	Paper: Coates et al 2020
+8633612	vLN#4	15981708	Paper: Coates et al 2020
+8672384	DM5 ORN #11	15981708	Paper: Coates et al 2020
+8674892	DM5 ORN #24	15981708	Paper: Coates et al 2020
+8677211	DM5 ORN #12	15981708	Paper: Coates et al 2020
+8677226	DM5 ORN #13	15981708	Paper: Coates et al 2020
+8677396	DM5 ORN #14	15981708	Paper: Coates et al 2020
+8677435	DM5 ORN #25	15981708	Paper: Coates et al 2020
+8677465	DM5 ORN #15	15981708	Paper: Coates et al 2020
+8726949	LN #15	15981708	Paper: Coates et al 2020
+8727095	DA2 ORN #26	15981708	Paper: Coates et al 2020
+8727184	DA2 ORN #27	15981708	Paper: Coates et al 2020
+8736980	vLN#5	15981708	Paper: Coates et al 2020
+8736990	VM2 ORN #6	15981708	Paper: Coates et al 2020
+8749911	DM5 ORN #16	15981708	Paper: Coates et al 2020
+8750841	DM5 ORN #17	15981708	Paper: Coates et al 2020
+8752609	DM5 ORN #18	15981708	Paper: Coates et al 2020
+8758596	OA Neuron #1	15981708	Paper: Coates et al 2020
+8758601	Patchy LN #17	15981708	Paper: Coates et al 2020
+8762565	DM5 ORN #19	15981708	Paper: Coates et al 2020
+8929885	DA2 ORN #28	15981708	Paper: Coates et al 2020
+8956024	LN #23	15981708	Paper: Coates et al 2020
+8964539	LNsez #2	15981708	Paper: Coates et al 2020
+8990218	DM5 ORN #20	15981708	Paper: Coates et al 2020
+8990226	DM5 ORN #21	15981708	Paper: Coates et al 2020
+9234139	LN #16	15981708	Paper: Coates et al 2020
+9234183	LN #17	15981708	Paper: Coates et al 2020
+10108062	Patchy LN #18	15981708	Paper: Coates et al 2020
+10133855	VM3 ORN #1	15981708	Paper: Coates et al 2020
+10238492	Patchy LN #19	15981708	Paper: Coates et al 2020
+10485942	LN #18	15981708	Paper: Coates et al 2020
+11085282	DM5 ORN #22	15981708	Paper: Coates et al 2020
+11085290	DM5 ORN #1	15981708	Paper: Coates et al 2020
+11161904	DM1 ORN #1	15981708	Paper: Coates et al 2020
+11355584	DC1 ORN #1	15981708	Paper: Coates et al 2020
+11633437	Patchy LN #20	15981708	Paper: Coates et al 2020
+11673863	DM1 ORN #2	15981708	Paper: Coates et al 2020
+11673877	DM1 ORN #3	15981708	Paper: Coates et al 2020
+11720855	DM1 ORN #4	15981708	Paper: Coates et al 2020
+11720861	DM1 ORN #5	15981708	Paper: Coates et al 2020
+11774082	DC1 ORN #2	15981708	Paper: Coates et al 2020
+11858364	DC1 ORN #3	15981708	Paper: Coates et al 2020
+11858419	vLN#6	15981708	Paper: Coates et al 2020
+11858466	DC1 ORN #4	15981708	Paper: Coates et al 2020
+11920073	DM5 ORN #2	15981708	Paper: Coates et al 2020
+11920098	DM5 ORN #3	15981708	Paper: Coates et al 2020
+11949255	vLN#7	15981708	Paper: Coates et al 2020
+11949260	vLN#8	15981708	Paper: Coates et al 2020
+11950655	DM5 ORN #4	15981708	Paper: Coates et al 2020
+11957607	DM5 ORN #5	15981708	Paper: Coates et al 2020
+11957620	DM5 ORN #6	15981708	Paper: Coates et al 2020
+11957632	DM5 ORN #7	15981708	Paper: Coates et al 2020
+12013369	DA2 ORN #1	15981708	Paper: Coates et al 2020
+12013573	DA2 ORN #2	15981708	Paper: Coates et al 2020
+12024537	DA2 ORN #11	15981708	Paper: Coates et al 2020
+12029493	DA2 ORN #3	15981708	Paper: Coates et al 2020
+12039724	LN #19	15981708	Paper: Coates et al 2020
+12081297	vLNb#3	15981708	Paper: Coates et al 2020
+12084779	LN #20	15981708	Paper: Coates et al 2020
+12859930	vLN#9	15981708	Paper: Coates et al 2020
+12859987	VM1 ORN #1	15981708	Paper: Coates et al 2020
+12863515	VM1 ORN #2	15981708	Paper: Coates et al 2020
+12867308	VM1 ORN #3	15981708	Paper: Coates et al 2020
+12995528	LN #21	15981708	Paper: Coates et al 2020
+13281170	DC1 ORN #14	15981708	Paper: Coates et al 2020
+13762716	DM1 ORN #16	15981708	Paper: Coates et al 2020
+14020953	DM1 ORN #24	15981708	Paper: Coates et al 2020
+14023189	DM1 ORN #19	15981708	Paper: Coates et al 2020
+14545747	DM1 ORN #17	15981708	Paper: Coates et al 2020
 346114	MBONa2sc#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-1299700	PD2a1#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-1415893	PD2a1#3	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+1299700	LHPD2a1#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+1415893	LHPD2a1#3	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
 1420974	MBONa2sc#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-1454234	PD2a1#4	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+1454234	LHPD2a1#4	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
 1540941	MBONap2#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-1606113	PD2b1#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-2205218	PD2a1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-3345012	PD2b1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-11547665	PD2a1#5	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
-30591	MBON-Calyx 30592 ARH ASB JSL	12870485	Paper: Dolan et al. 2019
-488055	AV4c2#1	12870485	Paper: Dolan et al. 2019
-533772	AD3b1#1	12870485	Paper: Dolan et al. 2019
-535060	putative MB-C1 535061	12870485	Paper: Dolan et al. 2019
-1102557	PV6c1#1	12870485	Paper: Dolan et al. 2019
-1103232	PV4c1#1	12870485	Paper: Dolan et al. 2019
-1149437	AD1e1#1	12870485	Paper: Dolan et al. 2019
-1288534	AV4a1#1	12870485	Paper: Dolan et al. 2019
-1313334	WED-PN3#1	12870485	Paper: Dolan et al. 2019
-1415926	AV6a1#1	12870485	Paper: Dolan et al. 2019
-1478950	PPL2ab-PN1#1	12870485	Paper: Dolan et al. 2019
-1546454	PV5k1#1	12870485	Paper: Dolan et al. 2019
-1621078	PV5g1#1	12870485	Paper: Dolan et al. 2019
-1703751	AD1b2#2	12870485	Paper: Dolan et al. 2019
-1703872	PV2a1#1	12870485	Paper: Dolan et al. 2019
-1710793	PV4a2#2	12870485	Paper: Dolan et al. 2019
-1812530	AV4c1#1	12870485	Paper: Dolan et al. 2019
-1853423	AV4b2#1	12870485	Paper: Dolan et al. 2019
-1869224	PV4d4#1	12870485	Paper: Dolan et al. 2019
-1870230	AV2a1#1	12870485	Paper: Dolan et al. 2019
-1879479	AD1a2#1	12870485	Paper: Dolan et al. 2019
-1911124	AV4a4#1	12870485	Paper: Dolan et al. 2019
-1967862	AV1a2#1	12870485	Paper: Dolan et al. 2019
-1967891	AV4b4#1	12870485	Paper: Dolan et al. 2019
-2096700	PV4a12#1	12870485	Paper: Dolan et al. 2019
-2130631	PV6a3#1	12870485	Paper: Dolan et al. 2019
-2153398	WED-PN4#1	12870485	Paper: Dolan et al. 2019
-2198365	AV2b2#1	12870485	Paper: Dolan et al. 2019
-2227995	WED-PN1#1	12870485	Paper: Dolan et al. 2019
-2402951	AD1d1#1	12870485	Paper: Dolan et al. 2019
-2425247	PV5a1#1	12870485	Paper: Dolan et al. 2019
-2548003	PV4a7#2	12870485	Paper: Dolan et al. 2019
-2638597	AV2b1#1	12870485	Paper: Dolan et al. 2019
-2684792	AV1a1#1	12870485	Paper: Dolan et al. 2019
-2794070	AV1a3#1	12870485	Paper: Dolan et al. 2019
-2842610	AD1b2#1	12870485	Paper: Dolan et al. 2019
-2851242	AV4a3#1	12870485	Paper: Dolan et al. 2019
-2969221	AD2a2#1	12870485	Paper: Dolan et al. 2019
-3075158	AD1b2#3	12870485	Paper: Dolan et al. 2019
-3078257	AD1b2#4	12870485	Paper: Dolan et al. 2019
-3080086	AD1b2#5	12870485	Paper: Dolan et al. 2019
-3080225	AD1b2#6	12870485	Paper: Dolan et al. 2019
-3136591	PV2c1#1	12870485	Paper: Dolan et al. 2019
-3367291	PV4a7#1	12870485	Paper: Dolan et al. 2019
-3481901	PD3a1#1	12870485	Paper: Dolan et al. 2019
-3587600	AV5a1#1	12870485	Paper: Dolan et al. 2019
-3877150	AD1b2#7	12870485	Paper: Dolan et al. 2019
-3897655	PV4a1#2	12870485	Paper: Dolan et al. 2019
-3931736	PV3f1#1	12870485	Paper: Dolan et al. 2019
-3931886	PV2b1#1	12870485	Paper: Dolan et al. 2019
-3932461	PV2d1#1	12870485	Paper: Dolan et al. 2019
-3950037	WED-PN2#1	12870485	Paper: Dolan et al. 2019
-4017748	VNC-PN1#1	12870485	Paper: Dolan et al. 2019
-4044614	PV4a2#1	12870485	Paper: Dolan et al. 2019
-4100701	PV4a5#1	12870485	Paper: Dolan et al. 2019
-4176088	AV7a1#1	12870485	Paper: Dolan et al. 2019
-4182038	PD3a2#1	12870485	Paper: Dolan et al. 2019
-4191753	LO-PN1#1	12870485	Paper: Dolan et al. 2019
-4215506	PV4a4#1	12870485	Paper: Dolan et al. 2019
-4292232	PV4c3#1	12870485	Paper: Dolan et al. 2019
-4355299	PV4a10#1	12870485	Paper: Dolan et al. 2019
-4513533	AD1b2#8	12870485	Paper: Dolan et al. 2019
-4672476	WED-PN5#1	12870485	Paper: Dolan et al. 2019
-4744251	AD1b2#9	12870485	Paper: Dolan et al. 2019
-4902612	AV6b1#1	12870485	Paper: Dolan et al. 2019
-4945705	PV5b3#1	12870485	Paper: Dolan et al. 2019
-4946872	WED-PN6#1	12870485	Paper: Dolan et al. 2019
-4974403	PLP-PN1#1	12870485	Paper: Dolan et al. 2019
-5292219	PV5b2#1	12870485	Paper: Dolan et al. 2019
-5676478	PV5c1#1	12870485	Paper: Dolan et al. 2019
-5807217	PV5g2#1	12870485	Paper: Dolan et al. 2019
-5918547	PV4a2#3	12870485	Paper: Dolan et al. 2019
-5990596	AV4b8#1	12870485	Paper: Dolan et al. 2019
-6197374	PV5c2#1	12870485	Paper: Dolan et al. 2019
-6203604	PV4b1#1	12870485	Paper: Dolan et al. 2019
-6536624	AD1b1#1	12870485	Paper: Dolan et al. 2019
-6772893	AV6c1#1	12870485	Paper: Dolan et al. 2019
-6825565	PV4a2#4	12870485	Paper: Dolan et al. 2019
-7483643	PV4a1#3	12870485	Paper: Dolan et al. 2019
-7739922	GNG-PN1#1	12870485	Paper: Dolan et al. 2019
-8521115	LO-PN2#1	12870485	Paper: Dolan et al. 2019
-8739442	PV6a1#1	12870485	Paper: Dolan et al. 2019
-8927505	AVLP-PN1#1	12870485	Paper: Dolan et al. 2019
-11519370	AD1a1#1	12870485	Paper: Dolan et al. 2019
-11519536	PV4b2#1	12870485	Paper: Dolan et al. 2019
-11520049	PV5a3#1	12870485	Paper: Dolan et al. 2019
-11522508	AV6b3#1	12870485	Paper: Dolan et al. 2019
-11522927	PV4a1#1	12870485	Paper: Dolan et al. 2019
-11524200	PV5b1#1	12870485	Paper: Dolan et al. 2019
-11524299	PV4b3#1	12870485	Paper: Dolan et al. 2019
-11524386	PV4a3#1	12870485	Paper: Dolan et al. 2019
-11524475	PV4d1#1	12870485	Paper: Dolan et al. 2019
-11545702	PV12a1#1	12870485	Paper: Dolan et al. 2019
-14809659	PV4c2#1	12870485	Paper: Dolan et al. 2019
+1606113	LHPD2b1#1	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+2205218	LHPD2a1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+3345012	LHPD2b1#2	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+11547665	LHPD2a1#5	13040382	Paper: Dolan and Belliart-Guérin et al. 2018
+30591	MBON-Calyx#1	15754283	Paper: Dolan et al 2019
+488055	LHAV4c1#1	15754283	Paper: Dolan et al 2019
+533772	LHAD3a1#1	15754283	Paper: Dolan et al 2019
+535060	MB-C1#1	15754283	Paper: Dolan et al 2019
+556874	LHPV5a3#2	15754283	Paper: Dolan et al 2019
+1102557	LHPV6c1#2	15754283	Paper: Dolan et al 2019
+1103232	LHPV4c4#2	15754283	Paper: Dolan et al 2019
+1149437	aSP-g1b#2	15754283	Paper: Dolan et al 2019
+1313334	WEDPN3#3	15754283	Paper: Dolan et al 2019
+1415926	LHAV6a1#1	15754283	Paper: Dolan et al 2019
+1478950	PPL203#1	15754283	Paper: Dolan et al 2019
+1546454	FB2H#1	15754283	Paper: Dolan et al 2019
+1621078	LHPV5g1#1	15754283	Paper: Dolan et al 2019
+1703872	LHPV2a2#1	15754283	Paper: Dolan et al 2019
+1710793	LHPV4a1#3	15754283	Paper: Dolan et al 2019
+1853423	LHAV4a4#2	15754283	Paper: Dolan et al 2019
+1869224	LHPV4b9#1	15754283	Paper: Dolan et al 2019
+1870230	LHAV2a3#1	15754283	Paper: Dolan et al 2019
+1879479	LHAD1f4#1	15754283	Paper: Dolan et al 2019
+1911124	LHAV4a4#1	15754283	Paper: Dolan et al 2019
+1967862	LHAV1a2#1	15754283	Paper: Dolan et al 2019
+1967891	LHAV4b2#1	15754283	Paper: Dolan et al 2019
+2050698	LHAV4e7#1	15754283	Paper: Dolan et al 2019
+2096700	LHPV4b3#2	15754283	Paper: Dolan et al 2019
+2130631	LHPV6a3#2	15754283	Paper: Dolan et al 2019
+2153398	WEDPN4#1	15754283	Paper: Dolan et al 2019
+2198365	LHAV2b2#1	15754283	Paper: Dolan et al 2019
+2227995	WEDPN1A#2	15754283	Paper: Dolan et al 2019
+2372530	LHPV4d3#2	15754283	Paper: Dolan et al 2019
+2402951	LHAD1d1#1	15754283	Paper: Dolan et al 2019
+2425247	LHPV5a2#1	15754283	Paper: Dolan et al 2019
+2477473	aSP-g1b#1	15754283	Paper: Dolan et al 2019
+2548003	LHPV4a10#1	15754283	Paper: Dolan et al 2019
+2638597	LHAV2b1#1	15754283	Paper: Dolan et al 2019
+2659704	LHAV1a1#1	15754283	Paper: Dolan et al 2019
+2684792	LHAV1a1#2	15754283	Paper: Dolan et al 2019
+2794070	LHAV1a3#1	15754283	Paper: Dolan et al 2019
+2842610	LHAD1b2#11	15754283	Paper: Dolan et al 2019
+2851242	LHAV4g1#1	15754283	Paper: Dolan et al 2019
+2969221	LHAD1c1#2	15754283	Paper: Dolan et al 2019
+3075158	LHAD1b2#10	15754283	Paper: Dolan et al 2019
+3078257	LHAD1b2#9	15754283	Paper: Dolan et al 2019
+3080086	LHAD1b2#8	15754283	Paper: Dolan et al 2019
+3080183	LHAD1c1#1	15754283	Paper: Dolan et al 2019
+3080225	LHAD1b2#7	15754283	Paper: Dolan et al 2019
+3136251	LHPD3a4#1	15754283	Paper: Dolan et al 2019
+3136591	LHPV2c1#3	15754283	Paper: Dolan et al 2019
+3367291	LHPV4a7#1	15754283	Paper: Dolan et al 2019
+3376158	LHPV6o1#1	15754283	Paper: Dolan et al 2019
+3393889	LHAV4e4#1	15754283	Paper: Dolan et al 2019
+3421839	LHPV4a2#3	15754283	Paper: Dolan et al 2019
+3481901	LHPD3a5#1	15754283	Paper: Dolan et al 2019
+3587600	LHAV5a1#1	15754283	Paper: Dolan et al 2019
+3877150	LHAD1b2#6	15754283	Paper: Dolan et al 2019
+3897655	LHPV4a1#2	15754283	Paper: Dolan et al 2019
+3931736	LHPV3b1#1	15754283	Paper: Dolan et al 2019
+3931886	LHPV2a1#4	15754283	Paper: Dolan et al 2019
+3932461	LHPV2a1#5	15754283	Paper: Dolan et al 2019
+4017748	VES002#1	15754283	Paper: Dolan et al 2019
+4044614	LHPV4a2#2	15754283	Paper: Dolan et al 2019
+4100701	LHPV4k1#1	15754283	Paper: Dolan et al 2019
+4176088	LHAV7a1#1	15754283	Paper: Dolan et al 2019
+4176285	LHPV4a7#2	15754283	Paper: Dolan et al 2019
+4182038	LHPD3a2#1	15754283	Paper: Dolan et al 2019
+4191753	LC43#1	15754283	Paper: Dolan et al 2019
+4215506	LHPV4a5#1	15754283	Paper: Dolan et al 2019
+4274682	LHPV4a4#3	15754283	Paper: Dolan et al 2019
+4292232	LHPV4g1#1	15754283	Paper: Dolan et al 2019
+4355299	LHPV4a9#1	15754283	Paper: Dolan et al 2019
+4513533	LHAD1b2#5	15754283	Paper: Dolan et al 2019
+4672476	WEDPN5#1	15754283	Paper: Dolan et al 2019
+4744251	LHAD1b2#1	15754283	Paper: Dolan et al 2019
+4902612	LHAV6b1#1	15754283	Paper: Dolan et al 2019
+4945705	LHPV5b3#1	15754283	Paper: Dolan et al 2019
+4946872	WEDPN6A#1	15754283	Paper: Dolan et al 2019
+4974403	PLP156#1	15754283	Paper: Dolan et al 2019
+5292219	LHPV5b2#1	15754283	Paper: Dolan et al 2019
+5341336	LHAV3a1#1	15754283	Paper: Dolan et al 2019
+5670783	LHPV4a4#2	15754283	Paper: Dolan et al 2019
+5676478	LHPV5c2#1	15754283	Paper: Dolan et al 2019
+5807217	LHPV5g2#1	15754283	Paper: Dolan et al 2019
+5918547	LHPV4a4#5	15754283	Paper: Dolan et al 2019
+5990596	LHAV4e7#2	15754283	Paper: Dolan et al 2019
+6185360	AVLP026#1	15754283	Paper: Dolan et al 2019
+6197374	LHPV5c3#1	15754283	Paper: Dolan et al 2019
+6203604	LHPV4b1#1	15754283	Paper: Dolan et al 2019
+6536624	LHAD1b1#1	15754283	Paper: Dolan et al 2019
+6772893	LHAV6c1#1	15754283	Paper: Dolan et al 2019
+6825565	LHPV4a4#4	15754283	Paper: Dolan et al 2019
+6900869	LHPV4a4#1	15754283	Paper: Dolan et al 2019
+7483643	LHPV4a2#1	15754283	Paper: Dolan et al 2019
+7739922	GNG-PN1#1	15754283	Paper: Dolan et al 2019
+8521115	LC40b#1	15754283	Paper: Dolan et al 2019
+8739442	LHPV6a1#1	15754283	Paper: Dolan et al 2019
+8927505	AVLP560#1	15754283	Paper: Dolan et al 2019
+9249174	WEDPN2B#2	15754283	Paper: Dolan et al 2019
+11519370	LHAD1a1#1	15754283	Paper: Dolan et al 2019
+11519536	PV4b2#1	15754283	Paper: Dolan et al 2019
+11520049	LHPV5a3#1	15754283	Paper: Dolan et al 2019
+11522508	LHAV4b1#1	15754283	Paper: Dolan et al 2019
+11522927	LHPV4a1#1	15754283	Paper: Dolan et al 2019
+11524190	LHAV4a1#1	15754283	Paper: Dolan et al 2019
+11524200	LHPV5d1#2	15754283	Paper: Dolan et al 2019
+11524299	LHPV6l1#1	15754283	Paper: Dolan et al 2019
+11524386	LHPV4a3#1	15754283	Paper: Dolan et al 2019
+11524475	LHPV4d3#1	15754283	Paper: Dolan et al 2019
+11544024	LHPV4a8#1	15754283	Paper: Dolan et al 2019
+11545702	LHPV12a1#1	15754283	Paper: Dolan et al 2019
+14809659	PV4c2#1	15754283	Paper: Dolan et al 2019
+15738796	LHAV4c2#1	15754283	Paper: Dolan et al 2019
+15738886	LHAV4a1#2	15754283	Paper: Dolan et al 2019
+15738898	LHAV4a3#1	15754283	Paper: Dolan et al 2019
 2109445	MBON-y5B'2a	12823574	Paper: Felsenberg et al 2018
 2333007	MBON-y1pedc>a/B	12823574	Paper: Felsenberg et al 2018
 4291899	MBON-B'2mp	12823574	Paper: Felsenberg et al 2018
@@ -201,10 +994,337 @@ skid	name	paper_id	paper_name
 3760675	AMMC-B1-3	14896682	Paper: Kim et al 2020
 3760679	AMMC-B1-2	14896682	Paper: Kim et al 2020
 3760683	AMMC-B1-5	14896682	Paper: Kim et al 2020
+3078	VP1m l2PN_L	15579831	Paper: Marin et al 2020
+8142	KCgR#6	15579831	Paper: Marin et al 2020
+8798	KCg-s1R	15579831	Paper: Marin et al 2020
+9210	KCgR#1	15579831	Paper: Marin et al 2020
+16274	KCa'b'-ap1_R#10	15579831	Paper: Marin et al 2020
+23005	Multiglomerular lALT l2PN bilateral#R1	15579831	Paper: Marin et al 2020
+30571	PPL202#1	15579831	Paper: Marin et al 2020
+32793	Multiglomerular mALT l2PN#R2	15579831	Paper: Marin et al 2020
+36909	KCgR#10	15579831	Paper: Marin et al 2020
+37212	Multiglomerular mALT lPN#R4	15579831	Paper: Marin et al 2020
+37235	Multiglomerular mALT lPN#R9	15579831	Paper: Marin et al 2020
+37513	Biglomerular mALT VP3 + VP1l ivPN bilateral#L1	15579831	Paper: Marin et al 2020
+39254	Uniglomerular mALT VC5 adPN#R1	15579831	Paper: Marin et al 2020
+45882	Biglomerular mALT VP3 + VP1l ivPN bilateral#R1	15579831	Paper: Marin et al 2020
+46105	Biglomerular VP1m + VP5 mALT ilPN bilateral#L1	15579831	Paper: Marin et al 2020
+56999	Uniglomerular mALT VP1l+ lvPN#R3	15579831	Paper: Marin et al 2020
+57015	Multiglomerular mALT lvPN#R18	15579831	Paper: Marin et al 2020
+57051	Multiglomerular mALT lvPN#R22	15579831	Paper: Marin et al 2020
+57059	Multiglomerular mALT lvPN#R29	15579831	Paper: Marin et al 2020
+57063	Uniglomerular mALT VP2 + SEZ lvPN#R3	15579831	Paper: Marin et al 2020
+57110	LHAV8a1#1	15579831	Paper: Marin et al 2020
+57114	Multiglomerular mALT lvPN#R28	15579831	Paper: Marin et al 2020
+57122	Multiglomerular mALT lvPN#R27	15579831	Paper: Marin et al 2020
+57126	Multiglomerular mALT lvPN#R25	15579831	Paper: Marin et al 2020
+57130	Uniglomerular mALT VC5+ lvPN bilateral#R2	15579831	Paper: Marin et al 2020
+57134	Multiglomerular mALT lvPN#R21	15579831	Paper: Marin et al 2020
+57138	Multiglomerular mALT lvPN#R20	15579831	Paper: Marin et al 2020
+57142	Multiglomerular mALT lvPN#R26	15579831	Paper: Marin et al 2020
+57146	Uniglomerular mALT VP2 + SEZ lvPN#R1	15579831	Paper: Marin et al 2020
+57166	Uniglomerular mALT VP2 + SEZ lvPN#R2	15579831	Paper: Marin et al 2020
+57175	Multiglomerular mALT lvPN#R19	15579831	Paper: Marin et al 2020
+57200	Uniglomerular mALT VP1l+ lvPN#R2	15579831	Paper: Marin et al 2020
+57224	Uniglomerular mALT VP1l+ lvPN#R1	15579831	Paper: Marin et al 2020
+57236	Uniglomerular mALT VC5+ lvPN bilateral#R1	15579831	Paper: Marin et al 2020
+57426	Multiglomerular mALT lPN#R2	15579831	Paper: Marin et al 2020
+57430	Multiglomerular mALT lPN bilateral#R3	15579831	Paper: Marin et al 2020
+57434	Multiglomerular mALT lPN bilateral#R2	15579831	Paper: Marin et al 2020
+57442	Multiglomerular mALT lPN#R7	15579831	Paper: Marin et al 2020
+57446	Multiglomerular mALT lPN#R3	15579831	Paper: Marin et al 2020
+57475	Multiglomerular mALT smPN bilateral#L1	15579831	Paper: Marin et al 2020
+57487	Biglomerular mALT VP1l + VP3 ilPN bilateral#L1	15579831	Paper: Marin et al 2020
+57495	Biglomerular mALT VP1l + VP3 ilPN bilateral#R1	15579831	Paper: Marin et al 2020
+57503	Biglomerular VP1m + VP5 mALT ilPN bilateral#R1	15579831	Paper: Marin et al 2020
+57516	Uniglomerular mALT VP2 adPN#R1	15579831	Paper: Marin et al 2020
+79579	LHPV2a1#1	15579831	Paper: Marin et al 2020
+175027	KCa'b'-ap1_R#11	15579831	Paper: Marin et al 2020
+182684	Multiglomerular mALT lPN#R1	15579831	Paper: Marin et al 2020
+192423	Uniglomerular dALT VP1d il2PN#R1	15579831	Paper: Marin et al 2020
+192430	Multiglomerular t2-mALT lvPN#R2	15579831	Paper: Marin et al 2020
+192547	Uniglomerular lALT V ilPN bilateral#R1	15579831	Paper: Marin et al 2020
+203504	Uniglomerular dALT VP1d il2PN#L1	15579831	Paper: Marin et al 2020
+369583	LHPV10c1#1	15579831	Paper: Marin et al 2020
+400943	Uniglomerular mALT VC3m lvPN#R3	15579831	Paper: Marin et al 2020
+478805	KCa'b'-ap1_R#9	15579831	Paper: Marin et al 2020
+561100	VP3 vPN_L	15579831	Paper: Marin et al 2020
+561909	VP3RNbl#1	15579831	Paper: Marin et al 2020
+989621	VP3RNbr#1	15579831	Paper: Marin et al 2020
+1091854	LHPV4c4#1	15579831	Paper: Marin et al 2020
+1120955	LHPV4c1#3	15579831	Paper: Marin et al 2020
+1149173	Uniglomerular t5-mlALT VP4 vPN#R1	15579831	Paper: Marin et al 2020
+1309241	AV3r1#2	15579831	Paper: Marin et al 2020
+1356477	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	15579831	Paper: Marin et al 2020
+1363077	Multiglomerular t3-mALT l2PN#R1	15579831	Paper: Marin et al 2020
+1372988	Multiglomerular mALT lvPN#R23	15579831	Paper: Marin et al 2020
+1664544	Multiglomerular t3-mALT l2PN bilateral#R1	15579831	Paper: Marin et al 2020
+1712057	Uniglomerular mALT VP2+ adPN#R1	15579831	Paper: Marin et al 2020
+1868440	LHPV6g1#1	15579831	Paper: Marin et al 2020
+2315173	LHAV3q1#1	15579831	Paper: Marin et al 2020
+2466931	LHPV6c1#1	15579831	Paper: Marin et al 2020
+2484510	Uniglomerular mlALT VP4 vPN bilateral#R1	15579831	Paper: Marin et al 2020
+2600341	Multiglomerular lALT l2PN bilateral#R2	15579831	Paper: Marin et al 2020
+2851031	VP1dRNr#1	15579831	Paper: Marin et al 2020
+2856545	VP1dRNr#2	15579831	Paper: Marin et al 2020
+3094186	DNp44	15579831	Paper: Marin et al 2020
+3420237	Uniglomerular mALT VC5 adPN#L1	15579831	Paper: Marin et al 2020
+3439570	LHAV4i1#1	15579831	Paper: Marin et al 2020
+3444435	VP4RNl#1	15579831	Paper: Marin et al 2020
+3444556	VP4RNr#1	15579831	Paper: Marin et al 2020
+3648956	Multiglomerular mALT lPN bilateral#R1	15579831	Paper: Marin et al 2020
+3742499	Uniglomerular mALT VP1l lvPN bilateral#R1	15579831	Paper: Marin et al 2020
+3813424	Multiglomerular mlALT vPN#R56	15579831	Paper: Marin et al 2020
+3813438	Multiglomerular mlALT vPN#R57	15579831	Paper: Marin et al 2020
+3813442	Multiglomerular mlALT vPN#R55	15579831	Paper: Marin et al 2020
+3813447	Multiglomerular mlALT vPN#R54	15579831	Paper: Marin et al 2020
+3908507	Multiglomerular lALT l2PN#R3	15579831	Paper: Marin et al 2020
+3968249	LHPV4c1#2	15579831	Paper: Marin et al 2020
+3973434	DN1a#2	15579831	Paper: Marin et al 2020
+4002166	Multiglomerular t9-lALT lv2PN#R1	15579831	Paper: Marin et al 2020
+4044728	LHPV4h1#1	15579831	Paper: Marin et al 2020
+4058666	Multiglomerular t2-mALT lvPN#R1	15579831	Paper: Marin et al 2020
+4129363	DN1a#1	15579831	Paper: Marin et al 2020
+4177248	VP1l+ lvPN1#1_L	15579831	Paper: Marin et al 2020
+4180842	KCa'b'-ap1_R#8	15579831	Paper: Marin et al 2020
+4181431	tKCa'b'-ap1_R#1	15579831	Paper: Marin et al 2020
+4181593	LHPV2a1#2	15579831	Paper: Marin et al 2020
+4182148	PV6r1#3	15579831	Paper: Marin et al 2020
+4182361	PV6r1#2	15579831	Paper: Marin et al 2020
+4182914	KCa'b'-ap1_R#2	15579831	Paper: Marin et al 2020
+4195469	Multiglomerular lALT l2PN#R4	15579831	Paper: Marin et al 2020
+4214681	PV6r1#1	15579831	Paper: Marin et al 2020
+4262079	VP4RNr#2	15579831	Paper: Marin et al 2020
+4294123	PD5g1#2	15579831	Paper: Marin et al 2020
+4330202	VP4RNr#3	15579831	Paper: Marin et al 2020
+4353150	VP4RNr#4	15579831	Paper: Marin et al 2020
+4393480	VP4RNl#2	15579831	Paper: Marin et al 2020
+4404808	VP1lRNr#1	15579831	Paper: Marin et al 2020
+4495405	VP2+SEZ lvPN2_L	15579831	Paper: Marin et al 2020
+4564481	VP1mRNr#1	15579831	Paper: Marin et al 2020
+4565316	VP5RNr#1	15579831	Paper: Marin et al 2020
+4631122	VP4+VP2+VL1 l2PN_L	15579831	Paper: Marin et al 2020
+4632023	Multiglomerular mlALT vPN#R53	15579831	Paper: Marin et al 2020
+4670373	VP2RNr#1	15579831	Paper: Marin et al 2020
+4671556	Biglomerular t10-lALT VP5 + VP3 l2PN#R1	15579831	Paper: Marin et al 2020
+4672650	Uniglomerular t10-lALT VP5 l2PN#R1	15579831	Paper: Marin et al 2020
+4712132	VP1mRNr#2	15579831	Paper: Marin et al 2020
+4724830	VC5+ lvPN1#1*_L	15579831	Paper: Marin et al 2020
+4865044	VP3RNar#1	15579831	Paper: Marin et al 2020
+4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral#R2	15579831	Paper: Marin et al 2020
+4876532	Biglomerular t10-lALT VP5 + VP2 l2PN#R1	15579831	Paper: Marin et al 2020
+4889524	VP1mRNr#3	15579831	Paper: Marin et al 2020
+4954519	Multiglomerular mlALT vPN#R58	15579831	Paper: Marin et al 2020
+4978157	VP4RNl#3	15579831	Paper: Marin et al 2020
+5038422	VP2RNr#2	15579831	Paper: Marin et al 2020
+5062598	LHPV6k2#1	15579831	Paper: Marin et al 2020
+5122761	VC5++ l2PN1#1*_L	15579831	Paper: Marin et al 2020
+5140342	VP1lRNr#2	15579831	Paper: Marin et al 2020
+5172413	VP1lRNr#3	15579831	Paper: Marin et al 2020
+5183432	LHPV2a1#3	15579831	Paper: Marin et al 2020
+5241419	VP5RNr#2	15579831	Paper: Marin et al 2020
+5299610	VP4RNr#5	15579831	Paper: Marin et al 2020
+5331881	VP5RNr#3	15579831	Paper: Marin et al 2020
+5370537	VP1dRNr#3	15579831	Paper: Marin et al 2020
+5400401	VP5RNr#4	15579831	Paper: Marin et al 2020
+5434675	VP1mRNr#4	15579831	Paper: Marin et al 2020
+5459431	KCgR#2	15579831	Paper: Marin et al 2020
+5471515	Uniglomerular t5-mlALT VP3 vPN#R1	15579831	Paper: Marin et al 2020
+5501963	VP1dRNr#4	15579831	Paper: Marin et al 2020
+5582907	VC5++ l2PN2_L	15579831	Paper: Marin et al 2020
+5605174	LHPV4c3#1	15579831	Paper: Marin et al 2020
+5643689	VP1d+VP1l vPN_L	15579831	Paper: Marin et al 2020
+5672990	Uniglomerular lALT VP2 l2PN#R1	15579831	Paper: Marin et al 2020
+5675473	VP2RNr#3	15579831	Paper: Marin et al 2020
+5678610	VP5RNr#5	15579831	Paper: Marin et al 2020
+5700449	VP1mRNr#5	15579831	Paper: Marin et al 2020
+5709099	VP5RNr#6	15579831	Paper: Marin et al 2020
+5714879	VP1dRNr#5	15579831	Paper: Marin et al 2020
+5747727	VP5RNr#7	15579831	Paper: Marin et al 2020
+5813673	KCa'b'-ap1_R#7	15579831	Paper: Marin et al 2020
+5816884	KCg-s2R	15579831	Paper: Marin et al 2020
+5824641	KCa'b'-ap1_R#4	15579831	Paper: Marin et al 2020
+5824701	tKCa'b'-ap1_R#2	15579831	Paper: Marin et al 2020
+5824712	LHPV6f1#3	15579831	Paper: Marin et al 2020
+5832021	KCa'b'-ap1_R#5	15579831	Paper: Marin et al 2020
+5937458	VP5RNr#8	15579831	Paper: Marin et al 2020
+5946637	VP3++ l2PN_L	15579831	Paper: Marin et al 2020
+5946848	Biglomerular t10-lALT VP5 + VP2 l2PN#R2	15579831	Paper: Marin et al 2020
+5982276	LHPD5a1#1	15579831	Paper: Marin et al 2020
+6279367	tKCa'b'-ap1_R#3	15579831	Paper: Marin et al 2020
+6292134	SLP364#2	15579831	Paper: Marin et al 2020
+6292328	SLP364#1	15579831	Paper: Marin et al 2020
+6292583	LHPV4c1#1	15579831	Paper: Marin et al 2020
+6547334	VP5RNr#9	15579831	Paper: Marin et al 2020
+6852116	AV3r1#1	15579831	Paper: Marin et al 2020
+7017522	Multiglomerular t10-lALT l2PN#R1	15579831	Paper: Marin et al 2020
+7385775	VP3RNar#2	15579831	Paper: Marin et al 2020
+7423431	VP2+SEZ lvPN1#1_L	15579831	Paper: Marin et al 2020
+7427360	VP3RNar#3	15579831	Paper: Marin et al 2020
+7463926	VP1l+ lvPN1#2_L	15579831	Paper: Marin et al 2020
+7837487	VP1lRNl#1	15579831	Paper: Marin et al 2020
+7910699	VP1lRNl#6	15579831	Paper: Marin et al 2020
+7910760	VP1lRNl#7	15579831	Paper: Marin et al 2020
+8139894	KCa'b'-ap1_R#3	15579831	Paper: Marin et al 2020
+8361575	KCgR#9	15579831	Paper: Marin et al 2020
+8406430	Multiglomerular t10-mALT l2PN#R1	15579831	Paper: Marin et al 2020
+8665620	VP1lRNr#4	15579831	Paper: Marin et al 2020
+8715672	Multiglomerular t2-mALT ilPN#R1	15579831	Paper: Marin et al 2020
+8799774	KCa'b'-ap1_R#1	15579831	Paper: Marin et al 2020
+8808525	LHPV6f1#2	15579831	Paper: Marin et al 2020
+8808541	KCgR#3	15579831	Paper: Marin et al 2020
+8808581	KCa'b'-m_R#1	15579831	Paper: Marin et al 2020
+8808887	KCgR#4	15579831	Paper: Marin et al 2020
+8820702	PD5g1#4	15579831	Paper: Marin et al 2020
+8821288	KCa'b'-ap1_R#6	15579831	Paper: Marin et al 2020
+8822544	KCgR#5	15579831	Paper: Marin et al 2020
+8825246	Multiglomerular t3-mALT l2PN#R2	15579831	Paper: Marin et al 2020
+8847299	KCa'b'-ap1_L#8	15579831	Paper: Marin et al 2020
+8848927	KCa'b'-ap1_L#6	15579831	Paper: Marin et al 2020
+8851349	KCa'b'-ap1_L#3	15579831	Paper: Marin et al 2020
+8853436	KCg-s2L	15579831	Paper: Marin et al 2020
+8853753	LHPV4c#1_L	15579831	Paper: Marin et al 2020
+8854268	LHPV4c#3_L	15579831	Paper: Marin et al 2020
+8854339	tKCa'b'-ap1_L#1	15579831	Paper: Marin et al 2020
+8864744	KCa'b'-ap1_L#10	15579831	Paper: Marin et al 2020
+8864990	VP2+ adPN_L	15579831	Paper: Marin et al 2020
+8865424	KCa'b'-ap1_L#12	15579831	Paper: Marin et al 2020
+8865505	KCgL#2	15579831	Paper: Marin et al 2020
+8865603	KCgL#3	15579831	Paper: Marin et al 2020
+8866744	KCa'b'-ap1_L#4	15579831	Paper: Marin et al 2020
+8867359	KCa'b'-ap1_L#1	15579831	Paper: Marin et al 2020
+8867611	DN1a#1_L	15579831	Paper: Marin et al 2020
+8867765	PV6r1#1_L	15579831	Paper: Marin et al 2020
+8869397	KCa'b'-ap1_L#5	15579831	Paper: Marin et al 2020
+8869803	KCa'b'-ap1_L#11	15579831	Paper: Marin et al 2020
+8870427	KCa'b'-ap1_L#9	15579831	Paper: Marin et al 2020
+8870514	PV6r1#2_L	15579831	Paper: Marin et al 2020
+8872558	LHPV4c#4_L	15579831	Paper: Marin et al 2020
+8873592	LHAV3q1#1_L	15579831	Paper: Marin et al 2020
+8875932	PD5g1#2_L	15579831	Paper: Marin et al 2020
+8876600	DN1-l_L	15579831	Paper: Marin et al 2020
+8877293	PV6r1#4_L	15579831	Paper: Marin et al 2020
+8877321	KCa'b'-ap1_L#7	15579831	Paper: Marin et al 2020
+8880131	PD5g1#3_L	15579831	Paper: Marin et al 2020
+8880337	tKCa'b'-ap1_L#2	15579831	Paper: Marin et al 2020
+8880705	PV7c1#1	15579831	Paper: Marin et al 2020
+8880798	LHPV4c#5_L	15579831	Paper: Marin et al 2020
+8883804	LHPV4c#2_L	15579831	Paper: Marin et al 2020
+8883836	PD5g1#1_L	15579831	Paper: Marin et al 2020
+8884784	tKCa'b'-ap1_L#3	15579831	Paper: Marin et al 2020
+8885938	KCa'b'-ap1_L#2	15579831	Paper: Marin et al 2020
+8896969	PV6r1#3_L	15579831	Paper: Marin et al 2020
+9018826	AV3r1#1_L	15579831	Paper: Marin et al 2020
+9027601	VP1lRNl#2	15579831	Paper: Marin et al 2020
+9039579	VP4 vPN_L	15579831	Paper: Marin et al 2020
+9069835	LHPV6h1#1	15579831	Paper: Marin et al 2020
+9101937	VP1m+VP2 lvPN1#1_L	15579831	Paper: Marin et al 2020
+9117955	KCa'b'-ap1_R#12	15579831	Paper: Marin et al 2020
+9159128	VP2 adPN_L	15579831	Paper: Marin et al 2020
+9159383	AV3r1#2_L	15579831	Paper: Marin et al 2020
+9362353	DN1a#2_L	15579831	Paper: Marin et al 2020
+9511430	VP5+SEZ adPN_L	15579831	Paper: Marin et al 2020
+9573191	VP3RNal#1	15579831	Paper: Marin et al 2020
+9573214	VP3RNal#4	15579831	Paper: Marin et al 2020
+9573225	VP3RNal#3	15579831	Paper: Marin et al 2020
+9584821	VP2RNl#2	15579831	Paper: Marin et al 2020
+9585262	VP2RNl#3	15579831	Paper: Marin et al 2020
+9586382	VP1dRNl#4	15579831	Paper: Marin et al 2020
+9588361	VP3RNal#2	15579831	Paper: Marin et al 2020
+9588978	VP1m+ lvPN_L	15579831	Paper: Marin et al 2020
+9590169	VP1m+VP2 lvPN2_L	15579831	Paper: Marin et al 2020
+9610210	VP1dRNl#1	15579831	Paper: Marin et al 2020
+9610756	VP5RNl#1	15579831	Paper: Marin et al 2020
+9611706	VP5RNl#2	15579831	Paper: Marin et al 2020
+9611893	VP5RNl#3	15579831	Paper: Marin et al 2020
+9612139	VP5RNl#4	15579831	Paper: Marin et al 2020
+9612147	VP5RNl#5	15579831	Paper: Marin et al 2020
+9614216	VP2RNl#1	15579831	Paper: Marin et al 2020
+9704839	VP5+VP3 l2PN_L	15579831	Paper: Marin et al 2020
+9711486	LHAV3f1#1_L	15579831	Paper: Marin et al 2020
+9716626	VP1d+VP4 l2PN1_L	15579831	Paper: Marin et al 2020
+9717951	VP1m++ smPN*_L	15579831	Paper: Marin et al 2020
+9740174	VP1d+VP4 l2PN2_L	15579831	Paper: Marin et al 2020
+9942769	KCgL#1	15579831	Paper: Marin et al 2020
+9951834	PD5g1#3	15579831	Paper: Marin et al 2020
+10078400	Multiglomerular mALT l2PN#R5	15579831	Paper: Marin et al 2020
+10228816	KCgR#7	15579831	Paper: Marin et al 2020
+10515783	VP2+VC5 l2PN_L	15579831	Paper: Marin et al 2020
+10527316	KCgR#11	15579831	Paper: Marin et al 2020
+10586365	KCgR#8	15579831	Paper: Marin et al 2020
+11052217	VP2+VP5 lvPN#1_L	15579831	Paper: Marin et al 2020
+11128057	PV6r1#4	15579831	Paper: Marin et al 2020
+11210831	PD5g1#1	15579831	Paper: Marin et al 2020
+11219809	VP1dRNr#6	15579831	Paper: Marin et al 2020
+11220858	VP1dRNr#7	15579831	Paper: Marin et al 2020
+11234968	Uniglomerular t10-lALT VP3+l2PN#R1	15579831	Paper: Marin et al 2020
+11524119	Uniglomerular lALT VP1m l2PN#R1	15579831	Paper: Marin et al 2020
+11524452	DN1-l	15579831	Paper: Marin et al 2020
+11543519	LHAV2d1#1	15579831	Paper: Marin et al 2020
+11545803	LHAV3f1#1	15579831	Paper: Marin et al 2020
+11546775	Multiglomerular t6-mALT smPN#R1	15579831	Paper: Marin et al 2020
+11648695	VP1lRNr#5	15579831	Paper: Marin et al 2020
+12229707	VP1mRNr#6	15579831	Paper: Marin et al 2020
+12232904	VP1lRNr#6	15579831	Paper: Marin et al 2020
+12234527	VP1dRNr#8	15579831	Paper: Marin et al 2020
+12242212	VP1dRNr#9	15579831	Paper: Marin et al 2020
+12514898	VP4RNr#6	15579831	Paper: Marin et al 2020
+12638434	VP4RNl#4	15579831	Paper: Marin et al 2020
+12640883	VP4RNr#7	15579831	Paper: Marin et al 2020
+12643158	VP4RNr#8	15579831	Paper: Marin et al 2020
+12647035	VP4RNl#5	15579831	Paper: Marin et al 2020
+12681995	VP1m+VP2 lvPN1#2_L	15579831	Paper: Marin et al 2020
+12702477	VP1dRNl#2	15579831	Paper: Marin et al 2020
+12702677	VP1dRNl#7	15579831	Paper: Marin et al 2020
+12709197	VP4RNl#6	15579831	Paper: Marin et al 2020
+12713426	VP4RNr#9	15579831	Paper: Marin et al 2020
+12717819	VP4RNr#10	15579831	Paper: Marin et al 2020
+12734515	VP1mRNl#2	15579831	Paper: Marin et al 2020
+12765352	VP5RNl#6	15579831	Paper: Marin et al 2020
+12766362	VP1mRNl#4	15579831	Paper: Marin et al 2020
+12766859	VP1mRNl#6	15579831	Paper: Marin et al 2020
+12770538	VP5RNl#7	15579831	Paper: Marin et al 2020
+12776427	VP1mRNl#1	15579831	Paper: Marin et al 2020
+12780133	VP1dRNl#5	15579831	Paper: Marin et al 2020
+12782012	VP1dRNl#6	15579831	Paper: Marin et al 2020
+12805737	VP4+ vPN_L	15579831	Paper: Marin et al 2020
+12819065	VP4RNr#11	15579831	Paper: Marin et al 2020
+12819089	VP4RNl#7	15579831	Paper: Marin et al 2020
+12819231	VP4RNl#8	15579831	Paper: Marin et al 2020
+12819297	VP4RNl#9	15579831	Paper: Marin et al 2020
+12819339	VP4RNl#10	15579831	Paper: Marin et al 2020
+12819401	VP4RNl#11	15579831	Paper: Marin et al 2020
+12819438	VP4RNl#12	15579831	Paper: Marin et al 2020
+12819448	VP4RNr#13	15579831	Paper: Marin et al 2020
+12819460	VP4RNl#13	15579831	Paper: Marin et al 2020
+12819469	VP4RNl#14	15579831	Paper: Marin et al 2020
+12819487	VP4RNr#14	15579831	Paper: Marin et al 2020
+13053419	VP5 l2PN_L	15579831	Paper: Marin et al 2020
+13054040	VP2RNl#4	15579831	Paper: Marin et al 2020
+13154015	VP2 l2PN_L	15579831	Paper: Marin et al 2020
+13159715	VP3+ l2PN1#2_L	15579831	Paper: Marin et al 2020
+13159719	VP5+VP2 l2PN#1_L	15579831	Paper: Marin et al 2020
+13159728	VP3+ l2PN1#1_L	15579831	Paper: Marin et al 2020
+13159741	VP3+ l2PN2#1_L	15579831	Paper: Marin et al 2020
+13272972	VP1m+VP1d vPN_L	15579831	Paper: Marin et al 2020
+13492671	VP1l+ lvPN1#3_L	15579831	Paper: Marin et al 2020
+13599618	VP1lRNl#3	15579831	Paper: Marin et al 2020
+13599868	VP1lRNl#4	15579831	Paper: Marin et al 2020
+13599881	VP1lRNl#5	15579831	Paper: Marin et al 2020
+13599982	VP1dRNl#3	15579831	Paper: Marin et al 2020
+13604008	VP1mRNl#3	15579831	Paper: Marin et al 2020
+13613023	VP1mRNl#7	15579831	Paper: Marin et al 2020
+13635531	VP1mRNl#5	15579831	Paper: Marin et al 2020
+13931917	VP1m+VP2 lvPN1#3_L	15579831	Paper: Marin et al 2020
+13950267	VC5++ l2PN1#2*_L	15579831	Paper: Marin et al 2020
+14003783	Uniglomerular mALT VP5 + SEZ adPN#R1	15579831	Paper: Marin et al 2020
+14005954	VP1m++ l2PN*_L	15579831	Paper: Marin et al 2020
+15348426	VP4RNr#12	15579831	Paper: Marin et al 2020
+15423548	LHPD5a1#1_L	15579831	Paper: Marin et al 2020
 1191261	OA-VPM4	13500459	Paper: Sayin et al 2019
 1329078	OA-VPM3	13500459	Paper: Sayin et al 2019
 2333007	MBON-y1pedc>a/B	13500459	Paper: Sayin et al 2019
-42	PN glomerulus VA6 017 DB	11490509	Paper: Zheng et al 2018
+16	Uniglomerular mALT VA6 adPN#R1	11490509	Paper: Zheng et al 2018
 7286	KC#12-a'b'	11490509	Paper: Zheng et al 2018
 7646	KC#24-a'b'	11490509	Paper: Zheng et al 2018
 9578	KC#68-y	11490509	Paper: Zheng et al 2018
@@ -212,143 +1332,143 @@ skid	name	paper_id	paper_name
 12874	KC#153-a'b'	11490509	Paper: Zheng et al 2018
 13018	KC#156-ab	11490509	Paper: Zheng et al 2018
 16406	KC#228-a'b'	11490509	Paper: Zheng et al 2018
-21999	PN glomerulus VL2a 22000 JMR	11490509	Paper: Zheng et al 2018
-22132	PN glomerulus VC1 22133 BH	11490509	Paper: Zheng et al 2018
-22277	PN putative glomerulus VC3m 22278 AA	11490509	Paper: Zheng et al 2018
-22422	PN glomerulus DL2v 22423 JMR	11490509	Paper: Zheng et al 2018
-22594	PN glomerulus DM5 22595 BH	11490509	Paper: Zheng et al 2018
-22744	PN putative glomerulus VC3m 22745 JMR	11490509	Paper: Zheng et al 2018
-22906	PN glomerulus VA5 22907 JMR	11490509	Paper: Zheng et al 2018
-22976	PN glomerulus VL2p 22977 JMR	11490509	Paper: Zheng et al 2018
-23005	VP4 PN 23006 AA	11490509	Paper: Zheng et al 2018
-23134	PN glomerulus VC3l 23135 BH	11490509	Paper: Zheng et al 2018
-23432	PN glomerulus VA2 23433 AA	11490509	Paper: Zheng et al 2018
-23512	PN glomerulus VM5v 23513 CF	11490509	Paper: Zheng et al 2018
-23569	PN glomerulus VA4 23570 AA	11490509	Paper: Zheng et al 2018
-23597	PN glomerulus VM4 23598 BH	11490509	Paper: Zheng et al 2018
-23829	PN glomerulus DL4 23830 JMR	11490509	Paper: Zheng et al 2018
-24251	PN glomerulus VM7v 24252 LK	11490509	Paper: Zheng et al 2018
-24622	PN glomerulus D 24623 CF	11490509	Paper: Zheng et al 2018
-24726	PN glomerulus VM1 24727 BH	11490509	Paper: Zheng et al 2018
-27048	PN glomerulus DP1l 27049 BH	11490509	Paper: Zheng et al 2018
-27246	PN glomerulus VM3 27247 JMR	11490509	Paper: Zheng et al 2018
-27295	PN glomerulus DA1 27296 BH	11490509	Paper: Zheng et al 2018
-27611	PN glomerulus DM5 27612 JMR	11490509	Paper: Zheng et al 2018
-27884	PN glomerulus V bilateral 27885 JMR	11490509	Paper: Zheng et al 2018
-28876	PN glomerulus DM3 28877 JMR	11490509	Paper: Zheng et al 2018
-30434	PN glomerulus VM5v 30435 BH	11490509	Paper: Zheng et al 2018
-30591	MBON-Calyx 30592 ARH ASB JSL	11490509	Paper: Zheng et al 2018
-30791	PN glomerulus DL2d 30792 BH	11490509	Paper: Zheng et al 2018
-30891	PN glomerulus DM1 30892 BH	11490509	Paper: Zheng et al 2018
-32214	PN glomerulus VA7m 32215 BH	11490509	Paper: Zheng et al 2018
-32399	PN glomerulus DC3 32400 AA	11490509	Paper: Zheng et al 2018
-33903	PN glomerulus DL3 33904 JMR	11490509	Paper: Zheng et al 2018
-35246	PN glomerulus D 35247 AA	11490509	Paper: Zheng et al 2018
-35447	PN glomerulus VM5d 35448 AA	11490509	Paper: Zheng et al 2018
-36108	PN glomerulus VA7m 36109 BH	11490509	Paper: Zheng et al 2018
-36390	PN glomerulus VA1d 36391 BH	11490509	Paper: Zheng et al 2018
-37212	Multiglomerular PN unknown 37213 JMR	11490509	Paper: Zheng et al 2018
-37235	Multiglomerular PN unknown 37236 JMR	11490509	Paper: Zheng et al 2018
-37250	PN glomerulus DA4m 37251 JMR	11490509	Paper: Zheng et al 2018
-37513	VP3 PN 37489 AJ	11490509	Paper: Zheng et al 2018
-37935	PN putative glomerulus VC4 37936 CF	11490509	Paper: Zheng et al 2018
-38885	PN glomerulus DA2 38886 BH	11490509	Paper: Zheng et al 2018
-39139	PN glomerulus VM5d 39140 CF	11490509	Paper: Zheng et al 2018
-39254	PN putative glomerulus VM6 39255 JMR	11490509	Paper: Zheng et al 2018
-39668	PN glomerulus DL5 39669 JMR	11490509	Paper: Zheng et al 2018
-39682	PN glomerulus DM4 39683 JMR	11490509	Paper: Zheng et al 2018
-40306	PN glomerulus VM7d 40307 CF	11490509	Paper: Zheng et al 2018
-40637	PN glomerulus D 40638 BH	11490509	Paper: Zheng et al 2018
-40749	PN glomerulus DA4l 40750 BH	11490509	Paper: Zheng et al 2018
-41308	PN glomerulus VM3 41309 BH	11490509	Paper: Zheng et al 2018
-41578	PN glomerulus VC3l 41579 AJ	11490509	Paper: Zheng et al 2018
-42421	PN glomerulus VA1d 42422 JMR	11490509	Paper: Zheng et al 2018
-42927	PN putative glomerulus VC4 42928 JMR	11490509	Paper: Zheng et al 2018
-43539	PN glomerulus VM7v 43540 CF	11490509	Paper: Zheng et al 2018
-45242	PN glomerulus VC2 45243 AA	11490509	Paper: Zheng et al 2018
-45882	VP3 PN 45883 AA ECM	11490509	Paper: Zheng et al 2018
-46105	bilat VP1 PN 46106 AA ECM	11490509	Paper: Zheng et al 2018
-46493	PN glomerulus DC4 46494 JMR	11490509	Paper: Zheng et al 2018
-46800	PN glomerulus VC3l 46801 JMR	11490509	Paper: Zheng et al 2018
-49026	adPN polyL 49027 AJ	11490509	Paper: Zheng et al 2018
-49865	PN glomerulus VM5d 49866 JMR	11490509	Paper: Zheng et al 2018
-51080	PN glomerulus VA1v 57251 LK	11490509	Paper: Zheng et al 2018
-51886	PN glomerulus VM2 51887 AA	11490509	Paper: Zheng et al 2018
-52106	PN glomerulus VA1v 52107 AA	11490509	Paper: Zheng et al 2018
-53631	PN glomerulus DA2 53632 AA	11490509	Paper: Zheng et al 2018
-53671	PN glomerulus VM5v 53672 AA	11490509	Paper: Zheng et al 2018
-54072	PN glomerulus VM2 54073 JMR	11490509	Paper: Zheng et al 2018
-55085	PN putative glomerulus VC4 55086 AJ	11490509	Paper: Zheng et al 2018
-55125	PN glomerulus VA1v 55126 BH	11490509	Paper: Zheng et al 2018
-56424	PN glomerulus DM2 56425 BH	11490509	Paper: Zheng et al 2018
-56623	PN glomerulus DL2v 56624 BH	11490509	Paper: Zheng et al 2018
-57003	PN glomerulus VM4 57004 ML	11490509	Paper: Zheng et al 2018
-57241	PN glomerulus DC3 57242 ML	11490509	Paper: Zheng et al 2018
-57246	PN glomerulus VA1v 57247 HG	11490509	Paper: Zheng et al 2018
-57254	adPN polyL 57255 NS	11490509	Paper: Zheng et al 2018
-57266	adPN polyL 57267 ML	11490509	Paper: Zheng et al 2018
-57274	PN putative DP1l glomerulus and glomerulus VL2p 57275 LK	11490509	Paper: Zheng et al 2018
-57307	PN glomerulus DM6 57308 ML	11490509	Paper: Zheng et al 2018
-57311	PN glomerulus DA1 57312 LK	11490509	Paper: Zheng et al 2018
-57319	PN glomerulus VA3 57320 IJA	11490509	Paper: Zheng et al 2018
-57323	PN glomerulus DA1 57324 LK JSL	11490509	Paper: Zheng et al 2018
-57333	PN glomerulus DL2d 57334 IJA	11490509	Paper: Zheng et al 2018
-57337	PN glomerulus DL2d 57338 IJA	11490509	Paper: Zheng et al 2018
-57341	PN glomerulus DL2d 57342 ML	11490509	Paper: Zheng et al 2018
-57349	PN putative glomerulus DA3 57350 HG	11490509	Paper: Zheng et al 2018
-57353	PN glomerulus DA1 57354 GA	11490509	Paper: Zheng et al 2018
-57361	PN glomerulus VA5 57362 ML	11490509	Paper: Zheng et al 2018
-57365	PN glomerulus VA5 57366 NS	11490509	Paper: Zheng et al 2018
-57381	PN glomerulus DA1 57382 ML	11490509	Paper: Zheng et al 2018
-57385	PN glomerulus DM5 57386 HG	11490509	Paper: Zheng et al 2018
-57402	PN glomerulus DC2 57403 SM	11490509	Paper: Zheng et al 2018
-57410	PN glomerulus VA7l 57411 NS	11490509	Paper: Zheng et al 2018
-57414	PN glomerulus DC3 57415 LK	11490509	Paper: Zheng et al 2018
-57418	PN glomerulus DA2 57419 LK	11490509	Paper: Zheng et al 2018
-57422	PN glomerulus DA2 57423 NS A	11490509	Paper: Zheng et al 2018
-57426	PN unknown glomerulus 34 57427 NS	11490509	Paper: Zheng et al 2018
-57499	PN putative glomerulus VL1 57500 ML	11490509	Paper: Zheng et al 2018
-57503	VP1 PN 57504 LK ECM	11490509	Paper: Zheng et al 2018
-57516	VP2 PN 57517 LK ECM	11490509	Paper: Zheng et al 2018
-58686	PN glomerulus DP1m 22768 BH ASB	11490509	Paper: Zheng et al 2018
-59129	PN VM5v and unknown glomerulus 59130 AJ	11490509	Paper: Zheng et al 2018
+21999	Uniglomerular mALT VL2a adPN#R1	11490509	Paper: Zheng et al 2018
+22132	Uniglomerular mALT VC1 lPN#R1	11490509	Paper: Zheng et al 2018
+22277	Uniglomerular mALT VC3m lvPN#R1	11490509	Paper: Zheng et al 2018
+22422	Uniglomerular mALT DL2v adPN#R1	11490509	Paper: Zheng et al 2018
+22594	Uniglomerular mALT DM5 lPN#R3	11490509	Paper: Zheng et al 2018
+22744	Uniglomerular mALT VC3m lvPN#R2	11490509	Paper: Zheng et al 2018
+22906	Uniglomerular mALT VA5 lPN#R3	11490509	Paper: Zheng et al 2018
+22976	Uniglomerular mALT VL2p adPN#R1	11490509	Paper: Zheng et al 2018
+23005	Multiglomerular lALT l2PN bilateral#R1	11490509	Paper: Zheng et al 2018
+23134	Uniglomerular mALT VC3l adPN#R3	11490509	Paper: Zheng et al 2018
+23432	Uniglomerular mALT VA2 adPN#R1	11490509	Paper: Zheng et al 2018
+23512	Uniglomerular mALT VM5v adPN#R2	11490509	Paper: Zheng et al 2018
+23569	Uniglomerular mALT VA4 lPN#R1	11490509	Paper: Zheng et al 2018
+23597	Uniglomerular mALT VM4 adPN#R1	11490509	Paper: Zheng et al 2018
+23829	Uniglomerular mALT DL4 adPN#R1	11490509	Paper: Zheng et al 2018
+24251	Uniglomerular mALT VM7v adPN#R1	11490509	Paper: Zheng et al 2018
+24622	Uniglomerular mALT D adPN#R1	11490509	Paper: Zheng et al 2018
+24726	Uniglomerular mALT VM1 lPN#R1	11490509	Paper: Zheng et al 2018
+27048	Uniglomerular mALT DP1l adPN#R1	11490509	Paper: Zheng et al 2018
+27246	Uniglomerular mALT VM3 adPN#R2	11490509	Paper: Zheng et al 2018
+27295	Uniglomerular mALT DA1 lPN#R6	11490509	Paper: Zheng et al 2018
+27611	Uniglomerular mALT DM5 lPN#R2	11490509	Paper: Zheng et al 2018
+27884	Uniglomerular lALT V ilPN bilateral#L1	11490509	Paper: Zheng et al 2018
+28876	Uniglomerular mALT DM3 adPN#R1	11490509	Paper: Zheng et al 2018
+30434	Uniglomerular mALT VM5v adPN#R3	11490509	Paper: Zheng et al 2018
+30591	MBON-Calyx#1	11490509	Paper: Zheng et al 2018
+30791	Uniglomerular mALT DL2d adPN#R3	11490509	Paper: Zheng et al 2018
+30891	Uniglomerular mALT DM1 lPN#R1	11490509	Paper: Zheng et al 2018
+32214	Uniglomerular mALT VA7m lPN#R2	11490509	Paper: Zheng et al 2018
+32399	Uniglomerular mALT DC3 adPN#R3	11490509	Paper: Zheng et al 2018
+33903	Uniglomerular mALT DL3 lPN#R5	11490509	Paper: Zheng et al 2018
+35246	Uniglomerular mALT D adPN#R2	11490509	Paper: Zheng et al 2018
+35447	Uniglomerular mALT VM5d adPN#R2	11490509	Paper: Zheng et al 2018
+36108	Uniglomerular mALT VA7m lPN#R3	11490509	Paper: Zheng et al 2018
+36390	Uniglomerular mALT VA1d adPN#R1	11490509	Paper: Zheng et al 2018
+37212	Multiglomerular mALT lPN#R4	11490509	Paper: Zheng et al 2018
+37235	Multiglomerular mALT lPN#R9	11490509	Paper: Zheng et al 2018
+37250	Uniglomerular mALT DA4m adPN#R1	11490509	Paper: Zheng et al 2018
+37513	Biglomerular mALT VP3 + VP1l ivPN bilateral#L1	11490509	Paper: Zheng et al 2018
+37935	Uniglomerular mALT VC4 adPN#R1	11490509	Paper: Zheng et al 2018
+38885	Uniglomerular mALT DA2 lPN#R2	11490509	Paper: Zheng et al 2018
+39139	Uniglomerular mALT VM5d adPN#R1	11490509	Paper: Zheng et al 2018
+39254	Uniglomerular mALT VC5 adPN#R1	11490509	Paper: Zheng et al 2018
+39668	Uniglomerular mALT DL5 adPN#R1	11490509	Paper: Zheng et al 2018
+39682	Uniglomerular mALT DM4 adPN#R1	11490509	Paper: Zheng et al 2018
+40306	Uniglomerular mALT VM7d adPN#R1	11490509	Paper: Zheng et al 2018
+40637	Uniglomerular mALT D adPN#R3	11490509	Paper: Zheng et al 2018
+40749	Uniglomerular mALT DA4l adPN#R1	11490509	Paper: Zheng et al 2018
+41308	Uniglomerular mALT VM3 adPN#R1	11490509	Paper: Zheng et al 2018
+41578	Uniglomerular mALT VC3l adPN#R2	11490509	Paper: Zheng et al 2018
+42421	Uniglomerular mALT VA1d adPN#R2	11490509	Paper: Zheng et al 2018
+42927	Uniglomerular mALT VC4 adPN#R2	11490509	Paper: Zheng et al 2018
+43539	Uniglomerular mALT VM7v adPN#R2	11490509	Paper: Zheng et al 2018
+45242	Uniglomerular mALT VC2 lPN#R1	11490509	Paper: Zheng et al 2018
+45882	Biglomerular mALT VP3 + VP1l ivPN bilateral#R1	11490509	Paper: Zheng et al 2018
+46105	Biglomerular VP1m + VP5 mALT ilPN bilateral#L1	11490509	Paper: Zheng et al 2018
+46493	Uniglomerular mALT DC4 adPN#R1	11490509	Paper: Zheng et al 2018
+46800	Uniglomerular mALT VC3l adPN#R1	11490509	Paper: Zheng et al 2018
+49026	Multiglomerular mALT adPN#R7	11490509	Paper: Zheng et al 2018
+49865	Uniglomerular mALT VM5d adPN#R4	11490509	Paper: Zheng et al 2018
+51080	Uniglomerular mALT VA1v adPN#R4	11490509	Paper: Zheng et al 2018
+51886	Uniglomerular mALT VM2 adPN#R2	11490509	Paper: Zheng et al 2018
+52106	Uniglomerular mALT VA1v adPN#R3	11490509	Paper: Zheng et al 2018
+53631	Uniglomerular mALT DA2 lPN#R5	11490509	Paper: Zheng et al 2018
+53671	Uniglomerular mALT VM5v adPN#R1	11490509	Paper: Zheng et al 2018
+54072	Uniglomerular mALT VM2 adPN#R1	11490509	Paper: Zheng et al 2018
+55085	Uniglomerular mALT VC4 adPN#R3	11490509	Paper: Zheng et al 2018
+55125	Uniglomerular mALT VA1v adPN#R2	11490509	Paper: Zheng et al 2018
+56424	Uniglomerular mALT DM2 lPN#R1	11490509	Paper: Zheng et al 2018
+56623	Uniglomerular mALT DL2v adPN#R2	11490509	Paper: Zheng et al 2018
+57003	Uniglomerular mALT VM4 lvPN#R1	11490509	Paper: Zheng et al 2018
+57241	Uniglomerular mALT DC3 adPN#R2	11490509	Paper: Zheng et al 2018
+57246	Uniglomerular mALT VA1v adPN#R1	11490509	Paper: Zheng et al 2018
+57254	Multiglomerular mALT adPN#R5	11490509	Paper: Zheng et al 2018
+57266	Multiglomerular mALT adPN#R6	11490509	Paper: Zheng et al 2018
+57274	Multiglomerular mALT adPN#R11	11490509	Paper: Zheng et al 2018
+57307	Uniglomerular mALT DM6 adPN#R3	11490509	Paper: Zheng et al 2018
+57311	Uniglomerular mALT DA1 lPN#R2	11490509	Paper: Zheng et al 2018
+57319	Uniglomerular mALT VA3 adPN#R1	11490509	Paper: Zheng et al 2018
+57323	Uniglomerular mALT DA1 lPN#R1	11490509	Paper: Zheng et al 2018
+57333	Uniglomerular mALT DL2d adPN#R1	11490509	Paper: Zheng et al 2018
+57337	Uniglomerular mALT DL2d adPN#R2	11490509	Paper: Zheng et al 2018
+57341	Uniglomerular mALT DL2d adPN#R4	11490509	Paper: Zheng et al 2018
+57349	Uniglomerular mALT DA3 adPN#R1	11490509	Paper: Zheng et al 2018
+57353	Uniglomerular mALT DA1 lPN#R7	11490509	Paper: Zheng et al 2018
+57361	Uniglomerular mALT VA5 lPN#R2	11490509	Paper: Zheng et al 2018
+57365	Uniglomerular mALT VA5 lPN#R1	11490509	Paper: Zheng et al 2018
+57381	Uniglomerular mALT DA1 lPN#R8	11490509	Paper: Zheng et al 2018
+57385	Uniglomerular mALT DM5 lPN#R1	11490509	Paper: Zheng et al 2018
+57402	Uniglomerular mALT DC2 adPN#R1	11490509	Paper: Zheng et al 2018
+57410	Uniglomerular mALT VA7l adPN#R1	11490509	Paper: Zheng et al 2018
+57414	Uniglomerular mALT DC3 adPN#R1	11490509	Paper: Zheng et al 2018
+57418	Uniglomerular mALT DA2 lPN#R3	11490509	Paper: Zheng et al 2018
+57422	Uniglomerular mALT DA2 lPN#R4	11490509	Paper: Zheng et al 2018
+57426	Multiglomerular mALT lPN#R2	11490509	Paper: Zheng et al 2018
+57499	Uniglomerular mALT VL1 ilPN bilateral#R1	11490509	Paper: Zheng et al 2018
+57503	Biglomerular VP1m + VP5 mALT ilPN bilateral#R1	11490509	Paper: Zheng et al 2018
+57516	Uniglomerular mALT VP2 adPN#R1	11490509	Paper: Zheng et al 2018
+58686	Uniglomerular mALT DP1m adPN#R1	11490509	Paper: Zheng et al 2018
+59129	Uniglomerular mALT VC3l adPN#R4	11490509	Paper: Zheng et al 2018
 60445	putative MB-C1 32768 JMR	11490509	Paper: Zheng et al 2018
-60799	PN glomerulus DM6 60800 JMR	11490509	Paper: Zheng et al 2018
-61221	PN glomerulus DA1 61222 AJ	11490509	Paper: Zheng et al 2018
-61773	PN glomerulus DL2v 61774 JMR	11490509	Paper: Zheng et al 2018
-62434	PN glomerulus VM5d 62435 AJ	11490509	Paper: Zheng et al 2018
-65465	PN putative glomerulus DA3 57407 ML	11490509	Paper: Zheng et al 2018
-65762	PN glomerulus DC2 65763 AJ	11490509	Paper: Zheng et al 2018
-67408	PN glomerulus DM2 67409 BH	11490509	Paper: Zheng et al 2018
-67637	PN glomerulus DL2d 67638 BH	11490509	Paper: Zheng et al 2018
-68697	PN glomerulus DM6 68698 BH	11490509	Paper: Zheng et al 2018
-73937	PN putative glomerulus VL1 73938 LK	11490509	Paper: Zheng et al 2018
-165303	PN glomerulus VA3 34321 JMR	11490509	Paper: Zheng et al 2018
+60799	Uniglomerular mALT DM6 adPN#R1	11490509	Paper: Zheng et al 2018
+61221	Uniglomerular mALT DA1 lPN#R3	11490509	Paper: Zheng et al 2018
+61773	Uniglomerular mALT DL2v adPN#R3	11490509	Paper: Zheng et al 2018
+62434	Uniglomerular mALT VM5d adPN#R3	11490509	Paper: Zheng et al 2018
+65465	Uniglomerular mALT DA3 adPN#R2	11490509	Paper: Zheng et al 2018
+65762	Uniglomerular mALT DC2 adPN#R2	11490509	Paper: Zheng et al 2018
+67408	Uniglomerular mALT DM2 lPN#R2	11490509	Paper: Zheng et al 2018
+67637	Uniglomerular mALT DL2v adPN#R4	11490509	Paper: Zheng et al 2018
+68697	Uniglomerular mALT DM6 adPN#R2	11490509	Paper: Zheng et al 2018
+73937	Uniglomerular mALT VL1 ilPN bilateral#L1	11490509	Paper: Zheng et al 2018
+165303	Uniglomerular mALT VA3 adPN#R2	11490509	Paper: Zheng et al 2018
 175032	KC#273-a'b'	11490509	Paper: Zheng et al 2018
-186573	PN glomerulus VA7m 21764 AA	11490509	Paper: Zheng et al 2018
-192423	dlALT PN 192424 CLM -NM	11490509	Paper: Zheng et al 2018
-192547	PN glomerulus V bilateral 192548 EAM GSXEJ RJVR	11490509	Paper: Zheng et al 2018
-203504	dlALT PN 71750 ARH-NM	11490509	Paper: Zheng et al 2018
+186573	Uniglomerular mALT VA7m lPN#R1	11490509	Paper: Zheng et al 2018
+192423	Uniglomerular dALT VP1d il2PN#R1	11490509	Paper: Zheng et al 2018
+192547	Uniglomerular lALT V ilPN bilateral#R1	11490509	Paper: Zheng et al 2018
+203504	Uniglomerular dALT VP1d il2PN#L1	11490509	Paper: Zheng et al 2018
 203840	APL 203841 MR JSL	11490509	Paper: Zheng et al 2018
 205947	KC#288-ab	11490509	Paper: Zheng et al 2018
-400943	PN putative glomerulus VC3m 24596 BH	11490509	Paper: Zheng et al 2018
+400943	Uniglomerular mALT VC3m lvPN#R3	11490509	Paper: Zheng et al 2018
 424295	KC#487-ab	11490509	Paper: Zheng et al 2018
 424379	KC#313-ab	11490509	Paper: Zheng et al 2018
 515387	KC#547-ab	11490509	Paper: Zheng et al 2018
-535060	putative MB-C1 535061	11490509	Paper: Zheng et al 2018
-581536	PN glomerulus DL3 47095 JMR	11490509	Paper: Zheng et al 2018
-755022	PN glomerulus DA1 57358 IJA	11490509	Paper: Zheng et al 2018
-771242	PN glomerulus DC1 23665 AA	11490509	Paper: Zheng et al 2018
-775731	PN glomerulus VM1 39831 JMR	11490509	Paper: Zheng et al 2018
-1149173	t5ALT neuron 282136	11490509	Paper: Zheng et al 2018
+535060	MB-C1#1	11490509	Paper: Zheng et al 2018
+581536	Uniglomerular mALT DL3 lPN#R1	11490509	Paper: Zheng et al 2018
+755022	Uniglomerular mALT DA1 lPN#R4	11490509	Paper: Zheng et al 2018
+771242	Uniglomerular mALT DC1 adPN#R1	11490509	Paper: Zheng et al 2018
+775731	Uniglomerular mALT VM1 lPN#R2	11490509	Paper: Zheng et al 2018
+1149173	Uniglomerular t5-mlALT VP4 vPN#R1	11490509	Paper: Zheng et al 2018
 1530770	MB-CP2 SCL fragment 68908	11490509	Paper: Zheng et al 2018
 1549518	contralateral MB-CP2 1549519 SAC	11490509	Paper: Zheng et al 2018
 1746412	KC#384-ab	11490509	Paper: Zheng et al 2018
-1775706	PN glomerulus DL1 22153 JMR	11490509	Paper: Zheng et al 2018
-1785034	PN glomerulus DA2 57399 LK	11490509	Paper: Zheng et al 2018
+1775706	Uniglomerular mALT DL1 adPN#R1	11490509	Paper: Zheng et al 2018
+1785034	Uniglomerular mALT DA2 lPN#R1	11490509	Paper: Zheng et al 2018
 3104789	KC#395-y	11490509	Paper: Zheng et al 2018
 3445525	KC#396-y	11490509	Paper: Zheng et al 2018
-14003783	Multiglom and SEZ PN 57472 LK ECM	11490509	Paper: Zheng et al 2018
+14003783	Uniglomerular mALT VP5 + SEZ adPN#R1	11490509	Paper: Zheng et al 2018
 6510	KC#0-y	15549507	Paper: Zheng et al 2020
 6582	KC#1-y	15549507	Paper: Zheng et al 2020
 6618	KC#2-y	15549507	Paper: Zheng et al 2020
@@ -382,7 +1502,7 @@ skid	name	paper_id	paper_name
 7870	KC#29-y	15549507	Paper: Zheng et al 2020
 7910	KC#30-y	15549507	Paper: Zheng et al 2020
 8006	KC#31-y	15549507	Paper: Zheng et al 2020
-8142	KC#32-y	15549507	Paper: Zheng et al 2020
+8142	KCgR#6	15549507	Paper: Zheng et al 2020
 8190	KC#33-y	15549507	Paper: Zheng et al 2020
 8218	KC#34-y	15549507	Paper: Zheng et al 2020
 8238	KC#35-y	15549507	Paper: Zheng et al 2020
@@ -406,7 +1526,7 @@ skid	name	paper_id	paper_name
 8938	KC#53-y	15549507	Paper: Zheng et al 2020
 8958	KC#54-y	15549507	Paper: Zheng et al 2020
 9178	KC#55-y	15549507	Paper: Zheng et al 2020
-9210	KC#56-y	15549507	Paper: Zheng et al 2020
+9210	KCgR#1	15549507	Paper: Zheng et al 2020
 9254	KC#57-a'b'	15549507	Paper: Zheng et al 2020
 9294	KC#58-a'b'	15549507	Paper: Zheng et al 2020
 9374	KC#59-y	15549507	Paper: Zheng et al 2020
@@ -580,7 +1700,7 @@ skid	name	paper_id	paper_name
 15958	KC#222-ab	15549507	Paper: Zheng et al 2020
 15966	KC#223-ab	15549507	Paper: Zheng et al 2020
 15990	KC#224-ab	15549507	Paper: Zheng et al 2020
-16274	KC#225-a'b'	15549507	Paper: Zheng et al 2020
+16274	KCa'b'-ap1_R#10	15549507	Paper: Zheng et al 2020
 16286	KC#226-a'b'	15549507	Paper: Zheng et al 2020
 16342	KC#227-y	15549507	Paper: Zheng et al 2020
 16406	KC#228-a'b'	15549507	Paper: Zheng et al 2020
@@ -619,7 +1739,7 @@ skid	name	paper_id	paper_name
 31785	KC#450-a'b'	15549507	Paper: Zheng et al 2020
 35679	KC#257-a'b'	15549507	Paper: Zheng et al 2020
 36480	KC#451-y	15549507	Paper: Zheng et al 2020
-36909	KC#258-y	15549507	Paper: Zheng et al 2020
+36909	KCgR#10	15549507	Paper: Zheng et al 2020
 40538	KC#259-ab	15549507	Paper: Zheng et al 2020
 52051	KC#452-ab	15549507	Paper: Zheng et al 2020
 52062	KC#453-ab	15549507	Paper: Zheng et al 2020
@@ -934,7 +2054,7 @@ skid	name	paper_id	paper_name
 4138944	KC#622-ab	15549507	Paper: Zheng et al 2020
 4167146	KC#623-y	15549507	Paper: Zheng et al 2020
 4169596	KC#624-y	15549507	Paper: Zheng et al 2020
-4181431	KC#625-a'b'	15549507	Paper: Zheng et al 2020
+4181431	tKCa'b'-ap1_R#1	15549507	Paper: Zheng et al 2020
 4205164	KC#626-ab	15549507	Paper: Zheng et al 2020
 4205169	KC#627-y	15549507	Paper: Zheng et al 2020
 4209341	KC#400-y	15549507	Paper: Zheng et al 2020
@@ -970,7 +2090,7 @@ skid	name	paper_id	paper_name
 5023633	KC#655-y	15549507	Paper: Zheng et al 2020
 5048918	KC#656-y	15549507	Paper: Zheng et al 2020
 5055252	KC#657-y	15549507	Paper: Zheng et al 2020
-5824641	KC#403-a'b'	15549507	Paper: Zheng et al 2020
+5824641	KCa'b'-ap1_R#4	15549507	Paper: Zheng et al 2020
 6826598	KC#404-y	15549507	Paper: Zheng et al 2020
 7053684	KC#658-ab	15549507	Paper: Zheng et al 2020
 7698540	KC#659-y	15549507	Paper: Zheng et al 2020
@@ -983,7 +2103,7 @@ skid	name	paper_id	paper_name
 7943969	KC#666-y	15549507	Paper: Zheng et al 2020
 8050559	KC#667-y	15549507	Paper: Zheng et al 2020
 8076373	KC#405-a'b'	15549507	Paper: Zheng et al 2020
-8139894	KC#406-a'b'	15549507	Paper: Zheng et al 2020
+8139894	KCa'b'-ap1_R#3	15549507	Paper: Zheng et al 2020
 8189134	KC#407-a'b'	15549507	Paper: Zheng et al 2020
 8198124	KC#408-a'b'	15549507	Paper: Zheng et al 2020
 8217673	KC#409-ab	15549507	Paper: Zheng et al 2020
@@ -1000,7 +2120,7 @@ skid	name	paper_id	paper_name
 8302896	KC#420-y	15549507	Paper: Zheng et al 2020
 8336193	KC#421-a'b'	15549507	Paper: Zheng et al 2020
 8338709	KC#668-y	15549507	Paper: Zheng et al 2020
-8361575	KC#669-y	15549507	Paper: Zheng et al 2020
+8361575	KCgR#9	15549507	Paper: Zheng et al 2020
 8369584	KC#670-y	15549507	Paper: Zheng et al 2020
 8370303	KC#671-y	15549507	Paper: Zheng et al 2020
 8370334	KC#672	15549507	Paper: Zheng et al 2020
@@ -1081,11 +2201,11 @@ skid	name	paper_id	paper_name
 8782565	KC#745-y	15549507	Paper: Zheng et al 2020
 8783087	KC#746-y	15549507	Paper: Zheng et al 2020
 8794629	KC#747-a'b'	15549507	Paper: Zheng et al 2020
-8799774	KC#748-a'b'	15549507	Paper: Zheng et al 2020
+8799774	KCa'b'-ap1_R#1	15549507	Paper: Zheng et al 2020
 8802820	KC#749-a'b'	15549507	Paper: Zheng et al 2020
 8805938	KC#750-y	15549507	Paper: Zheng et al 2020
 8808565	KC#751-y	15549507	Paper: Zheng et al 2020
-8808887	KC#752-y	15549507	Paper: Zheng et al 2020
+8808887	KCgR#4	15549507	Paper: Zheng et al 2020
 8817189	KC#753-ab	15549507	Paper: Zheng et al 2020
 8838947	KC#754-a'b'	15549507	Paper: Zheng et al 2020
 8850390	KC#755-a'b'	15549507	Paper: Zheng et al 2020
@@ -1507,7 +2627,7 @@ skid	name	paper_id	paper_name
 10221444	KC#1160-y	15549507	Paper: Zheng et al 2020
 10226548	KC#1161-ab	15549507	Paper: Zheng et al 2020
 10228798	KC#1162-y	15549507	Paper: Zheng et al 2020
-10228816	KC#1163-y	15549507	Paper: Zheng et al 2020
+10228816	KCgR#7	15549507	Paper: Zheng et al 2020
 10231591	KC#1164-y	15549507	Paper: Zheng et al 2020
 10234534	KC#1165-ab	15549507	Paper: Zheng et al 2020
 10234859	KC#1166-ab	15549507	Paper: Zheng et al 2020
@@ -1661,7 +2781,7 @@ skid	name	paper_id	paper_name
 10580885	KC#1311-ab	15549507	Paper: Zheng et al 2020
 10581191	KC#438-y	15549507	Paper: Zheng et al 2020
 10582149	KC#1312-y	15549507	Paper: Zheng et al 2020
-10586365	KC#1313-y	15549507	Paper: Zheng et al 2020
+10586365	KCgR#8	15549507	Paper: Zheng et al 2020
 10590863	KC#1314-a'b'	15549507	Paper: Zheng et al 2020
 10596146	KC#1315-ab	15549507	Paper: Zheng et al 2020
 10597554	KC#1316-ab	15549507	Paper: Zheng et al 2020
