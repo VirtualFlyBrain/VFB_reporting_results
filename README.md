@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #596 from commit: 'Fix for VFB_name' on master
+ Current results are from the latest travis build #597 from commit: 'Fix for VFB_name' on master
 
 
 ## Internal pipeline reports:
