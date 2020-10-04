@@ -1014,7 +1014,7 @@ skid	name	paper_id	paper_name
 888730	A09a_a3r Basin-2	19862922	Burgos et al 2018
 918889	A02o_a1l Wave-1	19862922	Burgos et al 2018
 986460	ddaC_a1l	19862922	Burgos et al 2018
-1115781	A09l_a5r_ Down-and-back-1	19862922	Burgos et al 2018
+1115781	A09l_a5l_ Down-and-back-1	19862922	Burgos et al 2018
 1370785	A09e_a5l	19862922	Burgos et al 2018
 1371419	A09l_a4l Down-and-back-1	19862922	Burgos et al 2018
 1378190	A09l_a3r Down-and-back-1	19862922	Burgos et al 2018
@@ -1031,7 +1031,7 @@ skid	name	paper_id	paper_name
 3040481	A09c a1l Basin-4	19862922	Burgos et al 2018
 3041612	A09a a1l Basin-2	19862922	Burgos et al 2018
 3091943	A09g a1r Basin-3	19862922	Burgos et al 2018
-3220573	A09l_a5l Down-and-back-1	19862922	Burgos et al 2018
+3220573	A09l_a5r Down-and-back-1	19862922	Burgos et al 2018
 3281615	A09l_a2l Down-and-back-1	19862922	Burgos et al 2018
 3437872	A02o_a5l Wave-1	19862922	Burgos et al 2018
 3720037	gorogoro t2l	19862922	Burgos et al 2018
@@ -1720,6 +1720,660 @@ skid	name	paper_id	paper_name
 19271710	AS ; Right DAL neuron R	21228207	Eschbach, Fushiki et al. 2020
 19857573	Ipsi relay neuron BPL lat R	21228207	Eschbach, Fushiki et al. 2020
 20443457	Mickey Mouse_right; BLP12 b 2	21228207	Eschbach, Fushiki et al. 2020
+29	KC #0	21308444	Eschbach, Fushiki et al. 2020b
+677717	KC1	21308444	Eschbach, Fushiki et al. 2020b
+1678567	BU ; DALd 4_left	21308444	Eschbach, Fushiki et al. 2020b
+2369444	Z: contra_left 	21308444	Eschbach, Fushiki et al. 2020b
+2426397	Spiral_right	21308444	Eschbach, Fushiki et al. 2020b
+2439067	T3: PVLr_left	21308444	Eschbach, Fushiki et al. 2020b
+2506050	MBE4a right	21308444	Eschbach, Fushiki et al. 2020b
+2568465	mPN iACT B1_left	21308444	Eschbach, Fushiki et al. 2020b
+2628785	AE:BAmd2 r bilateral_left	21308444	Eschbach, Fushiki et al. 2020b
+2650887	CA ; DPMpm1 1_right	21308444	Eschbach, Fushiki et al. 2020b
+2966602	K ; DPLam med _left	21308444	Eschbach, Fushiki et al. 2020b
+3027876	Tomato Vine 2_right	21308444	Eschbach, Fushiki et al. 2020b
+3157405	AN: DPMlp Lar_left	21308444	Eschbach, Fushiki et al. 2020b
+3299214	MBE2a right	21308444	Eschbach, Fushiki et al. 2020b
+3347708	KC2	21308444	Eschbach, Fushiki et al. 2020b
+3347834	KC3	21308444	Eschbach, Fushiki et al. 2020b
+3486381	42a PN left	21308444	Eschbach, Fushiki et al. 2020b
+3497901	KC4	21308444	Eschbach, Fushiki et al. 2020b
+3522293	KC5	21308444	Eschbach, Fushiki et al. 2020b
+3565102	KC6 young	21308444	Eschbach, Fushiki et al. 2020b
+3587612	KC7	21308444	Eschbach, Fushiki et al. 2020b
+3605630	KC8 young	21308444	Eschbach, Fushiki et al. 2020b
+3664102	Thermo KC B_right - mbi2 - unknown	21308444	Eschbach, Fushiki et al. 2020b
+3679411	KC9 young	21308444	Eschbach, Fushiki et al. 2020b
+3813487	Ladder (olfactory) post.	21308444	Eschbach, Fushiki et al. 2020b
+3814853	T3: PVLr_right	21308444	Eschbach, Fushiki et al. 2020b
+3819157	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+3819171	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+3855754	SOGr Hugin-like-1_right	21308444	Eschbach, Fushiki et al. 2020b
+3886356	MBE4h left	21308444	Eschbach, Fushiki et al. 2020b
+3890028	MBE24a right	21308444	Eschbach, Fushiki et al. 2020b
+3913620	T5; offPVL09_3_large_right	21308444	Eschbach, Fushiki et al. 2020b
+3913629	Projection from LH 1_right	21308444	Eschbach, Fushiki et al. 2020b
+3979181	ipsigoro left	21308444	Eschbach, Fushiki et al. 2020b
+4022539	MBE20 right	21308444	Eschbach, Fushiki et al. 2020b
+4067286	SLP2_right	21308444	Eschbach, Fushiki et al. 2020b
+4117305	KC72	21308444	Eschbach, Fushiki et al. 2020b
+4134539	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+4144377	DALv23 LAL 2 right	21308444	Eschbach, Fushiki et al. 2020b
+4180774	HL; DALv23 L LAL_right	21308444	Eschbach, Fushiki et al. 2020b
+4188325	DALv23 LAL 7 right	21308444	Eschbach, Fushiki et al. 2020b
+4190567	SJ: DALv23 L LAL dor pos 2_right	21308444	Eschbach, Fushiki et al. 2020b
+4195012	MBE13a right	21308444	Eschbach, Fushiki et al. 2020b
+4199033	NK_right	21308444	Eschbach, Fushiki et al. 2020b
+4214582	Y ; DALcm12 L m ant lat 2_right	21308444	Eschbach, Fushiki et al. 2020b
+4227304	KC10	21308444	Eschbach, Fushiki et al. 2020b
+4227544	KC11	21308444	Eschbach, Fushiki et al. 2020b
+4227831	AC ; DALcm12 m ant med 1_right	21308444	Eschbach, Fushiki et al. 2020b
+4227880	EV_right 	21308444	Eschbach, Fushiki et al. 2020b
+4228105	ML_right	21308444	Eschbach, Fushiki et al. 2020b
+4228119	P ; DALcm12  m ant lat #4_right	21308444	Eschbach, Fushiki et al. 2020b
+4229950	Thermo KC A_Right - Mushroom Body  Left	21308444	Eschbach, Fushiki et al. 2020b
+4230061	KC12	21308444	Eschbach, Fushiki et al. 2020b
+4230739	KC13	21308444	Eschbach, Fushiki et al. 2020b
+4230749	MBE13b right	21308444	Eschbach, Fushiki et al. 2020b
+4234009	MBE33 right	21308444	Eschbach, Fushiki et al. 2020b
+4234559	CM13 lat 3_right	21308444	Eschbach, Fushiki et al. 2020b
+4235139	AVM011f right	21308444	Eschbach, Fushiki et al. 2020b
+4241192	KC14	21308444	Eschbach, Fushiki et al. 2020b
+4241237	MBE6 right	21308444	Eschbach, Fushiki et al. 2020b
+4274518	Brain looper left	21308444	Eschbach, Fushiki et al. 2020b
+4284106	Holder_left	21308444	Eschbach, Fushiki et al. 2020b
+4311586	AE:BAmd2 r bilateral_right	21308444	Eschbach, Fushiki et al. 2020b
+4346154	DALcm_r right	21308444	Eschbach, Fushiki et al. 2020b
+4364826	Grumpy_left	21308444	Eschbach, Fushiki et al. 2020b
+4381129	MBE19 left	21308444	Eschbach, Fushiki et al. 2020b
+4381377	MBE4f left	21308444	Eschbach, Fushiki et al. 2020b
+4391317	3rd Thermo AP - Bridge IV_left	21308444	Eschbach, Fushiki et al. 2020b
+4401350	MBE15a left	21308444	Eschbach, Fushiki et al. 2020b
+4408362	NH; BAmd2_left -axon incomplete	21308444	Eschbach, Fushiki et al. 2020b
+4408369	Baso_left	21308444	Eschbach, Fushiki et al. 2020b
+4408397	NK_left	21308444	Eschbach, Fushiki et al. 2020b
+4409374	CM13 lat 3_left	21308444	Eschbach, Fushiki et al. 2020b
+4411505	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+4411542	T1 ; DALcl12 d 4_right	21308444	Eschbach, Fushiki et al. 2020b
+4412036	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+4412315	KC2/24	21308444	Eschbach, Fushiki et al. 2020b
+4414163	MBE1d left	21308444	Eschbach, Fushiki et al. 2020b
+4414184	MBE1d right	21308444	Eschbach, Fushiki et al. 2020b
+4414426	KC15	21308444	Eschbach, Fushiki et al. 2020b
+4415241	KC16	21308444	Eschbach, Fushiki et al. 2020b
+4433960	NQ: BAla1/2_left	21308444	Eschbach, Fushiki et al. 2020b
+4444354	KC17	21308444	Eschbach, Fushiki et al. 2020b
+4473922	B ; DALcm12 m ant lat 5_right	21308444	Eschbach, Fushiki et al. 2020b
+4514494	BG ; Baso-anterior target neuron #2 MB PN_right	21308444	Eschbach, Fushiki et al. 2020b
+4515496	BAmv12 #3_right	21308444	Eschbach, Fushiki et al. 2020b
+4518546	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+4575178	CH ; BAmd1 lineage_right	21308444	Eschbach, Fushiki et al. 2020b
+4598109	MBE34 right	21308444	Eschbach, Fushiki et al. 2020b
+4598363	MBE15a right	21308444	Eschbach, Fushiki et al. 2020b
+4617479	N_right	21308444	Eschbach, Fushiki et al. 2020b
+4665186	PVM_42a_LH_left	21308444	Eschbach, Fushiki et al. 2020b
+4680995	LH bilateral axon 3_left	21308444	Eschbach, Fushiki et al. 2020b
+4721087	NH; BAmd2_right	21308444	Eschbach, Fushiki et al. 2020b
+4721538	QI; visual interneuron_left	21308444	Eschbach, Fushiki et al. 2020b
+4849988	DP: DALcm12 v p 24_right	21308444	Eschbach, Fushiki et al. 2020b
+4884579	MBE1b right	21308444	Eschbach, Fushiki et al. 2020b
+4919895	KC18 young	21308444	Eschbach, Fushiki et al. 2020b
+4982172	KC19	21308444	Eschbach, Fushiki et al. 2020b
+5019924	KC20	21308444	Eschbach, Fushiki et al. 2020b
+5051342	KC21	21308444	Eschbach, Fushiki et al. 2020b
+5103177	SOGr Hugin-like-1_left	21308444	Eschbach, Fushiki et al. 2020b
+5169587	P ; DALcm12  m ant lat #4_left	21308444	Eschbach, Fushiki et al. 2020b
+5186443	DALcm12 L m ant lat 1 left	21308444	Eschbach, Fushiki et al. 2020b
+5321459	O ; BAmd1 v_right	21308444	Eschbach, Fushiki et al. 2020b
+5326407	CP23 v 11_right	21308444	Eschbach, Fushiki et al. 2020b
+5395823	MBE15b left	21308444	Eschbach, Fushiki et al. 2020b
+5453333	Projection from LH 2_left	21308444	Eschbach, Fushiki et al. 2020b
+5474852	RQ1: 3rd - thermo orders _left	21308444	Eschbach, Fushiki et al. 2020b
+5480553	LP: BAmas d 3_right	21308444	Eschbach, Fushiki et al. 2020b
+5516552	I ; Bala12 #9_right	21308444	Eschbach, Fushiki et al. 2020b
+5669107	L ; DALcm12 m lat 4_right	21308444	Eschbach, Fushiki et al. 2020b
+5681132	DE: CPe 1_left	21308444	Eschbach, Fushiki et al. 2020b
+5738449	W_right	21308444	Eschbach, Fushiki et al. 2020b
+5771934	BAmd1 d_right	21308444	Eschbach, Fushiki et al. 2020b
+5783868	AK ; DALcm12 v p 7_right 	21308444	Eschbach, Fushiki et al. 2020b
+5794678	ipsigoro right	21308444	Eschbach, Fushiki et al. 2020b
+5835799	KC22	21308444	Eschbach, Fushiki et al. 2020b
+5835815	KC23	21308444	Eschbach, Fushiki et al. 2020b
+5836035	KC24	21308444	Eschbach, Fushiki et al. 2020b
+5836163	KC25	21308444	Eschbach, Fushiki et al. 2020b
+5836181	KC26	21308444	Eschbach, Fushiki et al. 2020b
+5836197	KC27	21308444	Eschbach, Fushiki et al. 2020b
+5836206	KC28	21308444	Eschbach, Fushiki et al. 2020b
+5836387	KC29	21308444	Eschbach, Fushiki et al. 2020b
+5856647	BL 3 ; CM13 lat 2_right	21308444	Eschbach, Fushiki et al. 2020b
+5870071	DALv23 L LAL #2 counterpart left	21308444	Eschbach, Fushiki et al. 2020b
+5874480	Bridge V_left	21308444	Eschbach, Fushiki et al. 2020b
+5934511	BL ; CM13 med 4_right	21308444	Eschbach, Fushiki et al. 2020b
+5937084	KC65;_42a left	21308444	Eschbach, Fushiki et al. 2020b
+5966099	MBE4h right	21308444	Eschbach, Fushiki et al. 2020b
+6153877	BU ; DALd 4_right	21308444	Eschbach, Fushiki et al. 2020b
+6193472	AA: DALcl12 d_right	21308444	Eschbach, Fushiki et al. 2020b
+6290724	C ; DALcl12 L d 2_right	21308444	Eschbach, Fushiki et al. 2020b
+6298455	AA: DALcl12 d_left	21308444	Eschbach, Fushiki et al. 2020b
+6494274	LH to pseudo bridges_left	21308444	Eschbach, Fushiki et al. 2020b
+6609380	WF; DALcm12 v p 13_right	21308444	Eschbach, Fushiki et al. 2020b
+6611100	H ; DALcm r v ant med_right	21308444	Eschbach, Fushiki et al. 2020b
+6611894	MBE1c right	21308444	Eschbach, Fushiki et al. 2020b
+6699205	MBE30 right	21308444	Eschbach, Fushiki et al. 2020b
+6702830	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+6703240	MBE23 right	21308444	Eschbach, Fushiki et al. 2020b
+6704232	KC54	21308444	Eschbach, Fushiki et al. 2020b
+7026287	BN ; DALcm12 L m ant lat 3_left	21308444	Eschbach, Fushiki et al. 2020b
+7053966	Y ; DALcm12 L m ant lat 2_left	21308444	Eschbach, Fushiki et al. 2020b
+7055857	MBE6 left	21308444	Eschbach, Fushiki et al. 2020b
+7056904	KU: DALcm12 L m ant lat 6_left	21308444	Eschbach, Fushiki et al. 2020b
+7057894	MBE1c left	21308444	Eschbach, Fushiki et al. 2020b
+7065182	F ; Convergence Sibling-2_right; DALcm12 m ant lat 11_right	21308444	Eschbach, Fushiki et al. 2020b
+7136254	Moggy_left	21308444	Eschbach, Fushiki et al. 2020b
+7187384	Thermo KC B_left - mbi2 - unknown	21308444	Eschbach, Fushiki et al. 2020b
+7196392	KC31	21308444	Eschbach, Fushiki et al. 2020b
+7215582	KC103 very young	21308444	Eschbach, Fushiki et al. 2020b
+7540581	I ; Bala12 #9_left	21308444	Eschbach, Fushiki et al. 2020b
+7574701	DE: CPe 1_right	21308444	Eschbach, Fushiki et al. 2020b
+7594047	BF ; F3 pair; CP4 2_right	21308444	Eschbach, Fushiki et al. 2020b
+7612147	Q?; CP23d med of obPl 1 Gap; CP23 d 14_right	21308444	Eschbach, Fushiki et al. 2020b
+7616956	MBE9a right	21308444	Eschbach, Fushiki et al. 2020b
+7690945	KC33	21308444	Eschbach, Fushiki et al. 2020b
+7700444	BT ; CM13 med 5_left	21308444	Eschbach, Fushiki et al. 2020b
+7786053	KC34	21308444	Eschbach, Fushiki et al. 2020b
+7802210	MBE5a left	21308444	Eschbach, Fushiki et al. 2020b
+7828725	KC35	21308444	Eschbach, Fushiki et al. 2020b
+7829784	KC36	21308444	Eschbach, Fushiki et al. 2020b
+7838405	KC37	21308444	Eschbach, Fushiki et al. 2020b
+7840203	KC38	21308444	Eschbach, Fushiki et al. 2020b
+7840791	MBE9b right	21308444	Eschbach, Fushiki et al. 2020b
+7868195	KC39	21308444	Eschbach, Fushiki et al. 2020b
+7873135	42b PN left	21308444	Eschbach, Fushiki et al. 2020b
+7891312	KC40	21308444	Eschbach, Fushiki et al. 2020b
+7897469	MBE2as right	21308444	Eschbach, Fushiki et al. 2020b
+7901791	MBE4a left	21308444	Eschbach, Fushiki et al. 2020b
+7910624	MBE2as left	21308444	Eschbach, Fushiki et al. 2020b
+7980189	T ; Convergence; DALcm12 m ant lat 3_right	21308444	Eschbach, Fushiki et al. 2020b
+7980369	BN ; DALcm12 L m ant lat 3_right	21308444	Eschbach, Fushiki et al. 2020b
+7983899	MBE9a left	21308444	Eschbach, Fushiki et al. 2020b
+8034919	AV ; DPLc ant lat 1_right	21308444	Eschbach, Fushiki et al. 2020b
+8037197	AG:DL-LH_cand7_left; BLVa12 a 2	21308444	Eschbach, Fushiki et al. 2020b
+8065771	MJ: LNM_downstream4_right	21308444	Eschbach, Fushiki et al. 2020b
+8066411	KC41 young	21308444	Eschbach, Fushiki et al. 2020b
+8066542	KC42	21308444	Eschbach, Fushiki et al. 2020b
+8068173	LON KC right	21308444	Eschbach, Fushiki et al. 2020b
+8069365	QI; visual interneuron_right	21308444	Eschbach, Fushiki et al. 2020b
+8069432	AD:BAmd1 v 3_Kathak_left	21308444	Eschbach, Fushiki et al. 2020b
+8069478	offPVL09_right (bilateral DS LH)	21308444	Eschbach, Fushiki et al. 2020b
+8075484	M ; F6 pair_right	21308444	Eschbach, Fushiki et al. 2020b
+8078096	BG ; Baso-anterior target neuron #2 MB PN_left	21308444	Eschbach, Fushiki et al. 2020b
+8094859	MBE11a right	21308444	Eschbach, Fushiki et al. 2020b
+8118474	Thermo KC A_Left   -   Mushroom Body  Right	21308444	Eschbach, Fushiki et al. 2020b
+8118947	D ; Feedback neuron from nociceptive_left	21308444	Eschbach, Fushiki et al. 2020b
+8132513	BX ; CM4 dor pos 1_right	21308444	Eschbach, Fushiki et al. 2020b
+8177991	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8184598	BI ; NI_right	21308444	Eschbach, Fushiki et al. 2020b
+8238322	LH bilateral axon 1_left; BLVa12 b 2	21308444	Eschbach, Fushiki et al. 2020b
+8244723	42a PN right	21308444	Eschbach, Fushiki et al. 2020b
+8245692	42b PN right	21308444	Eschbach, Fushiki et al. 2020b
+8247315	KC104 very young	21308444	Eschbach, Fushiki et al. 2020b
+8248706	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8259179	KC43 very young	21308444	Eschbach, Fushiki et al. 2020b
+8259192	KC44 young	21308444	Eschbach, Fushiki et al. 2020b
+8259199	KC45 very young	21308444	Eschbach, Fushiki et al. 2020b
+8260011	KC46 young	21308444	Eschbach, Fushiki et al. 2020b
+8260935	KC47 very young	21308444	Eschbach, Fushiki et al. 2020b
+8262302	KC21	21308444	Eschbach, Fushiki et al. 2020b
+8262372	LON KC left	21308444	Eschbach, Fushiki et al. 2020b
+8262503	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8263140	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8263285	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8274902	KC48	21308444	Eschbach, Fushiki et al. 2020b
+8297018	MBE16 right	21308444	Eschbach, Fushiki et al. 2020b
+8310087	CD ; Key_right	21308444	Eschbach, Fushiki et al. 2020b
+8318678	KC no claws	21308444	Eschbach, Fushiki et al. 2020b
+8318813	DALcl12 v d 5 right	21308444	Eschbach, Fushiki et al. 2020b
+8319311	MBE10a right	21308444	Eschbach, Fushiki et al. 2020b
+8338584	MBE13a left	21308444	Eschbach, Fushiki et al. 2020b
+8357933	BT; BAmd2 ven desc lat 5_left -AXON WRONG	21308444	Eschbach, Fushiki et al. 2020b
+8393981	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8413663	KC49	21308444	Eschbach, Fushiki et al. 2020b
+8419602	KC50	21308444	Eschbach, Fushiki et al. 2020b
+8423405	UE: down pOLP&PVL09_left	21308444	Eschbach, Fushiki et al. 2020b
+8427677	KC51	21308444	Eschbach, Fushiki et al. 2020b
+8438283	Dopey_left	21308444	Eschbach, Fushiki et al. 2020b
+8504660	KC52	21308444	Eschbach, Fushiki et al. 2020b
+8509987	KC53	21308444	Eschbach, Fushiki et al. 2020b
+8513389	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8539175	TT ;  BAmd1 v r _Kathak_right	21308444	Eschbach, Fushiki et al. 2020b
+8542422	AD:BAmd1 v 3_Kathak_right	21308444	Eschbach, Fushiki et al. 2020b
+8559607	KC54	21308444	Eschbach, Fushiki et al. 2020b
+8565131	Nest_right	21308444	Eschbach, Fushiki et al. 2020b
+8689674	MBE10a left	21308444	Eschbach, Fushiki et al. 2020b
+8711574	T2: BLAv1 3 _sibling_right	21308444	Eschbach, Fushiki et al. 2020b
+8712361	AB_right	21308444	Eschbach, Fushiki et al. 2020b
+8723397	KC55 young	21308444	Eschbach, Fushiki et al. 2020b
+8752697	AN: DPMlp Lar_right	21308444	Eschbach, Fushiki et al. 2020b
+8761400	KC56 young	21308444	Eschbach, Fushiki et al. 2020b
+8764750	KC57 very young	21308444	Eschbach, Fushiki et al. 2020b
+8765865	KC58 very young	21308444	Eschbach, Fushiki et al. 2020b
+8766921	KC59 young	21308444	Eschbach, Fushiki et al. 2020b
+8773165	KC60 very young	21308444	Eschbach, Fushiki et al. 2020b
+8773716	KC61 very young	21308444	Eschbach, Fushiki et al. 2020b
+8773879	KC62 young	21308444	Eschbach, Fushiki et al. 2020b
+8792120	KC63 young	21308444	Eschbach, Fushiki et al. 2020b
+8792477	BL1 ; CM13 lat 1_right	21308444	Eschbach, Fushiki et al. 2020b
+8798010	MBE13b left	21308444	Eschbach, Fushiki et al. 2020b
+8835968	KC64	21308444	Eschbach, Fushiki et al. 2020b
+8847957	Bridge II_right	21308444	Eschbach, Fushiki et al. 2020b
+8850802	KC65;_42a right	21308444	Eschbach, Fushiki et al. 2020b
+8864096	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8864785	N_left	21308444	Eschbach, Fushiki et al. 2020b
+8865199	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+8877158	MBE7a left	21308444	Eschbach, Fushiki et al. 2020b
+8891315	KC66	21308444	Eschbach, Fushiki et al. 2020b
+8912726	BK1;DALcl12 v d 20_right	21308444	Eschbach, Fushiki et al. 2020b
+8922644	MBE16 left	21308444	Eschbach, Fushiki et al. 2020b
+8924186	KC67	21308444	Eschbach, Fushiki et al. 2020b
+8957325	KC68 young	21308444	Eschbach, Fushiki et al. 2020b
+8974428	R ; DALcm1/2 neuron hemisphere 4_left	21308444	Eschbach, Fushiki et al. 2020b
+8978117	KC69 young	21308444	Eschbach, Fushiki et al. 2020b
+8980589	MBE18 right	21308444	Eschbach, Fushiki et al. 2020b
+8993049	CZ_left	21308444	Eschbach, Fushiki et al. 2020b
+8997281	KC70	21308444	Eschbach, Fushiki et al. 2020b
+9006142	AK ; DALcm12 v p 7_left	21308444	Eschbach, Fushiki et al. 2020b
+9012340	KC71 young	21308444	Eschbach, Fushiki et al. 2020b
+9015568	scythe right	21308444	Eschbach, Fushiki et al. 2020b
+9051960	AD ; DALcm12 m ant lat 7_left	21308444	Eschbach, Fushiki et al. 2020b
+9057043	BY_right	21308444	Eschbach, Fushiki et al. 2020b
+9057998	S ; Convergence Sibling AB Left; DALcm12 L m ant lat 2_left	21308444	Eschbach, Fushiki et al. 2020b
+9061235	BO ; BAmd2 ven desc 7_left	21308444	Eschbach, Fushiki et al. 2020b
+9062992	BL1 ; CM13 lat 1_left	21308444	Eschbach, Fushiki et al. 2020b
+9064208	BL ; CM13 med 4_left	21308444	Eschbach, Fushiki et al. 2020b
+9074101	MBE35 right	21308444	Eschbach, Fushiki et al. 2020b
+9103732	DA_right	21308444	Eschbach, Fushiki et al. 2020b
+9109799	MBE35 left	21308444	Eschbach, Fushiki et al. 2020b
+9116228	WQ_right	21308444	Eschbach, Fushiki et al. 2020b
+9141404	A ; 4th order Thermo_left	21308444	Eschbach, Fushiki et al. 2020b
+9212816	IO; down_oct_right	21308444	Eschbach, Fushiki et al. 2020b
+9236708	IO; down_oct_left	21308444	Eschbach, Fushiki et al. 2020b
+9238937	DA_left	21308444	Eschbach, Fushiki et al. 2020b
+9251793	SJ: DALv23 L LAL dor pos 2_left	21308444	Eschbach, Fushiki et al. 2020b
+9294475	R ; DALcm12 neuron hemisphere 4_right	21308444	Eschbach, Fushiki et al. 2020b
+9409359	T5; offPVL09_3_large_left	21308444	Eschbach, Fushiki et al. 2020b
+9423829	BY_left	21308444	Eschbach, Fushiki et al. 2020b
+9424902	Tomato Vine 2_left	21308444	Eschbach, Fushiki et al. 2020b
+9428865	AP ;  BAla34 dor 2_left	21308444	Eschbach, Fushiki et al. 2020b
+9447255	US1: Claw_left	21308444	Eschbach, Fushiki et al. 2020b
+9455885	Bashful_right	21308444	Eschbach, Fushiki et al. 2020b
+9469519	MBE11b right	21308444	Eschbach, Fushiki et al. 2020b
+9511772	KC74 young	21308444	Eschbach, Fushiki et al. 2020b
+9517477	KC75 young	21308444	Eschbach, Fushiki et al. 2020b
+9525492	KC76	21308444	Eschbach, Fushiki et al. 2020b
+9527522	X ; F1 pair; DALcm12 L m ant lat 9_left	21308444	Eschbach, Fushiki et al. 2020b
+9531722	KC77	21308444	Eschbach, Fushiki et al. 2020b
+9556700	KC78	21308444	Eschbach, Fushiki et al. 2020b
+9574259	KC79 young	21308444	Eschbach, Fushiki et al. 2020b
+9578602	KC80 young	21308444	Eschbach, Fushiki et al. 2020b
+9606354	KC81 very young	21308444	Eschbach, Fushiki et al. 2020b
+9609048	KC82	21308444	Eschbach, Fushiki et al. 2020b
+9641919	S_right	21308444	Eschbach, Fushiki et al. 2020b
+9707941	KC83	21308444	Eschbach, Fushiki et al. 2020b
+9709983	Angry Eyes_right	21308444	Eschbach, Fushiki et al. 2020b
+9730873	KC84	21308444	Eschbach, Fushiki et al. 2020b
+9741463	KC85 young	21308444	Eschbach, Fushiki et al. 2020b
+9748981	Moggy_right	21308444	Eschbach, Fushiki et al. 2020b
+9753530	BH ; Descending 2; CP1 v 2_right	21308444	Eschbach, Fushiki et al. 2020b
+9758503	Holder_right	21308444	Eschbach, Fushiki et al. 2020b
+9766793	KC86	21308444	Eschbach, Fushiki et al. 2020b
+9769559	KC87 very young	21308444	Eschbach, Fushiki et al. 2020b
+9770016	KC88 very young	21308444	Eschbach, Fushiki et al. 2020b
+9782026	KC89 young	21308444	Eschbach, Fushiki et al. 2020b
+9796812	KC90	21308444	Eschbach, Fushiki et al. 2020b
+9805588	Angler_left	21308444	Eschbach, Fushiki et al. 2020b
+9809626	KC91	21308444	Eschbach, Fushiki et al. 2020b
+9813188	KC92	21308444	Eschbach, Fushiki et al. 2020b
+9847388	KC93	21308444	Eschbach, Fushiki et al. 2020b
+9848760	AR ; Putative MBE; CP4 1_right	21308444	Eschbach, Fushiki et al. 2020b
+9870483	BX 1; column of protocerebral bridge_left	21308444	Eschbach, Fushiki et al. 2020b
+9889095	KC94	21308444	Eschbach, Fushiki et al. 2020b
+9897223	KC95	21308444	Eschbach, Fushiki et al. 2020b
+9965610	BX ; CM4 dor pos 1_left	21308444	Eschbach, Fushiki et al. 2020b
+9983191	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+10017944	WI; CM4 dor ant 10 to LAL_left	21308444	Eschbach, Fushiki et al. 2020b
+10056280	KC96	21308444	Eschbach, Fushiki et al. 2020b
+10119916	Z: contra_right	21308444	Eschbach, Fushiki et al. 2020b
+10163418	MBE7a right	21308444	Eschbach, Fushiki et al. 2020b
+10167078	mPN iACT B1_right	21308444	Eschbach, Fushiki et al. 2020b
+10169396	KC97	21308444	Eschbach, Fushiki et al. 2020b
+10202724	LP: BAmas d 3_left	21308444	Eschbach, Fushiki et al. 2020b
+10209260	AE_left	21308444	Eschbach, Fushiki et al. 2020b
+10246566	KC98 young	21308444	Eschbach, Fushiki et al. 2020b
+10259967	KC99	21308444	Eschbach, Fushiki et al. 2020b
+10262043	Sneezy_left	21308444	Eschbach, Fushiki et al. 2020b
+10322164	Tiger_right	21308444	Eschbach, Fushiki et al. 2020b
+10339991	DPMpm1 3_right	21308444	Eschbach, Fushiki et al. 2020b
+10411574	OL: CM4 ven ant 2 DNs_left	21308444	Eschbach, Fushiki et al. 2020b
+10450307	KC young	21308444	Eschbach, Fushiki et al. 2020b
+10455234	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+10495502	U1: WB_DPMpl1_right	21308444	Eschbach, Fushiki et al. 2020b
+10543751	DPMpl lat 7_left	21308444	Eschbach, Fushiki et al. 2020b
+10581624	DPMm1_1_left - ipsi cross-layer CC	21308444	Eschbach, Fushiki et al. 2020b
+10612094	CZ2_left	21308444	Eschbach, Fushiki et al. 2020b
+10673895	MBE4f right	21308444	Eschbach, Fushiki et al. 2020b
+10682660	BL4_left	21308444	Eschbach, Fushiki et al. 2020b
+10702736	AQ ;  DPMpm2_1_left	21308444	Eschbach, Fushiki et al. 2020b
+10758204	CA ; DPMpm1 1_left	21308444	Eschbach, Fushiki et al. 2020b
+10809383	O ; BAmd1 v_left	21308444	Eschbach, Fushiki et al. 2020b
+10875178	PZ_right	21308444	Eschbach, Fushiki et al. 2020b
+10875625	SLP2_left	21308444	Eschbach, Fushiki et al. 2020b
+10880408	PZ_left	21308444	Eschbach, Fushiki et al. 2020b
+10918898	ML_left	21308444	Eschbach, Fushiki et al. 2020b
+10964258	BQ_left	21308444	Eschbach, Fushiki et al. 2020b
+11003660	BJ_left	21308444	Eschbach, Fushiki et al. 2020b
+11004239	offPVL09_left (bilateral DS LH)	21308444	Eschbach, Fushiki et al. 2020b
+11013351	U3 ; bilateral-2_left	21308444	Eschbach, Fushiki et al. 2020b
+11017761	MBE26 left	21308444	Eschbach, Fushiki et al. 2020b
+11018254	G ; 4th order Thermo (Stops Halfway); DALcm12 L m ant lat 10_left	21308444	Eschbach, Fushiki et al. 2020b
+11137808	UE: down pOLP&PVL09_right	21308444	Eschbach, Fushiki et al. 2020b
+11178891	LH bilateral axon 4_right; BLVa12 b 4	21308444	Eschbach, Fushiki et al. 2020b
+11210000	LH bilateral axon 1_right; BLVa12 b 2	21308444	Eschbach, Fushiki et al. 2020b
+11257084	Q; CP23d med of obPl 1 Gap; CP23 d 14_left	21308444	Eschbach, Fushiki et al. 2020b
+11409587	CF ; pDM_left	21308444	Eschbach, Fushiki et al. 2020b
+11464638	DPMpl lat 7_right	21308444	Eschbach, Fushiki et al. 2020b
+11465297	CC ; DPLm post 1_right	21308444	Eschbach, Fushiki et al. 2020b
+11468088	DALv23 LAL 7 left	21308444	Eschbach, Fushiki et al. 2020b
+11524047	MBE15b right	21308444	Eschbach, Fushiki et al. 2020b
+11525714	MBE22 left	21308444	Eschbach, Fushiki et al. 2020b
+11600886	T ; Convergence; DALcm12 m ant lat 3_left	21308444	Eschbach, Fushiki et al. 2020b
+11638511	Tiger_left	21308444	Eschbach, Fushiki et al. 2020b
+11642944	Spiral_left	21308444	Eschbach, Fushiki et al. 2020b
+11691603	KC17	21308444	Eschbach, Fushiki et al. 2020b
+11691640	KC no claws	21308444	Eschbach, Fushiki et al. 2020b
+11703922	Bridge III_left	21308444	Eschbach, Fushiki et al. 2020b
+11725127	KC12	21308444	Eschbach, Fushiki et al. 2020b
+11725803	KC42	21308444	Eschbach, Fushiki et al. 2020b
+11785627	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+11813287	KC100	21308444	Eschbach, Fushiki et al. 2020b
+11826171	3rd Thermo AP - Bridge IV_right	21308444	Eschbach, Fushiki et al. 2020b
+11841664	BL 3 ; CM13 lat 2_left	21308444	Eschbach, Fushiki et al. 2020b
+11868260	Angler_right	21308444	Eschbach, Fushiki et al. 2020b
+11889676	E ; BAMD PN_right	21308444	Eschbach, Fushiki et al. 2020b
+11908619	DALcl12 v d 5 Left	21308444	Eschbach, Fushiki et al. 2020b
+11909406	U3 ; bilateral-2_right	21308444	Eschbach, Fushiki et al. 2020b
+12122924	CZ2_right	21308444	Eschbach, Fushiki et al. 2020b
+12138418	CD ; Key_left	21308444	Eschbach, Fushiki et al. 2020b
+12217572	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+12262910	W_left	21308444	Eschbach, Fushiki et al. 2020b
+12299621	AV ; DPLc ant lat 1_left	21308444	Eschbach, Fushiki et al. 2020b
+12475432	MBE24a left	21308444	Eschbach, Fushiki et al. 2020b
+12476851	TR ; Down_pvl09_left	21308444	Eschbach, Fushiki et al. 2020b
+12498338	Projection from LH 1_left	21308444	Eschbach, Fushiki et al. 2020b
+12587013	scythe left	21308444	Eschbach, Fushiki et al. 2020b
+12598741	CP1 v 5; left	21308444	Eschbach, Fushiki et al. 2020b
+12704069	K ; DPLam med _right	21308444	Eschbach, Fushiki et al. 2020b
+12726582	KC16	21308444	Eschbach, Fushiki et al. 2020b
+12789813	Tomato Vine_left	21308444	Eschbach, Fushiki et al. 2020b
+12805363	MBE22 right	21308444	Eschbach, Fushiki et al. 2020b
+12813847	LH Processor_right	21308444	Eschbach, Fushiki et al. 2020b
+12839441	LH bilateral axon 5_left	21308444	Eschbach, Fushiki et al. 2020b
+12840470	U1: WB_DPMpl1_left	21308444	Eschbach, Fushiki et al. 2020b
+12866697	CC ; DPLm post 1_left	21308444	Eschbach, Fushiki et al. 2020b
+12868041	JI_left	21308444	Eschbach, Fushiki et al. 2020b
+12869029	IL; DAMd23_left	21308444	Eschbach, Fushiki et al. 2020b
+12871993	MBE1b left	21308444	Eschbach, Fushiki et al. 2020b
+12935696	BZ ; CM4 dor pos 2 right	21308444	Eschbach, Fushiki et al. 2020b
+12962772	BS; CM4 dor ant 1 DNs_right 	21308444	Eschbach, Fushiki et al. 2020b
+13046847	DPLm ant lat 1_right	21308444	Eschbach, Fushiki et al. 2020b
+13142932	Dopey_right	21308444	Eschbach, Fushiki et al. 2020b
+13175136	Sneezy_right	21308444	Eschbach, Fushiki et al. 2020b
+13197236	M ; F6 pair_left	21308444	Eschbach, Fushiki et al. 2020b
+13206239	Bridge II_left	21308444	Eschbach, Fushiki et al. 2020b
+13564607	DPMm1_1_right - ipsi cross-layer CC	21308444	Eschbach, Fushiki et al. 2020b
+13661736	WD_left	21308444	Eschbach, Fushiki et al. 2020b
+13665529	Bonsai right	21308444	Eschbach, Fushiki et al. 2020b
+13674287	AP ;  BAla34 dor 2_right	21308444	Eschbach, Fushiki et al. 2020b
+13718916	DALcl12 v d 2 left	21308444	Eschbach, Fushiki et al. 2020b
+13743125	ASB B1 left	21308444	Eschbach, Fushiki et al. 2020b
+13764822	BSD; BAmd2 ven desc lat 5_right - AXON WRONG	21308444	Eschbach, Fushiki et al. 2020b
+13803032	Projection from LH 2_right	21308444	Eschbach, Fushiki et al. 2020b
+13806524	NQ: BAla12_right	21308444	Eschbach, Fushiki et al. 2020b
+13836327	BO ; BAmd2 ven desc 7_right	21308444	Eschbach, Fushiki et al. 2020b
+13858797	Oval 42a_right	21308444	Eschbach, Fushiki et al. 2020b
+13863331	Bridge I_right	21308444	Eschbach, Fushiki et al. 2020b
+13953356	IL; DAMd23_right	21308444	Eschbach, Fushiki et al. 2020b
+13953546	Crab Arm DAMd23_right	21308444	Eschbach, Fushiki et al. 2020b
+13986477	I? ; Smash's forgotten ugly cousin_possible PVL005 - 3 Right_sibling	21308444	Eschbach, Fushiki et al. 2020b
+13986583	LH to pseudo bridges_right	21308444	Eschbach, Fushiki et al. 2020b
+13988443	TT ;  BAmd1 v r _Kathak_left	21308444	Eschbach, Fushiki et al. 2020b
+14000746	U ; Convergence Sibling; DALcm12 m ant lat 12_left	21308444	Eschbach, Fushiki et al. 2020b
+14071449	Crab Arm DAMd23_left	21308444	Eschbach, Fushiki et al. 2020b
+14071613	T1 ; DALcl12 d 4_left	21308444	Eschbach, Fushiki et al. 2020b
+14073503	L ; DALcm12 m lat 4_left	21308444	Eschbach, Fushiki et al. 2020b
+14077615	D ; Feedback neuron from nociceptive_right	21308444	Eschbach, Fushiki et al. 2020b
+14082322	MBE9b left	21308444	Eschbach, Fushiki et al. 2020b
+14083681	X ; F1 pair; DALcm12 L m ant lat 9_right	21308444	Eschbach, Fushiki et al. 2020b
+14206030	AQ ;  DPMpm2_1_right	21308444	Eschbach, Fushiki et al. 2020b
+14214039	S ; Convergence Sibling AB Right; DALcm12 m ant lat 2_right	21308444	Eschbach, Fushiki et al. 2020b
+14255342	KC no claws	21308444	Eschbach, Fushiki et al. 2020b
+14260575	DPMpl lat 4 loSMpl_left	21308444	Eschbach, Fushiki et al. 2020b
+14313750	E ; BAMD PN_left	21308444	Eschbach, Fushiki et al. 2020b
+14319185	Nest_left	21308444	Eschbach, Fushiki et al. 2020b
+14319960	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+14328512	BX 1; column of protocerebral bridge_right	21308444	Eschbach, Fushiki et al. 2020b
+14329745	BP 1 ; Left	21308444	Eschbach, Fushiki et al. 2020b
+14333495	Oval 42a_left	21308444	Eschbach, Fushiki et al. 2020b
+14334367	BQ 1 ; DPMl12 ant 1_right 	21308444	Eschbach, Fushiki et al. 2020b
+14342744	Tidal wave left	21308444	Eschbach, Fushiki et al. 2020b
+14460113	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+14495367	BP_right	21308444	Eschbach, Fushiki et al. 2020b
+14514597	I? ; Smash's forgotten ugly cousin_possible PVL005 - 3 Left_sibling	21308444	Eschbach, Fushiki et al. 2020b
+14519048	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+14522124	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+14539753	BS; CM4 dor ant 1 DNs_left	21308444	Eschbach, Fushiki et al. 2020b
+14540633	B ; DALcm12 m ant lat 5_left	21308444	Eschbach, Fushiki et al. 2020b
+14541927	AVM011f left	21308444	Eschbach, Fushiki et al. 2020b
+14547259	KC32	21308444	Eschbach, Fushiki et al. 2020b
+14617508	GH_left	21308444	Eschbach, Fushiki et al. 2020b
+14680483	GH_right	21308444	Eschbach, Fushiki et al. 2020b
+14812545	Bashful_left	21308444	Eschbach, Fushiki et al. 2020b
+14891367	BAmd1 d_left	21308444	Eschbach, Fushiki et al. 2020b
+14898295	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+14898816	KC13	21308444	Eschbach, Fushiki et al. 2020b
+14948339	IT_right	21308444	Eschbach, Fushiki et al. 2020b
+15253921	MBE34 left	21308444	Eschbach, Fushiki et al. 2020b
+15398730	MBE23 left	21308444	Eschbach, Fushiki et al. 2020b
+15404207	MBE19 right	21308444	Eschbach, Fushiki et al. 2020b
+15421363	MBE2a left	21308444	Eschbach, Fushiki et al. 2020b
+15468308	To Complete with soma left	21308444	Eschbach, Fushiki et al. 2020b
+15480928	G ; 4th order Thermo (Stops Halfway); DALcm12 L m ant lat 10_right	21308444	Eschbach, Fushiki et al. 2020b
+15524629	BK1;DALcl12 v d 20_left	21308444	Eschbach, Fushiki et al. 2020b
+15566333	V ; DPMpm2 4_left	21308444	Eschbach, Fushiki et al. 2020b
+15568333	V ; DPMpm2 4_right	21308444	Eschbach, Fushiki et al. 2020b
+15588620	BF ; F3 pair; CP4 2_left	21308444	Eschbach, Fushiki et al. 2020b
+15590555	CE ; NI_right	21308444	Eschbach, Fushiki et al. 2020b
+15592096	MBE4g left	21308444	Eschbach, Fushiki et al. 2020b
+15594113	CE ; NI_left	21308444	Eschbach, Fushiki et al. 2020b
+15612283	BK: DALcl12 v d 19_left	21308444	Eschbach, Fushiki et al. 2020b
+15617305	MBE7b right	21308444	Eschbach, Fushiki et al. 2020b
+15618614	Tidal wave right	21308444	Eschbach, Fushiki et al. 2020b
+15662776	DALcl12 v d 1 right	21308444	Eschbach, Fushiki et al. 2020b
+15668309	J ; Mid DPMpl lat  (F4 pair)_left	21308444	Eschbach, Fushiki et al. 2020b
+15673454	DALcl12 v d 2 right	21308444	Eschbach, Fushiki et al. 2020b
+15691114	KC no claws	21308444	Eschbach, Fushiki et al. 2020b
+15691118	KC young no claw	21308444	Eschbach, Fushiki et al. 2020b
+15691122	KC young	21308444	Eschbach, Fushiki et al. 2020b
+15706875	CP1 v 5; right	21308444	Eschbach, Fushiki et al. 2020b
+15721919	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+15722306	KC no claws	21308444	Eschbach, Fushiki et al. 2020b
+15722867	KC82	21308444	Eschbach, Fushiki et al. 2020b
+15734666	KC young	21308444	Eschbach, Fushiki et al. 2020b
+15734988	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+15736398	BK: DALcl12 v d 19_right	21308444	Eschbach, Fushiki et al. 2020b
+15741782	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+15741865	C ; DALcl12 L d 2_left	21308444	Eschbach, Fushiki et al. 2020b
+15741951	KC young	21308444	Eschbach, Fushiki et al. 2020b
+15764960	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+15766806	Bridge I_left	21308444	Eschbach, Fushiki et al. 2020b
+15788419	KC young	21308444	Eschbach, Fushiki et al. 2020b
+15788431	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+15810983	MBE30 left	21308444	Eschbach, Fushiki et al. 2020b
+15828093	KC young	21308444	Eschbach, Fushiki et al. 2020b
+15861524	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+15924717	Angry Eyes_left	21308444	Eschbach, Fushiki et al. 2020b
+15939130	KC young	21308444	Eschbach, Fushiki et al. 2020b
+15939179	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+15974183	DALcl12 v d 1 left	21308444	Eschbach, Fushiki et al. 2020b
+15995074	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+16015738	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16017113	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16026042	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16026677	BP_left	21308444	Eschbach, Fushiki et al. 2020b
+16039470	KC14	21308444	Eschbach, Fushiki et al. 2020b
+16053650	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+16053670	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16054240	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+16058860	KC100	21308444	Eschbach, Fushiki et al. 2020b
+16070049	TR ; Down_pvl09_right	21308444	Eschbach, Fushiki et al. 2020b
+16089738	S_left	21308444	Eschbach, Fushiki et al. 2020b
+16100461	T2: BLAv1 3 _sibling_left	21308444	Eschbach, Fushiki et al. 2020b
+16145456	KC101 very young	21308444	Eschbach, Fushiki et al. 2020b
+16178283	MBE26 right	21308444	Eschbach, Fushiki et al. 2020b
+16181377	Bridge III_right	21308444	Eschbach, Fushiki et al. 2020b
+16210988	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16220042	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+16223537	MBE18 left	21308444	Eschbach, Fushiki et al. 2020b
+16240569	MBE4g right	21308444	Eschbach, Fushiki et al. 2020b
+16295025	US1: Claw_right	21308444	Eschbach, Fushiki et al. 2020b
+16339645	JI_right	21308444	Eschbach, Fushiki et al. 2020b
+16350988	IK; Loopy_right	21308444	Eschbach, Fushiki et al. 2020b
+16353832	MBE10b right	21308444	Eschbach, Fushiki et al. 2020b
+16355642	Descending T right - AXON INCOMPLETE	21308444	Eschbach, Fushiki et al. 2020b
+16356717	WD_right	21308444	Eschbach, Fushiki et al. 2020b
+16405545	Tomato Vine_right	21308444	Eschbach, Fushiki et al. 2020b
+16415910	WQ_left	21308444	Eschbach, Fushiki et al. 2020b
+16427492	HL; DALv23 L LAL_left	21308444	Eschbach, Fushiki et al. 2020b
+16435406	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16435965	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16438190	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16440649	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16440704	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16443532	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16443536	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16443544	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16443548	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+16443747	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+16444327	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16444552	CG_left	21308444	Eschbach, Fushiki et al. 2020b
+16445338	IK; Loopy_left	21308444	Eschbach, Fushiki et al. 2020b
+16448926	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16448930	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+16448934	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16448954	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16448967	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16448971	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+16448979	KC young no claws	21308444	Eschbach, Fushiki et al. 2020b
+16448983	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16464284	BI ; NI_left	21308444	Eschbach, Fushiki et al. 2020b
+16464614	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16475849	AT ; DPMpm2 1_left	21308444	Eschbach, Fushiki et al. 2020b
+16485079	LH bilateral axon 2 MB_right; BLVa12 b 3	21308444	Eschbach, Fushiki et al. 2020b
+16486385	LH bilateral axon 4_left; BLVa12 b 4	21308444	Eschbach, Fushiki et al. 2020b
+16544462	BAmv1/2 #3_left	21308444	Eschbach, Fushiki et al. 2020b
+16575803	Grumpy_right	21308444	Eschbach, Fushiki et al. 2020b
+16594509	BJ_right	21308444	Eschbach, Fushiki et al. 2020b
+16625432	KC30	21308444	Eschbach, Fushiki et al. 2020b
+16627773	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16627838	KC49?	21308444	Eschbach, Fushiki et al. 2020b
+16627861	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16627950	KC no claws	21308444	Eschbach, Fushiki et al. 2020b
+16628000	KC young	21308444	Eschbach, Fushiki et al. 2020b
+16629757	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16629788	KC34	21308444	Eschbach, Fushiki et al. 2020b
+16629931	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16630024	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16630264	KC25	21308444	Eschbach, Fushiki et al. 2020b
+16630385	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16630941	KC22	21308444	Eschbach, Fushiki et al. 2020b
+16631114	KC78?	21308444	Eschbach, Fushiki et al. 2020b
+16631222	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16631248	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+16691937	A ; 4th order Thermo_right	21308444	Eschbach, Fushiki et al. 2020b
+16699958	U ; Convergence Sibling; DALcm12 m ant lat 12_right	21308444	Eschbach, Fushiki et al. 2020b
+16720240	KC72	21308444	Eschbach, Fushiki et al. 2020b
+16753901	potential MB2ON-234 16753902 left	21308444	Eschbach, Fushiki et al. 2020b
+16758011	Baso_right	21308444	Eschbach, Fushiki et al. 2020b
+16782830	MBE11b left	21308444	Eschbach, Fushiki et al. 2020b
+16797672	MBE5a right	21308444	Eschbach, Fushiki et al. 2020b
+16823703	AT ; DPMpm2 1_right	21308444	Eschbach, Fushiki et al. 2020b
+16846805	MBE5b left	21308444	Eschbach, Fushiki et al. 2020b
+16850888	KC73	21308444	Eschbach, Fushiki et al. 2020b
+16856539	BL4_right; CM13 med 2	21308444	Eschbach, Fushiki et al. 2020b
+16868923	MBE24b left	21308444	Eschbach, Fushiki et al. 2020b
+16883909	MBE33 left	21308444	Eschbach, Fushiki et al. 2020b
+16910799	BT ; CM13 med 5_right	21308444	Eschbach, Fushiki et al. 2020b
+16913476	WI; CM4 dor ant 10 to LAL_right	21308444	Eschbach, Fushiki et al. 2020b
+16939375	KC67	21308444	Eschbach, Fushiki et al. 2020b
+16950115	DP: DALcm12 v p 24_left	21308444	Eschbach, Fushiki et al. 2020b
+16950121	WF; DALcm12 v p 13_left	21308444	Eschbach, Fushiki et al. 2020b
+16977881	KC90	21308444	Eschbach, Fushiki et al. 2020b
+16987409	DPMpl lat 4 loSMpl_right	21308444	Eschbach, Fushiki et al. 2020b
+17013073	MBE24b right	21308444	Eschbach, Fushiki et al. 2020b
+17016974	MBE20 left	21308444	Eschbach, Fushiki et al. 2020b
+17019327	CF ; pDM_right	21308444	Eschbach, Fushiki et al. 2020b
+17038587	MJ: LNM_downstream4_left	21308444	Eschbach, Fushiki et al. 2020b
+17053386	Descending T left - AXON INCOMPLETE	21308444	Eschbach, Fushiki et al. 2020b
+17058350	Bridge V_right	21308444	Eschbach, Fushiki et al. 2020b
+17068730	Ladder (olfactory) ant.	21308444	Eschbach, Fushiki et al. 2020b
+17083341	CM13 med right	21308444	Eschbach, Fushiki et al. 2020b
+17125520	LH bilateral axon 5_right	21308444	Eschbach, Fushiki et al. 2020b
+17140424	BH ; Descending 2; CP1 v 2_left	21308444	Eschbach, Fushiki et al. 2020b
+17147410	KC no pair	21308444	Eschbach, Fushiki et al. 2020b
+17147698	MBE11a left	21308444	Eschbach, Fushiki et al. 2020b
+17150791	AB_left	21308444	Eschbach, Fushiki et al. 2020b
+17165286	DPLm ant lat 1_left	21308444	Eschbach, Fushiki et al. 2020b
+17165711	J ; Mid DPMpl lat  (F4 pair)_right	21308444	Eschbach, Fushiki et al. 2020b
+17176911	CH ; BAmd1 lineage_left	21308444	Eschbach, Fushiki et al. 2020b
+17176927	KU: DALcm12 L m ant lat 6_right	21308444	Eschbach, Fushiki et al. 2020b
+17177419	EV_left	21308444	Eschbach, Fushiki et al. 2020b
+17237305	IT_left	21308444	Eschbach, Fushiki et al. 2020b
+17276867	H ; DALcm r v ant med_left	21308444	Eschbach, Fushiki et al. 2020b
+17295912	MBE10b left	21308444	Eschbach, Fushiki et al. 2020b
+17300165	AR ; Putative MBE; CP4 1_left	21308444	Eschbach, Fushiki et al. 2020b
+17315288	CP23 v 11_left	21308444	Eschbach, Fushiki et al. 2020b
+17330632	To Complete with soma right	21308444	Eschbach, Fushiki et al. 2020b
+17340931	CG_right 	21308444	Eschbach, Fushiki et al. 2020b
+17355757	MBE7b left	21308444	Eschbach, Fushiki et al. 2020b
+17357979	BQ_right	21308444	Eschbach, Fushiki et al. 2020b
+17361757	LH Processor_left	21308444	Eschbach, Fushiki et al. 2020b
+17373283	DPMpm1 3_left	21308444	Eschbach, Fushiki et al. 2020b
+17379420	OL: CM4 ven ant 2 DNs_right	21308444	Eschbach, Fushiki et al. 2020b
+17434825	LH bilateral axon 2 MB_left; BLVa12 b 3	21308444	Eschbach, Fushiki et al. 2020b
+17437719	AE_right	21308444	Eschbach, Fushiki et al. 2020b
+17438424	SLP1_right; CM13 lat 9	21308444	Eschbach, Fushiki et al. 2020b
+17454963	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17476873	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17476916	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17476920	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17476934	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17476964	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17476975	KC very young	21308444	Eschbach, Fushiki et al. 2020b
+17591442	RQ1: 3rd - thermo orders _right	21308444	Eschbach, Fushiki et al. 2020b
+17639784	SLP1_left; CM13 lat 9?	21308444	Eschbach, Fushiki et al. 2020b
+17671219	PVM_42a_LH_right	21308444	Eschbach, Fushiki et al. 2020b
+17806341	LH bilateral axon 3_right	21308444	Eschbach, Fushiki et al. 2020b
+17813006	AD ; DALcm12 m ant lat 7_right	21308444	Eschbach, Fushiki et al. 2020b
+17813457	neuron 17813458 left	21308444	Eschbach, Fushiki et al. 2020b
+17822238	AG:DL-LH_cand7_right; BLVa12 a 2	21308444	Eschbach, Fushiki et al. 2020b
+17854345	ASB B1 right	21308444	Eschbach, Fushiki et al. 2020b
+17867309	CZ_right	21308444	Eschbach, Fushiki et al. 2020b
+18028397	MBE5b right	21308444	Eschbach, Fushiki et al. 2020b
+18062678	F ; Convergence Sibling-2_left; DALcm12 m ant lat 11_left	21308444	Eschbach, Fushiki et al. 2020b
+18500988	BQ 1 ; DPMl12 ant 1_left	21308444	Eschbach, Fushiki et al. 2020b
+18648531	Bonsai left	21308444	Eschbach, Fushiki et al. 2020b
+19156025	Brain looper right	21308444	Eschbach, Fushiki et al. 2020b
+19175973	AC ; DALcm12 m ant med 1_left	21308444	Eschbach, Fushiki et al. 2020b
+19786464	BP 1 ; Right	21308444	Eschbach, Fushiki et al. 2020b
 3365860	A02j Looper-10_a3l	19712396	Fushiki et al. 2016
 4038808	A27k_a2l	19712396	Fushiki et al. 2016
 4113612	A27k_a2r	19712396	Fushiki et al. 2016
@@ -1735,7 +2389,7 @@ skid	name	paper_id	paper_name
 6811349	A01x3_a1r	19712396	Fushiki et al. 2016
 7019050	A01a?_a1r      rf	19712396	Fushiki et al. 2016
 7783764	vdaC_a1l (class II)	19712396	Fushiki et al. 2016
-7808341	crescent a1l_JMpair 1 A08s upstream	19712396	Fushiki et al. 2016
+7808341	crescent_a1l	19712396	Fushiki et al. 2016
 7924478	A01b2_a1l 	19712396	Fushiki et al. 2016
 7926496	A02j_a3r	19712396	Fushiki et al. 2016
 7987962	A03g2_t3r (T03g2)	19712396	Fushiki et al. 2016
@@ -1754,7 +2408,7 @@ skid	name	paper_id	paper_name
 10089445	Saaghi-1_a2r (AAZ1 (A06l))	19712396	Fushiki et al. 2016
 10133525	A14 dude?_a1r	19712396	Fushiki et al. 2016
 10223572	A27h_a1l	19712396	Fushiki et al. 2016
-10227539	crescent a1r	19712396	Fushiki et al. 2016
+10227539	crescent_a1r	19712396	Fushiki et al. 2016
 10376512	A27h_a2r	19712396	Fushiki et al. 2016
 10398171	A27h_a1r	19712396	Fushiki et al. 2016
 10414725	A27h_a2l	19712396	Fushiki et al. 2016
@@ -1783,7 +2437,7 @@ skid	name	paper_id	paper_name
 13302529	A18f?_a3r	19712396	Fushiki et al. 2016
 13522678	A05a_a1l	19712396	Fushiki et al. 2016
 13525684	A03a4_a2r	19712396	Fushiki et al. 2016
-13545404	neuron 13545405	19712396	Fushiki et al. 2016
+13545404	neuron 13545405_fragment	19712396	Fushiki et al. 2016
 14046245	A27a_a1r	19712396	Fushiki et al. 2016
 14046279	A02d_a1l 	19712396	Fushiki et al. 2016
 14046294	A02d_a1r	19712396	Fushiki et al. 2016
@@ -1792,7 +2446,7 @@ skid	name	paper_id	paper_name
 14913093	A08s1_a1r	19712396	Fushiki et al. 2016
 15504369	A27j2_a1l_GABA	19712396	Fushiki et al. 2016
 15504376	A27j2_a1r_GABA	19712396	Fushiki et al. 2016
-15565587	neuron 15565588	19712396	Fushiki et al. 2016
+15565587	A03?3_a2r	19712396	Fushiki et al. 2016
 16066985	A27a_a1l	19712396	Fushiki et al. 2016
 16257962	A03a6_a1r	19712396	Fushiki et al. 2016
 16274373	A02j_a3l	19712396	Fushiki et al. 2016
@@ -1916,7 +2570,7 @@ skid	name	paper_id	paper_name
 11928389	Jaam-3_a1l (HMD3 (A12 c3))	19756504	Heckscher et al. 2015
 11958584	A06e_a1r (Saaghi-3)	19756504	Heckscher et al. 2015
 12809923	A08e2_a1l	19756504	Heckscher et al. 2015
-12825902	Neuron 20725668	19756504	Heckscher et al. 2015
+12825902	Neuron 20725668_fragment	19756504	Heckscher et al. 2015
 12960079	dmd1_a1l_JMpair3	19756504	Heckscher et al. 2015
 12960217	ddaD_a1l (class I)	19756504	Heckscher et al. 2015
 12990250	Jaam-2_a1r (HMD2 (A12g))	19756504	Heckscher et al. 2015
@@ -2015,7 +2669,7 @@ skid	name	paper_id	paper_name
 7746883	vchA/B a1r	20498648	Jovanic et al. 2019
 7763691	lch5-5 a1l	20498648	Jovanic et al. 2019
 7764785	lch5-1 a1l	20498648	Jovanic et al. 2019
-7782409	drunken-4 a1l	20498648	Jovanic et al. 2019
+7782409	Drunken-4 a1l	20498648	Jovanic et al. 2019
 7790597	vchA/B a1l	20498648	Jovanic et al. 2019
 7792781	vdaD a1l class III md	20498648	Jovanic et al. 2019
 7796832	vchA/B a1l	20498648	Jovanic et al. 2019
@@ -2205,7 +2859,7 @@ skid	name	paper_id	paper_name
 12820085	A14b a1l	20726939	Mark et al. 2019
 12820178	A02h_a1l	20726939	Mark et al. 2019
 12820277	A14a_a1l	20726939	Mark et al. 2019
-13004884	A02a- looper-1_a1l_JMpair1	20726939	Mark et al. 2019
+13004884	A02a- looper-1_a1l	20726939	Mark et al. 2019
 14046279	A02d_a1l 	20726939	Mark et al. 2019
 14522404	NB5-2 lineage 6 (HMD X?)_a1l	20726939	Mark et al. 2019
 14866842	A02g_a1l	20726939	Mark et al. 2019
@@ -2413,7 +3067,7 @@ skid	name	paper_id	paper_name
 4876704	PN in Olfactory Bundle 1 right	20282757	Miroschnikow et al. 2018
 4985759	AVL011 PN Left	20282757	Miroschnikow et al. 2018
 4992273	neuron 4992274	20282757	Miroschnikow et al. 2018
-4992322	neuron 4992323	20282757	Miroschnikow et al. 2018
+4992322	neuron 4992323 (MNB in SEZ?)	20282757	Miroschnikow et al. 2018
 5057916	AN-L-Sens-B3-VM-11	20282757	Miroschnikow et al. 2018
 5088293	AN-L-Sens-B3-ACpl-10	20282757	Miroschnikow et al. 2018
 5093516	AN-L-Sens-B3-ACal-04 (Non-ORN 2)	20282757	Miroschnikow et al. 2018
@@ -3129,7 +3783,7 @@ skid	name	paper_id	paper_name
 3622234	SOG into Brain contralaterally left - paired with #3420915	19712202	Schlegel et al. 2016
 3722787	A23f2 (= Pre-goro9)_a3l	19712202	Schlegel et al. 2016
 3795424	v'td_a5l (Abdominal Sensory)	19712202	Schlegel et al. 2016
-3915835	v'td-2_a3l	19712202	Schlegel et al. 2016
+3915835	v'td_a3l	19712202	Schlegel et al. 2016
 3946432	WS: from olfactory to Hugin interneuron left	19712202	Schlegel et al. 2016
 4179669	A26g_a2l	19712202	Schlegel et al. 2016
 4284106	Holder_left	19712202	Schlegel et al. 2016
@@ -3157,7 +3811,7 @@ skid	name	paper_id	paper_name
 5613144	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016
 5614978	T1l asc contra 01	19712202	Schlegel et al. 2016
 5615961	hugin-RG left 2	19712202	Schlegel et al. 2016
-5617164	v'td-2_a2l	19712202	Schlegel et al. 2016
+5617164	v'td_a2l	19712202	Schlegel et al. 2016
 5644800	T1l descending 	19712202	Schlegel et al. 2016
 5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	19712202	Schlegel et al. 2016
 5860970	A23f2 (= Pre-goro9)_a3r	19712202	Schlegel et al. 2016
@@ -3206,7 +3860,7 @@ skid	name	paper_id	paper_name
 10716080	DPMm1 Brain descending into VNC left	19712202	Schlegel et al. 2016
 10728318	DPMm1 Brain descending into VNC 2 left	19712202	Schlegel et al. 2016
 10852875	v'td_a2r (Abdominal Sensory)	19712202	Schlegel et al. 2016
-10868477	v'td-2_a1r	19712202	Schlegel et al. 2016
+10868477	v'td1_a1r	19712202	Schlegel et al. 2016
 10885848	T1 Local Interneuron - paired with #2620299? a27l t2?	19712202	Schlegel et al. 2016
 11121240	A00g_a3 ?	19712202	Schlegel et al. 2016
 11291344	v'td_a5r (Abdominal Sensory)	19712202	Schlegel et al. 2016
@@ -3217,9 +3871,9 @@ skid	name	paper_id	paper_name
 11874130	v'td-2_a1l	19712202	Schlegel et al. 2016
 12042430	A06?_a1l	19712202	Schlegel et al. 2016
 12634154	IPC 3 left	19712202	Schlegel et al. 2016
-12824059	post B5 37	19712202	Schlegel et al. 2016
-12920745	post B5 17	19712202	Schlegel et al. 2016
-12944429	neuron 12944430	19712202	Schlegel et al. 2016
+12824059	post B5 17 l	19712202	Schlegel et al. 2016
+12920745	post B5 17 r	19712202	Schlegel et al. 2016
+12944429	neuron 12944430 with a soma	19712202	Schlegel et al. 2016
 13429045	AF4: TOH right; Large Spider Neuron right	19712202	Schlegel et al. 2016
 13535380	IPC 1 right	19712202	Schlegel et al. 2016
 13535387	DH44 3 right	19712202	Schlegel et al. 2016
@@ -3436,7 +4090,7 @@ skid	name	paper_id	paper_name
 12809976	A06c_a1l	20726614	Zarin, Mark et al. 2019
 12820178	A02h_a1l	20726614	Zarin, Mark et al. 2019
 12820277	A14a_a1l	20726614	Zarin, Mark et al. 2019
-12825902	Neuron 20725668	20726614	Zarin, Mark et al. 2019
+12825902	Neuron 20725668_fragment	20726614	Zarin, Mark et al. 2019
 12873722	A31d_a1r	20726614	Zarin, Mark et al. 2019
 12944478	A31k_a1r	20726614	Zarin, Mark et al. 2019
 12949240	T01d4_t3l	20726614	Zarin, Mark et al. 2019
