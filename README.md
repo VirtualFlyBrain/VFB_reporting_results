@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #625 from commit: 'ensuring neurons only; avoiding sub annotations' on master
+ Current results are from the latest travis build #626 from commit: 'adding VNC1/FANC' on master
 
 
 ## Internal pipeline reports:
