@@ -1,240 +1,240 @@
-filename	label	is_a	part_of	dbxrefs
-1678567	BU ; DALd 4_left 1678567	neuron	embryonic/larval nervous system	catmaid_l1em:1678567
-2439067	T3: PVLr_left 2439067	neuron	embryonic/larval nervous system	catmaid_l1em:2439067
-2628785	AE:BAmd2 r bilateral_left 2628785	neuron	embryonic/larval nervous system	catmaid_l1em:2628785
-2650887	CA ; DPMpm1 1_right 2650887	neuron	embryonic/larval nervous system	catmaid_l1em:2650887
-3027876	Tomato Vine 2_right 3027876	neuron	embryonic/larval nervous system	catmaid_l1em:3027876
-3814853	T3: PVLr_right 3814853	neuron	embryonic/larval nervous system	catmaid_l1em:3814853
-3855754	SOGr Hugin-like-1_right 3855754	neuron	embryonic/larval nervous system	catmaid_l1em:3855754
-3913620	T5; offPVL09_3_large_right 3913620	neuron	embryonic/larval nervous system	catmaid_l1em:3913620
-3913629	Projection from LH 1_right 3913629	neuron	embryonic/larval nervous system	catmaid_l1em:3913629
-4067286	SLP2_right 4067286	neuron	embryonic/larval nervous system	catmaid_l1em:4067286
-4188325	DALv23 LAL 7 right 4188325	neuron	embryonic/larval nervous system	catmaid_l1em:4188325
-4214582	Y ; DALcm12 L m ant lat 2_right 4214582	neuron	embryonic/larval nervous system	catmaid_l1em:4214582
-4227831	AC ; DALcm12 m ant med 1_right 4227831	neuron	embryonic/larval nervous system	catmaid_l1em:4227831
-4227880	EV_right  4227880	neuron	embryonic/larval nervous system	catmaid_l1em:4227880
-4228105	ML_right 4228105	neuron	embryonic/larval nervous system	catmaid_l1em:4228105
-4228119	P ; DALcm12  m ant lat #4_right 4228119	neuron	embryonic/larval nervous system	catmaid_l1em:4228119
-4234559	CM13 lat 3_right 4234559	neuron	embryonic/larval nervous system	catmaid_l1em:4234559
-4274518	Brain looper left 4274518	neuron	embryonic/larval nervous system	catmaid_l1em:4274518
-4311586	AE:BAmd2 r bilateral_right 4311586	neuron	embryonic/larval nervous system	catmaid_l1em:4311586
-4346154	DALcm_r right 4346154	neuron	embryonic/larval nervous system	catmaid_l1em:4346154
-4391317	3rd Thermo AP - Bridge IV_left 4391317	neuron	embryonic/larval nervous system	catmaid_l1em:4391317
-4408362	NH; BAmd2_left -axon incomplete 4408362	neuron	embryonic/larval nervous system	catmaid_l1em:4408362
-4408369	Baso_left 4408369	neuron	embryonic/larval nervous system	catmaid_l1em:4408369
-4409374	CM13 lat 3_left 4409374	neuron	embryonic/larval nervous system	catmaid_l1em:4409374
-4411542	T1 ; DALcl12 d 4_right 4411542	neuron	embryonic/larval nervous system	catmaid_l1em:4411542
-4433960	NQ: BAla1/2_left 4433960	neuron	embryonic/larval nervous system	catmaid_l1em:4433960
-4515496	BAmv12 #3_right 4515496	neuron	embryonic/larval nervous system	catmaid_l1em:4515496
-4575178	CH ; BAmd1 lineage_right 4575178	neuron	embryonic/larval nervous system	catmaid_l1em:4575178
-4665186	PVM_42a_LH_left 4665186	neuron	embryonic/larval nervous system	catmaid_l1em:4665186
-4721087	NH; BAmd2_right 4721087	neuron	embryonic/larval nervous system	catmaid_l1em:4721087
-4721538	QI; visual interneuron_left 4721538	neuron	embryonic/larval nervous system	catmaid_l1em:4721538
-4849988	DP: DALcm12 v p 24_right 4849988	neuron	embryonic/larval nervous system	catmaid_l1em:4849988
-5103177	SOGr Hugin-like-1_left 5103177	neuron	embryonic/larval nervous system	catmaid_l1em:5103177
-5169587	P ; DALcm12  m ant lat #4_left 5169587	neuron	embryonic/larval nervous system	catmaid_l1em:5169587
-5186443	DALcm12 L m ant lat 1 left 5186443	neuron	embryonic/larval nervous system	catmaid_l1em:5186443
-5326407	CP23 v 11_right 5326407	neuron	embryonic/larval nervous system	catmaid_l1em:5326407
-5453333	Projection from LH 2_left 5453333	neuron	embryonic/larval nervous system	catmaid_l1em:5453333
-5474852	RQ1: 3rd - thermo orders _left 5474852	neuron	embryonic/larval nervous system	catmaid_l1em:5474852
-5669107	L ; DALcm12 m lat 4_right 5669107	neuron	embryonic/larval nervous system	catmaid_l1em:5669107
-5771934	BAmd1 d_right 5771934	neuron	embryonic/larval nervous system	catmaid_l1em:5771934
-5783868	AK ; DALcm12 v p 7_right  5783868	neuron	embryonic/larval nervous system	catmaid_l1em:5783868
-5856647	BL 3 ; CM13 lat 2_right 5856647	neuron	embryonic/larval nervous system	catmaid_l1em:5856647
-5874480	Bridge V_left 5874480	neuron	embryonic/larval nervous system	catmaid_l1em:5874480
-6153877	BU ; DALd 4_right 6153877	neuron	embryonic/larval nervous system	catmaid_l1em:6153877
-6193472	AA: DALcl12 d_right 6193472	neuron	embryonic/larval nervous system	catmaid_l1em:6193472
-6298455	AA: DALcl12 d_left 6298455	neuron	embryonic/larval nervous system	catmaid_l1em:6298455
-6494274	LH to pseudo bridges_left 6494274	neuron	embryonic/larval nervous system	catmaid_l1em:6494274
-6609380	WF; DALcm12 v p 13_right 6609380	neuron	embryonic/larval nervous system	catmaid_l1em:6609380
-6611100	H ; DALcm r v ant med_right 6611100	neuron	embryonic/larval nervous system	catmaid_l1em:6611100
-7053966	Y ; DALcm12 L m ant lat 2_left 7053966	neuron	embryonic/larval nervous system	catmaid_l1em:7053966
-7056904	KU: DALcm12 L m ant lat 6_left 7056904	neuron	embryonic/larval nervous system	catmaid_l1em:7056904
-7065182	F ; Convergence Sibling-2_right; DALcm12 m ant lat 11_right 7065182	neuron	embryonic/larval nervous system	catmaid_l1em:7065182
-7612147	Q?; CP23d med of obPl 1 Gap; CP23 d 14_right 7612147	neuron	embryonic/larval nervous system	catmaid_l1em:7612147
-7700444	BT ; CM13 med 5_left 7700444	neuron	embryonic/larval nervous system	catmaid_l1em:7700444
-7980189	T ; Convergence; DALcm12 m ant lat 3_right 7980189	neuron	embryonic/larval nervous system	catmaid_l1em:7980189
-8034919	AV ; DPLc ant lat 1_right 8034919	neuron	embryonic/larval nervous system	catmaid_l1em:8034919
-8037197	AG:DL-LH_cand7_left; BLVa12 a 2 8037197	neuron	embryonic/larval nervous system	catmaid_l1em:8037197
-8069365	QI; visual interneuron_right 8069365	neuron	embryonic/larval nervous system	catmaid_l1em:8069365
-8069432	AD:BAmd1 v 3_Kathak_left 8069432	neuron	embryonic/larval nervous system	catmaid_l1em:8069432
-8069478	offPVL09_right (bilateral DS LH) 8069478	neuron	embryonic/larval nervous system	catmaid_l1em:8069478
-8132513	BX ; CM4 dor pos 1_right 8132513	neuron	embryonic/larval nervous system	catmaid_l1em:8132513
-8184598	BI ; NI_right 8184598	neuron	embryonic/larval nervous system	catmaid_l1em:8184598
-8310087	CD ; Key_right 8310087	neuron	embryonic/larval nervous system	catmaid_l1em:8310087
-8318813	DALcl12 v d 5 right 8318813	neuron	embryonic/larval nervous system	catmaid_l1em:8318813
-8357933	BT; BAmd2 ven desc lat 5_left -AXON WRONG 8357933	neuron	embryonic/larval nervous system	catmaid_l1em:8357933
-8423405	UE: down pOLP&PVL09_left 8423405	neuron	embryonic/larval nervous system	catmaid_l1em:8423405
-8539175	TT ;  BAmd1 v r _Kathak_right 8539175	neuron	embryonic/larval nervous system	catmaid_l1em:8539175
-8542422	AD:BAmd1 v 3_Kathak_right 8542422	neuron	embryonic/larval nervous system	catmaid_l1em:8542422
-8565131	Nest_right 8565131	neuron	embryonic/larval nervous system	catmaid_l1em:8565131
-8711574	T2: BLAv1 3 _sibling_right 8711574	neuron	embryonic/larval nervous system	catmaid_l1em:8711574
-8847957	Bridge II_right 8847957	neuron	embryonic/larval nervous system	catmaid_l1em:8847957
-8912726	BK1;DALcl12 v d 20_right 8912726	neuron	embryonic/larval nervous system	catmaid_l1em:8912726
-8974428	R ; DALcm1/2 neuron hemisphere 4_left 8974428	neuron	embryonic/larval nervous system	catmaid_l1em:8974428
-8993049	CZ_left 8993049	neuron	embryonic/larval nervous system	catmaid_l1em:8993049
-9006142	AK ; DALcm12 v p 7_left 9006142	neuron	embryonic/larval nervous system	catmaid_l1em:9006142
-9015568	scythe right 9015568	neuron	embryonic/larval nervous system	catmaid_l1em:9015568
-9051960	AD ; DALcm12 m ant lat 7_left 9051960	neuron	embryonic/larval nervous system	catmaid_l1em:9051960
-9057998	S ; Convergence Sibling AB Left; DALcm12 L m ant lat 2_left 9057998	neuron	embryonic/larval nervous system	catmaid_l1em:9057998
-9061235	BO ; BAmd2 ven desc 7_left 9061235	neuron	embryonic/larval nervous system	catmaid_l1em:9061235
-9116228	WQ_right 9116228	neuron	embryonic/larval nervous system	catmaid_l1em:9116228
-9212816	IO; down_oct_right 9212816	neuron	embryonic/larval nervous system	catmaid_l1em:9212816
-9236708	IO; down_oct_left 9236708	neuron	embryonic/larval nervous system	catmaid_l1em:9236708
-9294475	R ; DALcm12 neuron hemisphere 4_right 9294475	neuron	embryonic/larval nervous system	catmaid_l1em:9294475
-9409359	T5; offPVL09_3_large_left 9409359	neuron	embryonic/larval nervous system	catmaid_l1em:9409359
-9424902	Tomato Vine 2_left 9424902	neuron	embryonic/larval nervous system	catmaid_l1em:9424902
-9428865	AP ;  BAla34 dor 2_left 9428865	neuron	embryonic/larval nervous system	catmaid_l1em:9428865
-9447255	US1: Claw_left 9447255	neuron	embryonic/larval nervous system	catmaid_l1em:9447255
-9641919	S_right 9641919	neuron	embryonic/larval nervous system	catmaid_l1em:9641919
-9709983	Angry Eyes_right 9709983	neuron	embryonic/larval nervous system	catmaid_l1em:9709983
-9753530	BH ; Descending 2; CP1 v 2_right 9753530	neuron	embryonic/larval nervous system	catmaid_l1em:9753530
-9870483	BX 1; column of protocerebral bridge_left 9870483	neuron	embryonic/larval nervous system	catmaid_l1em:9870483
-9965610	BX ; CM4 dor pos 1_left 9965610	neuron	embryonic/larval nervous system	catmaid_l1em:9965610
-10017944	WI; CM4 dor ant 10 to LAL_left 10017944	neuron	embryonic/larval nervous system	catmaid_l1em:10017944
-10262043	Sneezy_left 10262043	neuron	embryonic/larval nervous system	catmaid_l1em:10262043
-10322164	Tiger_right 10322164	neuron	embryonic/larval nervous system	catmaid_l1em:10322164
-10339991	DPMpm1 3_right 10339991	neuron	embryonic/larval nervous system	catmaid_l1em:10339991
-10411574	OL: CM4 ven ant 2 DNs_left 10411574	neuron	embryonic/larval nervous system	catmaid_l1em:10411574
-10495502	U1: WB_DPMpl1_right 10495502	neuron	embryonic/larval nervous system	catmaid_l1em:10495502
-10543751	DPMpl lat 7_left 10543751	neuron	embryonic/larval nervous system	catmaid_l1em:10543751
-10581624	DPMm1_1_left - ipsi cross-layer CC 10581624	neuron	embryonic/larval nervous system	catmaid_l1em:10581624
-10702736	AQ ;  DPMpm2_1_left 10702736	neuron	embryonic/larval nervous system	catmaid_l1em:10702736
-10758204	CA ; DPMpm1 1_left 10758204	neuron	embryonic/larval nervous system	catmaid_l1em:10758204
-10875178	PZ_right 10875178	neuron	embryonic/larval nervous system	catmaid_l1em:10875178
-10875625	SLP2_left 10875625	neuron	embryonic/larval nervous system	catmaid_l1em:10875625
-10880408	PZ_left 10880408	neuron	embryonic/larval nervous system	catmaid_l1em:10880408
-10918898	ML_left 10918898	neuron	embryonic/larval nervous system	catmaid_l1em:10918898
-10964258	BQ_left 10964258	neuron	embryonic/larval nervous system	catmaid_l1em:10964258
-11004239	offPVL09_left (bilateral DS LH) 11004239	neuron	embryonic/larval nervous system	catmaid_l1em:11004239
-11137808	UE: down pOLP&PVL09_right 11137808	neuron	embryonic/larval nervous system	catmaid_l1em:11137808
-11178891	LH bilateral axon 4_right; BLVa12 b 4 11178891	neuron	embryonic/larval nervous system	catmaid_l1em:11178891
-11257084	Q; CP23d med of obPl 1 Gap; CP23 d 14_left 11257084	neuron	embryonic/larval nervous system	catmaid_l1em:11257084
-11409587	CF ; pDM_left 11409587	neuron	embryonic/larval nervous system	catmaid_l1em:11409587
-11464638	DPMpl lat 7_right 11464638	neuron	embryonic/larval nervous system	catmaid_l1em:11464638
-11465297	CC ; DPLm post 1_right 11465297	neuron	embryonic/larval nervous system	catmaid_l1em:11465297
-11468088	DALv23 LAL 7 left 11468088	neuron	embryonic/larval nervous system	catmaid_l1em:11468088
-11600886	T ; Convergence; DALcm12 m ant lat 3_left 11600886	neuron	embryonic/larval nervous system	catmaid_l1em:11600886
-11642944	Spiral_left 11642944	neuron	embryonic/larval nervous system	catmaid_l1em:11642944
-11703922	Bridge III_left 11703922	neuron	embryonic/larval nervous system	catmaid_l1em:11703922
-11826171	3rd Thermo AP - Bridge IV_right 11826171	neuron	embryonic/larval nervous system	catmaid_l1em:11826171
-11841664	BL 3 ; CM13 lat 2_left 11841664	neuron	embryonic/larval nervous system	catmaid_l1em:11841664
-11908619	DALcl12 v d 5 Left 11908619	neuron	embryonic/larval nervous system	catmaid_l1em:11908619
-12138418	CD ; Key_left 12138418	neuron	embryonic/larval nervous system	catmaid_l1em:12138418
-12299621	AV ; DPLc ant lat 1_left 12299621	neuron	embryonic/larval nervous system	catmaid_l1em:12299621
-12476851	TR ; Down_pvl09_left 12476851	neuron	embryonic/larval nervous system	catmaid_l1em:12476851
-12498338	Projection from LH 1_left 12498338	neuron	embryonic/larval nervous system	catmaid_l1em:12498338
-12587013	scythe left 12587013	neuron	embryonic/larval nervous system	catmaid_l1em:12587013
-12598741	CP1 v 5; left 12598741	neuron	embryonic/larval nervous system	catmaid_l1em:12598741
-12789813	Tomato Vine_left 12789813	neuron	embryonic/larval nervous system	catmaid_l1em:12789813
-12839441	LH bilateral axon 5_left 12839441	neuron	embryonic/larval nervous system	catmaid_l1em:12839441
-12840470	U1: WB_DPMpl1_left 12840470	neuron	embryonic/larval nervous system	catmaid_l1em:12840470
-12866697	CC ; DPLm post 1_left 12866697	neuron	embryonic/larval nervous system	catmaid_l1em:12866697
-12868041	JI_left 12868041	neuron	embryonic/larval nervous system	catmaid_l1em:12868041
-12869029	IL; DAMd23_left 12869029	neuron	embryonic/larval nervous system	catmaid_l1em:12869029
-12935696	BZ ; CM4 dor pos 2 right 12935696	neuron	embryonic/larval nervous system	catmaid_l1em:12935696
-12962772	BS; CM4 dor ant 1 DNs_right  12962772	neuron	embryonic/larval nervous system	catmaid_l1em:12962772
-13046847	DPLm ant lat 1_right 13046847	neuron	embryonic/larval nervous system	catmaid_l1em:13046847
-13175136	Sneezy_right 13175136	neuron	embryonic/larval nervous system	catmaid_l1em:13175136
-13206239	Bridge II_left 13206239	neuron	embryonic/larval nervous system	catmaid_l1em:13206239
-13564607	DPMm1_1_right - ipsi cross-layer CC 13564607	neuron	embryonic/larval nervous system	catmaid_l1em:13564607
-13661736	WD_left 13661736	neuron	embryonic/larval nervous system	catmaid_l1em:13661736
-13665529	Bonsai right 13665529	neuron	embryonic/larval nervous system	catmaid_l1em:13665529
-13674287	AP ;  BAla34 dor 2_right 13674287	neuron	embryonic/larval nervous system	catmaid_l1em:13674287
-13718916	DALcl12 v d 2 left 13718916	neuron	embryonic/larval nervous system	catmaid_l1em:13718916
-13764822	BSD; BAmd2 ven desc lat 5_right - AXON WRONG 13764822	neuron	embryonic/larval nervous system	catmaid_l1em:13764822
-13806524	NQ: BAla12_right 13806524	neuron	embryonic/larval nervous system	catmaid_l1em:13806524
-13836327	BO ; BAmd2 ven desc 7_right 13836327	neuron	embryonic/larval nervous system	catmaid_l1em:13836327
-13858797	Oval 42a_right 13858797	neuron	embryonic/larval nervous system	catmaid_l1em:13858797
-13953356	IL; DAMd23_right 13953356	neuron	embryonic/larval nervous system	catmaid_l1em:13953356
-13953546	Crab Arm DAMd23_right 13953546	neuron	embryonic/larval nervous system	catmaid_l1em:13953546
-13986477	I? ; Smash's forgotten ugly cousin_possible PVL005 - 3 Right_sibling 13986477	neuron	embryonic/larval nervous system	catmaid_l1em:13986477
-13986583	LH to pseudo bridges_right 13986583	neuron	embryonic/larval nervous system	catmaid_l1em:13986583
-13988443	TT ;  BAmd1 v r _Kathak_left 13988443	neuron	embryonic/larval nervous system	catmaid_l1em:13988443
-14071449	Crab Arm DAMd23_left 14071449	neuron	embryonic/larval nervous system	catmaid_l1em:14071449
-14071613	T1 ; DALcl12 d 4_left 14071613	neuron	embryonic/larval nervous system	catmaid_l1em:14071613
-14073503	L ; DALcm12 m lat 4_left 14073503	neuron	embryonic/larval nervous system	catmaid_l1em:14073503
-14206030	AQ ;  DPMpm2_1_right 14206030	neuron	embryonic/larval nervous system	catmaid_l1em:14206030
-14214039	S ; Convergence Sibling AB Right; DALcm12 m ant lat 2_right 14214039	neuron	embryonic/larval nervous system	catmaid_l1em:14214039
-14319185	Nest_left 14319185	neuron	embryonic/larval nervous system	catmaid_l1em:14319185
-14328512	BX 1; column of protocerebral bridge_right 14328512	neuron	embryonic/larval nervous system	catmaid_l1em:14328512
-14329745	BP 1 ; Left 14329745	neuron	embryonic/larval nervous system	catmaid_l1em:14329745
-14333495	Oval 42a_left 14333495	neuron	embryonic/larval nervous system	catmaid_l1em:14333495
-14334367	BQ 1 ; DPMl12 ant 1_right  14334367	neuron	embryonic/larval nervous system	catmaid_l1em:14334367
-14342744	Tidal wave left 14342744	neuron	embryonic/larval nervous system	catmaid_l1em:14342744
-14495367	BP_right 14495367	neuron	embryonic/larval nervous system	catmaid_l1em:14495367
-14514597	I? ; Smash's forgotten ugly cousin_possible PVL005 - 3 Left_sibling 14514597	neuron	embryonic/larval nervous system	catmaid_l1em:14514597
-14539753	BS; CM4 dor ant 1 DNs_left 14539753	neuron	embryonic/larval nervous system	catmaid_l1em:14539753
-14617508	GH_left 14617508	neuron	embryonic/larval nervous system	catmaid_l1em:14617508
-14680483	GH_right 14680483	neuron	embryonic/larval nervous system	catmaid_l1em:14680483
-14891367	BAmd1 d_left 14891367	neuron	embryonic/larval nervous system	catmaid_l1em:14891367
-14948339	IT_right 14948339	neuron	embryonic/larval nervous system	catmaid_l1em:14948339
-15468308	To Complete with soma left 15468308	neuron	embryonic/larval nervous system	catmaid_l1em:15468308
-15524629	BK1;DALcl12 v d 20_left 15524629	neuron	embryonic/larval nervous system	catmaid_l1em:15524629
-15566333	V ; DPMpm2 4_left 15566333	neuron	embryonic/larval nervous system	catmaid_l1em:15566333
-15568333	V ; DPMpm2 4_right 15568333	neuron	embryonic/larval nervous system	catmaid_l1em:15568333
-15590555	CE ; NI_right 15590555	neuron	embryonic/larval nervous system	catmaid_l1em:15590555
-15594113	CE ; NI_left 15594113	neuron	embryonic/larval nervous system	catmaid_l1em:15594113
-15612283	BK: DALcl12 v d 19_left 15612283	neuron	embryonic/larval nervous system	catmaid_l1em:15612283
-15618614	Tidal wave right 15618614	neuron	embryonic/larval nervous system	catmaid_l1em:15618614
-15662776	DALcl12 v d 1 right 15662776	neuron	embryonic/larval nervous system	catmaid_l1em:15662776
-15673454	DALcl12 v d 2 right 15673454	neuron	embryonic/larval nervous system	catmaid_l1em:15673454
-15706875	CP1 v 5; right 15706875	neuron	embryonic/larval nervous system	catmaid_l1em:15706875
-15736398	BK: DALcl12 v d 19_right 15736398	neuron	embryonic/larval nervous system	catmaid_l1em:15736398
-15924717	Angry Eyes_left 15924717	neuron	embryonic/larval nervous system	catmaid_l1em:15924717
-15974183	DALcl12 v d 1 left 15974183	neuron	embryonic/larval nervous system	catmaid_l1em:15974183
-16026677	BP_left 16026677	neuron	embryonic/larval nervous system	catmaid_l1em:16026677
-16070049	TR ; Down_pvl09_right 16070049	neuron	embryonic/larval nervous system	catmaid_l1em:16070049
-16089738	S_left 16089738	neuron	embryonic/larval nervous system	catmaid_l1em:16089738
-16100461	T2: BLAv1 3 _sibling_left 16100461	neuron	embryonic/larval nervous system	catmaid_l1em:16100461
-16181377	Bridge III_right 16181377	neuron	embryonic/larval nervous system	catmaid_l1em:16181377
-16295025	US1: Claw_right 16295025	neuron	embryonic/larval nervous system	catmaid_l1em:16295025
-16339645	JI_right 16339645	neuron	embryonic/larval nervous system	catmaid_l1em:16339645
-16350988	IK; Loopy_right 16350988	neuron	embryonic/larval nervous system	catmaid_l1em:16350988
-16355642	Descending T right - AXON INCOMPLETE 16355642	neuron	embryonic/larval nervous system	catmaid_l1em:16355642
-16356717	WD_right 16356717	neuron	embryonic/larval nervous system	catmaid_l1em:16356717
-16405545	Tomato Vine_right 16405545	neuron	embryonic/larval nervous system	catmaid_l1em:16405545
-16415910	WQ_left 16415910	neuron	embryonic/larval nervous system	catmaid_l1em:16415910
-16444552	CG_left 16444552	neuron	embryonic/larval nervous system	catmaid_l1em:16444552
-16445338	IK; Loopy_left 16445338	neuron	embryonic/larval nervous system	catmaid_l1em:16445338
-16464284	BI ; NI_left 16464284	neuron	embryonic/larval nervous system	catmaid_l1em:16464284
-16486385	LH bilateral axon 4_left; BLVa12 b 4 16486385	neuron	embryonic/larval nervous system	catmaid_l1em:16486385
-16544462	BAmv1/2 #3_left 16544462	neuron	embryonic/larval nervous system	catmaid_l1em:16544462
-16753901	potential MB2ON-234 16753902 left 16753901	neuron	embryonic/larval nervous system	catmaid_l1em:16753901
-16758011	Baso_right 16758011	neuron	embryonic/larval nervous system	catmaid_l1em:16758011
-16910799	BT ; CM13 med 5_right 16910799	neuron	embryonic/larval nervous system	catmaid_l1em:16910799
-16913476	WI; CM4 dor ant 10 to LAL_right 16913476	neuron	embryonic/larval nervous system	catmaid_l1em:16913476
-16950115	DP: DALcm12 v p 24_left 16950115	neuron	embryonic/larval nervous system	catmaid_l1em:16950115
-16950121	WF; DALcm12 v p 13_left 16950121	neuron	embryonic/larval nervous system	catmaid_l1em:16950121
-17019327	CF ; pDM_right 17019327	neuron	embryonic/larval nervous system	catmaid_l1em:17019327
-17053386	Descending T left - AXON INCOMPLETE 17053386	neuron	embryonic/larval nervous system	catmaid_l1em:17053386
-17058350	Bridge V_right 17058350	neuron	embryonic/larval nervous system	catmaid_l1em:17058350
-17083341	CM13 med right 17083341	neuron	embryonic/larval nervous system	catmaid_l1em:17083341
-17125520	LH bilateral axon 5_right 17125520	neuron	embryonic/larval nervous system	catmaid_l1em:17125520
-17140424	BH ; Descending 2; CP1 v 2_left 17140424	neuron	embryonic/larval nervous system	catmaid_l1em:17140424
-17165286	DPLm ant lat 1_left 17165286	neuron	embryonic/larval nervous system	catmaid_l1em:17165286
-17176911	CH ; BAmd1 lineage_left 17176911	neuron	embryonic/larval nervous system	catmaid_l1em:17176911
-17176927	KU: DALcm12 L m ant lat 6_right 17176927	neuron	embryonic/larval nervous system	catmaid_l1em:17176927
-17177419	EV_left 17177419	neuron	embryonic/larval nervous system	catmaid_l1em:17177419
-17237305	IT_left 17237305	neuron	embryonic/larval nervous system	catmaid_l1em:17237305
-17276867	H ; DALcm r v ant med_left 17276867	neuron	embryonic/larval nervous system	catmaid_l1em:17276867
-17315288	CP23 v 11_left 17315288	neuron	embryonic/larval nervous system	catmaid_l1em:17315288
-17330632	To Complete with soma right 17330632	neuron	embryonic/larval nervous system	catmaid_l1em:17330632
-17340931	CG_right  17340931	neuron	embryonic/larval nervous system	catmaid_l1em:17340931
-17357979	BQ_right 17357979	neuron	embryonic/larval nervous system	catmaid_l1em:17357979
-17373283	DPMpm1 3_left 17373283	neuron	embryonic/larval nervous system	catmaid_l1em:17373283
-17379420	OL: CM4 ven ant 2 DNs_right 17379420	neuron	embryonic/larval nervous system	catmaid_l1em:17379420
-17438424	SLP1_right; CM13 lat 9 17438424	neuron	embryonic/larval nervous system	catmaid_l1em:17438424
-17591442	RQ1: 3rd - thermo orders _right 17591442	neuron	embryonic/larval nervous system	catmaid_l1em:17591442
-17639784	SLP1_left; CM13 lat 9? 17639784	neuron	embryonic/larval nervous system	catmaid_l1em:17639784
-17671219	PVM_42a_LH_right 17671219	neuron	embryonic/larval nervous system	catmaid_l1em:17671219
-17813006	AD ; DALcm12 m ant lat 7_right 17813006	neuron	embryonic/larval nervous system	catmaid_l1em:17813006
-17813457	neuron 17813458 left 17813457	neuron	embryonic/larval nervous system	catmaid_l1em:17813457
-17822238	AG:DL-LH_cand7_right; BLVa12 a 2 17822238	neuron	embryonic/larval nervous system	catmaid_l1em:17822238
-17867309	CZ_right 17867309	neuron	embryonic/larval nervous system	catmaid_l1em:17867309
-18062678	F ; Convergence Sibling-2_left; DALcm12 m ant lat 11_left 18062678	neuron	embryonic/larval nervous system	catmaid_l1em:18062678
-18500988	BQ 1 ; DPMl12 ant 1_left 18500988	neuron	embryonic/larval nervous system	catmaid_l1em:18500988
-18648531	Bonsai left 18648531	neuron	embryonic/larval nervous system	catmaid_l1em:18648531
-19156025	Brain looper right 19156025	neuron	embryonic/larval nervous system	catmaid_l1em:19156025
-19175973	AC ; DALcm12 m ant med 1_left 19175973	neuron	embryonic/larval nervous system	catmaid_l1em:19175973
-19786464	BP 1 ; Right 19786464	neuron	embryonic/larval nervous system	catmaid_l1em:19786464
+filename	label	is_a	part_of	dbxrefs	synonyms
+1678567	BU ; DALd 4_left	neuron	embryonic/larval nervous system	catmaid_l1em:1678567	1678567
+2439067	T3: PVLr_left	neuron	embryonic/larval nervous system	catmaid_l1em:2439067	2439067
+2628785	AE:BAmd2 r bilateral_left	neuron	embryonic/larval nervous system	catmaid_l1em:2628785	2628785
+2650887	CA ; DPMpm1 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:2650887	2650887
+3027876	Tomato Vine 2_right	neuron	embryonic/larval nervous system	catmaid_l1em:3027876	3027876
+3814853	T3: PVLr_right	neuron	embryonic/larval nervous system	catmaid_l1em:3814853	3814853
+3855754	SOGr Hugin-like-1_right	neuron	embryonic/larval nervous system	catmaid_l1em:3855754	3855754
+3913620	T5; offPVL09_3_large_right	neuron	embryonic/larval nervous system	catmaid_l1em:3913620	3913620
+3913629	Projection from LH 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:3913629	3913629
+4067286	SLP2_right	neuron	embryonic/larval nervous system	catmaid_l1em:4067286	4067286
+4188325	DALv23 LAL 7 right	neuron	embryonic/larval nervous system	catmaid_l1em:4188325	4188325
+4214582	Y ; DALcm12 L m ant lat 2_right	neuron	embryonic/larval nervous system	catmaid_l1em:4214582	4214582
+4227831	AC ; DALcm12 m ant med 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:4227831	4227831
+4227880	EV_right 	neuron	embryonic/larval nervous system	catmaid_l1em:4227880	4227880
+4228105	ML_right	neuron	embryonic/larval nervous system	catmaid_l1em:4228105	4228105
+4228119	P ; DALcm12  m ant lat #4_right	neuron	embryonic/larval nervous system	catmaid_l1em:4228119	4228119
+4234559	CM13 lat 3_right	neuron	embryonic/larval nervous system	catmaid_l1em:4234559	4234559
+4274518	Brain looper left	neuron	embryonic/larval nervous system	catmaid_l1em:4274518	4274518
+4311586	AE:BAmd2 r bilateral_right	neuron	embryonic/larval nervous system	catmaid_l1em:4311586	4311586
+4346154	DALcm_r right	neuron	embryonic/larval nervous system	catmaid_l1em:4346154	4346154
+4391317	3rd Thermo AP - Bridge IV_left	neuron	embryonic/larval nervous system	catmaid_l1em:4391317	4391317
+4408362	NH; BAmd2_left -axon incomplete	neuron	embryonic/larval nervous system	catmaid_l1em:4408362	4408362
+4408369	Baso_left	neuron	embryonic/larval nervous system	catmaid_l1em:4408369	4408369
+4409374	CM13 lat 3_left	neuron	embryonic/larval nervous system	catmaid_l1em:4409374	4409374
+4411542	T1 ; DALcl12 d 4_right	neuron	embryonic/larval nervous system	catmaid_l1em:4411542	4411542
+4433960	NQ: BAla1/2_left	neuron	embryonic/larval nervous system	catmaid_l1em:4433960	4433960
+4515496	BAmv12 #3_right	neuron	embryonic/larval nervous system	catmaid_l1em:4515496	4515496
+4575178	CH ; BAmd1 lineage_right	neuron	embryonic/larval nervous system	catmaid_l1em:4575178	4575178
+4665186	PVM_42a_LH_left	neuron	embryonic/larval nervous system	catmaid_l1em:4665186	4665186
+4721087	NH; BAmd2_right	neuron	embryonic/larval nervous system	catmaid_l1em:4721087	4721087
+4721538	QI; visual interneuron_left	neuron	embryonic/larval nervous system	catmaid_l1em:4721538	4721538
+4849988	DP: DALcm12 v p 24_right	neuron	embryonic/larval nervous system	catmaid_l1em:4849988	4849988
+5103177	SOGr Hugin-like-1_left	neuron	embryonic/larval nervous system	catmaid_l1em:5103177	5103177
+5169587	P ; DALcm12  m ant lat #4_left	neuron	embryonic/larval nervous system	catmaid_l1em:5169587	5169587
+5186443	DALcm12 L m ant lat 1 left	neuron	embryonic/larval nervous system	catmaid_l1em:5186443	5186443
+5326407	CP23 v 11_right	neuron	embryonic/larval nervous system	catmaid_l1em:5326407	5326407
+5453333	Projection from LH 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:5453333	5453333
+5474852	RQ1: 3rd - thermo orders _left	neuron	embryonic/larval nervous system	catmaid_l1em:5474852	5474852
+5669107	L ; DALcm12 m lat 4_right	neuron	embryonic/larval nervous system	catmaid_l1em:5669107	5669107
+5771934	BAmd1 d_right	neuron	embryonic/larval nervous system	catmaid_l1em:5771934	5771934
+5783868	AK ; DALcm12 v p 7_right 	neuron	embryonic/larval nervous system	catmaid_l1em:5783868	5783868
+5856647	BL 3 ; CM13 lat 2_right	neuron	embryonic/larval nervous system	catmaid_l1em:5856647	5856647
+5874480	Bridge V_left	neuron	embryonic/larval nervous system	catmaid_l1em:5874480	5874480
+6153877	BU ; DALd 4_right	neuron	embryonic/larval nervous system	catmaid_l1em:6153877	6153877
+6193472	AA: DALcl12 d_right	neuron	embryonic/larval nervous system	catmaid_l1em:6193472	6193472
+6298455	AA: DALcl12 d_left	neuron	embryonic/larval nervous system	catmaid_l1em:6298455	6298455
+6494274	LH to pseudo bridges_left	neuron	embryonic/larval nervous system	catmaid_l1em:6494274	6494274
+6609380	WF; DALcm12 v p 13_right	neuron	embryonic/larval nervous system	catmaid_l1em:6609380	6609380
+6611100	H ; DALcm r v ant med_right	neuron	embryonic/larval nervous system	catmaid_l1em:6611100	6611100
+7053966	Y ; DALcm12 L m ant lat 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:7053966	7053966
+7056904	KU: DALcm12 L m ant lat 6_left	neuron	embryonic/larval nervous system	catmaid_l1em:7056904	7056904
+7065182	F ; Convergence Sibling-2_right; DALcm12 m ant lat 11_right	neuron	embryonic/larval nervous system	catmaid_l1em:7065182	7065182
+7612147	Q?; CP23d med of obPl 1 Gap; CP23 d 14_right	neuron	embryonic/larval nervous system	catmaid_l1em:7612147	7612147
+7700444	BT ; CM13 med 5_left	neuron	embryonic/larval nervous system	catmaid_l1em:7700444	7700444
+7980189	T ; Convergence; DALcm12 m ant lat 3_right	neuron	embryonic/larval nervous system	catmaid_l1em:7980189	7980189
+8034919	AV ; DPLc ant lat 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:8034919	8034919
+8037197	AG:DL-LH_cand7_left; BLVa12 a 2	neuron	embryonic/larval nervous system	catmaid_l1em:8037197	8037197
+8069365	QI; visual interneuron_right	neuron	embryonic/larval nervous system	catmaid_l1em:8069365	8069365
+8069432	AD:BAmd1 v 3_Kathak_left	neuron	embryonic/larval nervous system	catmaid_l1em:8069432	8069432
+8069478	offPVL09_right (bilateral DS LH)	neuron	embryonic/larval nervous system	catmaid_l1em:8069478	8069478
+8132513	BX ; CM4 dor pos 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:8132513	8132513
+8184598	BI ; NI_right	neuron	embryonic/larval nervous system	catmaid_l1em:8184598	8184598
+8310087	CD ; Key_right	neuron	embryonic/larval nervous system	catmaid_l1em:8310087	8310087
+8318813	DALcl12 v d 5 right	neuron	embryonic/larval nervous system	catmaid_l1em:8318813	8318813
+8357933	BT; BAmd2 ven desc lat 5_left -AXON WRONG	neuron	embryonic/larval nervous system	catmaid_l1em:8357933	8357933
+8423405	UE: down pOLP&PVL09_left	neuron	embryonic/larval nervous system	catmaid_l1em:8423405	8423405
+8539175	TT ;  BAmd1 v r _Kathak_right	neuron	embryonic/larval nervous system	catmaid_l1em:8539175	8539175
+8542422	AD:BAmd1 v 3_Kathak_right	neuron	embryonic/larval nervous system	catmaid_l1em:8542422	8542422
+8565131	Nest_right	neuron	embryonic/larval nervous system	catmaid_l1em:8565131	8565131
+8711574	T2: BLAv1 3 _sibling_right	neuron	embryonic/larval nervous system	catmaid_l1em:8711574	8711574
+8847957	Bridge II_right	neuron	embryonic/larval nervous system	catmaid_l1em:8847957	8847957
+8912726	BK1;DALcl12 v d 20_right	neuron	embryonic/larval nervous system	catmaid_l1em:8912726	8912726
+8974428	R ; DALcm1/2 neuron hemisphere 4_left	neuron	embryonic/larval nervous system	catmaid_l1em:8974428	8974428
+8993049	CZ_left	neuron	embryonic/larval nervous system	catmaid_l1em:8993049	8993049
+9006142	AK ; DALcm12 v p 7_left	neuron	embryonic/larval nervous system	catmaid_l1em:9006142	9006142
+9015568	scythe right	neuron	embryonic/larval nervous system	catmaid_l1em:9015568	9015568
+9051960	AD ; DALcm12 m ant lat 7_left	neuron	embryonic/larval nervous system	catmaid_l1em:9051960	9051960
+9057998	S ; Convergence Sibling AB Left; DALcm12 L m ant lat 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:9057998	9057998
+9061235	BO ; BAmd2 ven desc 7_left	neuron	embryonic/larval nervous system	catmaid_l1em:9061235	9061235
+9116228	WQ_right	neuron	embryonic/larval nervous system	catmaid_l1em:9116228	9116228
+9212816	IO; down_oct_right	neuron	embryonic/larval nervous system	catmaid_l1em:9212816	9212816
+9236708	IO; down_oct_left	neuron	embryonic/larval nervous system	catmaid_l1em:9236708	9236708
+9294475	R ; DALcm12 neuron hemisphere 4_right	neuron	embryonic/larval nervous system	catmaid_l1em:9294475	9294475
+9409359	T5; offPVL09_3_large_left	neuron	embryonic/larval nervous system	catmaid_l1em:9409359	9409359
+9424902	Tomato Vine 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:9424902	9424902
+9428865	AP ;  BAla34 dor 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:9428865	9428865
+9447255	US1: Claw_left	neuron	embryonic/larval nervous system	catmaid_l1em:9447255	9447255
+9641919	S_right	neuron	embryonic/larval nervous system	catmaid_l1em:9641919	9641919
+9709983	Angry Eyes_right	neuron	embryonic/larval nervous system	catmaid_l1em:9709983	9709983
+9753530	BH ; Descending 2; CP1 v 2_right	neuron	embryonic/larval nervous system	catmaid_l1em:9753530	9753530
+9870483	BX 1; column of protocerebral bridge_left	neuron	embryonic/larval nervous system	catmaid_l1em:9870483	9870483
+9965610	BX ; CM4 dor pos 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:9965610	9965610
+10017944	WI; CM4 dor ant 10 to LAL_left	neuron	embryonic/larval nervous system	catmaid_l1em:10017944	10017944
+10262043	Sneezy_left	neuron	embryonic/larval nervous system	catmaid_l1em:10262043	10262043
+10322164	Tiger_right	neuron	embryonic/larval nervous system	catmaid_l1em:10322164	10322164
+10339991	DPMpm1 3_right	neuron	embryonic/larval nervous system	catmaid_l1em:10339991	10339991
+10411574	OL: CM4 ven ant 2 DNs_left	neuron	embryonic/larval nervous system	catmaid_l1em:10411574	10411574
+10495502	U1: WB_DPMpl1_right	neuron	embryonic/larval nervous system	catmaid_l1em:10495502	10495502
+10543751	DPMpl lat 7_left	neuron	embryonic/larval nervous system	catmaid_l1em:10543751	10543751
+10581624	DPMm1_1_left - ipsi cross-layer CC	neuron	embryonic/larval nervous system	catmaid_l1em:10581624	10581624
+10702736	AQ ;  DPMpm2_1_left	neuron	embryonic/larval nervous system	catmaid_l1em:10702736	10702736
+10758204	CA ; DPMpm1 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:10758204	10758204
+10875178	PZ_right	neuron	embryonic/larval nervous system	catmaid_l1em:10875178	10875178
+10875625	SLP2_left	neuron	embryonic/larval nervous system	catmaid_l1em:10875625	10875625
+10880408	PZ_left	neuron	embryonic/larval nervous system	catmaid_l1em:10880408	10880408
+10918898	ML_left	neuron	embryonic/larval nervous system	catmaid_l1em:10918898	10918898
+10964258	BQ_left	neuron	embryonic/larval nervous system	catmaid_l1em:10964258	10964258
+11004239	offPVL09_left (bilateral DS LH)	neuron	embryonic/larval nervous system	catmaid_l1em:11004239	11004239
+11137808	UE: down pOLP&PVL09_right	neuron	embryonic/larval nervous system	catmaid_l1em:11137808	11137808
+11178891	LH bilateral axon 4_right; BLVa12 b 4	neuron	embryonic/larval nervous system	catmaid_l1em:11178891	11178891
+11257084	Q; CP23d med of obPl 1 Gap; CP23 d 14_left	neuron	embryonic/larval nervous system	catmaid_l1em:11257084	11257084
+11409587	CF ; pDM_left	neuron	embryonic/larval nervous system	catmaid_l1em:11409587	11409587
+11464638	DPMpl lat 7_right	neuron	embryonic/larval nervous system	catmaid_l1em:11464638	11464638
+11465297	CC ; DPLm post 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:11465297	11465297
+11468088	DALv23 LAL 7 left	neuron	embryonic/larval nervous system	catmaid_l1em:11468088	11468088
+11600886	T ; Convergence; DALcm12 m ant lat 3_left	neuron	embryonic/larval nervous system	catmaid_l1em:11600886	11600886
+11642944	Spiral_left	neuron	embryonic/larval nervous system	catmaid_l1em:11642944	11642944
+11703922	Bridge III_left	neuron	embryonic/larval nervous system	catmaid_l1em:11703922	11703922
+11826171	3rd Thermo AP - Bridge IV_right	neuron	embryonic/larval nervous system	catmaid_l1em:11826171	11826171
+11841664	BL 3 ; CM13 lat 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:11841664	11841664
+11908619	DALcl12 v d 5 Left	neuron	embryonic/larval nervous system	catmaid_l1em:11908619	11908619
+12138418	CD ; Key_left	neuron	embryonic/larval nervous system	catmaid_l1em:12138418	12138418
+12299621	AV ; DPLc ant lat 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:12299621	12299621
+12476851	TR ; Down_pvl09_left	neuron	embryonic/larval nervous system	catmaid_l1em:12476851	12476851
+12498338	Projection from LH 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:12498338	12498338
+12587013	scythe left	neuron	embryonic/larval nervous system	catmaid_l1em:12587013	12587013
+12598741	CP1 v 5; left	neuron	embryonic/larval nervous system	catmaid_l1em:12598741	12598741
+12789813	Tomato Vine_left	neuron	embryonic/larval nervous system	catmaid_l1em:12789813	12789813
+12839441	LH bilateral axon 5_left	neuron	embryonic/larval nervous system	catmaid_l1em:12839441	12839441
+12840470	U1: WB_DPMpl1_left	neuron	embryonic/larval nervous system	catmaid_l1em:12840470	12840470
+12866697	CC ; DPLm post 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:12866697	12866697
+12868041	JI_left	neuron	embryonic/larval nervous system	catmaid_l1em:12868041	12868041
+12869029	IL; DAMd23_left	neuron	embryonic/larval nervous system	catmaid_l1em:12869029	12869029
+12935696	BZ ; CM4 dor pos 2 right	neuron	embryonic/larval nervous system	catmaid_l1em:12935696	12935696
+12962772	BS; CM4 dor ant 1 DNs_right 	neuron	embryonic/larval nervous system	catmaid_l1em:12962772	12962772
+13046847	DPLm ant lat 1_right	neuron	embryonic/larval nervous system	catmaid_l1em:13046847	13046847
+13175136	Sneezy_right	neuron	embryonic/larval nervous system	catmaid_l1em:13175136	13175136
+13206239	Bridge II_left	neuron	embryonic/larval nervous system	catmaid_l1em:13206239	13206239
+13564607	DPMm1_1_right - ipsi cross-layer CC	neuron	embryonic/larval nervous system	catmaid_l1em:13564607	13564607
+13661736	WD_left	neuron	embryonic/larval nervous system	catmaid_l1em:13661736	13661736
+13665529	Bonsai right	neuron	embryonic/larval nervous system	catmaid_l1em:13665529	13665529
+13674287	AP ;  BAla34 dor 2_right	neuron	embryonic/larval nervous system	catmaid_l1em:13674287	13674287
+13718916	DALcl12 v d 2 left	neuron	embryonic/larval nervous system	catmaid_l1em:13718916	13718916
+13764822	BSD; BAmd2 ven desc lat 5_right - AXON WRONG	neuron	embryonic/larval nervous system	catmaid_l1em:13764822	13764822
+13806524	NQ: BAla12_right	neuron	embryonic/larval nervous system	catmaid_l1em:13806524	13806524
+13836327	BO ; BAmd2 ven desc 7_right	neuron	embryonic/larval nervous system	catmaid_l1em:13836327	13836327
+13858797	Oval 42a_right	neuron	embryonic/larval nervous system	catmaid_l1em:13858797	13858797
+13953356	IL; DAMd23_right	neuron	embryonic/larval nervous system	catmaid_l1em:13953356	13953356
+13953546	Crab Arm DAMd23_right	neuron	embryonic/larval nervous system	catmaid_l1em:13953546	13953546
+13986477	I? ; Smash's forgotten ugly cousin_possible PVL005 - 3 Right_sibling	neuron	embryonic/larval nervous system	catmaid_l1em:13986477	13986477
+13986583	LH to pseudo bridges_right	neuron	embryonic/larval nervous system	catmaid_l1em:13986583	13986583
+13988443	TT ;  BAmd1 v r _Kathak_left	neuron	embryonic/larval nervous system	catmaid_l1em:13988443	13988443
+14071449	Crab Arm DAMd23_left	neuron	embryonic/larval nervous system	catmaid_l1em:14071449	14071449
+14071613	T1 ; DALcl12 d 4_left	neuron	embryonic/larval nervous system	catmaid_l1em:14071613	14071613
+14073503	L ; DALcm12 m lat 4_left	neuron	embryonic/larval nervous system	catmaid_l1em:14073503	14073503
+14206030	AQ ;  DPMpm2_1_right	neuron	embryonic/larval nervous system	catmaid_l1em:14206030	14206030
+14214039	S ; Convergence Sibling AB Right; DALcm12 m ant lat 2_right	neuron	embryonic/larval nervous system	catmaid_l1em:14214039	14214039
+14319185	Nest_left	neuron	embryonic/larval nervous system	catmaid_l1em:14319185	14319185
+14328512	BX 1; column of protocerebral bridge_right	neuron	embryonic/larval nervous system	catmaid_l1em:14328512	14328512
+14329745	BP 1 ; Left	neuron	embryonic/larval nervous system	catmaid_l1em:14329745	14329745
+14333495	Oval 42a_left	neuron	embryonic/larval nervous system	catmaid_l1em:14333495	14333495
+14334367	BQ 1 ; DPMl12 ant 1_right 	neuron	embryonic/larval nervous system	catmaid_l1em:14334367	14334367
+14342744	Tidal wave left	neuron	embryonic/larval nervous system	catmaid_l1em:14342744	14342744
+14495367	BP_right	neuron	embryonic/larval nervous system	catmaid_l1em:14495367	14495367
+14514597	I? ; Smash's forgotten ugly cousin_possible PVL005 - 3 Left_sibling	neuron	embryonic/larval nervous system	catmaid_l1em:14514597	14514597
+14539753	BS; CM4 dor ant 1 DNs_left	neuron	embryonic/larval nervous system	catmaid_l1em:14539753	14539753
+14617508	GH_left	neuron	embryonic/larval nervous system	catmaid_l1em:14617508	14617508
+14680483	GH_right	neuron	embryonic/larval nervous system	catmaid_l1em:14680483	14680483
+14891367	BAmd1 d_left	neuron	embryonic/larval nervous system	catmaid_l1em:14891367	14891367
+14948339	IT_right	neuron	embryonic/larval nervous system	catmaid_l1em:14948339	14948339
+15468308	To Complete with soma left	neuron	embryonic/larval nervous system	catmaid_l1em:15468308	15468308
+15524629	BK1;DALcl12 v d 20_left	neuron	embryonic/larval nervous system	catmaid_l1em:15524629	15524629
+15566333	V ; DPMpm2 4_left	neuron	embryonic/larval nervous system	catmaid_l1em:15566333	15566333
+15568333	V ; DPMpm2 4_right	neuron	embryonic/larval nervous system	catmaid_l1em:15568333	15568333
+15590555	CE ; NI_right	neuron	embryonic/larval nervous system	catmaid_l1em:15590555	15590555
+15594113	CE ; NI_left	neuron	embryonic/larval nervous system	catmaid_l1em:15594113	15594113
+15612283	BK: DALcl12 v d 19_left	neuron	embryonic/larval nervous system	catmaid_l1em:15612283	15612283
+15618614	Tidal wave right	neuron	embryonic/larval nervous system	catmaid_l1em:15618614	15618614
+15662776	DALcl12 v d 1 right	neuron	embryonic/larval nervous system	catmaid_l1em:15662776	15662776
+15673454	DALcl12 v d 2 right	neuron	embryonic/larval nervous system	catmaid_l1em:15673454	15673454
+15706875	CP1 v 5; right	neuron	embryonic/larval nervous system	catmaid_l1em:15706875	15706875
+15736398	BK: DALcl12 v d 19_right	neuron	embryonic/larval nervous system	catmaid_l1em:15736398	15736398
+15924717	Angry Eyes_left	neuron	embryonic/larval nervous system	catmaid_l1em:15924717	15924717
+15974183	DALcl12 v d 1 left	neuron	embryonic/larval nervous system	catmaid_l1em:15974183	15974183
+16026677	BP_left	neuron	embryonic/larval nervous system	catmaid_l1em:16026677	16026677
+16070049	TR ; Down_pvl09_right	neuron	embryonic/larval nervous system	catmaid_l1em:16070049	16070049
+16089738	S_left	neuron	embryonic/larval nervous system	catmaid_l1em:16089738	16089738
+16100461	T2: BLAv1 3 _sibling_left	neuron	embryonic/larval nervous system	catmaid_l1em:16100461	16100461
+16181377	Bridge III_right	neuron	embryonic/larval nervous system	catmaid_l1em:16181377	16181377
+16295025	US1: Claw_right	neuron	embryonic/larval nervous system	catmaid_l1em:16295025	16295025
+16339645	JI_right	neuron	embryonic/larval nervous system	catmaid_l1em:16339645	16339645
+16350988	IK; Loopy_right	neuron	embryonic/larval nervous system	catmaid_l1em:16350988	16350988
+16355642	Descending T right - AXON INCOMPLETE	neuron	embryonic/larval nervous system	catmaid_l1em:16355642	16355642
+16356717	WD_right	neuron	embryonic/larval nervous system	catmaid_l1em:16356717	16356717
+16405545	Tomato Vine_right	neuron	embryonic/larval nervous system	catmaid_l1em:16405545	16405545
+16415910	WQ_left	neuron	embryonic/larval nervous system	catmaid_l1em:16415910	16415910
+16444552	CG_left	neuron	embryonic/larval nervous system	catmaid_l1em:16444552	16444552
+16445338	IK; Loopy_left	neuron	embryonic/larval nervous system	catmaid_l1em:16445338	16445338
+16464284	BI ; NI_left	neuron	embryonic/larval nervous system	catmaid_l1em:16464284	16464284
+16486385	LH bilateral axon 4_left; BLVa12 b 4	neuron	embryonic/larval nervous system	catmaid_l1em:16486385	16486385
+16544462	BAmv1/2 #3_left	neuron	embryonic/larval nervous system	catmaid_l1em:16544462	16544462
+16753901	potential MB2ON-234 16753902 left	neuron	embryonic/larval nervous system	catmaid_l1em:16753901	16753901
+16758011	Baso_right	neuron	embryonic/larval nervous system	catmaid_l1em:16758011	16758011
+16910799	BT ; CM13 med 5_right	neuron	embryonic/larval nervous system	catmaid_l1em:16910799	16910799
+16913476	WI; CM4 dor ant 10 to LAL_right	neuron	embryonic/larval nervous system	catmaid_l1em:16913476	16913476
+16950115	DP: DALcm12 v p 24_left	neuron	embryonic/larval nervous system	catmaid_l1em:16950115	16950115
+16950121	WF; DALcm12 v p 13_left	neuron	embryonic/larval nervous system	catmaid_l1em:16950121	16950121
+17019327	CF ; pDM_right	neuron	embryonic/larval nervous system	catmaid_l1em:17019327	17019327
+17053386	Descending T left - AXON INCOMPLETE	neuron	embryonic/larval nervous system	catmaid_l1em:17053386	17053386
+17058350	Bridge V_right	neuron	embryonic/larval nervous system	catmaid_l1em:17058350	17058350
+17083341	CM13 med right	neuron	embryonic/larval nervous system	catmaid_l1em:17083341	17083341
+17125520	LH bilateral axon 5_right	neuron	embryonic/larval nervous system	catmaid_l1em:17125520	17125520
+17140424	BH ; Descending 2; CP1 v 2_left	neuron	embryonic/larval nervous system	catmaid_l1em:17140424	17140424
+17165286	DPLm ant lat 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:17165286	17165286
+17176911	CH ; BAmd1 lineage_left	neuron	embryonic/larval nervous system	catmaid_l1em:17176911	17176911
+17176927	KU: DALcm12 L m ant lat 6_right	neuron	embryonic/larval nervous system	catmaid_l1em:17176927	17176927
+17177419	EV_left	neuron	embryonic/larval nervous system	catmaid_l1em:17177419	17177419
+17237305	IT_left	neuron	embryonic/larval nervous system	catmaid_l1em:17237305	17237305
+17276867	H ; DALcm r v ant med_left	neuron	embryonic/larval nervous system	catmaid_l1em:17276867	17276867
+17315288	CP23 v 11_left	neuron	embryonic/larval nervous system	catmaid_l1em:17315288	17315288
+17330632	To Complete with soma right	neuron	embryonic/larval nervous system	catmaid_l1em:17330632	17330632
+17340931	CG_right 	neuron	embryonic/larval nervous system	catmaid_l1em:17340931	17340931
+17357979	BQ_right	neuron	embryonic/larval nervous system	catmaid_l1em:17357979	17357979
+17373283	DPMpm1 3_left	neuron	embryonic/larval nervous system	catmaid_l1em:17373283	17373283
+17379420	OL: CM4 ven ant 2 DNs_right	neuron	embryonic/larval nervous system	catmaid_l1em:17379420	17379420
+17438424	SLP1_right; CM13 lat 9	neuron	embryonic/larval nervous system	catmaid_l1em:17438424	17438424
+17591442	RQ1: 3rd - thermo orders _right	neuron	embryonic/larval nervous system	catmaid_l1em:17591442	17591442
+17639784	SLP1_left; CM13 lat 9?	neuron	embryonic/larval nervous system	catmaid_l1em:17639784	17639784
+17671219	PVM_42a_LH_right	neuron	embryonic/larval nervous system	catmaid_l1em:17671219	17671219
+17813006	AD ; DALcm12 m ant lat 7_right	neuron	embryonic/larval nervous system	catmaid_l1em:17813006	17813006
+17813457	neuron 17813458 left	neuron	embryonic/larval nervous system	catmaid_l1em:17813457	17813457
+17822238	AG:DL-LH_cand7_right; BLVa12 a 2	neuron	embryonic/larval nervous system	catmaid_l1em:17822238	17822238
+17867309	CZ_right	neuron	embryonic/larval nervous system	catmaid_l1em:17867309	17867309
+18062678	F ; Convergence Sibling-2_left; DALcm12 m ant lat 11_left	neuron	embryonic/larval nervous system	catmaid_l1em:18062678	18062678
+18500988	BQ 1 ; DPMl12 ant 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:18500988	18500988
+18648531	Bonsai left	neuron	embryonic/larval nervous system	catmaid_l1em:18648531	18648531
+19156025	Brain looper right	neuron	embryonic/larval nervous system	catmaid_l1em:19156025	19156025
+19175973	AC ; DALcm12 m ant med 1_left	neuron	embryonic/larval nervous system	catmaid_l1em:19175973	19175973
+19786464	BP 1 ; Right	neuron	embryonic/larval nervous system	catmaid_l1em:19786464	19786464
