@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #636 from commit: 'removing skid from name and putting in synonym' on master
+ Current results are from the latest travis build #649 from commit: 'using id not name' on master
 
 
 ## Internal pipeline reports:

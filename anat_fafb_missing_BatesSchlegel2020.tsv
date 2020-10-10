@@ -1,456 +1,456 @@
 filename	label	is_a	part_of	dbxrefs	synonyms
-16	Uniglomerular mALT VA6 adPN#R1	neuron	female organism|adult brain	catmaid_fafb:16	16
-27	Uniglomerular mALT DM4 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:27	27
-717	Uniglomerular mALT VA4 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:717	717
-734	Uniglomerular mALT DM1 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:734	734
-949	Uniglomerular mALT VM3 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:949	949
-1165	Uniglomerular mALT VM3 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:1165	1165
-1992	Uniglomerular mALT DL5 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:1992	1992
-2076	Uniglomerular mALT DC1 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2076	2076
-2115	Uniglomerular mALT VA3 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:2115	2115
-2338	Uniglomerular mALT VA2 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2338	2338
-3133	Uniglomerular mALT VA6 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:3133	3133
-3425	Uniglomerular mALT VA3 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:3425	3425
-3719	Uniglomerular mALT VA7m lPN#L1	neuron	female organism|adult brain	catmaid_fafb:3719	3719
-3906	Uniglomerular mALT VC3m lvPN#L2	neuron	female organism|adult brain	catmaid_fafb:3906	3906
-4070	Uniglomerular mALT VC3l adPN#L4	neuron	female organism|adult brain	catmaid_fafb:4070	4070
-4477	Uniglomerular mALT DM5 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:4477	4477
-5043	Uniglomerular mALT DP1m adPN#L1	neuron	female organism|adult brain	catmaid_fafb:5043	5043
-5714	Uniglomerular mALT DC2 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:5714	5714
-32793	Multiglomerular mALT l2PN#R2	neuron	female organism|adult brain	catmaid_fafb:32793	32793
-32801	Multiglomerular mALT l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:32801	32801
-56983	Multiglomerular mALT lvPN#R15	neuron	female organism|adult brain	catmaid_fafb:56983	56983
-56995	Multiglomerular mALT lvPN#R11	neuron	female organism|adult brain	catmaid_fafb:56995	56995
-56999	Uniglomerular mALT VP1l+ lvPN#R3	neuron	female organism|adult brain	catmaid_fafb:56999	56999
-57007	Multiglomerular mALT lvPN#R31	neuron	female organism|adult brain	catmaid_fafb:57007	57007
-57011	Multiglomerular mALT lvPN#R41	neuron	female organism|adult brain	catmaid_fafb:57011	57011
-57015	Multiglomerular mALT lvPN#R18	neuron	female organism|adult brain	catmaid_fafb:57015	57015
-57019	Multiglomerular mALT lvPN#R40	neuron	female organism|adult brain	catmaid_fafb:57019	57019
-57023	Multiglomerular mALT lvPN#R43	neuron	female organism|adult brain	catmaid_fafb:57023	57023
-57035	Multiglomerular mALT lvPN#R45	neuron	female organism|adult brain	catmaid_fafb:57035	57035
-57039	Multiglomerular mALT lvPN#R38	neuron	female organism|adult brain	catmaid_fafb:57039	57039
-57047	Multiglomerular mALT lvPN#R42	neuron	female organism|adult brain	catmaid_fafb:57047	57047
-57051	Multiglomerular mALT lvPN#R22	neuron	female organism|adult brain	catmaid_fafb:57051	57051
-57059	Multiglomerular mALT lvPN#R29	neuron	female organism|adult brain	catmaid_fafb:57059	57059
-57063	Uniglomerular mALT VP2 + SEZ lvPN#R3	neuron	female organism|adult brain	catmaid_fafb:57063	57063
-57076	Multiglomerular mALT lvPN#R37	neuron	female organism|adult brain	catmaid_fafb:57076	57076
-57080	Multiglomerular mALT lvPN#R36	neuron	female organism|adult brain	catmaid_fafb:57080	57080
-57089	Multiglomerular mALT lvPN#R39	neuron	female organism|adult brain	catmaid_fafb:57089	57089
-57114	Multiglomerular mALT lvPN#R28	neuron	female organism|adult brain	catmaid_fafb:57114	57114
-57122	Multiglomerular mALT lvPN#R27	neuron	female organism|adult brain	catmaid_fafb:57122	57122
-57126	Multiglomerular mALT lvPN#R25	neuron	female organism|adult brain	catmaid_fafb:57126	57126
-57130	Uniglomerular mALT VC5+ lvPN bilateral#R2	neuron	female organism|adult brain	catmaid_fafb:57130	57130
-57134	Multiglomerular mALT lvPN#R21	neuron	female organism|adult brain	catmaid_fafb:57134	57134
-57138	Multiglomerular mALT lvPN#R20	neuron	female organism|adult brain	catmaid_fafb:57138	57138
-57142	Multiglomerular mALT lvPN#R26	neuron	female organism|adult brain	catmaid_fafb:57142	57142
-57146	Uniglomerular mALT VP2 + SEZ lvPN#R1	neuron	female organism|adult brain	catmaid_fafb:57146	57146
-57158	Multiglomerular mALT lvPN#R44	neuron	female organism|adult brain	catmaid_fafb:57158	57158
-57166	Uniglomerular mALT VP2 + SEZ lvPN#R2	neuron	female organism|adult brain	catmaid_fafb:57166	57166
-57171	Multiglomerular mALT lvPN#R30	neuron	female organism|adult brain	catmaid_fafb:57171	57171
-57175	Multiglomerular mALT lvPN#R19	neuron	female organism|adult brain	catmaid_fafb:57175	57175
-57179	Multiglomerular mALT lvPN#R46	neuron	female organism|adult brain	catmaid_fafb:57179	57179
-57192	Uniglomerular mALT VM4 lvPN#R2	neuron	female organism|adult brain	catmaid_fafb:57192	57192
-57196	Multiglomerular mALT lvPN#R32	neuron	female organism|adult brain	catmaid_fafb:57196	57196
-57200	Uniglomerular mALT VP1l+ lvPN#R2	neuron	female organism|adult brain	catmaid_fafb:57200	57200
-57204	Multiglomerular mALT lvPN#R16	neuron	female organism|adult brain	catmaid_fafb:57204	57204
-57208	Multiglomerular mALT lvPN#R17	neuron	female organism|adult brain	catmaid_fafb:57208	57208
-57212	Multiglomerular mALT lvPN#R33	neuron	female organism|adult brain	catmaid_fafb:57212	57212
-57216	Uniglomerular mALT DL5 lvPN#R1	neuron	female organism|adult brain	catmaid_fafb:57216	57216
-57220	Multiglomerular mALT lvPN#R9	neuron	female organism|adult brain	catmaid_fafb:57220	57220
-57224	Uniglomerular mALT VP1l+ lvPN#R1	neuron	female organism|adult brain	catmaid_fafb:57224	57224
-57232	Multiglomerular mALT lvPN#R24	neuron	female organism|adult brain	catmaid_fafb:57232	57232
-57236	Uniglomerular mALT VC5+ lvPN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:57236	57236
-57258	Multiglomerular mALT adPN#R1	neuron	female organism|adult brain	catmaid_fafb:57258	57258
-57270	Multiglomerular mALT adPN#R2	neuron	female organism|adult brain	catmaid_fafb:57270	57270
-57278	Multiglomerular mALT adPN#R4	neuron	female organism|adult brain	catmaid_fafb:57278	57278
-57389	Multiglomerular mALT lPN#R5	neuron	female organism|adult brain	catmaid_fafb:57389	57389
-57394	Multiglomerular mALT lPN#R10	neuron	female organism|adult brain	catmaid_fafb:57394	57394
-57430	Multiglomerular mALT lPN bilateral#R3	neuron	female organism|adult brain	catmaid_fafb:57430	57430
-57434	Multiglomerular mALT lPN bilateral#R2	neuron	female organism|adult brain	catmaid_fafb:57434	57434
-57442	Multiglomerular mALT lPN#R7	neuron	female organism|adult brain	catmaid_fafb:57442	57442
-57446	Multiglomerular mALT lPN#R3	neuron	female organism|adult brain	catmaid_fafb:57446	57446
-57450	Multiglomerular mALT lPN#R11	neuron	female organism|adult brain	catmaid_fafb:57450	57450
-57455	Multiglomerular mALT lPN#R12	neuron	female organism|adult brain	catmaid_fafb:57455	57455
-57459	Uniglomerular mALT DL3 lPN#R3	neuron	female organism|adult brain	catmaid_fafb:57459	57459
-57463	Multiglomerular mALT lPN#R6	neuron	female organism|adult brain	catmaid_fafb:57463	57463
-57467	Multiglomerular mALT lPN#R8	neuron	female organism|adult brain	catmaid_fafb:57467	57467
-57475	Multiglomerular mALT smPN bilateral#L1	neuron	female organism|adult brain	catmaid_fafb:57475	57475
-57479	OA-VUMa2#1	neuron	female organism|adult brain	catmaid_fafb:57479	57479
-57487	Biglomerular mALT VP1l + VP3 ilPN bilateral#L1	neuron	female organism|adult brain	catmaid_fafb:57487	57487
-57495	Biglomerular mALT VP1l + VP3 ilPN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:57495	57495
-57536	Multiglomerular mALT l2PN#R3	neuron	female organism|adult brain	catmaid_fafb:57536	57536
-57543	Multiglomerular mALT adPN#R8	neuron	female organism|adult brain	catmaid_fafb:57543	57543
-73926	Multiglomerular mALT adPN#R10	neuron	female organism|adult brain	catmaid_fafb:73926	73926
-77661	Uniglomerular mALT DL3 lPN#R4	neuron	female organism|adult brain	catmaid_fafb:77661	77661
-80008	Multiglomerular mALT adPN#R3	neuron	female organism|adult brain	catmaid_fafb:80008	80008
-177540	Multiglomerular mALT lvPN#R35	neuron	female organism|adult brain	catmaid_fafb:177540	177540
-177545	Multiglomerular mALT lvPN#R1	neuron	female organism|adult brain	catmaid_fafb:177545	177545
-177549	Multiglomerular mALT lvPN#R13	neuron	female organism|adult brain	catmaid_fafb:177549	177549
-177584	Multiglomerular mALT lvPN#R2	neuron	female organism|adult brain	catmaid_fafb:177584	177584
-177656	Multiglomerular mALT lvPN#R7	neuron	female organism|adult brain	catmaid_fafb:177656	177656
-177706	Uniglomerular mALT DL3 lPN#R2	neuron	female organism|adult brain	catmaid_fafb:177706	177706
-177997	Multiglomerular mALT lvPN#R3	neuron	female organism|adult brain	catmaid_fafb:177997	177997
-181551	LHCENT8#1	neuron	female organism|adult brain	catmaid_fafb:181551	181551
-182684	Multiglomerular mALT lPN#R1	neuron	female organism|adult brain	catmaid_fafb:182684	182684
-192430	Multiglomerular t2-mALT lvPN#R2	neuron	female organism|adult brain	catmaid_fafb:192430	192430
-199461	Multiglomerular mALT l2PN#R4	neuron	female organism|adult brain	catmaid_fafb:199461	199461
-434153	Uniglomerular mALT VM1 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:434153	434153
-483289	Uniglomerular mALT DL4 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:483289	483289
-488055	LHAV4c1#1	neuron	female organism|adult brain	catmaid_fafb:488055	488055
-531931	Uniglomerular mlALT VA1d vPN#R1	neuron	female organism|adult brain	catmaid_fafb:531931	531931
-554327	LHCENT8#2	neuron	female organism|adult brain	catmaid_fafb:554327	554327
-563760	LHCENT4#1	neuron	female organism|adult brain	catmaid_fafb:563760	563760
-583167	Multiglomerular mlALT vPN#R63	neuron	female organism|adult brain	catmaid_fafb:583167	583167
-699859	Uniglomerular mALT DL2d adPN#R5	neuron	female organism|adult brain	catmaid_fafb:699859	699859
-709943	Multiglomerular mlALT vPN#R41	neuron	female organism|adult brain	catmaid_fafb:709943	709943
-856254	OA-VUMa2#2	neuron	female organism|adult brain	catmaid_fafb:856254	856254
-1101751	LHPV6a3#1	neuron	female organism|adult brain	catmaid_fafb:1101751	1101751
-1136366	Multiglomerular mALT lvPN#R12	neuron	female organism|adult brain	catmaid_fafb:1136366	1136366
-1136923	Multiglomerular mALT lvPN#R8	neuron	female organism|adult brain	catmaid_fafb:1136923	1136923
-1137895	Multiglomerular mALT lvPN#R14	neuron	female organism|adult brain	catmaid_fafb:1137895	1137895
-1142316	Multiglomerular mALT lvPN#R4	neuron	female organism|adult brain	catmaid_fafb:1142316	1142316
-1144225	Multiglomerular mALT lvPN#R5	neuron	female organism|adult brain	catmaid_fafb:1144225	1144225
-1144402	Multiglomerular mALT lvPN#R6	neuron	female organism|adult brain	catmaid_fafb:1144402	1144402
-1149437	aSP-g1b#2	neuron	female organism|adult brain	catmaid_fafb:1149437	1149437
-1288606	LHCENT6#1	neuron	female organism|adult brain	catmaid_fafb:1288606	1288606
-1298816	LHAV6a3#1	neuron	female organism|adult brain	catmaid_fafb:1298816	1298816
-1299626	LHPV5a2#2	neuron	female organism|adult brain	catmaid_fafb:1299626	1299626
-1299740	LHMB1#1	neuron	female organism|adult brain	catmaid_fafb:1299740	1299740
-1313071	WEDPN3#1	neuron	female organism|adult brain	catmaid_fafb:1313071	1313071
-1313334	WEDPN3#3	neuron	female organism|adult brain	catmaid_fafb:1313334	1313334
-1316519	LHPV2b5#1	neuron	female organism|adult brain	catmaid_fafb:1316519	1316519
-1334915	Multiglomerular lALT l2PN#R2	neuron	female organism|adult brain	catmaid_fafb:1334915	1334915
-1339810	Multiglomerular lALT l2PN#R5	neuron	female organism|adult brain	catmaid_fafb:1339810	1339810
-1356477	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:1356477	1356477
-1363077	Multiglomerular t3-mALT l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:1363077	1363077
-1372988	Multiglomerular mALT lvPN#R23	neuron	female organism|adult brain	catmaid_fafb:1372988	1372988
-1415926	LHAV6a1#1	neuron	female organism|adult brain	catmaid_fafb:1415926	1415926
-1532304	Uniglomerular mlALT DP1m vPN#R2	neuron	female organism|adult brain	catmaid_fafb:1532304	1532304
-1533152	Uniglomerular mlALT VM2 vPN#R1	neuron	female organism|adult brain	catmaid_fafb:1533152	1533152
-1533901	Multiglomerular mlALT vPN#R18	neuron	female organism|adult brain	catmaid_fafb:1533901	1533901
-1664544	Multiglomerular t3-mALT l2PN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:1664544	1664544
-1695556	Multiglomerular mALT adPN#R9	neuron	female organism|adult brain	catmaid_fafb:1695556	1695556
-1702624	Uniglomerular mlALT VL2p vPN#R1	neuron	female organism|adult brain	catmaid_fafb:1702624	1702624
-1703751	LHAD1b2#12	neuron	female organism|adult brain	catmaid_fafb:1703751	1703751
-1703872	LHPV2a2#1	neuron	female organism|adult brain	catmaid_fafb:1703872	1703872
-1706774	LHAV3c1#1	neuron	female organism|adult brain	catmaid_fafb:1706774	1706774
-1710793	LHPV4a1#3	neuron	female organism|adult brain	catmaid_fafb:1710793	1710793
-1710886	LHPV2c1#1	neuron	female organism|adult brain	catmaid_fafb:1710886	1710886
-1712057	Uniglomerular mALT VP2+ adPN#R1	neuron	female organism|adult brain	catmaid_fafb:1712057	1712057
-1720254	Multiglomerular mALT lvPN#R47	neuron	female organism|adult brain	catmaid_fafb:1720254	1720254
-1722202	Uniglomerular mlALT VA1v vPN#R2	neuron	female organism|adult brain	catmaid_fafb:1722202	1722202
-1722886	Multiglomerular mlALT vPN#R40	neuron	female organism|adult brain	catmaid_fafb:1722886	1722886
-1724508	Multiglomerular mlALT vPN#R5	neuron	female organism|adult brain	catmaid_fafb:1724508	1724508
-1724523	Uniglomerular mlALT VL2a vPN#R3	neuron	female organism|adult brain	catmaid_fafb:1724523	1724523
-1725235	Multiglomerular mlALT vPN#R59	neuron	female organism|adult brain	catmaid_fafb:1725235	1725235
-1727913	Multiglomerular lALT l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:1727913	1727913
-1759551	Multiglomerular mlALT vPN#R37	neuron	female organism|adult brain	catmaid_fafb:1759551	1759551
-1803633	LHAD3a10#1	neuron	female organism|adult brain	catmaid_fafb:1803633	1803633
-1811442	Uniglomerular mlALT DA1 vPN#R1	neuron	female organism|adult brain	catmaid_fafb:1811442	1811442
-1812558	LHAD3a8#1	neuron	female organism|adult brain	catmaid_fafb:1812558	1812558
-1853423	LHAV4a4#2	neuron	female organism|adult brain	catmaid_fafb:1853423	1853423
-1866895	LHCENT7#1	neuron	female organism|adult brain	catmaid_fafb:1866895	1866895
-1870230	LHAV2a3#1	neuron	female organism|adult brain	catmaid_fafb:1870230	1870230
-1879479	LHAD1f4#1	neuron	female organism|adult brain	catmaid_fafb:1879479	1879479
-1903280	Uniglomerular mlALT VL2a vPN#R2	neuron	female organism|adult brain	catmaid_fafb:1903280	1903280
-1909670	Multiglomerular mlALT vPN#R66	neuron	female organism|adult brain	catmaid_fafb:1909670	1909670
-1911124	LHAV4a4#1	neuron	female organism|adult brain	catmaid_fafb:1911124	1911124
-1967862	LHAV1a2#1	neuron	female organism|adult brain	catmaid_fafb:1967862	1967862
-2042935	LHPV5d1#1	neuron	female organism|adult brain	catmaid_fafb:2042935	2042935
-2050178	Multiglomerular mlALT vPN#R19	neuron	female organism|adult brain	catmaid_fafb:2050178	2050178
-2051048	LHPV12a1#2	neuron	female organism|adult brain	catmaid_fafb:2051048	2051048
-2070199	Multiglomerular t2-mALT ilPN bilateral#L1	neuron	female organism|adult brain	catmaid_fafb:2070199	2070199
-2096700	LHPV4b3#2	neuron	female organism|adult brain	catmaid_fafb:2096700	2096700
-2122447	WEDPN1A#1	neuron	female organism|adult brain	catmaid_fafb:2122447	2122447
-2153398	WEDPN4#1	neuron	female organism|adult brain	catmaid_fafb:2153398	2153398
-2182498	Multiglomerular mlALT vPN#R62	neuron	female organism|adult brain	catmaid_fafb:2182498	2182498
-2204528	LHPV5a1#4	neuron	female organism|adult brain	catmaid_fafb:2204528	2204528
-2227866	Uniglomerular mlALT VA1v vPN#R1	neuron	female organism|adult brain	catmaid_fafb:2227866	2227866
-2227995	WEDPN1A#2	neuron	female organism|adult brain	catmaid_fafb:2227995	2227995
-2319457	Uniglomerular mALT DA1 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:2319457	2319457
-2321681	Uniglomerular mALT VL2a adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2321681	2321681
-2334841	Uniglomerular mlALT DA1 vPN#L1	neuron	female organism|adult brain	catmaid_fafb:2334841	2334841
-2335985	Uniglomerular mALT DL3 lPN#L4	neuron	female organism|adult brain	catmaid_fafb:2335985	2335985
-2340896	Uniglomerular mALT DL3 lPN#L5	neuron	female organism|adult brain	catmaid_fafb:2340896	2340896
-2345089	Uniglomerular mALT DA1 lPN#L3	neuron	female organism|adult brain	catmaid_fafb:2345089	2345089
-2348022	Uniglomerular mALT VA7m lPN#L3	neuron	female organism|adult brain	catmaid_fafb:2348022	2348022
-2349018	Uniglomerular mALT DL3 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:2349018	2349018
-2349022	Uniglomerular mALT DL3 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:2349022	2349022
-2349030	Uniglomerular mALT DL3 lPN#L3	neuron	female organism|adult brain	catmaid_fafb:2349030	2349030
-2350853	Uniglomerular mALT DA3 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:2350853	2350853
-2352723	Uniglomerular mALT VA7m lPN#L2	neuron	female organism|adult brain	catmaid_fafb:2352723	2352723
-2353601	Uniglomerular mALT VA5 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:2353601	2353601
-2374382	Uniglomerular mALT DA4m adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2374382	2374382
-2379517	Uniglomerular mALT DA1 lPN#L4	neuron	female organism|adult brain	catmaid_fafb:2379517	2379517
-2380564	Uniglomerular mALT DA1 lPN#L5	neuron	female organism|adult brain	catmaid_fafb:2380564	2380564
-2381432	Uniglomerular mlALT VA1v vPN#L1	neuron	female organism|adult brain	catmaid_fafb:2381432	2381432
-2381753	Uniglomerular mALT DA1 lPN#L6	neuron	female organism|adult brain	catmaid_fafb:2381753	2381753
-2405329	Uniglomerular mALT DA2 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:2405329	2405329
-2405823	Uniglomerular mALT DA2 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:2405823	2405823
-2405959	Uniglomerular mALT DA2 lPN#L4	neuron	female organism|adult brain	catmaid_fafb:2405959	2405959
-2425247	LHPV5a2#1	neuron	female organism|adult brain	catmaid_fafb:2425247	2425247
-2444645	Uniglomerular mALT DA4l adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2444645	2444645
-2449653	Uniglomerular mALT DL2d adPN#L3	neuron	female organism|adult brain	catmaid_fafb:2449653	2449653
-2449792	Uniglomerular mALT DA3 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2449792	2449792
-2467659	Uniglomerular mALT DA2 lPN#L5	neuron	female organism|adult brain	catmaid_fafb:2467659	2467659
-2468193	Uniglomerular mALT DM5 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:2468193	2468193
-2468708	Uniglomerular mALT DA2 lPN#L6	neuron	female organism|adult brain	catmaid_fafb:2468708	2468708
-2470860	Uniglomerular mALT DP1l adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2470860	2470860
-2474754	Uniglomerular mALT DC3 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2474754	2474754
-2477473	aSP-g1b#1	neuron	female organism|adult brain	catmaid_fafb:2477473	2477473
-2484510	Uniglomerular mlALT VP4 vPN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:2484510	2484510
-2548003	LHPV4a10#1	neuron	female organism|adult brain	catmaid_fafb:2548003	2548003
-2551627	Uniglomerular mALT VA1v adPN#L3	neuron	female organism|adult brain	catmaid_fafb:2551627	2551627
-2561343	Uniglomerular mlALT VA1v vPN#L2	neuron	female organism|adult brain	catmaid_fafb:2561343	2561343
-2600341	Multiglomerular lALT l2PN bilateral#R2	neuron	female organism|adult brain	catmaid_fafb:2600341	2600341
-2604019	Uniglomerular mALT DL2v adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2604019	2604019
-2610846	Uniglomerular mALT VM4 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2610846	2610846
-2615448	Uniglomerular mALT VM5d adPN#L3	neuron	female organism|adult brain	catmaid_fafb:2615448	2615448
-2633111	LHAV3a1#3	neuron	female organism|adult brain	catmaid_fafb:2633111	2633111
-2639558	LHAV4d1#1	neuron	female organism|adult brain	catmaid_fafb:2639558	2639558
-2645953	Multiglomerular mlALT vPN#R70	neuron	female organism|adult brain	catmaid_fafb:2645953	2645953
-2653656	Uniglomerular mlALT VA1d vPN#L1	neuron	female organism|adult brain	catmaid_fafb:2653656	2653656
-2659704	LHAV1a1#1	neuron	female organism|adult brain	catmaid_fafb:2659704	2659704
-2684792	LHAV1a1#2	neuron	female organism|adult brain	catmaid_fafb:2684792	2684792
-2693456	Uniglomerular mALT DC4 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:2693456	2693456
-2766186	Multiglomerular mlALT vPN#R2	neuron	female organism|adult brain	catmaid_fafb:2766186	2766186
-2794070	LHAV1a3#1	neuron	female organism|adult brain	catmaid_fafb:2794070	2794070
-2831091	LHPV5a1#5	neuron	female organism|adult brain	catmaid_fafb:2831091	2831091
-2839458	Uniglomerular mALT VA1d adPN#L4	neuron	female organism|adult brain	catmaid_fafb:2839458	2839458
-2842610	LHAD1b2#11	neuron	female organism|adult brain	catmaid_fafb:2842610	2842610
-2845576	Multiglomerular mlALT vPN#R34	neuron	female organism|adult brain	catmaid_fafb:2845576	2845576
-2846667	Uniglomerular mlALT VL1 vPN#R1	neuron	female organism|adult brain	catmaid_fafb:2846667	2846667
-2851242	LHAV4g1#1	neuron	female organism|adult brain	catmaid_fafb:2851242	2851242
-2863104	Uniglomerular mALT DA1 lPN#R5	neuron	female organism|adult brain	catmaid_fafb:2863104	2863104
-2992998	Multiglomerular mlALT vPN#R29	neuron	female organism|adult brain	catmaid_fafb:2992998	2992998
-2999878	Uniglomerular mALT DA2 lPN#L3	neuron	female organism|adult brain	catmaid_fafb:2999878	2999878
-3003322	Multiglomerular mlALT vPN#R1	neuron	female organism|adult brain	catmaid_fafb:3003322	3003322
-3020362	Multiglomerular mlALT vPN#R31	neuron	female organism|adult brain	catmaid_fafb:3020362	3020362
-3075158	LHAD1b2#10	neuron	female organism|adult brain	catmaid_fafb:3075158	3075158
-3078257	LHAD1b2#9	neuron	female organism|adult brain	catmaid_fafb:3078257	3078257
-3080086	LHAD1b2#8	neuron	female organism|adult brain	catmaid_fafb:3080086	3080086
-3080183	LHAD1c1#1	neuron	female organism|adult brain	catmaid_fafb:3080183	3080183
-3080225	LHAD1b2#7	neuron	female organism|adult brain	catmaid_fafb:3080225	3080225
-3139915	Multiglomerular mlALT vPN#R65	neuron	female organism|adult brain	catmaid_fafb:3139915	3139915
-3239781	Uniglomerular mALT DA1 lPN#L7	neuron	female organism|adult brain	catmaid_fafb:3239781	3239781
-3301234	Uniglomerular mlALT VL2a vPN#L2	neuron	female organism|adult brain	catmaid_fafb:3301234	3301234
-3376158	LHPV6o1#1	neuron	female organism|adult brain	catmaid_fafb:3376158	3376158
-3394015	LHCENT1#1	neuron	female organism|adult brain	catmaid_fafb:3394015	3394015
-3416395	LHPV2f2#1	neuron	female organism|adult brain	catmaid_fafb:3416395	3416395
-3420237	Uniglomerular mALT VC5 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:3420237	3420237
-3467989	Multiglomerular mlALT vPN#R6	neuron	female organism|adult brain	catmaid_fafb:3467989	3467989
-3481901	LHPD3a5#1	neuron	female organism|adult brain	catmaid_fafb:3481901	3481901
-3519113	Uniglomerular mALT VC1 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:3519113	3519113
-3646122	Uniglomerular mALT VA1d adPN#L2	neuron	female organism|adult brain	catmaid_fafb:3646122	3646122
-3648956	Multiglomerular mALT lPN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:3648956	3648956
-3663498	Multiglomerular mlALT vPN#R69	neuron	female organism|adult brain	catmaid_fafb:3663498	3663498
-3715995	Uniglomerular mALT VL2p adPN#L1	neuron	female organism|adult brain	catmaid_fafb:3715995	3715995
-3742499	Uniglomerular mALT VP1l lvPN bilateral#R1	neuron	female organism|adult brain	catmaid_fafb:3742499	3742499
-3771419	Multiglomerular mlALT vPN#R15	neuron	female organism|adult brain	catmaid_fafb:3771419	3771419
-3788293	LHPV5a1#1	neuron	female organism|adult brain	catmaid_fafb:3788293	3788293
-3799421	WEDPN2B#3	neuron	female organism|adult brain	catmaid_fafb:3799421	3799421
-3813278	Multiglomerular mlALT vPN#R7	neuron	female organism|adult brain	catmaid_fafb:3813278	3813278
-3813282	Multiglomerular mlALT vPN#R11	neuron	female organism|adult brain	catmaid_fafb:3813282	3813282
-3813322	Multiglomerular mlALT vPN#R50	neuron	female organism|adult brain	catmaid_fafb:3813322	3813322
-3813331	Uniglomerular mlALT DM4 vPN#R2	neuron	female organism|adult brain	catmaid_fafb:3813331	3813331
-3813335	Multiglomerular mlALT vPN#R20	neuron	female organism|adult brain	catmaid_fafb:3813335	3813335
-3813343	Uniglomerular mlALT VM2 vPN#R2	neuron	female organism|adult brain	catmaid_fafb:3813343	3813343
-3813347	Multiglomerular mlALT vPN#R38	neuron	female organism|adult brain	catmaid_fafb:3813347	3813347
-3813351	Multiglomerular mlALT vPN#R49	neuron	female organism|adult brain	catmaid_fafb:3813351	3813351
-3813399	Multiglomerular mlALT vPN#R71	neuron	female organism|adult brain	catmaid_fafb:3813399	3813399
-3813403	Uniglomerular mlALT DC4 vPN#R2	neuron	female organism|adult brain	catmaid_fafb:3813403	3813403
-3813424	Multiglomerular mlALT vPN#R56	neuron	female organism|adult brain	catmaid_fafb:3813424	3813424
-3813430	Multiglomerular mlALT vPN#R32	neuron	female organism|adult brain	catmaid_fafb:3813430	3813430
-3813434	Multiglomerular mlALT vPN#R16	neuron	female organism|adult brain	catmaid_fafb:3813434	3813434
-3813438	Multiglomerular mlALT vPN#R57	neuron	female organism|adult brain	catmaid_fafb:3813438	3813438
-3813442	Multiglomerular mlALT vPN#R55	neuron	female organism|adult brain	catmaid_fafb:3813442	3813442
-3813447	Multiglomerular mlALT vPN#R54	neuron	female organism|adult brain	catmaid_fafb:3813447	3813447
-3813451	Multiglomerular mlALT vPN#R47	neuron	female organism|adult brain	catmaid_fafb:3813451	3813451
-3813455	Uniglomerular mlALT VL2a vPN#R1	neuron	female organism|adult brain	catmaid_fafb:3813455	3813455
-3813483	Multiglomerular mlALT vPN#R46	neuron	female organism|adult brain	catmaid_fafb:3813483	3813483
-3813487	Multiglomerular mlALT vPN#R45	neuron	female organism|adult brain	catmaid_fafb:3813487	3813487
-3813495	Multiglomerular mlALT vPN#R44	neuron	female organism|adult brain	catmaid_fafb:3813495	3813495
-3813499	Multiglomerular mlALT vPN#R4	neuron	female organism|adult brain	catmaid_fafb:3813499	3813499
-3842493	Multiglomerular mlALT vPN#R33	neuron	female organism|adult brain	catmaid_fafb:3842493	3842493
-3877150	LHAD1b2#6	neuron	female organism|adult brain	catmaid_fafb:3877150	3877150
-3892961	Uniglomerular mALT VA1v adPN#L1	neuron	female organism|adult brain	catmaid_fafb:3892961	3892961
-3897655	LHPV4a1#2	neuron	female organism|adult brain	catmaid_fafb:3897655	3897655
-3903440	Multiglomerular mlALT vPN#R30	neuron	female organism|adult brain	catmaid_fafb:3903440	3903440
-3908507	Multiglomerular lALT l2PN#R3	neuron	female organism|adult brain	catmaid_fafb:3908507	3908507
-3922783	Multiglomerular mlALT vPN#R68	neuron	female organism|adult brain	catmaid_fafb:3922783	3922783
-3933006	WEDPN3#2	neuron	female organism|adult brain	catmaid_fafb:3933006	3933006
-3933200	Uniglomerular mALT DL2d adPN#L1	neuron	female organism|adult brain	catmaid_fafb:3933200	3933200
-3954226	WEDPN7C#2	neuron	female organism|adult brain	catmaid_fafb:3954226	3954226
-3959520	Multiglomerular mlALT vPN#R35	neuron	female organism|adult brain	catmaid_fafb:3959520	3959520
-3998193	Multiglomerular mlALT vPN#R64	neuron	female organism|adult brain	catmaid_fafb:3998193	3998193
-3999003	Multiglomerular mlALT vPN#R67	neuron	female organism|adult brain	catmaid_fafb:3999003	3999003
-4002166	Multiglomerular t9-lALT lv2PN#R1	neuron	female organism|adult brain	catmaid_fafb:4002166	4002166
-4027387	WEDPN8C#1	neuron	female organism|adult brain	catmaid_fafb:4027387	4027387
-4041464	Uniglomerular t1-mALT V l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:4041464	4041464
-4044614	LHPV4a2#2	neuron	female organism|adult brain	catmaid_fafb:4044614	4044614
-4058666	Multiglomerular t2-mALT lvPN#R1	neuron	female organism|adult brain	catmaid_fafb:4058666	4058666
-4100701	LHPV4k1#1	neuron	female organism|adult brain	catmaid_fafb:4100701	4100701
-4163773	Uniglomerular mALT DM2 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:4163773	4163773
-4164206	Uniglomerular mALT DM2 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:4164206	4164206
-4182038	LHPD3a2#1	neuron	female organism|adult brain	catmaid_fafb:4182038	4182038
-4195469	Multiglomerular lALT l2PN#R4	neuron	female organism|adult brain	catmaid_fafb:4195469	4195469
-4207871	Uniglomerular mALT DA1 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:4207871	4207871
-4215506	LHPV4a5#1	neuron	female organism|adult brain	catmaid_fafb:4215506	4215506
-4267053	WEDPN1A#3	neuron	female organism|adult brain	catmaid_fafb:4267053	4267053
-4280558	WEDPN1B#1	neuron	female organism|adult brain	catmaid_fafb:4280558	4280558
-4340854	Uniglomerular mlALT DL2d vPN#R2	neuron	female organism|adult brain	catmaid_fafb:4340854	4340854
-4467245	Uniglomerular mALT VA1v adPN#L5	neuron	female organism|adult brain	catmaid_fafb:4467245	4467245
-4491591	Multiglomerular mlALT vPN#R61	neuron	female organism|adult brain	catmaid_fafb:4491591	4491591
-4494818	Uniglomerular mALT D adPN#L3	neuron	female organism|adult brain	catmaid_fafb:4494818	4494818
-4494848	Uniglomerular mALT DL2v adPN#L2	neuron	female organism|adult brain	catmaid_fafb:4494848	4494848
-4494870	Uniglomerular mALT VM5d adPN#L5	neuron	female organism|adult brain	catmaid_fafb:4494870	4494870
-4494902	Uniglomerular mALT VC3l adPN#L3	neuron	female organism|adult brain	catmaid_fafb:4494902	4494902
-4494955	Uniglomerular mALT DL2v adPN#L3	neuron	female organism|adult brain	catmaid_fafb:4494955	4494955
-4494998	Uniglomerular mALT VM5d adPN#L4	neuron	female organism|adult brain	catmaid_fafb:4494998	4494998
-4495013	Uniglomerular mALT VA7l adPN#L1	neuron	female organism|adult brain	catmaid_fafb:4495013	4495013
-4507894	Uniglomerular mlALT VL2p vPN#L1	neuron	female organism|adult brain	catmaid_fafb:4507894	4507894
-4513533	LHAD1b2#5	neuron	female organism|adult brain	catmaid_fafb:4513533	4513533
-4564401	Uniglomerular mALT DC2 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:4564401	4564401
-4586967	Uniglomerular mALT VC3l adPN#L1	neuron	female organism|adult brain	catmaid_fafb:4586967	4586967
-4624321	Multiglomerular mlALT vPN#R10	neuron	female organism|adult brain	catmaid_fafb:4624321	4624321
-4624325	Uniglomerular mlALT DC4 vPN#R1	neuron	female organism|adult brain	catmaid_fafb:4624325	4624325
-4624334	Multiglomerular mlALT vPN#R17	neuron	female organism|adult brain	catmaid_fafb:4624334	4624334
-4624338	Multiglomerular mlALT vPN#R22	neuron	female organism|adult brain	catmaid_fafb:4624338	4624338
-4624346	Multiglomerular mlALT vPN#R8	neuron	female organism|adult brain	catmaid_fafb:4624346	4624346
-4624362	Multiglomerular mlALT vPN#R21	neuron	female organism|adult brain	catmaid_fafb:4624362	4624362
-4624374	Uniglomerular mlALT VM2 vPN#R3	neuron	female organism|adult brain	catmaid_fafb:4624374	4624374
-4624378	Multiglomerular mlALT vPN#R39	neuron	female organism|adult brain	catmaid_fafb:4624378	4624378
-4631791	Multiglomerular mlALT vPN#R43	neuron	female organism|adult brain	catmaid_fafb:4631791	4631791
-4632023	Multiglomerular mlALT vPN#R53	neuron	female organism|adult brain	catmaid_fafb:4632023	4632023
-4632091	Uniglomerular mlALT DP1l vPN#R1	neuron	female organism|adult brain	catmaid_fafb:4632091	4632091
-4632101	Multiglomerular mlALT vPN#R42	neuron	female organism|adult brain	catmaid_fafb:4632101	4632101
-4632128	Multiglomerular mlALT vPN#R12	neuron	female organism|adult brain	catmaid_fafb:4632128	4632128
-4632208	Multiglomerular mlALT vPN#R14	neuron	female organism|adult brain	catmaid_fafb:4632208	4632208
-4662243	Multiglomerular mlALT vPN#R52	neuron	female organism|adult brain	catmaid_fafb:4662243	4662243
-4671556	Biglomerular t10-lALT VP5 + VP3 l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:4671556	4671556
-4672476	WEDPN5#1	neuron	female organism|adult brain	catmaid_fafb:4672476	4672476
-4672650	Uniglomerular t10-lALT VP5 l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:4672650	4672650
-4744251	LHAD1b2#1	neuron	female organism|adult brain	catmaid_fafb:4744251	4744251
-4812228	Uniglomerular mlALT DL2d vPN#R1	neuron	female organism|adult brain	catmaid_fafb:4812228	4812228
-4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral#R2	neuron	female organism|adult brain	catmaid_fafb:4869882	4869882
-4876532	Biglomerular t10-lALT VP5 + VP2 l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:4876532	4876532
-4905365	Multiglomerular t4-mALT spPN#R1	neuron	female organism|adult brain	catmaid_fafb:4905365	4905365
-4926877	Multiglomerular mlALT vPN#R60	neuron	female organism|adult brain	catmaid_fafb:4926877	4926877
-4927529	Multiglomerular mlALT vPN#R26	neuron	female organism|adult brain	catmaid_fafb:4927529	4927529
-4946872	WEDPN6A#1	neuron	female organism|adult brain	catmaid_fafb:4946872	4946872
-4946893	WEDPN2B#1	neuron	female organism|adult brain	catmaid_fafb:4946893	4946893
-4947032	WEDPN7A#1	neuron	female organism|adult brain	catmaid_fafb:4947032	4947032
-4949516	Multiglomerular mlALT vPN#R25	neuron	female organism|adult brain	catmaid_fafb:4949516	4949516
-4954519	Multiglomerular mlALT vPN#R58	neuron	female organism|adult brain	catmaid_fafb:4954519	4954519
-4954525	Multiglomerular lALT imPN#2	neuron	female organism|adult brain	catmaid_fafb:4954525	4954525
-4970161	LHAD1b2#2	neuron	female organism|adult brain	catmaid_fafb:4970161	4970161
-5002989	WEDPN1A#4	neuron	female organism|adult brain	catmaid_fafb:5002989	5002989
-5019352	Uniglomerular mlALT DM4 vPN#R1	neuron	female organism|adult brain	catmaid_fafb:5019352	5019352
-5030649	LHAD1b2#3	neuron	female organism|adult brain	catmaid_fafb:5030649	5030649
-5031366	LHAD1b2#4	neuron	female organism|adult brain	catmaid_fafb:5031366	5031366
-5169854	Multiglomerular mALT lvPN#R34	neuron	female organism|adult brain	catmaid_fafb:5169854	5169854
-5217967	Uniglomerular mlALT DL2v vPN#R1	neuron	female organism|adult brain	catmaid_fafb:5217967	5217967
-5269364	Uniglomerular mALT DL1 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:5269364	5269364
-5305037	Uniglomerular mALT DL1 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:5305037	5305037
-5341336	LHAV3a1#1	neuron	female organism|adult brain	catmaid_fafb:5341336	5341336
-5471515	Uniglomerular t5-mlALT VP3 vPN#R1	neuron	female organism|adult brain	catmaid_fafb:5471515	5471515
-5485737	Multiglomerular mlALT vPN#R28	neuron	female organism|adult brain	catmaid_fafb:5485737	5485737
-5494609	Multiglomerular mALT lvPN#R10	neuron	female organism|adult brain	catmaid_fafb:5494609	5494609
-5672990	Uniglomerular lALT VP2 l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:5672990	5672990
-5676478	LHPV5c2#1	neuron	female organism|adult brain	catmaid_fafb:5676478	5676478
-5806820	LHPV5a5#1	neuron	female organism|adult brain	catmaid_fafb:5806820	5806820
-5807209	LHPV5a1#6	neuron	female organism|adult brain	catmaid_fafb:5807209	5807209
-5807241	LHPV5d3#2	neuron	female organism|adult brain	catmaid_fafb:5807241	5807241
-5807249	LHPV5d3#1	neuron	female organism|adult brain	catmaid_fafb:5807249	5807249
-5807269	LHPV5d3#3	neuron	female organism|adult brain	catmaid_fafb:5807269	5807269
-5807321	LHPV5a1#7	neuron	female organism|adult brain	catmaid_fafb:5807321	5807321
-5810932	WEDPN7A#2	neuron	female organism|adult brain	catmaid_fafb:5810932	5810932
-5918547	LHPV4a4#5	neuron	female organism|adult brain	catmaid_fafb:5918547	5918547
-5937632	LHPV5a1#2	neuron	female organism|adult brain	catmaid_fafb:5937632	5937632
-5946848	Biglomerular t10-lALT VP5 + VP2 l2PN#R2	neuron	female organism|adult brain	catmaid_fafb:5946848	5946848
-6082926	WEDPN7C#1	neuron	female organism|adult brain	catmaid_fafb:6082926	6082926
-6536624	LHAD1b1#1	neuron	female organism|adult brain	catmaid_fafb:6536624	6536624
-6622015	Multiglomerular mlALT vPN#R51	neuron	female organism|adult brain	catmaid_fafb:6622015	6622015
-6649190	Multiglomerular t-mALT l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:6649190	6649190
-6695923	Uniglomerular mlALT DP1m vPN#R1	neuron	female organism|adult brain	catmaid_fafb:6695923	6695923
-6696675	Multiglomerular mlALT vPN#R36	neuron	female organism|adult brain	catmaid_fafb:6696675	6696675
-6698696	Multiglomerular mlALT vPN#R27	neuron	female organism|adult brain	catmaid_fafb:6698696	6698696
-6699444	Multiglomerular mlALT vPN#R48	neuron	female organism|adult brain	catmaid_fafb:6699444	6699444
-6700447	Multiglomerular mlALT vPN#R9	neuron	female organism|adult brain	catmaid_fafb:6700447	6700447
-6701307	Multiglomerular mlALT vPN#R24	neuron	female organism|adult brain	catmaid_fafb:6701307	6701307
-6701319	Multiglomerular mlALT vPN#R23	neuron	female organism|adult brain	catmaid_fafb:6701319	6701319
-6702019	Multiglomerular mlALT vPN#R13	neuron	female organism|adult brain	catmaid_fafb:6702019	6702019
-6825565	LHPV4a4#4	neuron	female organism|adult brain	catmaid_fafb:6825565	6825565
-6967069	Multiglomerular mlALT vPN#R3	neuron	female organism|adult brain	catmaid_fafb:6967069	6967069
-7017522	Multiglomerular t10-lALT l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:7017522	7017522
-7481072	WEDPN8C#2	neuron	female organism|adult brain	catmaid_fafb:7481072	7481072
-7483643	LHPV4a2#1	neuron	female organism|adult brain	catmaid_fafb:7483643	7483643
-7712104	Uniglomerular mALT VC3m lvPN#L1	neuron	female organism|adult brain	catmaid_fafb:7712104	7712104
-8406430	Multiglomerular t10-mALT l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:8406430	8406430
-8566851	Multiglomerular lALT lv2PN#R1	neuron	female organism|adult brain	catmaid_fafb:8566851	8566851
-8715672	Multiglomerular t2-mALT ilPN#R1	neuron	female organism|adult brain	catmaid_fafb:8715672	8715672
-8777795	Multiglomerular t5-lALT spPN#R1	neuron	female organism|adult brain	catmaid_fafb:8777795	8777795
-8825246	Multiglomerular t3-mALT l2PN#R2	neuron	female organism|adult brain	catmaid_fafb:8825246	8825246
-9008431	Uniglomerular mALT VM1 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:9008431	9008431
-9206583	WEDPN8B#1	neuron	female organism|adult brain	catmaid_fafb:9206583	9206583
-9206998	WEDPN8C#3	neuron	female organism|adult brain	catmaid_fafb:9206998	9206998
-9249174	WEDPN2B#2	neuron	female organism|adult brain	catmaid_fafb:9249174	9249174
-9290368	Uniglomerular mALT VA5 lPN#L3	neuron	female organism|adult brain	catmaid_fafb:9290368	9290368
-9589676	Uniglomerular mALT VC4 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:9589676	9589676
-9599181	Uniglomerular mALT VM7d adPN#L2	neuron	female organism|adult brain	catmaid_fafb:9599181	9599181
-9719939	Uniglomerular mALT VM7d adPN#L3	neuron	female organism|adult brain	catmaid_fafb:9719939	9719939
-9806717	Uniglomerular mALT VM2 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:9806717	9806717
-9899909	Uniglomerular mALT DM3 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:9899909	9899909
-9900451	Uniglomerular mALT VA5 lPN#L2	neuron	female organism|adult brain	catmaid_fafb:9900451	9900451
-9901677	Uniglomerular mALT VC3l adPN#L2	neuron	female organism|adult brain	catmaid_fafb:9901677	9901677
-10078400	Multiglomerular mALT l2PN#R5	neuron	female organism|adult brain	catmaid_fafb:10078400	10078400
-10138363	Uniglomerular mALT VA1d adPN#L1	neuron	female organism|adult brain	catmaid_fafb:10138363	10138363
-10155401	Uniglomerular mALT VA1d adPN#L3	neuron	female organism|adult brain	catmaid_fafb:10155401	10155401
-10205688	Uniglomerular mALT VC2 lPN#L1	neuron	female organism|adult brain	catmaid_fafb:10205688	10205688
-10533089	Uniglomerular mALT VM7d adPN#L1	neuron	female organism|adult brain	catmaid_fafb:10533089	10533089
-10537555	Uniglomerular mALT DM6 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:10537555	10537555
-10537635	Uniglomerular mALT DM6 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:10537635	10537635
-10538081	Uniglomerular mALT VM7v adPN#L2	neuron	female organism|adult brain	catmaid_fafb:10538081	10538081
-10538493	Uniglomerular mALT DL2d adPN#L5	neuron	female organism|adult brain	catmaid_fafb:10538493	10538493
-10541812	Uniglomerular mALT VM5d adPN#L1	neuron	female organism|adult brain	catmaid_fafb:10541812	10541812
-10541930	Uniglomerular mALT DL2d adPN#L2	neuron	female organism|adult brain	catmaid_fafb:10541930	10541930
-10932520	Uniglomerular mlALT VL1 vPN#L1	neuron	female organism|adult brain	catmaid_fafb:10932520	10932520
-11067958	Uniglomerular mALT D adPN#L2	neuron	female organism|adult brain	catmaid_fafb:11067958	11067958
-11085462	Uniglomerular mALT VC4 adPN#L1	neuron	female organism|adult brain	catmaid_fafb:11085462	11085462
-11109412	Uniglomerular mlALT VL2a vPN#L1	neuron	female organism|adult brain	catmaid_fafb:11109412	11109412
-11234968	Uniglomerular t10-lALT VP3+l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:11234968	11234968
-11519370	LHAD1a1#1	neuron	female organism|adult brain	catmaid_fafb:11519370	11519370
-11519759	LHCENT9#1	neuron	female organism|adult brain	catmaid_fafb:11519759	11519759
-11519897	LHCENT5#1	neuron	female organism|adult brain	catmaid_fafb:11519897	11519897
-11522498	LHPV5a1#3	neuron	female organism|adult brain	catmaid_fafb:11522498	11522498
-11522927	LHPV4a1#1	neuron	female organism|adult brain	catmaid_fafb:11522927	11522927
-11524119	Uniglomerular lALT VP1m l2PN#R1	neuron	female organism|adult brain	catmaid_fafb:11524119	11524119
-11524190	LHAV4a1#1	neuron	female organism|adult brain	catmaid_fafb:11524190	11524190
-11524386	LHPV4a3#1	neuron	female organism|adult brain	catmaid_fafb:11524386	11524386
-11524508	LHPV2c1#2	neuron	female organism|adult brain	catmaid_fafb:11524508	11524508
-11543484	LHCENT3#1	neuron	female organism|adult brain	catmaid_fafb:11543484	11543484
-11543519	LHAV2d1#1	neuron	female organism|adult brain	catmaid_fafb:11543519	11543519
-11544074	Uniglomerular mALT DL1 adPN#R2	neuron	female organism|adult brain	catmaid_fafb:11544074	11544074
-11544121	Uniglomerular mALT VM7d adPN#R2	neuron	female organism|adult brain	catmaid_fafb:11544121	11544121
-11545702	LHPV12a1#1	neuron	female organism|adult brain	catmaid_fafb:11545702	11545702
-11545803	LHAV3f1#1	neuron	female organism|adult brain	catmaid_fafb:11545803	11545803
-11546775	Multiglomerular t6-mALT smPN#R1	neuron	female organism|adult brain	catmaid_fafb:11546775	11546775
-11964657	Uniglomerular mALT VM7v adPN#L1	neuron	female organism|adult brain	catmaid_fafb:11964657	11964657
-12070989	Multiglomerular lALT imPN#1	neuron	female organism|adult brain	catmaid_fafb:12070989	12070989
-12202011	Uniglomerular mALT D adPN#L1	neuron	female organism|adult brain	catmaid_fafb:12202011	12202011
-12202021	Uniglomerular mALT DL2v adPN#L4	neuron	female organism|adult brain	catmaid_fafb:12202021	12202021
-12202025	Uniglomerular mALT VM2 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:12202025	12202025
-12718438	Uniglomerular mALT DC3 adPN#L2	neuron	female organism|adult brain	catmaid_fafb:12718438	12718438
-12773180	Uniglomerular mALT VM5v adPN#L1	neuron	female organism|adult brain	catmaid_fafb:12773180	12773180
-12784997	Uniglomerular mALT VA1v adPN#L4	neuron	female organism|adult brain	catmaid_fafb:12784997	12784997
-12790425	Uniglomerular mALT DM6 adPN#L3	neuron	female organism|adult brain	catmaid_fafb:12790425	12790425
-12795588	Uniglomerular mALT VM5v adPN#L3	neuron	female organism|adult brain	catmaid_fafb:12795588	12795588
-12798240	Uniglomerular mALT VA1v adPN#L2	neuron	female organism|adult brain	catmaid_fafb:12798240	12798240
-12820972	Uniglomerular mALT VM5d adPN#L2	neuron	female organism|adult brain	catmaid_fafb:12820972	12820972
-13272860	Uniglomerular mlALT DP1m vPN#L2	neuron	female organism|adult brain	catmaid_fafb:13272860	13272860
-13272939	Uniglomerular mlALT DP1m vPN#L1	neuron	female organism|adult brain	catmaid_fafb:13272939	13272939
-13565080	LHCENT2#1	neuron	female organism|adult brain	catmaid_fafb:13565080	13565080
-14003783	Uniglomerular mALT VP5 + SEZ adPN#R1	neuron	female organism|adult brain	catmaid_fafb:14003783	14003783
-14375426	Uniglomerular mALT DL2d adPN#L4	neuron	female organism|adult brain	catmaid_fafb:14375426	14375426
-14447818	Uniglomerular mALT VM5v adPN#L2	neuron	female organism|adult brain	catmaid_fafb:14447818	14447818
-15738898	LHAV4a3#1	neuron	female organism|adult brain	catmaid_fafb:15738898	15738898
+16	Uniglomerular mALT VA6 adPN 017 DB	neuron	female organism|adult brain	catmaid_fafb:16	16
+27	Uniglomerular mALT DM4 adPN DB ECM	neuron	female organism|adult brain	catmaid_fafb:27	27
+717	Uniglomerular mALT VA4 lPN DB	neuron	female organism|adult brain	catmaid_fafb:717	717
+734	Uniglomerular mALT DM1 lPN XZ	neuron	female organism|adult brain	catmaid_fafb:734	734
+949	Uniglomerular mALT VM3 adPN 950 DB XZ	neuron	female organism|adult brain	catmaid_fafb:949	949
+1165	Uniglomerular mALT VM3 adPN 1166 DB XZ	neuron	female organism|adult brain	catmaid_fafb:1165	1165
+1992	Uniglomerular mALT DL5 adPN DB	neuron	female organism|adult brain	catmaid_fafb:1992	1992
+2076	Uniglomerular mALT DC1 adPN PN015 DB	neuron	female organism|adult brain	catmaid_fafb:2076	2076
+2115	Uniglomerular mALT VA3 adPN 2116 MT	neuron	female organism|adult brain	catmaid_fafb:2115	2115
+2338	Uniglomerular mALT VA2 adPN DB XZ	neuron	female organism|adult brain	catmaid_fafb:2338	2338
+3133	Uniglomerular mALT VA6 adPN PN019 DB	neuron	female organism|adult brain	catmaid_fafb:3133	3133
+3425	Uniglomerular mALT VA3 adPN DB XZ	neuron	female organism|adult brain	catmaid_fafb:3425	3425
+3719	Uniglomerular mALT VA7m lPN PN024 DB XZ	neuron	female organism|adult brain	catmaid_fafb:3719	3719
+3906	Uniglomerular mALT VC3m lvPN DB XZ	neuron	female organism|adult brain	catmaid_fafb:3906	3906
+4070	Uniglomerular mALT VC3l adPN DB XZ	neuron	female organism|adult brain	catmaid_fafb:4070	4070
+4477	Uniglomerular mALT DM5 lPN DB ECM	neuron	female organism|adult brain	catmaid_fafb:4477	4477
+5043	Uniglomerular mALT DP1m adPN DB ECM	neuron	female organism|adult brain	catmaid_fafb:5043	5043
+5714	Uniglomerular mALT DC2 adPN DB XZ	neuron	female organism|adult brain	catmaid_fafb:5714	5714
+32793	Multiglomerular mALT l2PN VM1+VP2+VP3+23 LTS 0.58 Flywalkies 32794 JMR	neuron	female organism|adult brain	catmaid_fafb:32793	32793
+32801	Multiglomerular mALT l2PN D+VP3+VA7m+24 LTS 0.63 32802 JMR	neuron	female organism|adult brain	catmaid_fafb:32801	32801
+56983	Multiglomerular mALT lvPN VA4+VA3+VC4+6 LTS 0.92 56984 HG NAS	neuron	female organism|adult brain	catmaid_fafb:56983	56983
+56995	Multiglomerular mALT lvPN VM3+DP1l+VC3l+3 LTS 0.93 56996 IJA NAS	neuron	female organism|adult brain	catmaid_fafb:56995	56995
+56999	Uniglomerular mALT VP1l+ lvPN 57000 IJA NM ECM	neuron	female organism|adult brain	catmaid_fafb:56999	56999
+57007	Multiglomerular mALT lvPN DP1l+DL1+DL4+6 LTS 0.86 57008 ML	neuron	female organism|adult brain	catmaid_fafb:57007	57007
+57011	Multiglomerular mALT lvPN DA1+DC3+VC4+6 LTS 0.92 DA1 Type 1b R 57012 NS	neuron	female organism|adult brain	catmaid_fafb:57011	57011
+57015	Multiglomerular mALT lvPN VC5+VM4+VM1+2 LTS 0.95 57016 IJA	neuron	female organism|adult brain	catmaid_fafb:57015	57015
+57019	Multiglomerular mALT VC4+DC3+VM5d+6 LTS 0.9 lvPN DA1 Type 1b R 57020 GA	neuron	female organism|adult brain	catmaid_fafb:57019	57019
+57023	Multiglomerular mALT lvPN VC4+DC3+DA1+4 LTS 0.96 DA1 Type 1b R  57024 NS	neuron	female organism|adult brain	catmaid_fafb:57023	57023
+57035	Multiglomerular mALT lvPN DA1+DC3+DA3+3 LTS 0.94 R 2 DA1 Type 2 R  2 57036 LK	neuron	female organism|adult brain	catmaid_fafb:57035	57035
+57039	Multiglomerular mALT lvPN VA7m+DL1+VA7l+6 LTS 0.91 57040 IJA	neuron	female organism|adult brain	catmaid_fafb:57039	57039
+57047	Multiglomerular mALT lvPN DC4+DC3+VA5+8 LTS 0.87 57048 IJA	neuron	female organism|adult brain	catmaid_fafb:57047	57047
+57051	Multiglomerular mALT lvPN VP2+VP5+VC5 LTS 0.97 57052 LK	neuron	female organism|adult brain	catmaid_fafb:57051	57051
+57059	Biglomerular mALT VP1m + VP2 lvPN 57060 ML ECM	neuron	female organism|adult brain	catmaid_fafb:57059	57059
+57063	Uniglomerular mALT VP2 + SEZ lvPN 57064 ML ECM	neuron	female organism|adult brain	catmaid_fafb:57063	57063
+57076	Multiglomerular mALT lvPN VA5+VA3+DC3+4 LTS 0.91 57077 ML	neuron	female organism|adult brain	catmaid_fafb:57076	57076
+57080	Multiglomerular mALT lvPN VA7m+DL1+VA3+7 LTS 0.88 57081 IJA	neuron	female organism|adult brain	catmaid_fafb:57080	57080
+57089	Multiglomerular mALT lvPN DA1+DC3+VA7l+5 LTS 0.9 DA1 Type 1b R 57091 IJA	neuron	female organism|adult brain	catmaid_fafb:57089	57089
+57114	Multiglomerular mALT lvPN VP2+VP5+VP1m LTS 0.97 57115 HG ECM	neuron	female organism|adult brain	catmaid_fafb:57114	57114
+57122	Multiglomerular mALT lvPN VP1m+VP2+VP5+1 LTS 0.95 57123 GA ECM	neuron	female organism|adult brain	catmaid_fafb:57122	57122
+57126	Multiglomerular mALT lvPN VP2+D+DA2+6 LTS 0.88 57127 LK	neuron	female organism|adult brain	catmaid_fafb:57126	57126
+57130	Uniglomerular mALT VC5+ lvPN bilateral 57131 LK	neuron	female organism|adult brain	catmaid_fafb:57130	57130
+57134	Multiglomerular mALT lvPN VP2+VP5+DC4+2 LTS 0.96 57135 GA	neuron	female organism|adult brain	catmaid_fafb:57134	57134
+57138	Multiglomerular mALT lvPN VP5+VP2+VP1m LTS 0.96 57139 IJA ECM	neuron	female organism|adult brain	catmaid_fafb:57138	57138
+57142	Multiglomerular mALT lvPN VP5+VP2+VP1m+1 LTS 0.95 57143 GA ECM	neuron	female organism|adult brain	catmaid_fafb:57142	57142
+57146	Uniglomerular mALT VP2 + SEZ lvPN 57147 HG SAC	neuron	female organism|adult brain	catmaid_fafb:57146	57146
+57158	Multiglomerular mALT lvPN DC3+DA1+DA3+3 LTS 0.95 DA1 Type 2 R 57159 GA	neuron	female organism|adult brain	catmaid_fafb:57158	57158
+57166	Uniglomerular mALT VP2 + SEZ lvPN 57167 LK	neuron	female organism|adult brain	catmaid_fafb:57166	57166
+57171	Multiglomerular mALT lvPN DL2d+VL1+VL2p+4 LTS 0.9 57172 LK	neuron	female organism|adult brain	catmaid_fafb:57171	57171
+57175	Multiglomerular mALT lvPN VC5+VM1+VM4+2 LTS 0.96 57176 IJA ECM	neuron	female organism|adult brain	catmaid_fafb:57175	57175
+57179	Multiglomerular mALT lvPN DA1 DA1+DA3+DC3+1 LTS 0.97 Type 2 R 57180 LK	neuron	female organism|adult brain	catmaid_fafb:57179	57179
+57192	Uniglomerular mALT VM4 lvPN 57193 LK	neuron	female organism|adult brain	catmaid_fafb:57192	57192
+57196	Multiglomerular mALT lvPN DL4+DL5+DP1l+3 LTS 0.93 57197 ML	neuron	female organism|adult brain	catmaid_fafb:57196	57196
+57200	Uniglomerular mALT VP1l+ lvPN 57201 NS ECM	neuron	female organism|adult brain	catmaid_fafb:57200	57200
+57204	Multiglomerular mALT lvPN VC3l+VC4+VL2p+4 LTS 0.92 57205 IJA	neuron	female organism|adult brain	catmaid_fafb:57204	57204
+57208	Multiglomerular mALT lvPN VL2p+VC3m+VC5+5 LTS 0.92 57209 IJA	neuron	female organism|adult brain	catmaid_fafb:57208	57208
+57212	Multiglomerular mALT lvPN DL4+VL2p+VL1+5 LTS 0.89 57213 IJA ECM	neuron	female organism|adult brain	catmaid_fafb:57212	57212
+57216	Uniglomerular mALT DL5 lvPN 57217 GA	neuron	female organism|adult brain	catmaid_fafb:57216	57216
+57220	Multiglomerular mALT lvPN VA4+DM1+DM3+5 LTS 0.91 57221 LK NAS	neuron	female organism|adult brain	catmaid_fafb:57220	57220
+57224	Uniglomerular mALT VP1l+ lvPN 57225 ML	neuron	female organism|adult brain	catmaid_fafb:57224	57224
+57232	Multiglomerular mALT lvPN DA2+DC4+VP1m+8 LTS 0.85 57233 GA	neuron	female organism|adult brain	catmaid_fafb:57232	57232
+57236	Uniglomerular mALT VC5+ lvPN bilateral 57237 LK ECM	neuron	female organism|adult brain	catmaid_fafb:57236	57236
+57258	Multiglomerular mALT adPN VL2p+VM4+DP1l+5 LTS 0.92 polyL 57259 LK	neuron	female organism|adult brain	catmaid_fafb:57258	57258
+57270	Multiglomerular mALT adPN VC3m+VM4+VC3l+1 LTS 0.95 polyL 57271 LK	neuron	female organism|adult brain	catmaid_fafb:57270	57270
+57278	Multiglomerular mALT adPN VC3l+VM4+VC3m+8 LTS 0.84 polyL 57279 IJA	neuron	female organism|adult brain	catmaid_fafb:57278	57278
+57389	Multiglomerular mALT lPN VL1+VM7v+VA5+6 LTS 0.86 57390 IJA	neuron	female organism|adult brain	catmaid_fafb:57389	57389
+57394	Multiglomerular mALT lPN VA7l+DA4l+VL1+9 LTS 0.89 57395 IJA	neuron	female organism|adult brain	catmaid_fafb:57394	57394
+57430	Multiglomerular mALT lPN VP2+VL1+VP3+2 LTS 0.94 bilateral 57431 IJA ECM	neuron	female organism|adult brain	catmaid_fafb:57430	57430
+57434	Multiglomerular mALT lPN VP2+VP5+VP3+4 LTS 0.92 bilateral 57435 LK	neuron	female organism|adult brain	catmaid_fafb:57434	57434
+57442	Multiglomerular mALT lPN VP1l+DC4+DL5+8 LTS 0.86 57443 IJA	neuron	female organism|adult brain	catmaid_fafb:57442	57442
+57446	Multiglomerular mALT lPN VP1d+VC1+VM7v+10 LTS 0.85 57447 NS NM 	neuron	female organism|adult brain	catmaid_fafb:57446	57446
+57450	Multiglomerular mALT lPN VL1+VA7l+DA2+7 LTS 0.91 57451 LK	neuron	female organism|adult brain	catmaid_fafb:57450	57450
+57455	Multiglomerular mALT lPN VA7l+VA7m+DC2+5 LTS 0.92 57456 LK	neuron	female organism|adult brain	catmaid_fafb:57455	57455
+57459	Uniglomerular mALT DL3 lPN 57460 LK	neuron	female organism|adult brain	catmaid_fafb:57459	57459
+57463	Multiglomerular mALT lPN VL1+VP2+VP1l+2 LTS 0.94 57464 ML	neuron	female organism|adult brain	catmaid_fafb:57463	57463
+57467	Multiglomerular mALT lPN DC4+V+DL5+7 LTS 0.84 57468 LK	neuron	female organism|adult brain	catmaid_fafb:57467	57467
+57475	Multiglomerular mALT smPN VP3+VP5+VP2 LTS 0.97 bilateral 57476 IJA	neuron	female organism|adult brain	catmaid_fafb:57475	57475
+57479	OA-VUMa2 57480 GA FML	neuron	female organism|adult brain	catmaid_fafb:57479	57479
+57487	Biglomerular mALT VP1l + VP3 ilPN bilateral 57488 ML ECM	neuron	female organism|adult brain	catmaid_fafb:57487	57487
+57495	Biglomerular mALT VP1l + VP3 ilPN bilateral 57496 LK ECM	neuron	female organism|adult brain	catmaid_fafb:57495	57495
+57536	Multiglomerular mALT l2PN VL2p+DP1l+VL2a+7 LTS 0.94 57537 LK NM 	neuron	female organism|adult brain	catmaid_fafb:57536	57536
+57543	Multiglomerular mALT adPN V+DL1+VC3l+11 LTS 0.78 57544 ML NS 	neuron	female organism|adult brain	catmaid_fafb:57543	57543
+73926	Multiglomerular mALT adPN DP1l+DL2v+VL2a+1 LTS 0.95 73927 LK NS 	neuron	female organism|adult brain	catmaid_fafb:73926	73926
+77661	Uniglomerular mALT DL3 lPN 77662 LK	neuron	female organism|adult brain	catmaid_fafb:77661	77661
+80008	Multiglomerular mALT adPN VC3l+VC3m+VA3+9 LTS 0.83 polyL 80009 ML	neuron	female organism|adult brain	catmaid_fafb:80008	80008
+177540	Multiglomerular mALT lvPN DP1l+VA4+DL2v+7 LTS 0.85 177541 SMM NAS	neuron	female organism|adult brain	catmaid_fafb:177540	177540
+177545	Multiglomerular mALT lvPN VM3+VM7v+VA2+31 LTS 0.43 177546 SMM AW	neuron	female organism|adult brain	catmaid_fafb:177545	177545
+177549	Multiglomerular mALT lvPN DA1+VA2+VC4+4 LTS 0.91 177550 SMM AW	neuron	female organism|adult brain	catmaid_fafb:177549	177549
+177584	Multiglomerular mALT lvPN VC4+DL3+VM3+29 LTS 0.48 177585 NAS ZSG	neuron	female organism|adult brain	catmaid_fafb:177584	177584
+177656	Multiglomerular mALT lvPN VC4+DP1l+DM1+2 LTS 0.93 177657 EW AW	neuron	female organism|adult brain	catmaid_fafb:177656	177656
+177706	Uniglomerular mALT DL3 lPN 177707 AEB	neuron	female organism|adult brain	catmaid_fafb:177706	177706
+177997	Multiglomerular mALT lvPN VL2p+VM7v+DM3+16 LTS 0.68 177998 SMM	neuron	female organism|adult brain	catmaid_fafb:177997	177997
+181551	LHCENT8#1 181552 Vieille Priére Bouddhique EW ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:181551	181551
+182684	Multiglomerular mALT lPN VP1d+DC4+VC1+5 LTS 0.93 182685 AES	neuron	female organism|adult brain	catmaid_fafb:182684	182684
+192430	Multiglomerular t2-mALT lvPN VP1m+VP5+VP1l LTS 0.97 192431 SMM ECM	neuron	female organism|adult brain	catmaid_fafb:192430	192430
+199461	Multiglomerular mALT l2PN DA2+VM7v+VP1m+14 LTS 0.76 Tikka Masala 199462 AEB NS 	neuron	female organism|adult brain	catmaid_fafb:199461	199461
+434153	Uniglomerular mALT VM1 lPN 434154	neuron	female organism|adult brain	catmaid_fafb:434153	434153
+483289	Uniglomerular mALT DL4 adPN 483290 JSL FML RJVR	neuron	female organism|adult brain	catmaid_fafb:483289	483289
+488055	LHAV4c1#1 488056 downstream DA1 GSXEJ	neuron	female organism|adult brain	catmaid_fafb:488055	488055
+531931	Uniglomerular mlALT VA1d vPN 531932 ASB GSXEJ	neuron	female organism|adult brain	catmaid_fafb:531931	531931
+554327	LHCENT8#2 554328 IJA Vieille Priére Bouddhique	neuron	female organism|adult brain	catmaid_fafb:554327	554327
+563760	LHCENT4#1 563761 Mighty Little RJVR GSXEJ ASB 	neuron	female organism|adult brain	catmaid_fafb:563760	563760
+583167	Multiglomerular mlALT vPN VA1d+VA7l+VA1v+5 LTS 0.93 Laphroaig 583168 AJES RJVR	neuron	female organism|adult brain	catmaid_fafb:583167	583167
+699859	Uniglomerular mALT DL2d adPN 699860 NM-NS	neuron	female organism|adult brain	catmaid_fafb:699859	699859
+709943	Multiglomerular mlALT vPN VC4+DC4+DM4+11 LTS 0.84 Picard 709944 ASB	neuron	female organism|adult brain	catmaid_fafb:709943	709943
+856254	OA-VUMa2 856255 NM	neuron	female organism|adult brain	catmaid_fafb:856254	856254
+1101751	LHPV6a3#1 1101752 FML RJVR Caligari	neuron	female organism|adult brain	catmaid_fafb:1101751	1101751
+1136366	Multiglomerular mALT lvPN DM3+DM4+VC4+6 LTS 0.87 56980 IJA	neuron	female organism|adult brain	catmaid_fafb:1136366	1136366
+1136923	Multiglomerular mALT lvPN DM1+DM4+DP1m LTS 0.97 57032 IJA AW	neuron	female organism|adult brain	catmaid_fafb:1136923	1136923
+1137895	Multiglomerular mALT lvPN VM3+VC4+DA1+3 LTS 0.91 56992 HG NAS	neuron	female organism|adult brain	catmaid_fafb:1137895	1137895
+1142316	Multiglomerular mALT lvPN DL5+DC1+DP1m+6 LTS 0.87 177664 ECS	neuron	female organism|adult brain	catmaid_fafb:1142316	1142316
+1144225	Multiglomerular mALT lvPN DM2+DM1+DP1m+5 LTS 0.91 177682 NSR	neuron	female organism|adult brain	catmaid_fafb:1144225	1144225
+1144402	Multiglomerular mALT lvPN DM1+DM3+DM2+2 LTS 0.95 177691 MR	neuron	female organism|adult brain	catmaid_fafb:1144402	1144402
+1149437	aSP-g1b#2 1149438 IT	neuron	female organism|adult brain	catmaid_fafb:1149437	1149437
+1288606	LHCENT6#1 1288607 Opportunity ASB	neuron	female organism|adult brain	catmaid_fafb:1288606	1288606
+1298816	LHAV6a3#1 1298817 Peacock Bass ASB	neuron	female organism|adult brain	catmaid_fafb:1298816	1298816
+1299626	LHPV5a2#2 1299627 You Came To * But Left Your * At Home ASB	neuron	female organism|adult brain	catmaid_fafb:1299626	1299626
+1299740	LHMB1#1 1299741 Birthday ASB	neuron	female organism|adult brain	catmaid_fafb:1299740	1299740
+1313071	WEDPN3#1 1313072 Sparta ASB RJVR PDP	neuron	female organism|adult brain	catmaid_fafb:1313071	1313071
+1313334	WEDPN3#3 1313335 Athens ASB	neuron	female organism|adult brain	catmaid_fafb:1313334	1313334
+1316519	LHPV2b5#1 1316520 Golden Eagle GSXEJ RJVR	neuron	female organism|adult brain	catmaid_fafb:1316519	1316519
+1334915	Multiglomerular lALT l2PN DM4+DM1+DM2+28 LTS 0.52 1334916 ARH	neuron	female organism|adult brain	catmaid_fafb:1334915	1334915
+1339810	Multiglomerular lALT l2PN V+DL2v+VM7d+13 LTS 0.89 1339811 ARH	neuron	female organism|adult brain	catmaid_fafb:1339810	1339810
+1356477	Uniglomerular t10-lALT VP3+ l2PN bilateral 1356478 ARH	neuron	female organism|adult brain	catmaid_fafb:1356477	1356477
+1363077	Multiglomerular t3-mALT l2PN VC5+VC3m+VM1+9 LTS 0.89 1363078 ARH	neuron	female organism|adult brain	catmaid_fafb:1363077	1363077
+1372988	Multiglomerular mALT lvPN VP5+VP2+VP3+2 LTS 0.94 1372989 ARH	neuron	female organism|adult brain	catmaid_fafb:1372988	1372988
+1415926	LHAV6a1#1 1415927 Haddock ASB	neuron	female organism|adult brain	catmaid_fafb:1415926	1415926
+1532304	Uniglomerular mlALT DP1m vPN 1532305 ASB	neuron	female organism|adult brain	catmaid_fafb:1532304	1532304
+1533152	Uniglomerular mlALT VM2 vPN 1533153 ASB	neuron	female organism|adult brain	catmaid_fafb:1533152	1533152
+1533901	Multiglomerular mlALT vPN VM5d+DM2+VM7d+4 LTS 0.92 1533902 ASB	neuron	female organism|adult brain	catmaid_fafb:1533901	1533901
+1664544	Multiglomerular t3-mALT l2PN VL1+VP5+VP2+2 LTS 0.95 bilateral 1664545 RJVR ECM	neuron	female organism|adult brain	catmaid_fafb:1664544	1664544
+1695556	Multiglomerular mALT adPN DL2v+DP1l+DL2d LTS 0.98 polyL4 1695557	neuron	female organism|adult brain	catmaid_fafb:1695556	1695556
+1702624	Uniglomerular mlALT VL2p vPN 1702625 ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:1702624	1702624
+1703751	LHAD1b2#12 1703752 FML Cremini - downstream of DA2	neuron	female organism|adult brain	catmaid_fafb:1703751	1703751
+1703872	LHPV2a2#1 1703873 FML Beech - downstream of DA2	neuron	female organism|adult brain	catmaid_fafb:1703872	1703872
+1706774	LHAV3c1#1 1706775 RJVR Cornet	neuron	female organism|adult brain	catmaid_fafb:1706774	1706774
+1710793	LHPV4a1#3 1710794 Tipi ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:1710793	1710793
+1710886	LHPV2c1#1 1710887 Fial RJVR	neuron	female organism|adult brain	catmaid_fafb:1710886	1710886
+1712057	Uniglomerular mALT VP2+ adPN 1712058 ECM	neuron	female organism|adult brain	catmaid_fafb:1712057	1712057
+1720254	Multiglomerular mALT lvPN DA3+DA1+VC3l+8 LTS 0.84 1720255	neuron	female organism|adult brain	catmaid_fafb:1720254	1720254
+1722202	Uniglomerular mlALT VA1v vPN Double mlALT 1722203 RJVR	neuron	female organism|adult brain	catmaid_fafb:1722202	1722202
+1722886	Multiglomerular mlALT vPN VM7v+VM5d+DC4+6 LTS 0.87 1532306 ASB	neuron	female organism|adult brain	catmaid_fafb:1722886	1722886
+1724508	Multiglomerular mlALT vPN DA2+DA4m+DC1+4 LTS 0.94 1724509 RJVR	neuron	female organism|adult brain	catmaid_fafb:1724508	1724508
+1724523	Uniglomerular mlALT VL2a vPN 1724524 RJVR	neuron	female organism|adult brain	catmaid_fafb:1724523	1724523
+1725235	Multiglomerular mlALT vPN VA7l+VA3+DL2v+9 LTS 0.85 1725236 RJVR	neuron	female organism|adult brain	catmaid_fafb:1725235	1725235
+1727913	Multiglomerular lALT l2PN DP1l+DP1m+DL2v+23 LTS 0.66 1727914 RJVR ZM	neuron	female organism|adult brain	catmaid_fafb:1727913	1727913
+1759551	Multiglomerular mlALT vPN DM3+DC4+VM7v+6 LTS 0.89 1759552 LHN RJVR	neuron	female organism|adult brain	catmaid_fafb:1759551	1759551
+1803633	LHAD3a10#1 1803634 Shaky AJES	neuron	female organism|adult brain	catmaid_fafb:1803633	1803633
+1811442	Uniglomerular mlALT DA1 vPN mlALTed Milk 1811443 RJVR	neuron	female organism|adult brain	catmaid_fafb:1811442	1811442
+1812558	LHAD3a8#1 1812559 KM	neuron	female organism|adult brain	catmaid_fafb:1812558	1812558
+1853423	LHAV4a4#2 1853424 Accursed RJVR - check FML	neuron	female organism|adult brain	catmaid_fafb:1853423	1853423
+1866895	LHCENT7#1 1866896 Morpholino ASB	neuron	female organism|adult brain	catmaid_fafb:1866895	1866895
+1870230	LHAV2a3#1 1870231 RJVR AJES PS	neuron	female organism|adult brain	catmaid_fafb:1870230	1870230
+1879479	LHAD1f4#1 1879480 Aspis-like	neuron	female organism|adult brain	catmaid_fafb:1879479	1879479
+1903280	Uniglomerular mlALT VL2a vPN 1903281 GSXEJ	neuron	female organism|adult brain	catmaid_fafb:1903280	1903280
+1909670	Multiglomerular mlALT vPN VA1d+DC3+VA6+6 LTS 0.93 Laphroaig like 1909671 RJVR	neuron	female organism|adult brain	catmaid_fafb:1909670	1909670
+1911124	LHAV4a4#1 1911125 FML PS RJVR	neuron	female organism|adult brain	catmaid_fafb:1911124	1911124
+1967862	LHAV1a2#1 1967863 Pheasant AJES	neuron	female organism|adult brain	catmaid_fafb:1967862	1967862
+2042935	LHPV5d1#1 2042936 A Spoon in Many Liquids PS	neuron	female organism|adult brain	catmaid_fafb:2042935	2042935
+2050178	Multiglomerular mlALT vPN VM7d+VC3l+DM6+5 LTS 0.9 2050179 ASB	neuron	female organism|adult brain	catmaid_fafb:2050178	2050178
+2051048	LHPV12a1#2 2051049 Beauty Left ASB	neuron	female organism|adult brain	catmaid_fafb:2051048	2051048
+2070199	Multiglomerular t2-mALT ilPN DL4+DA2+DA4l+22 LTS 0.62 bilateral 2070200 PMJ	neuron	female organism|adult brain	catmaid_fafb:2070199	2070199
+2096700	LHPV4b3#2 2096701 Phil Harris RJVR	neuron	female organism|adult brain	catmaid_fafb:2096700	2096700
+2122447	WEDPN1A#1 2122448 RJVR	neuron	female organism|adult brain	catmaid_fafb:2122447	2122447
+2153398	WEDPN4#1 2153399 Double Trouble RJVR ASB	neuron	female organism|adult brain	catmaid_fafb:2153398	2153398
+2182498	Multiglomerular mlALT vPN DC3+VA5+VA1d+3 LTS 0.94 2182497 RJVR	neuron	female organism|adult brain	catmaid_fafb:2182498	2182498
+2204528	LHPV5a1#4 2204529 Mr Hooly Hooly ASB	neuron	female organism|adult brain	catmaid_fafb:2204528	2204528
+2227866	Uniglomerular mlALT VA1v vPN Dewar's 2227867 RJVR	neuron	female organism|adult brain	catmaid_fafb:2227866	2227866
+2227995	WEDPN1A#2 2227996 Grey Herron SD	neuron	female organism|adult brain	catmaid_fafb:2227995	2227995
+2319457	Uniglomerular mALT DA1 lPN PN036 2319458 DB RJVR	neuron	female organism|adult brain	catmaid_fafb:2319457	2319457
+2321681	Uniglomerular mALT VL2a adPN 2321682 XZ	neuron	female organism|adult brain	catmaid_fafb:2321681	2321681
+2334841	Uniglomerular mlALT DA1 vPN mlALTed Milk 2334842 RJVR	neuron	female organism|adult brain	catmaid_fafb:2334841	2334841
+2335985	Uniglomerular mALT DL3 lPN 2335986 RJVR	neuron	female organism|adult brain	catmaid_fafb:2335985	2335985
+2340896	Uniglomerular mALT DL3 lPN 2340897 GSXEJ RJVR	neuron	female organism|adult brain	catmaid_fafb:2340896	2340896
+2345089	Uniglomerular mALT DA1 lPN PN021 2345090 DB RJVR	neuron	female organism|adult brain	catmaid_fafb:2345089	2345089
+2348022	Uniglomerular mALT VA7m lPN 2348023 XZ	neuron	female organism|adult brain	catmaid_fafb:2348022	2348022
+2349018	Uniglomerular mALT DL3 lPN 2349019 RJVR	neuron	female organism|adult brain	catmaid_fafb:2349018	2349018
+2349022	Uniglomerular mALT DL3 lPN 2349023 RJVR	neuron	female organism|adult brain	catmaid_fafb:2349022	2349022
+2349030	Uniglomerular mALT DL3 lPN (outlier) 2349031 RJVR	neuron	female organism|adult brain	catmaid_fafb:2349030	2349030
+2350853	Uniglomerular mALT DA3 adPN 2350854 XZ	neuron	female organism|adult brain	catmaid_fafb:2350853	2350853
+2352723	Uniglomerular mALT VA7m lPN 2352724 RJVR ARJ XZ	neuron	female organism|adult brain	catmaid_fafb:2352723	2352723
+2353601	Uniglomerular mALT VA5 lPN 2353602 RJVR	neuron	female organism|adult brain	catmaid_fafb:2353601	2353601
+2374382	Uniglomerular mALT DA4m adPN 4185936 RGT	neuron	female organism|adult brain	catmaid_fafb:2374382	2374382
+2379517	Uniglomerular mALT DA1 lPN PN022 2379518 DB RJVR	neuron	female organism|adult brain	catmaid_fafb:2379517	2379517
+2380564	Uniglomerular mALT DA1 lPN 2380565 RJVR	neuron	female organism|adult brain	catmaid_fafb:2380564	2380564
+2381432	Uniglomerular mlALT VA1v vPN (outlier) 2381433 RJVR	neuron	female organism|adult brain	catmaid_fafb:2381432	2381432
+2381753	Uniglomerular mALT DA1 lPN 2381754 RJVR	neuron	female organism|adult brain	catmaid_fafb:2381753	2381753
+2405329	Uniglomerular mALT DA2 lPN 2405330 RJVR	neuron	female organism|adult brain	catmaid_fafb:2405329	2405329
+2405823	Uniglomerular mALT DA2 lPN 2405824 RJVR	neuron	female organism|adult brain	catmaid_fafb:2405823	2405823
+2405959	Uniglomerular mALT DA2 lPN 2405960 RJVR	neuron	female organism|adult brain	catmaid_fafb:2405959	2405959
+2425247	LHPV5a2#1 2425248 Falcon ASB	neuron	female organism|adult brain	catmaid_fafb:2425247	2425247
+2444645	Uniglomerular mALT DA4l adPN 2444646 RJVR	neuron	female organism|adult brain	catmaid_fafb:2444645	2444645
+2449653	Uniglomerular mALT DL2d adPN 2449654 XZ	neuron	female organism|adult brain	catmaid_fafb:2449653	2449653
+2449792	Uniglomerular mALT DA3 adPN 2449793 RJVR XZ	neuron	female organism|adult brain	catmaid_fafb:2449792	2449792
+2467659	Uniglomerular mALT DA2 lPN 2467660 RJVR	neuron	female organism|adult brain	catmaid_fafb:2467659	2467659
+2468193	Uniglomerular mALT DM5 lPN  2468194 RJVR	neuron	female organism|adult brain	catmaid_fafb:2468193	2468193
+2468708	Uniglomerular mALT DA2 lPN 2468709 RJVR	neuron	female organism|adult brain	catmaid_fafb:2468708	2468708
+2470860	Uniglomerular mALT DP1l adPN 2470861 RJVR ECM	neuron	female organism|adult brain	catmaid_fafb:2470860	2470860
+2474754	Uniglomerular mALT DC3 adPN PN020 2474755 DB RJVR	neuron	female organism|adult brain	catmaid_fafb:2474754	2474754
+2477473	aSP-g1b#1 2477474 GSXEJ	neuron	female organism|adult brain	catmaid_fafb:2477473	2477473
+2484510	Uniglomerular mlALT VP4 vPN bilateral 2484511 ECM JH	neuron	female organism|adult brain	catmaid_fafb:2484510	2484510
+2548003	LHPV4a10#1 2548004 Teal ASB	neuron	female organism|adult brain	catmaid_fafb:2548003	2548003
+2551627	Uniglomerular mALT VA1v adPN 2551628	neuron	female organism|adult brain	catmaid_fafb:2551627	2551627
+2561343	Uniglomerular mlALT VA1v vPN 2561344 RJVR	neuron	female organism|adult brain	catmaid_fafb:2561343	2561343
+2600341	Multiglomerular lALT l2PN VP2+VC5+VM1 LTS 0.97 bilateral 2600342 RJVR ECM	neuron	female organism|adult brain	catmaid_fafb:2600341	2600341
+2604019	Uniglomerular mALT DL2v adPN 2604020 FML ECM	neuron	female organism|adult brain	catmaid_fafb:2604019	2604019
+2610846	Uniglomerular mALT VM4 adPN 2610847 AES XZ	neuron	female organism|adult brain	catmaid_fafb:2610846	2610846
+2615448	Uniglomerular mALT VM5d adPN 2615449 FML XZ	neuron	female organism|adult brain	catmaid_fafb:2615448	2615448
+2633111	LHAV3a1#3 2633112 Craig - downstream of DL4 FML	neuron	female organism|adult brain	catmaid_fafb:2633111	2633111
+2639558	LHAV4d1#1 2639559 RJVR Upstream DL4 Euphonium	neuron	female organism|adult brain	catmaid_fafb:2639558	2639558
+2645953	Multiglomerular mlALT vPN DL3+DA1+DC3 LTS 0.97 Rockland 2645954 FML	neuron	female organism|adult brain	catmaid_fafb:2645953	2645953
+2653656	Uniglomerular mlALT VA1d vPN 2653657 RJVR	neuron	female organism|adult brain	catmaid_fafb:2653656	2653656
+2659704	LHAV1a1#1 2659705 FML Duck - downstream of DL4	neuron	female organism|adult brain	catmaid_fafb:2659704	2659704
+2684792	LHAV1a1#2 2684793 Pigeon RJVR FML ZM	neuron	female organism|adult brain	catmaid_fafb:2684792	2684792
+2693456	Uniglomerular mALT DC4 adPN 2693457 XZ	neuron	female organism|adult brain	catmaid_fafb:2693456	2693456
+2766186	Multiglomerular mlALT vPN VA4+DA3+VM3+37 LTS 0.3 Nibelung 2766187 RJVR	neuron	female organism|adult brain	catmaid_fafb:2766186	2766186
+2794070	LHAV1a3#1 2794071 Curiously Cinnamon ZM	neuron	female organism|adult brain	catmaid_fafb:2794070	2794070
+2831091	LHPV5a1#5 2831092 A Danger to Myself and Others RJVR AJES	neuron	female organism|adult brain	catmaid_fafb:2831091	2831091
+2839458	Uniglomerular mALT VA1d adPN 2839459 RJVR	neuron	female organism|adult brain	catmaid_fafb:2839458	2839458
+2842610	LHAD1b2#11 2842611 Alka Seltzer CMM	neuron	female organism|adult brain	catmaid_fafb:2842610	2842610
+2845576	Multiglomerular mlALT vPN D+VC1+VC2+2 LTS 0.94 2845577 RJVR	neuron	female organism|adult brain	catmaid_fafb:2845576	2845576
+2846667	Uniglomerular mlALT VL1 vPN 2846668 RJVR	neuron	female organism|adult brain	catmaid_fafb:2846667	2846667
+2851242	LHAV4g1#1 2851243 Dove RJVR	neuron	female organism|adult brain	catmaid_fafb:2851242	2851242
+2863104	Uniglomerular mALT DA1 lPN 57316 2863105 ML	neuron	female organism|adult brain	catmaid_fafb:2863104	2863104
+2992998	Multiglomerular mlALT vPN VC2+VA6+DC3+3 LTS 0.92 2992999 RJVR	neuron	female organism|adult brain	catmaid_fafb:2992998	2992998
+2999878	Uniglomerular mALT DA2 lPN 2999879 RJVR	neuron	female organism|adult brain	catmaid_fafb:2999878	2999878
+3003322	Multiglomerular mlALT vPN VM4+DL5+DM6+36 LTS 0.29 Twin of Nibelung 3003323 RJVR	neuron	female organism|adult brain	catmaid_fafb:3003322	3003322
+3020362	Multiglomerular mlALT vPN VC1+VM5v+VA7m LTS 0.97 3020363 RJVR ZM	neuron	female organism|adult brain	catmaid_fafb:3020362	3020362
+3075158	LHAD1b2#10 3075159 Howard Hughes JJ	neuron	female organism|adult brain	catmaid_fafb:3075158	3075158
+3078257	LHAD1b2#9 3078258 Oberon JJ	neuron	female organism|adult brain	catmaid_fafb:3078257	3078257
+3080086	LHAD1b2#8 3080087 Team Rocket RT JJ JH PS	neuron	female organism|adult brain	catmaid_fafb:3080086	3080086
+3080183	LHAD1c1#1 3080184 Dust World JJ PS	neuron	female organism|adult brain	catmaid_fafb:3080183	3080183
+3080225	LHAD1b2#7 3080226 Dark World JJ	neuron	female organism|adult brain	catmaid_fafb:3080225	3080225
+3139915	Multiglomerular mlALT vPN VA1d+VA1v+DA4l+2 LTS 0.96 3139916 RJVR	neuron	female organism|adult brain	catmaid_fafb:3139915	3139915
+3239781	Uniglomerular mALT DA1 lPN 3239782 RJVR	neuron	female organism|adult brain	catmaid_fafb:3239781	3239781
+3301234	Uniglomerular mlALT VL2a vPN 3301235	neuron	female organism|adult brain	catmaid_fafb:3301234	3301234
+3376158	LHPV6o1#1 3376159 Kabuki RJVR	neuron	female organism|adult brain	catmaid_fafb:3376158	3376158
+3394015	LHCENT1#1 3394016 Explorer ASB	neuron	female organism|adult brain	catmaid_fafb:3394015	3394015
+3416395	LHPV2f2#1 3416396 RJVR	neuron	female organism|adult brain	catmaid_fafb:3416395	3416395
+3420237	Uniglomerular mALT VC5 adPN 3420238 RJVR	neuron	female organism|adult brain	catmaid_fafb:3420237	3420237
+3467989	Multiglomerular mlALT vPN DC2+VC4+VC2+2 LTS 0.96 3467990 RJVR	neuron	female organism|adult brain	catmaid_fafb:3467989	3467989
+3481901	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	neuron	female organism|adult brain	catmaid_fafb:3481901	3481901
+3519113	Uniglomerular mALT VC1 lPN 3519114	neuron	female organism|adult brain	catmaid_fafb:3519113	3519113
+3646122	Uniglomerular mALT VA1d adPN 3646123	neuron	female organism|adult brain	catmaid_fafb:3646122	3646122
+3648956	Multiglomerular mALT lPN VP3+VP2+VL1+1 LTS 0.95 bilateral 57439 NS	neuron	female organism|adult brain	catmaid_fafb:3648956	3648956
+3663498	Multiglomerular mlALT vPN VA1v+VL2a+DA4l+3 LTS 0.94 3663499 RJVR	neuron	female organism|adult brain	catmaid_fafb:3663498	3663498
+3715995	Uniglomerular mALT VL2p adPN 3715996 ECM LB	neuron	female organism|adult brain	catmaid_fafb:3715995	3715995
+3742499	Uniglomerular mALT VP1l lvPN bilateral 3742500	neuron	female organism|adult brain	catmaid_fafb:3742499	3742499
+3771419	Multiglomerular mlALT vPN VM2+VC3l+VM5v+4 LTS 0.9 3771420 ASB	neuron	female organism|adult brain	catmaid_fafb:3771419	3771419
+3788293	LHPV5a1#1 3788294  Chester ASB	neuron	female organism|adult brain	catmaid_fafb:3788293	3788293
+3799421	WEDPN2B#3 3799422 Gregory Sylvester Xander Edmonton Jefferis RJVR GSXEJ	neuron	female organism|adult brain	catmaid_fafb:3799421	3799421
+3813278	Multiglomerular mlALT vPN DA3+DC2+DA2+4 LTS 0.93 3813279 ASB ECM	neuron	female organism|adult brain	catmaid_fafb:3813278	3813278
+3813282	Multiglomerular mlALT vPN VM3+VC4+VA3+5 LTS 0.89 3813283 PS	neuron	female organism|adult brain	catmaid_fafb:3813282	3813282
+3813322	Multiglomerular mlALT vPN DC1+VM7v+DA2+3 LTS 0.91 3813323 ECM	neuron	female organism|adult brain	catmaid_fafb:3813322	3813322
+3813331	Uniglomerular mlALT DM4 vPN 3813332 ASB	neuron	female organism|adult brain	catmaid_fafb:3813331	3813331
+3813335	Multiglomerular mlALT vPN DM2+VM7d+VC3l+2 LTS 0.95 3813336 ASB	neuron	female organism|adult brain	catmaid_fafb:3813335	3813335
+3813343	Uniglomerular mlALT VM2 vPN 3813344 PS	neuron	female organism|adult brain	catmaid_fafb:3813343	3813343
+3813347	Multiglomerular mlALT vPN VM7d+DM3+DC4+4 LTS 0.91 3813348 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813347	3813347
+3813351	Multiglomerular mlALT vPN DA2+VM7v+DC1+2 LTS 0.93 3813352 ECM	neuron	female organism|adult brain	catmaid_fafb:3813351	3813351
+3813399	Multiglomerular mlALT vPN DP1m+DM3+DP1l+1 LTS 0.97 3813400 JS	neuron	female organism|adult brain	catmaid_fafb:3813399	3813399
+3813403	Uniglomerular mlALT DC4 vPN 3813404 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813403	3813403
+3813424	Multiglomerular mlALT vPN VP1m+VP1l+VP5+2 LTS 0.97 3813425 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813424	3813424
+3813430	Multiglomerular mlALT vPN VM5v+VC1+VM7d+2 LTS 0.93 3813431 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813430	3813430
+3813434	Multiglomerular mlALT vPN VM7d+VM5d+VM2+5 LTS 0.94 3813435 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813434	3813434
+3813438	Multiglomerular mlALT vPN VP1l+VP1d+VM1+2 LTS 0.95 3813439 ECM	neuron	female organism|adult brain	catmaid_fafb:3813438	3813438
+3813442	Multiglomerular mlALT vPN VP1d+VP1m+VP1l+3 LTS 0.93 3813443 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813442	3813442
+3813447	Multiglomerular mlALT vPN VP1d+VP1m+VP1l+4 LTS 0.94 3813448 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813447	3813447
+3813451	Multiglomerular mlALT vPN VM7v+VA7m+VM5v+4 LTS 0.89 3813452 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813451	3813451
+3813455	Uniglomerular mlALT VL2a vPN 3813456 RJVR	neuron	female organism|adult brain	catmaid_fafb:3813455	3813455
+3813483	Multiglomerular mlALT vPN DA2+VM7v+VC1+3 LTS 0.94 3813484 ASB	neuron	female organism|adult brain	catmaid_fafb:3813483	3813483
+3813487	Multiglomerular mlALT vPN VM7v+DA2+VM7d+6 LTS 0.89 3813488 ECM	neuron	female organism|adult brain	catmaid_fafb:3813487	3813487
+3813495	Multiglomerular mlALT vPN VM7v+DA2+DC4+1 LTS 0.96 3813496 ECM	neuron	female organism|adult brain	catmaid_fafb:3813495	3813495
+3813499	Multiglomerular mlALT vPN DA4m+DA2+VM7v+5 LTS 0.9 4632116 ASB	neuron	female organism|adult brain	catmaid_fafb:3813499	3813499
+3842493	Multiglomerular mlALT vPN DL1+D+VC1+5 LTS 0.9 Midas 3842494 SD	neuron	female organism|adult brain	catmaid_fafb:3842493	3842493
+3877150	LHAD1b2#6 3877151 Tech World JJ PS	neuron	female organism|adult brain	catmaid_fafb:3877150	3877150
+3892961	Uniglomerular mALT VA1v adPN 3892962 RJVR	neuron	female organism|adult brain	catmaid_fafb:3892961	3892961
+3897655	LHPV4a1#2 3897656 Christine Daaé SD	neuron	female organism|adult brain	catmaid_fafb:3897655	3897655
+3903440	Multiglomerular mlALT vPN DC3+VC1+VC2+1 LTS 0.95 Frieda 3903441 SD	neuron	female organism|adult brain	catmaid_fafb:3903440	3903440
+3908507	Multiglomerular lALT l2PN VP4+VP1l+VL2p LTS 0.97 3908508 RJVR ECM	neuron	female organism|adult brain	catmaid_fafb:3908507	3908507
+3922783	Multiglomerular mlALT vPN VL2p+VL2a+VA7l+5 LTS 0.92 Be Repulsed 3922784 RJVR	neuron	female organism|adult brain	catmaid_fafb:3922783	3922783
+3933006	WEDPN3#2 3933007 Athens	neuron	female organism|adult brain	catmaid_fafb:3933006	3933006
+3933200	Uniglomerular mALT DL2d adPN 3933201 XZ	neuron	female organism|adult brain	catmaid_fafb:3933200	3933200
+3954226	WEDPN7C#2 3954227 Sprig ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:3954226	3954226
+3959520	Multiglomerular mlALT vPN D+VC1+VA3+5 LTS 0.91 3959521 ASB SD	neuron	female organism|adult brain	catmaid_fafb:3959520	3959520
+3998193	Multiglomerular mlALT vPN VA1d+DA4l+DC3+4 LTS 0.96 3998194 RJVR	neuron	female organism|adult brain	catmaid_fafb:3998193	3998193
+3999003	Multiglomerular mlALT vPN VL2a+VL2p+VA1v+6 LTS 0.93 3999004 RJVR	neuron	female organism|adult brain	catmaid_fafb:3999003	3999003
+4002166	Multiglomerular t9-lALT lv2PN VP2+VC2+VP1m+4 LTS 0.94 4002167 PDP	neuron	female organism|adult brain	catmaid_fafb:4002166	4002166
+4027387	WEDPN8C#1 4027388 Giant Ibis RJVR	neuron	female organism|adult brain	catmaid_fafb:4027387	4027387
+4041464	Uniglomerular t1-mALT V l2PN Cruikshank 4041465 RJVR MEB GSXEJ	neuron	female organism|adult brain	catmaid_fafb:4041464	4041464
+4044614	LHPV4a2#2 4044615 Jolene SD	neuron	female organism|adult brain	catmaid_fafb:4044614	4044614
+4058666	Multiglomerular t2-mALT lvPN VP1m+VP5+VP1l+1 LTS 0.96 4058667 ECM	neuron	female organism|adult brain	catmaid_fafb:4058666	4058666
+4100701	LHPV4k1#1 4100702 Legolas RJVR SD	neuron	female organism|adult brain	catmaid_fafb:4100701	4100701
+4163773	Uniglomerular mALT DM2 lPN 4163774 RJVR SB	neuron	female organism|adult brain	catmaid_fafb:4163773	4163773
+4164206	Uniglomerular mALT DM2 lPN 4164207 XZ	neuron	female organism|adult brain	catmaid_fafb:4164206	4164206
+4182038	LHPD3a2#1 4182039 Ragdoll ASB	neuron	female organism|adult brain	catmaid_fafb:4182038	4182038
+4195469	Multiglomerular lALT l2PN VP1m+VM7d+VM7v+9 LTS 0.87 4195470 RJVR	neuron	female organism|adult brain	catmaid_fafb:4195469	4195469
+4207871	Uniglomerular mALT DA1 lPN 4207872 RJVR	neuron	female organism|adult brain	catmaid_fafb:4207871	4207871
+4215506	LHPV4a5#1 4215507 Valjean SD	neuron	female organism|adult brain	catmaid_fafb:4215506	4215506
+4267053	WEDPN1A#3 4267054 I BELIEVE IN ME SD RJVR	neuron	female organism|adult brain	catmaid_fafb:4267053	4267053
+4280558	WEDPN1B#1 4280559 SD RJVR Today I found a soma	neuron	female organism|adult brain	catmaid_fafb:4280558	4280558
+4340854	Uniglomerular mlALT DL2d vPN Kahlo 4340855 ASB SD	neuron	female organism|adult brain	catmaid_fafb:4340854	4340854
+4467245	Uniglomerular mALT VA1v adPN 4467246 RJVR	neuron	female organism|adult brain	catmaid_fafb:4467245	4467245
+4491591	Multiglomerular mlALT vPN VA6+VA1d+DC2+3 LTS 0.94 4491592 RJVR GSXEJ	neuron	female organism|adult brain	catmaid_fafb:4491591	4491591
+4494818	Uniglomerular mALT D adPN 4494819 ARJ RJVR	neuron	female organism|adult brain	catmaid_fafb:4494818	4494818
+4494848	Uniglomerular mALT DL2v adPN dbock 4494849 ARJ	neuron	female organism|adult brain	catmaid_fafb:4494848	4494848
+4494870	Uniglomerular mALT VM5d adPN 4494871	neuron	female organism|adult brain	catmaid_fafb:4494870	4494870
+4494902	Uniglomerular mALT VC3l adPN 4494903 XZ	neuron	female organism|adult brain	catmaid_fafb:4494902	4494902
+4494955	Uniglomerular mALT DL2v adPN 4494956 XZ	neuron	female organism|adult brain	catmaid_fafb:4494955	4494955
+4494998	Uniglomerular mALT VM5d adPN 4494999	neuron	female organism|adult brain	catmaid_fafb:4494998	4494998
+4495013	Uniglomerular mALT VA7l adPN 4495014 ARJ ECM MC	neuron	female organism|adult brain	catmaid_fafb:4495013	4495013
+4507894	Uniglomerular mlALT VL2p vPN 4507895	neuron	female organism|adult brain	catmaid_fafb:4507894	4507894
+4513533	LHAD1b2#5 4513534 Hamburger CMM	neuron	female organism|adult brain	catmaid_fafb:4513533	4513533
+4564401	Uniglomerular mALT DC2 adPN 4564402 RJVR	neuron	female organism|adult brain	catmaid_fafb:4564401	4564401
+4586967	Uniglomerular mALT VC3l adPN 4586968 RJVR XZ	neuron	female organism|adult brain	catmaid_fafb:4586967	4586967
+4624321	Multiglomerular mlALT vPN VA4+DA1+VA1d+2 LTS 0.96 4624322 RJVR	neuron	female organism|adult brain	catmaid_fafb:4624321	4624321
+4624325	Uniglomerular mlALT DC4 vPN 4624326 RJVR	neuron	female organism|adult brain	catmaid_fafb:4624325	4624325
+4624334	Multiglomerular mlALT vPN VM7d+DM2+VM5d+2 LTS 0.94 4624335 RJVR	neuron	female organism|adult brain	catmaid_fafb:4624334	4624334
+4624338	Multiglomerular mlALT vPN DM3+DC4+DC2+1 LTS 0.96 4624339 ASB PS	neuron	female organism|adult brain	catmaid_fafb:4624338	4624338
+4624346	Multiglomerular mlALT vPN DP1m+DP1l+DL2d+4 LTS 0.91 4624347 PS	neuron	female organism|adult brain	catmaid_fafb:4624346	4624346
+4624362	Multiglomerular mlALT vPN VM3+VC4+VA2 LTS 0.97 4624363 RJVR	neuron	female organism|adult brain	catmaid_fafb:4624362	4624362
+4624374	Uniglomerular mlALT VM2 vPN 4624375 ASB	neuron	female organism|adult brain	catmaid_fafb:4624374	4624374
+4624378	Multiglomerular mlALT vPN VM7d+VM5d+DC4+6 LTS 0.92 4624379 RJVR	neuron	female organism|adult brain	catmaid_fafb:4624378	4624378
+4631791	Multiglomerular mlALT vPN DA2+VP1m+VP1l+2 LTS 0.93 4631792 ASB PS	neuron	female organism|adult brain	catmaid_fafb:4631791	4631791
+4632023	Multiglomerular mlALT vPN VP1d+VP1m+VP1l LTS 0.96 4632024 PS	neuron	female organism|adult brain	catmaid_fafb:4632023	4632023
+4632091	Uniglomerular mlALT DP1l vPN 4624559 ASB PS	neuron	female organism|adult brain	catmaid_fafb:4632091	4632091
+4632101	Multiglomerular mlALT vPN VM7v+DC4+DA2+2 LTS 0.94 4632102 ASB	neuron	female organism|adult brain	catmaid_fafb:4632101	4632101
+4632128	Multiglomerular mlALT vPN VA3+VC4+VM5v+5 LTS 0.92 4632129 RJVR	neuron	female organism|adult brain	catmaid_fafb:4632128	4632128
+4632208	Multiglomerular mlALT vPN DC4+VA7l+VA5+9 LTS 0.85 4632209 PS	neuron	female organism|adult brain	catmaid_fafb:4632208	4632208
+4662243	Multiglomerular mlALT vPN VM7v+VC4+DC2+1 LTS 0.95 4662244 ASB ZM	neuron	female organism|adult brain	catmaid_fafb:4662243	4662243
+4671556	Biglomerular t10-lALT VP3 + VP5 l2PN 4671557 ZM ECM	neuron	female organism|adult brain	catmaid_fafb:4671556	4671556
+4672476	WEDPN5#1 4672477 Flamingo PMJ	neuron	female organism|adult brain	catmaid_fafb:4672476	4672476
+4672650	Uniglomerular t10-lALT VP5 l2PN 4672651 ZM ECM	neuron	female organism|adult brain	catmaid_fafb:4672650	4672650
+4744251	LHAD1b2#1 4744252 Home World JJ ZM	neuron	female organism|adult brain	catmaid_fafb:4744251	4744251
+4812228	Uniglomerular mlALT DL2d vPN 4812229 RJVR SD	neuron	female organism|adult brain	catmaid_fafb:4812228	4812228
+4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral 4869883 ECM	neuron	female organism|adult brain	catmaid_fafb:4869882	4869882
+4876532	Biglomerular t10-lALT VP5 + VP2 l2PN 4876533 RJVR	neuron	female organism|adult brain	catmaid_fafb:4876532	4876532
+4905365	Multiglomerular t4-mALT spPN DP1l+DM4+VA4+17 LTS 0.75 4905366 RJVR ZM	neuron	female organism|adult brain	catmaid_fafb:4905365	4905365
+4926877	Multiglomerular mlALT vPN VA3+VA4+DL2v+6 LTS 0.88 Spouse of Nibelung 4926878 RJVR	neuron	female organism|adult brain	catmaid_fafb:4926877	4926877
+4927529	Multiglomerular mlALT vPN VM3+DM3+VC4+2 LTS 0.95 4927530 RJVR	neuron	female organism|adult brain	catmaid_fafb:4927529	4927529
+4946872	WEDPN6A#1 4946873 Red Kite ASB SD	neuron	female organism|adult brain	catmaid_fafb:4946872	4946872
+4946893	WEDPN2B#1 4946894 RJVR SD Lucy Parsons	neuron	female organism|adult brain	catmaid_fafb:4946893	4946893
+4947032	WEDPN7A#1 4947033 Crane SD	neuron	female organism|adult brain	catmaid_fafb:4947032	4947032
+4949516	Multiglomerular mlALT vPN DM3+DC4+VM7v LTS 0.98 Fish sauce 4949517 ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:4949516	4949516
+4954519	Multiglomerular mlALT vPN VP1m+VC1+DC2+5 LTS 0.9 4954520 SD ECM	neuron	female organism|adult brain	catmaid_fafb:4954519	4954519
+4954525	Multiglomerular lALT imPN VM5v+VM1+VA7l+24 LTS 0.56 4954526 SD ZM	neuron	female organism|adult brain	catmaid_fafb:4954525	4954525
+4970161	LHAD1b2#2 4970162 The Fresno Drop RT & CMM	neuron	female organism|adult brain	catmaid_fafb:4970161	4970161
+5002989	WEDPN1A#4 5002990 RJVR PDP	neuron	female organism|adult brain	catmaid_fafb:5002989	5002989
+5019352	Uniglomerular mlALT DM4 vPN Carpal Tunnel 5019353 RJVR	neuron	female organism|adult brain	catmaid_fafb:5019352	5019352
+5030649	LHAD1b2#3 5030650 Chop Suey CMM	neuron	female organism|adult brain	catmaid_fafb:5030649	5030649
+5031366	LHAD1b2#4 5031367 Kinetograph CMM	neuron	female organism|adult brain	catmaid_fafb:5031366	5031366
+5169854	Multiglomerular mALT lvPN VL1+DL4+VM4+3 LTS 0.93 5169855	neuron	female organism|adult brain	catmaid_fafb:5169854	5169854
+5217967	Uniglomerular mlALT DL2v vPN 5217968 ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:5217967	5217967
+5269364	Uniglomerular mALT DL1 adPN 5269365 GSXEJ	neuron	female organism|adult brain	catmaid_fafb:5269364	5269364
+5305037	Uniglomerular mALT DL1 adPN 5305038 ARJ	neuron	female organism|adult brain	catmaid_fafb:5305037	5305037
+5341336	LHAV3a1#1 5341337 PS	neuron	female organism|adult brain	catmaid_fafb:5341336	5341336
+5471515	Uniglomerular t5-mlALT VP3 vPN 562645 GSXEJ	neuron	female organism|adult brain	catmaid_fafb:5471515	5471515
+5485737	Multiglomerular mlALT vPN VA6+DA4l+VC1+4 LTS 0.92 5485738 LH ASB	neuron	female organism|adult brain	catmaid_fafb:5485737	5485737
+5494609	Multiglomerular mALT lvPN VM3+DM3+DM1+5 LTS 0.93 5494610 PS	neuron	female organism|adult brain	catmaid_fafb:5494609	5494609
+5672990	Uniglomerular lALT VP2 l2PN 5672991 ECM	neuron	female organism|adult brain	catmaid_fafb:5672990	5672990
+5676478	LHPV5c2#1 5676479 Tawny Owl ASB	neuron	female organism|adult brain	catmaid_fafb:5676478	5676478
+5806820	LHPV5a5#1 5806821 Covenant ASB	neuron	female organism|adult brain	catmaid_fafb:5806820	5806820
+5807209	LHPV5a1#6 5807210 Hot Breath ARJ	neuron	female organism|adult brain	catmaid_fafb:5807209	5807209
+5807241	LHPV5d3#2 5807242 Make Good Decisions GSXEJ	neuron	female organism|adult brain	catmaid_fafb:5807241	5807241
+5807249	LHPV5d3#1 5807250 Jean-Claude ARJ	neuron	female organism|adult brain	catmaid_fafb:5807249	5807249
+5807269	LHPV5d3#3 5807270 Disgraced Tennis Player ARJ ASB	neuron	female organism|adult brain	catmaid_fafb:5807269	5807269
+5807321	LHPV5a1#7 5807322 Unicum Zwack ARJ	neuron	female organism|adult brain	catmaid_fafb:5807321	5807321
+5810932	WEDPN7A#2 5810933 PMJ RJVR	neuron	female organism|adult brain	catmaid_fafb:5810932	5810932
+5918547	LHPV4a4#1 5918548 Jasmine SD	neuron	female organism|adult brain	catmaid_fafb:5918547	5918547
+5937632	LHPV5a1#2 5937633 Blood Pact ASB	neuron	female organism|adult brain	catmaid_fafb:5937632	5937632
+5946848	Biglomerular t10-lALT VP5 + VP2 l2PN 5946849 ECM	neuron	female organism|adult brain	catmaid_fafb:5946848	5946848
+6082926	WEDPN7C#1 6082927 Marga PDP	neuron	female organism|adult brain	catmaid_fafb:6082926	6082926
+6536624	LHAD1b1#1 6536625 	neuron	female organism|adult brain	catmaid_fafb:6536624	6536624
+6622015	Multiglomerular mlALT vPN VM7d+DC2+DM4+2 LTS 0.94 6622016 ASB	neuron	female organism|adult brain	catmaid_fafb:6622015	6622015
+6649190	Multiglomerular t-mALT l2PN VL1+DC3+VL2p+5 LTS 0.92 6649191 JS ET	neuron	female organism|adult brain	catmaid_fafb:6649190	6649190
+6695923	Uniglomerular mlALT DP1m vPN Ketchup 6695924 RJVR	neuron	female organism|adult brain	catmaid_fafb:6695923	6695923
+6696675	Multiglomerular mlALT vPN VC2+VM2+VA3+7 LTS 0.91 6696676 ASB	neuron	female organism|adult brain	catmaid_fafb:6696675	6696675
+6698696	Multiglomerular mlALT vPN DL4+DA4l+VC1+2 LTS 0.93 6698697 ASB	neuron	female organism|adult brain	catmaid_fafb:6698696	6698696
+6699444	Multiglomerular mlALT vPN DA2+VM7v+DC2+2 LTS 0.94 6699445 MMC	neuron	female organism|adult brain	catmaid_fafb:6699444	6699444
+6700447	Multiglomerular mlALT vPN DP1m+DL5+DM4+1 LTS 0.95 6700448 RJVR KS	neuron	female organism|adult brain	catmaid_fafb:6700447	6700447
+6701307	Multiglomerular mlALT vPN VC4+VM3+VM5d+1 LTS 0.95 6701308 ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:6701307	6701307
+6701319	Multiglomerular mlALT vPN VC4+VM3+VA2 LTS 0.97 6701320 ECM RJVR	neuron	female organism|adult brain	catmaid_fafb:6701319	6701319
+6702019	Multiglomerular mlALT vPN VA3+VA4+DL2v+5 LTS 0.89 6702020 ASB RJVR	neuron	female organism|adult brain	catmaid_fafb:6702019	6702019
+6825565	LHPV4a4#2 6825566 Wigeon ASB	neuron	female organism|adult brain	catmaid_fafb:6825565	6825565
+6967069	Multiglomerular mlALT vPN DA3+DA2+VM7v+4 LTS 0.92 6967070 RJVR	neuron	female organism|adult brain	catmaid_fafb:6967069	6967069
+7017522	Multiglomerular t10-lALT l2PN VP3+VP5+VP2 LTS 0.97 7017523 ECM	neuron	female organism|adult brain	catmaid_fafb:7017522	7017522
+7481072	WEDPN8C#2 7481073 RJVR	neuron	female organism|adult brain	catmaid_fafb:7481072	7481072
+7483643	LHPV4a2#1 7483644 Igloo ASB	neuron	female organism|adult brain	catmaid_fafb:7483643	7483643
+7712104	Uniglomerular mALT VC3m lvPN 7712105 XZ	neuron	female organism|adult brain	catmaid_fafb:7712104	7712104
+8406430	Multiglomerular t10-lALT l2PN VC5+VP5+VP2+2 LTS 0.94 8406431 JSP	neuron	female organism|adult brain	catmaid_fafb:8406430	8406430
+8566851	Multiglomerular lALT lv2PN VA1d+VA1v+VP3+5 LTS 0.93 Esme Weatherwax 8566852 PS	neuron	female organism|adult brain	catmaid_fafb:8566851	8566851
+8715672	Multiglomerular t2-mALT ilPN DA2+DL4+DA4l+19 LTS 0.69 bilateral 8715673 ECM	neuron	female organism|adult brain	catmaid_fafb:8715672	8715672
+8777795	Multiglomerular t5-lALT spPN DM4+VC1+VP2+9 LTS 0.84 Tarnhelm 8777796 SAC FS 	neuron	female organism|adult brain	catmaid_fafb:8777795	8777795
+8825246	Multiglomerular t3-mALT l2PN VC5+VM1+VP2+4 LTS 0.92 8825247 RJVR ARH	neuron	female organism|adult brain	catmaid_fafb:8825246	8825246
+9008431	Uniglomerular mALT VM1 lPN 9008432 MT	neuron	female organism|adult brain	catmaid_fafb:9008431	9008431
+9206583	WEDPN8B#1 9206584 same pnt PDP	neuron	female organism|adult brain	catmaid_fafb:9206583	9206583
+9206998	WEDPN8C#3 9206999 Tristan PDP	neuron	female organism|adult brain	catmaid_fafb:9206998	9206998
+9249174	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP	neuron	female organism|adult brain	catmaid_fafb:9249174	9249174
+9290368	Uniglomerular mALT VA5 lPN 9290369 ND	neuron	female organism|adult brain	catmaid_fafb:9290368	9290368
+9589676	Uniglomerular mALT VC4 adPN 9589677 XZ	neuron	female organism|adult brain	catmaid_fafb:9589676	9589676
+9599181	Uniglomerular mALT VM7d adPN 9599182 LB XZ	neuron	female organism|adult brain	catmaid_fafb:9599181	9599181
+9719939	Uniglomerular mALT VM7d adPN 9719940 RJVR XZ	neuron	female organism|adult brain	catmaid_fafb:9719939	9719939
+9806717	Uniglomerular mALT VM2 adPN 9806718 ECM	neuron	female organism|adult brain	catmaid_fafb:9806717	9806717
+9899909	Uniglomerular mALT DM3 adPN 9899910 ECM LB	neuron	female organism|adult brain	catmaid_fafb:9899909	9899909
+9900451	Uniglomerular mALT VA5 lPN 9900452 ECM LB	neuron	female organism|adult brain	catmaid_fafb:9900451	9900451
+9901677	Uniglomerular mALT VC3l adPN 9901678 LB XZ	neuron	female organism|adult brain	catmaid_fafb:9901677	9901677
+10078400	Multiglomerular mALT l2PN VP5+VP3+VP1l+3 LTS 0.93 10078401 FML ASB ECM	neuron	female organism|adult brain	catmaid_fafb:10078400	10078400
+10138363	Uniglomerular mALT VA1d adPN 10138364 RT	neuron	female organism|adult brain	catmaid_fafb:10138363	10138363
+10155401	Uniglomerular mALT VA1d adPN 10155402 RT	neuron	female organism|adult brain	catmaid_fafb:10155401	10155401
+10205688	Uniglomerular mALT VC2 lPN 10205689 BM XZ	neuron	female organism|adult brain	catmaid_fafb:10205688	10205688
+10533089	Uniglomerular mALT VM7d adPN 10533090 XZ	neuron	female organism|adult brain	catmaid_fafb:10533089	10533089
+10537555	Uniglomerular mALT DM6 adPN (Cell No. 1) 10537556 CF	neuron	female organism|adult brain	catmaid_fafb:10537555	10537555
+10537635	Uniglomerular mALT DM6 adPN (Cell No. 2) 10537636 SAC	neuron	female organism|adult brain	catmaid_fafb:10537635	10537635
+10538081	Uniglomerular mALT VM7v adPN (Cell No. 3) 10538082 CF	neuron	female organism|adult brain	catmaid_fafb:10538081	10538081
+10538493	Uniglomerular mALT DL2d adPN (Cell No. 4) 10538494 SAC XZ	neuron	female organism|adult brain	catmaid_fafb:10538493	10538493
+10541812	Uniglomerular mALT VM5d adPN SAC (Cell No. 5) 10541813	neuron	female organism|adult brain	catmaid_fafb:10541812	10541812
+10541930	Uniglomerular mALT DL2d adPN (Cell No. 6) 10541931 CF XZ	neuron	female organism|adult brain	catmaid_fafb:10541930	10541930
+10932520	Uniglomerular mlALT VL1 vPN Famalam 10932521 IFMT XZ	neuron	female organism|adult brain	catmaid_fafb:10932520	10932520
+11067958	Uniglomerular mALT D adPN 11067959 XZ	neuron	female organism|adult brain	catmaid_fafb:11067958	11067958
+11085462	Uniglomerular mALT VC4 adPN 11085463 XZ	neuron	female organism|adult brain	catmaid_fafb:11085462	11085462
+11109412	Uniglomerular mlALT VL2a vPN 11109413	neuron	female organism|adult brain	catmaid_fafb:11109412	11109412
+11234968	Uniglomerular t10-lALT VP3+ l2PN 11234969 PS	neuron	female organism|adult brain	catmaid_fafb:11234968	11234968
+11519370	LHAD1a1#1 11519371 Synchronize Your Dogmas ASB	neuron	female organism|adult brain	catmaid_fafb:11519370	11519370
+11519759	LHCENT9#1 11519760 Fen Tiger CH ASB	neuron	female organism|adult brain	catmaid_fafb:11519759	11519759
+11519897	LHCENT5#1 11519898 Capaldi RJVR	neuron	female organism|adult brain	catmaid_fafb:11519897	11519897
+11522498	LHPV5a1#3 11522499 Giric ASB	neuron	female organism|adult brain	catmaid_fafb:11522498	11522498
+11522927	LHPV4a1#1 11522928 Valerie SD	neuron	female organism|adult brain	catmaid_fafb:11522927	11522927
+11524119	Uniglomerular lALT VP1m l2PN 65701 AJ ECM	neuron	female organism|adult brain	catmaid_fafb:11524119	11524119
+11524190	LHAV4a1#1 11524191 DM1 Centric 1 ASB	neuron	female organism|adult brain	catmaid_fafb:11524190	11524190
+11524386	LHPV4a3#1 11524387 Marshall SD	neuron	female organism|adult brain	catmaid_fafb:11524386	11524386
+11524508	LHPV2c1#2 11524509 FML Grassy - downstream of DL4	neuron	female organism|adult brain	catmaid_fafb:11524508	11524508
+11543484	LHCENT3#1 11543485 Safety Pin CMM	neuron	female organism|adult brain	catmaid_fafb:11543484	11543484
+11543519	LHAV2d1#1 11543520 GSXEJ RJVR Joffrey	neuron	female organism|adult brain	catmaid_fafb:11543519	11543519
+11544074	Uniglomerular mALT DL1 adPN 27304 JMR	neuron	female organism|adult brain	catmaid_fafb:11544074	11544074
+11544121	Uniglomerular mALT VM7d adPN 40791 BH	neuron	female organism|adult brain	catmaid_fafb:11544121	11544121
+11545702	LHPV12a1#1 11545703 AJ	neuron	female organism|adult brain	catmaid_fafb:11545702	11545702
+11545803	LHAV3f1#1 11545804 RJVR Ouroboros	neuron	female organism|adult brain	catmaid_fafb:11545803	11545803
+11546775	Multiglomerular t6-mALT smPN VP1m+DC2+VP2+17 LTS 0.8 bilateral Punishment King 1402861 MEB RJVR	neuron	female organism|adult brain	catmaid_fafb:11546775	11546775
+11964657	Uniglomerular mALT VM7v adPN 11964658	neuron	female organism|adult brain	catmaid_fafb:11964657	11964657
+12070989	Multiglomerular lALT imPN VM5v+DL2d+VA7l+24 LTS 0.57 lALT Eponine 1340264 SD	neuron	female organism|adult brain	catmaid_fafb:12070989	12070989
+12202011	Uniglomerular mALT D adPN 12202012 GD Anna	neuron	female organism|adult brain	catmaid_fafb:12202011	12202011
+12202021	Uniglomerular mALT DL2v adPN 12202022	neuron	female organism|adult brain	catmaid_fafb:12202021	12202021
+12202025	Uniglomerular mALT VM2 adPN horse 12202026 XZ	neuron	female organism|adult brain	catmaid_fafb:12202025	12202025
+12718438	Uniglomerular mALT DC3 adPN 12718439 XZ	neuron	female organism|adult brain	catmaid_fafb:12718438	12718438
+12773180	Uniglomerular mALT VM5v adPN 12773181 XZ	neuron	female organism|adult brain	catmaid_fafb:12773180	12773180
+12784997	Uniglomerular mALT VA1v adPN 12784998 RJVR XZ	neuron	female organism|adult brain	catmaid_fafb:12784997	12784997
+12790425	Uniglomerular mALT DM6 adPN 12790426 XZ	neuron	female organism|adult brain	catmaid_fafb:12790425	12790425
+12795588	Uniglomerular mALT VM5v adPN 12795589 XZ	neuron	female organism|adult brain	catmaid_fafb:12795588	12795588
+12798240	Uniglomerular mALT VA1v adPN 12798241 ZX	neuron	female organism|adult brain	catmaid_fafb:12798240	12798240
+12820972	Uniglomerular mALT VM5d adPN 12820973 XZ hau5	neuron	female organism|adult brain	catmaid_fafb:12820972	12820972
+13272860	Uniglomerular mlALT DP1m vPN 13272861 XZ	neuron	female organism|adult brain	catmaid_fafb:13272860	13272860
+13272939	Uniglomerular mlALT DP1m vPN 13272940 XZ	neuron	female organism|adult brain	catmaid_fafb:13272939	13272939
+13565080	LHCENT2#1 13565081 Hoodwink ASB	neuron	female organism|adult brain	catmaid_fafb:13565080	13565080
+14003783	Uniglomerular mALT VP5 + SEZ adPN 57472 LK ECM	neuron	female organism|adult brain	catmaid_fafb:14003783	14003783
+14375426	Uniglomerular mALT DL2d adPN 14375427	neuron	female organism|adult brain	catmaid_fafb:14375426	14375426
+14447818	Uniglomerular mALT VM5v adPN 14447819	neuron	female organism|adult brain	catmaid_fafb:14447818	14447818
+15738898	LHAV4a3#1 15738899 Chicken ASB	neuron	female organism|adult brain	catmaid_fafb:15738898	15738898
