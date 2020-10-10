@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #649 from commit: 'using id not name' on master
+ Current results are from the latest travis build #650 from commit: 'debug for official name fails' on master
 
 
 ## Internal pipeline reports:
