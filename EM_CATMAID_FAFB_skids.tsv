@@ -995,7 +995,7 @@ skid	name	paper_id	paper_name	synonyms
 3760679	AMMC-B1-2	14896682	Paper: Kim et al 2020	neuron 3760680 HK B1(2)
 3760683	AMMC-B1-5	14896682	Paper: Kim et al 2020	neuron 3760684 HK B1(5)
 3078	VP1m l2PN_L	15579831	Paper: Marin et al 2020	VP1m lALT l2PN left 3079 DB ECM
-8142	KCgR#6	15579831	Paper: Marin et al 2020	KC#32-y
+8142	KCgR#6	15579831	Paper: Marin et al 2020	KCy 8143 NM|KC#32-y
 8798	KCg-s1R	15579831	Paper: Marin et al 2020	KCy-s1 8799 IJA
 9210	KCgR#1	15579831	Paper: Marin et al 2020	KCy 9211 SAC
 16274	KCa'b'-ap1_R#10	15579831	Paper: Marin et al 2020	LAC KCa'B'-ap1 16275 IJA IS
@@ -1551,7 +1551,7 @@ skid	name	paper_id	paper_name	synonyms
 7870	KC#29-y	15549507	Paper: Zheng et al 2020	KCy 7871 IJA
 7910	KC#30-y	15549507	Paper: Zheng et al 2020	KCy 7911 BG
 8006	KC#31-y	15549507	Paper: Zheng et al 2020	KCy 8007 SAC
-8142	KCgR#6	15549507	Paper: Zheng et al 2020	KC#32-y
+8142	KCgR#6	15549507	Paper: Zheng et al 2020	KCy 8143 NM|KC#32-y
 8190	KC#33-y	15549507	Paper: Zheng et al 2020	KCy 8191 IJA
 8218	KC#34-y	15549507	Paper: Zheng et al 2020	KCy 8219 JMR
 8238	KC#35-y	15549507	Paper: Zheng et al 2020	KCy 8239 CF
