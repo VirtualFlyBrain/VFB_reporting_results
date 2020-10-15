@@ -1,111 +1,111 @@
 filename	label	is_a	part_of	dbxrefs	synonyms
-488055	LHAV4c1#1 (488055)	neuron	female organism|adult brain	catmaid_fafb:488055	LHAV4c1#1 488056 downstream DA1 GSXEJ
-533772	LHAD3a1#1 (533772)	neuron	female organism|adult brain	catmaid_fafb:533772	LHAD3a1#1 533773 Vulture GSXEJ
-556874	LHPV5a3#2 (556874)	neuron	female organism|adult brain	catmaid_fafb:556874	LHPV5a3#1 556875 Buzzard DB ASB
-1102557	LHPV6c1#2 (1102557)	neuron	female organism|adult brain	catmaid_fafb:1102557	LHPV6c1#2 1102558 Albatross JMR ARH
-1103232	LHPV4c4#2 (1103232)	neuron	female organism|adult brain	catmaid_fafb:1103232	LHPV4c4#2 1103233 RJVR
-1149437	aSP-g1b#2 (1149437)	neuron	female organism|adult brain	catmaid_fafb:1149437	aSP-g1b#2 1149438 IT
-1313334	WEDPN3#3 (1313334)	neuron	female organism|adult brain	catmaid_fafb:1313334	WEDPN3#3 1313335 Athens ASB
-1415926	LHAV6a1#1 (1415926)	neuron	female organism|adult brain	catmaid_fafb:1415926	LHAV6a1#1 1415927 Haddock ASB
-1478950	PPL203#1 (1478950)	neuron	female organism|adult brain	catmaid_fafb:1478950	PPL203#1 1478951 NM ASB
-1546454	FB2H#1 (1546454)	neuron	female organism|adult brain	catmaid_fafb:1546454	FB2H#1 1546455 AES
-1621078	LHPV5g1#1 (1621078)	neuron	female organism|adult brain	catmaid_fafb:1621078	LHPV5g1#1 1621079 Canary ASB
-1703872	LHPV2a2#1 (1703872)	neuron	female organism|adult brain	catmaid_fafb:1703872	LHPV2a2#1 1703873 FML Beech - downstream of DA2
-1710793	LHPV4a1#3 (1710793)	neuron	female organism|adult brain	catmaid_fafb:1710793	LHPV4a1#3 1710794 Tipi ASB RJVR
-1853423	LHAV4a4#2 (1853423)	neuron	female organism|adult brain	catmaid_fafb:1853423	LHAV4a4#2 1853424 Accursed RJVR - check FML
-1869224	LHPV4b9#1 (1869224)	neuron	female organism|adult brain	catmaid_fafb:1869224	LHPV4b9#1 1869225 Baza ASB
-1870230	LHAV2a3#1 (1870230)	neuron	female organism|adult brain	catmaid_fafb:1870230	LHAV2a3#1 1870231 RJVR AJES PS
-1879479	LHAD1f4#1 (1879479)	neuron	female organism|adult brain	catmaid_fafb:1879479	LHAD1f4#1 1879480 Aspis-like
-1911124	LHAV4a4#1 (1911124)	neuron	female organism|adult brain	catmaid_fafb:1911124	LHAV4a4#1 1911125 FML PS RJVR
-1967862	LHAV1a2#1 (1967862)	neuron	female organism|adult brain	catmaid_fafb:1967862	LHAV1a2#1 1967863 Pheasant AJES
-1967891	LHAV4b2#1 (1967891)	neuron	female organism|adult brain	catmaid_fafb:1967891	LHAV4b2#1 1967892 Sea-eagle PS
-2050698	LHAV4e7#1 (2050698)	neuron	female organism|adult brain	catmaid_fafb:2050698	LHAV4e7#1 2050699 ASB
-2096700	LHPV4b3#2 (2096700)	neuron	female organism|adult brain	catmaid_fafb:2096700	LHPV4b3#2 2096701 Phil Harris RJVR
-2130631	LHPV6a3#2 (2130631)	neuron	female organism|adult brain	catmaid_fafb:2130631	LHPV6a3#2 2130632 Wilson FML ASB 
-2153398	WEDPN4#1 (2153398)	neuron	female organism|adult brain	catmaid_fafb:2153398	WEDPN4#1 2153399 Double Trouble RJVR ASB
-2198365	LHAV2b2#1 (2198365)	neuron	female organism|adult brain	catmaid_fafb:2198365	LHAV2b2#1 2198366 AV2b1#1 LHON Savage RJVR
-2227995	WEDPN1A#2 (2227995)	neuron	female organism|adult brain	catmaid_fafb:2227995	WEDPN1A#2 2227996 Grey Herron SD
-2372530	LHPV4d3#2 (2372530)	neuron	female organism|adult brain	catmaid_fafb:2372530	LHPV4d3#2 2372531 Shearwaters RJVR ASB
-2402951	LHAD1d1#1 (2402951)	neuron	female organism|adult brain	catmaid_fafb:2402951	LHAD1d1#1 2402952 Coppitt FML
-2425247	LHPV5a2#1 (2425247)	neuron	female organism|adult brain	catmaid_fafb:2425247	LHPV5a2#1 2425248 Falcon ASB
-2477473	aSP-g1b#1 (2477473)	neuron	female organism|adult brain	catmaid_fafb:2477473	aSP-g1b#1 2477474 GSXEJ
-2548003	LHPV4a10#1 (2548003)	neuron	female organism|adult brain	catmaid_fafb:2548003	LHPV4a10#1 2548004 Teal ASB
-2638597	LHAV2b1#1 (2638597)	neuron	female organism|adult brain	catmaid_fafb:2638597	LHAV2b1#1 2638598 Saddlebunch FML
-2659704	LHAV1a1#1 (2659704)	neuron	female organism|adult brain	catmaid_fafb:2659704	LHAV1a1#1 2659705 FML Duck - downstream of DL4
-2684792	LHAV1a1#2 (2684792)	neuron	female organism|adult brain	catmaid_fafb:2684792	LHAV1a1#2 2684793 Pigeon RJVR FML ZM
-2794070	LHAV1a3#1 (2794070)	neuron	female organism|adult brain	catmaid_fafb:2794070	LHAV1a3#1 2794071 Curiously Cinnamon ZM
-2842610	LHAD1b2#11 (2842610)	neuron	female organism|adult brain	catmaid_fafb:2842610	LHAD1b2#11 2842611 Alka Seltzer CMM
-2851242	LHAV4g1#1 (2851242)	neuron	female organism|adult brain	catmaid_fafb:2851242	LHAV4g1#1 2851243 Dove RJVR
-2969221	LHAD1c1#2 (2969221)	neuron	female organism|adult brain	catmaid_fafb:2969221	LHAD1c1#2 2969222 Uncle Sam CMM
-3075158	LHAD1b2#10 (3075158)	neuron	female organism|adult brain	catmaid_fafb:3075158	LHAD1b2#10 3075159 Howard Hughes JJ
-3078257	LHAD1b2#9 (3078257)	neuron	female organism|adult brain	catmaid_fafb:3078257	LHAD1b2#9 3078258 Oberon JJ
-3080086	LHAD1b2#8 (3080086)	neuron	female organism|adult brain	catmaid_fafb:3080086	LHAD1b2#8 3080087 Team Rocket RT JJ JH PS
-3080183	LHAD1c1#1 (3080183)	neuron	female organism|adult brain	catmaid_fafb:3080183	LHAD1c1#1 3080184 Dust World JJ PS
-3080225	LHAD1b2#7 (3080225)	neuron	female organism|adult brain	catmaid_fafb:3080225	LHAD1b2#7 3080226 Dark World JJ
-3136251	LHPD3a4#1 (3136251)	neuron	female organism|adult brain	catmaid_fafb:3136251	LHPD3a4#1 3136252 Piri Reis ASB RJVR
-3136591	LHPV2c1#3 (3136591)	neuron	female organism|adult brain	catmaid_fafb:3136591	LHPV2c1#3 3136592 Auk RJVR ASB
-3367291	LHPV4a7#1 (3367291)	neuron	female organism|adult brain	catmaid_fafb:3367291	LHPV4a7#1 3367292 Twirl ASB
-3376158	LHPV6o1#1 (3376158)	neuron	female organism|adult brain	catmaid_fafb:3376158	LHPV6o1#1 3376159 Kabuki RJVR
-3393889	LHAV4e4#1 (3393889)	neuron	female organism|adult brain	catmaid_fafb:3393889	LHAV4e4#1 3393890 Chloé LSC
-3421839	LHPV4a2#3 (3421839)	neuron	female organism|adult brain	catmaid_fafb:3421839	LHPV4a2#3 3421840 Mitre RJVR
-3481901	LHPD3a5#1 (3481901)	neuron	female organism|adult brain	catmaid_fafb:3481901	LHPD3a5#1 3481902 DC4 Bully RJVR ASB
-3587600	LHAV5a1#1 (3587600)	neuron	female organism|adult brain	catmaid_fafb:3587600	LHAV5a1#1 3587601 Terribly Lost ASB
-3877150	LHAD1b2#6 (3877150)	neuron	female organism|adult brain	catmaid_fafb:3877150	LHAD1b2#6 3877151 Tech World JJ PS
-3897655	LHPV4a1#2 (3897655)	neuron	female organism|adult brain	catmaid_fafb:3897655	LHPV4a1#2 3897656 Christine Daaé SD
-3931736	LHPV3b1#1 (3931736)	neuron	female organism|adult brain	catmaid_fafb:3931736	LHPV3b1#1 3931737 Goshawk ASB
-3931886	LHPV2a1#4 (3931886)	neuron	female organism|adult brain	catmaid_fafb:3931886	LHPV2a1#4 3931887 RJVR ASB
-3932461	LHPV2a1#5 (3932461)	neuron	female organism|adult brain	catmaid_fafb:3932461	LHPV2a1#5 3932462 ASB
-4017748	VES002#1 (4017748)	neuron	female organism|adult brain	catmaid_fafb:4017748	VES002#1 4017749 Quail RJVR 
-4044614	LHPV4a2#2 (4044614)	neuron	female organism|adult brain	catmaid_fafb:4044614	LHPV4a2#2 4044615 Jolene SD
-4100701	LHPV4k1#1 (4100701)	neuron	female organism|adult brain	catmaid_fafb:4100701	LHPV4k1#1 4100702 Legolas RJVR SD
-4176088	LHAV7a1#1 (4176088)	neuron	female organism|adult brain	catmaid_fafb:4176088	LHAV7a1#1 4176089 Osprey ASB
-4176285	LHPV4a7#2 (4176285)	neuron	female organism|adult brain	catmaid_fafb:4176285	LHPV4a7#2 4176286 Womble ASB
-4182038	LHPD3a2#1 (4182038)	neuron	female organism|adult brain	catmaid_fafb:4182038	LHPD3a2#1 4182039 Ragdoll ASB
-4191753	LC43#1 (4191753)	neuron	female organism|adult brain	catmaid_fafb:4191753	LC43#1 4191754 Petrel RJVR ASB
-4215506	LHPV4a5#1 (4215506)	neuron	female organism|adult brain	catmaid_fafb:4215506	LHPV4a5#1 4215507 Valjean SD
-4274682	LHPV4a4#3 (4274682)	neuron	female organism|adult brain	catmaid_fafb:4274682	LHPV4a4#3 4274683 Outkast SD
-4292232	LHPV4g1#1 (4292232)	neuron	female organism|adult brain	catmaid_fafb:4292232	LHPV4g1#1 4292233 Jekyll SD
-4355299	LHPV4a9#1 (4355299)	neuron	female organism|adult brain	catmaid_fafb:4355299	LHPV4a9#1 4355300 Pontmercy SD
-4513533	LHAD1b2#5 (4513533)	neuron	female organism|adult brain	catmaid_fafb:4513533	LHAD1b2#5 4513534 Hamburger CMM
-4672476	WEDPN5#1 (4672476)	neuron	female organism|adult brain	catmaid_fafb:4672476	WEDPN5#1 4672477 Flamingo PMJ
-4744251	LHAD1b2#1 (4744251)	neuron	female organism|adult brain	catmaid_fafb:4744251	LHAD1b2#1 4744252 Home World JJ ZM
-4902612	LHAV6b1#1 (4902612)	neuron	female organism|adult brain	catmaid_fafb:4902612	LHAV6b1#1 4902613 CONTAINS ERROR Salamander ASB
-4945705	LHPV5b3#1 (4945705)	neuron	female organism|adult brain	catmaid_fafb:4945705	LHPV5b3#1 4945706 SD
-4946872	WEDPN6A#1 (4946872)	neuron	female organism|adult brain	catmaid_fafb:4946872	WEDPN6A#1 4946873 Red Kite ASB SD
-4974403	PLP156#1 (4974403)	neuron	female organism|adult brain	catmaid_fafb:4974403	PLP156#1 4974404 Hobby ASB
-5292219	LHPV5b2#1 (5292219)	neuron	female organism|adult brain	catmaid_fafb:5292219	LHPV5b2#1 5292220 Hawk ASB
-5341336	LHAV3a1#1 (5341336)	neuron	female organism|adult brain	catmaid_fafb:5341336	LHAV3a1#1 5341337 PS
-5670783	LHPV4a4#2 (5670783)	neuron	female organism|adult brain	catmaid_fafb:5670783	LHPV4a4#2 5670784 ZZZ ASB
-5676478	LHPV5c2#1 (5676478)	neuron	female organism|adult brain	catmaid_fafb:5676478	LHPV5c2#1 5676479 Tawny Owl ASB
-5807217	LHPV5g2#1 (5807217)	neuron	female organism|adult brain	catmaid_fafb:5807217	LHPV5g2#1 5807218 ARJ ASB
-5918547	LHPV4a4#5 (5918547)	neuron	female organism|adult brain	catmaid_fafb:5918547	LHPV4a4#1 5918548 Jasmine SD
-5990596	LHAV4e7#2 (5990596)	neuron	female organism|adult brain	catmaid_fafb:5990596	LHAV4e7#1 5990597 Snake-Eagle ASB
-6185360	AVLP026#1 (6185360)	neuron	female organism|adult brain	catmaid_fafb:6185360	AVLP026#1 6185361 Stalk ASB
-6197374	LHPV5c3#1 (6197374)	neuron	female organism|adult brain	catmaid_fafb:6197374	LHPV5c3#1 6197375 Marsh Harrier ASB
-6203604	LHPV4b1#1 (6203604)	neuron	female organism|adult brain	catmaid_fafb:6203604	LHPV4b1#1 6203605 Kingfisher ASB
-6536624	LHAD1b1#1 (6536624)	neuron	female organism|adult brain	catmaid_fafb:6536624	LHAD1b1#1 6536625 
-6772893	LHAV6c1#1 (6772893)	neuron	female organism|adult brain	catmaid_fafb:6772893	LHAV6c1#1 6772894 Alexander Robert Paul Harrison SD
-6825565	LHPV4a4#4 (6825565)	neuron	female organism|adult brain	catmaid_fafb:6825565	LHPV4a4#2 6825566 Wigeon ASB
-6900869	LHPV4a4#1 (6900869)	neuron	female organism|adult brain	catmaid_fafb:6900869	LHPV4a4#1 6900870 Evil Eye ASB
-7483643	LHPV4a2#1 (7483643)	neuron	female organism|adult brain	catmaid_fafb:7483643	LHPV4a2#1 7483644 Igloo ASB
-7739922	GNG-PN1#1 (7739922)	neuron	female organism|adult brain	catmaid_fafb:7739922	GNG-PN1#1 7739923 IT RJVR
-8521115	LC40b#1 (8521115)	neuron	female organism|adult brain	catmaid_fafb:8521115	LC40b#1 8521116 RJVR
-8739442	LHPV6a1#1 (8739442)	neuron	female organism|adult brain	catmaid_fafb:8739442	LHPV6a1#1 8739443 Unexpected Victory CMM ASB
-8927505	AVLP560#1 (8927505)	neuron	female organism|adult brain	catmaid_fafb:8927505	AVLP560#1 8927506 RJVR Bateleur
-9249174	WEDPN2B#2 (9249174)	neuron	female organism|adult brain	catmaid_fafb:9249174	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP
-11519370	LHAD1a1#1 (11519370)	neuron	female organism|adult brain	catmaid_fafb:11519370	LHAD1a1#1 11519371 Synchronize Your Dogmas ASB
-11519536	PV4b2#1 (11519536)	neuron	female organism|adult brain	catmaid_fafb:11519536	PV4b2#1 11519537 RJVR Epee
-11520049	LHPV5a3#1 (11520049)	neuron	female organism|adult brain	catmaid_fafb:11520049	LHPV5a3#1 11520050 ASB 
-11522508	LHAV4b1#1 (11522508)	neuron	female organism|adult brain	catmaid_fafb:11522508	LHAV4b1#1 11522509 Swirl ASB 
-11522927	LHPV4a1#1 (11522927)	neuron	female organism|adult brain	catmaid_fafb:11522927	LHPV4a1#1 11522928 Valerie SD
-11524190	LHAV4a1#1 (11524190)	neuron	female organism|adult brain	catmaid_fafb:11524190	LHAV4a1#1 11524191 DM1 Centric 1 ASB
-11524200	LHPV5d1#2 (11524200)	neuron	female organism|adult brain	catmaid_fafb:11524200	LHPV5d1#2 11524201 Kestrel ASB
-11524299	LHPV6l1#1 (11524299)	neuron	female organism|adult brain	catmaid_fafb:11524299	LHPV6l1#1 11524300 RJVR Gyrfalcon
-11524386	LHPV4a3#1 (11524386)	neuron	female organism|adult brain	catmaid_fafb:11524386	LHPV4a3#1 11524387 Marshall SD
-11524475	LHPV4d3#1 (11524475)	neuron	female organism|adult brain	catmaid_fafb:11524475	LHPV4d3#1 11524476 FML Fly Agaric - downstream of DA2
-11544024	LHPV4a8#1 (11544024)	neuron	female organism|adult brain	catmaid_fafb:11544024	LHPV4a8#1 11544025 DA4l Upstream ASB RJVR
-11545702	LHPV12a1#1 (11545702)	neuron	female organism|adult brain	catmaid_fafb:11545702	LHPV12a1#1 11545703 AJ
-14809659	PV4c2#1 (14809659)	neuron	female organism|adult brain	catmaid_fafb:14809659	PV4 LH.R -> CAL.R 2391560 DL4 Upstream RJVR Ramoth
-15738796	LHAV4c2#1 (15738796)	neuron	female organism|adult brain	catmaid_fafb:15738796	LHAV4c2#1 15738797 RJVR
-15738886	LHAV4a1#2 (15738886)	neuron	female organism|adult brain	catmaid_fafb:15738886	LHAV4a1#2 15738887 DM1 Centric 2 ASB
-15738898	LHAV4a3#1 (15738898)	neuron	female organism|adult brain	catmaid_fafb:15738898	LHAV4a3#1 15738899 Chicken ASB
+488055	LHAV4c1#1 (skeleton_id:488055)	neuron	female organism|adult brain	catmaid_fafb:488055	LHAV4c1#1 488056 downstream DA1 GSXEJ
+533772	LHAD3a1#1 (skeleton_id:533772)	neuron	female organism|adult brain	catmaid_fafb:533772	LHAD3a1#1 533773 Vulture GSXEJ
+556874	LHPV5a3#2 (skeleton_id:556874)	neuron	female organism|adult brain	catmaid_fafb:556874	LHPV5a3#1 556875 Buzzard DB ASB
+1102557	LHPV6c1#2 (skeleton_id:1102557)	neuron	female organism|adult brain	catmaid_fafb:1102557	LHPV6c1#2 1102558 Albatross JMR ARH
+1103232	LHPV4c4#2 (skeleton_id:1103232)	neuron	female organism|adult brain	catmaid_fafb:1103232	LHPV4c4#2 1103233 RJVR
+1149437	aSP-g1b#2 (skeleton_id:1149437)	neuron	female organism|adult brain	catmaid_fafb:1149437	aSP-g1b#2 1149438 IT
+1313334	WEDPN3#3 (skeleton_id:1313334)	neuron	female organism|adult brain	catmaid_fafb:1313334	WEDPN3#3 1313335 Athens ASB
+1415926	LHAV6a1#1 (skeleton_id:1415926)	neuron	female organism|adult brain	catmaid_fafb:1415926	LHAV6a1#1 1415927 Haddock ASB
+1478950	PPL203#1 (skeleton_id:1478950)	neuron	female organism|adult brain	catmaid_fafb:1478950	PPL203#1 1478951 NM ASB
+1546454	FB2H#1 (skeleton_id:1546454)	neuron	female organism|adult brain	catmaid_fafb:1546454	FB2H#1 1546455 AES
+1621078	LHPV5g1#1 (skeleton_id:1621078)	neuron	female organism|adult brain	catmaid_fafb:1621078	LHPV5g1#1 1621079 Canary ASB
+1703872	LHPV2a2#1 (skeleton_id:1703872)	neuron	female organism|adult brain	catmaid_fafb:1703872	LHPV2a2#1 1703873 FML Beech - downstream of DA2
+1710793	LHPV4a1#3 (skeleton_id:1710793)	neuron	female organism|adult brain	catmaid_fafb:1710793	LHPV4a1#3 1710794 Tipi ASB RJVR
+1853423	LHAV4a4#2 (skeleton_id:1853423)	neuron	female organism|adult brain	catmaid_fafb:1853423	LHAV4a4#2 1853424 Accursed RJVR - check FML
+1869224	LHPV4b9#1 (skeleton_id:1869224)	neuron	female organism|adult brain	catmaid_fafb:1869224	LHPV4b9#1 1869225 Baza ASB
+1870230	LHAV2a3#1 (skeleton_id:1870230)	neuron	female organism|adult brain	catmaid_fafb:1870230	LHAV2a3#1 1870231 RJVR AJES PS
+1879479	LHAD1f4#1 (skeleton_id:1879479)	neuron	female organism|adult brain	catmaid_fafb:1879479	LHAD1f4#1 1879480 Aspis-like
+1911124	LHAV4a4#1 (skeleton_id:1911124)	neuron	female organism|adult brain	catmaid_fafb:1911124	LHAV4a4#1 1911125 FML PS RJVR
+1967862	LHAV1a2#1 (skeleton_id:1967862)	neuron	female organism|adult brain	catmaid_fafb:1967862	LHAV1a2#1 1967863 Pheasant AJES
+1967891	LHAV4b2#1 (skeleton_id:1967891)	neuron	female organism|adult brain	catmaid_fafb:1967891	LHAV4b2#1 1967892 Sea-eagle PS
+2050698	LHAV4e7#1 (skeleton_id:2050698)	neuron	female organism|adult brain	catmaid_fafb:2050698	LHAV4e7#1 2050699 ASB
+2096700	LHPV4b3#2 (skeleton_id:2096700)	neuron	female organism|adult brain	catmaid_fafb:2096700	LHPV4b3#2 2096701 Phil Harris RJVR
+2130631	LHPV6a3#2 (skeleton_id:2130631)	neuron	female organism|adult brain	catmaid_fafb:2130631	LHPV6a3#2 2130632 Wilson FML ASB 
+2153398	WEDPN4#1 (skeleton_id:2153398)	neuron	female organism|adult brain	catmaid_fafb:2153398	WEDPN4#1 2153399 Double Trouble RJVR ASB
+2198365	LHAV2b2#1 (skeleton_id:2198365)	neuron	female organism|adult brain	catmaid_fafb:2198365	LHAV2b2#1 2198366 AV2b1#1 LHON Savage RJVR
+2227995	WEDPN1A#2 (skeleton_id:2227995)	neuron	female organism|adult brain	catmaid_fafb:2227995	WEDPN1A#2 2227996 Grey Herron SD
+2372530	LHPV4d3#2 (skeleton_id:2372530)	neuron	female organism|adult brain	catmaid_fafb:2372530	LHPV4d3#2 2372531 Shearwaters RJVR ASB
+2402951	LHAD1d1#1 (skeleton_id:2402951)	neuron	female organism|adult brain	catmaid_fafb:2402951	LHAD1d1#1 2402952 Coppitt FML
+2425247	LHPV5a2#1 (skeleton_id:2425247)	neuron	female organism|adult brain	catmaid_fafb:2425247	LHPV5a2#1 2425248 Falcon ASB
+2477473	aSP-g1b#1 (skeleton_id:2477473)	neuron	female organism|adult brain	catmaid_fafb:2477473	aSP-g1b#1 2477474 GSXEJ
+2548003	LHPV4a10#1 (skeleton_id:2548003)	neuron	female organism|adult brain	catmaid_fafb:2548003	LHPV4a10#1 2548004 Teal ASB
+2638597	LHAV2b1#1 (skeleton_id:2638597)	neuron	female organism|adult brain	catmaid_fafb:2638597	LHAV2b1#1 2638598 Saddlebunch FML
+2659704	LHAV1a1#1 (skeleton_id:2659704)	neuron	female organism|adult brain	catmaid_fafb:2659704	LHAV1a1#1 2659705 FML Duck - downstream of DL4
+2684792	LHAV1a1#2 (skeleton_id:2684792)	neuron	female organism|adult brain	catmaid_fafb:2684792	LHAV1a1#2 2684793 Pigeon RJVR FML ZM
+2794070	LHAV1a3#1 (skeleton_id:2794070)	neuron	female organism|adult brain	catmaid_fafb:2794070	LHAV1a3#1 2794071 Curiously Cinnamon ZM
+2842610	LHAD1b2#11 (skeleton_id:2842610)	neuron	female organism|adult brain	catmaid_fafb:2842610	LHAD1b2#11 2842611 Alka Seltzer CMM
+2851242	LHAV4g1#1 (skeleton_id:2851242)	neuron	female organism|adult brain	catmaid_fafb:2851242	LHAV4g1#1 2851243 Dove RJVR
+2969221	LHAD1c1#2 (skeleton_id:2969221)	neuron	female organism|adult brain	catmaid_fafb:2969221	LHAD1c1#2 2969222 Uncle Sam CMM
+3075158	LHAD1b2#10 (skeleton_id:3075158)	neuron	female organism|adult brain	catmaid_fafb:3075158	LHAD1b2#10 3075159 Howard Hughes JJ
+3078257	LHAD1b2#9 (skeleton_id:3078257)	neuron	female organism|adult brain	catmaid_fafb:3078257	LHAD1b2#9 3078258 Oberon JJ
+3080086	LHAD1b2#8 (skeleton_id:3080086)	neuron	female organism|adult brain	catmaid_fafb:3080086	LHAD1b2#8 3080087 Team Rocket RT JJ JH PS
+3080183	LHAD1c1#1 (skeleton_id:3080183)	neuron	female organism|adult brain	catmaid_fafb:3080183	LHAD1c1#1 3080184 Dust World JJ PS
+3080225	LHAD1b2#7 (skeleton_id:3080225)	neuron	female organism|adult brain	catmaid_fafb:3080225	LHAD1b2#7 3080226 Dark World JJ
+3136251	LHPD3a4#1 (skeleton_id:3136251)	neuron	female organism|adult brain	catmaid_fafb:3136251	LHPD3a4#1 3136252 Piri Reis ASB RJVR
+3136591	LHPV2c1#3 (skeleton_id:3136591)	neuron	female organism|adult brain	catmaid_fafb:3136591	LHPV2c1#3 3136592 Auk RJVR ASB
+3367291	LHPV4a7#1 (skeleton_id:3367291)	neuron	female organism|adult brain	catmaid_fafb:3367291	LHPV4a7#1 3367292 Twirl ASB
+3376158	LHPV6o1#1 (skeleton_id:3376158)	neuron	female organism|adult brain	catmaid_fafb:3376158	LHPV6o1#1 3376159 Kabuki RJVR
+3393889	LHAV4e4#1 (skeleton_id:3393889)	neuron	female organism|adult brain	catmaid_fafb:3393889	LHAV4e4#1 3393890 Chloé LSC
+3421839	LHPV4a2#3 (skeleton_id:3421839)	neuron	female organism|adult brain	catmaid_fafb:3421839	LHPV4a2#3 3421840 Mitre RJVR
+3481901	LHPD3a5#1 (skeleton_id:3481901)	neuron	female organism|adult brain	catmaid_fafb:3481901	LHPD3a5#1 3481902 DC4 Bully RJVR ASB
+3587600	LHAV5a1#1 (skeleton_id:3587600)	neuron	female organism|adult brain	catmaid_fafb:3587600	LHAV5a1#1 3587601 Terribly Lost ASB
+3877150	LHAD1b2#6 (skeleton_id:3877150)	neuron	female organism|adult brain	catmaid_fafb:3877150	LHAD1b2#6 3877151 Tech World JJ PS
+3897655	LHPV4a1#2 (skeleton_id:3897655)	neuron	female organism|adult brain	catmaid_fafb:3897655	LHPV4a1#2 3897656 Christine Daaé SD
+3931736	LHPV3b1#1 (skeleton_id:3931736)	neuron	female organism|adult brain	catmaid_fafb:3931736	LHPV3b1#1 3931737 Goshawk ASB
+3931886	LHPV2a1#4 (skeleton_id:3931886)	neuron	female organism|adult brain	catmaid_fafb:3931886	LHPV2a1#4 3931887 RJVR ASB
+3932461	LHPV2a1#5 (skeleton_id:3932461)	neuron	female organism|adult brain	catmaid_fafb:3932461	LHPV2a1#5 3932462 ASB
+4017748	VES002#1 (skeleton_id:4017748)	neuron	female organism|adult brain	catmaid_fafb:4017748	VES002#1 4017749 Quail RJVR 
+4044614	LHPV4a2#2 (skeleton_id:4044614)	neuron	female organism|adult brain	catmaid_fafb:4044614	LHPV4a2#2 4044615 Jolene SD
+4100701	LHPV4k1#1 (skeleton_id:4100701)	neuron	female organism|adult brain	catmaid_fafb:4100701	LHPV4k1#1 4100702 Legolas RJVR SD
+4176088	LHAV7a1#1 (skeleton_id:4176088)	neuron	female organism|adult brain	catmaid_fafb:4176088	LHAV7a1#1 4176089 Osprey ASB
+4176285	LHPV4a7#2 (skeleton_id:4176285)	neuron	female organism|adult brain	catmaid_fafb:4176285	LHPV4a7#2 4176286 Womble ASB
+4182038	LHPD3a2#1 (skeleton_id:4182038)	neuron	female organism|adult brain	catmaid_fafb:4182038	LHPD3a2#1 4182039 Ragdoll ASB
+4191753	LC43#1 (skeleton_id:4191753)	neuron	female organism|adult brain	catmaid_fafb:4191753	LC43#1 4191754 Petrel RJVR ASB
+4215506	LHPV4a5#1 (skeleton_id:4215506)	neuron	female organism|adult brain	catmaid_fafb:4215506	LHPV4a5#1 4215507 Valjean SD
+4274682	LHPV4a4#3 (skeleton_id:4274682)	neuron	female organism|adult brain	catmaid_fafb:4274682	LHPV4a4#3 4274683 Outkast SD
+4292232	LHPV4g1#1 (skeleton_id:4292232)	neuron	female organism|adult brain	catmaid_fafb:4292232	LHPV4g1#1 4292233 Jekyll SD
+4355299	LHPV4a9#1 (skeleton_id:4355299)	neuron	female organism|adult brain	catmaid_fafb:4355299	LHPV4a9#1 4355300 Pontmercy SD
+4513533	LHAD1b2#5 (skeleton_id:4513533)	neuron	female organism|adult brain	catmaid_fafb:4513533	LHAD1b2#5 4513534 Hamburger CMM
+4672476	WEDPN5#1 (skeleton_id:4672476)	neuron	female organism|adult brain	catmaid_fafb:4672476	WEDPN5#1 4672477 Flamingo PMJ
+4744251	LHAD1b2#1 (skeleton_id:4744251)	neuron	female organism|adult brain	catmaid_fafb:4744251	LHAD1b2#1 4744252 Home World JJ ZM
+4902612	LHAV6b1#1 (skeleton_id:4902612)	neuron	female organism|adult brain	catmaid_fafb:4902612	LHAV6b1#1 4902613 CONTAINS ERROR Salamander ASB
+4945705	LHPV5b3#1 (skeleton_id:4945705)	neuron	female organism|adult brain	catmaid_fafb:4945705	LHPV5b3#1 4945706 SD
+4946872	WEDPN6A#1 (skeleton_id:4946872)	neuron	female organism|adult brain	catmaid_fafb:4946872	WEDPN6A#1 4946873 Red Kite ASB SD
+4974403	PLP156#1 (skeleton_id:4974403)	neuron	female organism|adult brain	catmaid_fafb:4974403	PLP156#1 4974404 Hobby ASB
+5292219	LHPV5b2#1 (skeleton_id:5292219)	neuron	female organism|adult brain	catmaid_fafb:5292219	LHPV5b2#1 5292220 Hawk ASB
+5341336	LHAV3a1#1 (skeleton_id:5341336)	neuron	female organism|adult brain	catmaid_fafb:5341336	LHAV3a1#1 5341337 PS
+5670783	LHPV4a4#2 (skeleton_id:5670783)	neuron	female organism|adult brain	catmaid_fafb:5670783	LHPV4a4#2 5670784 ZZZ ASB
+5676478	LHPV5c2#1 (skeleton_id:5676478)	neuron	female organism|adult brain	catmaid_fafb:5676478	LHPV5c2#1 5676479 Tawny Owl ASB
+5807217	LHPV5g2#1 (skeleton_id:5807217)	neuron	female organism|adult brain	catmaid_fafb:5807217	LHPV5g2#1 5807218 ARJ ASB
+5918547	LHPV4a4#5 (skeleton_id:5918547)	neuron	female organism|adult brain	catmaid_fafb:5918547	LHPV4a4#1 5918548 Jasmine SD
+5990596	LHAV4e7#2 (skeleton_id:5990596)	neuron	female organism|adult brain	catmaid_fafb:5990596	LHAV4e7#1 5990597 Snake-Eagle ASB
+6185360	AVLP026#1 (skeleton_id:6185360)	neuron	female organism|adult brain	catmaid_fafb:6185360	AVLP026#1 6185361 Stalk ASB
+6197374	LHPV5c3#1 (skeleton_id:6197374)	neuron	female organism|adult brain	catmaid_fafb:6197374	LHPV5c3#1 6197375 Marsh Harrier ASB
+6203604	LHPV4b1#1 (skeleton_id:6203604)	neuron	female organism|adult brain	catmaid_fafb:6203604	LHPV4b1#1 6203605 Kingfisher ASB
+6536624	LHAD1b1#1 (skeleton_id:6536624)	neuron	female organism|adult brain	catmaid_fafb:6536624	LHAD1b1#1 6536625 
+6772893	LHAV6c1#1 (skeleton_id:6772893)	neuron	female organism|adult brain	catmaid_fafb:6772893	LHAV6c1#1 6772894 Alexander Robert Paul Harrison SD
+6825565	LHPV4a4#4 (skeleton_id:6825565)	neuron	female organism|adult brain	catmaid_fafb:6825565	LHPV4a4#2 6825566 Wigeon ASB
+6900869	LHPV4a4#1 (skeleton_id:6900869)	neuron	female organism|adult brain	catmaid_fafb:6900869	LHPV4a4#1 6900870 Evil Eye ASB
+7483643	LHPV4a2#1 (skeleton_id:7483643)	neuron	female organism|adult brain	catmaid_fafb:7483643	LHPV4a2#1 7483644 Igloo ASB
+7739922	GNG-PN1#1 (skeleton_id:7739922)	neuron	female organism|adult brain	catmaid_fafb:7739922	GNG-PN1#1 7739923 IT RJVR
+8521115	LC40b#1 (skeleton_id:8521115)	neuron	female organism|adult brain	catmaid_fafb:8521115	LC40b#1 8521116 RJVR
+8739442	LHPV6a1#1 (skeleton_id:8739442)	neuron	female organism|adult brain	catmaid_fafb:8739442	LHPV6a1#1 8739443 Unexpected Victory CMM ASB
+8927505	AVLP560#1 (skeleton_id:8927505)	neuron	female organism|adult brain	catmaid_fafb:8927505	AVLP560#1 8927506 RJVR Bateleur
+9249174	WEDPN2B#2 (skeleton_id:9249174)	neuron	female organism|adult brain	catmaid_fafb:9249174	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP
+11519370	LHAD1a1#1 (skeleton_id:11519370)	neuron	female organism|adult brain	catmaid_fafb:11519370	LHAD1a1#1 11519371 Synchronize Your Dogmas ASB
+11519536	PV4b2#1 (skeleton_id:11519536)	neuron	female organism|adult brain	catmaid_fafb:11519536	PV4b2#1 11519537 RJVR Epee
+11520049	LHPV5a3#1 (skeleton_id:11520049)	neuron	female organism|adult brain	catmaid_fafb:11520049	LHPV5a3#1 11520050 ASB 
+11522508	LHAV4b1#1 (skeleton_id:11522508)	neuron	female organism|adult brain	catmaid_fafb:11522508	LHAV4b1#1 11522509 Swirl ASB 
+11522927	LHPV4a1#1 (skeleton_id:11522927)	neuron	female organism|adult brain	catmaid_fafb:11522927	LHPV4a1#1 11522928 Valerie SD
+11524190	LHAV4a1#1 (skeleton_id:11524190)	neuron	female organism|adult brain	catmaid_fafb:11524190	LHAV4a1#1 11524191 DM1 Centric 1 ASB
+11524200	LHPV5d1#2 (skeleton_id:11524200)	neuron	female organism|adult brain	catmaid_fafb:11524200	LHPV5d1#2 11524201 Kestrel ASB
+11524299	LHPV6l1#1 (skeleton_id:11524299)	neuron	female organism|adult brain	catmaid_fafb:11524299	LHPV6l1#1 11524300 RJVR Gyrfalcon
+11524386	LHPV4a3#1 (skeleton_id:11524386)	neuron	female organism|adult brain	catmaid_fafb:11524386	LHPV4a3#1 11524387 Marshall SD
+11524475	LHPV4d3#1 (skeleton_id:11524475)	neuron	female organism|adult brain	catmaid_fafb:11524475	LHPV4d3#1 11524476 FML Fly Agaric - downstream of DA2
+11544024	LHPV4a8#1 (skeleton_id:11544024)	neuron	female organism|adult brain	catmaid_fafb:11544024	LHPV4a8#1 11544025 DA4l Upstream ASB RJVR
+11545702	LHPV12a1#1 (skeleton_id:11545702)	neuron	female organism|adult brain	catmaid_fafb:11545702	LHPV12a1#1 11545703 AJ
+14809659	PV4c2#1 (skeleton_id:14809659)	neuron	female organism|adult brain	catmaid_fafb:14809659	PV4 LH.R -> CAL.R 2391560 DL4 Upstream RJVR Ramoth
+15738796	LHAV4c2#1 (skeleton_id:15738796)	neuron	female organism|adult brain	catmaid_fafb:15738796	LHAV4c2#1 15738797 RJVR
+15738886	LHAV4a1#2 (skeleton_id:15738886)	neuron	female organism|adult brain	catmaid_fafb:15738886	LHAV4a1#2 15738887 DM1 Centric 2 ASB
+15738898	LHAV4a3#1 (skeleton_id:15738898)	neuron	female organism|adult brain	catmaid_fafb:15738898	LHAV4a3#1 15738899 Chicken ASB
