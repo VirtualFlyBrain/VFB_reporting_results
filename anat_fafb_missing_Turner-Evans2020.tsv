@@ -1,50 +1,50 @@
 filename	label	is_a	part_of	dbxrefs	synonyms
-437814	EPG-5R#1	neuron	female organism|adult brain	catmaid_fafb:437814	437814
-525851	PEN1-6R#1	neuron	female organism|adult brain	catmaid_fafb:525851	525851
-607812	PEN1-6R#2	neuron	female organism|adult brain	catmaid_fafb:607812	607812
-632638	Delta7-6R3L#1	neuron	female organism|adult brain	catmaid_fafb:632638	632638
-649823	PEN1-5L	neuron	female organism|adult brain	catmaid_fafb:649823	649823
-659759	PEN2-6R#1	neuron	female organism|adult brain	catmaid_fafb:659759	659759
-668576	PEN1-5R	neuron	female organism|adult brain	catmaid_fafb:668576	668576
-676155	Delta7-5R4L#2	neuron	female organism|adult brain	catmaid_fafb:676155	676155
-676911	EPG-6L#1	neuron	female organism|adult brain	catmaid_fafb:676911	676911
-803916	Delta7-1R9R8L#1	neuron	female organism|adult brain	catmaid_fafb:803916	803916
-806288	PEN2-5R	neuron	female organism|adult brain	catmaid_fafb:806288	806288
-827466	PEN1-7L	neuron	female organism|adult brain	catmaid_fafb:827466	827466
-828911	PEN1-7R	neuron	female organism|adult brain	catmaid_fafb:828911	828911
-854144	neuron_fragment#1	neuron	female organism|adult brain	catmaid_fafb:854144	854144
-854150	EPG-7L#1	neuron	female organism|adult brain	catmaid_fafb:854150	854150
-854156	EPG-7L#2	neuron	female organism|adult brain	catmaid_fafb:854156	854156
-861090	EPG-5R#2	neuron	female organism|adult brain	catmaid_fafb:861090	861090
-963438	PEG-6L	neuron	female organism|adult brain	catmaid_fafb:963438	963438
-1032767	PEG-5L	neuron	female organism|adult brain	catmaid_fafb:1032767	1032767
-1274114	EPG-6R#1	neuron	female organism|adult brain	catmaid_fafb:1274114	1274114
-1274268	EPG-6R#2	neuron	female organism|adult brain	catmaid_fafb:1274268	1274268
-1274528	EPG-6L#2	neuron	female organism|adult brain	catmaid_fafb:1274528	1274528
-1568214	EPG-5L#1	neuron	female organism|adult brain	catmaid_fafb:1568214	1568214
-1625086	PEN2-7R	neuron	female organism|adult brain	catmaid_fafb:1625086	1625086
-1639675	PEN2-7L	neuron	female organism|adult brain	catmaid_fafb:1639675	1639675
-2703303	PEN2-5L	neuron	female organism|adult brain	catmaid_fafb:2703303	2703303
-3017999	Delta7-5R4L#1	neuron	female organism|adult brain	catmaid_fafb:3017999	3017999
-3286828	PEN2-6L#1	neuron	female organism|adult brain	catmaid_fafb:3286828	3286828
-3338987	PEN1-6L#1	neuron	female organism|adult brain	catmaid_fafb:3338987	3338987
-3349747	PEN2-6L#2	neuron	female organism|adult brain	catmaid_fafb:3349747	3349747
-3423772	PEN1-6L#2	neuron	female organism|adult brain	catmaid_fafb:3423772	3423772
-3457743	EPG-5L#2	neuron	female organism|adult brain	catmaid_fafb:3457743	3457743
-3491680	PEN2-6R#2	neuron	female organism|adult brain	catmaid_fafb:3491680	3491680
-3512247	PEG-6R	neuron	female organism|adult brain	catmaid_fafb:3512247	3512247
-3849973	PEG-5R	neuron	female organism|adult brain	catmaid_fafb:3849973	3849973
-4040702	EPG-6R#3	neuron	female organism|adult brain	catmaid_fafb:4040702	4040702
-4087066	EPG-5L#3	neuron	female organism|adult brain	catmaid_fafb:4087066	4087066
-4210786	EPG-5R#3	neuron	female organism|adult brain	catmaid_fafb:4210786	4210786
-6102788	Delta7-6R3L#2	neuron	female organism|adult brain	catmaid_fafb:6102788	6102788
-6254861	Delta7-7R2L#1	neuron	female organism|adult brain	catmaid_fafb:6254861	6254861
-6346245	R4d#1	neuron	female organism|adult brain	catmaid_fafb:6346245	6346245
-6353358	R4d#2	neuron	female organism|adult brain	catmaid_fafb:6353358	6353358
-6393609	R4d#8	neuron	female organism|adult brain	catmaid_fafb:6393609	6393609
-6417166	R4d#3	neuron	female organism|adult brain	catmaid_fafb:6417166	6417166
-6454109	Delta7-2R7L#1	neuron	female organism|adult brain	catmaid_fafb:6454109	6454109
-6813859	R4d#4	neuron	female organism|adult brain	catmaid_fafb:6813859	6813859
-7014054	R4d#5	neuron	female organism|adult brain	catmaid_fafb:7014054	7014054
-7014310	R4d#6	neuron	female organism|adult brain	catmaid_fafb:7014310	7014310
-7029666	R4d#7	neuron	female organism|adult brain	catmaid_fafb:7029666	7029666
+437814	EPG-5R#1 (437814)	neuron	female organism|adult brain	catmaid_fafb:437814	PBG5-EBw-gall (right) neuron 437815 AES
+525851	PEN1-6R#1 (525851)	neuron	female organism|adult brain	catmaid_fafb:525851	PBG6-EBt-noduli 1 (right) neuron 367405 AES
+607812	PEN1-6R#2 (607812)	neuron	female organism|adult brain	catmaid_fafb:607812	PBG6-EBt-noduli 1 (right) neuron 366478 AES
+632638	Delta7-6R3L#1 (632638)	neuron	female organism|adult brain	catmaid_fafb:632638	PBG6R/3L Delta7 Neuron 632639
+649823	PEN1-5L (649823)	neuron	female organism|adult brain	catmaid_fafb:649823	PBG5-EBt-noduli 1 (left) neuron 649824 VJ
+659759	PEN2-6R#1 (659759)	neuron	female organism|adult brain	catmaid_fafb:659759	PBG6-EBt-noduli 2 (right) neuron 365862 AES
+668576	PEN1-5R (668576)	neuron	female organism|adult brain	catmaid_fafb:668576	PBG5-EBt-noduli 1 (right) neuron 668577 SA
+676155	Delta7-5R4L#2 (676155)	neuron	female organism|adult brain	catmaid_fafb:676155	PBG5R/4L Delta7 neuron 676156 
+676911	EPG-6L#1 (676911)	neuron	female organism|adult brain	catmaid_fafb:676911	PBG6-EBw-gall (left) neuron 676912 CP
+803916	Delta7-1R9R8L#1 (803916)	neuron	female organism|adult brain	catmaid_fafb:803916	PBG9R/1R/8L Delta7 Neuron 803917 
+806288	PEN2-5R (806288)	neuron	female organism|adult brain	catmaid_fafb:806288	PBG5-EBt-noduli 2 (right) neuron 806289 CP 
+827466	PEN1-7L (827466)	neuron	female organism|adult brain	catmaid_fafb:827466	PBG7-EBt-noduli 1 (left) neuron 827467 CP
+828911	PEN1-7R (828911)	neuron	female organism|adult brain	catmaid_fafb:828911	PBG7-EBt-noduli 1 (right) neuron 828912 CP
+854144	neuron_fragment#1 (854144)	neuron	female organism|adult brain	catmaid_fafb:854144	Putative PBG7-EB-gall (left) neuron 854145 SA
+854150	EPG-7L#1 (854150)	neuron	female organism|adult brain	catmaid_fafb:854150	Putative PBG7-EBw-gall (left) neuron 854151 SA
+854156	EPG-7L#2 (854156)	neuron	female organism|adult brain	catmaid_fafb:854156	Putative PBG7-EBw-gall (left) neuron 854157 SA
+861090	EPG-5R#2 (861090)	neuron	female organism|adult brain	catmaid_fafb:861090	PBG5-EBw-gall (right) neuron 302409 VJ
+963438	PEG-6L (963438)	neuron	female organism|adult brain	catmaid_fafb:963438	PBG6-EBt-gall (left) neuron 963439 CP
+1032767	PEG-5L (1032767)	neuron	female organism|adult brain	catmaid_fafb:1032767	PBG5-EBt-gall (left) neuron 1032768 SA
+1274114	EPG-6R#1 (1274114)	neuron	female organism|adult brain	catmaid_fafb:1274114	PBG6-EBw-gall (right) neuron 680017 VJ
+1274268	EPG-6R#2 (1274268)	neuron	female organism|adult brain	catmaid_fafb:1274268	PBG6-EBw-gall (right) neuron 454719 CP
+1274528	EPG-6L#2 (1274528)	neuron	female organism|adult brain	catmaid_fafb:1274528	PBG6-EBw-gall (left) neuron 654341 CP
+1568214	EPG-5L#1 (1568214)	neuron	female organism|adult brain	catmaid_fafb:1568214	PBG5-EBw-gall (left) neuron 413550 BQ
+1625086	PEN2-7R (1625086)	neuron	female organism|adult brain	catmaid_fafb:1625086	PBG7-EBt-noduli 2 (right) neuron 828357
+1639675	PEN2-7L (1639675)	neuron	female organism|adult brain	catmaid_fafb:1639675	PBG7-EBt-noduli 2 (left) neuron 828018
+2703303	PEN2-5L (2703303)	neuron	female organism|adult brain	catmaid_fafb:2703303	PBG5-EBt-noduli 2 (left) neuron 826203
+3017999	Delta7-5R4L#1 (3017999)	neuron	female organism|adult brain	catmaid_fafb:3017999	PBG5R/4L Delta 7 Neuron 408020
+3286828	PEN2-6L#1 (3286828)	neuron	female organism|adult brain	catmaid_fafb:3286828	PBG6-EBt-noduli 2 (left) neuron 372070
+3338987	PEN1-6L#1 (3338987)	neuron	female organism|adult brain	catmaid_fafb:3338987	PBG6-EBt-noduli 1 (left) neuron 372970 SA
+3349747	PEN2-6L#2 (3349747)	neuron	female organism|adult brain	catmaid_fafb:3349747	PBG6-EBt-noduli 2 (left) neuron 371030 AES
+3423772	PEN1-6L#2 (3423772)	neuron	female organism|adult brain	catmaid_fafb:3423772	PBG6-EBt-noduli 1 (left) neuron 373414 AES
+3457743	EPG-5L#2 (3457743)	neuron	female organism|adult brain	catmaid_fafb:3457743	PBG5-EBw-gall (left) neuron 381455 BBQ 
+3491680	PEN2-6R#2 (3491680)	neuron	female organism|adult brain	catmaid_fafb:3491680	PBG6-EBt-noduli 2 (right) neuron 302517 AES 
+3512247	PEG-6R (3512247)	neuron	female organism|adult brain	catmaid_fafb:3512247	PBG6-EBt-gall (right) neuron 659781 CP
+3849973	PEG-5R (3849973)	neuron	female organism|adult brain	catmaid_fafb:3849973	PBG5-EBt-gall (right) neuron 308798 VJ
+4040702	EPG-6R#3 (4040702)	neuron	female organism|adult brain	catmaid_fafb:4040702	PBG6-EBw-gall (right) neuron 804415 CP
+4087066	EPG-5L#3 (4087066)	neuron	female organism|adult brain	catmaid_fafb:4087066	PBG5-EBw-gall (left) neuron 380990 AES 
+4210786	EPG-5R#3 (4210786)	neuron	female organism|adult brain	catmaid_fafb:4210786	PBG5-EBw-gall (right) neuron 341414 EWN AW
+6102788	Delta7-6R3L#2 (6102788)	neuron	female organism|adult brain	catmaid_fafb:6102788	PBG6R/3L Delta7 Neuron 626139
+6254861	Delta7-7R2L#1 (6254861)	neuron	female organism|adult brain	catmaid_fafb:6254861	PBG7R/2L Delta7 Neuron 1260421
+6346245	R4d#1 (6346245)	neuron	female organism|adult brain	catmaid_fafb:6346245	Putative bidirectional ring neuron 6346246 NR MN
+6353358	R4d#2 (6353358)	neuron	female organism|adult brain	catmaid_fafb:6353358	Putative bidirectional ring neuron 6353359 JW NR
+6393609	R4d#8 (6393609)	neuron	female organism|adult brain	catmaid_fafb:6393609	Putative bidirectional ring neuron 6393610 RP NR JW
+6417166	R4d#3 (6417166)	neuron	female organism|adult brain	catmaid_fafb:6417166	Putative bidirectional ring neuron 6417167 RP JW NR
+6454109	Delta7-2R7L#1 (6454109)	neuron	female organism|adult brain	catmaid_fafb:6454109	PBG2R/7L Delta 7 Neuron 608651
+6813859	R4d#4 (6813859)	neuron	female organism|adult brain	catmaid_fafb:6813859	Putative bidirectional ring neuron 6813860 JW KF
+7014054	R4d#5 (7014054)	neuron	female organism|adult brain	catmaid_fafb:7014054	Putative bidirectional ring neuron 7014055 TP KF
+7014310	R4d#6 (7014310)	neuron	female organism|adult brain	catmaid_fafb:7014310	Putative bidirectional ring neuron 7014311 JW MN 
+7029666	R4d#7 (7029666)	neuron	female organism|adult brain	catmaid_fafb:7029666	Putative bidirectional ring neuron 7029667 TP NR KF MN
