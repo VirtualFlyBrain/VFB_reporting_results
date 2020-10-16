@@ -20,7 +20,7 @@ Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-S
 Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	95
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
 Eschbach2020	EM L1 Eschbach et al 2020	True	FBrf0245294	CC-BY-SA_4.0	189
-Eschbach2020b	EM L1 Eschbach et al 2020b	True	doi_10_1101_2020_04_23_058339		0
+Eschbach2020b	EM L1 Eschbach et al 2020b	True	doi_10_1101_2020_04_23_058339		239
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	True	FBrf0240371	CC-BY-SA_4.0	3
 FlyLight2019AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY-SA_4.0	4
 FlyLight2019Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	2
@@ -76,7 +76,7 @@ Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	165
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	True	FBrf0238545	CC-BY-SA_4.0	79
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	21242
 Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	22593
-Xu2020roi	JRC_FlyEM_Hemibrain painted domains	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	98
+Xu2020roi	JRC_FlyEM_Hemibrain painted domains	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	225
 Yu2013	Lee lab adult brain lineage clone image set	True	FBrf0221412	CC-BY-NC-SA_4.0	105
 Zarin2019	EM L1 Zarin, Mark et al. 2019	True	doi_10_1101_617977	CC-BY-SA_4.0	194
 Zheng2018	EM FAFB Zheng et al 2018	True	FBrf0240126	CC-BY-SA_4.0	147
