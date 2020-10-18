@@ -1,5 +1,4 @@
 filename	label	is_a	part_of	dbxrefs	synonyms
-16	Uniglomerular mALT VA6 adPN#R1 (skeleton_id:16)	neuron	female organism|adult brain	catmaid_fafb:16	Uniglomerular mALT VA6 adPN 017 DB
 27	Uniglomerular mALT DM4 adPN#L1 (skeleton_id:27)	neuron	female organism|adult brain	catmaid_fafb:27	Uniglomerular mALT DM4 adPN DB ECM
 717	Uniglomerular mALT VA4 lPN#L1 (skeleton_id:717)	neuron	female organism|adult brain	catmaid_fafb:717	Uniglomerular mALT VA4 lPN DB
 734	Uniglomerular mALT DM1 lPN#L1 (skeleton_id:734)	neuron	female organism|adult brain	catmaid_fafb:734	Uniglomerular mALT DM1 lPN XZ
