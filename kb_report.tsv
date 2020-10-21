@@ -66,7 +66,7 @@ Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY-SA_4.0	38
 Tastekin2018	EM L1 Tastekin et al 2018	True	FBrf0240828	CC-BY-SA_4.0	10
 Truman2016	L3 Larval CNS Template (Truman2016)	True		CC-BY-SA_4.0	1
-TrumanWood2018	Truman Larval Flip-Out Collection	False		unlicensed	12241
+TrumanWood2018	Truman Larval Flip-Out Collection	False		unlicensed	12239
 TrumanWood2018public	Truman Larval Flip-Out Collection	True		CC-BY-SA_4.0	2
 Tsubouchi2017	Adult somatosensory system neurons (Tsubouchi2017)	False	FBrf0237124	CC-BY-SA_4.0	0
 Turner-Evans2020	EM FAFB Turner-Evans et al 2020		doi_10_1016_j_neuron_2020_08_006	CC-BY-SA_4.0	49
@@ -76,7 +76,7 @@ Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	165
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	True	FBrf0238545	CC-BY-SA_4.0	79
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	21242
 Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	22593
-Xu2020roi	JRC_FlyEM_Hemibrain painted domains	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	225
+Xu2020roi	JRC_FlyEM_Hemibrain painted domains	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	230
 Yu2013	Lee lab adult brain lineage clone image set	True	FBrf0221412	CC-BY-NC-SA_4.0	105
 Zarin2019	EM L1 Zarin, Mark et al. 2019	True	doi_10_1101_617977	CC-BY-SA_4.0	194
 Zheng2018	EM FAFB Zheng et al 2018	True	FBrf0240126	CC-BY-SA_4.0	148
