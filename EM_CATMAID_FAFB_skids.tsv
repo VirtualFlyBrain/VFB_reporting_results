@@ -431,7 +431,7 @@ skid	name	paper_id	paper_name	synonyms
 4491591	Multiglomerular mlALT vPN#R61	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VA6+VA1d+DC2+3 LTS 0.94 4491592 RJVR GSXEJ
 4494818	Uniglomerular mALT D adPN#L3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT D adPN 4494819 ARJ RJVR
 4494848	Uniglomerular mALT DL2v adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DL2v adPN dbock 4494849 ARJ
-4494870	Uniglomerular mALT VM5d adPN#L5	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM5d adPN 4494871
+4494870	Uniglomerular mALT VM5d adPN#L5	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM5d adPN 4494871|Uniglomerular mALT VM5d adPN#L1
 4494902	Uniglomerular mALT VC3l adPN#L3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 4494903 XZ
 4494955	Uniglomerular mALT DL2v adPN#L3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DL2v adPN 4494956 XZ
 4494998	Uniglomerular mALT VM5d adPN#L4	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM5d adPN 4494999
@@ -540,7 +540,6 @@ skid	name	paper_id	paper_name	synonyms
 10537635	Uniglomerular mALT DM6 adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DM6 adPN (Cell No. 2) 10537636 SAC
 10538081	Uniglomerular mALT VM7v adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM7v adPN (Cell No. 3) 10538082 CF
 10538493	Uniglomerular mALT DL2d adPN#L5	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DL2d adPN (Cell No. 4) 10538494 SAC XZ
-10541812	Uniglomerular mALT VM5d adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM5d adPN SAC (Cell No. 5) 10541813
 10541930	Uniglomerular mALT DL2d adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DL2d adPN (Cell No. 6) 10541931 CF XZ
 10932520	Uniglomerular mlALT VL1 vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL1 vPN Famalam 10932521 IFMT XZ
 11067958	Uniglomerular mALT D adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT D adPN 11067959 XZ
@@ -1373,6 +1372,19 @@ skid	name	paper_id	paper_name	synonyms
 7014054	R4d#5	16232065	Paper: Turner-Evans et al 2020	Putative bidirectional ring neuron 7014055 TP KF
 7014310	R4d#6	16232065	Paper: Turner-Evans et al 2020	Putative bidirectional ring neuron 7014311 JW MN 
 7029666	R4d#7	16232065	Paper: Turner-Evans et al 2020	Putative bidirectional ring neuron 7029667 TP NR KF MN
+1259226	oviEN	16337827	Paper: Wang et al 2020a	neuron 1259227 RT FW CMP TY
+1862762	oviDNb	16337827	Paper: Wang et al 2020a	pMP13 1862763 RP CMP TY NF
+1875104	oviDNa#2	16337827	Paper: Wang et al 2020a	pMP11 1875105 RP CMP TY
+3770805	pC1e	16337827	Paper: Wang et al 2020a	pMP8 Type I 1269969 IT TY FW-C1
+3781621	pC1b	16337827	Paper: Wang et al 2020a	Putative pMP8 Type II 3781622 TY NF FW-C4
+3794183	pC1c	16337827	Paper: Wang et al 2020a	pMP8 Type I 3794184 TY FW-C5 NF
+3807212	pC1a	16337827	Paper: Wang et al 2020a	pMP8 Type II 3807213 TY FW-C6
+3979930	pC1d	16337827	Paper: Wang et al 2020a	pMP8 Type I 3778246 TY FW-C2
+4358524	SAG#L	16337827	Paper: Wang et al 2020a	neuron 4358525 FW
+5143346	oviDNa#1	16337827	Paper: Wang et al 2020a	pMP11 5143347 MD FW NF
+5353953	SAG#R	16337827	Paper: Wang et al 2020a	neuron 5353954 Robin CMP NF
+13325634	oviIN	16337827	Paper: Wang et al 2020a	neuron 6244095 [SMP.R]-[SMP.L]-[SEZ.R] Nemesia AJES NF TY
+5321581	DNp13	16337677	Paper: Wang et al 2020b	neuron 5321582 JSP BM
 16	Uniglomerular mALT VA6 adPN#R1	11490509	Paper: Zheng et al 2018	Uniglomerular mALT VA6 adPN 017 DB
 7286	KC#12-a'b'	11490509	Paper: Zheng et al 2018	KCa'B'ap 7287 EAM
 7646	KC#24-a'b'	11490509	Paper: Zheng et al 2018	KCa'B'm 7647 LK

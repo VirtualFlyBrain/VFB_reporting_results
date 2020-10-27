@@ -302,7 +302,7 @@ filename	label	is_a	part_of	dbxrefs	synonyms
 4491591	Multiglomerular mlALT vPN#R61 (skeleton_id:4491591)	neuron	female organism|adult brain	catmaid_fafb:4491591	Multiglomerular mlALT vPN VA6+VA1d+DC2+3 LTS 0.94 4491592 RJVR GSXEJ
 4494818	Uniglomerular mALT D adPN#L3 (skeleton_id:4494818)	neuron	female organism|adult brain	catmaid_fafb:4494818	Uniglomerular mALT D adPN 4494819 ARJ RJVR
 4494848	Uniglomerular mALT DL2v adPN#L2 (skeleton_id:4494848)	neuron	female organism|adult brain	catmaid_fafb:4494848	Uniglomerular mALT DL2v adPN dbock 4494849 ARJ
-4494870	Uniglomerular mALT VM5d adPN#L5 (skeleton_id:4494870)	neuron	female organism|adult brain	catmaid_fafb:4494870	Uniglomerular mALT VM5d adPN 4494871
+4494870	Uniglomerular mALT VM5d adPN#L5 (skeleton_id:4494870)	neuron	female organism|adult brain	catmaid_fafb:4494870	Uniglomerular mALT VM5d adPN 4494871|Uniglomerular mALT VM5d adPN#L1
 4494902	Uniglomerular mALT VC3l adPN#L3 (skeleton_id:4494902)	neuron	female organism|adult brain	catmaid_fafb:4494902	Uniglomerular mALT VC3l adPN 4494903 XZ
 4494955	Uniglomerular mALT DL2v adPN#L3 (skeleton_id:4494955)	neuron	female organism|adult brain	catmaid_fafb:4494955	Uniglomerular mALT DL2v adPN 4494956 XZ
 4494998	Uniglomerular mALT VM5d adPN#L4 (skeleton_id:4494998)	neuron	female organism|adult brain	catmaid_fafb:4494998	Uniglomerular mALT VM5d adPN 4494999
@@ -411,7 +411,6 @@ filename	label	is_a	part_of	dbxrefs	synonyms
 10537635	Uniglomerular mALT DM6 adPN#L2 (skeleton_id:10537635)	neuron	female organism|adult brain	catmaid_fafb:10537635	Uniglomerular mALT DM6 adPN (Cell No. 2) 10537636 SAC
 10538081	Uniglomerular mALT VM7v adPN#L2 (skeleton_id:10538081)	neuron	female organism|adult brain	catmaid_fafb:10538081	Uniglomerular mALT VM7v adPN (Cell No. 3) 10538082 CF
 10538493	Uniglomerular mALT DL2d adPN#L5 (skeleton_id:10538493)	neuron	female organism|adult brain	catmaid_fafb:10538493	Uniglomerular mALT DL2d adPN (Cell No. 4) 10538494 SAC XZ
-10541812	Uniglomerular mALT VM5d adPN#L1 (skeleton_id:10541812)	neuron	female organism|adult brain	catmaid_fafb:10541812	Uniglomerular mALT VM5d adPN SAC (Cell No. 5) 10541813
 10541930	Uniglomerular mALT DL2d adPN#L2 (skeleton_id:10541930)	neuron	female organism|adult brain	catmaid_fafb:10541930	Uniglomerular mALT DL2d adPN (Cell No. 6) 10541931 CF XZ
 10932520	Uniglomerular mlALT VL1 vPN#L1 (skeleton_id:10932520)	neuron	female organism|adult brain	catmaid_fafb:10932520	Uniglomerular mlALT VL1 vPN Famalam 10932521 IFMT XZ
 11067958	Uniglomerular mALT D adPN#L2 (skeleton_id:11067958)	neuron	female organism|adult brain	catmaid_fafb:11067958	Uniglomerular mALT D adPN 11067959 XZ
