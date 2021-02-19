@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #696 from commit: 'if it's in PDB it has production True in KB but no longer shown in PDB' on master
+ Current results are from the latest travis build #819 from commit: 'syntax fix' on master
 
 
 ## Internal pipeline reports:

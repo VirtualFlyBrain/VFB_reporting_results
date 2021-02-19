@@ -254,14 +254,14 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 2381432	Uniglomerular mlALT VA1v vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN (outlier) 2381433 RJVR	
 2227995	WEDPN1A#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#2 2227996 Grey Herron SD	
 2227866	Uniglomerular mlALT VA1v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN Dewar's 2227867 RJVR	
-11546775	Multiglomerular t6-mALT smPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t6-mALT smPN VP1m+DC2+VP2+17 LTS 0.8 bilateral Punishment King 1402861 MEB RJVR	
+2122447	WEDPN1A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#1 2122448 RJVR	
 2070199	Multiglomerular t2-mALT ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT ilPN DL4+DA2+DA4l+22 LTS 0.62 bilateral 2070200 PMJ	
 1664544	Multiglomerular t3-mALT l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VL1+VP5+VP2+2 LTS 0.95 bilateral 1664545 RJVR ECM	
 1903280	Uniglomerular mlALT VL2a vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 1903281 GSXEJ	
 1870230	LHAV2a3#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV2a3#1 1870231 RJVR AJES PS	
 1866895	LHCENT7#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT7#1 1866896 Morpholino ASB	
 1812558	LHAD3a8#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD3a8#1 1812559 KM	
-1803633	LHAD3a10#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD3a10#1 1803634 Shaky AJES	
+11546775	Multiglomerular t6-mALT smPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t6-mALT smPN VP1m+DC2+VP2+17 LTS 0.8 bilateral Punishment King 1402861 MEB RJVR	
 1727913	Multiglomerular lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN DP1l+DP1m+DL2v+23 LTS 0.66 1727914 RJVR ZM	
 1724523	Uniglomerular mlALT VL2a vPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 1724524 RJVR	
 1722202	Uniglomerular mlALT VA1v vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN Double mlALT 1722203 RJVR	
@@ -338,7 +338,7 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 57158	Multiglomerular mALT lvPN#R44	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DC3+DA1+DA3+3 LTS 0.95 DA1 Type 2 R 57159 GA	
 3301234	Uniglomerular mlALT VL2a vPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 3301235	
 3376158	LHPV6o1#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV6o1#1 3376159 Kabuki RJVR	
-2122447	WEDPN1A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#1 2122448 RJVR	
+1803633	LHAD3a10#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD3a10#1 1803634 Shaky AJES	
 3416395	LHPV2f2#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2f2#1 3416396 RJVR	
 7017522	Multiglomerular t10-lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t10-lALT l2PN VP3+VP5+VP2 LTS 0.97 7017523 ECM	
 6695923	Uniglomerular mlALT DP1m vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN Ketchup 6695924 RJVR	
@@ -355,14 +355,14 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 5471515	Uniglomerular t5-mlALT VP3 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t5-mlALT VP3 vPN 562645 GSXEJ	
 5217967	Uniglomerular mlALT DL2v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2v vPN 5217968 ASB RJVR	
 5169854	Multiglomerular mALT lvPN#R34	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL1+DL4+VM4+3 LTS 0.93 5169855	
-5019352	Uniglomerular mlALT DM4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DM4 vPN Carpal Tunnel 5019353 RJVR	
+5002989	WEDPN1A#4	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#4 5002990 RJVR PDP	
 5807241	LHPV5d3#2	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#2 5807242 Make Good Decisions GSXEJ	
 7712104	Uniglomerular mALT VC3m lvPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3m lvPN 7712105 XZ	
 8406430	Multiglomerular t10-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t10-lALT l2PN VC5+VP5+VP2+2 LTS 0.94 8406431 JSP	
 8566851	Multiglomerular lALT lv2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT lv2PN VA1d+VA1v+VP3+5 LTS 0.93 Esme Weatherwax 8566852 PS	
+3394015	LHCENT1#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT1#1 3394016 Explorer ASB	
 11519897	LHCENT5#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT5#1 11519898 Capaldi RJVR	
 11524119	Uniglomerular lALT VP1m l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular lALT VP1m l2PN 65701 AJ ECM	
-3394015	LHCENT1#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT1#1 3394016 Explorer ASB	
 11524508	LHPV2c1#2	15754279	Paper: Bates and Schlegel et al 2020	LHPV2c1#2 11524509 FML Grassy - downstream of DL4	
 11543484	LHCENT3#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT3#1 11543485 Safety Pin CMM	
 11543519	LHAV2d1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV2d1#1 11543520 GSXEJ RJVR Joffrey	
@@ -379,7 +379,7 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 8715672	Multiglomerular t2-mALT ilPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT ilPN DA2+DL4+DA4l+19 LTS 0.69 bilateral 8715673 ECM	
 4954525	Multiglomerular lALT imPN#2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT imPN VM5v+VM1+VA7l+24 LTS 0.56 4954526 SD ZM	
 4954519	Multiglomerular mlALT vPN#R58	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1m+VC1+DC2+5 LTS 0.9 4954520 SD ECM	
-5002989	WEDPN1A#4	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#4 5002990 RJVR PDP	
+5019352	Uniglomerular mlALT DM4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DM4 vPN Carpal Tunnel 5019353 RJVR	
 4946893	WEDPN2B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#1 4946894 RJVR SD Lucy Parsons	
 4947032	WEDPN7A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7A#1 4947033 Crane SD	
 3954226	WEDPN7C#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7C#2 3954227 Sprig ASB RJVR	
@@ -406,11 +406,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 4905365	Multiglomerular t4-mALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t4-mALT spPN DP1l+DM4+VA4+17 LTS 0.75 4905366 RJVR ZM	
 4876532	Biglomerular t10-lALT VP5 + VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP5 + VP2 l2PN 4876533 RJVR	
 4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 4869883 ECM	
-4812228	Uniglomerular mlALT DL2d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2d vPN 4812229 RJVR SD	
 4195469	Multiglomerular lALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP1m+VM7d+VM7v+9 LTS 0.87 4195470 RJVR	
+4672650	Uniglomerular t10-lALT VP5 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP5 l2PN 4672651 ZM ECM	
 4671556	Biglomerular t10-lALT VP5 + VP3 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP3 + VP5 l2PN 4671557 ZM ECM	
 4632091	Uniglomerular mlALT DP1l vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1l vPN 4624559 ASB PS	
-4672650	Uniglomerular t10-lALT VP5 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP5 l2PN 4672651 ZM ECM	
+4812228	Uniglomerular mlALT DL2d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2d vPN 4812229 RJVR SD	
 4624374	Uniglomerular mlALT VM2 vPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 4624375 ASB	
 4624325	Uniglomerular mlALT DC4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DC4 vPN 4624326 RJVR	
 4586967	Uniglomerular mALT VC3l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 4586968 RJVR XZ	
@@ -422,75 +422,89 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 488055	LHAV4c1#1	15754283	Paper: Dolan et al 2019	LHAV4c1#1 488056 downstream DA1 GSXEJ	
 1703872	LHPV2a2#1	15754283	Paper: Dolan et al 2019	LHPV2a2#1 1703873 FML Beech - downstream of DA2	
 1710793	LHPV4a1#3	15754283	Paper: Dolan et al 2019	LHPV4a1#3 1710794 Tipi ASB RJVR	
-2050698	LHAV4e7#1	15754283	Paper: Dolan et al 2019	LHAV4e7#1 2050699 ASB	
+1870230	LHAV2a3#1	15754283	Paper: Dolan et al 2019	LHAV2a3#1 1870231 RJVR AJES PS	
 1879479	LHAD1f4#1	15754283	Paper: Dolan et al 2019	LHAD1f4#1 1879480 Aspis-like	
+2050698	LHAV4e7#1	15754283	Paper: Dolan et al 2019	LHAV4e7#1 2050699 ASB	
 2227995	WEDPN1A#2	15754283	Paper: Dolan et al 2019	WEDPN1A#2 2227996 Grey Herron SD	
-4946872	WEDPN6A#1	15754283	Paper: Dolan et al 2019	WEDPN6A#1 4946873 Red Kite ASB SD	
+2851242	LHAV4g1#1	15754283	Paper: Dolan et al 2019	LHAV4g1#1 2851243 Dove RJVR	
 2548003	LHPV4a10#1	15754283	Paper: Dolan et al 2019	LHPV4a10#1 2548004 Teal ASB	
 15738898	LHAV4a3#1	15754283	Paper: Dolan et al 2019	LHAV4a3#1 15738899 Chicken ASB	
 9249174	WEDPN2B#2	15754283	Paper: Dolan et al 2019	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP	
 6185360	AVLP026#1	15754283	Paper: Dolan et al 2019	AVLP026#1 6185361 Stalk ASB	
-3481901	LHPD3a5#1	15754283	Paper: Dolan et al 2019	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	
+4946872	WEDPN6A#1	15754283	Paper: Dolan et al 2019	WEDPN6A#1 4946873 Red Kite ASB SD	
 2372530	LHPV4d3#2	15754283	Paper: Dolan et al 2019	LHPV4d3#2 2372531 Shearwaters RJVR ASB	
-1870230	LHAV2a3#1	15754283	Paper: Dolan et al 2019	LHAV2a3#1 1870231 RJVR AJES PS	
+2969221	LHAD1c1#2	15754283	Paper: Dolan et al 2019	LHAD1c1#2 2969222 Uncle Sam CMM	
+3080183	LHAD1c1#1	15754283	Paper: Dolan et al 2019	LHAD1c1#1 3080184 Dust World JJ PS	
+3136251	LHPD3a4#1	15754283	Paper: Dolan et al 2019	LHPD3a4#1 3136252 Piri Reis ASB RJVR	
 3376158	LHPV6o1#1	15754283	Paper: Dolan et al 2019	LHPV6o1#1 3376159 Kabuki RJVR	
 3393889	LHAV4e4#1	15754283	Paper: Dolan et al 2019	LHAV4e4#1 3393890 Chloé LSC	
-3136251	LHPD3a4#1	15754283	Paper: Dolan et al 2019	LHPD3a4#1 3136252 Piri Reis ASB RJVR	
-3080183	LHAD1c1#1	15754283	Paper: Dolan et al 2019	LHAD1c1#1 3080184 Dust World JJ PS	
-2851242	LHAV4g1#1	15754283	Paper: Dolan et al 2019	LHAV4g1#1 2851243 Dove RJVR	
-2969221	LHAD1c1#2	15754283	Paper: Dolan et al 2019	LHAD1c1#2 2969222 Uncle Sam CMM	
-5219918	sparse ABAF LN#1	15981708	Paper: Coates et al 2020	Sparse ABAF LN 5219919 ECM SVV	
-3644717	SMP Input Neuron #1	15981708	Paper: Coates et al 2020	Not A Thing 5 neuron 3644718 KEC	
-3085783	SIMPAL-Right #2	15981708	Paper: Coates et al 2020	neuron 3085784 Mt Everest 2 JJ	
-3077882	SIMPAL-Right #1	15981708	Paper: Coates et al 2020	neuron 3077883 Mt Everest JJ	
-11633437	Patchy LN #20	15981708	Paper: Coates et al 2020	putative dorsolateral LN 11633438 LMH	
+3481901	LHPD3a5#1	15754283	Paper: Dolan et al 2019	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	
+11543484	LHCENT3#1	15754388	Paper: Otto et al 2020	LHCENT3#1 11543485 Safety Pin CMM	
+177997	Multiglomerular mALT lvPN#R3	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VL2p+VM7v+DM3+16 LTS 0.68 177998 SMM	
+181551	LHCENT8#1	15754388	Paper: Otto et al 2020	LHCENT8#1 181552 Vieille Priére Bouddhique EW ASB RJVR	
+554327	LHCENT8#2	15754388	Paper: Otto et al 2020	LHCENT8#2 554328 IJA Vieille Priére Bouddhique	
+1137895	Multiglomerular mALT lvPN#R14	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VM3+VC4+DA1+3 LTS 0.91 56992 HG NAS	
+1142316	Multiglomerular mALT lvPN#R4	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN DL5+DC1+DP1m+6 LTS 0.87 177664 ECS	
+3080183	LHAD1c1#1	15754388	Paper: Otto et al 2020	LHAD1c1#1 3080184 Dust World JJ PS	
+2969221	LHAD1c1#2	15754388	Paper: Otto et al 2020	LHAD1c1#2 2969222 Uncle Sam CMM	
+177584	Multiglomerular mALT lvPN#R2	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VC4+DL3+VM3+29 LTS 0.48 177585 NAS ZSG	
+11519759	LHCENT9#1	15754388	Paper: Otto et al 2020	LHCENT9#1 11519760 Fen Tiger CH ASB	
+11519897	LHCENT5#1	15754388	Paper: Otto et al 2020	LHCENT5#1 11519898 Capaldi RJVR	
+1299740	LHMB1#1	15754388	Paper: Otto et al 2020	LHMB1#1 1299741 Birthday ASB	
+177545	Multiglomerular mALT lvPN#R1	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VM3+VM7v+VA2+31 LTS 0.43 177546 SMM AW	
+5982276	LHPD5a1#1	15754388	Paper: Otto et al 2020	LHPD5a1#1 5982277 ECM LB Sam Tarly	
+5157807	SIMPAL-Left #2	15981708	Paper: Coates et al 2020	neuron 5157808 Mt Everest 3 LMH	
+10108062	Patchy LN #18	15981708	Paper: Coates et al 2020	Potential LN 10108063 KEC NWS	
+8758601	Patchy LN #17	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 8758602 LMH FS	
+8633531	Patchy LN #16	15981708	Paper: Coates et al 2020	putative LatLN 8633532 FS LMH	
+8540881	SIMPAL-Left #1	15981708	Paper: Coates et al 2020	neuron 8540882 - Mt Everest 4	
 829827	Dense ABAF LN#1	15981708	Paper: Coates et al 2020	Dense ABAF LN-1 829828 SVV FS	
 1990940	Patchy LN #1	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 1990941 FS LMH	
 2849437	Patchy LN #2	15981708	Paper: Coates et al 2020	LN DL6 candidate neuron 2849438 NS-SAC	
 2891306	Dense ABAF LN#2	15981708	Paper: Coates et al 2020	Dense ABAF LN-2 57537 - FML SVV	
-5243155	Patchy LN #3	15981708	Paper: Coates et al 2020	putative LatLN 5243156 LMH NS	
-5692633	Patchy LN #4	15981708	Paper: Coates et al 2020	putative LatLN 5692634 AMD LMH	
-5157807	SIMPAL-Left #2	15981708	Paper: Coates et al 2020	neuron 5157808 Mt Everest 3 LMH	
-6190457	Patchy LN #6	15981708	Paper: Coates et al 2020	Putative LatLN 6190458 FS LMH	
-10238492	Patchy LN #19	15981708	Paper: Coates et al 2020	putative LatLN 10238493 FS	
-10108062	Patchy LN #18	15981708	Paper: Coates et al 2020	Potential LN 10108063 KEC NWS	
-8758601	Patchy LN #17	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 8758602 LMH FS	
-8633531	Patchy LN #16	15981708	Paper: Coates et al 2020	putative LatLN 8633532 FS LMH	
-5994210	Patchy LN #5	15981708	Paper: Coates et al 2020	putative LatLN 5994211 LMH ARH	
+5219918	sparse ABAF LN#1	15981708	Paper: Coates et al 2020	Sparse ABAF LN 5219919 ECM SVV	
+11633437	Patchy LN #20	15981708	Paper: Coates et al 2020	putative dorsolateral LN 11633438 LMH	
 8409238	Patchy LN #15	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 8409239 LMH FS	
 8382473	Patchy LN #14	15981708	Paper: Coates et al 2020	putative LatLN 8382474 LMH	
-8540881	SIMPAL-Left #1	15981708	Paper: Coates et al 2020	neuron 8540882 - Mt Everest 4	
-7364280	Patchy LN #12	15981708	Paper: Coates et al 2020	putative LatLN 7364281 FS LMH	
-7348199	Patchy LN #11	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 7348200 FS	
-7298614	Patchy LN #10	15981708	Paper: Coates et al 2020	putative LatLN 7298615 LMH FS	
-7298540	Patchy LN #9	15981708	Paper: Coates et al 2020	putative LatLN 7298541 LMH FS	
-7298321	Patchy LN #8	15981708	Paper: Coates et al 2020	putative LatLN 7298322 LMH FS	
-6209269	Patchy LN #7	15981708	Paper: Coates et al 2020	putative LatLN 6209270 LMH	
 7702725	Patchy LN #13	15981708	Paper: Coates et al 2020	putative LatLN 7702726 AMD LMH NWS ECM	
-3423772	PEN1-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (left) neuron 373414 AES	
+10238492	Patchy LN #19	15981708	Paper: Coates et al 2020	putative LatLN 10238493 FS	
+7348199	Patchy LN #11	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 7348200 FS	
+7298321	Patchy LN #8	15981708	Paper: Coates et al 2020	putative LatLN 7298322 LMH FS	
+7364280	Patchy LN #12	15981708	Paper: Coates et al 2020	putative LatLN 7364281 FS LMH	
+6190457	Patchy LN #6	15981708	Paper: Coates et al 2020	Putative LatLN 6190458 FS LMH	
+5994210	Patchy LN #5	15981708	Paper: Coates et al 2020	putative LatLN 5994211 LMH ARH	
+5692633	Patchy LN #4	15981708	Paper: Coates et al 2020	putative LatLN 5692634 AMD LMH	
+6209269	Patchy LN #7	15981708	Paper: Coates et al 2020	putative LatLN 6209270 LMH	
+3077882	SIMPAL-Right #1	15981708	Paper: Coates et al 2020	neuron 3077883 Mt Everest JJ	
+3085783	SIMPAL-Right #2	15981708	Paper: Coates et al 2020	neuron 3085784 Mt Everest 2 JJ	
+3644717	SMP Input Neuron #1	15981708	Paper: Coates et al 2020	Not A Thing 5 neuron 3644718 KEC	
+7298540	Patchy LN #9	15981708	Paper: Coates et al 2020	putative LatLN 7298541 LMH FS	
+7298614	Patchy LN #10	15981708	Paper: Coates et al 2020	putative LatLN 7298615 LMH FS	
+5243155	Patchy LN #3	15981708	Paper: Coates et al 2020	putative LatLN 5243156 LMH NS	
 4210786	EPG-5R#3	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 341414 EWN AW	
 4087066	EPG-5L#3	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 380990 AES 	
 3849973	PEG-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-gall (right) neuron 308798 VJ	
 3512247	PEG-6R	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-gall (right) neuron 659781 CP	
 3491680	PEN2-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (right) neuron 302517 AES 	
 3457743	EPG-5L#2	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 381455 BBQ 	
+3423772	PEN1-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (left) neuron 373414 AES	
 3349747	PEN2-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (left) neuron 371030 AES	
-803916	Delta7-1R9R8L#1	16232065	Paper: Turner-Evans et al 2020	PBG9R/1R/8L Delta7 Neuron 803917 	
+2703303	PEN2-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (left) neuron 826203	
 3286828	PEN2-6L#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (left) neuron 372070	
 437814	EPG-5R#1	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 437815 AES	
 525851	PEN1-6R#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 367405 AES	
+607812	PEN1-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 366478 AES	
 649823	PEN1-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 1 (left) neuron 649824 VJ	
 659759	PEN2-6R#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (right) neuron 365862 AES	
 668576	PEN1-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 1 (right) neuron 668577 SA	
+803916	Delta7-1R9R8L#1	16232065	Paper: Turner-Evans et al 2020	PBG9R/1R/8L Delta7 Neuron 803917 	
 806288	PEN2-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (right) neuron 806289 CP 	
 827466	PEN1-7L	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (left) neuron 827467 CP	
-828911	PEN1-7R	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (right) neuron 828912 CP	
 861090	EPG-5R#2	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 302409 VJ	
 963438	PEG-6L	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-gall (left) neuron 963439 CP	
 1032767	PEG-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-gall (left) neuron 1032768 SA	
 1568214	EPG-5L#1	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 413550 BQ	
 1625086	PEN2-7R	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 2 (right) neuron 828357	
 1639675	PEN2-7L	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 2 (left) neuron 828018	
-2703303	PEN2-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (left) neuron 826203	
 3338987	PEN1-6L#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (left) neuron 372970 SA	
-607812	PEN1-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 366478 AES	
+828911	PEN1-7R	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (right) neuron 828912 CP	
