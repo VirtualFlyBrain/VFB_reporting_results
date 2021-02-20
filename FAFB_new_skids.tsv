@@ -402,24 +402,24 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 3770352	Protocerebral_DAN_input_c 11.9.3#2	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3770353 ASB	
 3770468	Protocerebral_DAN_input_c 11.9.3#13	15754388	Paper: Otto et al 2020	not C11A 3770469 ASB	
 3770799	Protocerebral_DAN_input_c 13.15.3#1	15754388	Paper: Otto et al 2020	neuron 3770800 MWP Scotoplanes globosa	
-3770805	pC1e	16830656	Paper: Wang et al 2020c	pMP8 Type I 1269969 IT TY FW-C1	
 3770805	pC1e	16337827	Paper: Wang et al 2020a	pMP8 Type I 1269969 IT TY FW-C1	
 3770805	pC1e	15754388	Paper: Otto et al 2020	pMP8 Type I 1269969 IT TY FW-C1	
+3770805	pC1e	16830656	Paper: Wang et al 2020c	pMP8 Type I 1269969 IT TY FW-C1	
 3774426	Protocerebral_DAN_input_c 13.15.1#5	15754388	Paper: Otto et al 2020	Neuron 3774427 Madison Square JH	
 3778973	Protocerebral_DAN_input_c 11.9.4#7	15754388	Paper: Otto et al 2020	not C11A 3778974 ASB	
 3779048	Protocerebral_DAN_input_c 11.16.3#2	15754388	Paper: Otto et al 2020	neuron 3779049 [SLP.R]-[SIP.R]-[SMP.R] AJES Mimosa	
 3779685	Protocerebral_DAN_input_c 11.9.3#14	15754388	Paper: Otto et al 2020	not C11A 3779686 CMM & ASB	
 3780756	Protocerebral_DAN_input_c 13.15.3#2	15754388	Paper: Otto et al 2020	aSP-g downstream 3780757 FW KM	
-3781621	pC1b	16830656	Paper: Wang et al 2020c	Putative pMP8 Type II 3781622 TY NF FW-C4	
 3781621	pC1b	16337827	Paper: Wang et al 2020a	Putative pMP8 Type II 3781622 TY NF FW-C4	
+3781621	pC1b	16830656	Paper: Wang et al 2020c	Putative pMP8 Type II 3781622 TY NF FW-C4	
 3786105	MBON-y2a'1_L	15754388	Paper: Otto et al 2020	MBON-y2a'1 LEFT 3786106 NS	
 3792463	MBON-y2(32)_L	15754388	Paper: Otto et al 2020	putative new MBON-y2 (3032971) LEFT 3792464 NS	
 3792823	Protocerebral_DAN_input_c 8.1.2	15754388	Paper: Otto et al 2020	mAL like 3792824 RJVR	
-3794183	pC1c	16337827	Paper: Wang et al 2020a	pMP8 Type I 3794184 TY FW-C5 NF	
 3794183	pC1c	15754388	Paper: Otto et al 2020	pMP8 Type I 3794184 TY FW-C5 NF	
 3794183	pC1c	16830656	Paper: Wang et al 2020c	pMP8 Type I 3794184 TY FW-C5 NF	
-3807212	pC1a	16337827	Paper: Wang et al 2020a	pMP8 Type II 3807213 TY FW-C6	
+3794183	pC1c	16337827	Paper: Wang et al 2020a	pMP8 Type I 3794184 TY FW-C5 NF	
 3807212	pC1a	16830656	Paper: Wang et al 2020c	pMP8 Type II 3807213 TY FW-C6	
+3807212	pC1a	16337827	Paper: Wang et al 2020a	pMP8 Type II 3807213 TY FW-C6	
 3815811	Protocerebral_DAN_input_c 9.6.0	15754388	Paper: Otto et al 2020	Neuron 1940840 Sleepy Hollow JH	
 3829861	Protocerebral_DAN_input_c 13.9.2	15754388	Paper: Otto et al 2020	neuron 3829862 [SMP.R]-[SIP.R] AJES Leucojum	
 3837769	Protocerebral_DAN_input_c 13.10.2	15754388	Paper: Otto et al 2020	pMP8 Type I 3837770 TY FW-C14	
@@ -432,8 +432,8 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 3949996	Protocerebral_DAN_input_c 10.3.1	15754388	Paper: Otto et al 2020	neuron 3949997 LH.R->SMP.R Rego AJES	
 3957522	Protocerebral_DAN_input_c 12.6.6#11	15754388	Paper: Otto et al 2020	Neuron 1856161 Pony Express RT TY	
 3979930	pC1d	16337827	Paper: Wang et al 2020a	pMP8 Type I 3778246 TY FW-C2	
-3979930	pC1d	16830656	Paper: Wang et al 2020c	pMP8 Type I 3778246 TY FW-C2	
 3979930	pC1d	15754388	Paper: Otto et al 2020	pMP8 Type I 3778246 TY FW-C2	
+3979930	pC1d	16830656	Paper: Wang et al 2020c	pMP8 Type I 3778246 TY FW-C2	
 3993648	Protocerebral_DAN_input_c 9.2.4#4	15754388	Paper: Otto et al 2020	Neuron 3993649 [SMP.R]-[LH_boundary.R]	
 4003404	Protocerebral_DAN_input_c 11.12.2#4	15754388	Paper: Otto et al 2020	Neuron 4003405 Canes Venatici JH split from neuron 3307441 Guide Dog CMM	
 4027264	Protocerebral_DAN_input_c 11.16.10#7	15754388	Paper: Otto et al 2020	Lily 4027265 NM	
@@ -546,8 +546,8 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 5310406	vpoIN#3	16830656	Paper: Wang et al 2020c	neuron 5310407 CMP NF FW type1-1	
 5316769	Protocerebral_DAN_input_c 3.10.0#2	15754388	Paper: Otto et al 2020	Putative aSP23 - 5316770 NF	
 5321581	DNp13	16337677	Paper: Wang et al 2020b	neuron 5321582 JSP BM	
-5353953	SAG#R	16830656	Paper: Wang et al 2020c	neuron 5353954 Robin CMP NF	
 5353953	SAG#R	16337827	Paper: Wang et al 2020a	neuron 5353954 Robin CMP NF	
+5353953	SAG#R	16830656	Paper: Wang et al 2020c	neuron 5353954 Robin CMP NF	
 5363909	Protocerebral_DAN_input_c 10.16.2#1	15754388	Paper: Otto et al 2020	dlALT  1449743 NM JH	
 5364422	SEZ_DAN_input_c 7.7.5#3	15754388	Paper: Otto et al 2020	Neuron 5364423 Doctor No JH	
 5375276	Protocerebral_DAN_input_c 3.18.0#1	15754388	Paper: Otto et al 2020	neuron 5375277 Peace Prize LT NM	
@@ -1027,5 +1027,3 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 13619676	TM5#2	16830912	Paper: Morimoto et al 2020	Putative Tm5 unknown 13619677 HL	
 13622662	TM5#1	16830912	Paper: Morimoto et al 2020	Putative Tm5 unknown subtype 13622663 MF	
 15385365	Protocerebral_DAN_input_c 14.3.2	15754388	Paper: Otto et al 2020	neuron 5364350 Elevator RT	
-16483918	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	15579831	Paper: Marin et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 1356478 ARH	
-16483918	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 1356478 ARH	
