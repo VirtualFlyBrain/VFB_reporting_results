@@ -106,8 +106,8 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 57446	Multiglomerular mALT lPN#R3	15579831	Paper: Marin et al 2020	Multiglomerular mALT lPN VP1d+VC1+VM7v+10 LTS 0.85 57447 NS NM 	
 57434	Multiglomerular mALT lPN bilateral#R2	15579831	Paper: Marin et al 2020	Multiglomerular mALT lPN VP2+VP5+VP3+4 LTS 0.92 bilateral 57435 LK	
 7017522	Multiglomerular t10-lALT l2PN#R1	15579831	Paper: Marin et al 2020	Multiglomerular t10-lALT l2PN VP3+VP5+VP2 LTS 0.97 7017523 ECM	
+7427360	VP3RNar#3	15579831	Paper: Marin et al 2020	VP3 TRN 7427361 ECM	
 7423431	VP2+SEZ lvPN1#1_L	15579831	Paper: Marin et al 2020	VP2 + SEZ lvPN mALT left 7423432 XZ	
-11052217	VP2+VP5 lvPN#1_L	15579831	Paper: Marin et al 2020	VP2 + VP5 lvPN mALT left 11052218 XZ	
 12766362	VP1mRNl#4	15579831	Paper: Marin et al 2020	left VP1m HRN 12766363 ECM	
 12734515	VP1mRNl#2	15579831	Paper: Marin et al 2020	left VP1m HRN 12734516 ECM	
 12702677	VP1dRNl#7	15579831	Paper: Marin et al 2020	left VP1d HRN 12702678 ECM	
@@ -117,8 +117,8 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 12234527	VP1dRNr#8	15579831	Paper: Marin et al 2020	VP1d HRN 12234528 ECM	
 12232904	VP1lRNr#6	15579831	Paper: Marin et al 2020	VP1l HRN 12232905 ECM	
 12229707	VP1mRNr#6	15579831	Paper: Marin et al 2020	VP1m HRN 12229708 ECM	
-12766859	VP1mRNl#6	15579831	Paper: Marin et al 2020	left VP1m HRN 12766860 ECM	
 11648695	VP1lRNr#5	15579831	Paper: Marin et al 2020	VP1l HRN 11648696 ECM	
+11546775	Multiglomerular t6-mALT smPN#R1	15579831	Paper: Marin et al 2020	Multiglomerular t6-mALT smPN VP1m+DC2+VP2+17 LTS 0.8 bilateral Punishment King 1402861 MEB RJVR	
 11545803	LHAV3f1#1	15579831	Paper: Marin et al 2020	LHAV3f1#1 11545804 RJVR Ouroboros	
 11543519	LHAV2d1#1	15579831	Paper: Marin et al 2020	LHAV2d1#1 11543520 GSXEJ RJVR Joffrey	
 11524452	DN1-l	15579831	Paper: Marin et al 2020	DN1-l 11524453 ECM Katy Perry 	
@@ -128,9 +128,10 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 11219809	VP1dRNr#6	15579831	Paper: Marin et al 2020	VP1d HRN 11219810 PS	
 11210831	PD5g1#1	15579831	Paper: Marin et al 2020	PD5g1#1 11210832 PMJ ECM Eyrie	
 11128057	PV6r1#4	15579831	Paper: Marin et al 2020	PV6r1#4 11128058 LB Ygritte clan	
-11546775	Multiglomerular t6-mALT smPN#R1	15579831	Paper: Marin et al 2020	Multiglomerular t6-mALT smPN VP1m+DC2+VP2+17 LTS 0.8 bilateral Punishment King 1402861 MEB RJVR	
+7385775	VP3RNar#2	15579831	Paper: Marin et al 2020	VP3 TRN 7385776 ECM	
+12766859	VP1mRNl#6	15579831	Paper: Marin et al 2020	left VP1m HRN 12766860 ECM	
+10515783	VP2+VC5 l2PN_L	15579831	Paper: Marin et al 2020	VP2 + VC5 l2PN lALT bilateral left 10515784 ECM	
 12776427	VP1mRNl#1	15579831	Paper: Marin et al 2020	left VP1m HRN 12776428 ECM	
-12780133	VP1dRNl#5	15579831	Paper: Marin et al 2020	left VP1d HRN 12780134 ECM	
 12782012	VP1dRNl#6	15579831	Paper: Marin et al 2020	left VP1d HRN 12782013 ECM	
 16483918	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	15579831	Paper: Marin et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 1356478 ARH	
 15423548	LHPD5a1#1_L	15579831	Paper: Marin et al 2020	LHPD5a1#1 8865548 ECM LB Sam Tarly left	
@@ -153,12 +154,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 13154015	VP2 l2PN_L	15579831	Paper: Marin et al 2020	VP2 l2PN lALT left 13154016 CK	
 13053419	VP5 l2PN_L	15579831	Paper: Marin et al 2020	VP5 l2PN t10-lALT left 13053420 ECM	
 12805737	VP4+ vPN_L	15579831	Paper: Marin et al 2020	VP4+ vPN mlALT bilateral left 12805738 AJ	
-7385775	VP3RNar#2	15579831	Paper: Marin et al 2020	VP3 TRN 7385776 ECM	
-10515783	VP2+VC5 l2PN_L	15579831	Paper: Marin et al 2020	VP2 + VC5 l2PN lALT bilateral left 10515784 ECM	
+12780133	VP1dRNl#5	15579831	Paper: Marin et al 2020	left VP1d HRN 12780134 ECM	
 10078400	Multiglomerular mALT l2PN#R5	15579831	Paper: Marin et al 2020	Multiglomerular mALT l2PN VP5+VP3+VP1l+3 LTS 0.93 10078401 FML ASB ECM	
-8880705	PV7c1#1	15579831	Paper: Marin et al 2020	PV7c1#1 8880706 Baratheon MT ECM	
-8877293	PV6r1#4_L	15579831	Paper: Marin et al 2020	PV6r1_L#4 8877294 Ygritte clan left	
-8876600	DN1-l_L	15579831	Paper: Marin et al 2020	DN1-l 8876601 ECM Katy Perry left	
+11052217	VP2+VP5 lvPN#1_L	15579831	Paper: Marin et al 2020	VP2 + VP5 lvPN mALT left 11052218 XZ	
+9740174	VP1d+VP4 l2PN2_L	15579831	Paper: Marin et al 2020	VP1d + VP4 l2PN lALT left 9740175 RJVR	
+9951834	PD5g1#3	15579831	Paper: Marin et al 2020	PD5g1#3 9951835 ECM Randyll	
 8875932	PD5g1#2_L	15579831	Paper: Marin et al 2020	PD5g1_L#2 8875933 ECM Gilly left	
 8873592	LHAV3q1#1_L	15579831	Paper: Marin et al 2020	LHAV3q1#1 8873593 ECM Benji Stark left	
 8872558	LHPV4c#4_L	15579831	Paper: Marin et al 2020	LHPV4c_L#4 8872559 ECM left	
@@ -166,9 +166,9 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 8867765	PV6r1#1_L	15579831	Paper: Marin et al 2020	PV6r1_L#1 8867766 MT Ygritte clan left	
 8864990	VP2+ adPN_L	15579831	Paper: Marin et al 2020	VP2+ adPN mALT 8864991 left ECM	
 8854268	LHPV4c#3_L	15579831	Paper: Marin et al 2020	LHPV4c_L#3 8854269 MT left	
-8880131	PD5g1#3_L	15579831	Paper: Marin et al 2020	PD5g1_L#3 8880132 ECM Tarly family left	
 8853753	LHPV4c#1_L	15579831	Paper: Marin et al 2020	LHPV4c_L#1 8853754 ECM MT left	
-8825246	Multiglomerular t3-mALT l2PN#R2	15579831	Paper: Marin et al 2020	Multiglomerular t3-mALT l2PN VC5+VM1+VP2+4 LTS 0.92 8825247 RJVR ARH	
+8877293	PV6r1#4_L	15579831	Paper: Marin et al 2020	PV6r1_L#4 8877294 Ygritte clan left	
+8853436	KCg-s2L	15579831	Paper: Marin et al 2020	LAC KCy-s2 8853437 MT left	
 8820702	PD5g1#4	15579831	Paper: Marin et al 2020	PD5g1#4 8820703 ECM Aemon	
 8808525	LHPV6f1#2	15579831	Paper: Marin et al 2020	LHPV6f1#2 8808526 ECM Ygritte clan	
 8715672	Multiglomerular t2-mALT ilPN#R1	15579831	Paper: Marin et al 2020	Multiglomerular t2-mALT ilPN DA2+DL4+DA4l+19 LTS 0.69 bilateral 8715673 ECM	
@@ -177,11 +177,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 7910760	VP1lRNl#7	15579831	Paper: Marin et al 2020	left VP1l HRN 7910761 ECM	
 7910699	VP1lRNl#6	15579831	Paper: Marin et al 2020	left VP1l HRN 7910700 ECM	
 7837487	VP1lRNl#1	15579831	Paper: Marin et al 2020	left VP1l HRN 7837488 ECM	
-8853436	KCg-s2L	15579831	Paper: Marin et al 2020	LAC KCy-s2 8853437 MT left	
-9951834	PD5g1#3	15579831	Paper: Marin et al 2020	PD5g1#3 9951835 ECM Randyll	
+7463926	VP1l+ lvPN1#2_L	15579831	Paper: Marin et al 2020	VP1l+ lvPN mALT left 7463927 XZ	
+8825246	Multiglomerular t3-mALT l2PN#R2	15579831	Paper: Marin et al 2020	Multiglomerular t3-mALT l2PN VC5+VM1+VP2+4 LTS 0.92 8825247 RJVR ARH	
+8880131	PD5g1#3_L	15579831	Paper: Marin et al 2020	PD5g1_L#3 8880132 ECM Tarly family left	
+8876600	DN1-l_L	15579831	Paper: Marin et al 2020	DN1-l 8876601 ECM Katy Perry left	
 8880798	LHPV4c#5_L	15579831	Paper: Marin et al 2020	LHPV4c_L#5 8880799 MT left	
-8883804	LHPV4c#2_L	15579831	Paper: Marin et al 2020	LHPV4c_L#2 8883805 MT left	
-9740174	VP1d+VP4 l2PN2_L	15579831	Paper: Marin et al 2020	VP1d + VP4 l2PN lALT left 9740175 RJVR	
 9717951	VP1m++ smPN*_L	15579831	Paper: Marin et al 2020	Multiglomerular t6-mALT smPN left Punishment King 9717952 RJVR	
 9716626	VP1d+VP4 l2PN1_L	15579831	Paper: Marin et al 2020	VP1d + VP4 l2PN lALT bilateral 9716627 RJVR left	
 9711486	LHAV3f1#1_L	15579831	Paper: Marin et al 2020	LHAV3f1#1 Ouroboros left 9711487 RJVR	
@@ -189,324 +189,1335 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 9610210	VP1dRNl#1	15579831	Paper: Marin et al 2020	left VP1d HRN 9610211 ECM	
 9590169	VP1m+VP2 lvPN2_L	15579831	Paper: Marin et al 2020	VP1m+ lvPN t2-mALT left 9590170 ECM	
 9588978	VP1m+ lvPN_L	15579831	Paper: Marin et al 2020	VP1m+ PN t2ALT left 9588979 RJVR 	
-9588361	VP3RNal#2	15579831	Paper: Marin et al 2020	left VP3 TRN 9588362 RJVR	
+8880705	PV7c1#1	15579831	Paper: Marin et al 2020	PV7c1#1 8880706 Baratheon MT ECM	
 9586382	VP1dRNl#4	15579831	Paper: Marin et al 2020	left VP1d HRN 9586383 RJVR ECM	
 9573225	VP3RNal#3	15579831	Paper: Marin et al 2020	left VP3 TRN 9573226 RJVR	
-9573214	VP3RNal#4	15579831	Paper: Marin et al 2020	left VP3 TRN 9573215 RJVR	
+9588361	VP3RNal#2	15579831	Paper: Marin et al 2020	left VP3 TRN 9588362 RJVR	
 9573191	VP3RNal#1	15579831	Paper: Marin et al 2020	left VP3 TRN 9573192 RJVR	
-9159383	AV3r1#2_L	15579831	Paper: Marin et al 2020	AV3r1#2 9159384 MT Rhaegar left	
-9101937	VP1m+VP2 lvPN1#1_L	15579831	Paper: Marin et al 2020	VP1m + VP2 lvPN mALT left 9101938 XZ	
-9069835	LHPV6h1#1	15579831	Paper: Marin et al 2020	LHPV6h1#1 9069836 Gannet ASB ECM	
-9039579	VP4 vPN_L	15579831	Paper: Marin et al 2020	VP4 vPN t5-mlALT left 9039580 ECM	
-9027601	VP1lRNl#2	15579831	Paper: Marin et al 2020	left VP1l HRN 9027602 ECM	
-9018826	AV3r1#1_L	15579831	Paper: Marin et al 2020	AV3r1#1 9018827 ECM Jon Snow left	
+8883804	LHPV4c#2_L	15579831	Paper: Marin et al 2020	LHPV4c_L#2 8883805 MT left	
+9573214	VP3RNal#4	15579831	Paper: Marin et al 2020	left VP3 TRN 9573215 RJVR	
 8896969	PV6r1#3_L	15579831	Paper: Marin et al 2020	PV6r1_L#3 8896970 MT Ygritte clan left	
+9018826	AV3r1#1_L	15579831	Paper: Marin et al 2020	AV3r1#1 9018827 ECM Jon Snow left	
 8883836	PD5g1#1_L	15579831	Paper: Marin et al 2020	PD5g1_L#1 8883837 ECM Eyrie left	
-7463926	VP1l+ lvPN1#2_L	15579831	Paper: Marin et al 2020	VP1l+ lvPN mALT left 7463927 XZ	
-7427360	VP3RNar#3	15579831	Paper: Marin et al 2020	VP3 TRN 7427361 ECM	
-13565080	LHCENT2#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT2#1 13565081 Hoodwink ASB	
-14003783	Uniglomerular mALT VP5 + SEZ adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP5 + SEZ adPN 57472 LK ECM	
+9039579	VP4 vPN_L	15579831	Paper: Marin et al 2020	VP4 vPN t5-mlALT left 9039580 ECM	
+9069835	LHPV6h1#1	15579831	Paper: Marin et al 2020	LHPV6h1#1 9069836 Gannet ASB ECM	
+9101937	VP1m+VP2 lvPN1#1_L	15579831	Paper: Marin et al 2020	VP1m + VP2 lvPN mALT left 9101938 XZ	
+9159383	AV3r1#2_L	15579831	Paper: Marin et al 2020	AV3r1#2 9159384 MT Rhaegar left	
+9027601	VP1lRNl#2	15579831	Paper: Marin et al 2020	left VP1l HRN 9027602 ECM	
 13272939	Uniglomerular mlALT DP1m vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN 13272940 XZ	
 16483918	Uniglomerular t10-lALT VP3+ l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 1356478 ARH	
 15738898	LHAV4a3#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4a3#1 15738899 Chicken ASB	
+14003783	Uniglomerular mALT VP5 + SEZ adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP5 + SEZ adPN 57472 LK ECM	
+13565080	LHCENT2#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT2#1 13565081 Hoodwink ASB	
 13272860	Uniglomerular mlALT DP1m vPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN 13272861 XZ	
 3906	Uniglomerular mALT VC3m lvPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3m lvPN DB XZ	
 11546775	Multiglomerular t6-mALT smPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t6-mALT smPN VP1m+DC2+VP2+17 LTS 0.8 bilateral Punishment King 1402861 MEB RJVR	
-1372988	Multiglomerular mALT lvPN#R23	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP5+VP2+VP3+2 LTS 0.94 1372989 ARH	
-1363077	Multiglomerular t3-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VC5+VC3m+VM1+9 LTS 0.89 1363078 ARH	
-1339810	Multiglomerular lALT l2PN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN V+DL2v+VM7d+13 LTS 0.89 1339811 ARH	
-1334915	Multiglomerular lALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN DM4+DM1+DM2+28 LTS 0.52 1334916 ARH	
-1316519	LHPV2b5#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2b5#1 1316520 Golden Eagle GSXEJ RJVR	
-1299740	LHMB1#1	15754279	Paper: Bates and Schlegel et al 2020	LHMB1#1 1299741 Birthday ASB	
-1298816	LHAV6a3#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV6a3#1 1298817 Peacock Bass ASB	
-1288606	LHCENT6#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT6#1 1288607 Opportunity ASB	
-1144402	Multiglomerular mALT lvPN#R6	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM1+DM3+DM2+2 LTS 0.95 177691 MR	
-1144225	Multiglomerular mALT lvPN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM2+DM1+DP1m+5 LTS 0.91 177682 NSR	
-1142316	Multiglomerular mALT lvPN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL5+DC1+DP1m+6 LTS 0.87 177664 ECS	
-1137895	Multiglomerular mALT lvPN#R14	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+VC4+DA1+3 LTS 0.91 56992 HG NAS	
-1136923	Multiglomerular mALT lvPN#R8	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM1+DM4+DP1m LTS 0.97 57032 IJA AW	
-1532304	Uniglomerular mlALT DP1m vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN 1532305 ASB	
-1136366	Multiglomerular mALT lvPN#R12	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM3+DM4+VC4+6 LTS 0.87 56980 IJA	
-554327	LHCENT8#2	15754279	Paper: Bates and Schlegel et al 2020	LHCENT8#2 554328 IJA Vieille Priére Bouddhique	
-531931	Uniglomerular mlALT VA1d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1d vPN 531932 ASB GSXEJ	
-488055	LHAV4c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4c1#1 488056 downstream DA1 GSXEJ	
-199461	Multiglomerular mALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN DA2+VM7v+VP1m+14 LTS 0.76 Tikka Masala 199462 AEB NS 	
-192430	Multiglomerular t2-mALT lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT lvPN VP1m+VP5+VP1l LTS 0.97 192431 SMM ECM	
-182684	Multiglomerular mALT lPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP1d+DC4+VC1+5 LTS 0.93 182685 AES	
-181551	LHCENT8#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT8#1 181552 Vieille Priére Bouddhique EW ASB RJVR	
-177997	Multiglomerular mALT lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL2p+VM7v+DM3+16 LTS 0.68 177998 SMM	
-177656	Multiglomerular mALT lvPN#R7	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DP1l+DM1+2 LTS 0.93 177657 EW AW	
-177584	Multiglomerular mALT lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DL3+VM3+29 LTS 0.48 177585 NAS ZSG	
-177549	Multiglomerular mALT lvPN#R13	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+VA2+VC4+4 LTS 0.91 177550 SMM AW	
-177545	Multiglomerular mALT lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+VM7v+VA2+31 LTS 0.43 177546 SMM AW	
-177540	Multiglomerular mALT lvPN#R35	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DP1l+VA4+DL2v+7 LTS 0.85 177541 SMM NAS	
-563760	LHCENT4#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT4#1 563761 Mighty Little RJVR GSXEJ ASB 	
-73937	Uniglomerular mALT VL1 ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VL1 ilPN bilateral 73938 LK	
-1533152	Uniglomerular mlALT VM2 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 1533153 ASB	
-1702624	Uniglomerular mlALT VL2p vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2p vPN 1702625 ASB RJVR	
-3080183	LHAD1c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD1c1#1 3080184 Dust World JJ PS	
-2851242	LHAV4g1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4g1#1 2851243 Dove RJVR	
-2653656	Uniglomerular mlALT VA1d vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1d vPN 2653657 RJVR	
-2639558	LHAV4d1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4d1#1 2639559 RJVR Upstream DL4 Euphonium	
-2600341	Multiglomerular lALT l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP2+VC5+VM1 LTS 0.97 bilateral 2600342 RJVR ECM	
-2561343	Uniglomerular mlALT VA1v vPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN 2561344 RJVR	
-2548003	LHPV4a10#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV4a10#1 2548004 Teal ASB	
-2484510	Uniglomerular mlALT VP4 vPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VP4 vPN bilateral 2484511 ECM JH	
-2381432	Uniglomerular mlALT VA1v vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN (outlier) 2381433 RJVR	
-2227995	WEDPN1A#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#2 2227996 Grey Herron SD	
-2227866	Uniglomerular mlALT VA1v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN Dewar's 2227867 RJVR	
-2122447	WEDPN1A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#1 2122448 RJVR	
-2070199	Multiglomerular t2-mALT ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT ilPN DL4+DA2+DA4l+22 LTS 0.62 bilateral 2070200 PMJ	
-1664544	Multiglomerular t3-mALT l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VL1+VP5+VP2+2 LTS 0.95 bilateral 1664545 RJVR ECM	
-1903280	Uniglomerular mlALT VL2a vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 1903281 GSXEJ	
-1870230	LHAV2a3#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV2a3#1 1870231 RJVR AJES PS	
-1866895	LHCENT7#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT7#1 1866896 Morpholino ASB	
+3715995	Uniglomerular mALT VL2p adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VL2p adPN 3715996 ECM LB	
+3742499	Uniglomerular mALT VP1l lvPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l lvPN bilateral 3742500	
+3799421	WEDPN2B#3	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#3 3799422 Gregory Sylvester Xander Edmonton Jefferis RJVR GSXEJ	
+3813331	Uniglomerular mlALT DM4 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DM4 vPN 3813332 ASB	
+3813343	Uniglomerular mlALT VM2 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 3813344 PS	
+3813403	Uniglomerular mlALT DC4 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DC4 vPN 3813404 RJVR	
+3813424	Multiglomerular mlALT vPN#R56	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1m+VP1l+VP5+2 LTS 0.97 3813425 RJVR	
+3813438	Multiglomerular mlALT vPN#R57	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1l+VP1d+VM1+2 LTS 0.95 3813439 ECM	
+3813442	Multiglomerular mlALT vPN#R55	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1d+VP1m+VP1l+3 LTS 0.93 3813443 RJVR	
+3648956	Multiglomerular mALT lPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP3+VP2+VL1+1 LTS 0.95 bilateral 57439 NS	
+3813447	Multiglomerular mlALT vPN#R54	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1d+VP1m+VP1l+4 LTS 0.94 3813448 RJVR	
+3908507	Multiglomerular lALT l2PN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP4+VP1l+VL2p LTS 0.97 3908508 RJVR ECM	
+3954226	WEDPN7C#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7C#2 3954227 Sprig ASB RJVR	
+4002166	Multiglomerular t9-lALT lv2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t9-lALT lv2PN VP2+VC2+VP1m+4 LTS 0.94 4002167 PDP	
+4027387	WEDPN8C#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8C#1 4027388 Giant Ibis RJVR	
+4058666	Multiglomerular t2-mALT lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT lvPN VP1m+VP5+VP1l+1 LTS 0.96 4058667 ECM	
+4195469	Multiglomerular lALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP1m+VM7d+VM7v+9 LTS 0.87 4195470 RJVR	
+4267053	WEDPN1A#3	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#3 4267054 I BELIEVE IN ME SD RJVR	
+4280558	WEDPN1B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1B#1 4280559 SD RJVR Today I found a soma	
+4340854	Uniglomerular mlALT DL2d vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2d vPN Kahlo 4340855 ASB SD	
+3813455	Uniglomerular mlALT VL2a vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 3813456 RJVR	
+3481901	LHPD3a5#1	15754279	Paper: Bates and Schlegel et al 2020	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	
+3420237	Uniglomerular mALT VC5 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC5 adPN 3420238 RJVR	
+3416395	LHPV2f2#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2f2#1 3416396 RJVR	
 1812558	LHAD3a8#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD3a8#1 1812559 KM	
-12070989	Multiglomerular lALT imPN#1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT imPN VM5v+DL2d+VA7l+24 LTS 0.57 lALT Eponine 1340264 SD	
-1727913	Multiglomerular lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN DP1l+DP1m+DL2v+23 LTS 0.66 1727914 RJVR ZM	
-1724523	Uniglomerular mlALT VL2a vPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 1724524 RJVR	
-1722202	Uniglomerular mlALT VA1v vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN Double mlALT 1722203 RJVR	
-1720254	Multiglomerular mALT lvPN#R47	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA3+DA1+VC3l+8 LTS 0.84 1720255	
-1712057	Uniglomerular mALT VP2+ adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2+ adPN 1712058 ECM	
-1710886	LHPV2c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2c1#1 1710887 Fial RJVR	
-1710793	LHPV4a1#3	15754279	Paper: Bates and Schlegel et al 2020	LHPV4a1#3 1710794 Tipi ASB RJVR	
-1706774	LHAV3c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV3c1#1 1706775 RJVR Cornet	
-1703872	LHPV2a2#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2a2#1 1703873 FML Beech - downstream of DA2	
+1866895	LHCENT7#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT7#1 1866896 Morpholino ASB	
+1870230	LHAV2a3#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV2a3#1 1870231 RJVR AJES PS	
 1879479	LHAD1f4#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD1f4#1 1879480 Aspis-like	
-57536	Multiglomerular mALT l2PN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN VL2p+DP1l+VL2a+7 LTS 0.94 57537 LK NM 	
-57516	Uniglomerular mALT VP2 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 adPN 57517 LK ECM	
-57499	Uniglomerular mALT VL1 ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VL1 ilPN bilateral 57500 ML	
-57130	Uniglomerular mALT VC5+ lvPN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC5+ lvPN bilateral 57131 LK	
-57126	Multiglomerular mALT lvPN#R25	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+D+DA2+6 LTS 0.88 57127 LK	
-57122	Multiglomerular mALT lvPN#R27	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP1m+VP2+VP5+1 LTS 0.95 57123 GA ECM	
-57114	Multiglomerular mALT lvPN#R28	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+VP5+VP1m LTS 0.97 57115 HG ECM	
-57089	Multiglomerular mALT lvPN#R39	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+DC3+VA7l+5 LTS 0.9 DA1 Type 1b R 57091 IJA	
-57080	Multiglomerular mALT lvPN#R36	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA7m+DL1+VA3+7 LTS 0.88 57081 IJA	
-57076	Multiglomerular mALT lvPN#R37	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA5+VA3+DC3+4 LTS 0.91 57077 ML	
-57063	Uniglomerular mALT VP2 + SEZ lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 + SEZ lvPN 57064 ML ECM	
-57059	Multiglomerular mALT lvPN#R29	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular mALT VP1m + VP2 lvPN 57060 ML ECM	
-57051	Multiglomerular mALT lvPN#R22	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+VP5+VC5 LTS 0.97 57052 LK	
-57047	Multiglomerular mALT lvPN#R42	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DC4+DC3+VA5+8 LTS 0.87 57048 IJA	
-57039	Multiglomerular mALT lvPN#R38	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA7m+DL1+VA7l+6 LTS 0.91 57040 IJA	
-57035	Multiglomerular mALT lvPN#R45	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+DC3+DA3+3 LTS 0.94 R 2 DA1 Type 2 R  2 57036 LK	
-57134	Multiglomerular mALT lvPN#R21	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+VP5+DC4+2 LTS 0.96 57135 GA	
-57023	Multiglomerular mALT lvPN#R43	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DC3+DA1+4 LTS 0.96 DA1 Type 1b R  57024 NS	
-57015	Multiglomerular mALT lvPN#R18	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC5+VM4+VM1+2 LTS 0.95 57016 IJA	
-57011	Multiglomerular mALT lvPN#R41	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+DC3+VC4+6 LTS 0.92 DA1 Type 1b R 57012 NS	
-57007	Multiglomerular mALT lvPN#R31	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DP1l+DL1+DL4+6 LTS 0.86 57008 ML	
-57003	Uniglomerular mALT VM4 lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM4 lvPN 57004 ML	
-56999	Uniglomerular mALT VP1l+ lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l+ lvPN 57000 IJA NM ECM	
-56995	Multiglomerular mALT lvPN#R11	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+DP1l+VC3l+3 LTS 0.93 56996 IJA NAS	
-56983	Multiglomerular mALT lvPN#R15	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA4+VA3+VC4+6 LTS 0.92 56984 HG NAS	
-46800	Uniglomerular mALT VC3l adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 46801 JMR	
-41578	Uniglomerular mALT VC3l adPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 41579 AJ	
-32801	Multiglomerular mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN D+VP3+VA7m+24 LTS 0.63 32802 JMR	
-32793	Multiglomerular mALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN VM1+VP2+VP3+23 LTS 0.58 Flywalkies 32794 JMR	
-23134	Uniglomerular mALT VC3l adPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 23135 BH	
-4070	Uniglomerular mALT VC3l adPN#L4	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN DB XZ	
-57019	Multiglomerular mALT lvPN#R40	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DC3+VM5d+6 LTS 0.9 DA1 Type 1b R 57020 GA	
-57138	Multiglomerular mALT lvPN#R20	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP5+VP2+VP1m LTS 0.96 57139 IJA ECM	
-57142	Multiglomerular mALT lvPN#R26	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP5+VP2+VP1m+1 LTS 0.95 57143 GA ECM	
-57146	Uniglomerular mALT VP2 + SEZ lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 + SEZ lvPN 57147 HG SAC	
-57495	Biglomerular mALT VP1l + VP3 ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular mALT VP1l + VP3 ilPN bilateral 57496 LK ECM	
-57487	Biglomerular mALT VP1l + VP3 ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular mALT VP1l + VP3 ilPN bilateral 57488 ML ECM	
-57475	Multiglomerular mALT smPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT smPN VP3+VP5+VP2 LTS 0.97 bilateral 57476 IJA	
-57467	Multiglomerular mALT lPN#R8	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN DC4+V+DL5+7 LTS 0.84 57468 LK	
-57463	Multiglomerular mALT lPN#R6	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VL1+VP2+VP1l+2 LTS 0.94 57464 ML	
-57455	Multiglomerular mALT lPN#R12	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VA7l+VA7m+DC2+5 LTS 0.92 57456 LK	
-57450	Multiglomerular mALT lPN#R11	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VL1+VA7l+DA2+7 LTS 0.91 57451 LK	
-57446	Multiglomerular mALT lPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP1d+VC1+VM7v+10 LTS 0.85 57447 NS NM 	
-57442	Multiglomerular mALT lPN#R7	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP1l+DC4+DL5+8 LTS 0.86 57443 IJA	
-57434	Multiglomerular mALT lPN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP2+VP5+VP3+4 LTS 0.92 bilateral 57435 LK	
-57430	Multiglomerular mALT lPN bilateral#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP2+VL1+VP3+2 LTS 0.94 bilateral 57431 IJA ECM	
-57394	Multiglomerular mALT lPN#R10	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VA7l+DA4l+VL1+9 LTS 0.89 57395 IJA	
-57389	Multiglomerular mALT lPN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VL1+VM7v+VA5+6 LTS 0.86 57390 IJA	
-57236	Uniglomerular mALT VC5+ lvPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC5+ lvPN bilateral 57237 LK ECM	
-57232	Multiglomerular mALT lvPN#R24	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA2+DC4+VP1m+8 LTS 0.85 57233 GA	
-57224	Uniglomerular mALT VP1l+ lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l+ lvPN 57225 ML	
-57220	Multiglomerular mALT lvPN#R9	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA4+DM1+DM3+5 LTS 0.91 57221 LK NAS	
-57216	Uniglomerular mALT DL5 lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DL5 lvPN 57217 GA	
-57212	Multiglomerular mALT lvPN#R33	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL4+VL2p+VL1+5 LTS 0.89 57213 IJA ECM	
-57208	Multiglomerular mALT lvPN#R17	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL2p+VC3m+VC5+5 LTS 0.92 57209 IJA	
-57204	Multiglomerular mALT lvPN#R16	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC3l+VC4+VL2p+4 LTS 0.92 57205 IJA	
-57200	Uniglomerular mALT VP1l+ lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l+ lvPN 57201 NS ECM	
-57196	Multiglomerular mALT lvPN#R32	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL4+DL5+DP1l+3 LTS 0.93 57197 ML	
-57192	Uniglomerular mALT VM4 lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM4 lvPN 57193 LK	
-57179	Multiglomerular mALT lvPN#R46	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1 DA1+DA3+DC3+1 LTS 0.97 Type 2 R 57180 LK	
-57175	Multiglomerular mALT lvPN#R19	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC5+VM1+VM4+2 LTS 0.96 57176 IJA ECM	
-57171	Multiglomerular mALT lvPN#R30	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL2d+VL1+VL2p+4 LTS 0.9 57172 LK	
-57166	Uniglomerular mALT VP2 + SEZ lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 + SEZ lvPN 57167 LK	
-57158	Multiglomerular mALT lvPN#R44	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DC3+DA1+DA3+3 LTS 0.95 DA1 Type 2 R 57159 GA	
+1903280	Uniglomerular mlALT VL2a vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 1903281 GSXEJ	
+2070199	Multiglomerular t2-mALT ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT ilPN DL4+DA2+DA4l+22 LTS 0.62 bilateral 2070200 PMJ	
+2122447	WEDPN1A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#1 2122448 RJVR	
+2227866	Uniglomerular mlALT VA1v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN Dewar's 2227867 RJVR	
+2227995	WEDPN1A#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#2 2227996 Grey Herron SD	
+2381432	Uniglomerular mlALT VA1v vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN (outlier) 2381433 RJVR	
+2484510	Uniglomerular mlALT VP4 vPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VP4 vPN bilateral 2484511 ECM JH	
+2548003	LHPV4a10#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV4a10#1 2548004 Teal ASB	
+2561343	Uniglomerular mlALT VA1v vPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN 2561344 RJVR	
+2600341	Multiglomerular lALT l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP2+VC5+VM1 LTS 0.97 bilateral 2600342 RJVR ECM	
+2639558	LHAV4d1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4d1#1 2639559 RJVR Upstream DL4 Euphonium	
+2653656	Uniglomerular mlALT VA1d vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1d vPN 2653657 RJVR	
+2851242	LHAV4g1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4g1#1 2851243 Dove RJVR	
+3080183	LHAD1c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD1c1#1 3080184 Dust World JJ PS	
 3301234	Uniglomerular mlALT VL2a vPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 3301235	
 3376158	LHPV6o1#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV6o1#1 3376159 Kabuki RJVR	
-1803633	LHAD3a10#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD3a10#1 1803634 Shaky AJES	
-3416395	LHPV2f2#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2f2#1 3416396 RJVR	
-7017522	Multiglomerular t10-lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t10-lALT l2PN VP3+VP5+VP2 LTS 0.97 7017523 ECM	
-6695923	Uniglomerular mlALT DP1m vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN Ketchup 6695924 RJVR	
-6649190	Multiglomerular t-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t-mALT l2PN VL1+DC3+VL2p+5 LTS 0.92 6649191 JS ET	
-6082926	WEDPN7C#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7C#1 6082927 Marga PDP	
-5946848	Biglomerular t10-lALT VP5 + VP2 l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP5 + VP2 l2PN 5946849 ECM	
+3394015	LHCENT1#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT1#1 3394016 Explorer ASB	
+4494902	Uniglomerular mALT VC3l adPN#L3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 4494903 XZ	
+4507894	Uniglomerular mlALT VL2p vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2p vPN 4507895	
+4586967	Uniglomerular mALT VC3l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 4586968 RJVR XZ	
+4624325	Uniglomerular mlALT DC4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DC4 vPN 4624326 RJVR	
 5810932	WEDPN7A#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7A#2 5810933 PMJ RJVR	
-5807269	LHPV5d3#3	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#3 5807270 Disgraced Tennis Player ARJ ASB	
+5946848	Biglomerular t10-lALT VP5 + VP2 l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP5 + VP2 l2PN 5946849 ECM	
+6082926	WEDPN7C#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7C#1 6082927 Marga PDP	
+6649190	Multiglomerular t-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t-mALT l2PN VL1+DC3+VL2p+5 LTS 0.92 6649191 JS ET	
+6695923	Uniglomerular mlALT DP1m vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN Ketchup 6695924 RJVR	
+7017522	Multiglomerular t10-lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t10-lALT l2PN VP3+VP5+VP2 LTS 0.97 7017523 ECM	
 7481072	WEDPN8C#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8C#2 7481073 RJVR	
-5807249	LHPV5d3#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#1 5807250 Jean-Claude ARJ	
-5806820	LHPV5a5#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV5a5#1 5806821 Covenant ASB	
-5672990	Uniglomerular lALT VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular lALT VP2 l2PN 5672991 ECM	
-5494609	Multiglomerular mALT lvPN#R10	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+DM3+DM1+5 LTS 0.93 5494610 PS	
-5471515	Uniglomerular t5-mlALT VP3 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t5-mlALT VP3 vPN 562645 GSXEJ	
-5217967	Uniglomerular mlALT DL2v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2v vPN 5217968 ASB RJVR	
-5169854	Multiglomerular mALT lvPN#R34	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL1+DL4+VM4+3 LTS 0.93 5169855	
-5019352	Uniglomerular mlALT DM4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DM4 vPN Carpal Tunnel 5019353 RJVR	
-5807241	LHPV5d3#2	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#2 5807242 Make Good Decisions GSXEJ	
 7712104	Uniglomerular mALT VC3m lvPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3m lvPN 7712105 XZ	
 8406430	Multiglomerular t10-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t10-lALT l2PN VC5+VP5+VP2+2 LTS 0.94 8406431 JSP	
 8566851	Multiglomerular lALT lv2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT lv2PN VA1d+VA1v+VP3+5 LTS 0.93 Esme Weatherwax 8566852 PS	
-11545803	LHAV3f1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV3f1#1 11545804 RJVR Ouroboros	
-11543519	LHAV2d1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV2d1#1 11543520 GSXEJ RJVR Joffrey	
+8715672	Multiglomerular t2-mALT ilPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT ilPN DA2+DL4+DA4l+19 LTS 0.69 bilateral 8715673 ECM	
+8777795	Multiglomerular t5-lALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t5-lALT spPN DM4+VC1+VP2+9 LTS 0.84 Tarnhelm 8777796 SAC FS 	
+8825246	Multiglomerular t3-mALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VC5+VM1+VP2+4 LTS 0.92 8825247 RJVR ARH	
+9206583	WEDPN8B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8B#1 9206584 same pnt PDP	
+9206998	WEDPN8C#3	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8C#3 9206999 Tristan PDP	
+9249174	WEDPN2B#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP	
+9901677	Uniglomerular mALT VC3l adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 9901678 LB XZ	
+10078400	Multiglomerular mALT l2PN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN VP5+VP3+VP1l+3 LTS 0.93 10078401 FML ASB ECM	
+11109412	Uniglomerular mlALT VL2a vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 11109413	
+11234968	Uniglomerular t10-lALT VP3+l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN 11234969 PS	
+11519759	LHCENT9#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT9#1 11519760 Fen Tiger CH ASB	
+5807269	LHPV5d3#3	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#3 5807270 Disgraced Tennis Player ARJ ASB	
+1803633	LHAD3a10#1	15754279	Paper: Bates and Schlegel et al 2020	LHAD3a10#1 1803634 Shaky AJES	
+5807249	LHPV5d3#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#1 5807250 Jean-Claude ARJ	
+5806820	LHPV5a5#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV5a5#1 5806821 Covenant ASB	
+4624374	Uniglomerular mlALT VM2 vPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 4624375 ASB	
+4632023	Multiglomerular mlALT vPN#R53	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1d+VP1m+VP1l LTS 0.96 4632024 PS	
+4632091	Uniglomerular mlALT DP1l vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1l vPN 4624559 ASB PS	
+4671556	Biglomerular t10-lALT VP5 + VP3 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP3 + VP5 l2PN 4671557 ZM ECM	
+4672650	Uniglomerular t10-lALT VP5 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP5 l2PN 4672651 ZM ECM	
+4812228	Uniglomerular mlALT DL2d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2d vPN 4812229 RJVR SD	
+4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 4869883 ECM	
+4876532	Biglomerular t10-lALT VP5 + VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP5 + VP2 l2PN 4876533 RJVR	
+4905365	Multiglomerular t4-mALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t4-mALT spPN DP1l+DM4+VA4+17 LTS 0.75 4905366 RJVR ZM	
+4946872	WEDPN6A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN6A#1 4946873 Red Kite ASB SD	
+4946893	WEDPN2B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#1 4946894 RJVR SD Lucy Parsons	
+4947032	WEDPN7A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7A#1 4947033 Crane SD	
+4954519	Multiglomerular mlALT vPN#R58	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1m+VC1+DC2+5 LTS 0.9 4954520 SD ECM	
+4954525	Multiglomerular lALT imPN#2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT imPN VM5v+VM1+VA7l+24 LTS 0.56 4954526 SD ZM	
+5002989	WEDPN1A#4	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#4 5002990 RJVR PDP	
+5019352	Uniglomerular mlALT DM4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DM4 vPN Carpal Tunnel 5019353 RJVR	
+5169854	Multiglomerular mALT lvPN#R34	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL1+DL4+VM4+3 LTS 0.93 5169855	
+5217967	Uniglomerular mlALT DL2v vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2v vPN 5217968 ASB RJVR	
+5471515	Uniglomerular t5-mlALT VP3 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t5-mlALT VP3 vPN 562645 GSXEJ	
+5494609	Multiglomerular mALT lvPN#R10	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+DM3+DM1+5 LTS 0.93 5494610 PS	
+5672990	Uniglomerular lALT VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular lALT VP2 l2PN 5672991 ECM	
+5807241	LHPV5d3#2	15754279	Paper: Bates and Schlegel et al 2020	LHPV5d3#2 5807242 Make Good Decisions GSXEJ	
+11519897	LHCENT5#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT5#1 11519898 Capaldi RJVR	
+1727913	Multiglomerular lALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN DP1l+DP1m+DL2v+23 LTS 0.66 1727914 RJVR ZM	
+1722202	Uniglomerular mlALT VA1v vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1v vPN Double mlALT 1722203 RJVR	
+57158	Multiglomerular mALT lvPN#R44	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DC3+DA1+DA3+3 LTS 0.95 DA1 Type 2 R 57159 GA	
+57171	Multiglomerular mALT lvPN#R30	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL2d+VL1+VL2p+4 LTS 0.9 57172 LK	
+57175	Multiglomerular mALT lvPN#R19	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC5+VM1+VM4+2 LTS 0.96 57176 IJA ECM	
+57179	Multiglomerular mALT lvPN#R46	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1 DA1+DA3+DC3+1 LTS 0.97 Type 2 R 57180 LK	
+57192	Uniglomerular mALT VM4 lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM4 lvPN 57193 LK	
+57196	Multiglomerular mALT lvPN#R32	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL4+DL5+DP1l+3 LTS 0.93 57197 ML	
+57200	Uniglomerular mALT VP1l+ lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l+ lvPN 57201 NS ECM	
+57204	Multiglomerular mALT lvPN#R16	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC3l+VC4+VL2p+4 LTS 0.92 57205 IJA	
+57208	Multiglomerular mALT lvPN#R17	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL2p+VC3m+VC5+5 LTS 0.92 57209 IJA	
+57146	Uniglomerular mALT VP2 + SEZ lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 + SEZ lvPN 57147 HG SAC	
+57212	Multiglomerular mALT lvPN#R33	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL4+VL2p+VL1+5 LTS 0.89 57213 IJA ECM	
+57220	Multiglomerular mALT lvPN#R9	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA4+DM1+DM3+5 LTS 0.91 57221 LK NAS	
+57224	Uniglomerular mALT VP1l+ lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l+ lvPN 57225 ML	
+57232	Multiglomerular mALT lvPN#R24	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA2+DC4+VP1m+8 LTS 0.85 57233 GA	
+57236	Uniglomerular mALT VC5+ lvPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC5+ lvPN bilateral 57237 LK ECM	
+57389	Multiglomerular mALT lPN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VL1+VM7v+VA5+6 LTS 0.86 57390 IJA	
+57394	Multiglomerular mALT lPN#R10	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VA7l+DA4l+VL1+9 LTS 0.89 57395 IJA	
+57430	Multiglomerular mALT lPN bilateral#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP2+VL1+VP3+2 LTS 0.94 bilateral 57431 IJA ECM	
+57434	Multiglomerular mALT lPN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP2+VP5+VP3+4 LTS 0.92 bilateral 57435 LK	
+57442	Multiglomerular mALT lPN#R7	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP1l+DC4+DL5+8 LTS 0.86 57443 IJA	
+57216	Uniglomerular mALT DL5 lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT DL5 lvPN 57217 GA	
+57142	Multiglomerular mALT lvPN#R26	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP5+VP2+VP1m+1 LTS 0.95 57143 GA ECM	
+57138	Multiglomerular mALT lvPN#R20	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP5+VP2+VP1m LTS 0.96 57139 IJA ECM	
+57134	Multiglomerular mALT lvPN#R21	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+VP5+DC4+2 LTS 0.96 57135 GA	
+12070989	Multiglomerular lALT imPN#1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT imPN VM5v+DL2d+VA7l+24 LTS 0.57 lALT Eponine 1340264 SD	
+56999	Uniglomerular mALT VP1l+ lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l+ lvPN 57000 IJA NM ECM	
+57003	Uniglomerular mALT VM4 lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VM4 lvPN 57004 ML	
+57007	Multiglomerular mALT lvPN#R31	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DP1l+DL1+DL4+6 LTS 0.86 57008 ML	
+57011	Multiglomerular mALT lvPN#R41	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+DC3+VC4+6 LTS 0.92 DA1 Type 1b R 57012 NS	
+57015	Multiglomerular mALT lvPN#R18	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC5+VM4+VM1+2 LTS 0.95 57016 IJA	
+57019	Multiglomerular mALT lvPN#R40	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DC3+VM5d+6 LTS 0.9 DA1 Type 1b R 57020 GA	
+57023	Multiglomerular mALT lvPN#R43	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DC3+DA1+4 LTS 0.96 DA1 Type 1b R  57024 NS	
+57035	Multiglomerular mALT lvPN#R45	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+DC3+DA3+3 LTS 0.94 R 2 DA1 Type 2 R  2 57036 LK	
+57039	Multiglomerular mALT lvPN#R38	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA7m+DL1+VA7l+6 LTS 0.91 57040 IJA	
+57047	Multiglomerular mALT lvPN#R42	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DC4+DC3+VA5+8 LTS 0.87 57048 IJA	
+57051	Multiglomerular mALT lvPN#R22	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+VP5+VC5 LTS 0.97 57052 LK	
+57059	Multiglomerular mALT lvPN#R29	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular mALT VP1m + VP2 lvPN 57060 ML ECM	
+57063	Uniglomerular mALT VP2 + SEZ lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 + SEZ lvPN 57064 ML ECM	
+57076	Multiglomerular mALT lvPN#R37	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA5+VA3+DC3+4 LTS 0.91 57077 ML	
+57080	Multiglomerular mALT lvPN#R36	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA7m+DL1+VA3+7 LTS 0.88 57081 IJA	
+57089	Multiglomerular mALT lvPN#R39	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+DC3+VA7l+5 LTS 0.9 DA1 Type 1b R 57091 IJA	
+57114	Multiglomerular mALT lvPN#R28	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+VP5+VP1m LTS 0.97 57115 HG ECM	
+57122	Multiglomerular mALT lvPN#R27	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP1m+VP2+VP5+1 LTS 0.95 57123 GA ECM	
+57126	Multiglomerular mALT lvPN#R25	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP2+D+DA2+6 LTS 0.88 57127 LK	
+57130	Uniglomerular mALT VC5+ lvPN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC5+ lvPN bilateral 57131 LK	
+57446	Multiglomerular mALT lPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP1d+VC1+VM7v+10 LTS 0.85 57447 NS NM 	
+57450	Multiglomerular mALT lPN#R11	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VL1+VA7l+DA2+7 LTS 0.91 57451 LK	
+57455	Multiglomerular mALT lPN#R12	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VA7l+VA7m+DC2+5 LTS 0.92 57456 LK	
+57463	Multiglomerular mALT lPN#R6	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VL1+VP2+VP1l+2 LTS 0.94 57464 ML	
+1142316	Multiglomerular mALT lvPN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DL5+DC1+DP1m+6 LTS 0.87 177664 ECS	
+1144225	Multiglomerular mALT lvPN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM2+DM1+DP1m+5 LTS 0.91 177682 NSR	
+1144402	Multiglomerular mALT lvPN#R6	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM1+DM3+DM2+2 LTS 0.95 177691 MR	
+1288606	LHCENT6#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT6#1 1288607 Opportunity ASB	
+1298816	LHAV6a3#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV6a3#1 1298817 Peacock Bass ASB	
+1299740	LHMB1#1	15754279	Paper: Bates and Schlegel et al 2020	LHMB1#1 1299741 Birthday ASB	
+1316519	LHPV2b5#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2b5#1 1316520 Golden Eagle GSXEJ RJVR	
+1334915	Multiglomerular lALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN DM4+DM1+DM2+28 LTS 0.52 1334916 ARH	
+1339810	Multiglomerular lALT l2PN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN V+DL2v+VM7d+13 LTS 0.89 1339811 ARH	
+1363077	Multiglomerular t3-mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VC5+VC3m+VM1+9 LTS 0.89 1363078 ARH	
+1372988	Multiglomerular mALT lvPN#R23	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VP5+VP2+VP3+2 LTS 0.94 1372989 ARH	
+1532304	Uniglomerular mlALT DP1m vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1m vPN 1532305 ASB	
+1533152	Uniglomerular mlALT VM2 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 1533153 ASB	
+1664544	Multiglomerular t3-mALT l2PN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VL1+VP5+VP2+2 LTS 0.95 bilateral 1664545 RJVR ECM	
+1702624	Uniglomerular mlALT VL2p vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2p vPN 1702625 ASB RJVR	
+1703872	LHPV2a2#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2a2#1 1703873 FML Beech - downstream of DA2	
+1706774	LHAV3c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV3c1#1 1706775 RJVR Cornet	
+1710793	LHPV4a1#3	15754279	Paper: Bates and Schlegel et al 2020	LHPV4a1#3 1710794 Tipi ASB RJVR	
+1710886	LHPV2c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHPV2c1#1 1710887 Fial RJVR	
+1712057	Uniglomerular mALT VP2+ adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2+ adPN 1712058 ECM	
+1720254	Multiglomerular mALT lvPN#R47	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA3+DA1+VC3l+8 LTS 0.84 1720255	
+1137895	Multiglomerular mALT lvPN#R14	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+VC4+DA1+3 LTS 0.91 56992 HG NAS	
+1724523	Uniglomerular mlALT VL2a vPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 1724524 RJVR	
+1136923	Multiglomerular mALT lvPN#R8	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM1+DM4+DP1m LTS 0.97 57032 IJA AW	
+563760	LHCENT4#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT4#1 563761 Mighty Little RJVR GSXEJ ASB 	
+57467	Multiglomerular mALT lPN#R8	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN DC4+V+DL5+7 LTS 0.84 57468 LK	
+57475	Multiglomerular mALT smPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT smPN VP3+VP5+VP2 LTS 0.97 bilateral 57476 IJA	
+57487	Biglomerular mALT VP1l + VP3 ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular mALT VP1l + VP3 ilPN bilateral 57488 ML ECM	
+57495	Biglomerular mALT VP1l + VP3 ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular mALT VP1l + VP3 ilPN bilateral 57496 LK ECM	
+57499	Uniglomerular mALT VL1 ilPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VL1 ilPN bilateral 57500 ML	
+57516	Uniglomerular mALT VP2 adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 adPN 57517 LK ECM	
+57536	Multiglomerular mALT l2PN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN VL2p+DP1l+VL2a+7 LTS 0.94 57537 LK NM 	
+73937	Uniglomerular mALT VL1 ilPN bilateral#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VL1 ilPN bilateral 73938 LK	
+177540	Multiglomerular mALT lvPN#R35	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DP1l+VA4+DL2v+7 LTS 0.85 177541 SMM NAS	
+177545	Multiglomerular mALT lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+VM7v+VA2+31 LTS 0.43 177546 SMM AW	
+177549	Multiglomerular mALT lvPN#R13	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DA1+VA2+VC4+4 LTS 0.91 177550 SMM AW	
+177584	Multiglomerular mALT lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DL3+VM3+29 LTS 0.48 177585 NAS ZSG	
+177656	Multiglomerular mALT lvPN#R7	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VC4+DP1l+DM1+2 LTS 0.93 177657 EW AW	
+177997	Multiglomerular mALT lvPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VL2p+VM7v+DM3+16 LTS 0.68 177998 SMM	
+181551	LHCENT8#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT8#1 181552 Vieille Priére Bouddhique EW ASB RJVR	
+182684	Multiglomerular mALT lPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP1d+DC4+VC1+5 LTS 0.93 182685 AES	
+192430	Multiglomerular t2-mALT lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT lvPN VP1m+VP5+VP1l LTS 0.97 192431 SMM ECM	
+199461	Multiglomerular mALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN DA2+VM7v+VP1m+14 LTS 0.76 Tikka Masala 199462 AEB NS 	
+488055	LHAV4c1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV4c1#1 488056 downstream DA1 GSXEJ	
+531931	Uniglomerular mlALT VA1d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VA1d vPN 531932 ASB GSXEJ	
+554327	LHCENT8#2	15754279	Paper: Bates and Schlegel et al 2020	LHCENT8#2 554328 IJA Vieille Priére Bouddhique	
+1136366	Multiglomerular mALT lvPN#R12	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN DM3+DM4+VC4+6 LTS 0.87 56980 IJA	
+11524119	Uniglomerular lALT VP1m l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular lALT VP1m l2PN 65701 AJ ECM	
+57166	Uniglomerular mALT VP2 + SEZ lvPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP2 + SEZ lvPN 57167 LK	
+41578	Uniglomerular mALT VC3l adPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 41579 AJ	
 11543484	LHCENT3#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT3#1 11543485 Safety Pin CMM	
 11524508	LHPV2c1#2	15754279	Paper: Bates and Schlegel et al 2020	LHPV2c1#2 11524509 FML Grassy - downstream of DL4	
-3394015	LHCENT1#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT1#1 3394016 Explorer ASB	
-11519897	LHCENT5#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT5#1 11519898 Capaldi RJVR	
-11519759	LHCENT9#1	15754279	Paper: Bates and Schlegel et al 2020	LHCENT9#1 11519760 Fen Tiger CH ASB	
-11234968	Uniglomerular t10-lALT VP3+l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN 11234969 PS	
-11109412	Uniglomerular mlALT VL2a vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 11109413	
-10078400	Multiglomerular mALT l2PN#R5	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN VP5+VP3+VP1l+3 LTS 0.93 10078401 FML ASB ECM	
-9901677	Uniglomerular mALT VC3l adPN#L2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 9901678 LB XZ	
-9249174	WEDPN2B#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP	
-9206998	WEDPN8C#3	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8C#3 9206999 Tristan PDP	
-9206583	WEDPN8B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8B#1 9206584 same pnt PDP	
-8825246	Multiglomerular t3-mALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t3-mALT l2PN VC5+VM1+VP2+4 LTS 0.92 8825247 RJVR ARH	
-8777795	Multiglomerular t5-lALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t5-lALT spPN DM4+VC1+VP2+9 LTS 0.84 Tarnhelm 8777796 SAC FS 	
-8715672	Multiglomerular t2-mALT ilPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT ilPN DA2+DL4+DA4l+19 LTS 0.69 bilateral 8715673 ECM	
-5002989	WEDPN1A#4	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#4 5002990 RJVR PDP	
-4954525	Multiglomerular lALT imPN#2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT imPN VM5v+VM1+VA7l+24 LTS 0.56 4954526 SD ZM	
-11524119	Uniglomerular lALT VP1m l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular lALT VP1m l2PN 65701 AJ ECM	
-4947032	WEDPN7A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7A#1 4947033 Crane SD	
-4002166	Multiglomerular t9-lALT lv2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t9-lALT lv2PN VP2+VC2+VP1m+4 LTS 0.94 4002167 PDP	
-3908507	Multiglomerular lALT l2PN#R3	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP4+VP1l+VL2p LTS 0.97 3908508 RJVR ECM	
-3813455	Uniglomerular mlALT VL2a vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2a vPN 3813456 RJVR	
-3813447	Multiglomerular mlALT vPN#R54	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1d+VP1m+VP1l+4 LTS 0.94 3813448 RJVR	
-3813442	Multiglomerular mlALT vPN#R55	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1d+VP1m+VP1l+3 LTS 0.93 3813443 RJVR	
-3813438	Multiglomerular mlALT vPN#R57	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1l+VP1d+VM1+2 LTS 0.95 3813439 ECM	
-3813424	Multiglomerular mlALT vPN#R56	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1m+VP1l+VP5+2 LTS 0.97 3813425 RJVR	
-3813403	Uniglomerular mlALT DC4 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DC4 vPN 3813404 RJVR	
-3813343	Uniglomerular mlALT VM2 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 3813344 PS	
-3813331	Uniglomerular mlALT DM4 vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DM4 vPN 3813332 ASB	
-3799421	WEDPN2B#3	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#3 3799422 Gregory Sylvester Xander Edmonton Jefferis RJVR GSXEJ	
-3420237	Uniglomerular mALT VC5 adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC5 adPN 3420238 RJVR	
-3481901	LHPD3a5#1	15754279	Paper: Bates and Schlegel et al 2020	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	
-3648956	Multiglomerular mALT lPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lPN VP3+VP2+VL1+1 LTS 0.95 bilateral 57439 NS	
-3715995	Uniglomerular mALT VL2p adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VL2p adPN 3715996 ECM LB	
-4954519	Multiglomerular mlALT vPN#R58	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1m+VC1+DC2+5 LTS 0.9 4954520 SD ECM	
-3742499	Uniglomerular mALT VP1l lvPN bilateral#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VP1l lvPN bilateral 3742500	
-4027387	WEDPN8C#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN8C#1 4027388 Giant Ibis RJVR	
-4058666	Multiglomerular t2-mALT lvPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t2-mALT lvPN VP1m+VP5+VP1l+1 LTS 0.96 4058667 ECM	
-3954226	WEDPN7C#2	15754279	Paper: Bates and Schlegel et al 2020	WEDPN7C#2 3954227 Sprig ASB RJVR	
-4267053	WEDPN1A#3	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1A#3 4267054 I BELIEVE IN ME SD RJVR	
-4946893	WEDPN2B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN2B#1 4946894 RJVR SD Lucy Parsons	
-4946872	WEDPN6A#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN6A#1 4946873 Red Kite ASB SD	
-4905365	Multiglomerular t4-mALT spPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular t4-mALT spPN DP1l+DM4+VA4+17 LTS 0.75 4905366 RJVR ZM	
-4876532	Biglomerular t10-lALT VP5 + VP2 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP5 + VP2 l2PN 4876533 RJVR	
-4869882	Uniglomerular t10-lALT VP3+ l2PN bilateral#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP3+ l2PN bilateral 4869883 ECM	
-4812228	Uniglomerular mlALT DL2d vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2d vPN 4812229 RJVR SD	
-4195469	Multiglomerular lALT l2PN#R4	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular lALT l2PN VP1m+VM7d+VM7v+9 LTS 0.87 4195470 RJVR	
-4671556	Biglomerular t10-lALT VP5 + VP3 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Biglomerular t10-lALT VP3 + VP5 l2PN 4671557 ZM ECM	
-4632091	Uniglomerular mlALT DP1l vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DP1l vPN 4624559 ASB PS	
-4672650	Uniglomerular t10-lALT VP5 l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular t10-lALT VP5 l2PN 4672651 ZM ECM	
-4624374	Uniglomerular mlALT VM2 vPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VM2 vPN 4624375 ASB	
-4624325	Uniglomerular mlALT DC4 vPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DC4 vPN 4624326 RJVR	
-4586967	Uniglomerular mALT VC3l adPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 4586968 RJVR XZ	
-4507894	Uniglomerular mlALT VL2p vPN#L1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT VL2p vPN 4507895	
-4494902	Uniglomerular mALT VC3l adPN#L3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 4494903 XZ	
-4340854	Uniglomerular mlALT DL2d vPN#R2	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mlALT DL2d vPN Kahlo 4340855 ASB SD	
-4280558	WEDPN1B#1	15754279	Paper: Bates and Schlegel et al 2020	WEDPN1B#1 4280559 SD RJVR Today I found a soma	
-4632023	Multiglomerular mlALT vPN#R53	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mlALT vPN VP1d+VP1m+VP1l LTS 0.96 4632024 PS	
-2050698	LHAV4e7#1	15754283	Paper: Dolan et al 2019	LHAV4e7#1 2050699 ASB	
-488055	LHAV4c1#1	15754283	Paper: Dolan et al 2019	LHAV4c1#1 488056 downstream DA1 GSXEJ	
+4070	Uniglomerular mALT VC3l adPN#L4	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN DB XZ	
+23134	Uniglomerular mALT VC3l adPN#R3	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 23135 BH	
+11543519	LHAV2d1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV2d1#1 11543520 GSXEJ RJVR Joffrey	
+32793	Multiglomerular mALT l2PN#R2	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN VM1+VP2+VP3+23 LTS 0.58 Flywalkies 32794 JMR	
+32801	Multiglomerular mALT l2PN#R1	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT l2PN D+VP3+VA7m+24 LTS 0.63 32802 JMR	
+46800	Uniglomerular mALT VC3l adPN#R1	15754279	Paper: Bates and Schlegel et al 2020	Uniglomerular mALT VC3l adPN 46801 JMR	
+56995	Multiglomerular mALT lvPN#R11	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VM3+DP1l+VC3l+3 LTS 0.93 56996 IJA NAS	
+11545803	LHAV3f1#1	15754279	Paper: Bates and Schlegel et al 2020	LHAV3f1#1 11545804 RJVR Ouroboros	
+56983	Multiglomerular mALT lvPN#R15	15754279	Paper: Bates and Schlegel et al 2020	Multiglomerular mALT lvPN VA4+VA3+VC4+6 LTS 0.92 56984 HG NAS	
+2969221	LHAD1c1#2	15754283	Paper: Dolan et al 2019	LHAD1c1#2 2969222 Uncle Sam CMM	
+15738898	LHAV4a3#1	15754283	Paper: Dolan et al 2019	LHAV4a3#1 15738899 Chicken ASB	
+9249174	WEDPN2B#2	15754283	Paper: Dolan et al 2019	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP	
+6185360	AVLP026#1	15754283	Paper: Dolan et al 2019	AVLP026#1 6185361 Stalk ASB	
+4946872	WEDPN6A#1	15754283	Paper: Dolan et al 2019	WEDPN6A#1 4946873 Red Kite ASB SD	
+3481901	LHPD3a5#1	15754283	Paper: Dolan et al 2019	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	
+3393889	LHAV4e4#1	15754283	Paper: Dolan et al 2019	LHAV4e4#1 3393890 Chloé LSC	
+3376158	LHPV6o1#1	15754283	Paper: Dolan et al 2019	LHPV6o1#1 3376159 Kabuki RJVR	
+3080183	LHAD1c1#1	15754283	Paper: Dolan et al 2019	LHAD1c1#1 3080184 Dust World JJ PS	
+3136251	LHPD3a4#1	15754283	Paper: Dolan et al 2019	LHPD3a4#1 3136252 Piri Reis ASB RJVR	
 1703872	LHPV2a2#1	15754283	Paper: Dolan et al 2019	LHPV2a2#1 1703873 FML Beech - downstream of DA2	
 1710793	LHPV4a1#3	15754283	Paper: Dolan et al 2019	LHPV4a1#3 1710794 Tipi ASB RJVR	
 1870230	LHAV2a3#1	15754283	Paper: Dolan et al 2019	LHAV2a3#1 1870231 RJVR AJES PS	
 1879479	LHAD1f4#1	15754283	Paper: Dolan et al 2019	LHAD1f4#1 1879480 Aspis-like	
 2227995	WEDPN1A#2	15754283	Paper: Dolan et al 2019	WEDPN1A#2 2227996 Grey Herron SD	
-2969221	LHAD1c1#2	15754283	Paper: Dolan et al 2019	LHAD1c1#2 2969222 Uncle Sam CMM	
-2548003	LHPV4a10#1	15754283	Paper: Dolan et al 2019	LHPV4a10#1 2548004 Teal ASB	
 2372530	LHPV4d3#2	15754283	Paper: Dolan et al 2019	LHPV4d3#2 2372531 Shearwaters RJVR ASB	
-4946872	WEDPN6A#1	15754283	Paper: Dolan et al 2019	WEDPN6A#1 4946873 Red Kite ASB SD	
-9249174	WEDPN2B#2	15754283	Paper: Dolan et al 2019	WEDPN2B#2 9249175 Gregory Seneca Xerxes Eugene Jefferis RJVR ASB PDP	
-15738898	LHAV4a3#1	15754283	Paper: Dolan et al 2019	LHAV4a3#1 15738899 Chicken ASB	
-6185360	AVLP026#1	15754283	Paper: Dolan et al 2019	AVLP026#1 6185361 Stalk ASB	
-3376158	LHPV6o1#1	15754283	Paper: Dolan et al 2019	LHPV6o1#1 3376159 Kabuki RJVR	
-3136251	LHPD3a4#1	15754283	Paper: Dolan et al 2019	LHPD3a4#1 3136252 Piri Reis ASB RJVR	
-3080183	LHAD1c1#1	15754283	Paper: Dolan et al 2019	LHAD1c1#1 3080184 Dust World JJ PS	
+2548003	LHPV4a10#1	15754283	Paper: Dolan et al 2019	LHPV4a10#1 2548004 Teal ASB	
 2851242	LHAV4g1#1	15754283	Paper: Dolan et al 2019	LHAV4g1#1 2851243 Dove RJVR	
-3393889	LHAV4e4#1	15754283	Paper: Dolan et al 2019	LHAV4e4#1 3393890 Chloé LSC	
-3481901	LHPD3a5#1	15754283	Paper: Dolan et al 2019	LHPD3a5#1 3481902 DC4 Bully RJVR ASB	
-1142316	Multiglomerular mALT lvPN#R4	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN DL5+DC1+DP1m+6 LTS 0.87 177664 ECS	
-177997	Multiglomerular mALT lvPN#R3	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VL2p+VM7v+DM3+16 LTS 0.68 177998 SMM	
-181551	LHCENT8#1	15754388	Paper: Otto et al 2020	LHCENT8#1 181552 Vieille Priére Bouddhique EW ASB RJVR	
-554327	LHCENT8#2	15754388	Paper: Otto et al 2020	LHCENT8#2 554328 IJA Vieille Priére Bouddhique	
-1137895	Multiglomerular mALT lvPN#R14	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VM3+VC4+DA1+3 LTS 0.91 56992 HG NAS	
-11519759	LHCENT9#1	15754388	Paper: Otto et al 2020	LHCENT9#1 11519760 Fen Tiger CH ASB	
-2969221	LHAD1c1#2	15754388	Paper: Otto et al 2020	LHAD1c1#2 2969222 Uncle Sam CMM	
-3080183	LHAD1c1#1	15754388	Paper: Otto et al 2020	LHAD1c1#1 3080184 Dust World JJ PS	
-177584	Multiglomerular mALT lvPN#R2	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VC4+DL3+VM3+29 LTS 0.48 177585 NAS ZSG	
-11519897	LHCENT5#1	15754388	Paper: Otto et al 2020	LHCENT5#1 11519898 Capaldi RJVR	
-11543484	LHCENT3#1	15754388	Paper: Otto et al 2020	LHCENT3#1 11543485 Safety Pin CMM	
-1299740	LHMB1#1	15754388	Paper: Otto et al 2020	LHMB1#1 1299741 Birthday ASB	
-177545	Multiglomerular mALT lvPN#R1	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VM3+VM7v+VA2+31 LTS 0.43 177546 SMM AW	
+488055	LHAV4c1#1	15754283	Paper: Dolan et al 2019	LHAV4c1#1 488056 downstream DA1 GSXEJ	
+2050698	LHAV4e7#1	15754283	Paper: Dolan et al 2019	LHAV4e7#1 2050699 ASB	
+5650098	PAM-y5#5_L	15754388	Paper: Otto et al 2020	putative DAN PAM-y5 (9) 5650099 KJH LEFT	
+5639973	Protocerebral_DAN_input_c 20.1.0	15754388	Paper: Otto et al 2020	not a PN 57533 ML JH	
+7065228	Protocerebral_DAN_input_c 14.7.0#2	15754388	Paper: Otto et al 2020	neuron 7065229 MWP Hippocampus kuda	
+5652506	Protocerebral_DAN_input_c 20.4.0	15754388	Paper: Otto et al 2020	neuron 5652507 Perfect Storm LT	
+5668149	Protocerebral_DAN_input_c 11.16.3#3	15754388	Paper: Otto et al 2020	neuron 5668150 Laika LT FW	
+5689225	Protocerebral_DAN_input_c 13.14.1	15754388	Paper: Otto et al 2020	Neuron 3979264 Tempest JH	
+5701890	LHON_DAN_input_c9.2.3	15754388	Paper: Otto et al 2020	neuron 5701891 Cool Hand Luke LT RT	
+5702729	Protocerebral_DAN_input_c 15.11.3#6	15754388	Paper: Otto et al 2020	neuron 5702730 MWP Lonsdale	
+5727050	Protocerebral_DAN_input_c 9.2.1#1	15754388	Paper: Otto et al 2020	Neuron 5727051 Slippery Slope JH	
+5737978	PAM-b'2a#3_R	15754388	Paper: Otto et al 2020	fragment 5737979 AJES Putative DAN/MBON B'2/B2?	
+5737998	PAM-y5#6_L	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (14) 5737999 AJES LEFT	
+5787562	Protocerebral_DAN_input_c 3.24.1	15754388	Paper: Otto et al 2020	Neuron 5787563 Jaguarundi CMP JH	
+5804694	Protocerebral_DAN_input_c 12.10.0#4	15754388	Paper: Otto et al 2020	neuron 5804695 NF type5-8	
+5652208	PAM-y5(lc)#1_R	15754388	Paper: Otto et al 2020	putative DAN PAM-y5 (10) 5652209 NM	
+5738037	PAM-y5#7_L	15754388	Paper: Otto et al 2020	large fragment 5738038 AJES putative DAN PAM-y5 LEFT	
+5485967	Protocerebral_DAN_input_c 11.9.7#3	15754388	Paper: Otto et al 2020	LHON C11A 5485968 Machiavellian Mackerel RJVR ARJ	
+5616823	DAN_USN_c 17.3.3	15754388	Paper: Otto et al 2020	Neuron 5616824 Lead Pencil JH	
+5316769	Protocerebral_DAN_input_c 3.10.0#2	15754388	Paper: Otto et al 2020	Putative aSP23 - 5316770 NF	
+5363909	Protocerebral_DAN_input_c 10.16.2#1	15754388	Paper: Otto et al 2020	dlALT  1449743 NM JH	
+5364422	SEZ_DAN_input_c 7.7.5#3	15754388	Paper: Otto et al 2020	Neuron 5364423 Doctor No JH	
+5375276	Protocerebral_DAN_input_c 3.18.0#1	15754388	Paper: Otto et al 2020	neuron 5375277 Peace Prize LT NM	
+5384778	Protocerebral_DAN_input_c 3.21.0#2	15754388	Paper: Otto et al 2020	Neuron 5384779 Lady Astor JH	
+5422947	Protocerebral_DAN_input_c 11.9.3#17	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3774635 Harissa JH ASB 	
+5436400	Protocerebral_DAN_input_c 15.11.2#17	15754388	Paper: Otto et al 2020	neuron 5436401 Interpretation of Dreams RT	
+5446277	Protocerebral_DAN_input_c 3.13.0#4	15754388	Paper: Otto et al 2020	neuron 5446278 TY	
+5450972	Protocerebral_DAN_input_c 10.16.2#2	15754388	Paper: Otto et al 2020	neuron 5450973 dlALT NM	
+5631471	PAM-y5(lc)#8_R	15754388	Paper: Otto et al 2020	putative DAN PAM-y5 (8) 5631472 KJH	
+5467113	Protocerebral_DAN_input_c 3.9.0#1	15754388	Paper: Otto et al 2020	neuron 5467114 TY	
+5480425	SEZ_DAN_input_c 7.7.5#4	15754388	Paper: Otto et al 2020	neuron 5480426 Gold Nugget RT	
+5480644	Protocerebral_DAN_input_c 3.22.0#2	15754388	Paper: Otto et al 2020	neuron 5480645 [SMP.R] AJES Dendrobium	
+5481383	SEZON03#23	15754388	Paper: Otto et al 2020	Neuron 5481384 Prometheus LT JH	
+5830653	Protocerebral_DAN_input_c 3.6.0_OTHERS15#3	15754388	Paper: Otto et al 2020	neuron 5830654 [SMP.R - SMP.L] Aquilegia	
+5496848	Protocerebral_DAN_input_c 13.12.2	15754388	Paper: Otto et al 2020	neuron 5496849 Anna Lee Wiley RT	
+5524037	Protocerebral_DAN_input_c 15.1.0	15754388	Paper: Otto et al 2020	Putative GF Input neuron 5524038 MWP RJVR Ingenhousz	
+5528667	Protocerebral_DAN_input_c 13.8.0#2	15754388	Paper: Otto et al 2020	neuron 5528668 JW	
+5562131	Protocerebral_DAN_input_c 14.10.4	15754388	Paper: Otto et al 2020	neuron 5562132 Seagull JH	
+5574260	Protocerebral_DAN_input_c 3.21.0#3	15754388	Paper: Otto et al 2020	neuron 5574261 ANS	
+5470844	PAM-y5#3_L	15754388	Paper: Otto et al 2020	putative DAN PAM-y5 (11) 5470845 KJH LEFT	
+5849604	Protocerebral_DAN_input_c 17.4.41#8	15754388	Paper: Otto et al 2020	neuron 5283887 MD	
+5862150	SEZ_DAN_input_c 7.6.0#2	15754388	Paper: Otto et al 2020	neuron 5862151 [SMP.R]-[SMP.L]-[SEZ.L] Galanthus AJES	
+5862175	Protocerebral_DAN_input_c 14.10.3	15754388	Paper: Otto et al 2020	neuron 5862176 [SMP.R]-[SMP.L] AJES Acer	
+6037171	Protocerebral_DAN_input_c 11.13.0#1	15754388	Paper: Otto et al 2020	neuron 6037172 SMP.R-CRE.R-SMP.L AJES Borage	
+6037165	Protocerebral_DAN_input_c 3.20.0	15754388	Paper: Otto et al 2020	neuron 6037166 [SMP.R] Euphorbia AJES	
+6036782	Protocerebral_DAN_input_c 3.24.4	15754388	Paper: Otto et al 2020	neuron 6036783 CRE.R-SMP.R-ATL.R-IB.R Brassica	
+6026853	MBON-a'1#2_R	15754388	Paper: Otto et al 2020	Putative Right MBON-a'1 6026854 PMJ	
+6019056	PAM-y5(lc)#4_R	15754388	Paper: Otto et al 2020	Putative PAM-y5 6019057 MWP (16) Olive MWP	
+6018269	Protocerebral_DAN_input_c 10.2.2#3	15754388	Paper: Otto et al 2020	neuron 6018270 MWP Hades	
+6045462	DAN_USN_c 7.6.0	15754388	Paper: Otto et al 2020	neuron 6045463 AJES Salvia	
+6013704	PAM-y5(ba)#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (15) 6013705 AJES RIGHT	
+6012881	MBON-a'1#2_L	15754388	Paper: Otto et al 2020	Putative Left MBON a'1 6012882 PMJ	
+6012092	SEZ_DAN_input_c 7.7.5#5	15754388	Paper: Otto et al 2020	neuron 6012093 [SMP.R]-[SEZ.R] Solanum AJES 	
+6012066	Protocerebral_DAN_input_c 3.24.3	15754388	Paper: Otto et al 2020	Neuron 6012067 MWP Heaney	
+6010061	Protocerebral_DAN_input_c 11.9.3#18	15754388	Paper: Otto et al 2020	neuron 6010062 [SMP.R]-[SIP.R]-[SLP.R] AJES Van Dyck	
+5999377	Protocerebral_DAN_input_c 13.15.4#3	15754388	Paper: Otto et al 2020	Neuron 5999378 MWP Bernard Shaw	
+5993635	Protocerebral_DAN_input_c 3.16.0	15754388	Paper: Otto et al 2020	neuron 5993636 Hail Storm LT	
+6013565	PAM-y5#8_L	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (18) 6013566 Joyce MWP LEFT	
+5990270	Protocerebral_DAN_input_c 12.8.0#10	15754388	Paper: Otto et al 2020	neuron 5990271 [SMP.R]-[SLP.R]-[CA.R (anterior)] AJES Angelica	
+6059582	PAM-y5(ba)#2_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (17) 6059583 AJES 	
+6065216	SEZON03#5	15754388	Paper: Otto et al 2020	neuron 6065217 [SMP.R]-[SMP.L]-[SEZ.R] Bambusa AJES	
+6128360	Protocerebral_DAN_input_c 14.10.5#2	15754388	Paper: Otto et al 2020	neuron 6128361 [SI/LP.R]-[SI/LP.L] AJES Catha	
+6116676	PAM-b'2a#4_R	15754388	Paper: Otto et al 2020	Putative DAN PAM 6116677 KJH AJES	
+6115789	Protocerebral_DAN_input_c 3.9.0#2	15754388	Paper: Otto et al 2020	neuron 6115790 MWP Slater	
+6114897	Protocerebral_DAN_input_c 3.21.0#4	15754388	Paper: Otto et al 2020	neuron 6114898 NP	
+6110667	Protocerebral_DAN_input_c 10.11.0	15754388	Paper: Otto et al 2020	neuron 6110668 Epimetheus MWP	
+6110644	Protocerebral_DAN_input_c 20.2.0#8	15754388	Paper: Otto et al 2020	neuron 6110645 Satoshi Nakamoto MWP	
+6065201	SEZON03#8	15754388	Paper: Otto et al 2020	neuron 6065202 [SMP.R]-[SEZ.R] AJES Astragalus	
+6110252	Protocerebral_DAN_input_c 17.3.3#2	15754388	Paper: Otto et al 2020	neuron 6110253 [SMP.R]-[PLP.R] AJES Starman	
+6109747	PAM-y5#2_L	15754388	Paper: Otto et al 2020	putative DAN PAM-y5 (26) 6109748 MWP Sojourner LEFT	
+6100678	PAM-y5#9_L	15754388	Paper: Otto et al 2020	fragment 6100679 AJES putative DAN PAM-y5 LEFT	
+6092334	Protocerebral_DAN_input_c 3.8.0#6	15754388	Paper: Otto et al 2020	Neuron 6646396 Wild Horses JH MWP	
+6084281	Protocerebral_DAN_input_c 5.3.0	15754388	Paper: Otto et al 2020	neuron 6084282 [SMP.R]-[SEZ.R] AJES Ipomoea	
+6084271	Protocerebral_DAN_input_c 3.13.0#5	15754388	Paper: Otto et al 2020	neuron 6084272 [SMP.R]-[SIP.R] AJES Magnolia	
+6066277	Protocerebral_DAN_input_c 10.6.0#1	15754388	Paper: Otto et al 2020	neuron 6066278 [SMP.R]-[SMP.L]-[SIP.L]-[AVLP.L] Ardisia AJES	
+6110086	Protocerebral_DAN_input_c 17.3.3#1	15754388	Paper: Otto et al 2020	neuron 6110087 Pandora MWP	
+5302382	Protocerebral_DAN_input_c 17.4.43#2	15754388	Paper: Otto et al 2020	putative aIP neuron 5302383 MD	
+5990028	Protocerebral_DAN_input_c 12.4.0#1	15754388	Paper: Otto et al 2020	[SLP.L]-[SIP.L]-[SMP.L]-[SMP.R] 5990029 Chequered Skipper KJH AJES	
+5966008	Protocerebral_DAN_input_c 3.17.0#2	15754388	Paper: Otto et al 2020	neuron 5966009	
+5919567	Protocerebral_DAN_input_c 3.8.0#5	15754388	Paper: Otto et al 2020	neuron 5919568 Tom Hanks MWP	
+5917625	SEZON01#1	15754388	Paper: Otto et al 2020	[SMP.R]-{SEZ.R] 5917626 AJES Potential VFB ID: VGlut-F-600158 Gauguin	
+5915449	Protocerebral_DAN_input_c 10.10.7#1	15754388	Paper: Otto et al 2020	neuron 5915450 AJES Helenium	
+5914700	Protocerebral_DAN_input_c 17.4.6#3	15754388	Paper: Otto et al 2020	neuron 5914701 KE	
+5914197	PAM-y5(lc)#2_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (12) 5914197 Dead End NO	
+5912071	SEZON03#13	15754388	Paper: Otto et al 2020	neuron 5912072 [SMP.R] - [SEZ.L] AJES Linaria	
+5921590	SEZON03#18	15754388	Paper: Otto et al 2020	neuron 5921591 [SMP]-[SEZ] Ackroyd AJES	
+5888228	Protocerebral_DAN_input_c 12.10.0#5	15754388	Paper: Otto et al 2020	neuron 5888229 TY type5-11	
+5872789	Protocerebral_DAN_input_c 9.4.2#2	15754388	Paper: Otto et al 2020	neuron 5872790 MWP Diploria labryinthiformis	
+5870559	Protocerebral_DAN_input_c 8.1.1	15754388	Paper: Otto et al 2020	neuron 5870560 MWP NO A long way	
+5870465	SEZON03#4	15754388	Paper: Otto et al 2020	neuron 5870466 [SMP.R]-[SEZ.R] AJES Hamamelis 	
+5870443	Protocerebral_DAN_input_c 9.2.4#1	15754388	Paper: Otto et al 2020	SLP.R-SIP.R-SMP.R aSP-g tract neuron 5870444	
+5870306	Protocerebral_DAN_input_c 10.10.3	15754388	Paper: Otto et al 2020	neuron 5870307 MWP Tursiops truncata	
+5870278	Protocerebral_DAN_input_c 8.5.2	15754388	Paper: Otto et al 2020	neuron 5870279 [SMP.R]-[SMP.L]-[SEZ.L] Veronica AJES	
+5886218	PAM-b'2a#2_R	15754388	Paper: Otto et al 2020	DAN PAM-y5 5886219 JH RIGHT	
 5982276	LHPD5a1#1	15754388	Paper: Otto et al 2020	LHPD5a1#1 5982277 ECM LB Sam Tarly	
-5157807	SIMPAL-Left #2	15981708	Paper: Coates et al 2020	neuron 5157808 Mt Everest 3 LMH	
-11633437	Patchy LN #20	15981708	Paper: Coates et al 2020	putative dorsolateral LN 11633438 LMH	
-10238492	Patchy LN #19	15981708	Paper: Coates et al 2020	putative LatLN 10238493 FS	
-10108062	Patchy LN #18	15981708	Paper: Coates et al 2020	Potential LN 10108063 KEC NWS	
+5928883	Protocerebral_DAN_input_c 3.17.0#1	15754388	Paper: Otto et al 2020	neuron 5928884 MWP Stephen Fry	
+5935183	Protocerebral_DAN_input_c 15.11.2#18	15754388	Paper: Otto et al 2020	neuron 5935184 Laceleaf NM	
+5965965	Protocerebral_DAN_input_c 13.13.3#2	15754388	Paper: Otto et al 2020	neuron 5965966 [SMP.R]-[SMP.L]-[CRE.L] Zingiber AJES	
+5965808	Protocerebral_DAN_input_c 11.16.3#4	15754388	Paper: Otto et al 2020	SLP.R-SIP.R -> SMP.R 5965809 Cormoran KJH	
+5965626	SEZON03#38	15754388	Paper: Otto et al 2020	neuron 5965627 [SMP.R]-[SEZ.L] AJES Kerria	
+5961579	Protocerebral_DAN_input_c 13.8.0#3	15754388	Paper: Otto et al 2020	[SMP.R] 5961580 Fachen KJH	
+5961573	Protocerebral_DAN_input_c 13.14.4#2	15754388	Paper: Otto et al 2020	[SMP.R] 5961574 Og KJH	
+5961542	DAN_USN_c 1.2.0	15754388	Paper: Otto et al 2020	SMP.R-ATL.R-IB.R-IC.R -> SMP.R 5961543 Anakim KJH	
+5930055	Protocerebral_DAN_input_c 17.4.6#4	15754388	Paper: Otto et al 2020	neuron 5930056 KE	
+5961483	Protocerebral_DAN_input_c 13.17.1#1	15754388	Paper: Otto et al 2020	[SMP.L]-[SMP.R] 5961484 Nephilim KJH	
+5961458	SEZON03#24	15754388	Paper: Otto et al 2020	neuron 5961459 [SMP.R]-[SEZ.L] AJES Sachsia	
+5955124	Protocerebral_DAN_input_c 15.3.0#1	15754388	Paper: Otto et al 2020	neuron 5955125 KF	
+5952626	PAM-y5(lc)#3_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (13) 5952627 AJES	
+5952481	MBON-a'1#1_L	15754388	Paper: Otto et al 2020	Putative MBON-a'1 6604344 JH	
+5947064	SEZON03#37	15754388	Paper: Otto et al 2020	neuron 5947065 [SMP.R]-[SEZ.L] AJES Astrantia	
+5937017	Protocerebral_DAN_input_c 15.9.0	15754388	Paper: Otto et al 2020	neuron 5937018 AJES Wisteria	
+5961471	SEZON1#2	15754388	Paper: Otto et al 2020	neuron 5961472 MWP Yeats	
+5302372	Protocerebral_DAN_input_c 17.4.43#1	15754388	Paper: Otto et al 2020	putative aIP neuron 5302373 MD	
+5283825	Protocerebral_DAN_input_c 17.4.5#2	15754388	Paper: Otto et al 2020	neuron 5283826 MD	
+5283790	Protocerebral_DAN_input_c 17.4.44#5	15754388	Paper: Otto et al 2020	putative aIP neuron 5283791 MD	
+3841515	MBON-y1y2y3_L	15754388	Paper: Otto et al 2020	putative new MBON-y1y2y3y4 (3032892) LEFT 3841516 NS	
+3841770	MBON-B'2mp bilateral_L	15754388	Paper: Otto et al 2020	MBON-B′2mp_bilateral (putative new MBON-y4B'2) LEFT 3841771 NS	
+3877117	Protocerebral_DAN_input_c 11.16.10#6	15754388	Paper: Otto et al 2020	neuron 3877118 JJ	
+3884170	Protocerebral_DAN_input_c 13.10.3	15754388	Paper: Otto et al 2020	pMP8 Type I 3884171 TY FW-C16	
+3931527	MBON-a'3m#1_L	15754388	Paper: Otto et al 2020	Putative Left MBON a'3 3931528 RJVR	
+3949996	Protocerebral_DAN_input_c 10.3.1	15754388	Paper: Otto et al 2020	neuron 3949997 LH.R->SMP.R Rego AJES	
+3957522	Protocerebral_DAN_input_c 12.6.6#11	15754388	Paper: Otto et al 2020	Neuron 1856161 Pony Express RT TY	
+3979930	pC1d	15754388	Paper: Otto et al 2020	pMP8 Type I 3778246 TY FW-C2	
+3993648	Protocerebral_DAN_input_c 9.2.4#4	15754388	Paper: Otto et al 2020	Neuron 3993649 [SMP.R]-[LH_boundary.R]	
+4003404	Protocerebral_DAN_input_c 11.12.2#4	15754388	Paper: Otto et al 2020	Neuron 4003405 Canes Venatici JH split from neuron 3307441 Guide Dog CMM	
+4027264	Protocerebral_DAN_input_c 11.16.10#7	15754388	Paper: Otto et al 2020	Lily 4027265 NM	
+4027598	Protocerebral_DAN_input_c 12.8.0#7	15754388	Paper: Otto et al 2020	Neuron 4027599 Largest Frog CMM	
+4071314	MBON-a'3m#2_L	15754388	Paper: Otto et al 2020	Putative Left MBON a'3 4071315 RJVR	
+4077746	Protocerebral_DAN_input_c 17.3.2	15754388	Paper: Otto et al 2020	neuron 4077747 FW-L_R32	
+4133313	MBON-a'3m#2_R	15754388	Paper: Otto et al 2020	Putative Right MBON a'3m 4133314 RJVR	
+4138547	Protocerebral_DAN_input_c 11.9.3#15	15754388	Paper: Otto et al 2020	LHON PD2 Ventral 3080437 CMM JJ ASB	
+4152722	Protocerebral_DAN_input_c 13.12.1	15754388	Paper: Otto et al 2020	neuron 4152723 JJ	
+4348805	Protocerebral_DAN_input_c 15.11.2#11	15754388	Paper: Otto et al 2020	Neuron 4348806 Engineer's Thumb JH	
+4337231	Protocerebral_DAN_input_c 15.11.2#10	15754388	Paper: Otto et al 2020	neuron 4337232 [SMP.R]-[MB.ML.R] AJES Panicum	
+4307791	Protocerebral_DAN_input_c 13.15.2	15754388	Paper: Otto et al 2020	neuron 4307792 KL	
+4291069	Protocerebral_DAN_input_c 5.2.0#1	15754388	Paper: Otto et al 2020	Crown - mAL upstream 4291070 KMS	
+4280064	MBON-y4y5a_L	15754388	Paper: Otto et al 2020	neuron 4280065 MWP	
+4225760	Protocerebral_DAN_input_c 15.11.2#9	15754388	Paper: Otto et al 2020	neuron 4225761 JJ LT	
+3839658	Protocerebral_DAN_input_c 20.2.0#7	15754388	Paper: Otto et al 2020	neuron 2946151 JJ	
+4202780	Protocerebral_DAN_input_c 14.3.4#3	15754388	Paper: Otto et al 2020	neuron 4202781 NM	
+4184054	Protocerebral_DAN_input_c 11.7.0	15754388	Paper: Otto et al 2020	[LH.R->] 4184055 Merger NM	
+4182192	Protocerebral_DAN_input_c 15.11.2#8	15754388	Paper: Otto et al 2020	neuron 4182193 [SMP.R]-[CRE.R]-[SIP.R] AJES Valeriana	
+4175139	Protocerebral_DAN_input_c 19.2.0	15754388	Paper: Otto et al 2020	AL.L-LAL.L -> LH.R-SMP.R 4175140 ASB RJVR Tarnhelm	
+4175043	Protocerebral_DAN_input_c 11.9.3#16	15754388	Paper: Otto et al 2020	[LH.R->] 4175044 C11 Ventral ASB	
+4174778	DAN_USN_c 19.3.3	15754388	Paper: Otto et al 2020	Neuron 4174779 ASB TODO	
+4174741	Protocerebral_DAN_input_c 9.4.1#2	15754388	Paper: Otto et al 2020	[SP.R] 4174742 Yew MWP ASB	
+4190451	MBON-y2a'1#2_R	15754388	Paper: Otto et al 2020	MBON-y2a'1 2nd 1578724 NS	
+3837769	Protocerebral_DAN_input_c 13.10.2	15754388	Paper: Otto et al 2020	pMP8 Type I 3837770 TY FW-C14	
+3829861	Protocerebral_DAN_input_c 13.9.2	15754388	Paper: Otto et al 2020	neuron 3829862 [SMP.R]-[SIP.R] AJES Leucojum	
+3815811	Protocerebral_DAN_input_c 9.6.0	15754388	Paper: Otto et al 2020	Neuron 1940840 Sleepy Hollow JH	
+3751552	Protocerebral_DAN_input_c 15.10.0	15754388	Paper: Otto et al 2020	Neuron 3751553 split from neuron 1259227	
+3733237	Protocerebral_DAN_input_c 3.7.0#5	15754388	Paper: Otto et al 2020	Tulip 3733238 NM	
+3732102	DAN_USN_c 11.9.5#5	15754388	Paper: Otto et al 2020	not C11A 3732103 ASB	
+3730444	Protocerebral_DAN_input_c 11.9.3#10	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3730445 ASB	
+3730399	Protocerebral_DAN_input_c 11.9.3#9	15754388	Paper: Otto et al 2020	not C11A 3730400 ASB JH	
+3730394	Protocerebral_DAN_input_c 11.9.3#8	15754388	Paper: Otto et al 2020	not LHON 3730395 CMM & ASB	
+3755639	Protocerebral_DAN_input_c 14.3.4#2	15754388	Paper: Otto et al 2020	Neuron 3755640 split from neuron 3061317 NS	
+3730390	DAN_USN_c 11.9.5#4	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3730391 ASB KJH	
+3718794	Protocerebral_DAN_input_c 9.4.1#1	15754388	Paper: Otto et al 2020	[SP.R] 3718795 Salt NM- ASB	
+3718354	Protocerebral_DAN_input_c 15.11.2#7	15754388	Paper: Otto et al 2020	neuron 3718355 Tivoli Theater NM	
+3716873	Protocerebral_DAN_input_c 13.13.3#1	15754388	Paper: Otto et al 2020	neuron 3716874 TY	
+3708280	Protocerebral_DAN_input_c 11.9.4#5	15754388	Paper: Otto et al 2020	not LHON 3708281 ASB	
+3701411	Protocerebral_DAN_input_c 11.9.7#2	15754388	Paper: Otto et al 2020	LHON-C11 Ventral Beta 3701412 JJ-ASB	
+3695344	Protocerebral_DAN_input_c 11.9.4#4	15754388	Paper: Otto et al 2020	Putative C11A alpha 3695345 ASB	
+3730381	Protocerebral_DAN_input_c 11.9.5#2	15754388	Paper: Otto et al 2020	not C11A 3730382 ASB	
+4394903	MBON-y3B'1#1_L	15754388	Paper: Otto et al 2020	MBON-y3B'1 4394904 AJES JH	
+3764135	Protocerebral_DAN_input_c 11.16.4	15754388	Paper: Otto et al 2020	Neuron 3764136 Honeycomb NM JH	
+3769648	Protocerebral_DAN_input_c 11.9.3#11	15754388	Paper: Otto et al 2020	LHON-C11 Ventral  3769649 ASB	
+3794183	pC1c	15754388	Paper: Otto et al 2020	pMP8 Type I 3794184 TY FW-C5 NF	
+3792823	Protocerebral_DAN_input_c 8.1.2	15754388	Paper: Otto et al 2020	mAL like 3792824 RJVR	
+3792463	MBON-y2(32)_L	15754388	Paper: Otto et al 2020	putative new MBON-y2 (3032971) LEFT 3792464 NS	
+3786105	MBON-y2a'1_L	15754388	Paper: Otto et al 2020	MBON-y2a'1 LEFT 3786106 NS	
+3780756	Protocerebral_DAN_input_c 13.15.3#2	15754388	Paper: Otto et al 2020	aSP-g downstream 3780757 FW KM	
+3779685	Protocerebral_DAN_input_c 11.9.3#14	15754388	Paper: Otto et al 2020	not C11A 3779686 CMM & ASB	
+3766407	Protocerebral_DAN_input_c 11.9.4#6	15754388	Paper: Otto et al 2020	not C11A 3766408 ASB	
+3779048	Protocerebral_DAN_input_c 11.16.3#2	15754388	Paper: Otto et al 2020	neuron 3779049 [SLP.R]-[SIP.R]-[SMP.R] AJES Mimosa	
+3774426	Protocerebral_DAN_input_c 13.15.1#5	15754388	Paper: Otto et al 2020	Neuron 3774427 Madison Square JH	
+3770805	pC1e	15754388	Paper: Otto et al 2020	pMP8 Type I 1269969 IT TY FW-C1	
+3770799	Protocerebral_DAN_input_c 13.15.3#1	15754388	Paper: Otto et al 2020	neuron 3770800 MWP Scotoplanes globosa	
+3770468	Protocerebral_DAN_input_c 11.9.3#13	15754388	Paper: Otto et al 2020	not C11A 3770469 ASB	
+3770352	Protocerebral_DAN_input_c 11.9.3#2	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3770353 ASB	
+3770232	Protocerebral_DAN_input_c 11.9.3#12	15754388	Paper: Otto et al 2020	LHON-C11 Ventral  3770233 ASB	
+3778973	Protocerebral_DAN_input_c 11.9.4#7	15754388	Paper: Otto et al 2020	not C11A 3778974 ASB	
+4396391	Protocerebral_DAN_input_c 15.11.2#12	15754388	Paper: Otto et al 2020	neuron 4396392 Jasmine NM	
+4413271	Protocerebral_DAN_input_c 12.8.0#8	15754388	Paper: Otto et al 2020	neuron 4413272 [SMP.R]-[PVLP.R?] Turner AJES	
+4507565	Protocerebral_DAN_input_c 3.8.0#4	15754388	Paper: Otto et al 2020	Neuron 4507566 Bellerophon JH	
+5219463	Protocerebral_DAN_input_c 17.4.44#4	15754388	Paper: Otto et al 2020	putative aIP neuron 5219464 MD	
+5182697	Protocerebral_DAN_input_c 17.4.44#3	15754388	Paper: Otto et al 2020	putative aIP neuron 5182698 MD	
+5182687	Protocerebral_DAN_input_c 17.4.44#2	15754388	Paper: Otto et al 2020	putative aIP neuron 5182688 MD	
+5175036	Protocerebral_DAN_input_c 17.4.43#5	15754388	Paper: Otto et al 2020	putative aIP neuron 5175037 MD	
+5163661	Protocerebral_DAN_input_c 3.21.0#1	15754388	Paper: Otto et al 2020	neuron 5163662 Star Trek RT	
+5163300	Protocerebral_DAN_input_c 17.4.43#3	15754388	Paper: Otto et al 2020	putative aIP neuron 5163301 MD	
+5221869	Protocerebral_DAN_input_c 11.9.4#9	15754388	Paper: Otto et al 2020	LHON-C11 Ventral alpha 3700026 CMM ASB	
+5163288	Protocerebral_DAN_input_c 17.4.43#4	15754388	Paper: Otto et al 2020	putative aIP neuron 5163289 MD	
+5161434	Protocerebral_DAN_input_c 14.5.2	15754388	Paper: Otto et al 2020	DAN PAM-B'1ap 5161435 Blood Moon CMM	
+5160802	Protocerebral_DAN_input_c 11.16.10#10	15754388	Paper: Otto et al 2020	neuron 5160803 Empire State Express JH	
+5159674	Protocerebral_DAN_input_c 12.10.0#3	15754388	Paper: Otto et al 2020	neuron 5159675 [SMP.R]-[SIP.R]-[SIP.L] AJES Space Oddity	
+5158720	Protocerebral_DAN_input_c 15.11.2#16	15754388	Paper: Otto et al 2020	Neuron 5158721 Calypso JH	
+5158624	Protocerebral_DAN_input_c 15.11.2#15	15754388	Paper: Otto et al 2020	Neuron 5158625 Swedish Nightingale JH	
+5151107	Protocerebral_DAN_input_c 15.11.2#14	15754388	Paper: Otto et al 2020	neuron 5151108 Talbot RT	
+5162556	Protocerebral_DAN_input_c 17.4.41#3	15754388	Paper: Otto et al 2020	neuron 5162557 MD	
+5150960	Protocerebral_DAN_input_c 17.4.42	15754388	Paper: Otto et al 2020	neuron 5150961 KE	
+5234721	PAM-y5(fb)#3_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (6) 5234722 Capitol Building CMM	
+5243944	MBON-y4>y1y2_L	15754388	Paper: Otto et al 2020	putative_left_MBON-y4>y1y2_5243945_MWP_NO	
+5282065	MBON-y2(35)_L	15754388	Paper: Otto et al 2020	putative new MBON-y2y4 LEFT 5282066 NS	
+5281408	MBON-y1y2_L	15754388	Paper: Otto et al 2020	MBON-y1y2 LEFT 5281409 NS	
+5279371	Protocerebral_DAN_input_c 17.4.41#7	15754388	Paper: Otto et al 2020	neuron 5279372 PL	
+5279327	Protocerebral_DAN_input_c 17.4.41#6	15754388	Paper: Otto et al 2020	neuron 5279328 PL	
+5279309	Protocerebral_DAN_input_c 17.4.6#2	15754388	Paper: Otto et al 2020	neuron 5279310 PL	
+5279295	Protocerebral_DAN_input_c 17.4.41#5	15754388	Paper: Otto et al 2020	PVLP.R-PLP.R -> CRE.R 5279296 PL FML Baikal	
+5235856	Protocerebral_DAN_input_c 13.8.0#1	15754388	Paper: Otto et al 2020	neuron 5235857 The Hobbit CMM	
+5279278	Protocerebral_DAN_input_c 17.4.41#4	15754388	Paper: Otto et al 2020	neuron 5279279 PL [SMP.R]-[AVLP.R] AJES Waterhouse	
+5265274	Protocerebral_DAN_input_c 14.4.3	15754388	Paper: Otto et al 2020	Neuron 5265275 Eubie JH	
+5262509	PAM-y5#1_L	15754388	Paper: Otto et al 2020	fragment 5262510 AJES putative DAN PAM-y5 LEFT	
+5256152	MBON-B'2mp_L	15754388	Paper: Otto et al 2020	MBON-B'2mp 5256153 carnation NM 	
+5255752	MBON-y3B'1#2_L	15754388	Paper: Otto et al 2020	MBON-y3 5255753 NM	
+5255741	Protocerebral_DAN_input_c 15.11.1#4	15754388	Paper: Otto et al 2020	neuron 5255742 Thanksgiving NM	
+5248957	Protocerebral_DAN_input_c 17.4.1#2	15754388	Paper: Otto et al 2020	neuron 5248958 KE	
+5279228	Protocerebral_DAN_input_c 17.4.5#1	15754388	Paper: Otto et al 2020	neuron 5279229 PL TY	
+6129835	SEZON02#1	15754388	Paper: Otto et al 2020	neuron 6129836 MWP Rudenko	
+5144484	DAN_USN_c 9.2.10	15754388	Paper: Otto et al 2020	neuron 5144485 Lathe RT	
+5143862	Protocerebral_DAN_input_c 10.15.0	15754388	Paper: Otto et al 2020	neuron 5143863 MD ET	
+5028733	Protocerebral_DAN_input_c 11.11.0#2	15754388	Paper: Otto et al 2020	neuron 5028734 [SMP.R]-[SMP.L] AJES	
+5027043	Protocerebral_DAN_input_c 11.16.10#9	15754388	Paper: Otto et al 2020	Neuron 5027044 Aswan Dam JH	
+5009076	Protocerebral_DAN_input_c 12.6.2#7	15754388	Paper: Otto et al 2020	neuron 5009077 Mount Vesuvius CMM	
+4987502	MBON-a'3m#3_L	15754388	Paper: Otto et al 2020	Putative Left MBON a'3 4987503 RJVR	
+4970266	SEZON03#17	15754388	Paper: Otto et al 2020	neuron 4970267 Loch Ness CMM	
+4928388	Protocerebral_DAN_input_c 11.16.10#8	15754388	Paper: Otto et al 2020	Neuron 4928389 High Tor JH	
+5030356	Protocerebral_DAN_input_c 3.22.0#1	15754388	Paper: Otto et al 2020	neuron 5030357 Tornado CMM	
+4928175	Protocerebral_DAN_input_c 15.11.1#3	15754388	Paper: Otto et al 2020	neuron 4928176 MWP RT Colossendeis megalonyx	
+4922474	Protocerebral_DAN_input_c 15.11.2#13	15754388	Paper: Otto et al 2020	neuron 4922475 Stone Cold JH MWP	
+4892993	Protocerebral_DAN_input_c 3.23.0	15754388	Paper: Otto et al 2020	neuron 4892994 Queen Anne's Revenge LT	
+4756435	Protocerebral_DAN_input_c 15.11.1#2	15754388	Paper: Otto et al 2020	neuron 4756436 Magellan's Vittoria LT NM	
+4694710	Protocerebral_DAN_input_c 10.2.2#2	15754388	Paper: Otto et al 2020	Neuron 4694711 Pineapple Seed JH	
+4601019	Protocerebral_DAN_input_c 11.9.4#8	15754388	Paper: Otto et al 2020	not C11A 3769528 ASB	
+4592543	Protocerebral_DAN_input_c 9.4.1#3	15754388	Paper: Otto et al 2020	[->SP.R] 4592544 Python ASB	
+4927668	Protocerebral_DAN_input_c 9.2.3#1	15754388	Paper: Otto et al 2020	neuron 4927669 Life of Brian CMM	
+5144460	Protocerebral_DAN_input_c 9.2.10_LHON01 #3	15754388	Paper: Otto et al 2020	neuron 5144461 Oberlin RT	
+5030827	Protocerebral_DAN_input_c 3.24.2	15754388	Paper: Otto et al 2020	neuron 5030828 Mary Poppins CMM	
+5051831	Protocerebral_DAN_input_c 17.4.1#1	15754388	Paper: Otto et al 2020	neuron 5051832 ANS	
+5143346	oviDNa#1	15754388	Paper: Otto et al 2020	pMP11 5143347 MD FW NF	
+5133853	Protocerebral_DAN_input_c 14.9.0	15754388	Paper: Otto et al 2020	neuron 5133854 MD TP	
+5133590	Protocerebral_DAN_input_c 17.4.44#1	15754388	Paper: Otto et al 2020	putative aIP neuron 5133591 MD	
+5133500	Protocerebral_DAN_input_c 17.4.6#1	15754388	Paper: Otto et al 2020	neuron 5133501 MD	
+5132530	SEZ_DAN_input_c 8.5.1	15754388	Paper: Otto et al 2020	neuron 5132531 Evaporated Milk CMM	
+5131480	Protocerebral_DAN_input_c 9.2.10#3	15754388	Paper: Otto et al 2020	Neuron 5131481 Golden Lion JH	
+5031028	Protocerebral_DAN_input_c 12.8.0#9	15754388	Paper: Otto et al 2020	neuron 5031029 Crossbow CMM	
+5130961	Protocerebral_DAN_input_c 14.10.5#1	15754388	Paper: Otto et al 2020	Neuron 5130962 Piggly Wiggly JH	
+5130722	Protocerebral_DAN_input_c 9.2.10#2	15754388	Paper: Otto et al 2020	Neuron 5130723 Boulder Dam JH	
+5130062	Protocerebral_DAN_input_c 9.2.10#1	15754388	Paper: Otto et al 2020	neuron 5130063 Magnetic Tape RT	
+5117517	MBON-a'1_R	15754388	Paper: Otto et al 2020	put MBON passes post to AL 5117518 ECM	
+5097515	Protocerebral_DAN_input_c 12.10.0#2	15754388	Paper: Otto et al 2020	neuron 5097516 TY type5-10	
+5083353	Protocerebral_DAN_input_c 17.4.41#2	15754388	Paper: Otto et al 2020	neuron 5083354 MD	
+5073219	Protocerebral_DAN_input_c 17.4.41#1	15754388	Paper: Otto et al 2020	neuron 5073220 MD	
+5130852	Protocerebral_DAN_input_c 10.16.1	15754388	Paper: Otto et al 2020	Neuron 5130853 Zond JH	
+6130325	Protocerebral_DAN_input_c 13.15.6#4	15754388	Paper: Otto et al 2020	neuron 6130326 Tinbergen MWP 	
+6163460	Protocerebral_DAN_input_c 12.4.0#3	15754388	Paper: Otto et al 2020	neuron 6163461 [SMP.R]-[SMP.L]-[SIP.R] AJES Panax	
+6130973	SEZ_DAN_input_c 7.7.3#3	15754388	Paper: Otto et al 2020	neuron 6130974 MWP Enteropneusta	
+8975752	Protocerebral_DAN_input_c 13.13.1	15754388	Paper: Otto et al 2020	CRE.R-LAL.R 8975753 Small White KJH	
+8975744	Protocerebral_DAN_input_c 3.5.0#3	15754388	Paper: Otto et al 2020	SMP.R-CRE.R-SMP.L 8975745 Common Brimstone KJH	
+8964574	Protocerebral_DAN_input_c 15.13.0#3	15754388	Paper: Otto et al 2020	neuron 8964575 [CRE.R]-[SMP.R] AJES Renoir	
+8963508	Protocerebral_DAN_input_c 11.9.5_LHON02#7	15754388	Paper: Otto et al 2020	LH.R-SLP.R-SMP.R 8963509 Purple Hairstreak KJH	
+8950876	Protocerebral_DAN_input_c 9.4.2#3	15754388	Paper: Otto et al 2020	SMP.R 8950877 White-Letter Hairstreak KJH	
+8949914	Protocerebral_DAN_input_c 3.8.0#9	15754388	Paper: Otto et al 2020	SMP.R-SIP.R 8949915 Green-Veined White KJH	
+8800807	Protocerebral_DAN_input_c 11.16.11	15754388	Paper: Otto et al 2020	SMP.R-CRE.R 8800808 Large White KJH	
+8797185	Protocerebral_DAN_input_c 3.6.0_OTHERS15#4	15754388	Paper: Otto et al 2020	SMP.R-SMP.L 8797186 Small Blue KJH	
+8797089	Protocerebral_DAN_input_c 13.9.1#4	15754388	Paper: Otto et al 2020	SMP.R-CRE.R 8797090 Black Hairstreak KJH	
+8770023	SEZON03#22	15754388	Paper: Otto et al 2020	neuron 8770024 [SMP.R]-[SEZ.R] AJES Cinchona	
+8766467	Protocerebral_DAN_input_c 3.7.0#7	15754388	Paper: Otto et al 2020	CRE.R-MB.R-CRE.L-MB.L 8766468 Orange Tip KJH	
+8766291	Protocerebral_DAN_input_c 17.4.2#8	15754388	Paper: Otto et al 2020	neuron 8766292 [SIP.R]-[SMP.R] AJES Durer	
+8717164	SEZON03#25	15754388	Paper: Otto et al 2020	neuron 8717165 [SMP.R]-[SEZ.L] Salvadora AJES	
+9060497	Protocerebral_DAN_input_c 15.11.1#6	15754388	Paper: Otto et al 2020	LAL.R-CRE.R 9060498 Adonis Blue KJH	
+8717128	SEZ_DAN_input_c 7.7.3#10	15754388	Paper: Otto et al 2020	neuron 8717129 [SMP.R]-[SEZ.R] AJES Aitchison	
+8715837	Protocerebral_DAN_input_c 3.8.0#8	15754388	Paper: Otto et al 2020	neuron 8715838 [SMP.R] AJES Selaginella	
+8715792	SEZ_DAN_input_c 7.7.3#9	15754388	Paper: Otto et al 2020	neuron 8715793 [SMP.R]-[SEZ.R] Begonia AJES	
+8715745	SEZ_DAN_input_c 7.7.3#8	15754388	Paper: Otto et al 2020	neuron 8715746 [SMP.R]-[SMP.L]-[SEZ.R] Agrimonia AJES	
+8715730	SEZ_DAN_input_c 7.7.3#7	15754388	Paper: Otto et al 2020	neuron 8715731 [SMP.R}-[SEZ.R] Alstroemeria AJES	
+8677699	SEZON03#21	15754388	Paper: Otto et al 2020	neuron 8677700 [SMP.R]-[SEZ.L] Helicteres AJES	
+8677691	Protocerebral_DAN_input_c 9.2.4#3	15754388	Paper: Otto et al 2020	neuron 8677692 [SLP.R]-[SIP.R]-[SMP.R] aSP-g tract Coreopsis AJES	
+8590207	Protocerebral_DAN_input_c 3.8.0#7	15754388	Paper: Otto et al 2020	neuron 8590208 [SMP.R] Duchamp AJES	
+8589072	Protocerebral_DAN_input_c 17.4.1#4	15754388	Paper: Otto et al 2020	SLP.R-SMP.R-SMP.L 8589073 Chalkhill Blue KJH	
+8458523	Protocerebral_DAN_input_c 10.10.7#5	15754388	Paper: Otto et al 2020	Putative aSP-f L 8458524 KMS AJES BM	
+8444058	Protocerebral_DAN_input_c 3.3.0#2	15754388	Paper: Otto et al 2020	Neuron 8444059 split from pMP8 C1	
+8441910	Protocerebral_DAN_input_c 18.3.0	15754388	Paper: Otto et al 2020	Neuron 8441911 [SMP.R]-[SEZ.L] AJES Michelangelo	
+8429064	Protocerebral_DAN_input_c 13.15.6#5	15754388	Paper: Otto et al 2020	neuron 8429065 [SMP.R]-[SIP.R] AJES Van Gogh	
+8422016	Protocerebral_DAN_input_c 17.4.41#11	15754388	Paper: Otto et al 2020	neuron 8422017 [SIP.R] (aIP lin) AJES Rubens	
+8715944	Protocerebral_DAN_input_c 10.4.0#2	15754388	Paper: Otto et al 2020	neuron 8715945 [SMP.R]-[SIP.R]-[LH.R] Banksia AJES	
+8415303	Protocerebral_DAN_input_c 9.1.1#2	15754388	Paper: Otto et al 2020	aSP-g candidate L 8415304 KMS	
+9084549	Protocerebral_DAN_input_c 11.15.0#2	15754388	Paper: Otto et al 2020	PV5a something 9084550 ASB	
+9116686	Protocerebral_DAN_input_c 2.4.0	15754388	Paper: Otto et al 2020	mAL upstream 9116687 KMS	
+11408175	SEZON03#10	15754388	Paper: Otto et al 2020	neuron 11408176 [SMP.R] - [SEZ.L] AJES Rubberband Girl	
+11390856	SEZON03#32	15754388	Paper: Otto et al 2020	neuron 11390857 [SMP.R]-[SMP.L]-[SEZ.L] AJES Linum	
+11367137	SEZON03#16	15754388	Paper: Otto et al 2020	neuron 11367138 [SMP.R]-[SEZ.L] AJES Epidendrum	
+11322700	Protocerebral_DAN_input_c 9.1.1#3	15754388	Paper: Otto et al 2020	aSP-g candidate L 1033568 GSXEJ KMS	
+11274761	PAM-y5(uc)#4_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (24) 11274762 KJH	
+11262395	PAM-y5(uc)#3_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (23) 11262396 KJH	
+11222211	Protocerebral_DAN_input_c 15.13.0#5	15754388	Paper: Otto et al 2020	CRE.R 11222212 Green Hairstreak KJH	
+11175371	PAM-y5(uc)#6_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (22) 11175372 AJES	
+11169413	PAM-y5(da)#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (21) 11169414 KJH	
+11149656	PAM-y5(uc)#5_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (25) 11149657 KJH	
+11122220	Protocerebral_DAN_input_c 3.9.0#3	15754388	Paper: Otto et al 2020	Neuron 11122221 Split from neuron 5353954 Robin CMP NF	
+10877097	Protocerebral_DAN_input_c 11.16.10#14	15754388	Paper: Otto et al 2020	neuron 10877098 [SMP.R] AJES El Greco	
+10787370	Protocerebral_DAN_input_c 13.17.1#2	15754388	Paper: Otto et al 2020	neuron 10787371 [SMP.R] AJES Cezanne	
+9114274	Protocerebral_DAN_input_c 3.4.2#2	15754388	Paper: Otto et al 2020	mAL upstream 9114275 KMS	
+10774356	SEZON03#9	15754388	Paper: Otto et al 2020	Neuron 10774357 [SMP.R]-[SEZ.L] AJES Rodin	
+10693809	Protocerebral_DAN_input_c 15.11.4#4	15754388	Paper: Otto et al 2020	neuron 10693810 [SMP.R]-[CRE.R] AJES Caravaggio	
+10146430	Protocerebral_DAN_input_c 15.11.2#20	15754388	Paper: Otto et al 2020	neuron 10146431 [SMP.R]-[CRE.R]-[SIP.R] AJES Ofili	
+10139636	Protocerebral_DAN_input_c 17.4.2#9	15754388	Paper: Otto et al 2020	neuron 10139637 [SIP.R]-[SMP.R] AJES Uglow	
+10097281	Protocerebral_DAN_input_c 15.13.0#4	15754388	Paper: Otto et al 2020	neuron 10097282 [CRE.R]-[SMP.R] AJES Chagall	
+10004981	SEZON03 #26	15754388	Paper: Otto et al 2020	Neuron 10004982	
+9768253	Protocerebral_DAN_input_c 12.8.0#11	15754388	Paper: Otto et al 2020	neuron 9768254 [SMP.R] AJES Monet	
+9750962	Protocerebral_DAN_input_c 12.10.0#9	15754388	Paper: Otto et al 2020	neuron 9750963 MWP Perceptron	
+9484412	Protocerebral_DAN_input_c 10.10.7#7	15754388	Paper: Otto et al 2020	putative aSP-f L neuron 9484413 IV	
+9431812	Protocerebral_DAN_input_c 10.10.7#6	15754388	Paper: Otto et al 2020	putative aSP-f L neuron 9431813 IV	
+9378794	SEZON03#36	15754388	Paper: Otto et al 2020	neuron 9378795 [SEZ.L]->SMP? AJES Gormley	
+9288348	Protocerebral_DAN_input_c 15.11.3#11	15754388	Paper: Otto et al 2020	Neuron 9288349 MWP Palliser	
+9161973	Protocerebral_DAN_input_c 12.11.0#2	15754388	Paper: Otto et al 2020	neuron 6172298 TY FW type5-1	
+9117205	Protocerebral_DAN_input_c 3.6.0_OTHERS15#10	15754388	Paper: Otto et al 2020	mAL upstream 9117206 KMS	
+10694066	SEZON03#20	15754388	Paper: Otto et al 2020	neuron 10694067 [SMP.R]-[SEZ.R] AJES Babooshka	
+11409129	Protocerebral_DAN_input_c 12.9.0#3	15754388	Paper: Otto et al 2020	neuron 11409130 [SMP.R] AJES Yerba	
+8317886	PAM-b'2(c1)#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-B'2a (4) 1683766 Frog Cake MWP AJES KJH	
+8300430	Protocerebral_DAN_input_c 11.11.0#4	15754388	Paper: Otto et al 2020	neuron 8300431 [SMP.R]-[CRE.R]-[CRE.L] AJES Hepworth	
+7512499	PAM-b'2a(c2)#2_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-B'2a (3) 7512500 Fairy Bread KJH	
+7502661	Protocerebral_DAN_input_c 10.14.0	15754388	Paper: Otto et al 2020	Brockhouse upstream PAM-y5 7502662 IS	
+7499600	Protocerebral_DAN_input_c 11.9.5_LHON02#2	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 7499601 MWP Joan Clarke	
+7475560	Protocerebral_DAN_input_c 15.13.0#2	15754388	Paper: Otto et al 2020	CRE.R-SMP.R 7475561 Small Copper KJH	
+7468847	Protocerebral_DAN_input_c 15.7.0	15754388	Paper: Otto et al 2020	Neuron 7468848 KJH MWP Turnus	
+7404024	SEZ_DAN_input_c 14.1.0	15754388	Paper: Otto et al 2020	neuron 7404025 NF	
+7385806	SEZON03#29	15754388	Paper: Otto et al 2020	neuron 7385807 IS Goldworthy	
+7323802	SEZ_DAN_input_c 7.7.5#7	15754388	Paper: Otto et al 2020	neuron 7323803 [SMP.R]-[SEZ.R] Rembrandt AJES	
+7270967	PAM-b'2a(nc)#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-B'2a (2) 7270968 Chocolate Crackles AJES KJH	
+7267242	Protocerebral_DAN_input_c 14.10.2	15754388	Paper: Otto et al 2020	neuron 7267243 KJH MWP Jablonski	
+7209785	Protocerebral_DAN_input_c 3.5.0#2	15754388	Paper: Otto et al 2020	neuron 7209786 MWP AJES Hamilton	
+7197390	Protocerebral_DAN_input_c 11.16.10#13	15754388	Paper: Otto et al 2020	neuron 7197391 Blue Danube JH	
+7167561	SEZON03#33	15754388	Paper: Otto et al 2020	Neuron 5364307 Tuxedo JH	
+7532738	Protocerebral_DAN_input_c 5.2.0#3	15754388	Paper: Otto et al 2020	neuron 7532739 [SMP.R]-[SEZ.R]-[VNC] AJES Egon Schiele	
+7133408	Protocerebral_DAN_input_c 13.3.0#1	15754388	Paper: Otto et al 2020	neuron 7133409 [SMP.R]->[SEZ.R]-mAL tract->[SMP.R] AJES Stemona	
+7132013	SEZON1#5	15754388	Paper: Otto et al 2020	neuron 7132014 [SMP.R]-[SEZ.R] AJES Manuka	
+7131815	Protocerebral_DAN_input_c 9.2.4#6	15754388	Paper: Otto et al 2020	neuron 7131816 [SMP.R] aSP-g tract neuron AJES Duboisia	
+7131770	SEZON2#2	15754388	Paper: Otto et al 2020	neuron 7131771 [SMP.R]-[SEZ.R] AJES Passiflora	
+7097449	Protocerebral_DAN_input_c 17.2.2	15754388	Paper: Otto et al 2020	neuron 7097450 MWP Exocoetus volitans	
+7094281	Protocerebral_DAN_input_c 14.10.1	15754388	Paper: Otto et al 2020	neuron 7094282 MWP Hogeweg	
+7094091	SEZ_DAN_input_c 7.4.0#2	15754388	Paper: Otto et al 2020	neuron 7094092 MWP Enteroctopus dofleini	
+7093985	Protocerebral_DAN_input_c 3.22.0#3	15754388	Paper: Otto et al 2020	neuron 7093986 MWP Physeter macrocephalus	
+7093304	Protocerebral_DAN_input_c 20.2.0#11	15754388	Paper: Otto et al 2020	neuron 7093305 MWP Thunnus albacares	
+7092719	Protocerebral_DAN_input_c 20.2.0#10	15754388	Paper: Otto et al 2020	neuron 7092720 MWP deVries	
+7092554	Protocerebral_DAN_input_c 10.5.0	15754388	Paper: Otto et al 2020	neuron 7092555 MWP Trevor	
+7092087	Protocerebral_DAN_input_c 9.2.2#2	15754388	Paper: Otto et al 2020	neuron 7092088 MWP Alicella gigantea	
+7091795	Protocerebral_DAN_input_c 10.1.0	15754388	Paper: Otto et al 2020	neuron 7091796 MWP Mesopelagic	
+7064347	Protocerebral_DAN_input_c 19.3.1#2	15754388	Paper: Otto et al 2020	neuron 7064348 [CRE.R]-[CRE.L] AJES Grayson Perry	
+7132776	Protocerebral_DAN_input_c 13.16.0#1	15754388	Paper: Otto et al 2020	neuron 7132777 MWP Bilbo	
+8302501	Protocerebral_DAN_input_c 17.4.2#7	15754388	Paper: Otto et al 2020	neuron 8302502 [SIP.R] (aIP lin) AJES Kollwitz	
+7532852	Protocerebral_DAN_input_c 13.3.0#2	15754388	Paper: Otto et al 2020	neuron 7532853 [SMP.R]-[FLA.R] AJES Kapoor	
+7724380	SEZON03#11	15754388	Paper: Otto et al 2020	neuron 7724381 [SMP.R]-[SEZ.L] AJES Strelitzia	
+8300310	Protocerebral_DAN_input_c 3.14.0	15754388	Paper: Otto et al 2020	neuron 8300311 MWP CHitchens	
+8249194	Protocerebral_DAN_input_c 13.16.0#3	15754388	Paper: Otto et al 2020	neuron 8249195 GD Bach	
+8249122	Protocerebral_DAN_input_c 13.16.0#2	15754388	Paper: Otto et al 2020	neuron 8249123 MWP Dresselhaus	
+8248704	Protocerebral_DAN_input_c 11.9.1	15754388	Paper: Otto et al 2020	neuron 8248705 [SMP.R]-[posterior LH.R] AJES Rothko	
+8216643	Protocerebral_DAN_input_c 13.2.0	15754388	Paper: Otto et al 2020	neuron 8216644 MWP NS Golden Ratio	
+8125539	SEZ_DAN_input_c 14.2.0	15754388	Paper: Otto et al 2020	neuron 8125540 NF TY	
+7929763	Protocerebral_DAN_input_c 11.6.0#2	15754388	Paper: Otto et al 2020	aSP-g L downstream 7929764 KMS	
+7902020	SEZON03#34	15754388	Paper: Otto et al 2020	neuron 7902021 [SMP.R]-[SEZ.R] Delphinium AJES	
+7901737	SEZ_DAN_input_c 7.7.5#11	15754388	Paper: Otto et al 2020	neuron 7901738 [SMP.R]-[SEZ>R] AJES Datura	
+7901710	SEZON03#3	15754388	Paper: Otto et al 2020	neuron 7901711 [SMP.R]-[SEZ.R] Matisse AJES	
+7899656	SEZ_DAN_input_c 7.7.5#10	15754388	Paper: Otto et al 2020	Neuron 7899657 [SMP.R]-[SEZ.R] AJES Myristica	
+7849380	Protocerebral_DAN_input_c 12.10.0#8	15754388	Paper: Otto et al 2020	neuron 7849381 TY AJES [SMP.R]-[SIP.R]-[SMP.L] Ziggy Stardust	
+7796757	SEZ_DAN_input_c 7.7.5#9	15754388	Paper: Otto et al 2020	SEZ.R-SMP.R-SMP.L 7796758 Small Skipper KJH	
+7717049	Protocerebral_DAN_input_c 17.4.1#3	15754388	Paper: Otto et al 2020	neuron 7717050 [SMP.R]-[SLP.L] AJES Cloudbusting	
+7794832	Protocerebral_DAN_input_c 17.4.41#10	15754388	Paper: Otto et al 2020	Neuron 7794833 Dark Clouded Yellow KJH	
+7792761	Protocerebral_DAN_input_c 3.12.0_OTHERS16#6	15754388	Paper: Otto et al 2020	[SMP.R]-[SMP.L] 7792762 Large Skipper KJH	
+7791912	Protocerebral_DAN_input_c 5.2.0#4	15754388	Paper: Otto et al 2020	putative VNC neuron 7791913 Brown Argus KJH	
+7791778	Protocerebral_DAN_input_c 3.12.0_OTHERS16#4	15754388	Paper: Otto et al 2020	neuron 7791779 [SMP.R]-[SMP.L] AJES Vermeer	
+7791722	Protocerebral_DAN_input_c 3.12.0_OTHERS16#2	15754388	Paper: Otto et al 2020	neuron 7791723 [SMP.R]-[SMP.L] AJES Klimt	
+7791639	Protocerebral_DAN_input_c 12.6.3	15754388	Paper: Otto et al 2020	neuron 7791640 [SMP.R]-[SLP.R] AJES Cornelia Parker	
+7789924	Protocerebral_DAN_input_c 12.2.0#2	15754388	Paper: Otto et al 2020	SIP.R-SMP.R 7789925 Lulworth Skipper KJH	
+7783377	Protocerebral_DAN_input_c 13.9.1#3	15754388	Paper: Otto et al 2020	neuron 7783378 [SMP.R] AJES Rossetti	
+7778269	Protocerebral_DAN_input_c 13.11.0#2	15754388	Paper: Otto et al 2020	[SMP.R]-[SMP.L] 7778270 Swallowtail KJH	
+7777537	Protocerebral_DAN_input_c 17.4.41#9	15754388	Paper: Otto et al 2020	PVLP.R->[SMP.R] 7777538 Grizzled Skipper KJH	
+7777207	PAM-b'2a(c2)#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-B'2a (1) 5712028 Anzac Biscuit KJH	
+7724886	SEZ_DAN_input_c 7.7.5#8	15754388	Paper: Otto et al 2020	neuron 5677912 Sherlock Holmes LT	
+7724823	Protocerebral_DAN_input_c 14.4.6	15754388	Paper: Otto et al 2020	neuron 7724824 [SMP.R]-[CRE.R] AJES Auerbach	
+7724677	Protocerebral_DAN_input_c 13.12.3#2	15754388	Paper: Otto et al 2020	[SMP.R] 7724678 Wood White KJH	
+7793273	Protocerebral_DAN_input_c 12.5.4#2	15754388	Paper: Otto et al 2020	[SMP.R]-[SMP.L]-[SLP.L] 7793274 Dingy Skipper KJH	
+11409555	SEZON03#1	15754388	Paper: Otto et al 2020	neuron 11409556 [SMP.R] - [SEZ.R] Desert Flower AJES	
+11415722	Protocerebral_DAN_input_c 9.4.2#4	15754388	Paper: Otto et al 2020	neuron 11415723 [SMP.R] AJES Cornus	
+11478314	Protocerebral_DAN_input_c 11.5.2	15754388	Paper: Otto et al 2020	neuron 11478315 [SMP.R] AJES Miconia	
+6520436	Protocerebral_DAN_input_c 6.1.0	15754388	Paper: Otto et al 2020	Putative OA-VUMa6 neuron 6520437 AJES	
+6536545	Protocerebral_DAN_input_c 3.1.0	15754388	Paper: Otto et al 2020	Crown 6536546 [SMP.R/L]-[SEZ.L]-VNC AJES	
+6536556	Protocerebral_DAN_input_c 9.7.2#1	15754388	Paper: Otto et al 2020	neuron 6536557 [SMP.R]-[SIP.R]-[anterior of LH.R] AJES Atropa	
+6536631	Protocerebral_DAN_input_c 5.1.0	15754388	Paper: Otto et al 2020	neuron 6536632 [SMP.R]-[SMP.L]-[SEZ.R]->VNC AJES Glaucium	
+6536657	Protocerebral_DAN_input_c 9.7.2#2	15754388	Paper: Otto et al 2020	neuron 6536658 [SMP.R]-[LH.R] Mesua AJES ARJ	
+6536668	Protocerebral_DAN_input_c 3.13.0#7	15754388	Paper: Otto et al 2020	neuron 6536669 [SMP.R]-[SMP.L] AJES Echinopsis	
+6536721	Protocerebral_DAN_input_c 9.7.2#3	15754388	Paper: Otto et al 2020	neuron 6536722 [SMP.R]-[SIP.R] (Type II soma tract) AJES Fittonia 	
+6536743	Protocerebral_DAN_input_c 17.4.2#6	15754388	Paper: Otto et al 2020	neuron 6536744 [SMP.R] (aIP lin) AJES Argemone	
+6580156	Protocerebral_DAN_input_c 11.9.3#20	15754388	Paper: Otto et al 2020	neuron 6580157 Common Blue KJH	
+6640648	Protocerebral_DAN_input_c 11.16.10#11	15754388	Paper: Otto et al 2020	Neuron 6640649 B LT NM JH	
+6649459	Protocerebral_DAN_input_c 9.1.1#1	15754388	Paper: Otto et al 2020	aSP-g candidate R 6649460 KMS	
+6731898	Protocerebral_DAN_input_c 12.5.1	15754388	Paper: Otto et al 2020	neuron 6731899 MWP Gymnothorax moringa	
+6735444	Protocerebral_DAN_input_c 3.13.0#8	15754388	Paper: Otto et al 2020	neuron 6735445 [SMP.R]/[SIP.R]-[SMP.L]/[SIP.L] AJES Psychotria	
+6492404	Protocerebral_DAN_input_c 11.9.3#19	15754388	Paper: Otto et al 2020	neuron 6492405 MWP Gaia	
+6834056	Protocerebral_DAN_input_c 10.10.7#4	15754388	Paper: Otto et al 2020	aSP-g tract 6834057 KMS	
+6837598	Protocerebral_DAN_input_c 9.2.2#1	15754388	Paper: Otto et al 2020	[SMP.R] 6837599 Silver-Studded Blue KJH AD1b2?	
+6852364	Protocerebral_DAN_input_c 9.2.4#2	15754388	Paper: Otto et al 2020	neuron 6852365 MWP Muidopsis profunda 	
+6893931	PPL1-y1_R	15754388	Paper: Otto et al 2020	DAN PPL1-y1 Right 6893932 JS MWP	
+6901685	Protocerebral_DAN_input_c 9.2.4#5	15754388	Paper: Otto et al 2020	neuron 6901686 SLP.R-SIP.R-SMP.R aSP-g tract Escher AJES	
+6969526	PAM-b'2a#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-B'2a neuron 6969527 Sweet Creature RT	
+6973212	Protocerebral_DAN_input_c 17.2.4#2	15754388	Paper: Otto et al 2020	[SLP.L/SIP.L]-[SMP.L]-[SMP.R] 6973213 Nimrod KJH	
+6973517	SEZON03#35	15754388	Paper: Otto et al 2020	neuron 6973518 [SMP.R]-[SEZ.R] Leonotis AJES	
+6973614	SEZON03#12	15754388	Paper: Otto et al 2020	neuron 6973615 MWP Belinda 	
+6986820	Protocerebral_DAN_input_c 8.2.0	15754388	Paper: Otto et al 2020	neuron 6986821 MWP Franklin	
+6996224	SEZ_DAN_input_c 7.7.4#2	15754388	Paper: Otto et al 2020	neuron 6996225 MWP Becking	
+6997168	Protocerebral_DAN_input_c 9.7.2#4	15754388	Paper: Otto et al 2020	neuron 6997169 Leeuwenhoek MWP	
+6997270	SEZON03#30	15754388	Paper: Otto et al 2020	neuron 6997271 [SMP.R]-[SEZ.L] AJES Calendula	
+6997700	Protocerebral_DAN_input_c 15.11.1#5	15754388	Paper: Otto et al 2020	neuron 6997701 [SMP.R]-[CRE.R]-[SIP.R] Marina Abramovic AJES	
+6836000	Protocerebral_DAN_input_c 15.8.0	15754388	Paper: Otto et al 2020	aSP-g tract 6836001 KMS TY	
+6998157	Protocerebral_DAN_input_c 15.11.3#7	15754388	Paper: Otto et al 2020	neuron 6998158 MWP VanDerWaals	
+6484475	SEZON03#31	15754388	Paper: Otto et al 2020	neuron 6484476	
+6439962	Protocerebral_DAN_input_c 17.4.2#5	15754388	Paper: Otto et al 2020	neuron 6439963 Gladiolus NM	
+6131882	SEZ_DAN_input_c 7.7.3#4	15754388	Paper: Otto et al 2020	neuron 6131883 MWP Bobby Fischer	
+6132086	Protocerebral_DAN_input_c 13.14.2#3	15754388	Paper: Otto et al 2020	neuron 6132087 MWP Swammerdam	
+6132138	SEZ_DAN_input_c 6.2.0	15754388	Paper: Otto et al 2020	neuron 6132139 MWP Noether	
+6132249	Protocerebral_DAN_input_c 5.2.0#2	15754388	Paper: Otto et al 2020	neuron 6132250 [SIP.R]-[SMP.R]-[SEZ.R]-[VNC] AJES Millais	
+6132299	SEZ_DAN_input_c 7.7.3#5	15754388	Paper: Otto et al 2020	neuron 6132300 MWP Somerville	
+6132670	Protocerebral_DAN_input_c 3.13.0#6	15754388	Paper: Otto et al 2020	neuron 6132671 MWP Vampyroteuthis infernalis	
+6145469	SEZ_DAN_input_c 4.2.0	15754388	Paper: Otto et al 2020	neuron 6145470 [SMP.R]-[SEZ.R][SEZ.L] Penstemon AJES	
+6153581	Protocerebral_DAN_input_c 15.13.0#1	15754388	Paper: Otto et al 2020	neuron 6153582 Scarlet Study LT	
+6162599	Protocerebral_DAN_input_c 3.12.0_OTHERS16#7	15754388	Paper: Otto et al 2020	neuron 6162600 [SMP.R]-[SMP.L] AJES Berberis	
+6162613	Protocerebral_DAN_input_c 12.4.0#2	15754388	Paper: Otto et al 2020	SIP.L-SMP.L-SMP.R 6162614 Large Blue KJH AJES	
+6162853	Protocerebral_DAN_input_c 13.8.0#4	15754388	Paper: Otto et al 2020	neuron 6162854 Larkspur NM	
+6162876	SEZON03#7	15754388	Paper: Otto et al 2020	neuron 6162877 [SMP.R]-[SEZ.R] Brugmansia AJES	
+7075000	SEZON03#15	15754388	Paper: Otto et al 2020	neuron 7075001 [SEZ.L]->[SMP.R] AJES Althaea	
+6481564	Protocerebral_DAN_input_c 11.12.2#5	15754388	Paper: Otto et al 2020	Neuron 6481565 Mechta JH	
+6172624	Protocerebral_DAN_input_c 3.21.0#5	15754388	Paper: Otto et al 2020	neuron 6172625 KF	
+6193358	Protocerebral_DAN_input_c 11.14.3#1	15754388	Paper: Otto et al 2020	neuron 6193359 [SMP.R]-[SMP.L] AJES Silene	
+6202243	Protocerebral_DAN_input_c 3.7.0#6	15754388	Paper: Otto et al 2020	neuron 6202244 MWP AJES Dodecahedron	
+6224424	Protocerebral_DAN_input_c 13.14.4#3	15754388	Paper: Otto et al 2020	neuron 6224425 MWP Pearl Slaghoople	
+6224461	Protocerebral_DAN_input_c 12.9.0#1	15754388	Paper: Otto et al 2020	neuron 6224462 [SMP.R] AJES Curcuma 	
+6224481	SEZ_DAN_input_c 7.5.0	15754388	Paper: Otto et al 2020	neuron 6224482 [SEZ.R]-[SMP.R] Convolvulus AJES	
+6335520	SEZ_DAN_input_c 7.7.5#6	15754388	Paper: Otto et al 2020	neuron 6335521 [SMP.R]-[SEZ.R] AJES Meconopsis	
+6335553	SEZON03#6	15754388	Paper: Otto et al 2020	AL.R/FLA.R -> SMP.R 6335554 Rephaite KJH	
+6337303	Protocerebral_DAN_input_c 11.11.0#3	15754388	Paper: Otto et al 2020	neuron 6337304 MWP Beckett	
+6339242	SEZON1#4	15754388	Paper: Otto et al 2020	neuron 6339243 [SMP.R]-[SEZ.R] AJES Acacia	
+6408126	Protocerebral_DAN_input_c 15.3.0#2	15754388	Paper: Otto et al 2020	neuron 6408127 [SIP.R]-[CRE.L] AJES 	
+6423281	SEZ_DAN_input_c 8.4.0	15754388	Paper: Otto et al 2020	neuron 6423282 NR KS	
+6427329	Protocerebral_DAN_input_c 15.11.2#19	15754388	Paper: Otto et al 2020	neuron 5555829 Fancy Art NM	
+6428719	Protocerebral_DAN_input_c 14.6.1	15754388	Paper: Otto et al 2020	Neuron 6428720 Euridice JH	
+6181246	PAM-y5(uc)#1_R	15754388	Paper: Otto et al 2020	DAN PAM-y5 (19) 6181247 AJES	
+7019336	SEZ_DAN_input_c 4.1.0	15754388	Paper: Otto et al 2020	neuron 7019337 MWP Day-Lewis	
+7019569	Protocerebral_DAN_input_c 15.11.3#8	15754388	Paper: Otto et al 2020	neuron 7019570 MWP Pterois volitans	
+7019578	Protocerebral_DAN_input_c 15.11.3#9	15754388	Paper: Otto et al 2020	neuron 7019579 MWP Gorgoncephalus eucnemis	
+12252260	Protocerebral_DAN_input_c 9.2.4#7	15754388	Paper: Otto et al 2020	Bunce upstream PAM-y5  12252261 IS	
+12240258	SEZ_DAN_input_c 7.7.3#14	15754388	Paper: Otto et al 2020	 neuron 12240259 GD Chopin	
+12220882	SEZON03#2	15754388	Paper: Otto et al 2020	Brownlock upstream PAM-y5 12220883 IS	
+12100695	Protocerebral_DAN_input_c 10.9.1	15754388	Paper: Otto et al 2020	Boffin left upstream PAM-y5 12100696 IS	
+3688252	DAN_USN_c 11.9.3#2	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3688253 ASB	
+12100683	Protocerebral_DAN_input_c 17.3.1	15754388	Paper: Otto et al 2020	Brandybuck upstream PAM-y5 12100684 IS	
+11958252	Protocerebral_DAN_input_c 10.10.4	15754388	Paper: Otto et al 2020	SLP>L->PI neuron 11958253 SB	
+11809083	Protocerebral_DAN_input_c 3.18.0#2	15754388	Paper: Otto et al 2020	Neuron 11809084 MWP Hot Mess Previously Traced by JJ	
+11785195	Protocerebral_DAN_input_c 10.12.0#3	15754388	Paper: Otto et al 2020	neuron 11785196 GD Bartok	
+11733556	Protocerebral_DAN_input_c 12.9.0#4	15754388	Paper: Otto et al 2020	neuron 11733557	
+11721441	Protocerebral_DAN_input_c 13.11.0#3	15754388	Paper: Otto et al 2020	neuron 11721442 [SMP.R]-[SMP.L] AJES Charlotte's Web	
+11713797	Protocerebral_DAN_input_c 3.5.0#4	15754388	Paper: Otto et al 2020	neuron 11713798 MWP Aeneas	
+11707849	Protocerebral_DAN_input_c 13.15.7	15754388	Paper: Otto et al 2020	neuron 11707850 MWP Juno	
+12380089	Protocerebral_DAN_input_c 15.2.0	15754388	Paper: Otto et al 2020	Burrowes upstream PAM-y5 12380090 IS	
+11705504	Protocerebral_DAN_input_c 3.8.0#11	15754388	Paper: Otto et al 2020	neuron 11705505 Benzer MWP	
+11695128	Protocerebral_DAN_input_c 11.12.2#6	15754388	Paper: Otto et al 2020	neuron 11695129 [SMP.R] - SEZ? Lemon Haze AJES 	
+11693058	SEZON03#19	15754388	Paper: Otto et al 2020	neuron 11693059 [SMP.R]-[SEZ.L] AJES Mitragyna	
+11692492	SEZ_DAN_input_c 7.7.3#13	15754388	Paper: Otto et al 2020	neuron 11692493 [SMP.R]-[SEZ.R] AJES Albers	
+11692238	Protocerebral_DAN_input_c 18.2.0	15754388	Paper: Otto et al 2020	neuron 11692239 MWP Dido	
+11675823	Protocerebral_DAN_input_c 11.9.5#3	15754388	Paper: Otto et al 2020	neuron 11675824 MWP Jove	
+11543484	LHCENT3#1	15754388	Paper: Otto et al 2020	LHCENT3#1 11543485 Safety Pin CMM	
+11542989	Protocerebral_DAN_input_c 3.8.0#10	15754388	Paper: Otto et al 2020	SMP.R-SIP.R 11542990 Pearl-Bordered Fritillary KJH MWP	
+11519897	LHCENT5#1	15754388	Paper: Otto et al 2020	LHCENT5#1 11519898 Capaldi RJVR	
+11519759	LHCENT9#1	15754388	Paper: Otto et al 2020	LHCENT9#1 11519760 Fen Tiger CH ASB	
+11481938	SEZ_DAN_input_c 7.7.3#12	15754388	Paper: Otto et al 2020	neuron 11481939 [SMP.R]-[SEZ.R] AJES Ixora	
+11480224	SEZ_DAN_input_c 7.4.0#3	15754388	Paper: Otto et al 2020	neuron 11480225 [SEZ.R]-[SMP.R] AJES Message in a bottle	
+11480149	Protocerebral_DAN_input_c 9.2.5#2	15754388	Paper: Otto et al 2020	neuron 11480150 AJES Habenaria	
+11478394	SEZ_DAN_input_c 7.7.3#11	15754388	Paper: Otto et al 2020	neuron 11478395 [SMP.R]-[SEZ.R] Anthurium AJES	
+11705080	Protocerebral_DAN_input_c 11.9.3#21	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3785538 ASB	
+12380721	Protocerebral_DAN_input_c 3.12.0_OTHERS16#9	15754388	Paper: Otto et al 2020	neuron 12380722 IS Galpsi	
+12382427	Protocerebral_DAN_input_c 11.9.5_LHON02#6	15754388	Paper: Otto et al 2020	Butcher upstream PAM-y5 12382428 IS	
+12383246	Protocerebral_DAN_input_c 3.12.0_OTHERS16#5	15754388	Paper: Otto et al 2020	neuron 12383247 GD Berlioz	
+7019802	Protocerebral_DAN_input_c 11.16.10#12	15754388	Paper: Otto et al 2020	neuron 7019803 [SIP.R] AJES Gainsborough	
+7019815	Protocerebral_DAN_input_c 12.10.0#7	15754388	Paper: Otto et al 2020	neuron 7019816 MWP Markievicz	
+7020444	Protocerebral_DAN_input_c 12.9.0#2	15754388	Paper: Otto et al 2020	neuron 7020445 MWP Red Sea	
+7021238	Protocerebral_DAN_input_c 10.12.0#2	15754388	Paper: Otto et al 2020	neuron 7021239 Insolent Iguana KMS	
+7022741	SEZ_DAN_input_c 7.7.3#6	15754388	Paper: Otto et al 2020	neuron 7022742 MWP Regalecus glesne	
+7023187	Protocerebral_DAN_input_c 15.11.3#10	15754388	Paper: Otto et al 2020	neuron 7023188 MWP Montalcini	
+7025903	Protocerebral_DAN_input_c 10.7.0	15754388	Paper: Otto et al 2020	neuron 7025904 MWP Edgeworth	
+7026994	Protocerebral_DAN_input_c 17.1.0	15754388	Paper: Otto et al 2020	neuron 7026995 MWP Melanocetus johnstonii	
+7027387	Protocerebral_DAN_input_c 11.14.3#2	15754388	Paper: Otto et al 2020	neuron 7027388 MWP Ward	
+7027448	Protocerebral_DAN_input_c 20.2.0#9	15754388	Paper: Otto et al 2020	neuron 7027449 MWP Gandalf	
+7030538	Protocerebral_DAN_input_c 3.4.2#1	15754388	Paper: Otto et al 2020	neuron 7030539	
+7036909	Protocerebral_DAN_input_c 2.1.0#2	15754388	Paper: Otto et al 2020	neuron 7036910 MWP Sauron	
+7039405	Protocerebral_DAN_input_c 14.8.0	15754388	Paper: Otto et al 2020	neuron 7039406 [CRE.R]-[CRE.L] Brave New World AJES	
+7039956	Protocerebral_DAN_input_c 3.6.0_OTHERS15#2	15754388	Paper: Otto et al 2020	neuron 7039957 MWP Lavin	
+7041966	Protocerebral_DAN_input_c 19.3.1#1	15754388	Paper: Otto et al 2020	neuron 7041967 MWP Dermochelys coriacea	
+7044096	Protocerebral_DAN_input_c 13.4.0	15754388	Paper: Otto et al 2020	neuron 7044097 MWP Carson	
+7050586	Protocerebral_DAN_input_c 13.15.8	15754388	Paper: Otto et al 2020	neuron 7050587 MWP Verdi	
+7059660	Protocerebral_DAN_input_c 10.6.0#2	15754388	Paper: Otto et al 2020	neuron 7059661 MWP Dugong dugon	
+7059920	Protocerebral_DAN_input_c 19.3.2	15754388	Paper: Otto et al 2020	neuron 7059921 MWP Bathypelagic	
+7060209	Protocerebral_DAN_input_c 3.15.0	15754388	Paper: Otto et al 2020	neuron 7060210 MWP Lampris guttatus	
+7061362	Protocerebral_DAN_input_c 3.2.0	15754388	Paper: Otto et al 2020	neuron 7061363 MWP Cetorhinus maximus	
+7063206	SEZ_DAN_input_c 7.7.4#3	15754388	Paper: Otto et al 2020	neuron 7063207 MWP Stoker	
+7063643	Protocerebral_DAN_input_c 11.13.0#2	15754388	Paper: Otto et al 2020	neuron 7063644 MWP Abyssopelagic	
+15385365	Protocerebral_DAN_input_c 14.3.2	15754388	Paper: Otto et al 2020	neuron 5364350 Elevator RT	
+13325634	oviIN	15754388	Paper: Otto et al 2020	neuron 6244095 [SMP.R]-[SMP.L]-[SEZ.R] Nemesia AJES NF TY	
+13283028	SEZON03#28	15754388	Paper: Otto et al 2020	neuron 13283029 IS Gamwich	
+13096875	SEZON03#27	15754388	Paper: Otto et al 2020	neuron 13096876 Miriam Makeba IFMT	
+12874611	Protocerebral_DAN_input_c 11.1.0	15754388	Paper: Otto et al 2020	Neuron 12874612 GD Brahms	
+12838570	Protocerebral_DAN_input_c 15.11.1#7	15754388	Paper: Otto et al 2020	neuron 12838571	
+6130400	Protocerebral_DAN_input_c 12.10.0#6	15754388	Paper: Otto et al 2020	neuron 6130401 MWP Lady Gregory TY type7-4	
+3685760	Protocerebral_DAN_input_c 11.9.5_LHON02#9	15754388	Paper: Otto et al 2020	not C11A 3685761 ASB	
+3075656	Protocerebral_DAN_input_c 11.9.3#6	15754388	Paper: Otto et al 2020	not C11A 3075657 Henley JJ	
+3648551	Protocerebral_DAN_input_c 13.14.2#2	15754388	Paper: Otto et al 2020	neuron 3648552 NS-RP	
+1995095	Protocerebral_DAN_input_c 13.15.6#3	15754388	Paper: Otto et al 2020	Neuron 1995096 Newberry Medal JH	
+1992387	Protocerebral_DAN_input_c 3.12.0_OTHERS16#3	15754388	Paper: Otto et al 2020	Neuron 1992388 Tasmanian JH	
+1970606	Protocerebral_DAN_input_c 17.4.3	15754388	Paper: Otto et al 2020	LH projection neuron to MB-HL 1970607 AJES - DA1 Downstream	
+1945705	DAN_USN_c 11.9.3#1	15754388	Paper: Otto et al 2020	LHON-C11A-beta 1928919 Cruinniuc RJVR	
+1943924	Protocerebral_DAN_input_c 3.13.0#1	15754388	Paper: Otto et al 2020	Neuron 1943925 The Duchess Misbehaves RT & JJ	
+1943507	Protocerebral_DAN_input_c 12.6.6#5	15754388	Paper: Otto et al 2020	Neuron 1943508 Looper JJ & RT	
+1936120	Protocerebral_DAN_input_c 11.9.3#1	15754388	Paper: Otto et al 2020	LHON-C11A-beta 1929919 Cathbad RJVR 	
+1934923	Protocerebral_DAN_input_c 13.15.6#2	15754388	Paper: Otto et al 2020	Neuron 1934924 Jack Kilby IC JJ	
+1933256	Protocerebral_DAN_input_c 13.15.6#1	15754388	Paper: Otto et al 2020	Neuron 1933258 Doctor Bakey JH	
+1933033	Protocerebral_DAN_input_c 2.1.0#1	15754388	Paper: Otto et al 2020	Neuron 1933034 Hoover Dam RT	
+1932356	Protocerebral_DAN_input_c 11.16.10#1	15754388	Paper: Otto et al 2020	Neuron 1932357 Bellaco Sois JH	
+1920529	Protocerebral_DAN_input_c 12.6.6#4	15754388	Paper: Otto et al 2020	Neuron 1920530 Beardslee JH	
+1919973	Protocerebral_DAN_input_c 13.13.4#1	15754388	Paper: Otto et al 2020	Neuron 1919974 Orange Juice JH	
+1917270	Protocerebral_DAN_input_c 13.15.5#2	15754388	Paper: Otto et al 2020	Neuron 1917271 [SMP.R] JJ AJES Nolde	
+2024011	Protocerebral_DAN_input_c 17.4.2#3	15754388	Paper: Otto et al 2020	[SIP]->SMP 2024012 Crescent ASB	
+1913313	Protocerebral_DAN_input_c 12.6.4#1	15754388	Paper: Otto et al 2020	SMP.R-SLP.R-LH.R 1913314 Brown Hairstreak KJH	
+1878029	Protocerebral_DAN_input_c 11.5.1	15754388	Paper: Otto et al 2020	Neuron 1878030 Bridge M RT & JJ	
+1876799	Protocerebral_DAN_input_c 12.6.6#3	15754388	Paper: Otto et al 2020	neuron 1876800 Beloved RT	
+1876779	Protocerebral_DAN_input_c 12.6.5#2	15754388	Paper: Otto et al 2020	Neuron 1876780 Bridge L JJ & RT	
+1876755	Protocerebral_DAN_input_c 12.6.6#2	15754388	Paper: Otto et al 2020	neuron 1876756 Salk RT	
+1876684	Protocerebral_DAN_input_c 12.6.6#1	15754388	Paper: Otto et al 2020	Neuron 1876685 Lionheart JH	
+1876196	Protocerebral_DAN_input_c 12.6.5#1	15754388	Paper: Otto et al 2020	Neuron 1876197 Acadia RT	
+1875568	Protocerebral_DAN_input_c 11.9.3#4	15754388	Paper: Otto et al 2020	LHON-C11A-delta 1875569 Cornell RT	
+1875117	Protocerebral_DAN_input_c 17.4.2#2	15754388	Paper: Otto et al 2020	neuron 1875118 Mayday RT	
+1856261	Protocerebral_DAN_input_c 11.10.0#1	15754388	Paper: Otto et al 2020	Neuron 1856262 William Pitt the Elder JJ	
+1687427	MBON-y1y2_R	15754388	Paper: Otto et al 2020	Mostly [CRE.R]-[Superior Clamp.R] - [Protocerebrum.R] & others1687428 Putative VFB ID VGlut-F-000488 AJES	
+1683650	Protocerebral_DAN_input_c 3.6.0_OTHERS15#5	15754388	Paper: Otto et al 2020	large fragment 1683651 AJES	
+1671518	Protocerebral_DAN_input_c 20.2.0#4	15754388	Paper: Otto et al 2020	[CRE.R] 1671519 (pMP-a lineage) AJES	
+1671124	Protocerebral_DAN_input_c 11.11.0#1	15754388	Paper: Otto et al 2020	[CRE.R] - [SMP.R] >[SIP.L] neuron 1671125 AJES	
+1670516	Protocerebral_DAN_input_c 15.11.4#2	15754388	Paper: Otto et al 2020	[CRE.R] - [CRE.L] - [SIP.L] 1670517 AJES	
+1906859	Protocerebral_DAN_input_c 9.2.1#2	15754388	Paper: Otto et al 2020	Putative LH-SMP Neuron Pemptoneuro RJVR	
+1651545	Protocerebral_DAN_input_c 20.2.0#3	15754388	Paper: Otto et al 2020	[CRE.R] 1651546 (pMP-a lineage) AJES	
+2047332	Protocerebral_DAN_input_c 3.3.0#1	15754388	Paper: Otto et al 2020	neuron 2047333 NS	
+2106411	PPL1-y1_L	15754388	Paper: Otto et al 2020	DAN PPL1-y1pedc Left 2106412 NS for SW	
+2425528	Protocerebral_DAN_input_c 11.14.1#2	15754388	Paper: Otto et al 2020	neuron 2425529 RT NAS	
+2416734	Protocerebral_DAN_input_c 11.14.1#1	15754388	Paper: Otto et al 2020	neuron 2416735 RT RP NAS	
+2404179	Protocerebral_DAN_input_c 14.4.2	15754388	Paper: Otto et al 2020	Neuron 2404180 Jazz JJ	
+2375064	Protocerebral_DAN_input_c 11.4.2	15754388	Paper: Otto et al 2020	neuron 2375065 Eiffel Tower RT	
+2360874	Protocerebral_DAN_input_c 10.12.0#1	15754388	Paper: Otto et al 2020	aSP-g downstream 2360875 KM IT	
+2298586	Protocerebral_DAN_input_c 12.6.1	15754388	Paper: Otto et al 2020	Neuron 2298587 Large Pawn RT	
+2294141	Protocerebral_DAN_input_c 12.6.6#9	15754388	Paper: Otto et al 2020	Neuron 2294142 Shoelace Park JH	
+2293621	Protocerebral_DAN_input_c 12.6.6#8	15754388	Paper: Otto et al 2020	Neuron 2293622 Oregon Trail JJ	
+2293616	Protocerebral_DAN_input_c 12.6.6#7	15754388	Paper: Otto et al 2020	Neuron 2293617 Scout RT	
+2265731	DAN_USN_c 15.11.1	15754388	Paper: Otto et al 2020	neuron 2265732 MWP BRussell	
+2265555	Protocerebral_DAN_input_c 12.6.2#6	15754388	Paper: Otto et al 2020	mAL downstream 2265556 KM	
+2265448	DAN_USN_c 12.6.2	15754388	Paper: Otto et al 2020	mAL downstream 2265449 KM	
+2265099	Protocerebral_DAN_input_c 11.16.3#1	15754388	Paper: Otto et al 2020	mAL downstream 2265100 KM	
+2263284	Protocerebral_DAN_input_c 3.6.0_OTHERS15#6	15754388	Paper: Otto et al 2020	neuron 2263285 MWP Galeocerdo cuvier	
+2062703	MBON-a2sp_R	15754388	Paper: Otto et al 2020	MBON-a2sp Right ASB	
+2262342	SEZ_DAN_input_c 7.7.4#1	15754388	Paper: Otto et al 2020	SEZ.R-SMP.R 2262343 Duke of Burgundy KJH	
+2249156	Protocerebral_DAN_input_c 11.16.10#2	15754388	Paper: Otto et al 2020	neuron 2249157 Nero's Rome RT LT	
+2237100	Protocerebral_DAN_input_c 12.6.6#6	15754388	Paper: Otto et al 2020	Neuron 2237101 Sir Francis Drake JH	
+2236897	Protocerebral_DAN_input_c 12.1.0	15754388	Paper: Otto et al 2020	Neuron 2236898 Cherokee Phoenix JJ & RT	
+2236828	Protocerebral_DAN_input_c 11.16.7#1	15754388	Paper: Otto et al 2020	Neuron 2236829 Brown Bananas RT	
+2236492	Protocerebral_DAN_input_c 11.16.1	15754388	Paper: Otto et al 2020	Neuron 2236493 Turkey RT	
+2173638	Protocerebral_DAN_input_c 3.12.0_OTHERS16#8	15754388	Paper: Otto et al 2020	Neuron 2173639 Chlorophyll JH TY	
+2160773	Protocerebral_DAN_input_c 3.11.0	15754388	Paper: Otto et al 2020	neuron 2160774 ASB TODO LT RT	
+2144424	Protocerebral_DAN_input_c 12.6.2#5	15754388	Paper: Otto et al 2020	aSP-g downstream 2144425 KM	
+2142915	Protocerebral_DAN_input_c 10.8.0	15754388	Paper: Otto et al 2020	mAL downstream 2142916 KM	
+2139479	Protocerebral_DAN_input_c 12.6.2#4	15754388	Paper: Otto et al 2020	mAL downstream 2139480 JJ KM	
+2133118	Protocerebral_DAN_input_c 11.10.0#2	15754388	Paper: Otto et al 2020	Neuron 2133119 William Pitt the Younger RT & JJ	
+2124538	Protocerebral_DAN_input_c 11.9.7#1	15754388	Paper: Otto et al 2020	LHON-C11A-beta 19701344 Macha RJVR	
+2120177	MBON-y1pedc>a/B_L	15754388	Paper: Otto et al 2020	Left MBON-y1pedc>a/B 2120178 SW RJVR	
+2110119	Protocerebral_DAN_input_c 13.5.0#1	15754388	Paper: Otto et al 2020	Neuron 2110120 split from neuron 1943508 RT	
+2250960	Protocerebral_DAN_input_c 11.16.7#2	15754388	Paper: Otto et al 2020	[CRE.R] 2250961 AJES Putative PPL1 DAN	
+2434711	SEZ_DAN_input_c 1.1.0	15754388	Paper: Otto et al 2020	SEZ lALT PN RHS  2434712 They see me rollin' RJVR GSXEJ	
+1651416	Protocerebral_DAN_input_c 15.11.4#1	15754388	Paper: Otto et al 2020	[CRE.R] 1651417 AJES (same lineage as putative asP-j)	
+1650913	Protocerebral_DAN_input_c 20.2.0#1	15754388	Paper: Otto et al 2020	[CRE.R] 1650914 (pMP-a lineage) AJES-JH	
+1099678	Protocerebral_DAN_input_c 10.10.6	15754388	Paper: Otto et al 2020	aSP-g downstream 1099679 IT KM	
+1085816	PPL1-y1pedc_L	15754388	Paper: Otto et al 2020	DAN PPL1-y1pedc Left 1085817 NS	
+1064828	Protocerebral_DAN_input_c 10.10.7#2	15754388	Paper: Otto et al 2020	LHN (aSP-g tract) 1064829 IT	
+1064603	DAN_USN_c 10.10.7	15754388	Paper: Otto et al 2020	aSP-g cand arch tract neuron 1064604 IT	
+1059970	SEZ_DAN_input_c 7.4.0#1	15754388	Paper: Otto et al 2020	bilateral median SEZ PN LHS 1059971 IT	
+1058665	Protocerebral_DAN_input_c 10.10.7#3	15754388	Paper: Otto et al 2020	aSP-g cand arch tract neuron 1058666 IT	
+1041505	Protocerebral_DAN_input_c 10.10.1	15754388	Paper: Otto et al 2020	aSP-g candidate R 1041506 GSXEJ	
+983054	Protocerebral_DAN_input_c 11.9.3#3	15754388	Paper: Otto et al 2020	aSP-g type tract crossing alpha lobe neuron 983055 GSXEJ	
+870683	MBON-y4>y1y2_R	15754388	Paper: Otto et al 2020	MBON-y4>y1y2 870684 NS	
+860160	Protocerebral_DAN_input_c 18.1.0	15754388	Paper: Otto et al 2020	putative DAN 860161 JH NS	
+716645	Protocerebral_DAN_input_c 11.9.4#1	15754388	Paper: Otto et al 2020	neuron 716646 GSXEJ	
+693072	Protocerebral_DAN_input_c 9.5.0	15754388	Paper: Otto et al 2020	neuron 693073 GSXEJ	
+635314	Protocerebral_DAN_input_c 13.15.1#3	15754388	Paper: Otto et al 2020	neuron 635315-FW-A10 MWP Kronos	
+629093	Protocerebral_DAN_input_c 17.2.4#1	15754388	Paper: Otto et al 2020	-> SMP.L-SMP.R 629094 Gogmagog KK KJH	
+1137895	Multiglomerular mALT lvPN#R14	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VM3+VC4+DA1+3 LTS 0.91 56992 HG NAS	
+625980	Protocerebral_DAN_input_c 13.15.1#2	15754388	Paper: Otto et al 2020	neuron 625981-FW-A8	
+563383	MBON-a'3ap_L	15754388	Paper: Otto et al 2020	Putative Left MBON a'3ap 563384 GSXEJ	
+554327	LHCENT8#2	15754388	Paper: Otto et al 2020	LHCENT8#2 554328 IJA Vieille Priére Bouddhique	
+551975	MBON-a1#2_R	15754388	Paper: Otto et al 2020	a1 MBON 02 DB	
+551939	SEZ_DAN_input_c 7.1.0	15754388	Paper: Otto et al 2020	neuron 551940 MBON a3 a1 postsyn 	
+546632	MBON-a1#1_R	15754388	Paper: Otto et al 2020	a1 MBON 01 DB	
+543713	MBON-a3#2_R	15754388	Paper: Otto et al 2020	a3 MBON 02 DB	
+517628	MBON-a3#1_R	15754388	Paper: Otto et al 2020	a3 MBON 01 DB	
+304945	MBON-y2a'1#1_R	15754388	Paper: Otto et al 2020	MBON-y2a'1 304946 NS	
+181551	LHCENT8#1	15754388	Paper: Otto et al 2020	LHCENT8#1 181552 Vieille Priére Bouddhique EW ASB RJVR	
+177997	Multiglomerular mALT lvPN#R3	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VL2p+VM7v+DM3+16 LTS 0.68 177998 SMM	
+177584	Multiglomerular mALT lvPN#R2	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VC4+DL3+VM3+29 LTS 0.48 177585 NAS ZSG	
+177545	Multiglomerular mALT lvPN#R1	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN VM3+VM7v+VA2+31 LTS 0.43 177546 SMM AW	
+430	DNp32_R	15754388	Paper: Otto et al 2020	La Grosse Cellule LGC 431 JS	
+3673438	SEZON03#14	15754388	Paper: Otto et al 2020	neuron 3673439 [SMP.R]-[SMP.L]-[SEZ.L] AJES Digitalis	
+588526	Protocerebral_DAN_input_c 13.15.1#1	15754388	Paper: Otto et al 2020	neuron 588527-FW-A2	
+1651222	Protocerebral_DAN_input_c 20.2.0#2	15754388	Paper: Otto et al 2020	[CRE.R] 1651223 (pMP-a lineage) AJES	
+1142316	Multiglomerular mALT lvPN#R4	15754388	Paper: Otto et al 2020	Multiglomerular mALT lvPN DL5+DC1+DP1m+6 LTS 0.87 177664 ECS	
+1180169	Protocerebral_DAN_input_c 13.15.4#1	15754388	Paper: Otto et al 2020	aSP-g downstream 1180170 KM	
+1641701	Protocerebral_DAN_input_c 11.9.4#2	15754388	Paper: Otto et al 2020	SIP.R - CRE.R neuron 1641702 AJES ASB	
+1641380	Protocerebral_DAN_input_c 12.5.2	15754388	Paper: Otto et al 2020	SIP.R>SMP.R:SMP.L 1641381 RJVR Du fond de l'abîme	
+1641089	Protocerebral_DAN_input_c 12.3.1#1	15754388	Paper: Otto et al 2020	SIP 1641090 Corona Radiata AJES CH 	
+1627852	Protocerebral_DAN_input_c 15.11.3#1	15754388	Paper: Otto et al 2020	GA.R -> MB_ML.R - CRE.R - SIP.R neuron 1627853 Visionist CH	
+1619887	MBON-y4y5b_R	15754388	Paper: Otto et al 2020	putative new MBON-y4y5 1619888 RJVR-NS 	
+1613298	Protocerebral_DAN_input_c 11.16.5	15754388	Paper: Otto et al 2020	[SIP.R] -> [CRE.R] 1613299 JH	
+1606596	Protocerebral_DAN_input_c 17.4.2#1	15754388	Paper: Otto et al 2020	neuron 1606597 PS-NM	
+1605598	MBON-a2p3p#1_R	15754388	Paper: Otto et al 2020	MBON-a2p3p 1605599 NS	
+1578380	SEZ_DAN_input_c 7.7.5#1	15754388	Paper: Otto et al 2020	neuron 1578381 Pepsi Cola CMM & JH	
+1576646	Protocerebral_DAN_input_c 14.7.0#1	15754388	Paper: Otto et al 2020	neuron 1576647 Spaghetti House Siege CMM & SAC	
+1576584	SEZ_DAN_input_c 18.4.0	15754388	Paper: Otto et al 2020	neuron 1576585 [SMP.R]-[SEZ.R] AJES NM TY	
+1573775	MBON-y4y5a_R	15754388	Paper: Otto et al 2020	MBON-y4y5 1573776 NS	
+1567421	MBON-B2B'2a_R	15754388	Paper: Otto et al 2020	MBON-B2B'2a 1567422 NS	
+1385339	MBON-B1>a_L	15754388	Paper: Otto et al 2020	MBON-B1>a 1385340 NS	
+1159799	PPL1-y1pedc_R	15754388	Paper: Otto et al 2020	DAN PPL1-y1pedc Right 1159800 NS	
+1363308	Protocerebral_DAN_input_c 13.15.5#1	15754388	Paper: Otto et al 2020	neuron 1363309 ASB TODO	
+1356457	Protocerebral_DAN_input_c 12.6.2#3	15754388	Paper: Otto et al 2020	mAL downstream 1356458 IT AJES	
+1322907	MBON-a'3m#1_R	15754388	Paper: Otto et al 2020	Putative Right MBON a'3m 1322908 RJVR Chosen	
+1318702	Protocerebral_DAN_input_c 12.6.2#2	15754388	Paper: Otto et al 2020	aSP-g downstream neuron 1318703 IT & RT	
+1312003	Protocerebral_DAN_input_c 10.3.2	15754388	Paper: Otto et al 2020	LH.R-> Gargantuan ASB	
+1311287	Protocerebral_DAN_input_c 13.13.2#1	15754388	Paper: Otto et al 2020	neuron 1311288 Galaxy RT ASB	
+1310573	MBON-a'3ap_R	15754388	Paper: Otto et al 2020	Putative Right MBON a'3ap ASB Chosen	
+1307939	Protocerebral_DAN_input_c 11.16.6#1	15754388	Paper: Otto et al 2020	 SIP.R -> CRE.R 1627868 AJES MVP2 downstream SIP	
+1305588	MBON-a2p3p#2_R	15754388	Paper: Otto et al 2020	putative MBON-a2p3p-2 1305588	
+1299740	LHMB1#1	15754388	Paper: Otto et al 2020	LHMB1#1 1299741 Birthday ASB	
+1298683	Protocerebral_DAN_input_c 12.2.0#1	15754388	Paper: Otto et al 2020	LH neuron downstream of V2a 1298684 Interesting CMM ASB	
+1298573	Protocerebral_DAN_input_c 11.15.0#1	15754388	Paper: Otto et al 2020	PV5 [LH.R] 1298573 Baby Snakes RJVR	
+1276310	Protocerebral_DAN_input_c 12.6.2#1	15754388	Paper: Otto et al 2020	mAL downstream 1276311 KM	
+1211268	DAN_USN_c 10.10.2	15754388	Paper: Otto et al 2020	aSP-g downstream 1211269 KM	
+1185009	Protocerebral_DAN_input_c 11.16.8	15754388	Paper: Otto et al 2020	->(LH.R,SIP.R,SMP.R) 1185010 Cthulu ASB	
+1360012	MBON-B2B'2a_L	15754388	Paper: Otto et al 2020	MBON-B2B'2a 1360013 NS	
+2451082	Protocerebral_DAN_input_c 17.2.6	15754388	Paper: Otto et al 2020	[CRE.R] - [MB.ML] 2451083 AJES	
+1876727	Protocerebral_DAN_input_c 3.12.0_OTHERS16#1	15754388	Paper: Otto et al 2020	Neuron 1876728 Pteranodon JH	
+2561794	SEZ_DAN_input_c 7.7.3#1	15754388	Paper: Otto et al 2020	Neuron 2561795 Skylab JH	
+3110029	Protocerebral_DAN_input_c 15.11.2#6	15754388	Paper: Otto et al 2020	Neuron 3110030 Kon-Tiki LT	
+3107882	Protocerebral_DAN_input_c 17.4.2#4	15754388	Paper: Otto et al 2020	Neuron 3107883 ex-JBeach NM JH	
+3107397	Protocerebral_DAN_input_c 3.7.0#3	15754388	Paper: Otto et al 2020	neuron 3107398 Jamestown LT	
+3107104	Protocerebral_DAN_input_c 9.2.8#3	15754388	Paper: Otto et al 2020	neuron 3107105 Speckled Band JJ JH	
+3106997	Protocerebral_DAN_input_c 20.2.0#6	15754388	Paper: Otto et al 2020	neuron two soma 3106998 NM	
+3105448	Protocerebral_DAN_input_c 10.2.1#2	15754388	Paper: Otto et al 2020	neuron 3105449 Corvette LT	
+3102957	Protocerebral_DAN_input_c 13.13.4#3	15754388	Paper: Otto et al 2020	neuron 3102958 Mont Blanc LT 	
+3102897	Protocerebral_DAN_input_c 11.16.10#5	15754388	Paper: Otto et al 2020	Neuron 3102898 Rival Fools JH	
+3102527	Protocerebral_DAN_input_c 9.2.9	15754388	Paper: Otto et al 2020	neuron 3102528 Lorentz LT	
+3102226	Protocerebral_DAN_input_c 11.9.5_LHON02#3	15754388	Paper: Otto et al 2020	LHON-C11A-gamma 3102227 Goll JJ	
+3102113	Protocerebral_DAN_input_c 20.2.0#5	15754388	Paper: Otto et al 2020	neuron 3102114 JJ	
+3102108	Protocerebral_DAN_input_c 9.4.2#1	15754388	Paper: Otto et al 2020	neuron 3102109 JJ	
+3095038	Protocerebral_DAN_input_c 11.9.5_LHON02#5	15754388	Paper: Otto et al 2020	LHON-C11A-gamma 3095039 Fionn JJ	
+3091438	Protocerebral_DAN_input_c 3.6.0_OTHERS15#9	15754388	Paper: Otto et al 2020	neuron 3091439 MWP Synge	
+3086868	MBON-y2(35)_R	15754388	Paper: Otto et al 2020	putative new MBON-y2y4 3086869 SAC-LF-NS	
+3086468	Protocerebral_DAN_input_c 14.3.1	15754388	Paper: Otto et al 2020	neuron 3086469 Piquette Plant RT LT	
+3085828	Protocerebral_DAN_input_c 11.12.2#3	15754388	Paper: Otto et al 2020	neuron 3085829 JJ	
+3085805	Protocerebral_DAN_input_c 2.3.0	15754388	Paper: Otto et al 2020	neuron 3085806 JJ	
+3085788	Protocerebral_DAN_input_c 13.12.3#1	15754388	Paper: Otto et al 2020	neuron 3085789 JJ	
+3084758	Protocerebral_DAN_input_c 10.2.2#1	15754388	Paper: Otto et al 2020	neuron 3084759 JJ	
+3084733	Protocerebral_DAN_input_c 11.12.1	15754388	Paper: Otto et al 2020	neuron 3084734 JJ	
+3084067	Protocerebral_DAN_input_c 14.3.4#1	15754388	Paper: Otto et al 2020	neuron 3084068 JJ	
+3080426	SEZ_DAN_input_c 7.6.0#1	15754388	Paper: Otto et al 2020	neuron 3080427 JJ	
+3080183	LHAD1c1#1	15754388	Paper: Otto et al 2020	LHAD1c1#1 3080184 Dust World JJ PS	
+3080050	Protocerebral_DAN_input_c 15.11.2#5	15754388	Paper: Otto et al 2020	neuron 3080051 Sergeant Pepper JJ	
+3080040	Protocerebral_DAN_input_c 12.8.0#5	15754388	Paper: Otto et al 2020	neuron 3080041 Gila Wilderness JJ JH	
+3079894	DAN_USN_c 11.9.5#1	15754388	Paper: Otto et al 2020	LHON-C11A-gamma 3079895 Oisin JJ	
+3079451	Protocerebral_DAN_input_c 15.11.2#4	15754388	Paper: Otto et al 2020	neuron 3079452 Bifocals JJ	
+3079369	Protocerebral_DAN_input_c 13.13.2#2	15754388	Paper: Otto et al 2020	neuron 3079370 JJ	
+3111192	Protocerebral_DAN_input_c 3.8.0#2	15754388	Paper: Otto et al 2020	neuron 3111193 invisible ink RT JJ	
+3111228	Protocerebral_DAN_input_c 13.6.0	15754388	Paper: Otto et al 2020	neuron 3111229 no soma NM	
+3111463	Protocerebral_DAN_input_c 3.8.0#3	15754388	Paper: Otto et al 2020	neuron 3111464 NM	
+3112284	Protocerebral_DAN_input_c 13.9.1#1	15754388	Paper: Otto et al 2020	neuron 3112285 NM	
+3643424	PAM-y5(fb)#2_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (5) 3643425 Ringling Brothers CMM	
+3643164	MBON-a2p3p#2_L	15754388	Paper: Otto et al 2020	MBON-a2p3p-2 - Left 3643165 JH	
+3639761	PAM-y5(fb)#1_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (1) 3639762 Beard Tax CMM	
+3615116	Protocerebral_DAN_input_c 15.11.4#3	15754388	Paper: Otto et al 2020	Neuron 3615117  SMP.L > [SIP.R]-[CRE.R]-[CRE.L]	
+3597226	Protocerebral_DAN_input_c 12.5.3	15754388	Paper: Otto et al 2020	Neuron 3597227 Strike RT	
+3586071	MBON-y2(32)_R	15754388	Paper: Otto et al 2020	putative new MBON-y2 3032971 NM-NS	
+3584772	Protocerebral_DAN_input_c 11.9.4#3	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3584773 ASB	
+3583714	Protocerebral_DAN_input_c 11.9.3#7	15754388	Paper: Otto et al 2020	not C11A 3583715 CMM & ASB	
+3580588	MBON-a2p3p#1_L	15754388	Paper: Otto et al 2020	MBON-a2p3p - Left 3580589 JH	
+3546385	Protocerebral_DAN_input_c 11.9.5_LHON02#8	15754388	Paper: Otto et al 2020	LHON-C11 Ventral alpha 3546386 JH ASB	
+3546329	Protocerebral_DAN_input_c 11.9.5_LHON02#4	15754388	Paper: Otto et al 2020	not LHON 3546330 ASB	
+3546325	DAN_USN_c 11.9.5#3	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3546326 ASB	
+3546305	Protocerebral_DAN_input_c 11.9.5_LHON02#1	15754388	Paper: Otto et al 2020	LHON-C11 Ventral 3546306 ASB	
+3546288	DAN_USN_c 11.9.5#2	15754388	Paper: Otto et al 2020	LHON C11 3546289 ASB	
+3079348	Protocerebral_DAN_input_c 3.7.0#2	15754388	Paper: Otto et al 2020	neuron 3079349 JJ	
+3546280	Protocerebral_DAN_input_c 11.9.5#1	15754388	Paper: Otto et al 2020	not C11A 3546281 ASB	
+3503851	MBON-y4y5b_L	15754388	Paper: Otto et al 2020	putative new MBON-y4y5 3503852 SAC  LEFT	
+3443595	Protocerebral_DAN_input_c 12.5.4#1	15754388	Paper: Otto et al 2020	Neuron 3443596 Casiono Royale JH	
+3350576	Protocerebral_DAN_input_c 13.14.3	15754388	Paper: Otto et al 2020	neuron 3350577 NF FW-B8	
+3341870	Protocerebral_DAN_input_c 13.9.1#2	15754388	Paper: Otto et al 2020	neuron 3341871 FW-B4	
+3336470	Protocerebral_DAN_input_c 13.14.2#1	15754388	Paper: Otto et al 2020	neuron 3336471 JJ- FW-B6	
+3336466	Protocerebral_DAN_input_c 13.14.4#1	15754388	Paper: Otto et al 2020	neuron 3336467 FW-B1	
+3307445	Protocerebral_DAN_input_c 12.8.0#6	15754388	Paper: Otto et al 2020	neuron 3307446 Baily's Beads CMM	
+3294837	Protocerebral_DAN_input_c 3.7.0#4	15754388	Paper: Otto et al 2020	Neuron 3294838 JAPAN-NM	
+3275466	Protocerebral_DAN_input_c 13.15.1#4	15754388	Paper: Otto et al 2020	Neuron 3275467-FW-A9	
+3205031	Protocerebral_DAN_input_c 3.10.0#1	15754388	Paper: Otto et al 2020	Putative aSP23 - 3205032 FW CMP NF	
+3183911	Protocerebral_DAN_input_c 15.12.2	15754388	Paper: Otto et al 2020	SMP.L-SMP.R 3183912 Holly Blue KJH	
+3143746	PAM-y5(lc)#6_R	15754388	Paper: Otto et al 2020	DAN PAM-y5 (4) 3143747 NS RIGHT	
+3134190	PAM-y5#4_L	15754388	Paper: Otto et al 2020	DAN PAM-y5 (3) 3134191 NS LEFT	
+3112690	Protocerebral_DAN_input_c 11.16.7#3	15754388	Paper: Otto et al 2020	Neuron 3112691 Small Wonder JH	
+3507280	Protocerebral_DAN_input_c 11.4.1	15754388	Paper: Otto et al 2020	Al Casbah 3507281 ASB	
+3079280	Protocerebral_DAN_input_c 11.12.2#2	15754388	Paper: Otto et al 2020	neuron 3079281 JJ	
+3134936	PAM-y5(uc)#2_R	15754388	Paper: Otto et al 2020	Putative DAN PAM-y5 (20) 3134937 Glenn Close MWP	
+3079235	Protocerebral_DAN_input_c 12.3.1#2	15754388	Paper: Otto et al 2020	neuron 3079236 Helicopter JJ	
+2991284	Protocerebral_DAN_input_c 3.8.0#1	15754388	Paper: Otto et al 2020	Neuron 2991285 Deathly Hallow JH	
+2982099	Protocerebral_DAN_input_c 11.14.1#4	15754388	Paper: Otto et al 2020	neuron 2982100 NAS MD	
+2982093	Protocerebral_DAN_input_c 11.14.1#3	15754388	Paper: Otto et al 2020	neuron 2982094 NAS MD NM	
+2969237	Protocerebral_DAN_input_c 15.11.2#2	15754388	Paper: Otto et al 2020	neuron 2969238 Cotton Gin CMM	
+2969226	Protocerebral_DAN_input_c 12.8.0#3	15754388	Paper: Otto et al 2020	neuron 2969227 Dog Spectacles CMM	
+2969221	LHAD1c1#2	15754388	Paper: Otto et al 2020	LHAD1c1#2 2969222 Uncle Sam CMM	
+2956363	Protocerebral_DAN_input_c 15.11.2#1	15754388	Paper: Otto et al 2020	neuron 2956364 Bolero LT	
+2950081	Protocerebral_DAN_input_c 11.9.3#5	15754388	Paper: Otto et al 2020	neuron 2950082 NY Rangers NS RT JH Quirky	
+2934324	Protocerebral_DAN_input_c 15.11.3#2	15754388	Paper: Otto et al 2020	neuron 2934325 MWP Temminck	
+2932647	Protocerebral_DAN_input_c 11.16.10#3	15754388	Paper: Otto et al 2020	neuron 2932648 MWP Atlantic	
+2931393	MBON-a'1#1_R	15754388	Paper: Otto et al 2020	Putative Right MBON-a'1 2931394 RJVR	
+2916542	Protocerebral_DAN_input_c 9.2.8#2	15754388	Paper: Otto et al 2020	neuron 2916543 Florida CMM	
+2916537	Protocerebral_DAN_input_c 10.9.2	15754388	Paper: Otto et al 2020	neuron 2916538 Hubble CMM	
+2916531	Protocerebral_DAN_input_c 9.2.7	15754388	Paper: Otto et al 2020	neuron 2916532 King Kong CMM	
+2998093	Protocerebral_DAN_input_c 3.7.0#1	15754388	Paper: Otto et al 2020	neuron 2998094 Carti RJT	
+2850491	Protocerebral_DAN_input_c 9.2.8#1	15754388	Paper: Otto et al 2020	neuron 2850492 Dr. Seuss CMM	
+2842637	Protocerebral_DAN_input_c 3.13.0#3	15754388	Paper: Otto et al 2020	neuron 2842638 Crisco CMM MWP	
+2816120	SEZ_DAN_input_c 7.7.5#2	15754388	Paper: Otto et al 2020	neuron 2816121 Louvre CMM	
+2792588	Protocerebral_DAN_input_c 12.8.0#2	15754388	Paper: Otto et al 2020	neuron 2792589 Ladies Home Journal CMM	
+2791811	Protocerebral_DAN_input_c 13.5.0#2	15754388	Paper: Otto et al 2020	neuron 2791812 MWP Hadopelagic	
+2736384	Protocerebral_DAN_input_c 13.11.0#1	15754388	Paper: Otto et al 2020	neuron 2736385 RP CMP	
+2720107	Protocerebral_DAN_input_c 12.8.0#1	15754388	Paper: Otto et al 2020	neuron 2720108 Pharaoh CMM	
+2720102	Protocerebral_DAN_input_c 9.2.3#2	15754388	Paper: Otto et al 2020	neuron 2720103 Esperanto CMM	
+2719996	Protocerebral_DAN_input_c 3.13.0#2	15754388	Paper: Otto et al 2020	neuron 2719997 Mickey Mouse CMM	
+2699293	MBON-y5B'2a_L	15754388	Paper: Otto et al 2020	MBON-y5B'2a LEFT 2699294 CMM MWP	
+2675379	Protocerebral_DAN_input_c 12.6.6#10	15754388	Paper: Otto et al 2020	Neuron 1876857 Golden Raspberry JH	
+2674831	Protocerebral_DAN_input_c 9.2.10_LHON01 #2	15754388	Paper: Otto et al 2020	neuron 2674832 Gregorian CMM	
+2613257	Protocerebral_DAN_input_c 10.10.2	15754388	Paper: Otto et al 2020	aSP-g downstream 2613258 KM	
+3079263	Protocerebral_DAN_input_c 15.11.2#3	15754388	Paper: Otto et al 2020	neuron 3079264 JJ	
+2611468	MBON-B'2mp bilateral_R	15754388	Paper: Otto et al 2020	MBON-B′2mp_bilateral (putative new MBON-y4B'2) 2611469 CMM-NS	
+2850408	Protocerebral_DAN_input_c 11.9.2	15754388	Paper: Otto et al 2020	neuron 2850409 Saccharin CMM	
+3020395	Protocerebral_DAN_input_c 11.16.6#2	15754388	Paper: Otto et al 2020	SIP.R -> CRE.R 3020396 PS CH MVP2 downstream SIP	
+2531588	Protocerebral_DAN_input_c 11.6.0#1	15754388	Paper: Otto et al 2020	aSP-g downstream 2531589 KM NF	
+3026119	PAM-y5(lc)#7_R	15754388	Paper: Otto et al 2020	putative DAN PAM-y5 (7) 3026120 KJH	
+3079205	Protocerebral_DAN_input_c 11.12.2#1	15754388	Paper: Otto et al 2020	neuron 3079206 Electric Tram JJ	
+3078932	Protocerebral_DAN_input_c 10.2.1#1	15754388	Paper: Otto et al 2020	neuron 3078933 Steam Train JJ	
+3078904	Protocerebral_DAN_input_c 19.1.0	15754388	Paper: Otto et al 2020	neuron 3078905 Streetcar JJ	
+3078625	Protocerebral_DAN_input_c 11.16.2	15754388	Paper: Otto et al 2020	neuron 3078626 Apple I JJ	
+3078023	Protocerebral_DAN_input_c 12.3.3#2	15754388	Paper: Otto et al 2020	neuron 3078024 Toothpaste Tube JJ	
+3077965	Protocerebral_DAN_input_c 10.4.0#1	15754388	Paper: Otto et al 2020	neuron 3077966 MWP Huygens	
+3077939	Protocerebral_DAN_input_c 11.16.9	15754388	Paper: Otto et al 2020	neuron 3077940 X-ray JJ	
+3077689	Protocerebral_DAN_input_c 12.11.0#1	15754388	Paper: Otto et al 2020	neuron 3077690 MWP Ramon Llull	
+3077625	Protocerebral_DAN_input_c 13.15.4#2	15754388	Paper: Otto et al 2020	neuron 3077626 MWP Swift	
+3077618	Protocerebral_DAN_input_c 3.5.0#1	15754388	Paper: Otto et al 2020	neuron 3077619 MWP Allingham	
+3076815	SEZON1#3	15754388	Paper: Otto et al 2020	neuron 3076816 MWP Histioteuthis heteropsis	
+3076618	Protocerebral_DAN_input_c 15.11.1#1	15754388	Paper: Otto et al 2020	neuron 3076619 Liberty Bell JJ	
+3076383	Protocerebral_DAN_input_c 9.7.1	15754388	Paper: Otto et al 2020	neuron 3076384 MWP Dijkstra	
+3076260	Protocerebral_DAN_input_c 12.3.3#1	15754388	Paper: Otto et al 2020	neuron 3076261 Desgrange JJ	
+3075959	Protocerebral_DAN_input_c 9.2.10_LHON01 #1	15754388	Paper: Otto et al 2020	neuron 3075960 RFC 1 JJ	
+3077742	Protocerebral_DAN_input_c 12.10.0#1	15754388	Paper: Otto et al 2020	neuron 3077743 MWP Spassky	
+3075544	Protocerebral_DAN_input_c 11.16.10#4	15754388	Paper: Otto et al 2020	neuron 3075545 Kennedy JJ	
+3032891	MBON-y1y2y3_R	15754388	Paper: Otto et al 2020	putative new MBON-y1y2y3y4 3032892 NM-NS	
+3037426	MBON-y3B'1#1_R	15754388	Paper: Otto et al 2020	MBON-y3B'1 3037427 CF-NS	
+3075690	SEZ_DAN_input_c 7.7.3#2	15754388	Paper: Otto et al 2020	neuron 3075691 MWP Lederberg	
+3038331	Protocerebral_DAN_input_c 3.6.0_OTHERS15#1	15754388	Paper: Otto et al 2020	neuron 3038332 MWP C.S. Lewis	
+3055426	MBON-y3_R	15754388	Paper: Otto et al 2020	MBON-y3 3055427 NS	
+3074013	Protocerebral_DAN_input_c 15.11.3#3	15754388	Paper: Otto et al 2020	neuron 3074014 [SMP/SIP/CRE.R]--[SMP.L] And Dream of Sheep MWP AJES	
+3074068	Protocerebral_DAN_input_c 15.11.3#4	15754388	Paper: Otto et al 2020	neuron 3074069 MWP Amphiprion ocellaris	
+3025479	PAM-y5(lc)#5_R	15754388	Paper: Otto et al 2020	DAN PAM-y5 (2) 3025480 SAC RIGHT	
+3074089	Protocerebral_DAN_input_c 15.11.3#5	15754388	Paper: Otto et al 2020	neuron 3074090 [SMP/SIP/CRE.R]-[SLP.L] Jig of Life AJES MWP	
+3074593	Protocerebral_DAN_input_c 11.16.12	15754388	Paper: Otto et al 2020	neuron 3074594 MWP Epipelagic	
+3074686	Protocerebral_DAN_input_c 12.6.4#2	15754388	Paper: Otto et al 2020	neuron 3074687 MWP Megaptera novaeangliae	
+3074917	Protocerebral_DAN_input_c 9.3.0	15754388	Paper: Otto et al 2020	Neuron 3074918 Diamond Match JH	
+3075536	Protocerebral_DAN_input_c 12.8.0#4	15754388	Paper: Otto et al 2020	neuron 3075537 Passport JJ	
+3075063	Protocerebral_DAN_input_c 9.2.5#1	15754388	Paper: Otto et al 2020	neuron 3075064 MWP Hutchins	
+3075217	Protocerebral_DAN_input_c 13.13.4#2	15754388	Paper: Otto et al 2020	neuron 3075218 MWP Browne	
+5243155	Patchy LN #3	15981708	Paper: Coates et al 2020	putative LatLN 5243156 LMH NS	
+5692633	Patchy LN #4	15981708	Paper: Coates et al 2020	putative LatLN 5692634 AMD LMH	
+5994210	Patchy LN #5	15981708	Paper: Coates et al 2020	putative LatLN 5994211 LMH ARH	
+6190457	Patchy LN #6	15981708	Paper: Coates et al 2020	Putative LatLN 6190458 FS LMH	
+6209269	Patchy LN #7	15981708	Paper: Coates et al 2020	putative LatLN 6209270 LMH	
+7298321	Patchy LN #8	15981708	Paper: Coates et al 2020	putative LatLN 7298322 LMH FS	
+7298540	Patchy LN #9	15981708	Paper: Coates et al 2020	putative LatLN 7298541 LMH FS	
+7298614	Patchy LN #10	15981708	Paper: Coates et al 2020	putative LatLN 7298615 LMH FS	
+7702725	Patchy LN #13	15981708	Paper: Coates et al 2020	putative LatLN 7702726 AMD LMH NWS ECM	
+7364280	Patchy LN #12	15981708	Paper: Coates et al 2020	putative LatLN 7364281 FS LMH	
+5219918	sparse ABAF LN#1	15981708	Paper: Coates et al 2020	Sparse ABAF LN 5219919 ECM SVV	
+8382473	Patchy LN #14	15981708	Paper: Coates et al 2020	putative LatLN 8382474 LMH	
+8409238	Patchy LN #15	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 8409239 LMH FS	
+8633531	Patchy LN #16	15981708	Paper: Coates et al 2020	putative LatLN 8633532 FS LMH	
 8758601	Patchy LN #17	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 8758602 LMH FS	
+10108062	Patchy LN #18	15981708	Paper: Coates et al 2020	Potential LN 10108063 KEC NWS	
+10238492	Patchy LN #19	15981708	Paper: Coates et al 2020	putative LatLN 10238493 FS	
+7348199	Patchy LN #11	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 7348200 FS	
+8540881	SIMPAL-Left #1	15981708	Paper: Coates et al 2020	neuron 8540882 - Mt Everest 4	
+3085783	SIMPAL-Right #2	15981708	Paper: Coates et al 2020	neuron 3085784 Mt Everest 2 JJ	
+11633437	Patchy LN #20	15981708	Paper: Coates et al 2020	putative dorsolateral LN 11633438 LMH	
 829827	Dense ABAF LN#1	15981708	Paper: Coates et al 2020	Dense ABAF LN-1 829828 SVV FS	
 1990940	Patchy LN #1	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 1990941 FS LMH	
 2849437	Patchy LN #2	15981708	Paper: Coates et al 2020	LN DL6 candidate neuron 2849438 NS-SAC	
 2891306	Dense ABAF LN#2	15981708	Paper: Coates et al 2020	Dense ABAF LN-2 57537 - FML SVV	
-5219918	sparse ABAF LN#1	15981708	Paper: Coates et al 2020	Sparse ABAF LN 5219919 ECM SVV	
-8633531	Patchy LN #16	15981708	Paper: Coates et al 2020	putative LatLN 8633532 FS LMH	
-8540881	SIMPAL-Left #1	15981708	Paper: Coates et al 2020	neuron 8540882 - Mt Everest 4	
-8409238	Patchy LN #15	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 8409239 LMH FS	
-8382473	Patchy LN #14	15981708	Paper: Coates et al 2020	putative LatLN 8382474 LMH	
-7348199	Patchy LN #11	15981708	Paper: Coates et al 2020	putative Dorsolateral LN 7348200 FS	
-7364280	Patchy LN #12	15981708	Paper: Coates et al 2020	putative LatLN 7364281 FS LMH	
-7298321	Patchy LN #8	15981708	Paper: Coates et al 2020	putative LatLN 7298322 LMH FS	
-7702725	Patchy LN #13	15981708	Paper: Coates et al 2020	putative LatLN 7702726 AMD LMH NWS ECM	
-6190457	Patchy LN #6	15981708	Paper: Coates et al 2020	Putative LatLN 6190458 FS LMH	
-5994210	Patchy LN #5	15981708	Paper: Coates et al 2020	putative LatLN 5994211 LMH ARH	
-5692633	Patchy LN #4	15981708	Paper: Coates et al 2020	putative LatLN 5692634 AMD LMH	
-6209269	Patchy LN #7	15981708	Paper: Coates et al 2020	putative LatLN 6209270 LMH	
 3077882	SIMPAL-Right #1	15981708	Paper: Coates et al 2020	neuron 3077883 Mt Everest JJ	
-3085783	SIMPAL-Right #2	15981708	Paper: Coates et al 2020	neuron 3085784 Mt Everest 2 JJ	
+5157807	SIMPAL-Left #2	15981708	Paper: Coates et al 2020	neuron 5157808 Mt Everest 3 LMH	
 3644717	SMP Input Neuron #1	15981708	Paper: Coates et al 2020	Not A Thing 5 neuron 3644718 KEC	
-7298540	Patchy LN #9	15981708	Paper: Coates et al 2020	putative LatLN 7298541 LMH FS	
-7298614	Patchy LN #10	15981708	Paper: Coates et al 2020	putative LatLN 7298615 LMH FS	
-5243155	Patchy LN #3	15981708	Paper: Coates et al 2020	putative LatLN 5243156 LMH NS	
-4210786	EPG-5R#3	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 341414 EWN AW	
-4087066	EPG-5L#3	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 380990 AES 	
-3849973	PEG-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-gall (right) neuron 308798 VJ	
-3512247	PEG-6R	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-gall (right) neuron 659781 CP	
-3491680	PEN2-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (right) neuron 302517 AES 	
-3457743	EPG-5L#2	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 381455 BBQ 	
-3423772	PEN1-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (left) neuron 373414 AES	
-3349747	PEN2-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (left) neuron 371030 AES	
-2703303	PEN2-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (left) neuron 826203	
-3286828	PEN2-6L#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (left) neuron 372070	
-437814	EPG-5R#1	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 437815 AES	
-525851	PEN1-6R#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 367405 AES	
-607812	PEN1-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 366478 AES	
+803916	Delta7-1R9R8L#1	16232065	Paper: Turner-Evans et al 2020	PBG9R/1R/8L Delta7 Neuron 803917 	
+861090	EPG-5R#2	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 302409 VJ	
+828911	PEN1-7R	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (right) neuron 828912 CP	
+827466	PEN1-7L	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (left) neuron 827467 CP	
+806288	PEN2-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (right) neuron 806289 CP 	
 649823	PEN1-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 1 (left) neuron 649824 VJ	
 659759	PEN2-6R#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (right) neuron 365862 AES	
-668576	PEN1-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 1 (right) neuron 668577 SA	
-803916	Delta7-1R9R8L#1	16232065	Paper: Turner-Evans et al 2020	PBG9R/1R/8L Delta7 Neuron 803917 	
-806288	PEN2-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (right) neuron 806289 CP 	
-827466	PEN1-7L	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (left) neuron 827467 CP	
-861090	EPG-5R#2	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 302409 VJ	
 963438	PEG-6L	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-gall (left) neuron 963439 CP	
+607812	PEN1-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 366478 AES	
+525851	PEN1-6R#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (right) neuron 367405 AES	
+437814	EPG-5R#1	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 437815 AES	
+668576	PEN1-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 1 (right) neuron 668577 SA	
 1032767	PEG-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-gall (left) neuron 1032768 SA	
-1568214	EPG-5L#1	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 413550 BQ	
+2703303	PEN2-5L	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-noduli 2 (left) neuron 826203	
 1625086	PEN2-7R	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 2 (right) neuron 828357	
 1639675	PEN2-7L	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 2 (left) neuron 828018	
+3286828	PEN2-6L#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (left) neuron 372070	
 3338987	PEN1-6L#1	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (left) neuron 372970 SA	
-828911	PEN1-7R	16232065	Paper: Turner-Evans et al 2020	PBG7-EBt-noduli 1 (right) neuron 828912 CP	
+3349747	PEN2-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (left) neuron 371030 AES	
+3423772	PEN1-6L#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 1 (left) neuron 373414 AES	
+3457743	EPG-5L#2	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 381455 BBQ 	
+3491680	PEN2-6R#2	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-noduli 2 (right) neuron 302517 AES 	
+3512247	PEG-6R	16232065	Paper: Turner-Evans et al 2020	PBG6-EBt-gall (right) neuron 659781 CP	
+3849973	PEG-5R	16232065	Paper: Turner-Evans et al 2020	PBG5-EBt-gall (right) neuron 308798 VJ	
+4087066	EPG-5L#3	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 380990 AES 	
+4210786	EPG-5R#3	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (right) neuron 341414 EWN AW	
+1568214	EPG-5L#1	16232065	Paper: Turner-Evans et al 2020	PBG5-EBw-gall (left) neuron 413550 BQ	
+5321581	DNp13	16337677	Paper: Wang et al 2020b	neuron 5321582 JSP BM	
+4358524	SAG#L	16337827	Paper: Wang et al 2020a	neuron 4358525 FW	
+5353953	SAG#R	16337827	Paper: Wang et al 2020a	neuron 5353954 Robin CMP NF	
+3794183	pC1c	16337827	Paper: Wang et al 2020a	pMP8 Type I 3794184 TY FW-C5 NF	
+3781621	pC1b	16337827	Paper: Wang et al 2020a	Putative pMP8 Type II 3781622 TY NF FW-C4	
+3770805	pC1e	16337827	Paper: Wang et al 2020a	pMP8 Type I 1269969 IT TY FW-C1	
+1875104	oviDNa#2	16337827	Paper: Wang et al 2020a	pMP11 1875105 RP CMP TY	
+1862762	oviDNb	16337827	Paper: Wang et al 2020a	pMP13 1862763 RP CMP TY NF	
+1259226	oviEN	16337827	Paper: Wang et al 2020a	neuron 1259227 RT FW CMP TY	
+3979930	pC1d	16337827	Paper: Wang et al 2020a	pMP8 Type I 3778246 TY FW-C2	
+5143346	oviDNa#1	16337827	Paper: Wang et al 2020a	pMP11 5143347 MD FW NF	
+13325634	oviIN	16337827	Paper: Wang et al 2020a	neuron 6244095 [SMP.R]-[SMP.L]-[SEZ.R] Nemesia AJES NF TY	
+3807212	pC1a	16337827	Paper: Wang et al 2020a	pMP8 Type II 3807213 TY FW-C6	
+5353953	SAG#R	16830656	Paper: Wang et al 2020c	neuron 5353954 Robin CMP NF	
+4358524	SAG#L	16830656	Paper: Wang et al 2020c	neuron 4358525 FW	
+3979930	pC1d	16830656	Paper: Wang et al 2020c	pMP8 Type I 3778246 TY FW-C2	
+3807212	pC1a	16830656	Paper: Wang et al 2020c	pMP8 Type II 3807213 TY FW-C6	
+3794183	pC1c	16830656	Paper: Wang et al 2020c	pMP8 Type I 3794184 TY FW-C5 NF	
+3781621	pC1b	16830656	Paper: Wang et al 2020c	Putative pMP8 Type II 3781622 TY NF FW-C4	
+3770805	pC1e	16830656	Paper: Wang et al 2020c	pMP8 Type I 1269969 IT TY FW-C1	
+3313419	LC6#53	16830912	Paper: Morimoto et al 2020	LC6 3313420 MD	
+3263692	LC6#14	16830912	Paper: Morimoto et al 2020	LC6 3263693 NAS	
+3262993	LC6#13	16830912	Paper: Morimoto et al 2020	LC6 3262994 NAS	
+3262999	LC6G1#2	16830912	Paper: Morimoto et al 2020	neuron 3263000 NAS	
+3266730	LC6#15	16830912	Paper: Morimoto et al 2020	LC6 3266731 NAS	
+3267027	LC6#16	16830912	Paper: Morimoto et al 2020	LC6 3267028 NAS	
+3278824	LC6#17	16830912	Paper: Morimoto et al 2020	LC6 3278825 NAS	
+3278852	LC6#18	16830912	Paper: Morimoto et al 2020	LC6 3278853 NAS	
+3279578	LC6#19	16830912	Paper: Morimoto et al 2020	LC6 3279579 MD	
+3281665	LC6#20	16830912	Paper: Morimoto et al 2020	LC6 3281666 MD	
+3281672	LC6#21	16830912	Paper: Morimoto et al 2020	LC6 3281673 MD	
+3281819	LC6#22	16830912	Paper: Morimoto et al 2020	LC6 3281820 MD	
+3281843	LC6#24	16830912	Paper: Morimoto et al 2020	LC6 3281844 MD	
+3281862	LC6#25	16830912	Paper: Morimoto et al 2020	LC6 3281863 MD	
+3286685	LC6#26	16830912	Paper: Morimoto et al 2020	LC6 3286686 NAS	
+3286884	LC6#27	16830912	Paper: Morimoto et al 2020	LC6 3286885 MD	
+3286896	LC6#28	16830912	Paper: Morimoto et al 2020	LC6 3286897 MD	
+3222735	LC6G2#4	16830912	Paper: Morimoto et al 2020	neuron 3222736 NAS	
+3288702	LC6#29	16830912	Paper: Morimoto et al 2020	LC6 3288703 MD	
+3210953	LC6G2#3	16830912	Paper: Morimoto et al 2020	neuron 3210954 NAS	
+3158554	LC6G2#2	16830912	Paper: Morimoto et al 2020	neuron 3158555 PG	
+539764	LC6#1	16830912	Paper: Morimoto et al 2020	LC6 3510456 DB	
+3117027	LC6#2	16830912	Paper: Morimoto et al 2020	LC6 3117028 PG	
+3117105	LC6#3	16830912	Paper: Morimoto et al 2020	LC6 3117106 PG	
+3123624	LC6#4	16830912	Paper: Morimoto et al 2020	LC6 3123625 PG	
+3123735	LC6#5	16830912	Paper: Morimoto et al 2020	LC6 3123736 PG	
+3124354	LC6#6	16830912	Paper: Morimoto et al 2020	LC6 3124355 PG	
+3134863	LC6#7	16830912	Paper: Morimoto et al 2020	LC6 3134864 PG	
+3134883	LC6#8	16830912	Paper: Morimoto et al 2020	LC6 3134884 PG	
+3146029	LC6#9	16830912	Paper: Morimoto et al 2020	LC6 3146030 PG	
+3146045	LC6#10	16830912	Paper: Morimoto et al 2020	LC6 3146046 PG	
+3149978	LC6G1#1	16830912	Paper: Morimoto et al 2020	neuron 3149979 MD	
+3154013	LC6G1#3	16830912	Paper: Morimoto et al 2020	neuron 3154014 PG	
+3155729	LC6G1#4	16830912	Paper: Morimoto et al 2020	neuron 3155730 MD	
+3156632	LC6#11	16830912	Paper: Morimoto et al 2020	LC6 3156633 MD	
+3158329	LC6G2#1	16830912	Paper: Morimoto et al 2020	neuron 3158330 ET JSP	
+3162746	LC6#12	16830912	Paper: Morimoto et al 2020	LC6 3162747 PG	
+3288722	LC6#30	16830912	Paper: Morimoto et al 2020	LC6 3288723 MD	
+3281836	LC6#23	16830912	Paper: Morimoto et al 2020	LC6 3281837 MD	
+3293968	LC6#32	16830912	Paper: Morimoto et al 2020	LC6 3293969 MD	
+3308694	LC6#52	16830912	Paper: Morimoto et al 2020	LC6 3308695 MD	
+3315681	LC6#54	16830912	Paper: Morimoto et al 2020	LC6 3315682 NAS	
+3319475	LC6#55	16830912	Paper: Morimoto et al 2020	LC6 3319476 MD	
+3322741	LC6#56	16830912	Paper: Morimoto et al 2020	LC6 3322742 MD	
+3288771	LC6#31	16830912	Paper: Morimoto et al 2020	LC6 3288772 MD	
+3404718	LC6#58	16830912	Paper: Morimoto et al 2020	LC6 3404719 NAS	
+3410854	LC6#59	16830912	Paper: Morimoto et al 2020	LC6 3410855 NAS	
+3306595	LC6#51	16830912	Paper: Morimoto et al 2020	LC6 3306596 MD	
+3411049	LC6#60	16830912	Paper: Morimoto et al 2020	LC6 3411050 NAS	
+3411154	LC6#62	16830912	Paper: Morimoto et al 2020	LC6 3411155 NAS	
+3418941	LC6#63	16830912	Paper: Morimoto et al 2020	LC6 3418942 MD	
+3726283	LC6G2#5	16830912	Paper: Morimoto et al 2020	neuron 3726284 ET	
+5260930	LC6#64	16830912	Paper: Morimoto et al 2020	LC6 3296836 MD	
+5265509	LC6#65	16830912	Paper: Morimoto et al 2020	LC6 3263079 NAS	
+13619676	TM5#2	16830912	Paper: Morimoto et al 2020	Putative Tm5 unknown 13619677 HL	
+13622662	TM5#1	16830912	Paper: Morimoto et al 2020	Putative Tm5 unknown subtype 13622663 MF	
+3411072	LC6#61	16830912	Paper: Morimoto et al 2020	LC6 3411073 RP	
+3301787	LC6#50	16830912	Paper: Morimoto et al 2020	LC6 3301788 MD	
+3362091	LC6#57	16830912	Paper: Morimoto et al 2020	LC6 3362092 NAS	
+3299328	LC6#48	16830912	Paper: Morimoto et al 2020	LC6 3299329 MD	
+3295252	LC6#33	16830912	Paper: Morimoto et al 2020	LC6 3295253 MD	
+3299403	LC6#49	16830912	Paper: Morimoto et al 2020	LC6 3299404 MD	
+3296807	LC6#35	16830912	Paper: Morimoto et al 2020	LC6 3296808 MD	
+3297266	LC6#36	16830912	Paper: Morimoto et al 2020	LC6 3297267 MD	
+3297443	LC6#37	16830912	Paper: Morimoto et al 2020	LC6 3297444 NAS	
+3297579	LC6#38	16830912	Paper: Morimoto et al 2020	LC6 3297580 MD	
+3297605	LC6#39	16830912	Paper: Morimoto et al 2020	LC6 3297606 MD	
+3297637	LC6#40	16830912	Paper: Morimoto et al 2020	LC6 3297638 MD	
+3295771	LC6#34	16830912	Paper: Morimoto et al 2020	LC6 3295772 MD	
+3299073	LC6#42	16830912	Paper: Morimoto et al 2020	LC6 3299074 MD	
+3299079	LC6#43	16830912	Paper: Morimoto et al 2020	LC6 3299080 MD	
+3299136	LC6#44	16830912	Paper: Morimoto et al 2020	LC6 3299137 MD	
+3299153	LC6#45	16830912	Paper: Morimoto et al 2020	LC6 3299154 MD	
+3299161	LC6#46	16830912	Paper: Morimoto et al 2020	LC6 3299162 MD	
+3299167	LC6#47	16830912	Paper: Morimoto et al 2020	LC6 3299168 MD	
+3297737	LC6#41	16830912	Paper: Morimoto et al 2020	LC6 3297738 MD	
+1600629	JO-EVM#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_1	
+1600634	JO-FDA#3	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_3	
+1600644	JO-EVM#11	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_11	
+1600649	JO-FDA#1	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_1	
+1600686	JO-EDM#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_1	
+1600691	JO-EDM#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_4	
+1600696	JO-EDM#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_5	
+1600728	JO-FDA#4	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_4	
+1600723	JO-EV#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EV_4	
+1600733	JO-EVM#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_3	
+1600743	JO-mz#5	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_5	
+1600748	JO-EDC#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EDC_2	
+1600753	JO-EVM#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_4	
+1600624	JO-mz#1	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_1	
+1600718	JO-EV#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EV_3	
+1600614	JO-EVM#10	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_10	
+13255697	JO-EDM#15	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_15	
+1600583	JO-FVA#3	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_3	
+1600758	JO-EV#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EV_5	
+1181773	JO-EVP#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EVP_1	
+1230854	JO-EVP#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EVP_3	
+1231085	JO-EVL#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_3	
+1232414	JO-mz#7	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_7	
+1238934	JO-EVM#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_2	
+1238940	JO-EDM#7	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_7	
+1238969	JO-EDC#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EDC_1	
+1238996	JO-CM#1	16857700	Paper: Hampel and Eichler et al 2020	JO-CM_1	
+1242705	JO-EDP#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EDP_1	
+1278355	JO-EDP#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EDP_4	
+1600551	JO-EV#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EV_2	
+1600563	JO-FVA#1	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_1	
+1600573	JO-FVA#2	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_2	
+1600578	JO-FVA#7	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_7	
+1600589	JO-FVA#4	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_4	
+1600763	JO-EDP#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EDP_3	
+1669666	JO-FVA#6	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_6	
+1669783	JO-FDA#6	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_6	
+11095359	JO-FDP#6	16857700	Paper: Hampel and Eichler et al 2020	JO-FDP_6	
+11093201	JO-EVL#7	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_7	
+11090188	JO-FDP#4	16857700	Paper: Hampel and Eichler et al 2020	JO-FDP_4	
+11078670	JO-EVP#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EVP_4	
+11031647	JO-FVA#32	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_32	
+11008033	JO-FDP#5	16857700	Paper: Hampel and Eichler et al 2020	JO-FDP_5	
+11007958	JO-EDC#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EDC_5	
+10995502	JO-FDP#1	16857700	Paper: Hampel and Eichler et al 2020	JO-FDP_1	
+10989673	JO-EDP#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EDP_2	
+10983780	JO-mz#2	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_2	
+10974897	JO-EVL#9	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_9	
+11098600	JO-CM#3	16857700	Paper: Hampel and Eichler et al 2020	JO-CM_3	
+10973699	JO-EVL#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_4	
+10961995	JO-mz#4	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_4	
+10961174	JO-EDM#12	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_12	
+10957799	JO-EDC#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EDC_3	
+10944609	JO-EDP#6	16857700	Paper: Hampel and Eichler et al 2020	JO-EDP_6	
+10896629	JO-FDP#2	16857700	Paper: Hampel and Eichler et al 2020	JO-FDP_2	
+10886931	JO-FDA#11	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_11	
+10873891	JO-FDP#3	16857700	Paper: Hampel and Eichler et al 2020	JO-FDP_3	
+10858415	JO-FDA#8	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_8	
+10856798	JO-CL#2	16857700	Paper: Hampel and Eichler et al 2020	JO-CL_2	
+10852545	JO-CL#1	16857700	Paper: Hampel and Eichler et al 2020	JO-CL_1	
+10852196	JO-EVM#14	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_14	
+10972424	JO-EVL#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_1	
+10849280	JO-EVM#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_5	
+11206675	JO-FVL#3	16857700	Paper: Hampel and Eichler et al 2020	JO-FVL_3	
+11233737	JO-EVM#6	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_6	
+13251513	JO-EDM#11	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_11	
+13251350	JO-EVM#15	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_15	
+13251106	JO-EVP#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EVP_5	
+13251040	JO-EDM#10	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_10	
+13587125	JO-EVP#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EVP_2	
+13250568	JO-CL#3	16857700	Paper: Hampel and Eichler et al 2020	JO-CL_3	
+13250417	JO-EVL#6	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_6	
+13250380	JO-EVL#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_5	
+13249687	JO-CA#2	16857700	Paper: Hampel and Eichler et al 2020	JO-CA_2	
+13249592	JO-CM#2	16857700	Paper: Hampel and Eichler et al 2020	JO-CM_2	
+13249546	JO-EDM#9	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_9	
+11232808	JO-EV#6	16857700	Paper: Hampel and Eichler et al 2020	JO-EV_6	
+13249211	JO-EVM#13	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_13	
+13247849	JO-EVM#12	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_12	
+12247589	JO-FVA#16	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_16	
+12123196	JO-FDL#1	16857700	Paper: Hampel and Eichler et al 2020	JO-FDL_1	
+11869919	JO-FVL#2	16857700	Paper: Hampel and Eichler et al 2020	JO-FVL_2	
+11369216	JO-FVA#25	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_25	
+11367724	JO-FDL#2	16857700	Paper: Hampel and Eichler et al 2020	JO-FDL_2	
+11364546	JO-FVL#1	16857700	Paper: Hampel and Eichler et al 2020	JO-FVL_1	
+11356453	JO-FVA#24	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_24	
+11293394	JO-EVM#7	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_7	
+11293000	JO-EDC#4	16857700	Paper: Hampel and Eichler et al 2020	JO-EDC_4	
+11271260	JO-EVM#8	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_8	
+13248574	JO-EDM#8	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_8	
+13295069	JO-DP#4	16857700	Paper: Hampel and Eichler et al 2020	JO-DP_4	
+10839919	JO-mz#3	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_3	
+10823519	JO-EDM#13	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_13	
+7730498	JO-EVL#8	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_8	
+7695372	JO-EVL#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EVL_2	
+7625026	JO-DP#2	16857700	Paper: Hampel and Eichler et al 2020	GF input neuron 7625027 SMA - unclassified type 44	
+7113888	JO-EDP#5	16857700	Paper: Hampel and Eichler et al 2020	JO-EDP_5	
+7095411	JO-DA#3	16857700	Paper: Hampel and Eichler et al 2020	GF input neuron 7095412 SMA - unclassified type 44	
+7083677	JO-DA#2	16857700	Paper: Hampel and Eichler et al 2020	GF input neuron 7083678 SMA - unclassified type 44	
+6785923	JO-EVP#6	16857700	Paper: Hampel and Eichler et al 2020	JO-EVP_6	
+6578911	JO-FVA#9	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_9	
+6578411	JO-FVA#8	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_8	
+6331356	JO-DA#1	16857700	Paper: Hampel and Eichler et al 2020	GF input neuron 6331357 SMA - unclassified type 44	
+5936951	JO-DP#1	16857700	Paper: Hampel and Eichler et al 2020	GF input neuron 5936952 SMA - unclassified type 44	
+8553243	JO-mz#6	16857700	Paper: Hampel and Eichler et al 2020	JO-mz_6	
+5619277	JO-FVA#30	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_30	
+5619174	JO-FDA#15	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_15	
+5619162	JO-FDA#5	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_5	
+5612038	JO-FDA#2	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_2	
+4524559	JO-CA#1	16857700	Paper: Hampel and Eichler et al 2020	JO-CA_1	
+4211935	JO-DP#3	16857700	Paper: Hampel and Eichler et al 2020	JO-DP_3	
+3692141	JO-FDA#9	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_9	
+3505588	JO-FDA#10	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_10	
+3187480	JO-EDM#2	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_2	
+3186706	JO-EDM#14	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_14	
+3129136	JO-EDM#6	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_6	
+3115731	JO-DA#4	16857700	Paper: Hampel and Eichler et al 2020	JO-DA_4	
+5619194	JO-FVA#5	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_5	
+10837307	JO-EV#1	16857700	Paper: Hampel and Eichler et al 2020	JO-EV_1	
+8646111	JO-FDA#14	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_14	
+10018303	JO-FDA#13	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_13	
+10823451	JO-FVA#21	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_21	
+10823317	JO-FVA#17	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_17	
+10821931	JO-FVA#29	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_29	
+10821521	JO-FVA#19	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_19	
+10821233	JO-FVA#31	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_31	
+10796517	JO-FVA#11	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_11	
+10796509	JO-FVA#10	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_10	
+10796504	JO-FDA#7	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_7	
+10796351	JO-EDM#3	16857700	Paper: Hampel and Eichler et al 2020	JO-EDM_3	
+10771158	JO-FVA#26	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_26	
+10766939	JO-FDA#12	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_12	
+8652382	JO-FVA#33	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_33	
+10740367	JO-FVA#23	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_23	
+10735078	JO-FVA#15	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_15	
+10727449	JO-FDA#16	16857700	Paper: Hampel and Eichler et al 2020	JO-FDA_16	
+10727154	JO-FVA#27	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_27	
+10725270	JO-FVA#28	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_28	
+10725250	JO-FVA#12	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_12	
+10723194	JO-FVA#20	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_20	
+10722619	JO-FVA#18	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_18	
+10722611	JO-FVA#22	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_22	
+10635277	JO-DP#5	16857700	Paper: Hampel and Eichler et al 2020	JO-DP_5	
+10071713	JO-FVA#13	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_13	
+10018343	JO-FVA#14	16857700	Paper: Hampel and Eichler et al 2020	JO-FVA_14	
+10739684	JO-EVM#9	16857700	Paper: Hampel and Eichler et al 2020	JO-EVM_9	
+13250976	JO-CA#3	16857700	Paper: Hampel and Eichler et al 2020	JO-CA_3	
