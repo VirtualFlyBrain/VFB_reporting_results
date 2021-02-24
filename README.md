@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #825 from commit: 'stop adding dataset ref as pub for mapping' on master
+ Current results are from the latest travis build #826 from commit: 'Merge branch 'master' into content-report' on content-report
 
 
 ## Internal pipeline reports:
