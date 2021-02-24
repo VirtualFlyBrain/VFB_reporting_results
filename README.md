@@ -1,7 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #826 from commit: 'Merge branch 'master' into content-report' on content-report
+ Current results are from the latest travis build #828 from commit: 'Merge pull request #38 from VirtualFlyBrain/content-report
+
+Content report code' on master
 
 
 ## Internal pipeline reports:
