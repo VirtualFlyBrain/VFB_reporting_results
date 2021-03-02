@@ -20,7 +20,7 @@ Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-S
 Dolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	439
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
 Eschbach2020	EM L1 Eschbach et al 2020	True	FBrf0245294	CC-BY-SA_4.0	189
-Eschbach2020b	EM L1 Eschbach et al 2020b	True	doi_10_1101_2020_04_23_058339		239
+Eschbach2020b	EM L1 Eschbach et al 2020b	True	doi_10_1101_2020_04_23_058339	CC-BY_4.0	239
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	True	FBrf0240371	CC-BY-SA_4.0	3
 FlyLight2019AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY-SA_4.0	4
 FlyLight2019Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	2
@@ -36,7 +36,7 @@ Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	True	
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-BY-SA_4.0	55
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_4.0	6
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	True	FBrf0236775	CC-BY-SA_4.0	1
-HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	True	FBrf0247223		147
+HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	True	FBrf0247223	CC-BY_4.0	147
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	True	FBrf0229965	CC-BY-SA_4.0	137
 Ito2013	Ito lab adult brain lineage clone image set	True	FBrf0221438	CC-BY-NC-SA_4.0	96
 JRC2018	JRC 2018 templates & ROIs	True	doi_10_1101_376384	CC-BY-NC-SA_4.0	49
@@ -57,10 +57,10 @@ Marin2020	EM FAFB Marin et al 2020	True	doi_10_1016_j_cub_2020_06_028	CC-BY-SA_4
 Mark2019	EM L1 Mark et al. 2019	True	doi_10_1101_617936	CC-BY-SA_4.0	78
 Matsuo2016	AMMC local and projection neurons (Matsuo2016)	True	FBrf0230862	CC-BY-SA_4.0	41
 Miroschnikow2018	EM L1 Miroschnikow et al. 2018	True	FBrf0240975	CC-BY-SA_4.0	738
-Morimoto2020	EM FAFB Morimoto et al 2020	True	FBrf0247630		76
+Morimoto2020	EM FAFB Morimoto et al 2020	True	FBrf0247630	CC-BY_4.0	76
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	True	FBrf0239335	CC-BY-SA_4.0	390
 Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	True	FBrf0228257	CC-BY-SA_4.0	109
-Otto2020	EM FAFB Otto et al 2020	True	FBrf0246510		768
+Otto2020	EM FAFB Otto et al 2020	True	FBrf0246510	CC-BY_4.0	768
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	True	FBrf0236042	CC-BY-SA_4.0	80
 Sayin2019	EM FAFB Sayin et al 2019	True	FBrf0243986	CC-BY-SA_4.0	2
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	True	FBrf0234450	CC-BY-SA_4.0	193
@@ -73,8 +73,8 @@ TrumanWood2018	Truman Larval Flip-Out Collection	False		unlicensed	12239
 TrumanWood2018public	Truman Larval Flip-Out Collection	True		CC-BY-SA_4.0	2
 Tsubouchi2017	Adult somatosensory system neurons (Tsubouchi2017)	False	FBrf0237124	CC-BY-SA_4.0	0
 Turner-Evans2020	EM FAFB Turner-Evans et al 2020	True	doi_10_1016_j_neuron_2020_08_006	CC-BY-SA_4.0	49
-Wang2020a	EM FAFB Wang et al 2020a	True	FBrf0245074		12
-Wang2020b	EM FAFB Wang et al 2020b	True	FBrf0246914		1
+Wang2020a	EM FAFB Wang et al 2020a	True	FBrf0245074	CC-BY_4.0	12
+Wang2020b	EM FAFB Wang et al 2020b	True	FBrf0246914	CC-BY_4.0	1
 Wolff2018	Splits targetting CX neurons, Wolff2018	True	FBrf0240744	CC-BY_4.0	188
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	True		CC-BY-SA_4.0	255
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	291
