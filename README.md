@@ -1,9 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #847 from commit: 'Merge pull request #38 from VirtualFlyBrain/content-report
-
-Content report code' on master
+ Current results are from the latest travis build #848 from commit: 'using mapping from Management/FAFB instead of FAFB_CAT_cellType_skids' on master
 
 
 ## Internal pipeline reports:
