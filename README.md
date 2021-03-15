@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #848 from commit: 'using mapping from Management/FAFB instead of FAFB_CAT_cellType_skids' on master
+ Current results are from the latest travis build #849 from commit: 'using mapping from Management/FAFB instead of FAFB_CAT_cellType_skids' on master
 
 
 ## Internal pipeline reports:
