@@ -3,19 +3,22 @@ VFB Content Report 2021-03-17
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2021 14:30:11``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2021 16:31:34``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
+|All Terms|16948|1263|
+|All Nervous System Parts|11130|814|
 |All Neurons|8671|631|
 |Characterised Neurons|4937|631|
 |Provisional Neurons|3734|1|
-|All Regions|1374|213|
+|All Nervous System Regions|1374|213|
 |Synaptic Neuropils|699|125|
 |Neuron Projection Bundles|526|108|
 |Cell Body Rinds|52|6|
+|Sense Organs|826|131|
   
   
 **50001** formal assertions, of which **22564** are SubClassOf assertions and **27437** are other relationship types  
