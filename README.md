@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #850 from commit: 'using mapping from Management/FAFB instead of FAFB_CAT_cellType_skids' on master
+ Current results are from the latest travis build #851 from commit: 'code to report ontology relationships' on FBbt-relationships-in-report
 
 
 ## Internal pipeline reports:
