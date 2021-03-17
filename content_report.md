@@ -3,7 +3,7 @@ VFB Content Report 2021-03-17
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2021 14:01:39``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2021 14:30:11``  
   
 ***``Ontology Content``***  
 
@@ -17,6 +17,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2
 |Neuron Projection Bundles|526|108|
 |Cell Body Rinds|52|6|
   
+  
+**50001** formal assertions, of which **22564** are SubClassOf assertions and **27437** are other relationship types  
   
 ***``Image Content``***  
   
