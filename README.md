@@ -1,7 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #854 from commit: 'code to add sense organs, total terms, total nervous system components' on extra_reports
+ Current results are from the latest travis build #856 from commit: 'Merge pull request #41 from VirtualFlyBrain/FBbt-relationships-in-report
+
+code to report ontology relationships' on master
 
 
 ## Internal pipeline reports:
