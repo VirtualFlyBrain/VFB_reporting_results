@@ -1,13 +1,13 @@
 Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_CATMAID	neuron_only
-11490509	Paper: Zheng et al 2018	Zheng2018	145	148	0	3	11
+11490509	Paper: Zheng et al 2018	Zheng2018	145	148	0	3	4
 12823574	Paper: Felsenberg et al 2018	Felsenberg2018	3	3	0	0	0
 13040382	Paper: Dolan and Belliart-Guérin et al. 2018	Dolan2018	10	10	0	0	0
 13500459	Paper: Sayin et al 2019	Sayin2019	3	2	1	0	0
 14896682	Paper: Kim et al 2020	Kim2020	95	95	0	0	0
 15549507	Paper: Zheng et al 2020	Zheng2020	1507	1492	15	0	0
-15579831	Paper: Marin et al 2020	Marin2020	327	301	27	1	194
-15754279	Paper: Bates and Schlegel et al 2020	BatesSchlegel2020	583	456	129	2	200
-15754283	Paper: Dolan et al 2019	FafbDolan2019	112	109	8	5	19
+15579831	Paper: Marin et al 2020	Marin2020	327	301	27	1	129
+15754279	Paper: Bates and Schlegel et al 2020	BatesSchlegel2020	583	456	129	2	3
+15754283	Paper: Dolan et al 2019	FafbDolan2019	112	109	8	5	9
 15754388	Paper: Otto et al 2020	Otto2020	807	768	39	0	559
 15981708	Paper: Coates et al 2020	Coates2020	191	191	0	0	0
 16232065	Paper: Turner-Evans et al 2020	Turner-Evans2020	49	49	0	0	0

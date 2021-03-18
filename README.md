@@ -1,9 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #856 from commit: 'Merge pull request #41 from VirtualFlyBrain/FBbt-relationships-in-report
+ Current results are from the latest travis build #857 from commit: 'Merge pull request #42 from VirtualFlyBrain/extra_reports
 
-code to report ontology relationships' on master
+additions to content report' on master
 
 
 ## Internal pipeline reports:
