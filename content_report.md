@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-03-17
+VFB Content Report 2021-03-22
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2021 16:31:34``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 22 Mar 2021 11:45:44``  
   
 ***``Ontology Content``***  
 
@@ -28,4 +28,10 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 17 Mar 2
 **116460** total images from **81** datasets  
 **67489** single neuron images of **4993** cell types  
 **46890** images of expression patterns of **17064** drivers  
-**3751** images of expression patterns of **594** split combinations
+**3751** images of expression patterns of **594** split combinations  
+  
+***``Annotations``***  
+  
+**1970** annotations recording **464** types of neurons that **890** specific split combinations are expressed in.  
+**112141** annotations recording **3703** types of anatomical structures that **16368** specific driver lines are expressed in.  
+**11485** annotations recording **1601** types of neurons that **3706** specific driver lines are expressed in.
