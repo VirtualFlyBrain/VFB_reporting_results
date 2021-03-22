@@ -1,9 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #861 from commit: 'Merge pull request #42 from VirtualFlyBrain/extra_reports
+ Current results are from the latest travis build #864 from commit: 'Merge pull request #43 from VirtualFlyBrain/annotations-in-content-report
 
-additions to content report' on master
+code to add numbers of annotations' on master
 
 
 ## Internal pipeline reports:
