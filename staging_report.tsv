@@ -20,7 +20,7 @@ Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBr
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	387	25	0
 Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	0	0
 Eschbach2020b	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	0	0
-FafbDolan2019	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	106	122	0
+FafbDolan2019	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	122	0
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	CC-BY-SA_4.0	FBrf0240371	3	1	0
 FlyLight2019AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	4	0	5
 FlyLight2019Hampel2015	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	2	10	62
@@ -50,7 +50,7 @@ Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	0	0
 Larderet2017	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	36	0
 LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	122	0
-Lee2020	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	464	0	0
+Lee2020	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0
 Lilvis2018	Neurons involved in courtship and song (Lilvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0
 Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	301	0	0
 Mark2019	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0
@@ -78,7 +78,7 @@ Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	21242	0	0
 Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	0	0
 Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	225	0	0
-Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	105	457	0
+Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	97	457	0
 Zarin2019	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0
 Zheng2018	EM FAFB Zheng et al 2018	CC-BY-SA_4.0	FBrf0239557	145	1	0
 Zheng2020	EM FAFB Zheng et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_04_17_047167	1492	0	0
