@@ -1,16 +1,16 @@
 
-VFB Content Report 2021-04-05
+VFB Content Report 2021-04-06
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 05 Apr 2021 17:35:47``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 06 Apr 2021 12:37:32``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
 |All Terms|17191|1290|
-|All Nervous System Parts|11357|839|
+|All Nervous System Parts|12186|904|
 |All Neurons|8830|645|
 |Characterised Neurons|4965|645|
 |Provisional Neurons|3865|2|
@@ -22,6 +22,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 05 Apr 2
   
   
 **50571** formal assertions, of which **23010** are SubClassOf assertions and **27561** are other relationship types  
+  
+**40548** formal assertions on nervous system components, of which **17263** are SubClassOf assertions and **23285** are other relationship types  
   
 ***``Image Content``***  
   
