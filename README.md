@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #890 from commit: 'adding relationships for nervous system' on master
+ Current results are from the latest travis build #891 from commit: 'adding relationships for nervous system' on master
 
 
 ## Internal pipeline reports:
