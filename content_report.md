@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-04-13
+VFB Content Report 2021-04-14
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 13 Apr 2021 17:34:13``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 14 Apr 2021 11:10:26``  
   
 ***``Ontology Content``***  
 
@@ -36,4 +36,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 13 Apr 2
   
 **1970** annotations recording **464** types of neurons that **890** specific split combinations are expressed in.  
 **112110** annotations recording **3703** types of anatomical structures that **16369** specific driver lines are expressed in.  
-**11486** annotations recording **1601** types of neurons that **3708** specific driver lines are expressed in.
+**11486** annotations recording **1601** types of neurons that **3708** specific driver lines are expressed in.  
+  
+***``Connectivity``***  
+  
+**3459023** synaptic connections between **28231** neurons.
