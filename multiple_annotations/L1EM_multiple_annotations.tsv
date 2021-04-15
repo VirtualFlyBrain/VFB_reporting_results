@@ -1,0 +1,10 @@
+Individual_id	Individual_label	Skid	FBbt_ids	FBbt_labels
+VFB_00102246	A03a3_t3l (was T03a1) (L1EM:14242929)	14242929	['FBbt_00048825', 'FBbt_00048840']	['larval metathoracic A03a3 neuron', 'larval abdominal 1 A03a3 neuron']
+VFB_00102126	A27k_a2r (L1EM:4113612)	4113612	['FBbt_00048680', 'FBbt_00047845']	['larval abdominal 2 A27k neuron', 'larval abdominal 1 A27k neuron']
+VFB_00102240	MN13 ISN MN-VL2_a1r (L1EM:14194703)	14194703	['FBbt_00047491', 'FBbt_00047492']	['abdominal 1 VL2 motor neuron', 'abdominal 2 VL2 motor neuron']
+VFB_00102111	MN13 ISN MN-VL2_a1l  (L1EM:19111930)	19111930	['FBbt_00047491', 'FBbt_00047492']	['abdominal 1 VL2 motor neuron', 'abdominal 2 VL2 motor neuron']
+VFB_00100943	A14b a1l (L1EM:12820085)	12820085	['FBbt_00048991', 'FBbt_00048580']	['larval abdominal 1 A14b neuron', 'larval abdominal 1 A18b neuron']
+VFB_00101406	A27k_a2l (L1EM:4038808)	4038808	['FBbt_00048680', 'FBbt_00047845']	['larval abdominal 2 A27k neuron', 'larval abdominal 1 A27k neuron']
+VFB_00102262	MN6/7 RP3_a2l (L1EM:16264802)	16264802	['FBbt_00002218', 'FBbt_00002217']	['abdominal 3 VL3/4 motor neuron', 'abdominal 2 VL3/4 motor neuron']
+VFB_00102104	MN6/7 RP3_a2r (L1EM:4791651)	4791651	['FBbt_00002218', 'FBbt_00002217']	['abdominal 3 VL3/4 motor neuron', 'abdominal 2 VL3/4 motor neuron']
+VFB_00102142	A03a3_t3r (was T03a1) (L1EM:4538681)	4538681	['FBbt_00048825', 'FBbt_00048840']	['larval metathoracic A03a3 neuron', 'larval abdominal 1 A03a3 neuron']
