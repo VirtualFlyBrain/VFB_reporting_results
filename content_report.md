@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-04-14
+VFB Content Report 2021-04-15
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 14 Apr 2021 17:36:41``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 15 Apr 2021 11:45:44``  
   
 ***``Ontology Content``***  
 
@@ -39,5 +39,11 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 14 Apr 2
 **11486** annotations recording **1601** types of neurons that **3708** specific driver lines are expressed in.  
   
 ***``Connectivity``***  
+
+|Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
+| :--- | :--- | :--- | :--- | :--- |
+|Any neuron (individuals)|28231|Any neuron (individuals)|28231|3459023|
+|Any neuron (individuals)|22590|Region (individuals)|224|380165|
+|Any neuron (classes)|373|Muscle (classes)|325|1337|
+|Any neuron (classes)|651|Sense organ (classes)|347|2651|
   
-**3459023** synaptic connections between **28231** neurons.
