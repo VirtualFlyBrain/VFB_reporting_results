@@ -1,7 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #898 from commit: 'script to check for multiple FBbt annotations on EM images' on multi-annotations
+ Current results are from the latest travis build #900 from commit: 'Merge pull request #45 from VirtualFlyBrain/multi-annotations
+
+Check for multiple annotations' on master
 
 
 ## Internal pipeline reports:
