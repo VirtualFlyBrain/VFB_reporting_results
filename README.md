@@ -1,7 +1,9 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #895 from commit: 'extending connectivity info and making table' on connectivity-queries
+ Current results are from the latest travis build #897 from commit: 'Merge pull request #44 from VirtualFlyBrain/connectivity-queries
+
+Update to content report generation' on master
 
 
 ## Internal pipeline reports:
