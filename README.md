@@ -1,7 +1,7 @@
 # VFB_reporting_results
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
- Current results are from the latest travis build #903 from commit: 'fix muscle query' on master
+ Current results are from the latest travis build #904 from commit: 'fix muscle query' on master
 
 
 ## Internal pipeline reports:
