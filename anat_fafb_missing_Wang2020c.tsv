@@ -1,0 +1,18 @@
+filename	label	is_a	part_of	dbxrefs	synonyms
+1945492	vpoIN#5 (FAFB:1945492)	neuron	female organism|adult brain	catmaid_fafb:1945492	Neuron 1945493 NF FW type1-2
+5094164	vpoDN (FAFB:5094164)	neuron	female organism|adult brain	catmaid_fafb:5094164	pMN2 neuron 5094165 FW-N2 CMP NF TY
+5114792	vpoIN#1 (FAFB:5114792)	neuron	female organism|adult brain	catmaid_fafb:5114792	neuron 5114793 FW TY type1-3
+5123560	vpoIN#10 (FAFB:5123560)	neuron	female organism|adult brain	catmaid_fafb:5123560	neuron 5123561 NF FW type1-14
+5310406	vpoIN#3 (FAFB:5310406)	neuron	female organism|adult brain	catmaid_fafb:5310406	neuron 5310407 CMP NF FW type1-1
+5480914	vpoEN#2 (FAFB:5480914)	neuron	female organism|adult brain	catmaid_fafb:5480914	neuron 5480915 TY FW type3-3
+5486634	vpoIN#4 (FAFB:5486634)	neuron	female organism|adult brain	catmaid_fafb:5486634	neuron 5486635 TY FW type1-7
+5496946	vpoEN#1 (FAFB:5496946)	neuron	female organism|adult brain	catmaid_fafb:5496946	neuron 5496947 TY NF FW type3-1
+5592796	vpoIN#9 (FAFB:5592796)	neuron	female organism|adult brain	catmaid_fafb:5592796	neuron 5592797 TY CMP FW type1-6
+5746422	vpoIN#13 (FAFB:5746422)	neuron	female organism|adult brain	catmaid_fafb:5746422	neuron 5746423 FW type1-10
+5753206	vpoIN#8 (FAFB:5753206)	neuron	female organism|adult brain	catmaid_fafb:5753206	neuron 5753207 TY FW type1-8
+6031288	vpoIN#14 (FAFB:6031288)	neuron	female organism|adult brain	catmaid_fafb:6031288	neuron 6031289 FW type1-11
+6481208	vpoIN#2 (FAFB:6481208)	neuron	female organism|adult brain	catmaid_fafb:6481208	neuron 6481209 CMP NF FW type1-4
+6540243	vpoIN#11 (FAFB:6540243)	neuron	female organism|adult brain	catmaid_fafb:6540243	neuron 6540244 TY type1-15
+7125205	vpoIN#7 (FAFB:7125205)	neuron	female organism|adult brain	catmaid_fafb:7125205	neuron 7125206 NF FW type1-5
+7378247	vpoIN#12 (FAFB:7378247)	neuron	female organism|adult brain	catmaid_fafb:7378247	neuron 7378248 NF FW type1-13
+8886951	vpoIN#6 (FAFB:8886951)	neuron	female organism|adult brain	catmaid_fafb:8886951	neuron 5500623 TY FW type1-9
