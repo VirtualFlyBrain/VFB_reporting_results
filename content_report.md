@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-04-18
+VFB Content Report 2021-04-19
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 18 Apr 2021 17:36:08``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 19 Apr 2021 10:10:16``  
   
 ***``Ontology Content``***  
 
@@ -45,5 +45,5 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 18 Apr 2
 |Any neuron (individuals)|28231|Any neuron (individuals)|28231|3459023|
 |Any neuron (individuals)|22590|Region (individuals)|224|380165|
 |Any neuron (classes)|373|Muscle (classes)|325|524|
-|Any neuron (classes)|651|Sense organ (classes)|347|2651|
+|Any neuron (classes)|651|Sense organ (classes)|347|489|
   
