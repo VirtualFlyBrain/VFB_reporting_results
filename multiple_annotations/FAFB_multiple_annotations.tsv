@@ -1,4 +1,4 @@
-Individual_id	Individual_label	Skid	FBbt_ids	FBbt_labels
+Individual_id	Individual_label	External_id	FBbt_ids	FBbt_labels
 VFB_00101275	Biglomerular mALT VP3 + VP1l ivPN bilateral#L1 (FAFB:37513)	37513	['FBbt_00111339', 'FBbt_00049724']	['adult bilateral antennal lobe projection neuron VP1l+VP3 ilPN', 'adult bilateral antennal lobe projection neuron VP3+VP1l ivPN']
 VFB_0010129c	WEDPN8C#3 (FAFB:9206998)	9206998	['FBbt_00049664', 'FBbt_00050242']	['adult wedge projection neuron 8', 'adult DALd lineage neuron']
 VFB_001011rd	LHPV6g1#1 (FAFB:1868440)	1868440	['FBbt_00049711', 'FBbt_00049372']	['adult lateral horn PV6g1 neuron', 'adult lateral horn PD2c1 neuron']

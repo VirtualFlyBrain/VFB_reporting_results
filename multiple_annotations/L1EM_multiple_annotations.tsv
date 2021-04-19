@@ -1,4 +1,4 @@
-Individual_id	Individual_label	Skid	FBbt_ids	FBbt_labels
+Individual_id	Individual_label	External_id	FBbt_ids	FBbt_labels
 VFB_00102246	A03a3_t3l (was T03a1) (L1EM:14242929)	14242929	['FBbt_00048825', 'FBbt_00048840']	['larval metathoracic A03a3 neuron', 'larval abdominal 1 A03a3 neuron']
 VFB_00102126	A27k_a2r (L1EM:4113612)	4113612	['FBbt_00048680', 'FBbt_00047845']	['larval abdominal 2 A27k neuron', 'larval abdominal 1 A27k neuron']
 VFB_00102240	MN13 ISN MN-VL2_a1r (L1EM:14194703)	14194703	['FBbt_00047491', 'FBbt_00047492']	['abdominal 1 VL2 motor neuron', 'abdominal 2 VL2 motor neuron']

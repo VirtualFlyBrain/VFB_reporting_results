@@ -1,4 +1,4 @@
-Individual_id	Individual_label	Skid	FBbt_ids	FBbt_labels
+Individual_id	Individual_label	External_id	FBbt_ids	FBbt_labels
 VFB_jrchk7zh	WEDPN8C_R (FlyEM-HB:2096909904)	2096909904	['FBbt_00049664', 'FBbt_00050242']	['adult wedge projection neuron 8', 'adult DALd lineage neuron']
 VFB_jrchk2e1	ORN_VA7m (FlyEM-HB:2137856415)	2137856415	['FBbt_00048139', 'FBbt_00007386']	['adult sensory neuron VA7m', 'adult olfactory receptor neuron']
 VFB_jrchk463	PPM1203_R (FlyEM-HB:5813054384)	5813054384	['FBbt_00047095', 'FBbt_00005131']	['adult neuron', 'dopaminergic neuron']
