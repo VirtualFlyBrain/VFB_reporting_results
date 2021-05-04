@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-05-03
+VFB Content Report 2021-05-04
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 03 May 2021 17:50:44``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 04 May 2021 17:52:00``  
   
 ***``Ontology Content``***  
 
@@ -28,21 +28,21 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 03 May 2
 ***``Image Content``***  
   
 **117557** total images from **82** datasets  
-**67484** single neuron images of **5202** cell types  
+**67484** single neuron images of **5315** cell types  
 **47992** images of expression patterns of **17082** drivers  
 **4730** images of expression patterns of **601** split combinations  
   
 ***``Annotations``***  
   
 **1970** annotations recording **464** types of neurons that **890** specific split combinations are expressed in.  
-**112110** annotations recording **3703** types of anatomical structures that **16369** specific driver lines are expressed in.  
-**11486** annotations recording **1601** types of neurons that **3708** specific driver lines are expressed in.  
+**112444** annotations recording **3720** types of anatomical structures that **16417** specific driver lines are expressed in.  
+**11659** annotations recording **1615** types of neurons that **3747** specific driver lines are expressed in.  
   
 ***``Connectivity``***  
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|28231|Any neuron (individuals)|28231|3459023|
+|Any neuron (individuals)|28249|Any neuron (individuals)|28249|3459116|
 |Any neuron (individuals)|22590|Region (individuals)|224|380165|
 |Any neuron (classes)|373|Muscle (classes)|325|524|
 |Any neuron (classes)|651|Sense organ (classes)|347|489|
