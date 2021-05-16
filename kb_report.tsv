@@ -17,7 +17,7 @@ Court2020	Adult VNC neuropils (Court2020)	True	doi_10_1101_122952	CC-BY-SA_4.0	2
 Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	5387
 Dickson_VT	Dickson lab VT line collection - VDRC images	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	18016
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-SA_4.0	10
-Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	329
+Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	330
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
 Eschbach2020	EM L1 Eschbach et al 2020	True	FBrf0245294	CC-BY-SA_4.0	189
 Eschbach2020b	EM L1 Eschbach et al 2020b	True	doi_10_1101_2020_04_23_058339	CC-BY_4.0	239
@@ -46,7 +46,7 @@ JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shino
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	True	FBrf0233796	CC-BY-SA_4.0	44
 Jovanic2019	EM L1 Jovanic et al. 2019	True	FBrf0241547	CC-BY-SA_4.0	37
 Kim2020	EM FAFB Kim et al 2020	True	doi_10_1002_cne_24877	CC-BY-SA_4.0	95
-Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	True	FBrf0237184	CC-BY-SA_4.0	11
+Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	True	FBrf0237184	CC-BY-SA_4.0	17
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	True	FBrf0211243	CC-BY-SA_4.0	504
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	True	FBrf0223724	CC-BY-SA_4.0	111
 Larderet2017	larval visual circuit neurons (Larderet2017)	True	FBrf0237760	CC-BY-SA_4.0	72
@@ -79,7 +79,7 @@ Wang2020b	EM FAFB Wang et al 2020b	True	FBrf0246914	CC-BY_4.0	1
 Wang2020c	EM FAFB Wang et al 2020c		FBrf0247919	CC-BY-SA_4.0	17
 Wolff2018	Splits targetting CX neurons, Wolff2018	True	FBrf0240744	CC-BY_4.0	188
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	True		CC-BY-SA_4.0	255
-Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	293
+Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY-SA_4.0	332
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	True	FBrf0238545	CC-BY-SA_4.0	79
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	21242
 Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	22593
