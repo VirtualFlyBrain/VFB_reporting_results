@@ -1,0 +1,60 @@
+name: Create Reports
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  notebooks:
+    name: "Generate Reports"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+      - name: Pull Code
+        run: |
+          git clone https://github.com/VirtualFlyBrain/VFB_reporting.git
+          git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
+          ln -s ./ ./VFB_reporting/VFB_reporting_results
+
+      - name: Install dependencies
+        run: |
+          python -m pip install -U pip
+          python -m pip install -r VFB_reporting/requirements.txt
+          python -m pip install -r VFB_neo4j/requirements.txt
+
+      - name: Run reports
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
+          cd VFB_reporting/src
+          python ./test/query_tools_test.py
+          python ./report_runner.py
+          python ./comparison.py
+          python ./get_catmaid_cellTypes.py
+          python ./get_catmaid_papers.py
+          rm -vf ../VFB_reporting_results/anat_*.tsv
+          rm -vf ../VFB_reporting_results/anat_*.yaml
+          python ./make_curation_records/anat_curation_file_maker.py
+          python ./VFB_content_report_generator.py
+
+      - name: Clean up
+        run: |
+          mv -v VFB_reporting/*.tsv ./
+          mv -v VFB_reporting/*.yaml ./
+          rm -rfv VFB_reporting
+          rm -rfv VFB_neo4j
+
+      - name: On Completion
+        run: |
+          ls -lh *.tsv
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: GitHub Actions
+          author_email: support@virtualflybrain.org
+          message: 'Automated report run'
