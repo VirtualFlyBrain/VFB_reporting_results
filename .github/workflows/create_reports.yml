@@ -39,7 +39,6 @@ jobs:
           rm -vf ../VFB_reporting_results/anat_*.yaml
           python ./make_curation_records/anat_curation_file_maker.py
           python ./VFB_content_report_generator.py
-          echo "test" > text.txt
 
       - name: Clean up
         run: |
