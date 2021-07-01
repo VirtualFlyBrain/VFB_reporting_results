@@ -1,5 +1,6 @@
 name: Create Reports
-schedule:
+on:
+  schedule:
     - cron: "*/10 * * * *"
 
 jobs:
