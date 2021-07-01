@@ -28,6 +28,7 @@ jobs:
 
       - name: Run reports
         run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./test/query_tools_test.py
           python ./report_runner.py
