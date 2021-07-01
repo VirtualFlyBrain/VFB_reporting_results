@@ -43,6 +43,8 @@ jobs:
 
       - name: Clean up
         run: |
+          mv -v VFB_reporting/*.tsv ./
+          mv -v VFB_reporting/*.yaml ./
           rm -rfv VFB_reporting
           rm -rfv VFB_neo4j
 
