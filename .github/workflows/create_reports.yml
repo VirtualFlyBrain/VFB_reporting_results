@@ -56,4 +56,3 @@ jobs:
           author_name: GitHub Actions
           author_email: support@virtualflybrain.org
           message: 'Automated report run'
-          add: '*.*'
