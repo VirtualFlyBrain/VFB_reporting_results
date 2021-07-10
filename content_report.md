@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-07-09
+VFB Content Report 2021-07-10
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 09 Jul 2021 00:21:34``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 10 Jul 2021 00:21:49``  
   
 ***``Ontology Content``***  
 
@@ -23,7 +23,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 09 Jul 2
   
 **50571** formal assertions, of which **23010** are SubClassOf assertions and **27561** are other relationship types  
   
-**40548** formal assertions on nervous system components, of which **17263** are SubClassOf assertions and **23285** are other relationship types  
+**40548** formal assertions on nervous system components, of which **17263** are SubClassOf assertions and **23285** are
+ other relationship types  
   
 ***``Image Content``***  
   
@@ -35,7 +36,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 09 Jul 2
 ***``Annotations``***  
   
 **1970** annotations recording **464** types of neurons that **890** specific split combinations are expressed in.  
-**112444** annotations recording **3720** types of anatomical structures that **16417** specific driver lines are expressed in.  
+**112444** annotations recording **3720** types of anatomical structures that **16417** specific driver lines are 
+expressed in.  
 **11659** annotations recording **1615** types of neurons that **3747** specific driver lines are expressed in.  
   
 ***``Connectivity``***  
