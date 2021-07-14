@@ -1,9 +1,9 @@
 
-VFB Content Report 2021-07-13
+VFB Content Report 2021-07-14
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 13 Jul 2021 00:22:15``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 14 Jul 2021 00:21:20``  
   
 ***``Ontology Content``***  
 
