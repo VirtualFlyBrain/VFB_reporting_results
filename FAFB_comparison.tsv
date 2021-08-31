@@ -6,7 +6,7 @@ Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_C
 14896682	Paper: Kim et al 2020	Kim2020	95	95	0	0	0
 15549507	Paper: Zheng et al 2020	Zheng2020	1507	1492	15	0	0
 15579831	Paper: Marin et al 2020	Marin2020	327	301	27	1	6
-15754279	Paper: Bates and Schlegel et al 2020	BatesSchlegel2020	583	456	129	2	2
+15754279	Paper: Bates and Schlegel et al 2020	BatesSchlegel2020	584	456	129	1	2
 15754283	Paper: Dolan et al 2019	FafbDolan2019	112	109	8	5	4
 15754388	Paper: Otto et al 2020	Otto2020	807	768	39	0	559
 15981708	Paper: Coates et al 2020	Coates2020	191	191	0	0	0
@@ -16,3 +16,4 @@ Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_C
 16830656	Paper: Wang et al 2020c	Wang2020c	24	17	7	0	0
 16830912	Paper: Morimoto et al 2020	Morimoto2020	76	76	0	0	0
 16857700	Paper: Hampel and Eichler et al 2020	HampelEichler2020	147	147	0	0	0
+17515091	Paper: Baltruschat et al 2021		20	0	20	0	0
