@@ -52,6 +52,7 @@ jobs:
       - name: On Completion
         run: |
           ls -lh *.tsv
+          git commit -a -m 'automated report run'
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
