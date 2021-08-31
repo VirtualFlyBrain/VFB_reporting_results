@@ -53,6 +53,8 @@ jobs:
       - name: On Completion
         run: |
           ls -lh *.tsv
+          git config --global user.email "support@virtualflybrain.org"
+          git config --global user.name "gitHub actions"
           git commit -a -m 'automated report run'
 
       - name: Commit changes
