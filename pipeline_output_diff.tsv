@@ -1,0 +1,27 @@
+ds.short_form	ds.label	license	pub	individuals	ontology_terms	exp_cur
+BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	454	0	0
+BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	389	0
+Burgos2018	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	41	3
+Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	120
+Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	330	122	0
+Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	387	41	0
+Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	146	0
+FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	52	0
+FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	40	17
+Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	60	3
+Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	49	1
+JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	389	0
+Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	2	0
+Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	9	0
+Lillvis2018	Neurons involved in courtship and song (Lillvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0
+Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	0	0
+McKellar2020	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	0
+Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	39	0
+Nojima2021	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	5	0
+SplitDavis2020	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	129	24	0
+SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	0
+Wang2020c	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	3	0
+Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	52	0
+Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	40	17
+Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	219	0	0
+Zwart2016	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	140	0
