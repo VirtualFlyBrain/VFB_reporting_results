@@ -1,8 +1,8 @@
 ds.short_form	ds.label	ds.production	pub	license	individuals
-Andrade2019	EM L1 Andrade et al. 2019	True	FBrf0241389	CC-BY-SA_4.0	845
+Andrade2019	EM L1 Andrade et al. 2019	True	FBrf0241389	CC-BY-SA_4.0	846
 Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	True	FBrf0227179	CC-BY-SA_4.0	2455
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY-SA_4.0	24
-Baltruschat2021	EM FAFB Baltruschat et al 2021		FBrf0248487	CC-BY-SA_4.0	0
+Baltruschat2021	EM FAFB Baltruschat et al 2021	True	FBrf0248487	CC-BY-SA_4.0	8
 BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	True	doi_10_1016_j_cub_2020_06_042	CC-BY-SA_4.0	456
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	True	FBrf0232785	CC-BY-SA_4.0	160
 BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	True	FBrf0224194	CC-BY-SA_4.0	76
@@ -19,7 +19,7 @@ Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	True	doi_10_11
 Dickson_VT	Dickson lab VT line collection - VDRC images	True	doi_10_1101_198648	CC-BY-NC-SA_4.0	18016
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-SA_4.0	10
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	330
-Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	387
+Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	388
 Eschbach2020	EM L1 Eschbach et al 2020	True	FBrf0245294	CC-BY-SA_4.0	189
 Eschbach2020b	EM L1 Eschbach et al 2020b	True	doi_10_1101_2020_04_23_058339	CC-BY_4.0	239
 FafbDolan2019	EM FAFB Dolan et al. 2019	True	FBrf0242477	CC-BY-SA_4.0	109
@@ -40,9 +40,9 @@ Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY-SA_
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	True	FBrf0236775	CC-BY-SA_4.0	1
 HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	True	FBrf0247223	CC-BY_4.0	147
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	True	FBrf0229965	CC-BY-SA_4.0	137
-Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)		doi_10_1101__2020_10_22_350306	CC-BY-SA_4.0	0
+Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)		doi_10_1101__2020_10_22_350306	CC-BY-SA_4.0	313
 Ito2013	Ito lab adult brain lineage clone image set	True	FBrf0221438	CC-BY-NC-SA_4.0	96
-JRC2018	JRC 2018 templates & ROIs	True	doi_10_1101_376384	CC-BY-NC-SA_4.0	49
+JRC2018	JRC 2018 templates & ROIs	True	doi_10_1101_376384	CC-BY-NC-SA_4.0	48
 Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	True	FBrf0219813	CC-BY-NC-SA_4.0	3469
 JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	True	FBrf0224194	CC-BY-SA_4.0	58
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	True	FBrf0233796	CC-BY-SA_4.0	44
@@ -86,7 +86,7 @@ TrumanWood2018	Truman Larval Flip-Out Collection	False		unlicensed	12239
 TrumanWood2018public	Truman Larval Flip-Out Collection	True		CC-BY-SA_4.0	2
 Tsubouchi2017	Adult somatosensory system neurons (Tsubouchi2017)	False	FBrf0237124	CC-BY-SA_4.0	0
 Turner-Evans2020	EM FAFB Turner-Evans et al 2020	True	doi_10_1016_j_neuron_2020_08_006	CC-BY-SA_4.0	49
-Valdes-Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)		FBrf0247750	CC-BY-SA_4.0	0
+Valdes-Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	True	FBrf0247750	CC-BY-SA_4.0	0
 Wang2020a	EM FAFB Wang et al 2020a	True	FBrf0245074	CC-BY_4.0	12
 Wang2020b	EM FAFB Wang et al 2020b	True	FBrf0246914	CC-BY_4.0	1
 Wang2020c	EM FAFB Wang et al 2020c	True	FBrf0247919	CC-BY-SA_4.0	17

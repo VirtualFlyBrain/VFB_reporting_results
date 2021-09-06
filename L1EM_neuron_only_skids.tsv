@@ -8,6 +8,7 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	19496665	Zwart et al. 2016		
 6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	19496665	Zwart et al. 2016		
 17844900	Giant-step left	19711421	Berck, Khandelwal et al. 2016		
+21664445	3rd-order Thermo right	19711583	Eichler, Li, Litwin-Kumar et al. 2017		
 13789482	Gustatory PN 2	19711583	Eichler, Li, Litwin-Kumar et al. 2017	backwards handlebar right	
 12156009	Gustatory PN 3	19711583	Eichler, Li, Litwin-Kumar et al. 2017	handlebar-like 4 (no soma) left 	
 11333054	Gustatory PN 1	19711583	Eichler, Li, Litwin-Kumar et al. 2017	Gustatory PN left	
@@ -15,28 +16,28 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 9747418	PPLV - 2 Left (maybe PVL014c)	19711583	Eichler, Li, Litwin-Kumar et al. 2017		
 8254894	Unknown PN 2	19711583	Eichler, Li, Litwin-Kumar et al. 2017	PN in Olfactory Bundle 2 right	
 8012953	Unknown PN 2	19711583	Eichler, Li, Litwin-Kumar et al. 2017	PN in Olfactory Bundle 2 left	
-7092086	Unknown PN 1	19711583	Eichler, Li, Litwin-Kumar et al. 2017	PN in Olfactory Bundle 1 left	
 11067379	Gustatory PN 4	19711583	Eichler, Li, Litwin-Kumar et al. 2017	non-olfactory PN left	
-4876704	Unknown PN 1	19711583	Eichler, Li, Litwin-Kumar et al. 2017	PN in Olfactory Bundle 1 right	
-4620453	AVL011 PN Right 2?	19711583	Eichler, Li, Litwin-Kumar et al. 2017		
-4393049	Gustatory PN 4	19711583	Eichler, Li, Litwin-Kumar et al. 2017	non-olfactory PN right	
-4152020	Multiglomerular PN 6	19711583	Eichler, Li, Litwin-Kumar et al. 2017	from upper looping PN - peptidergic right	
-3709977	Gustatory PN 2	19711583	Eichler, Li, Litwin-Kumar et al. 2017	backwards handlebar left (looks like 35a)	
-3450751	Multiglomerular PN 5	19711583	Eichler, Li, Litwin-Kumar et al. 2017	mPN BAmd1-g right|mPN|MB2ON-164	
-2921933	V1: possible PVL005 - 3 Right	19711583	Eichler, Li, Litwin-Kumar et al. 2017		
 7020344	Gustatory PN 3	19711583	Eichler, Li, Litwin-Kumar et al. 2017	handlebar-like 4 right	
-8449457	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
+7092086	Unknown PN 1	19711583	Eichler, Li, Litwin-Kumar et al. 2017	PN in Olfactory Bundle 1 left	
+3450751	Multiglomerular PN 5	19711583	Eichler, Li, Litwin-Kumar et al. 2017	mPN BAmd1-g right|mPN|MB2ON-164	
+3709977	Gustatory PN 2	19711583	Eichler, Li, Litwin-Kumar et al. 2017	backwards handlebar left (looks like 35a)	
+4152020	Multiglomerular PN 6	19711583	Eichler, Li, Litwin-Kumar et al. 2017	from upper looping PN - peptidergic right	
+2921933	V1: possible PVL005 - 3 Right	19711583	Eichler, Li, Litwin-Kumar et al. 2017		
+4393049	Gustatory PN 4	19711583	Eichler, Li, Litwin-Kumar et al. 2017	non-olfactory PN right	
+4620453	AVL011 PN Right 2?	19711583	Eichler, Li, Litwin-Kumar et al. 2017		
+4876704	Unknown PN 1	19711583	Eichler, Li, Litwin-Kumar et al. 2017	PN in Olfactory Bundle 1 right	
+8432028	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017		
 8448809	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 8448796	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 8448568	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 8448477	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 8448464	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
-8432028	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017		
+8449457	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 8362221	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
-8337623	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
+8271034	LONI;right	19711972	Larderet, Fritsch et al. 2017		
 8358800	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 8353473	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
-8271034	LONI;right	19711972	Larderet, Fritsch et al. 2017		
+8337623	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 7940800	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
 7694589	LONI;left	19711972	Larderet, Fritsch et al. 2017		
 2208920	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
@@ -45,7 +46,7 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 8361378	anlagen cell-older_left	19711972	Larderet, Fritsch et al. 2017		
 8470256	anlagen cell_right	19711972	Larderet, Fritsch et al. 2017		
 8448457	anlagen cell_left	19711972	Larderet, Fritsch et al. 2017		
-6264270	basin-related descending 1 sog_r	19712046	Ohyama, Schneider-Mizell et al. 2015		
+5754346	_telegoro-1	19712046	Ohyama, Schneider-Mizell et al. 2015	telegoro-1L	
 2743404	hook-2_a2l	19712046	Ohyama, Schneider-Mizell et al. 2015		
 3764792	_telegoro-1	19712046	Ohyama, Schneider-Mizell et al. 2015	telegoro-1R	
 3862443	telephone-1R	19712046	Ohyama, Schneider-Mizell et al. 2015		
@@ -54,86 +55,85 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 5108525	A08h_a1r right	19712046	Ohyama, Schneider-Mizell et al. 2015		
 5268581	basin-related descending 1 sog_l	19712046	Ohyama, Schneider-Mizell et al. 2015		
 5691934	telephone-1L	19712046	Ohyama, Schneider-Mizell et al. 2015		
-5754346	_telegoro-1	19712046	Ohyama, Schneider-Mizell et al. 2015	telegoro-1L	
+6264270	basin-related descending 1 sog_r	19712046	Ohyama, Schneider-Mizell et al. 2015		
+3158085	AF5: Short-presynaptic-D-1L	19712202	Schlegel et al. 2016		
 3276003	MB2IN-150	19712202	Schlegel et al. 2016	L1: Short-presynapticD-3-R	
 3436420	Pre PMN right	19712202	Schlegel et al. 2016		
 3595837	DPMm1 Brain descending into VNC right	19712202	Schlegel et al. 2016		
-3598000	DPMm1 Brain descending into VNC 2 right	19712202	Schlegel et al. 2016		
-19912140	T1r asc contra 02	19712202	Schlegel et al. 2016		
-3722787	A23f2 (= Pre-goro9)_a3l	19712202	Schlegel et al. 2016		
-4179669	A26g_a2l	19712202	Schlegel et al. 2016		
-4785242	AF3 thermo 3rd left	19712202	Schlegel et al. 2016		
-3158085	AF5: Short-presynaptic-D-1L	19712202	Schlegel et al. 2016		
+18461988	Contralateral axon	19712202	Schlegel et al. 2016		
 3613276	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565	19712202	Schlegel et al. 2016		
+3722787	A23f2 (= Pre-goro9)_a3l	19712202	Schlegel et al. 2016		
 2935198	AF3 thermo 3rd right	19712202	Schlegel et al. 2016		
-2622540	A26f_a4r	19712202	Schlegel et al. 2016		
-2815572	SEZ local interneuron	19712202	Schlegel et al. 2016		
+4179669	A26g_a2l	19712202	Schlegel et al. 2016		
+3598000	DPMm1 Brain descending into VNC 2 right	19712202	Schlegel et al. 2016		
+2935173	_WS	19712202	Schlegel et al. 2016	WS: from olfactory to Hugin interneuron right	
+2622502	Projection Neuron right - Type I - paired with #8010889	19712202	Schlegel et al. 2016		
 2679035	SEZ-IN-15-right	19712202	Schlegel et al. 2016		
 2632168	neuron 2632169	19712202	Schlegel et al. 2016		
-5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	19712202	Schlegel et al. 2016		
-2622502	Projection Neuron right - Type I - paired with #8010889	19712202	Schlegel et al. 2016		
+2622540	A26f_a4r	19712202	Schlegel et al. 2016		
+4785242	AF3 thermo 3rd left	19712202	Schlegel et al. 2016		
 2620299	Premotor for PaN + MN - paired with #10885848?	19712202	Schlegel et al. 2016		
 2619764	neuron - paired with #6796532	19712202	Schlegel et al. 2016		
 2597151	AF5: Short-presynaptic-D-1R	19712202	Schlegel et al. 2016		
 864517	SOG Neuron into Thoracic - gap crossing unfinished	19712202	Schlegel et al. 2016		
-2935173	_WS	19712202	Schlegel et al. 2016	WS: from olfactory to Hugin interneuron right	
-5311299	T1r Ascending into PC_right	19712202	Schlegel et al. 2016		
+19912140	T1r asc contra 02	19712202	Schlegel et al. 2016		
+2815572	SEZ local interneuron	19712202	Schlegel et al. 2016		
+5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	19712202	Schlegel et al. 2016		
 3946432	_WS	19712202	Schlegel et al. 2016	WS: from olfactory to Hugin interneuron left	
-5613144	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016		
-9935752	T1r asc contra 01	19712202	Schlegel et al. 2016		
-10716080	DPMm1 Brain descending into VNC left	19712202	Schlegel et al. 2016		
 5378683	T1l Ascending into PC_left	19712202	Schlegel et al. 2016		
+9787565	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276	19712202	Schlegel et al. 2016		
+5311299	T1r Ascending into PC_right	19712202	Schlegel et al. 2016		
+10716080	DPMm1 Brain descending into VNC left	19712202	Schlegel et al. 2016		
+10728318	DPMm1 Brain descending into VNC 2 left	19712202	Schlegel et al. 2016		
 10885848	T1 Local Interneuron - paired with #2620299? a27l t2?	19712202	Schlegel et al. 2016		
 11121240	A00g_a3 ?	19712202	Schlegel et al. 2016		
+9563254	A01?_a8r	19712202	Schlegel et al. 2016		
 11291634	Midline Projection Neuron  - paired with #7340664	19712202	Schlegel et al. 2016		
-9787565	Interneuron W left - Inputs from SE0 Serotonin - paired with #3613276	19712202	Schlegel et al. 2016		
-11517136	A01?_a8l	19712202	Schlegel et al. 2016		
+12042430	A06?_a1l	19712202	Schlegel et al. 2016		
 12824059	post B5 17 l	19712202	Schlegel et al. 2016		
 12920745	post B5 17 r	19712202	Schlegel et al. 2016		
 12944429	neuron 12944430 with a soma	19712202	Schlegel et al. 2016		
 13429045	AF4: TOH right; Large Spider Neuron right	19712202	Schlegel et al. 2016		
 17641913	AF4: TOH left	19712202	Schlegel et al. 2016		
-18461988	Contralateral axon	19712202	Schlegel et al. 2016		
-12042430	A06?_a1l	19712202	Schlegel et al. 2016		
-9563254	A01?_a8r	19712202	Schlegel et al. 2016		
-10728318	DPMm1 Brain descending into VNC 2 left	19712202	Schlegel et al. 2016		
-8010889	Projection Neuron left - Type I - paired with #2622502	19712202	Schlegel et al. 2016		
-5614978	T1l asc contra 01	19712202	Schlegel et al. 2016		
-5644800	T1l descending 	19712202	Schlegel et al. 2016		
+11517136	A01?_a8l	19712202	Schlegel et al. 2016		
 9319255	A26f_a4l	19712202	Schlegel et al. 2016		
+9935752	T1r asc contra 01	19712202	Schlegel et al. 2016		
+8008617	T1r descending	19712202	Schlegel et al. 2016		
+5613144	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016		
+5614978	T1l asc contra 01	19712202	Schlegel et al. 2016		
+8010889	Projection Neuron left - Type I - paired with #2622502	19712202	Schlegel et al. 2016		
+5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	19712202	Schlegel et al. 2016		
 5860970	A23f2 (= Pre-goro9)_a3r	19712202	Schlegel et al. 2016		
 6445994	Pre PMN left	19712202	Schlegel et al. 2016		
-6796532	neuron - paired with #2619764	19712202	Schlegel et al. 2016		
-5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	19712202	Schlegel et al. 2016		
+5644800	T1l descending 	19712202	Schlegel et al. 2016		
+6802553	T1l asc contra 02	19712202	Schlegel et al. 2016		
 7165165	A00g_t3	19712202	Schlegel et al. 2016		
 7338309	DPMpl12 Brain into SEZ left	19712202	Schlegel et al. 2016		
 7340664	Midline Projection Neuron _ a3l	19712202	Schlegel et al. 2016		
 7381964	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm)	19712202	Schlegel et al. 2016		
 7557604	MB2IN-150	19712202	Schlegel et al. 2016	L1: Short-presynapticD-3-L	
-8008617	T1r descending	19712202	Schlegel et al. 2016		
-6802553	T1l asc contra 02	19712202	Schlegel et al. 2016		
+6796532	neuron - paired with #2619764	19712202	Schlegel et al. 2016		
 12946254	A03 12946255	19712396	Fushiki et al. 2016		
-13095126	A31f_a1l?	19712396	Fushiki et al. 2016		
-13302529	A18f?_a3r	19712396	Fushiki et al. 2016		
-13545404	neuron 13545405_fragment	19712396	Fushiki et al. 2016		
+17114293	A27k_up_a1l	19712396	Fushiki et al. 2016		
 15565587	A03?3_a2r	19712396	Fushiki et al. 2016		
 14046472	A12b?_a1r	19712396	Fushiki et al. 2016		
-17114293	A27k_up_a1l	19712396	Fushiki et al. 2016		
-12901480	a03d/e_a2l	19712396	Fushiki et al. 2016		
 14046464	A12b?_a1l	19712396	Fushiki et al. 2016		
-12809874	feagment	19712396	Fushiki et al. 2016		
-4848300	A03EGB_a2r (EGHBAL)	19712396	Fushiki et al. 2016		
-10227539	crescent_a1r	19712396	Fushiki et al. 2016		
+13545404	neuron 13545405_fragment	19712396	Fushiki et al. 2016		
+13302529	A18f?_a3r	19712396	Fushiki et al. 2016		
+13095126	A31f_a1l?	19712396	Fushiki et al. 2016		
+12901480	a03d/e_a2l	19712396	Fushiki et al. 2016		
 4850740	A18f?_a3l	19712396	Fushiki et al. 2016		
+10492059	A31f_a1r?	19712396	Fushiki et al. 2016		
+4847161	a03d/e_a2r	19712396	Fushiki et al. 2016		
+4848300	A03EGB_a2r (EGHBAL)	19712396	Fushiki et al. 2016		
 7019050	A01a?_a1r      rf	19712396	Fushiki et al. 2016		
 7808341	crescent_a1l	19712396	Fushiki et al. 2016		
-4847161	a03d/e_a2r	19712396	Fushiki et al. 2016		
+12809874	feagment	19712396	Fushiki et al. 2016		
 10089252	A03EGB_a2l (EGHBAL)	19712396	Fushiki et al. 2016		
 10133525	A14 dude?_a1r	19712396	Fushiki et al. 2016		
+10227539	crescent_a1r	19712396	Fushiki et al. 2016		
 10017073	A27k_up_a1r	19712396	Fushiki et al. 2016		
-10492059	A31f_a1r?	19712396	Fushiki et al. 2016		
-13875211	MN2? ISN MN (U3?-MN2- NB7-1?)_a2r	19716589	Takagi et al. 2017		
-360668	t1r sensory putative md III/IV_T1r	19716589	Takagi et al. 2017		
+4514711	putative md class III/IV_t2l	19716589	Takagi et al. 2017		
 13885023	MN ISN MN_a2l (U4/U5)	19716589	Takagi et al. 2017		
 14087107	MN30 RP4_a1r	19716589	Takagi et al. 2017		
 14194234	MN30 RP4_a1l	19716589	Takagi et al. 2017		
@@ -141,10 +141,10 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 18181776	md class IV? t1r	19716589	Takagi et al. 2017		
 18202032	md class IV? t1r	19716589	Takagi et al. 2017		
 18339058	md class IV? t1l	19716589	Takagi et al. 2017		
+13875211	MN2? ISN MN (U3?-MN2- NB7-1?)_a2r	19716589	Takagi et al. 2017		
+360668	t1r sensory putative md III/IV_T1r	19716589	Takagi et al. 2017		
 3952743	putative md III/IV_t1l	19716589	Takagi et al. 2017		
-4514711	putative md class III/IV_t2l	19716589	Takagi et al. 2017		
-8602632	A08e1_a2l	19756504	Heckscher et al. 2015		
-14198375	ISN MN_a1r	19756504	Heckscher et al. 2015		
+10051927	MN ISN MN_a2r [MN-VL2 (13)?]	19756504	Heckscher et al. 2015		
 14201007	A08e1_a2r	19756504	Heckscher et al. 2015		
 14206438	MN14 RP1_a1r	19756504	Heckscher et al. 2015		
 14573136	dbd_t3r_JMpair5	19756504	Heckscher et al. 2015		
@@ -153,6 +153,7 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	19756504	Heckscher et al. 2015		
 20901068	MN6/7 RP3_a1r	19756504	Heckscher et al. 2015		
 20901073	MN6/7 RP3_a1l	19756504	Heckscher et al. 2015		
+8026224	MN10 U2_a1l	19756504	Heckscher et al. 2015		
 6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	19756504	Heckscher et al. 2015		
 4881629	MN8 (RF:SBM) LT3_a1r 	19756504	Heckscher et al. 2015		
 4326468	MN8 (RF:SBM) LT3_a1l	19756504	Heckscher et al. 2015		
@@ -160,11 +161,10 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	19756504	Heckscher et al. 2015		
 4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	19756504	Heckscher et al. 2015		
 4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	19756504	Heckscher et al. 2015		
-8026224	MN10 U2_a1l	19756504	Heckscher et al. 2015		
-8374407	A08e2_a2l	19756504	Heckscher et al. 2015		
-14194026	MN ISN MN_a1r    R only 	19756504	Heckscher et al. 2015		
-14048287	MN2 ISN(U3-NB7-1?)_a1r	19756504	Heckscher et al. 2015		
-10051927	MN ISN MN_a2r [MN-VL2 (13)?]	19756504	Heckscher et al. 2015		
+14198375	ISN MN_a1r	19756504	Heckscher et al. 2015		
+8602632	A08e1_a2l	19756504	Heckscher et al. 2015		
+8234536	vpda classI md?_t3r	19756504	Heckscher et al. 2015		
+14087107	MN30 RP4_a1r	19756504	Heckscher et al. 2015		
 10562191	dbd_t3l_JMpair5	19756504	Heckscher et al. 2015		
 11321644	neuron 11321645 frag run into a1 neuron	19756504	Heckscher et al. 2015		
 11578922	vpda classI md?_t3l	19756504	Heckscher et al. 2015		
@@ -173,47 +173,47 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 13875538	MN10 U2_a2r	19756504	Heckscher et al. 2015		
 13877013	ISN MN_a2r (U4/U5)	19756504	Heckscher et al. 2015		
 13877402	MN ISN MN_a2r (U4/U5)	19756504	Heckscher et al. 2015		
-8234536	vpda classI md?_t3r	19756504	Heckscher et al. 2015		
-13882192	MN ISN MN_a2l [MN-VL2 (13)?]	19756504	Heckscher et al. 2015		
+13881810	MN-VO4/5_a2l (NB7-1? ISN MN-15/16 ?)	19756504	Heckscher et al. 2015		
+8374407	A08e2_a2l	19756504	Heckscher et al. 2015		
 13883598	MN10U2_a2l	19756504	Heckscher et al. 2015		
 13884216	MN-VO4–6 (NB7-1 was- VO6 (17)? )_a2l	19756504	Heckscher et al. 2015		
 13885023	MN ISN MN_a2l (U4/U5)	19756504	Heckscher et al. 2015		
 14045016	MN14 RP1_a1l	19756504	Heckscher et al. 2015		
 14047130	MN2 ISN(U3-NB7-1?)_a1l	19756504	Heckscher et al. 2015		
 14047760	MN10 U2_a1r	19756504	Heckscher et al. 2015		
-14087107	MN30 RP4_a1r	19756504	Heckscher et al. 2015		
-13881810	MN-VO4/5_a2l (NB7-1? ISN MN-15/16 ?)	19756504	Heckscher et al. 2015		
+14048287	MN2 ISN(U3-NB7-1?)_a1r	19756504	Heckscher et al. 2015		
+14194026	MN ISN MN_a1r    R only 	19756504	Heckscher et al. 2015		
+13882192	MN ISN MN_a2l [MN-VL2 (13)?]	19756504	Heckscher et al. 2015		
 14194234	MN30 RP4_a1l	19756504	Heckscher et al. 2015		
 18322843	fragment	19756692	Gerhard et al. 2017		
 6660660	A00c_A8l?	19756692	Gerhard et al. 2017		
 5731368	A00c_A8l?	19756692	Gerhard et al. 2017		
-6896580	A07c4?_a1r	19862922	Burgos et al 2018		
 4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	19862922	Burgos et al 2018		
-4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	19862922	Burgos et al 2018		
-4206755	A10f-like a1l	19862922	Burgos et al 2018		
-10152437	A07c4??_a1l	19862922	Burgos et al 2018		
+14971928	sens	19862922	Burgos et al 2018		
 7124156	A10f-like a1r (not part of A10 lineage)	19862922	Burgos et al 2018		
-14930784	SEZ-IN-12-left	20282757	Miroschnikow et al. 2018		
-20152212	Neuron 20152213	20282757	Miroschnikow et al. 2018		
-19912140	T1r asc contra 02	20282757	Miroschnikow et al. 2018		
+6896580	A07c4?_a1r	19862922	Burgos et al 2018		
+4206755	A10f-like a1l	19862922	Burgos et al 2018		
+4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	19862922	Burgos et al 2018		
+10152437	A07c4??_a1l	19862922	Burgos et al 2018		
+16018440	SEZ to brain right	20282757	Miroschnikow et al. 2018		
 14962387	_SOG IN	20282757	Miroschnikow et al. 2018	SOG IN right	
 15225589	MB2IN-146	20282757	Miroschnikow et al. 2018	pre-dorsal-MAP presynaptic-D-2-R right	
 15250080	BAmas12_ven descending 4 right	20282757	Miroschnikow et al. 2018		
-12199926	SEZ-IN-10-right	20282757	Miroschnikow et al. 2018		
+16988779	MB2IN-203	20282757	Miroschnikow et al. 2018	T2l asc medial soma 02	
+16774287	MB2IN-203	20282757	Miroschnikow et al. 2018	T2r asc medial soma 02	
+16744167	SEZ-IN-11-right	20282757	Miroschnikow et al. 2018		
+16018123	T2r asc contra 01	20282757	Miroschnikow et al. 2018		
 15581428	SEZ-IN-08-left	20282757	Miroschnikow et al. 2018		
-15599768	BAmas12 contra right	20282757	Miroschnikow et al. 2018		
 15681246	Bubsy Left	20282757	Miroschnikow et al. 2018		
 15686444	DPlal bilateral 1 left	20282757	Miroschnikow et al. 2018		
-16018123	T2r asc contra 01	20282757	Miroschnikow et al. 2018		
-16018440	SEZ to brain right	20282757	Miroschnikow et al. 2018		
-16317330	SEZ-IN-02-right	20282757	Miroschnikow et al. 2018		
-16468935	gate1_left	20282757	Miroschnikow et al. 2018		
 16500055	SEZ to brain left - gap todo	20282757	Miroschnikow et al. 2018		
+14930784	SEZ-IN-12-left	20282757	Miroschnikow et al. 2018		
+16468935	gate1_left	20282757	Miroschnikow et al. 2018		
+16317330	SEZ-IN-02-right	20282757	Miroschnikow et al. 2018		
+15599768	BAmas12 contra right	20282757	Miroschnikow et al. 2018		
 14273873	ASB Ascending left 14273874 	20282757	Miroschnikow et al. 2018		
-14035921	SEZ-IN-08-right	20282757	Miroschnikow et al. 2018		
-13190771	fork of GPhN (right)	20282757	Miroschnikow et al. 2018		
-13645610	DPMl Skis right	20282757	Miroschnikow et al. 2018		
-1156684	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
+13429045	AF4: TOH right; Large Spider Neuron right	20282757	Miroschnikow et al. 2018		
+13789482	Gustatory PN 2	20282757	Miroschnikow et al. 2018	backwards handlebar right	
 1149968	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 1067653	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 768233	Interneuron--35 in total (strong to MN motor neurons)	20282757	Miroschnikow et al. 2018		
@@ -221,42 +221,40 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 616176	SEZ-IN-10-left	20282757	Miroschnikow et al. 2018		
 375785	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 236151	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
-19731864	Neuron 19731865	20282757	Miroschnikow et al. 2018		
+20152212	Neuron 20152213	20282757	Miroschnikow et al. 2018		
 12335381	BAmas12 midline 3 right	20282757	Miroschnikow et al. 2018		
 12740290	SEZ-IN-A01-left	20282757	Miroschnikow et al. 2018		
 13168715	SEZ-IN-09-left	20282757	Miroschnikow et al. 2018		
-16744167	SEZ-IN-11-right	20282757	Miroschnikow et al. 2018		
-13429045	AF4: TOH right; Large Spider Neuron right	20282757	Miroschnikow et al. 2018		
-13538010	SEZ-IN-A07-right	20282757	Miroschnikow et al. 2018		
-13789482	Gustatory PN 2	20282757	Miroschnikow et al. 2018	backwards handlebar right	
-16774287	MB2IN-203	20282757	Miroschnikow et al. 2018	T2r asc medial soma 02	
+13190771	fork of GPhN (right)	20282757	Miroschnikow et al. 2018		
 17213784	Neuron 17213785	20282757	Miroschnikow et al. 2018		
-1334471	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
-17716979	SEZ-IN-09-right	20282757	Miroschnikow et al. 2018		
-17717854	KS LN 1 left	20282757	Miroschnikow et al. 2018		
-17721400	neuron 17721401	20282757	Miroschnikow et al. 2018		
+13538010	SEZ-IN-A07-right	20282757	Miroschnikow et al. 2018		
+13645610	DPMl Skis right	20282757	Miroschnikow et al. 2018		
+14035921	SEZ-IN-08-right	20282757	Miroschnikow et al. 2018		
+17219367	SEZ-IN-06-right	20282757	Miroschnikow et al. 2018		
+17225493	fork of GPhN (left) former SEZ IN - unfinished	20282757	Miroschnikow et al. 2018		
+1156684	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 17816986	handle maxillar SEZ	20282757	Miroschnikow et al. 2018		
 18225324	Neuron 18225325	20282757	Miroschnikow et al. 2018		
 18239021	Neuron 18239022	20282757	Miroschnikow et al. 2018		
 18329062	SEZ-IN-A04-left	20282757	Miroschnikow et al. 2018		
 18347336	SEZ-IN-05-right	20282757	Miroschnikow et al. 2018		
-17706915	neuron 17706916	20282757	Miroschnikow et al. 2018		
 18354200	SEZ-IN-A05-right - paired with #6885133	20282757	Miroschnikow et al. 2018		
+18356793	SEZ-IN-04-right	20282757	Miroschnikow et al. 2018		
 18371412	SEZ-IN-03-left	20282757	Miroschnikow et al. 2018		
+17721400	neuron 17721401	20282757	Miroschnikow et al. 2018		
 18403155	SEZ-IN-18-left	20282757	Miroschnikow et al. 2018		
-18440675	BAmas12 midline 3 left	20282757	Miroschnikow et al. 2018		
 19042617	SEZ-IN-A14-left	20282757	Miroschnikow et al. 2018		
 19099536	neuron 19099537	20282757	Miroschnikow et al. 2018		
 19341122	Neuron 19341123	20282757	Miroschnikow et al. 2018		
 19431430	_SOG IN	20282757	Miroschnikow et al. 2018	SOG IN left; PN into SOG very minor AL connectivity left	
 19470184	PC-IN-left	20282757	Miroschnikow et al. 2018		
-18356793	SEZ-IN-04-right	20282757	Miroschnikow et al. 2018		
-17698681	BAmas12 midline neuron 1 right	20282757	Miroschnikow et al. 2018		
-17651480	SEZ-IN-01-right	20282757	Miroschnikow et al. 2018		
-17641913	AF4: TOH left	20282757	Miroschnikow et al. 2018		
-17219367	SEZ-IN-06-right	20282757	Miroschnikow et al. 2018		
-17220054	SEZ-IN-A07-left	20282757	Miroschnikow et al. 2018		
-17225493	fork of GPhN (left) former SEZ IN - unfinished	20282757	Miroschnikow et al. 2018		
+19731864	Neuron 19731865	20282757	Miroschnikow et al. 2018		
+19816278	MB2IN-204	20282757	Miroschnikow et al. 2018	NPF-like 1 right	
+19912140	T1r asc contra 02	20282757	Miroschnikow et al. 2018		
+18440675	BAmas12 midline 3 left	20282757	Miroschnikow et al. 2018		
+17717854	KS LN 1 left	20282757	Miroschnikow et al. 2018		
+17716979	SEZ-IN-09-right	20282757	Miroschnikow et al. 2018		
+17706915	neuron 17706916	20282757	Miroschnikow et al. 2018		
 17254278	Pre-PMN-L-08	20282757	Miroschnikow et al. 2018		
 17254290	Pre-PMN-R-05	20282757	Miroschnikow et al. 2018		
 17256674	neuron 17256675	20282757	Miroschnikow et al. 2018		
@@ -273,10 +271,13 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17421902	neuron 17421903	20282757	Miroschnikow et al. 2018		
 17511972	SEZ-IN-? left	20282757	Miroschnikow et al. 2018		
 17587794	neuron 17587795	20282757	Miroschnikow et al. 2018		
-16988779	MB2IN-203	20282757	Miroschnikow et al. 2018	T2l asc medial soma 02	
-1540458	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
-19816278	MB2IN-204	20282757	Miroschnikow et al. 2018	NPF-like 1 right	
-1575789	SEZ-X-right	20282757	Miroschnikow et al. 2018		
+17641913	AF4: TOH left	20282757	Miroschnikow et al. 2018		
+17651480	SEZ-IN-01-right	20282757	Miroschnikow et al. 2018		
+17698681	BAmas12 midline neuron 1 right	20282757	Miroschnikow et al. 2018		
+17220054	SEZ-IN-A07-left	20282757	Miroschnikow et al. 2018		
+1334471	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
+12199926	SEZ-IN-10-right	20282757	Miroschnikow et al. 2018		
+1554836	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 6885133	SEZ-IN-A05-left - paired with #18354200	20282757	Miroschnikow et al. 2018		
 6802553	T1l asc contra 02	20282757	Miroschnikow et al. 2018		
 6794664	SEZ-IN-medial projections right	20282757	Miroschnikow et al. 2018		
@@ -288,8 +289,8 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 5378683	T1l Ascending into PC_left	20282757	Miroschnikow et al. 2018		
 5311299	T1r Ascending into PC_right	20282757	Miroschnikow et al. 2018		
 4992322	neuron 4992323 (MNB in SEZ?)	20282757	Miroschnikow et al. 2018		
-7020344	Gustatory PN 3	20282757	Miroschnikow et al. 2018	handlebar-like 4 right	
 4992273	neuron 4992274	20282757	Miroschnikow et al. 2018		
+4876704	Unknown PN 1	20282757	Miroschnikow et al. 2018	PN in Olfactory Bundle 1 right	
 4785242	AF3 thermo 3rd left	20282757	Miroschnikow et al. 2018		
 4620453	AVL011 PN Right 2?	20282757	Miroschnikow et al. 2018		
 4603253	neuron 4603254	20282757	Miroschnikow et al. 2018		
@@ -301,9 +302,10 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 3946166	MB2IN-206	20282757	Miroschnikow et al. 2018	Pre-goro3 left	
 3859195	Munin left 2	20282757	Miroschnikow et al. 2018		
 3801211	BC: neuron 3801212 - paired with #2147157	20282757	Miroschnikow et al. 2018		
-4876704	Unknown PN 1	20282757	Miroschnikow et al. 2018	PN in Olfactory Bundle 1 right	
+3762060	Bubsy Right	20282757	Miroschnikow et al. 2018		
+7020344	Gustatory PN 3	20282757	Miroschnikow et al. 2018	handlebar-like 4 right	
+3732322	SEZ-IN-32-right	20282757	Miroschnikow et al. 2018		
 7092086	Unknown PN 1	20282757	Miroschnikow et al. 2018	PN in Olfactory Bundle 1 left	
-7439388	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 7557604	MB2IN-150	20282757	Miroschnikow et al. 2018	L1: Short-presynapticD-3-L	
 12156009	Gustatory PN 3	20282757	Miroschnikow et al. 2018	handlebar-like 4 (no soma) left 	
 11946903	MB2IN-158	20282757	Miroschnikow et al. 2018	M1 ; Right	
@@ -330,109 +332,112 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 8254894	Unknown PN 2	20282757	Miroschnikow et al. 2018	PN in Olfactory Bundle 2 right	
 8169737	Input to MN motor neurons left - inputs to motor neurons on both sides	20282757	Miroschnikow et al. 2018		
 8012953	Unknown PN 2	20282757	Miroschnikow et al. 2018	PN in Olfactory Bundle 2 left	
-3762060	Bubsy Right	20282757	Miroschnikow et al. 2018		
-3732322	SEZ-IN-32-right	20282757	Miroschnikow et al. 2018		
+7439388	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 3728746	MB2IN-205	20282757	Miroschnikow et al. 2018	Munin right 1	
 3709977	Gustatory PN 2	20282757	Miroschnikow et al. 2018	backwards handlebar left (looks like 35a)	
-3276003	MB2IN-150	20282757	Miroschnikow et al. 2018	L1: Short-presynapticD-3-R	
-3189407	T2l asc contra 01	20282757	Miroschnikow et al. 2018		
-3158123	presynaptic-D-2-MAP-L left	20282757	Miroschnikow et al. 2018		
-3158085	AF5: Short-presynaptic-D-1L	20282757	Miroschnikow et al. 2018		
-3044500	MB2IN-172	20282757	Miroschnikow et al. 2018	DPLc1 Descending L	
-2936857	neuron 2936858	20282757	Miroschnikow et al. 2018		
-3414508	contra-vine left	20282757	Miroschnikow et al. 2018		
-2289486	neuron 2289487--11	20282757	Miroschnikow et al. 2018		
-2320454	neuron 2320455--12	20282757	Miroschnikow et al. 2018		
-2321929	interneuron missing cell bodies 5	20282757	Miroschnikow et al. 2018		
-2376542	SEZ-IN-12-right--14	20282757	Miroschnikow et al. 2018		
-2921933	V1: possible PVL005 - 3 Right	20282757	Miroschnikow et al. 2018		
-2432564	SEZ-IN-A01-right	20282757	Miroschnikow et al. 2018		
-2597151	AF5: Short-presynaptic-D-1R	20282757	Miroschnikow et al. 2018		
-1554836	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
-2200182	neuron 2200183--7	20282757	Miroschnikow et al. 2018		
-3356289	SEZ-IN-A06-right	20282757	Miroschnikow et al. 2018		
-3443129	T3r asc contra 01	20282757	Miroschnikow et al. 2018		
 3613276	Interneuron W right - Inputs from SE0 Serotonin - paired with #9787565	20282757	Miroschnikow et al. 2018		
+2936857	neuron 2936858	20282757	Miroschnikow et al. 2018		
+2921933	V1: possible PVL005 - 3 Right	20282757	Miroschnikow et al. 2018		
+1540458	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
+2679035	SEZ-IN-15-right	20282757	Miroschnikow et al. 2018		
+2597151	AF5: Short-presynaptic-D-1R	20282757	Miroschnikow et al. 2018		
+2432564	SEZ-IN-A01-right	20282757	Miroschnikow et al. 2018		
+2376542	SEZ-IN-12-right--14	20282757	Miroschnikow et al. 2018		
+2321929	interneuron missing cell bodies 5	20282757	Miroschnikow et al. 2018		
+2320454	neuron 2320455--12	20282757	Miroschnikow et al. 2018		
+2289486	neuron 2289487--11	20282757	Miroschnikow et al. 2018		
+2200182	neuron 2200183--7	20282757	Miroschnikow et al. 2018		
+2189894	neuron 2189895--5	20282757	Miroschnikow et al. 2018		
+2147157	BC: presynaptic -medial - paired with #3801211	20282757	Miroschnikow et al. 2018		
+2142817	MB2IN-146	20282757	Miroschnikow et al. 2018	pre-dorsal-MAP presynaptic-D-2-R left	
+2037005	neuron 2037006	20282757	Miroschnikow et al. 2018		
+1939616	neuron 1939617--1	20282757	Miroschnikow et al. 2018		
+1924051	BAmas12 midline neuron 1 left	20282757	Miroschnikow et al. 2018		
+1822302	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
+1575789	SEZ-X-right	20282757	Miroschnikow et al. 2018		
+3044500	MB2IN-172	20282757	Miroschnikow et al. 2018	DPLc1 Descending L	
+3158085	AF5: Short-presynaptic-D-1L	20282757	Miroschnikow et al. 2018		
+21664445	3rd-order Thermo right	20282757	Miroschnikow et al. 2018		
+3189407	T2l asc contra 01	20282757	Miroschnikow et al. 2018		
+3276003	MB2IN-150	20282757	Miroschnikow et al. 2018	L1: Short-presynapticD-3-R	
+3356289	SEZ-IN-A06-right	20282757	Miroschnikow et al. 2018		
 3498479	contra-vine right	20282757	Miroschnikow et al. 2018		
 3477008	SEZ-X-left	20282757	Miroschnikow et al. 2018		
+3414508	contra-vine left	20282757	Miroschnikow et al. 2018		
 3454765	SEZ-IN-A04-right	20282757	Miroschnikow et al. 2018		
-3436420	Pre PMN right	20282757	Miroschnikow et al. 2018		
-1822302	Interneuron--35 in total	20282757	Miroschnikow et al. 2018		
 3450751	Multiglomerular PN 5	20282757	Miroschnikow et al. 2018	mPN BAmd1-g right|mPN|MB2ON-164	
-1939616	neuron 1939617--1	20282757	Miroschnikow et al. 2018		
-2037005	neuron 2037006	20282757	Miroschnikow et al. 2018		
-2142817	MB2IN-146	20282757	Miroschnikow et al. 2018	pre-dorsal-MAP presynaptic-D-2-R left	
-2147157	BC: presynaptic -medial - paired with #3801211	20282757	Miroschnikow et al. 2018		
-2189894	neuron 2189895--5	20282757	Miroschnikow et al. 2018		
-1924051	BAmas12 midline neuron 1 left	20282757	Miroschnikow et al. 2018		
-2679035	SEZ-IN-15-right	20282757	Miroschnikow et al. 2018		
+3158123	presynaptic-D-2-MAP-L left	20282757	Miroschnikow et al. 2018		
+3436420	Pre PMN right	20282757	Miroschnikow et al. 2018		
+3443129	T3r asc contra 01	20282757	Miroschnikow et al. 2018		
 11024782	A08h2_a2l (Jupiter left, not NB3-3)	20498648	Jovanic et al. 2019		
 4228864	A08h2_a2r (Jupiter right, not NB3-3)	20498648	Jovanic et al. 2019		
-5308485	SEZ-DN1_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018		
 17350421	SEZ-DN1_right	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018		
 10223754	DN_mx (Descending neuron_mx)_r	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018		
 10216846	A27h?_t3l	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018		
+5308485	SEZ-DN1_left	20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018		
+20901068	MN6/7 RP3_a1r	20726614	Zarin, Mark et al. 2019		
+8026224	MN10 U2_a1l	20726614	Zarin, Mark et al. 2019		
 20901073	MN6/7 RP3_a1l	20726614	Zarin, Mark et al. 2019		
-14087107	MN30 RP4_a1r	20726614	Zarin, Mark et al. 2019		
+7867016	DLN2_a1l	20726614	Zarin, Mark et al. 2019		
+8263821	a03d/e_a1r	20726614	Zarin, Mark et al. 2019		
+14047130	MN2 ISN(U3-NB7-1?)_a1l	20726614	Zarin, Mark et al. 2019		
+12809874	feagment	20726614	Zarin, Mark et al. 2019		
+12825902	Neuron 20725668_fragment	20726614	Zarin, Mark et al. 2019		
+14045016	MN14 RP1_a1l	20726614	Zarin, Mark et al. 2019		
+16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	20726614	Zarin, Mark et al. 2019		
 16240665	A03xKT_a1l 	20726614	Zarin, Mark et al. 2019		
 15094230	DLN2_a1r 	20726614	Zarin, Mark et al. 2019		
 14206438	MN14 RP1_a1r	20726614	Zarin, Mark et al. 2019		
 14194234	MN30 RP4_a1l	20726614	Zarin, Mark et al. 2019		
 14048287	MN2 ISN(U3-NB7-1?)_a1r	20726614	Zarin, Mark et al. 2019		
 14047760	MN10 U2_a1r	20726614	Zarin, Mark et al. 2019		
-14047130	MN2 ISN(U3-NB7-1?)_a1l	20726614	Zarin, Mark et al. 2019		
-14045016	MN14 RP1_a1l	20726614	Zarin, Mark et al. 2019		
-12825902	Neuron 20725668_fragment	20726614	Zarin, Mark et al. 2019		
-12809874	feagment	20726614	Zarin, Mark et al. 2019		
 10089252	A03EGB_a2l (EGHBAL)	20726614	Zarin, Mark et al. 2019		
-8263821	a03d/e_a1r	20726614	Zarin, Mark et al. 2019		
-8026224	MN10 U2_a1l	20726614	Zarin, Mark et al. 2019		
-7867016	DLN2_a1l	20726614	Zarin, Mark et al. 2019		
-16713121	MN21/22 (RF:LT1/LT2) LT2_a1r  	20726614	Zarin, Mark et al. 2019		
-20901068	MN6/7 RP3_a1r	20726614	Zarin, Mark et al. 2019		
+14087107	MN30 RP4_a1r	20726614	Zarin, Mark et al. 2019		
 15290305	A03xKT_a1r	20726614	Zarin, Mark et al. 2019		
 6467481	MN21/22 (RF:LT1/LT2) LT2_a1l	20726614	Zarin, Mark et al. 2019		
-4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	20726614	Zarin, Mark et al. 2019		
-4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	20726614	Zarin, Mark et al. 2019		
-4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	20726614	Zarin, Mark et al. 2019		
-6570401	a03d/e_a1l	20726614	Zarin, Mark et al. 2019		
-4326468	MN8 (RF:SBM) LT3_a1l	20726614	Zarin, Mark et al. 2019		
-4848300	A03EGB_a2r (EGHBAL)	20726614	Zarin, Mark et al. 2019		
 4881629	MN8 (RF:SBM) LT3_a1r 	20726614	Zarin, Mark et al. 2019		
+4848300	A03EGB_a2r (EGHBAL)	20726614	Zarin, Mark et al. 2019		
+4326468	MN8 (RF:SBM) LT3_a1l	20726614	Zarin, Mark et al. 2019		
 4289773	MN23/24 (RF: LT3/LT4) LT4_a1l	20726614	Zarin, Mark et al. 2019		
+4121534	MN23/24 (RF: LT3/LT4) LT4_a1r  	20726614	Zarin, Mark et al. 2019		
+4102728	MN22/23 (RF:LT2/LT3) LT1_a1r  	20726614	Zarin, Mark et al. 2019		
+4042315	MN22/23 (RF:LT2/LT3) LT1_a1l	20726614	Zarin, Mark et al. 2019		
+6570401	a03d/e_a1l	20726614	Zarin, Mark et al. 2019		
+14522404	NB5-2 lineage 6 (HMD X?)_a1l	20726939	Mark et al. 2019		
+16112458	A03 neuron 16112459_a1l	20726939	Mark et al. 2019		
+16272893	A03 ipsilateral local_a1l	20726939	Mark et al. 2019		
+16504350	A01bx_a1l	20726939	Mark et al. 2019		
 18963687	A03?_a1l	20726939	Mark et al. 2019		
 17970304	A03?_post_A02k_a1l	20726939	Mark et al. 2019		
-17114293	A27k_up_a1l	20726939	Mark et al. 2019		
-16531827	A03 (upstream of A08m)_a1l	20726939	Mark et al. 2019		
-16504350	A01bx_a1l	20726939	Mark et al. 2019		
-16272893	A03 ipsilateral local_a1l	20726939	Mark et al. 2019		
-16112458	A03 neuron 16112459_a1l	20726939	Mark et al. 2019		
-14522404	NB5-2 lineage 6 (HMD X?)_a1l	20726939	Mark et al. 2019		
-12014775	A03_preA08m_a1l	20726939	Mark et al. 2019		
-10273060	A03d?_a1l	20726939	Mark et al. 2019		
 18509063	A06 (pre B5 01)_a1l	20726939	Mark et al. 2019		
+12014775	A03_preA08m_a1l	20726939	Mark et al. 2019		
+16531827	A03 (upstream of A08m)_a1l	20726939	Mark et al. 2019		
+10273060	A03d?_a1l	20726939	Mark et al. 2019		
+17114293	A27k_up_a1l	20726939	Mark et al. 2019		
 8840084	A01xxxxx_a1l	20726939	Mark et al. 2019		
-10089252	A03EGB_a2l (EGHBAL)	20726939	Mark et al. 2019		
-3504632	A02c?_a1l 	20726939	Mark et al. 2019		
-4313311	A03 neuron 4313312 (ad)_a1l	20726939	Mark et al. 2019		
-6570401	a03d/e_a1l	20726939	Mark et al. 2019		
-2042488	hook-2? t3l	20726939	Mark et al. 2019		
-7827470	A03xxx Ipsilateral mixed LN_a1l 	20726939	Mark et al. 2019		
-7855607	A14a2/c?_a1l	20726939	Mark et al. 2019		
 8235049	A06m_a1l	20726939	Mark et al. 2019		
+7855607	A14a2/c?_a1l	20726939	Mark et al. 2019		
+7827470	A03xxx Ipsilateral mixed LN_a1l 	20726939	Mark et al. 2019		
 6931770	A01x_l	20726939	Mark et al. 2019		
-17729146	BLDc s 6 Left	21218996	Andrade et al. 2019		
-17729141	BLDc s 5 Left	21218996	Andrade et al. 2019		
-17729136	BLDd s 2 Left	21218996	Andrade et al. 2019		
-17729131	BLDd s 3 Left	21218996	Andrade et al. 2019		
-17729126	BLDd s 1 Left	21218996	Andrade et al. 2019		
-17729116	BLAvm ant s 3 Left	21218996	Andrade et al. 2019		
+6570401	a03d/e_a1l	20726939	Mark et al. 2019		
+4313311	A03 neuron 4313312 (ad)_a1l	20726939	Mark et al. 2019		
+3504632	A02c?_a1l 	20726939	Mark et al. 2019		
+2042488	hook-2? t3l	20726939	Mark et al. 2019		
+10089252	A03EGB_a2l (EGHBAL)	20726939	Mark et al. 2019		
 17729105	BLAvm ant s 2 Left	21218996	Andrade et al. 2019		
+17729116	BLAvm ant s 3 Left	21218996	Andrade et al. 2019		
+17729126	BLDd s 1 Left	21218996	Andrade et al. 2019		
+17729146	BLDc s 6 Left	21218996	Andrade et al. 2019		
+17729136	BLDd s 2 Left	21218996	Andrade et al. 2019		
+17729141	BLDc s 5 Left	21218996	Andrade et al. 2019		
 17729078	BLAv12 pos s 2 Left	21218996	Andrade et al. 2019		
-17728927	Close to BLVa s Left	21218996	Andrade et al. 2019		
-17729073	BLAv12 pos s 3 Left	21218996	Andrade et al. 2019		
-17729056	BLAv12 pos s 1 Left	21218996	Andrade et al. 2019		
+17729151	BLDc s 2 Left	21218996	Andrade et al. 2019		
+17729156	BLDc s 3 Left	21218996	Andrade et al. 2019		
+17729131	BLDd s 3 Left	21218996	Andrade et al. 2019		
+17728933	Close to BLVa s Left	21218996	Andrade et al. 2019		
 17729005	BLAvm ant s 4 Left	21218996	Andrade et al. 2019		
+17729062	BLAv12 pos s 4 Left	21218996	Andrade et al. 2019		
+17729056	BLAv12 pos s 1 Left	21218996	Andrade et al. 2019		
 17728998	BLAvm ant s 5 Left	21218996	Andrade et al. 2019		
 17728991	BLAvm ant s 1 Left	21218996	Andrade et al. 2019		
 17728986	BLD x 1 s Left - Gap!	21218996	Andrade et al. 2019		
@@ -440,12 +445,12 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17728950	BLD x 1 s Left	21218996	Andrade et al. 2019		
 17728944	BLD x 1 s Left	21218996	Andrade et al. 2019		
 17728939	Close to BLVa s Left	21218996	Andrade et al. 2019		
-17728933	Close to BLVa s Left	21218996	Andrade et al. 2019		
-17729151	BLDc s 2 Left	21218996	Andrade et al. 2019		
-17729062	BLAv12 pos s 4 Left	21218996	Andrade et al. 2019		
-17729156	BLDc s 3 Left	21218996	Andrade et al. 2019		
-17729311	BLP34 b s 7 Left	21218996	Andrade et al. 2019		
+17729178	BLDc s 1 Left	21218996	Andrade et al. 2019		
+17729073	BLAv12 pos s 3 Left	21218996	Andrade et al. 2019		
 17729190	BLDc s 4 Left	21218996	Andrade et al. 2019		
+17729370	BLP34 a s 1 Left	21218996	Andrade et al. 2019		
+17729211	BLP12 a s 2 Left	21218996	Andrade et al. 2019		
+17730092	CPb s 5 Left	21218996	Andrade et al. 2019		
 17729822	CPa s 2 Left	21218996	Andrade et al. 2019		
 17729814	BLVa t s 3 Left	21218996	Andrade et al. 2019		
 17729458	BLVa34 b s 1 Left	21218996	Andrade et al. 2019		
@@ -455,11 +460,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17729394	BLVa12 a s 2 Left	21218996	Andrade et al. 2019		
 17729387	BLP34 b s 1 Left	21218996	Andrade et al. 2019		
 17729381	BLP34 b s 5 Left	21218996	Andrade et al. 2019		
-17729370	BLP34 a s 1 Left	21218996	Andrade et al. 2019		
-17729357	BLP12 b s 3 Left	21218996	Andrade et al. 2019		
-17728907	BLAv12 ant s 2Left - Gap	21218996	Andrade et al. 2019		
+17729206	BLP12 a s 8 Left	21218996	Andrade et al. 2019		
+17728927	Close to BLVa s Left	21218996	Andrade et al. 2019		
 17729341	BLP12 b s 2 Left	21218996	Andrade et al. 2019		
 17729316	BLP12 a s 3 Left	21218996	Andrade et al. 2019		
+17729311	BLP34 b s 7 Left	21218996	Andrade et al. 2019		
 17729249	BLP34 b s LEFT REVIEW	21218996	Andrade et al. 2019		
 17729244	BLP12 a s 6 Left	21218996	Andrade et al. 2019		
 17729239	BLP12 a s 1 Left	21218996	Andrade et al. 2019		
@@ -467,12 +472,12 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17729228	BLP12 a s 4 Left	21218996	Andrade et al. 2019		
 17729223	BLP12 a s 5 Left	21218996	Andrade et al. 2019		
 17729216	BLP12 a s 9 Left	21218996	Andrade et al. 2019		
-17729211	BLP12 a s 2 Left	21218996	Andrade et al. 2019		
-17729206	BLP12 a s 8 Left	21218996	Andrade et al. 2019		
-17729178	BLDc s 1 Left	21218996	Andrade et al. 2019		
-17728902	BLAv12 ant s 1 Left - GAP!	21218996	Andrade et al. 2019		
-17728737	BAlp ant s 3 Left 	21218996	Andrade et al. 2019		
-17728857	BLAd OL s 1 Left	21218996	Andrade et al. 2019		
+17729357	BLP12 b s 3 Left	21218996	Andrade et al. 2019		
+17728907	BLAv12 ant s 2Left - Gap	21218996	Andrade et al. 2019		
+17728747	BAlp ant s 5 Left 	21218996	Andrade et al. 2019		
+17728879	BLAd ven lat s 2 Left	21218996	Andrade et al. 2019		
+17728586	BAla34 s 3 Left	21218996	Andrade et al. 2019		
+17728581	BAla34 s 4 Left 	21218996	Andrade et al. 2019		
 17728566	BAla34 s 2 Left	21218996	Andrade et al. 2019		
 17728561	BAla34 s 6 Left	21218996	Andrade et al. 2019		
 17728556	BAla34 s 5 Left	21218996	Andrade et al. 2019		
@@ -481,10 +486,10 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17658847	BLV x 1 s Right	21218996	Andrade et al. 2019		
 17658643	BLVp2 s 8 Right	21218996	Andrade et al. 2019		
 17658634	BLVp2 s 6 Right	21218996	Andrade et al. 2019		
+17728622	BAlc post s 2 Left	21218996	Andrade et al. 2019		
 17654936	BLDc s 3 Right	21218996	Andrade et al. 2019		
-17654921	BLDc s 2 Right	21218996	Andrade et al. 2019		
-17728581	BAla34 s 4 Left 	21218996	Andrade et al. 2019		
 17654911	BLDc s 5 Right	21218996	Andrade et al. 2019		
+17653988	DALv23 s 1 Left	21218996	Andrade et al. 2019		
 17634436	TR BAlv s 7 Right	21218996	Andrade et al. 2019		
 17634407	BAlv s 2 Right	21218996	Andrade et al. 2019		
 17634397	BAlv s 1 Right	21218996	Andrade et al. 2019		
@@ -493,12 +498,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17629147	BAlp ant s 6 Right	21218996	Andrade et al. 2019		
 17588631	DPLc post med s 3 Right	21218996	Andrade et al. 2019		
 17583465	BLAl s 4 Right	21218996	Andrade et al. 2019		
-17562172	BLAd dor med nb 1	21218996	Andrade et al. 2019		
-17562098	DPLc post lat ant s 4 Right	21218996	Andrade et al. 2019		
-17653988	DALv23 s 1 Left	21218996	Andrade et al. 2019		
-17728586	BAla34 s 3 Left	21218996	Andrade et al. 2019		
-17728622	BAlc post s 2 Left	21218996	Andrade et al. 2019		
+17654921	BLDc s 2 Right	21218996	Andrade et al. 2019		
 17728627	BAlc post s 1 Left	21218996	Andrade et al. 2019		
+17728637	BAlc post s 3 Left	21218996	Andrade et al. 2019		
+17728642	BAlc post s 4 Left	21218996	Andrade et al. 2019		
+17728857	BLAd OL s 1 Left	21218996	Andrade et al. 2019		
 17728852	BLAd OL s 2 Left	21218996	Andrade et al. 2019		
 17728809	BLD x 3 Left	21218996	Andrade et al. 2019		
 17728803	BLD x 3 Left	21218996	Andrade et al. 2019		
@@ -507,9 +511,10 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17728776	BAlp4 s 1 Left  	21218996	Andrade et al. 2019		
 17728771	BAlp ant s 1 Left	21218996	Andrade et al. 2019		
 17728766	BAlp ant s 8 Left 	21218996	Andrade et al. 2019		
+17728761	BAlp ant s 6 Left 	21218996	Andrade et al. 2019		
 17728756	BAlp ant s 7 Left 	21218996	Andrade et al. 2019		
-17728747	BAlp ant s 5 Left 	21218996	Andrade et al. 2019		
-17730092	CPb s 5 Left	21218996	Andrade et al. 2019		
+17730108	CP23 v s 3 Left	21218996	Andrade et al. 2019		
+17728737	BAlp ant s 3 Left 	21218996	Andrade et al. 2019		
 17728718	BAlp int s 5 Left 	21218996	Andrade et al. 2019		
 17728707	BAlp ant int s 1 Left 	21218996	Andrade et al. 2019		
 17728690	BAlp int s 1 Left 	21218996	Andrade et al. 2019		
@@ -520,12 +525,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17728662	BAlp int s 6 Left	21218996	Andrade et al. 2019		
 17728657	BAlp int s 3 Left 	21218996	Andrade et al. 2019		
 17728647	BAlp ant s 2  Left 	21218996	Andrade et al. 2019		
-17728642	BAlc post s 4 Left	21218996	Andrade et al. 2019		
-17728637	BAlc post s 3 Left	21218996	Andrade et al. 2019		
-17728879	BLAd ven lat s 2 Left	21218996	Andrade et al. 2019		
-17730108	CP23 v s 3 Left	21218996	Andrade et al. 2019		
-17732251	DPLl i s 1 Left	21218996	Andrade et al. 2019		
-17730121	CPb s 2 Left	21218996	Andrade et al. 2019		
+17728902	BLAv12 ant s 1 Left - GAP!	21218996	Andrade et al. 2019		
+17730115	CPb s 4 Left	21218996	Andrade et al. 2019		
+17732589	DPMl12 pos s 3 Left	21218996	Andrade et al. 2019		
+17730159	CP23 v s 2 Left	21218996	Andrade et al. 2019		
+19395651	BAmv12 int s 5 Left	21218996	Andrade et al. 2019		
 19395562	BAmd2 d s 1 Left	21218996	Andrade et al. 2019		
 19393756	BAmd2 v s 5 Left	21218996	Andrade et al. 2019		
 19393744	BAmd2 v s 8 Left	21218996	Andrade et al. 2019		
@@ -535,9 +539,9 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 19389353	DPLd s 2 Left	21218996	Andrade et al. 2019		
 19389347	DPLd s 4 Left	21218996	Andrade et al. 2019		
 19389343	DPLd s 1 Left	21218996	Andrade et al. 2019		
+19395656	BAmv12 dor s 9 Left	21218996	Andrade et al. 2019		
 19389333	DPLd s 5 Left	21218996	Andrade et al. 2019		
-19395651	BAmv12 int s 5 Left	21218996	Andrade et al. 2019		
-19389329	DPLd s 6 Left	21218996	Andrade et al. 2019		
+19389324	DPLd s 3 Left	21218996	Andrade et al. 2019		
 19376664	DPMpm2 ppFB 1 - Right	21218996	Andrade et al. 2019		
 19376581	DPMpm1 ppFB 1 - Left	21218996	Andrade et al. 2019		
 19376569	DPMpm1 ppFB 3 - Left	21218996	Andrade et al. 2019		
@@ -547,12 +551,12 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 19375193	DPMpm2 ppFB 4 - Right	21218996	Andrade et al. 2019		
 19375188	DPMpm2 ppFB 2 - Right	21218996	Andrade et al. 2019		
 19375183	DPMpm2 ppFB 3 - Right	21218996	Andrade et al. 2019		
+19389329	DPLd s 6 Left	21218996	Andrade et al. 2019		
 19375118	DPMm1 ppFB s 2 Right	21218996	Andrade et al. 2019		
-19389324	DPLd s 3 Left	21218996	Andrade et al. 2019		
-19395656	BAmv12 dor s 9 Left	21218996	Andrade et al. 2019		
 19395698	BAmd2 s left	21218996	Andrade et al. 2019		
-19395704	BAmd2 v s 6 Left	21218996	Andrade et al. 2019		
-17562074	DPLc post lat ant s 3 Right	21218996	Andrade et al. 2019		
+19396494	BAmv12 dor s 7 Left	21218996	Andrade et al. 2019		
+17562172	BLAd dor med nb 1	21218996	Andrade et al. 2019		
+21462953	BLAv12 pos s	21218996	Andrade et al. 2019		
 20443342	BLP3/4 b s RIGHT SU Neuron* NEW	21218996	Andrade et al. 2019		
 19851505	BAlp ant s 9 Right	21218996	Andrade et al. 2019		
 19806028	BLAl s 2 Left	21218996	Andrade et al. 2019		
@@ -560,10 +564,9 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 19701236	BLAl s 3 Left	21218996	Andrade et al. 2019		
 19560124	DPMl34 pos s 2 Left	21218996	Andrade et al. 2019		
 19539248	DPLc post lat s 6 Left	21218996	Andrade et al. 2019		
-19539229	DPLc post med s 2 Left	21218996	Andrade et al. 2019		
 19538646	BLAl s 4 Left	21218996	Andrade et al. 2019		
+19395704	BAmd2 v s 6 Left	21218996	Andrade et al. 2019		
 19437159	DPLm1 s 1 Left	21218996	Andrade et al. 2019		
-19437152	DPLm2 s 1 Left	21218996	Andrade et al. 2019		
 19433138	DPMl34 ant s 2 Left	21218996	Andrade et al. 2019		
 19428881	DPLc post lat ant s 1 Left	21218996	Andrade et al. 2019		
 19422319	BLP12 b s 4 Left	21218996	Andrade et al. 2019		
@@ -574,11 +577,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 19396517	BAmv12 int s 4 Left	21218996	Andrade et al. 2019		
 19396510	BAmv12 int s 1 Left	21218996	Andrade et al. 2019		
 19396502	BAmv12 int s 3 Left	21218996	Andrade et al. 2019		
-19396494	BAmv12 dor s 7 Left	21218996	Andrade et al. 2019		
+19437152	DPLm2 s 1 Left	21218996	Andrade et al. 2019		
 19375103	DPMm1 ppFB s 1 Right	21218996	Andrade et al. 2019		
-17730115	CPb s 4 Left	21218996	Andrade et al. 2019		
 19375019	CM4 s ppFB 1 Right	21218996	Andrade et al. 2019		
-19361212	DPLc5 s 3 Left	21218996	Andrade et al. 2019		
+19362116	BLD x 1 s Left	21218996	Andrade et al. 2019		
+17733164	TR BAlv s 7 Left	21218996	Andrade et al. 2019		
 17733148	TR BAlv s 5 Left	21218996	Andrade et al. 2019		
 17733134	TR Balv s 1 Left	21218996	Andrade et al. 2019		
 17733126	TR BAlv s 4 Left	21218996	Andrade et al. 2019		
@@ -588,9 +591,9 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17732864	BAmas12 ven s 3 Left	21218996	Andrade et al. 2019		
 17732858	BAmas12 ven s 4 Left	21218996	Andrade et al. 2019		
 17732661	DPMl12 pos s 1 Left	21218996	Andrade et al. 2019		
-17732589	DPMl12 pos s 3 Left	21218996	Andrade et al. 2019		
-17733164	TR BAlv s 7 Left	21218996	Andrade et al. 2019		
+17733172	TR BAlv s 6 Left	21218996	Andrade et al. 2019		
 17732486	DPMl12 pos s 2 Left	21218996	Andrade et al. 2019		
+17732231	DPLl p s 3 Left	21218996	Andrade et al. 2019		
 17732223	DPLl p s 2 Left	21218996	Andrade et al. 2019		
 17732214	DPLl p s 1 Left	21218996	Andrade et al. 2019		
 17732203	DPLl i s 2 Left	21218996	Andrade et al. 2019		
@@ -600,11 +603,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17731956	DALl1 s 4 Left	21218996	Andrade et al. 2019		
 17731951	DALl1 s 3 Left	21218996	Andrade et al. 2019		
 17731941	DALl1 s 5 Left; NB?	21218996	Andrade et al. 2019		
-17730159	CP23 v s 2 Left	21218996	Andrade et al. 2019		
-17732231	DPLl p s 3 Left	21218996	Andrade et al. 2019		
-17733172	TR BAlv s 6 Left	21218996	Andrade et al. 2019		
+17732251	DPLl i s 1 Left	21218996	Andrade et al. 2019		
 17733182	TR Balv s 2 Left	21218996	Andrade et al. 2019		
 17733190	TR Balv s 8 Left	21218996	Andrade et al. 2019		
+17733478	TR Balv s 3 Left	21218996	Andrade et al. 2019		
+19361212	DPLc5 s 3 Left	21218996	Andrade et al. 2019		
 19361208	DPLc5 s 2 Left	21218996	Andrade et al. 2019		
 19359287	BAlv s 2 Left	21218996	Andrade et al. 2019		
 19359257	BAlv s 1 Left	21218996	Andrade et al. 2019		
@@ -627,31 +630,31 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 17736450	BAla34 s 1 Left	21218996	Andrade et al. 2019		
 17733525	BAmas12 ven s 1 Left	21218996	Andrade et al. 2019		
 17733517	BAmas12 ven s 5 Left	21218996	Andrade et al. 2019		
-17733478	TR Balv s 3 Left	21218996	Andrade et al. 2019		
-19362116	BLD x 1 s Left	21218996	Andrade et al. 2019		
-17562037	DPLc post lat ant s 5 Right	21218996	Andrade et al. 2019		
+17730121	CPb s 2 Left	21218996	Andrade et al. 2019		
+17562098	DPLc post lat ant s 4 Right	21218996	Andrade et al. 2019		
 3021394	DPMl12 ant s 7 Right	21218996	Andrade et al. 2019		
-17560904	DPLc post med s 2 Right	21218996	Andrade et al. 2019		
+17562037	DPLc post lat ant s 5 Right	21218996	Andrade et al. 2019		
+13202894	DPLam s 1 Left	21218996	Andrade et al. 2019		
 12996024	DPMl34 pos s 1 Right	21218996	Andrade et al. 2019		
 12995472	DPMl34 pos s 2 Right	21218996	Andrade et al. 2019		
 12993051	DPLc post lat s 5 Right	21218996	Andrade et al. 2019		
 12992011	DPLc post lat s 7 Right	21218996	Andrade et al. 2019		
 12991032	DPLc post lat s 6 Right	21218996	Andrade et al. 2019		
 12988149	DPMl34 ant s 3 Right	21218996	Andrade et al. 2019		
+13216296	DPMl12 pos s 7 Right	21218996	Andrade et al. 2019		
 12986939	DPMl34 ant s 2 Right	21218996	Andrade et al. 2019		
-13202894	DPLam s 1 Left	21218996	Andrade et al. 2019		
-12985971	DPMl34 ant s 1 Right	21218996	Andrade et al. 2019		
+12984739	DPLd s 3 Right	21218996	Andrade et al. 2019		
 12982435	DPLd s 2 Right	21218996	Andrade et al. 2019		
 12981110	DPLc ant lat s 5 Right	21218996	Andrade et al. 2019		
 12979804	DPLc ant lat s 3 Right	21218996	Andrade et al. 2019		
 12978829	DPLc ant lat s 6 Right	21218996	Andrade et al. 2019		
 12927136	BAmd2 v s 3 Left	21218996	Andrade et al. 2019		
 12880792	BLDc s 4 Right	21218996	Andrade et al. 2019		
-12877880	BLDc s 1 Right	21218996	Andrade et al. 2019		
-12984739	DPLd s 3 Right	21218996	Andrade et al. 2019		
-13216296	DPMl12 pos s 7 Right	21218996	Andrade et al. 2019		
+12985971	DPMl34 ant s 1 Right	21218996	Andrade et al. 2019		
 13217452	DPMl12 pos s 6 Right	21218996	Andrade et al. 2019		
 13217639	DPMl12 pos s 5 Right	21218996	Andrade et al. 2019		
+13217922	DPMl12 pos s 4 Right	21218996	Andrade et al. 2019		
+13389208	DPLc post lat ant s 1 Right	21218996	Andrade et al. 2019		
 13364562	DPMpm1 s 3 Right	21218996	Andrade et al. 2019		
 13362478	DPMm1 s longit 1	21218996	Andrade et al. 2019		
 13345002	DPMpm1 s 5 Right	21218996	Andrade et al. 2019		
@@ -668,11 +671,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 13234578	DPMm1 s Right	21218996	Andrade et al. 2019		
 13220541	DPMl ant dor nb 1_TODO	21218996	Andrade et al. 2019		
 13218289	DPMl12 pos s 3 Right	21218996	Andrade et al. 2019		
-13217922	DPMl12 pos s 4 Right	21218996	Andrade et al. 2019		
+12877880	BLDc s 1 Right	21218996	Andrade et al. 2019		
 12847167	DPLc post lat s 3 Right	21218996	Andrade et al. 2019		
-13389208	DPLc post lat ant s 1 Right	21218996	Andrade et al. 2019		
 12846265	DPLc post lat s 2 Right	21218996	Andrade et al. 2019		
-12755280	DPLl i s 2 Right	21218996	Andrade et al. 2019		
+12845026	DPLc post lat s 1 Right	21218996	Andrade et al. 2019		
+12498192	DPMm2 ppFB ant dor s 2 Left 	21218996	Andrade et al. 2019		
 12494383	CM4 s ppFB 7 Left	21218996	Andrade et al. 2019		
 12488233	DPMm1 ppFB s 7 Left	21218996	Andrade et al. 2019		
 12477165	BAlc post s 5 Left	21218996	Andrade et al. 2019		
@@ -680,8 +683,8 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 12449484	DPMpm2 ppFB 3 - Left	21218996	Andrade et al. 2019		
 12446997	CP23 ppFB s 1 Left	21218996	Andrade et al. 2019		
 12445523	CM4 s ppFB 2 Left	21218996	Andrade et al. 2019		
-12498192	DPMm2 ppFB ant dor s 2 Left 	21218996	Andrade et al. 2019		
 12385468	BLVa t s 4 Left	21218996	Andrade et al. 2019		
+12372419	BLVa t s 2 Left	21218996	Andrade et al. 2019		
 12367466	CM4 s dor pos MEF 1 Right	21218996	Andrade et al. 2019		
 12367292	CM4 s ppFB 8 Right - ends before 601 	21218996	Andrade et al. 2019		
 12365683	BLVa t s 1 Left	21218996	Andrade et al. 2019		
@@ -689,10 +692,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 12361947	DPMm1 ppFB s 6 Left	21218996	Andrade et al. 2019		
 12347886	CM4 s ppFB 4 Right	21218996	Andrade et al. 2019		
 12346676	CM4 s ppFB 2 Right 	21218996	Andrade et al. 2019		
-12372419	BLVa t s 2 Left	21218996	Andrade et al. 2019		
 12530013	CM4 s ppFB 1 Left	21218996	Andrade et al. 2019		
+13407007	DPMm1 s longit med 2	21218996	Andrade et al. 2019		
 12532127	DPMm1 ppFB s 4 Right	21218996	Andrade et al. 2019		
-12532152	DPMm1 ppFB s 5 Right	21218996	Andrade et al. 2019		
+12546782	DPLal-13 s 3 Right	21218996	Andrade et al. 2019		
+12755280	DPLl i s 2 Right	21218996	Andrade et al. 2019		
 12751130	DPLl i s 3 Right	21218996	Andrade et al. 2019		
 12749099	DPLl i s 1 Right	21218996	Andrade et al. 2019		
 12747607	DPLl p s 1 Right	21218996	Andrade et al. 2019		
@@ -709,31 +713,31 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 12570095	DPLam s 1 Right	21218996	Andrade et al. 2019		
 12549257	DPLal1-3 s 1 Right	21218996	Andrade et al. 2019		
 12549053	DPLal1-3 s 4 Right	21218996	Andrade et al. 2019		
-12546782	DPLal-13 s 3 Right	21218996	Andrade et al. 2019		
-12845026	DPLc post lat s 1 Right	21218996	Andrade et al. 2019		
-13407007	DPMm1 s longit med 2	21218996	Andrade et al. 2019		
+12532152	DPMm1 ppFB s 5 Right	21218996	Andrade et al. 2019		
+12345792	CM4 s ppFB 3 Right	21218996	Andrade et al. 2019		
 13410103	DPMm1 s longit med 1	21218996	Andrade et al. 2019		
-13410891	DPMm1 desc s med 2 Right	21218996	Andrade et al. 2019		
+13411388	DPMm1 s longit 2	21218996	Andrade et al. 2019		
+14267091	DPMm1 ant comm s 2 Left	21218996	Andrade et al. 2019		
 14267037	DAMd1 s 1 Left	21218996	Andrade et al. 2019		
 14266964	DPMm1 ant comm s 1 Left	21218996	Andrade et al. 2019		
 14266761	DPMl12 ant s 8 Left	21218996	Andrade et al. 2019		
 14266565	CM4 s GC 4 Left	21218996	Andrade et al. 2019		
 14266559	DPMpm2 s loSM 3 Left	21218996	Andrade et al. 2019		
 14266512	DPMpl3 s 2 Left	21218996	Andrade et al. 2019		
+14267149	DAMd23 s 3 Left	21218996	Andrade et al. 2019		
 14266491	CM4 s ppFB 3 Left	21218996	Andrade et al. 2019		
-14267091	DPMm1 ant comm s 2 Left	21218996	Andrade et al. 2019		
-14266486	CM4 s ven 3 Left	21218996	Andrade et al. 2019		
+14266481	CM4 s ppFB 5 Left	21218996	Andrade et al. 2019		
 14266471	CM4 s short pos 4 Left	21218996	Andrade et al. 2019		
 14266451	CM4 s dor pos MEF 1 Left	21218996	Andrade et al. 2019		
 14266446	CM4 s ven 4 Left	21218996	Andrade et al. 2019		
 14266430	CM4 s ppFB 4 Left	21218996	Andrade et al. 2019		
 14266415	CM4 s GC 5 Left	21218996	Andrade et al. 2019		
 14266405	DPLc5 s 5 Left	21218996	Andrade et al. 2019		
-14266400	DPLc5 s 1 Left	21218996	Andrade et al. 2019		
-14266481	CM4 s ppFB 5 Left	21218996	Andrade et al. 2019		
-14267149	DAMd23 s 3 Left	21218996	Andrade et al. 2019		
+14266486	CM4 s ven 3 Left	21218996	Andrade et al. 2019		
 14267160	DAMd23 s 1 Left	21218996	Andrade et al. 2019		
 14267170	BAmd2 v s 1 Left	21218996	Andrade et al. 2019		
+14267175	BAmd1 d s 4 Left	21218996	Andrade et al. 2019		
+14504039	BLP12 b s 1 Left	21218996	Andrade et al. 2019		
 14504029	CP23 v s 1 Left	21218996	Andrade et al. 2019		
 14504024	BLP34 b s 3 Left	21218996	Andrade et al. 2019		
 14448545	BLVp2 s 2 Left	21218996	Andrade et al. 2019		
@@ -750,11 +754,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 14423343	CPf s 4 Left	21218996	Andrade et al. 2019		
 14403560	DPMpm2 ppFB 1 - Left	21218996	Andrade et al. 2019		
 14271622	CM13 med s 3 Left	21218996	Andrade et al. 2019		
-14267175	BAmd1 d s 4 Left	21218996	Andrade et al. 2019		
+14266400	DPLc5 s 1 Left	21218996	Andrade et al. 2019		
 14266395	CM13 med s 7 Left	21218996	Andrade et al. 2019		
 14266386	CM13 med s 9 Left	21218996	Andrade et al. 2019		
 14266304	CM13 med s 6 Left	21218996	Andrade et al. 2019		
-14266284	CM13 med s 5 Left	21218996	Andrade et al. 2019		
+13735199	BAmv12 dor s 9 Right	21218996	Andrade et al. 2019		
 13734996	BAmv12 dor s 8 Right	21218996	Andrade et al. 2019		
 13734815	BAmv12 dor s 7 Right	21218996	Andrade et al. 2019		
 13734645	BAmv12 int s 1 Right	21218996	Andrade et al. 2019		
@@ -771,11 +775,11 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 13454509	DPMm1 s 2	21218996	Andrade et al. 2019		
 13451589	DPMm1 ant comm s 2 Right	21218996	Andrade et al. 2019		
 13411400	DPMm1 s desc med 1	21218996	Andrade et al. 2019		
-13411388	DPMm1 s longit 2	21218996	Andrade et al. 2019		
-13735199	BAmv12 dor s 9 Right	21218996	Andrade et al. 2019		
-12345792	CM4 s ppFB 3 Right	21218996	Andrade et al. 2019		
 13756873	BAmd2 d s 1 Right	21218996	Andrade et al. 2019		
-13759971	BAmd2 v s 2 Right	21218996	Andrade et al. 2019		
+13410891	DPMm1 desc s med 2 Right	21218996	Andrade et al. 2019		
+13758977	BAmd2 v s 5 Right	21218996	Andrade et al. 2019		
+13760269	BAmd2 v s 4 Right	21218996	Andrade et al. 2019		
+14266284	CM13 med s 5 Left	21218996	Andrade et al. 2019		
 14266277	CM13 med s 4 Left	21218996	Andrade et al. 2019		
 14265600	CPf s 1 Left	21218996	Andrade et al. 2019		
 14265559	CM13 med s 1 Left	21218996	Andrade et al. 2019		
@@ -792,10 +796,9 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 13838330	BAmd2 v s 3 Right	21218996	Andrade et al. 2019		
 13836912	BAmd2 v s 1 Right 	21218996	Andrade et al. 2019		
 13760579	BAmd2 v s 6 Right	21218996	Andrade et al. 2019		
-13760269	BAmd2 v s 4 Right	21218996	Andrade et al. 2019		
-13758977	BAmd2 v s 5 Right	21218996	Andrade et al. 2019		
+13759971	BAmd2 v s 2 Right	21218996	Andrade et al. 2019		
+14504044	BLP34 a s 6 Left	21218996	Andrade et al. 2019		
 12345237	DPMpm2 s 1 Right	21218996	Andrade et al. 2019		
-12343219	DPMpm2 ppFB 5 - Right	21218996	Andrade et al. 2019		
 12290287	CM4 s ppFB 7 Right	21218996	Andrade et al. 2019		
 8893368	BLP34 a s 2 Right	21218996	Andrade et al. 2019		
 8814452	BAmv12 int s 6 Left	21218996	Andrade et al. 2019		
@@ -877,7 +880,7 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 5517913	BAla12 s 1 Right	21218996	Andrade et al. 2019		
 5166338	BAmv12 ven s 1 Right	21218996	Andrade et al. 2019		
 4663668	BLAd OL s 3 Left	21218996	Andrade et al. 2019		
-14504039	BLP12 b s 1 Left	21218996	Andrade et al. 2019		
+12343219	DPMpm2 ppFB 5 - Right	21218996	Andrade et al. 2019		
 9949223	DPMm1 ppFB s 2 Left	21218996	Andrade et al. 2019		
 9950404	DPMm1 Left	21218996	Andrade et al. 2019		
 11179035	BLVa12 b s 2 Right	21218996	Andrade et al. 2019		
@@ -960,260 +963,122 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 10303172	BLAd ven lat s 1 Right	21218996	Andrade et al. 2019		
 10302790	BLAd ven lat s 2 Right	21218996	Andrade et al. 2019		
 10297957	DPMm1 ppFB s 5 Left	21218996	Andrade et al. 2019		
-17562001	DPLc post lat ant s 2 Right	21218996	Andrade et al. 2019		
-17728761	BAlp ant s 6 Left 	21218996	Andrade et al. 2019		
-14914072	CP23 v s 2 Right	21218996	Andrade et al. 2019		
-14979933	DPLc ant lat s 5 Left	21218996	Andrade et al. 2019		
-14977890	DPMl12 ant s 1 Left	21218996	Andrade et al. 2019		
-14977878	DPMl12 ant s 2 Left	21218996	Andrade et al. 2019		
-14977871	DPMl12 ant s 7 Left	21218996	Andrade et al. 2019		
-14976953	DPLc ant lat s 1 Left	21218996	Andrade et al. 2019		
+17562074	DPLc post lat ant s 3 Right	21218996	Andrade et al. 2019		
+19539229	DPLc post med s 2 Left	21218996	Andrade et al. 2019		
 14976461	DPLc ant lat s 6 Left	21218996	Andrade et al. 2019		
-14973453	DPMl34 pos s 1 Left	21218996	Andrade et al. 2019		
-14981042	DPMl12 pos s 5 Left	21218996	Andrade et al. 2019		
-14973317	DPLc ant lat s 4 Left	21218996	Andrade et al. 2019		
-14973307	DPLc ant lat s 3 Left	21218996	Andrade et al. 2019		
-14973302	DPMl12 pos s 4 Left	21218996	Andrade et al. 2019		
-14973297	DPMl12 ant s 5 Left	21218996	Andrade et al. 2019		
-14973287	DPMl34 ant s 1 Left	21218996	Andrade et al. 2019		
-14973282	DPMl34 ant s 2 Left	21218996	Andrade et al. 2019		
-14914162	CPc s 1 Right -  Lose at gap	21218996	Andrade et al. 2019		
-14914157	CPb s 3 Right	21218996	Andrade et al. 2019		
-14973312	DPLc ant lat s 2 Left	21218996	Andrade et al. 2019		
-14914152	CPb s 1 Right	21218996	Andrade et al. 2019		
-14981280	DPLc s Left	21218996	Andrade et al. 2019		
-15077059	DPMl12 ant s 3 Left	21218996	Andrade et al. 2019		
-15078692	BAmv12 dor s 1 Left 	21218996	Andrade et al. 2019		
-15078687	BAmd1 v s 4 Left	21218996	Andrade et al. 2019		
-15078682	BAmd1 v s 2 Left	21218996	Andrade et al. 2019		
-15078659	DALcm12 v s 2 Left	21218996	Andrade et al. 2019		
-15078654	DALcm12 v s 7 Left	21218996	Andrade et al. 2019		
-15078649	DALcm12 v s 5 Left	21218996	Andrade et al. 2019		
-15078644	DALcm12 v s 4 Left	21218996	Andrade et al. 2019		
-14981285	DPLc post med s 4 Left	21218996	Andrade et al. 2019		
-15078639	BAmd1 d s 3 Left	21218996	Andrade et al. 2019		
-15078629	DALcm12 v s 1 Left	21218996	Andrade et al. 2019		
-15078624	DALcm12 v s Left	21218996	Andrade et al. 2019		
-15078600	DALcm12 v s 7 Left	21218996	Andrade et al. 2019		
-15078595	DALcl12 d s 9 Left	21218996	Andrade et al. 2019		
-15078590	DALcl12 d s 1 Left	21218996	Andrade et al. 2019		
-15078585	DALd s 6 Left	21218996	Andrade et al. 2019		
-15078580	DALd s 5 Left	21218996	Andrade et al. 2019		
-15078634	DALcm12 v s 3 Left	21218996	Andrade et al. 2019		
-15078697	BAmv12 dor s 6 Left	21218996	Andrade et al. 2019		
-14914142	CP23 v s 7 Right	21218996	Andrade et al. 2019		
-14914127	CPb s 2 Right	21218996	Andrade et al. 2019		
+14787518	DALcl12 d s 10 Right	21218996	Andrade et al. 2019		
+14788579	DALcl12 d s 7 Right	21218996	Andrade et al. 2019		
+14797204	DALcl12 d s 3 Right	21218996	Andrade et al. 2019		
+14819319	DALcm12 v s 1 Right	21218996	Andrade et al. 2019		
+14821704	DALcm12 v s 7 Right	21218996	Andrade et al. 2019		
+14822335	DALcm12 v s 5 Right	21218996	Andrade et al. 2019		
+14786951	DALcl12 d s 11 Right	21218996	Andrade et al. 2019		
+14822830	DALcm12 m s 2 Right	21218996	Andrade et al. 2019		
+14848137	BAmd1 v s 3 Right	21218996	Andrade et al. 2019		
+14849956	BAmd1 v s 1 Right	21218996	Andrade et al. 2019		
+14851773	BAmd1 v s 2 Right	21218996	Andrade et al. 2019		
+14877179	DAMd1 s 1 Right	21218996	Andrade et al. 2019		
+14914072	CP23 v s 2 Right	21218996	Andrade et al. 2019		
+14914087	CP23 v s 3 Right	21218996	Andrade et al. 2019		
+14847176	DALcm12 v s 2 Right	21218996	Andrade et al. 2019		
+14786448	DALcl12 d s 8 Right	21218996	Andrade et al. 2019		
 14761692	DALl1 10 d SU 	21218996	Andrade et al. 2019		
 14751624	DALl1 s 3 Right	21218996	Andrade et al. 2019		
-14751048	DALl1 s 2 Right	21218996	Andrade et al. 2019		
-14749848	DALl1 s 4 Right	21218996	Andrade et al. 2019		
-14727248	DALl1 s 1 Right	21218996	Andrade et al. 2019		
-14724804	DALv23 s 1 Right	21218996	Andrade et al. 2019		
-14720300	CPd s 3 Right	21218996	Andrade et al. 2019		
-14786448	DALcl12 d s 8 Right	21218996	Andrade et al. 2019		
-14720293	CPf s 2 Right	21218996	Andrade et al. 2019		
-14684577	CM13 med s 2 Right	21218996	Andrade et al. 2019		
-14644884	CM4 s dor pos com 1 Right	21218996	Andrade et al. 2019		
-14632529	CM4 s GC 3 Right	21218996	Andrade et al. 2019		
-14630736	CM4 s dor pos MEF 6 Right	21218996	Andrade et al. 2019		
-14630424	CM4 s MEFcom 6 Right	21218996	Andrade et al. 2019		
-14630189	CM4 s dor pos MEF 2 Right	21218996	Andrade et al. 2019		
-14628429	CM4 s ppFB 9 Right	21218996	Andrade et al. 2019		
-14720288	CPa s 3 Right	21218996	Andrade et al. 2019		
-14914137	CPb s 5 Right	21218996	Andrade et al. 2019		
-14786951	DALcl12 d s 11 Right	21218996	Andrade et al. 2019		
-14788579	DALcl12 d s 7 Right	21218996	Andrade et al. 2019		
-14914117	CP23 v s 4 Right	21218996	Andrade et al. 2019		
-14914112	BLP34 a s 9 Right	21218996	Andrade et al. 2019		
-14914102	BLP34 b s 7 Right	21218996	Andrade et al. 2019		
-14914097	BLP12 b s 2 Right	21218996	Andrade et al. 2019		
-14914087	CP23 v s 3 Right	21218996	Andrade et al. 2019		
-17376835	TR BAlv s 6 Right	21218996	Andrade et al. 2019		
-14877179	DAMd1 s 1 Right	21218996	Andrade et al. 2019		
-14787518	DALcl12 d s 10 Right	21218996	Andrade et al. 2019		
-14851773	BAmd1 v s 2 Right	21218996	Andrade et al. 2019		
-14848137	BAmd1 v s 3 Right	21218996	Andrade et al. 2019		
-14847176	DALcm12 v s 2 Right	21218996	Andrade et al. 2019		
-14822830	DALcm12 m s 2 Right	21218996	Andrade et al. 2019		
-14822335	DALcm12 v s 5 Right	21218996	Andrade et al. 2019		
-14821704	DALcm12 v s 7 Right	21218996	Andrade et al. 2019		
-14819319	DALcm12 v s 1 Right	21218996	Andrade et al. 2019		
-14797204	DALcl12 d s 3 Right	21218996	Andrade et al. 2019		
-14849956	BAmd1 v s 1 Right	21218996	Andrade et al. 2019		
-15078705	DALcm12 v s 6 Left	21218996	Andrade et al. 2019		
-15079785	CPb s 3 Left	21218996	Andrade et al. 2019		
-15119833	DALd s 4 Left	21218996	Andrade et al. 2019		
-17352444	BLP12 a s 3 Right	21218996	Andrade et al. 2019		
-17352429	BLP12 a s 2 Right	21218996	Andrade et al. 2019		
-17352424	BLP12 a s 1 Right	21218996	Andrade et al. 2019		
-17343664	CM13 med s 8 Left	21218996	Andrade et al. 2019		
-17193070	CP1v a s 1 Left	21218996	Andrade et al. 2019		
-17192980	CP1v a s 2 Left	21218996	Andrade et al. 2019		
-17114027	BLVa12 a s 1 Left	21218996	Andrade et al. 2019		
-17352452	BLP12 b s 5 Right	21218996	Andrade et al. 2019		
-17110221	DALcl12 v s 1 Left	21218996	Andrade et al. 2019		
-17102940	DALcl12 d s 10 Left	21218996	Andrade et al. 2019		
-17102874	DALcl12 v s 2 Left	21218996	Andrade et al. 2019		
-17102765	DALcl12 v s 3 Left	21218996	Andrade et al. 2019		
-17102750	DALcl12 d s 3 Left	21218996	Andrade et al. 2019		
-17102687	DALcl12 d s 4 Left	21218996	Andrade et al. 2019		
-17102618	DALcl12 d s 5 Left	21218996	Andrade et al. 2019		
-17102547	DALcl12 d s 6 Left	21218996	Andrade et al. 2019		
-17102996	DALcl12 d s 2 Left	21218996	Andrade et al. 2019		
-17102418	DALcl12 d s 7 Left	21218996	Andrade et al. 2019		
-17352476	DPMpl12 s 2 loSM Right	21218996	Andrade et al. 2019		
-17355495	CPb s 1 Left	21218996	Andrade et al. 2019		
-17372894	BLP34 a s 3 Right	21218996	Andrade et al. 2019		
-17372181	BLP12 a s 7 Right	21218996	Andrade et al. 2019		
-17371662	BLP12 a s 9 Right	21218996	Andrade et al. 2019		
-17371651	BLP12 a s 8 Right	21218996	Andrade et al. 2019		
-17371530	BLP12 a s 10 Right	21218996	Andrade et al. 2019		
-17371351	BLP12 a s 6 Right	21218996	Andrade et al. 2019		
-17371295	BLP12 a s 5 Right	21218996	Andrade et al. 2019		
-17354423	DPMl12 ant s 6 Left	21218996	Andrade et al. 2019		
-17371245	BLP12 a s 4 Right	21218996	Andrade et al. 2019		
-17371133	BLP12 b s 3 Right	21218996	Andrade et al. 2019		
-17370898	BLP12 b s 1 Right	21218996	Andrade et al. 2019		
-17361570	BLAv12 ant s 1 Right	21218996	Andrade et al. 2019		
-17360026	DPLal1-3 s 4 Left	21218996	Andrade et al. 2019		
-17356020	BAla34 s 1 Right	21218996	Andrade et al. 2019		
-17355888	BAla34 s 3 Right	21218996	Andrade et al. 2019		
-17355884	BAla34 s 4 Right	21218996	Andrade et al. 2019		
-17371213	BLP12 b s 4 Right	21218996	Andrade et al. 2019		
-17102148	DALcl12 d s 8 Left	21218996	Andrade et al. 2019		
-17048093	Neuron 17048094 immature	21218996	Andrade et al. 2019		
-17022787	DALd s 2 Right	21218996	Andrade et al. 2019		
-15825481	DPLc post lat ant s 3 Left	21218996	Andrade et al. 2019		
-15732533	BAmv12 int s 6 Right	21218996	Andrade et al. 2019		
-15732515	BAmv12 ven s 2 Right	21218996	Andrade et al. 2019		
-15674294	BAlp4 s 1 Right	21218996	Andrade et al. 2019		
-15583282	CPe s 1 Left	21218996	Andrade et al. 2019		
-15582537	CPe s 1 Right	21218996	Andrade et al. 2019		
-15541956	BAmd1 d s 1 Left	21218996	Andrade et al. 2019		
-15825924	DPLc post lat s 4 Left	21218996	Andrade et al. 2019		
-15387603	CPe s 2 Left	21218996	Andrade et al. 2019		
-15152956	DALd s 7 Right	21218996	Andrade et al. 2019		
-15140301	BAmv12 dor s 3 Left	21218996	Andrade et al. 2019		
-15140015	BAmv12 dor s 5 Left	21218996	Andrade et al. 2019		
-15139746	BAmv12 dor s 4 Left	21218996	Andrade et al. 2019		
-15139341	BAmd1 d s 2 Left	21218996	Andrade et al. 2019		
-15131659	BLDd s 4 Left	21218996	Andrade et al. 2019		
-15130939	BLDd s 5 Left	21218996	Andrade et al. 2019		
-15153709	DALd s 8 Right	21218996	Andrade et al. 2019		
-15867651	DPLc post lat ant s 2 Left	21218996	Andrade et al. 2019		
-15868439	DPLc post lat ant s 4 Left	21218996	Andrade et al. 2019		
-16014372	BLD x 3 Left	21218996	Andrade et al. 2019		
-16952654	DALd s 3 Left	21218996	Andrade et al. 2019		
-16950736	DALd s 1 Right	21218996	Andrade et al. 2019		
-16950404	DALd s 4 Right	21218996	Andrade et al. 2019		
-16950391	DALd s 3 Right	21218996	Andrade et al. 2019		
-16938723	CM4 s ppFB 8 Left	21218996	Andrade et al. 2019		
-16784307	CP23 v s 8 Right	21218996	Andrade et al. 2019		
-16698830	BLAv12 pos s 1 right	21218996	Andrade et al. 2019		
-16698716	BLAv12 pos s 2 Right	21218996	Andrade et al. 2019		
-16645923	DPLl p s 4 Left	21218996	Andrade et al. 2019		
-16547306	BAmv12 ven s 3 Left	21218996	Andrade et al. 2019		
-16544705	BAmv12 ven s 1 Left	21218996	Andrade et al. 2019		
-16544695	BAmv12 int s 2 Left	21218996	Andrade et al. 2019		
-16544689	BAmv12 int s 7 Left	21218996	Andrade et al. 2019		
-16491111	DPLc5 s 4 Left	21218996	Andrade et al. 2019		
-16461910	BAlc post s 6 Left	21218996	Andrade et al. 2019		
-16318947	BAmas12 ven s 5 Right	21218996	Andrade et al. 2019		
-16046580	BLVa12 b s 1 Left	21218996	Andrade et al. 2019		
 14547447	CPf s 4 Right	21218996	Andrade et al. 2019		
+14628429	CM4 s ppFB 9 Right	21218996	Andrade et al. 2019		
+14630189	CM4 s dor pos MEF 2 Right	21218996	Andrade et al. 2019		
+14630424	CM4 s MEFcom 6 Right	21218996	Andrade et al. 2019		
+14630736	CM4 s dor pos MEF 6 Right	21218996	Andrade et al. 2019		
+14632529	CM4 s GC 3 Right	21218996	Andrade et al. 2019		
+14644884	CM4 s dor pos com 1 Right	21218996	Andrade et al. 2019		
+14684577	CM13 med s 2 Right	21218996	Andrade et al. 2019		
+14720288	CPa s 3 Right	21218996	Andrade et al. 2019		
+14720293	CPf s 2 Right	21218996	Andrade et al. 2019		
+14720300	CPd s 3 Right	21218996	Andrade et al. 2019		
+14724804	DALv23 s 1 Right	21218996	Andrade et al. 2019		
+14727248	DALl1 s 1 Right	21218996	Andrade et al. 2019		
+14749848	DALl1 s 4 Right	21218996	Andrade et al. 2019		
+14751048	DALl1 s 2 Right	21218996	Andrade et al. 2019		
+14914097	BLP12 b s 2 Right	21218996	Andrade et al. 2019		
+14914102	BLP34 b s 7 Right	21218996	Andrade et al. 2019		
+14914112	BLP34 a s 9 Right	21218996	Andrade et al. 2019		
+14914117	CP23 v s 4 Right	21218996	Andrade et al. 2019		
+14981042	DPMl12 pos s 5 Left	21218996	Andrade et al. 2019		
+14981285	DPLc post med s 4 Left	21218996	Andrade et al. 2019		
+15077059	DPMl12 ant s 3 Left	21218996	Andrade et al. 2019		
+15078580	DALd s 5 Left	21218996	Andrade et al. 2019		
+15078585	DALd s 6 Left	21218996	Andrade et al. 2019		
+15078590	DALcl12 d s 1 Left	21218996	Andrade et al. 2019		
+15078595	DALcl12 d s 9 Left	21218996	Andrade et al. 2019		
+15078600	DALcm12 v s 7 Left	21218996	Andrade et al. 2019		
+15078624	DALcm12 v s Left	21218996	Andrade et al. 2019		
+15078629	DALcm12 v s 1 Left	21218996	Andrade et al. 2019		
+15078634	DALcm12 v s 3 Left	21218996	Andrade et al. 2019		
+15078639	BAmd1 d s 3 Left	21218996	Andrade et al. 2019		
+15078644	DALcm12 v s 4 Left	21218996	Andrade et al. 2019		
+15078649	DALcm12 v s 5 Left	21218996	Andrade et al. 2019		
+15078654	DALcm12 v s 7 Left	21218996	Andrade et al. 2019		
+14979933	DPLc ant lat s 5 Left	21218996	Andrade et al. 2019		
 14547442	CPe s 2 Right	21218996	Andrade et al. 2019		
+14977890	DPMl12 ant s 1 Left	21218996	Andrade et al. 2019		
+14977871	DPMl12 ant s 7 Left	21218996	Andrade et al. 2019		
+14914127	CPb s 2 Right	21218996	Andrade et al. 2019		
+14914137	CPb s 5 Right	21218996	Andrade et al. 2019		
+14914142	CP23 v s 7 Right	21218996	Andrade et al. 2019		
+14914152	CPb s 1 Right	21218996	Andrade et al. 2019		
+14914157	CPb s 3 Right	21218996	Andrade et al. 2019		
+14914162	CPc s 1 Right -  Lose at gap	21218996	Andrade et al. 2019		
+14973282	DPMl34 ant s 2 Left	21218996	Andrade et al. 2019		
+14973287	DPMl34 ant s 1 Left	21218996	Andrade et al. 2019		
+14973297	DPMl12 ant s 5 Left	21218996	Andrade et al. 2019		
+14973302	DPMl12 pos s 4 Left	21218996	Andrade et al. 2019		
+14973307	DPLc ant lat s 3 Left	21218996	Andrade et al. 2019		
+14973312	DPLc ant lat s 2 Left	21218996	Andrade et al. 2019		
+14973317	DPLc ant lat s 4 Left	21218996	Andrade et al. 2019		
+14973453	DPMl34 pos s 1 Left	21218996	Andrade et al. 2019		
+14976953	DPLc ant lat s 1 Left	21218996	Andrade et al. 2019		
+14977878	DPMl12 ant s 2 Left	21218996	Andrade et al. 2019		
 14547437	CPd s 2 Right	21218996	Andrade et al. 2019		
 14547432	CM13 lat s 1 Right	21218996	Andrade et al. 2019		
-17378530	BLVa34 b s 1 Right	21218996	Andrade et al. 2019		
-17378636	DPMl12 pos s 1 Right	21218996	Andrade et al. 2019		
-17378746	DPLc ant lat s 1 Right	21218996	Andrade et al. 2019		
-17379121	BLAv12 ant s 2 Right	21218996	Andrade et al. 2019		
-17379283	CM4-dm Tiny a right; CM4 dor med_r; CM4 dor ant 5	21218996	Andrade et al. 2019		
-17380013	BLVp2 s 1 Right	21218996	Andrade et al. 2019		
-17380192	BLVp2 s 3 Right	21218996	Andrade et al. 2019		
-17378469	DPLal1-3 s 2 Right	21218996	Andrade et al. 2019		
-17380214	BLVp2 s 4 Right	21218996	Andrade et al. 2019		
-17380305	CP23 v s 5 Right	21218996	Andrade et al. 2019		
-17383068	BLP34 a s 5 Right	21218996	Andrade et al. 2019		
-17390677	BLVa t s 5 Right	21218996	Andrade et al. 2019		
-17390746	BLVa t s 4 Right	21218996	Andrade et al. 2019		
-17390766	BLVa t s 1 Right	21218996	Andrade et al. 2019		
-17390827	BLVa t s 2 Right	21218996	Andrade et al. 2019		
-17390884	BLVa t s 3 Right (Lost to Gap)	21218996	Andrade et al. 2019		
-17380245	BLVp2 s 2 Right	21218996	Andrade et al. 2019		
-17436919	CP23 v s 1 Right	21218996	Andrade et al. 2019		
-17377891	BLVa12 a s 1 Right	21218996	Andrade et al. 2019		
-17376857	TR BAlv s 5 Right	21218996	Andrade et al. 2019		
-14546664	DPMl12 pos s 2 Right	21218996	Andrade et al. 2019		
-14546624	DPMpm1 s 1 Right	21218996	Andrade et al. 2019		
-14546614	DPMl12 ant s 2 Right	21218996	Andrade et al. 2019		
-14546609	DPMl12 ant s 1 Right	21218996	Andrade et al. 2019		
-14546579	DPMl12 ant s 4 Right	21218996	Andrade et al. 2019		
-14546554	DPMl12 ant s 5 Right	21218996	Andrade et al. 2019		
-14546549	DPMl12 ant s 6 Right	21218996	Andrade et al. 2019		
-17377722	DALl1 s 7 Right	21218996	Andrade et al. 2019		
-14546516	DALcm12 m s 1 Right	21218996	Andrade et al. 2019		
-14504075	BLVp2 s 4 Left	21218996	Andrade et al. 2019		
-14504070	BLP34 b s 4 Left	21218996	Andrade et al. 2019		
-14504065	BLP34 a s 2 Left 	21218996	Andrade et al. 2019		
-14504060	BLP34 a s 3 Left	21218996	Andrade et al. 2019		
-14504049	BLP12 b s 5 Left	21218996	Andrade et al. 2019		
-14504044	BLP34 a s 6 Left	21218996	Andrade et al. 2019		
-17376845	TR BAlv s 2 Right	21218996	Andrade et al. 2019		
-14546463	DAMd23 s 1 Right	21218996	Andrade et al. 2019		
-17437048	CPc s 2 Right- Lost at Gap	21218996	Andrade et al. 2019		
-17470004	DPMpm1 s 1 Left	21218996	Andrade et al. 2019		
-17472091	CPe s NB 1 Left	21218996	Andrade et al. 2019		
-17545755	BAlc post s 8 Right	21218996	Andrade et al. 2019		
-17545766	BAlc post s 5 Right	21218996	Andrade et al. 2019		
-17545782	BAlc post s 2 Right	21218996	Andrade et al. 2019		
-17545795	BAlc post s 4 Right	21218996	Andrade et al. 2019		
-17545806	BAlc post s 3 Right	21218996	Andrade et al. 2019		
-17545868	BAlc post s 7 Right (sp)	21218996	Andrade et al. 2019		
-17545878	BAlc post s NB 1 Right 	21218996	Andrade et al. 2019		
-17545744	BAlc post s 6 Right	21218996	Andrade et al. 2019		
-17545905	BAlc post s 1 Right	21218996	Andrade et al. 2019		
-17547011	BAla34 s 6 Right	21218996	Andrade et al. 2019		
-17555058	BAmv12 int s 2 Right	21218996	Andrade et al. 2019		
-17557183	DPLd s 7 Right	21218996	Andrade et al. 2019		
-17557234	DPLd s 6 Right	21218996	Andrade et al. 2019		
-17560205	DPLc5 s 1 Right	21218996	Andrade et al. 2019		
-17560221	DPLc5 s 3 Right	21218996	Andrade et al. 2019		
-17560864	DPLc post med s 1 Right	21218996	Andrade et al. 2019		
-17546995	BAla34 s 5 Right	21218996	Andrade et al. 2019		
-17545296	BAlp ant s 5 Right	21218996	Andrade et al. 2019		
-17545271	BAlp ant s 4 Right	21218996	Andrade et al. 2019		
-17545234	BAlp ant s 3 Right	21218996	Andrade et al. 2019		
-17472365	BAmd1 v s 1 Left	21218996	Andrade et al. 2019		
-17475177	DPMm1 s Left	21218996	Andrade et al. 2019		
-17486011	DALcm12 m s 1 Left	21218996	Andrade et al. 2019		
-17519292	BLDd s 1 Right	21218996	Andrade et al. 2019		
-17519416	BLDd s 2 Right	21218996	Andrade et al. 2019		
-17519537	BLDd s 3 Right	21218996	Andrade et al. 2019		
-17523403	DPLl p s 2 Right	21218996	Andrade et al. 2019		
-17544220	BLAvm ant s 1 Right	21218996	Andrade et al. 2019		
-17544238	BLAvm ant s 2 Right	21218996	Andrade et al. 2019		
-17544280	BLAvm ant s 3 Right	21218996	Andrade et al. 2019		
-17544312	BLAvm ant s 4 Right	21218996	Andrade et al. 2019		
-17544330	BLAvm ant s 5 Right	21218996	Andrade et al. 2019		
-17545164	BAlp post s 2 Right	21218996	Andrade et al. 2019		
-17545179	BAlp post s 3 Right	21218996	Andrade et al. 2019		
-17545195	BAlp post s 4 Right	21218996	Andrade et al. 2019		
-17545203	BAlp ant s 1 Right	21218996	Andrade et al. 2019		
-17545221	BAlp ant s 2 Right	21218996	Andrade et al. 2019		
-14546674	DPMpl12 s NB 1 Right	21218996	Andrade et al. 2019		
-17376806	TR BAlv s 3 Right	21218996	Andrade et al. 2019		
-14546704	DPMpm2 s NB 2 Right	21218996	Andrade et al. 2019		
+14547416	CM13 med s 6 Right	21218996	Andrade et al. 2019		
+14546749	CM4 s ven 4 Right	21218996	Andrade et al. 2019		
+14546774	CM4 s short pos 1 Right	21218996	Andrade et al. 2019		
+14546779	DPMpl12 s 1 Right	21218996	Andrade et al. 2019		
+14546809	CM4 s loSM 1 Right	21218996	Andrade et al. 2019		
+14546829	CM4 s loSM 2 Right	21218996	Andrade et al. 2019		
+14546834	CM4 s MEFcom 3 Right	21218996	Andrade et al. 2019		
+14546854	CM4 s short pos 2 Right	21218996	Andrade et al. 2019		
+14546864	DPMpl3 s 1 Right	21218996	Andrade et al. 2019		
+14546874	CM4 s loSM 3 Right	21218996	Andrade et al. 2019		
+14546879	CM4 s ven 1 Right	21218996	Andrade et al. 2019		
+14546885	DPMpl3 s 2 Right	21218996	Andrade et al. 2019		
+14546895	CM4 s ven 6 Right	21218996	Andrade et al. 2019		
+14546910	CM4 s MEFcom 4 Right	21218996	Andrade et al. 2019		
+14546926	CM4 s dor pos MEF 5 Right	21218996	Andrade et al. 2019		
+14546936	CM4 s loSM 4 Right	21218996	Andrade et al. 2019		
+14546734	CM4 s MEFcom 5 Right	21218996	Andrade et al. 2019		
+14546951	DPLc s 9	21218996	Andrade et al. 2019		
 14546724	DPMpm2 s 2 Right	21218996	Andrade et al. 2019		
-14547157	CM4 s GC 4 Right	21218996	Andrade et al. 2019		
-14547167	DPLc5 s 4 Right	21218996	Andrade et al. 2019		
-14547173	CM4 s loSM 9 Right	21218996	Andrade et al. 2019		
-14547178	CM4 s dor pos com 4 Right	21218996	Andrade et al. 2019		
-14547189	CM4 s loSM 10 Right	21218996	Andrade et al. 2019		
-14547214	CM4 s MEFcom 2 Right	21218996	Andrade et al. 2019		
-14547219	DPLc5 s 2 Right	21218996	Andrade et al. 2019		
-14547234	CM4 s dor pos MEF 4 Right	21218996	Andrade et al. 2019		
+14546704	DPMpm2 s NB 2 Right	21218996	Andrade et al. 2019		
+14504049	BLP12 b s 5 Left	21218996	Andrade et al. 2019		
+14504060	BLP34 a s 3 Left	21218996	Andrade et al. 2019		
+14504065	BLP34 a s 2 Left 	21218996	Andrade et al. 2019		
+14504070	BLP34 b s 4 Left	21218996	Andrade et al. 2019		
+14504075	BLVp2 s 4 Left	21218996	Andrade et al. 2019		
+14546463	DAMd23 s 1 Right	21218996	Andrade et al. 2019		
+14546516	DALcm12 m s 1 Right	21218996	Andrade et al. 2019		
+14546549	DPMl12 ant s 6 Right	21218996	Andrade et al. 2019		
+14546554	DPMl12 ant s 5 Right	21218996	Andrade et al. 2019		
+14546579	DPMl12 ant s 4 Right	21218996	Andrade et al. 2019		
+14546609	DPMl12 ant s 1 Right	21218996	Andrade et al. 2019		
+14546614	DPMl12 ant s 2 Right	21218996	Andrade et al. 2019		
+14546624	DPMpm1 s 1 Right	21218996	Andrade et al. 2019		
+14546664	DPMl12 pos s 2 Right	21218996	Andrade et al. 2019		
+14546674	DPMpl12 s NB 1 Right	21218996	Andrade et al. 2019		
 14546714	DPMpm2 s 3 Right	21218996	Andrade et al. 2019		
+15078659	DALcm12 v s 2 Left	21218996	Andrade et al. 2019		
+14546956	CM4 s ven 5 Right	21218996	Andrade et al. 2019		
+14547001	CM4 s GC 2 Right	21218996	Andrade et al. 2019		
 14547254	CM13 med s 9 Right	21218996	Andrade et al. 2019		
 14547291	CM13 med s 8 Right	21218996	Andrade et al. 2019		
 14547296	CM13 lat s 3 Right	21218996	Andrade et al. 2019		
@@ -1229,123 +1094,575 @@ skid	name	paper_id	paper_name	synonyms	FBbt_ID
 14547401	CPf s 3 Right	21218996	Andrade et al. 2019		
 14547406	CPd s 1 Right	21218996	Andrade et al. 2019		
 14547411	CPd s 4 Right	21218996	Andrade et al. 2019		
-14547416	CM13 med s 6 Right	21218996	Andrade et al. 2019		
-14547152	CM4 s dor pos com 3 Right	21218996	Andrade et al. 2019		
-14547147	CM4 s loSM 8 Right	21218996	Andrade et al. 2019		
 14547239	CM13 med s 4 Right	21218996	Andrade et al. 2019		
-14547091	CM4 s loSM 7 Right	21218996	Andrade et al. 2019		
-14546734	CM4 s MEFcom 5 Right	21218996	Andrade et al. 2019		
-14546749	CM4 s ven 4 Right	21218996	Andrade et al. 2019		
-14546774	CM4 s short pos 1 Right	21218996	Andrade et al. 2019		
-14546779	DPMpl12 s 1 Right	21218996	Andrade et al. 2019		
-14546809	CM4 s loSM 1 Right	21218996	Andrade et al. 2019		
-14546829	CM4 s loSM 2 Right	21218996	Andrade et al. 2019		
-14546834	CM4 s MEFcom 3 Right	21218996	Andrade et al. 2019		
-14546854	CM4 s short pos 2 Right	21218996	Andrade et al. 2019		
-14546864	DPMpl3 s 1 Right	21218996	Andrade et al. 2019		
-14546874	CM4 s loSM 3 Right	21218996	Andrade et al. 2019		
-14547101	CM4 s dor pos com 2 Right	21218996	Andrade et al. 2019		
-14546879	CM4 s ven 1 Right	21218996	Andrade et al. 2019		
-14546885	DPMpl3 s 2 Right	21218996	Andrade et al. 2019		
-17376829	TR BAlv s 1 Right	21218996	Andrade et al. 2019		
-14546910	CM4 s MEFcom 4 Right	21218996	Andrade et al. 2019		
-14546951	DPLc s 9	21218996	Andrade et al. 2019		
-14546956	CM4 s ven 5 Right	21218996	Andrade et al. 2019		
-14546936	CM4 s loSM 4 Right	21218996	Andrade et al. 2019		
-14546895	CM4 s ven 6 Right	21218996	Andrade et al. 2019		
-14547001	CM4 s GC 2 Right	21218996	Andrade et al. 2019		
-14547006	DPMpl3 s 3 Right	21218996	Andrade et al. 2019		
 14546986	CM4 s GC 1 Right	21218996	Andrade et al. 2019		
+14547234	CM4 s dor pos MEF 4 Right	21218996	Andrade et al. 2019		
+14547214	CM4 s MEFcom 2 Right	21218996	Andrade et al. 2019		
+14547006	DPMpl3 s 3 Right	21218996	Andrade et al. 2019		
+14547041	CM4 s dor pos MEF 3 Right	21218996	Andrade et al. 2019		
 14547046	CM4 s short pos 4 Right	21218996	Andrade et al. 2019		
 14547066	CM4 s ven 7 Right	21218996	Andrade et al. 2019		
 14547081	CM4 s loSM 5 Right	21218996	Andrade et al. 2019		
 14547086	CM4 s loSM 6 Right	21218996	Andrade et al. 2019		
-14546926	CM4 s dor pos MEF 5 Right	21218996	Andrade et al. 2019		
-14547041	CM4 s dor pos MEF 3 Right	21218996	Andrade et al. 2019		
+14547091	CM4 s loSM 7 Right	21218996	Andrade et al. 2019		
+14547101	CM4 s dor pos com 2 Right	21218996	Andrade et al. 2019		
+14547147	CM4 s loSM 8 Right	21218996	Andrade et al. 2019		
+14547152	CM4 s dor pos com 3 Right	21218996	Andrade et al. 2019		
+14547157	CM4 s GC 4 Right	21218996	Andrade et al. 2019		
+14547167	DPLc5 s 4 Right	21218996	Andrade et al. 2019		
+14547173	CM4 s loSM 9 Right	21218996	Andrade et al. 2019		
+14547178	CM4 s dor pos com 4 Right	21218996	Andrade et al. 2019		
+14547189	CM4 s loSM 10 Right	21218996	Andrade et al. 2019		
+14547219	DPLc5 s 2 Right	21218996	Andrade et al. 2019		
+15078682	BAmd1 v s 2 Left	21218996	Andrade et al. 2019		
+14981280	DPLc s Left	21218996	Andrade et al. 2019		
+15078692	BAmv12 dor s 1 Left 	21218996	Andrade et al. 2019		
+17545905	BAlc post s 1 Right	21218996	Andrade et al. 2019		
+17545878	BAlc post s NB 1 Right 	21218996	Andrade et al. 2019		
+17545868	BAlc post s 7 Right (sp)	21218996	Andrade et al. 2019		
+17545806	BAlc post s 3 Right	21218996	Andrade et al. 2019		
+17545795	BAlc post s 4 Right	21218996	Andrade et al. 2019		
+17545782	BAlc post s 2 Right	21218996	Andrade et al. 2019		
+17546995	BAla34 s 5 Right	21218996	Andrade et al. 2019		
+17545766	BAlc post s 5 Right	21218996	Andrade et al. 2019		
+17545744	BAlc post s 6 Right	21218996	Andrade et al. 2019		
+17545296	BAlp ant s 5 Right	21218996	Andrade et al. 2019		
+17545271	BAlp ant s 4 Right	21218996	Andrade et al. 2019		
+17545234	BAlp ant s 3 Right	21218996	Andrade et al. 2019		
+17545221	BAlp ant s 2 Right	21218996	Andrade et al. 2019		
+17376845	TR BAlv s 2 Right	21218996	Andrade et al. 2019		
+17545755	BAlc post s 8 Right	21218996	Andrade et al. 2019		
+17547011	BAla34 s 6 Right	21218996	Andrade et al. 2019		
+17555058	BAmv12 int s 2 Right	21218996	Andrade et al. 2019		
+17557183	DPLd s 7 Right	21218996	Andrade et al. 2019		
+17371295	BLP12 a s 5 Right	21218996	Andrade et al. 2019		
+17371351	BLP12 a s 6 Right	21218996	Andrade et al. 2019		
+17371530	BLP12 a s 10 Right	21218996	Andrade et al. 2019		
+17371651	BLP12 a s 8 Right	21218996	Andrade et al. 2019		
+17371662	BLP12 a s 9 Right	21218996	Andrade et al. 2019		
+17372181	BLP12 a s 7 Right	21218996	Andrade et al. 2019		
+17372894	BLP34 a s 3 Right	21218996	Andrade et al. 2019		
+17376806	TR BAlv s 3 Right	21218996	Andrade et al. 2019		
+17376829	TR BAlv s 1 Right	21218996	Andrade et al. 2019		
+17376835	TR BAlv s 6 Right	21218996	Andrade et al. 2019		
+17560864	DPLc post med s 1 Right	21218996	Andrade et al. 2019		
+17560221	DPLc5 s 3 Right	21218996	Andrade et al. 2019		
+17560205	DPLc5 s 1 Right	21218996	Andrade et al. 2019		
+17557234	DPLd s 6 Right	21218996	Andrade et al. 2019		
+15078687	BAmd1 v s 4 Left	21218996	Andrade et al. 2019		
+17376857	TR BAlv s 5 Right	21218996	Andrade et al. 2019		
+17377722	DALl1 s 7 Right	21218996	Andrade et al. 2019		
+17377891	BLVa12 a s 1 Right	21218996	Andrade et al. 2019		
+17378469	DPLal1-3 s 2 Right	21218996	Andrade et al. 2019		
+17472091	CPe s NB 1 Left	21218996	Andrade et al. 2019		
+17472365	BAmd1 v s 1 Left	21218996	Andrade et al. 2019		
+17475177	DPMm1 s Left	21218996	Andrade et al. 2019		
+17486011	DALcm12 m s 1 Left	21218996	Andrade et al. 2019		
+17519292	BLDd s 1 Right	21218996	Andrade et al. 2019		
+17519416	BLDd s 2 Right	21218996	Andrade et al. 2019		
+17519537	BLDd s 3 Right	21218996	Andrade et al. 2019		
+17523403	DPLl p s 2 Right	21218996	Andrade et al. 2019		
+17544220	BLAvm ant s 1 Right	21218996	Andrade et al. 2019		
+17544238	BLAvm ant s 2 Right	21218996	Andrade et al. 2019		
+17544280	BLAvm ant s 3 Right	21218996	Andrade et al. 2019		
+17544312	BLAvm ant s 4 Right	21218996	Andrade et al. 2019		
+17544330	BLAvm ant s 5 Right	21218996	Andrade et al. 2019		
+17545164	BAlp post s 2 Right	21218996	Andrade et al. 2019		
+17545179	BAlp post s 3 Right	21218996	Andrade et al. 2019		
+17470004	DPMpm1 s 1 Left	21218996	Andrade et al. 2019		
+17371245	BLP12 a s 4 Right	21218996	Andrade et al. 2019		
+17437048	CPc s 2 Right- Lost at Gap	21218996	Andrade et al. 2019		
+17390884	BLVa t s 3 Right (Lost to Gap)	21218996	Andrade et al. 2019		
+17378530	BLVa34 b s 1 Right	21218996	Andrade et al. 2019		
+17378636	DPMl12 pos s 1 Right	21218996	Andrade et al. 2019		
+17378746	DPLc ant lat s 1 Right	21218996	Andrade et al. 2019		
+17379121	BLAv12 ant s 2 Right	21218996	Andrade et al. 2019		
+17379283	CM4-dm Tiny a right; CM4 dor med_r; CM4 dor ant 5	21218996	Andrade et al. 2019		
+17380013	BLVp2 s 1 Right	21218996	Andrade et al. 2019		
+17380192	BLVp2 s 3 Right	21218996	Andrade et al. 2019		
+17380214	BLVp2 s 4 Right	21218996	Andrade et al. 2019		
+17380245	BLVp2 s 2 Right	21218996	Andrade et al. 2019		
+17380305	CP23 v s 5 Right	21218996	Andrade et al. 2019		
+17383068	BLP34 a s 5 Right	21218996	Andrade et al. 2019		
+17390677	BLVa t s 5 Right	21218996	Andrade et al. 2019		
+17390746	BLVa t s 4 Right	21218996	Andrade et al. 2019		
+17390766	BLVa t s 1 Right	21218996	Andrade et al. 2019		
+17390827	BLVa t s 2 Right	21218996	Andrade et al. 2019		
+17436919	CP23 v s 1 Right	21218996	Andrade et al. 2019		
+17371213	BLP12 b s 4 Right	21218996	Andrade et al. 2019		
+17371133	BLP12 b s 3 Right	21218996	Andrade et al. 2019		
+17370898	BLP12 b s 1 Right	21218996	Andrade et al. 2019		
+15732533	BAmv12 int s 6 Right	21218996	Andrade et al. 2019		
+15825481	DPLc post lat ant s 3 Left	21218996	Andrade et al. 2019		
+15825924	DPLc post lat s 4 Left	21218996	Andrade et al. 2019		
+17560904	DPLc post med s 2 Right	21218996	Andrade et al. 2019		
+15867651	DPLc post lat ant s 2 Left	21218996	Andrade et al. 2019		
+15868439	DPLc post lat ant s 4 Left	21218996	Andrade et al. 2019		
+16014372	BLD x 3 Left	21218996	Andrade et al. 2019		
+16046580	BLVa12 b s 1 Left	21218996	Andrade et al. 2019		
+16318947	BAmas12 ven s 5 Right	21218996	Andrade et al. 2019		
+16461910	BAlc post s 6 Left	21218996	Andrade et al. 2019		
+16491111	DPLc5 s 4 Left	21218996	Andrade et al. 2019		
+16544689	BAmv12 int s 7 Left	21218996	Andrade et al. 2019		
+16544695	BAmv12 int s 2 Left	21218996	Andrade et al. 2019		
+16544705	BAmv12 ven s 1 Left	21218996	Andrade et al. 2019		
+16547306	BAmv12 ven s 3 Left	21218996	Andrade et al. 2019		
+15732515	BAmv12 ven s 2 Right	21218996	Andrade et al. 2019		
+16645923	DPLl p s 4 Left	21218996	Andrade et al. 2019		
+15674294	BAlp4 s 1 Right	21218996	Andrade et al. 2019		
+17562001	DPLc post lat ant s 2 Right	21218996	Andrade et al. 2019		
+15078697	BAmv12 dor s 6 Left	21218996	Andrade et al. 2019		
+15078705	DALcm12 v s 6 Left	21218996	Andrade et al. 2019		
+15079785	CPb s 3 Left	21218996	Andrade et al. 2019		
+15119833	DALd s 4 Left	21218996	Andrade et al. 2019		
+15130939	BLDd s 5 Left	21218996	Andrade et al. 2019		
+15131659	BLDd s 4 Left	21218996	Andrade et al. 2019		
+15139341	BAmd1 d s 2 Left	21218996	Andrade et al. 2019		
+15139746	BAmv12 dor s 4 Left	21218996	Andrade et al. 2019		
+15140015	BAmv12 dor s 5 Left	21218996	Andrade et al. 2019		
+15140301	BAmv12 dor s 3 Left	21218996	Andrade et al. 2019		
+15152956	DALd s 7 Right	21218996	Andrade et al. 2019		
+15153709	DALd s 8 Right	21218996	Andrade et al. 2019		
+15387603	CPe s 2 Left	21218996	Andrade et al. 2019		
+15541956	BAmd1 d s 1 Left	21218996	Andrade et al. 2019		
+15582537	CPe s 1 Right	21218996	Andrade et al. 2019		
+15583282	CPe s 1 Left	21218996	Andrade et al. 2019		
+17545195	BAlp post s 4 Right	21218996	Andrade et al. 2019		
+16698716	BLAv12 pos s 2 Right	21218996	Andrade et al. 2019		
+16784307	CP23 v s 8 Right	21218996	Andrade et al. 2019		
+17192980	CP1v a s 2 Left	21218996	Andrade et al. 2019		
+17193070	CP1v a s 1 Left	21218996	Andrade et al. 2019		
+17343664	CM13 med s 8 Left	21218996	Andrade et al. 2019		
+17352424	BLP12 a s 1 Right	21218996	Andrade et al. 2019		
+17352429	BLP12 a s 2 Right	21218996	Andrade et al. 2019		
+17352444	BLP12 a s 3 Right	21218996	Andrade et al. 2019		
+17352452	BLP12 b s 5 Right	21218996	Andrade et al. 2019		
+17352476	DPMpl12 s 2 loSM Right	21218996	Andrade et al. 2019		
+17354423	DPMl12 ant s 6 Left	21218996	Andrade et al. 2019		
+17355495	CPb s 1 Left	21218996	Andrade et al. 2019		
+17355884	BAla34 s 4 Right	21218996	Andrade et al. 2019		
+17355888	BAla34 s 3 Right	21218996	Andrade et al. 2019		
+17356020	BAla34 s 1 Right	21218996	Andrade et al. 2019		
+17360026	DPLal1-3 s 4 Left	21218996	Andrade et al. 2019		
+17361570	BLAv12 ant s 1 Right	21218996	Andrade et al. 2019		
+17114027	BLVa12 a s 1 Left	21218996	Andrade et al. 2019		
+16698830	BLAv12 pos s 1 right	21218996	Andrade et al. 2019		
+17110221	DALcl12 v s 1 Left	21218996	Andrade et al. 2019		
+17102940	DALcl12 d s 10 Left	21218996	Andrade et al. 2019		
+16938723	CM4 s ppFB 8 Left	21218996	Andrade et al. 2019		
+16950391	DALd s 3 Right	21218996	Andrade et al. 2019		
+16950404	DALd s 4 Right	21218996	Andrade et al. 2019		
+16950736	DALd s 1 Right	21218996	Andrade et al. 2019		
+16952654	DALd s 3 Left	21218996	Andrade et al. 2019		
+17022787	DALd s 2 Right	21218996	Andrade et al. 2019		
+17048093	Neuron 17048094 immature	21218996	Andrade et al. 2019		
+17102148	DALcl12 d s 8 Left	21218996	Andrade et al. 2019		
+17102418	DALcl12 d s 7 Left	21218996	Andrade et al. 2019		
+17102547	DALcl12 d s 6 Left	21218996	Andrade et al. 2019		
+17102618	DALcl12 d s 5 Left	21218996	Andrade et al. 2019		
+17102687	DALcl12 d s 4 Left	21218996	Andrade et al. 2019		
+17102750	DALcl12 d s 3 Left	21218996	Andrade et al. 2019		
+17102765	DALcl12 v s 3 Left	21218996	Andrade et al. 2019		
+17102874	DALcl12 v s 2 Left	21218996	Andrade et al. 2019		
+17102996	DALcl12 d s 2 Left	21218996	Andrade et al. 2019		
+17545203	BAlp ant s 1 Right	21218996	Andrade et al. 2019		
+5091874	FB2IN-15	21228207	Eschbach, Fushiki et al. 2020	DPLm1(D CB)3_left|MB2IN-81	
+18084995	FB2IN-20	21228207	Eschbach, Fushiki et al. 2020	N6_right|MB2IN-106	
 4103336	FB2IN-7	21228207	Eschbach, Fushiki et al. 2020	MBON-F-V8;14+4 cell body close to other relays, right|MB2IN-56	
 4114133	FB2IN-9	21228207	Eschbach, Fushiki et al. 2020	CP23 d 13_right|MB2IN-66	
 4152272	FB2IN-14	21228207	Eschbach, Fushiki et al. 2020	DALv23 sub MB 1_right|MB2IN-80	
-4337398	FB2IN-13	21228207	Eschbach, Fushiki et al. 2020	DALv23 sub MB 2_right|MB2IN-79	
-5091874	FB2IN-15	21228207	Eschbach, Fushiki et al. 2020	DPLm1(D CB)3_left|MB2IN-81	
+20443457	MB2IN-77	21228207	Eschbach, Fushiki et al. 2020	Mickey Mouse_right; BLP12 b 2|FB2IN-12	
+6591182	FB2IN-11	21228207	Eschbach, Fushiki et al. 2020	bilateral L|MB2IN-73	
 6597872	FB2IN-11	21228207	Eschbach, Fushiki et al. 2020	bilateral R|MB2IN-73	
 8052161	FB2IN-14	21228207	Eschbach, Fushiki et al. 2020	DALv23 L subMB 1 or 2_left|MB2IN-80	
 8814922	FB2IN-16	21228207	Eschbach, Fushiki et al. 2020	BLAd ant lat 1_right|MB2IN-89	
 9287906	FB2IN-15	21228207	Eschbach, Fushiki et al. 2020	DPLm1(D CB)3_right|MB2IN-81	
-9527333	FB2IN-19	21228207	Eschbach, Fushiki et al. 2020	Headphone_left|MB2IN-74	
+4337398	FB2IN-13	21228207	Eschbach, Fushiki et al. 2020	DALv23 sub MB 2_right|MB2IN-79	
 11476614	FB2IN-20	21228207	Eschbach, Fushiki et al. 2020	neuron 11476615_left|MB2IN-106	
 12398622	FB2IN-7	21228207	Eschbach, Fushiki et al. 2020	MBON-F-V8;14+4 cell body close to other relays the other side, left |MB2IN-56	
+13210358	FB2IN-19	21228207	Eschbach, Fushiki et al. 2020	Headphone_right|MB2IN-74	
 15343835	FB2IN-9	21228207	Eschbach, Fushiki et al. 2020	CP23 d 13_left|MB2IN-66	
 15623649	FB2IN-12	21228207	Eschbach, Fushiki et al. 2020	Mickey Mouse_left|MB2IN-77	
 16160495	FB2IN-16	21228207	Eschbach, Fushiki et al. 2020	2+5 BLAd ant lat 1_left|MB2IN-89	
 17176767	FB2IN-18	21228207	Eschbach, Fushiki et al. 2020	bilateral-3 L|MB2IN-72	
 17176781	FB2IN-18	21228207	Eschbach, Fushiki et al. 2020	bilateral-3 R|MB2IN-72	
 17280216	FB2IN-13	21228207	Eschbach, Fushiki et al. 2020	DALv23 L subMB 1 or 2_left|MB2IN-79	
-18084995	FB2IN-20	21228207	Eschbach, Fushiki et al. 2020	N6_right|MB2IN-106	
-20443457	MB2IN-77	21228207	Eschbach, Fushiki et al. 2020	Mickey Mouse_right; BLP12 b 2|FB2IN-12	
-6591182	FB2IN-11	21228207	Eschbach, Fushiki et al. 2020	bilateral L|MB2IN-73	
-13210358	FB2IN-19	21228207	Eschbach, Fushiki et al. 2020	Headphone_right|MB2IN-74	
-3158123	presynaptic-D-2-MAP-L left	21461093	Hueckesfeld et al. 2020		
-360668	t1r sensory putative md III/IV_T1r	21461093	Hueckesfeld et al. 2020		
-9747418	PPLV - 2 Left (maybe PVL014c)	21461093	Hueckesfeld et al. 2020		
-3044500	MB2IN-172	21461093	Hueckesfeld et al. 2020	DPLc1 Descending L	
-7381964	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm)	21461093	Hueckesfeld et al. 2020		
-7338309	DPMpl12 Brain into SEZ left	21461093	Hueckesfeld et al. 2020		
-6802553	T1l asc contra 02	21461093	Hueckesfeld et al. 2020		
-6794664	SEZ-IN-medial projections right	21461093	Hueckesfeld et al. 2020		
-6445994	Pre PMN left	21461093	Hueckesfeld et al. 2020		
-6133702	AF6 right - ASB TODO 1.1	21461093	Hueckesfeld et al. 2020		
-5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	21461093	Hueckesfeld et al. 2020		
-5614978	T1l asc contra 01	21461093	Hueckesfeld et al. 2020		
+9527333	FB2IN-19	21228207	Eschbach, Fushiki et al. 2020	Headphone_left|MB2IN-74	
+19522307	neuron 19522308	21461093	Hueckesfeld et al. 2020		
+19522300	neuron 19522301	21461093	Hueckesfeld et al. 2020		
+19522286	neuron 19522287	21461093	Hueckesfeld et al. 2020		
+19522280	neuron 19522281	21461093	Hueckesfeld et al. 2020		
+19522274	neuron 19522275	21461093	Hueckesfeld et al. 2020		
+19527330	neuron 19527331	21461093	Hueckesfeld et al. 2020		
+19522237	neuron 19522238	21461093	Hueckesfeld et al. 2020		
+19522227	neuron 19522228	21461093	Hueckesfeld et al. 2020		
+19522212	neuron 19522213	21461093	Hueckesfeld et al. 2020		
+19522202	neuron 19522203	21461093	Hueckesfeld et al. 2020		
+19522251	neuron 19522252	21461093	Hueckesfeld et al. 2020		
+19528948	neuron 19528949	21461093	Hueckesfeld et al. 2020		
+292913	vdaB_a5l	21461093	Hueckesfeld et al. 2020		
+19554543	VNC-IN-left	21461093	Hueckesfeld et al. 2020		
+19585918	neuron 19585919	21461093	Hueckesfeld et al. 2020		
+19816278	MB2IN-204	21461093	Hueckesfeld et al. 2020	NPF-like 1 right	
+19912140	T1r asc contra 02	21461093	Hueckesfeld et al. 2020		
+20559189	fragment?	21461093	Hueckesfeld et al. 2020		
+203130	v'ada_a3l	21461093	Hueckesfeld et al. 2020		
+202973	vdaB_a3l	21461093	Hueckesfeld et al. 2020		
+144386	class iii or es?	21461093	Hueckesfeld et al. 2020		
+114558	ddaA a3l class III md	21461093	Hueckesfeld et al. 2020		
+110633	v'pda a3l class III md	21461093	Hueckesfeld et al. 2020		
+23233	putative class III	21461093	Hueckesfeld et al. 2020		
+19522184	neuron 19522185	21461093	Hueckesfeld et al. 2020		
+19537785	neuron 19537786	21461093	Hueckesfeld et al. 2020		
+205984	a2l class III	21461093	Hueckesfeld et al. 2020		
+19522149	neuron 19522150	21461093	Hueckesfeld et al. 2020		
+19466100	RG CC 9	21461093	Hueckesfeld et al. 2020		
+5469039	Capa left	21461093	Hueckesfeld et al. 2020		
 5613144	RG Hugin Input right -> paired with #7381964? Check gap crossings (best match atm)	21461093	Hueckesfeld et al. 2020		
+5614978	T1l asc contra 01	21461093	Hueckesfeld et al. 2020		
+5638694	v'td_ a3r	21461093	Hueckesfeld et al. 2020		
+5688091	MBE - Input of Hugin RG Candidates left 1 - paired with #5038920	21461093	Hueckesfeld et al. 2020		
+5807777	NPF_t3r	21461093	Hueckesfeld et al. 2020		
+5869204	CA-LP-2_right2	21461093	Hueckesfeld et al. 2020		
+5890323	CA-LP-2_right1	21461093	Hueckesfeld et al. 2020		
+5955853	ITP candidate 1 right	21461093	Hueckesfeld et al. 2020		
+5956787	ITP candidate pair 3 right; ITP candidate 2 right	21461093	Hueckesfeld et al. 2020		
+5973097	MB2IN-93	21461093	Hueckesfeld et al. 2020	Bilaterial downstream BPL-to-MB right; CP4 3	
+5976168	DPMl b 1 loSM right	21461093	Hueckesfeld et al. 2020		
+6061068	AF1 right	21461093	Hueckesfeld et al. 2020		
+6133702	AF6 right - ASB TODO 1.1	21461093	Hueckesfeld et al. 2020		
+6236300	mdIII?_t3l ddaF t3l class III md	21461093	Hueckesfeld et al. 2020		
+6317793	MB2IN-172	21461093	Hueckesfeld et al. 2020	DPLc1 Descending R	
+6431282	A10? neuron - check gaps_a4r	21461093	Hueckesfeld et al. 2020		
+5462705	big Ambigious Fragment?	21461093	Hueckesfeld et al. 2020		
 5378683	T1l Ascending into PC_left	21461093	Hueckesfeld et al. 2020		
+5375337	fragment	21461093	Hueckesfeld et al. 2020		
 5311299	T1r Ascending into PC_right	21461093	Hueckesfeld et al. 2020		
-9795662	BAmas12_ven descending 4 left	21461093	Hueckesfeld et al. 2020		
-5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	21461093	Hueckesfeld et al. 2020		
-3946432	_WS	21461093	Hueckesfeld et al. 2020	WS: from olfactory to Hugin interneuron left	
-3946364	AF6: Munin Output left	21461093	Hueckesfeld et al. 2020		
 3946166	MB2IN-206	21461093	Hueckesfeld et al. 2020	Pre-goro3 left	
-3859195	Munin left 2	21461093	Hueckesfeld et al. 2020		
-3801211	BC: neuron 3801212 - paired with #2147157	21461093	Hueckesfeld et al. 2020		
-3762060	Bubsy Right	21461093	Hueckesfeld et al. 2020		
-3728746	MB2IN-205	21461093	Hueckesfeld et al. 2020	Munin right 1	
-3498479	contra-vine right	21461093	Hueckesfeld et al. 2020		
-3443129	T3r asc contra 01	21461093	Hueckesfeld et al. 2020		
-3436420	Pre PMN right	21461093	Hueckesfeld et al. 2020		
-3414508	contra-vine left	21461093	Hueckesfeld et al. 2020		
-3276003	MB2IN-150	21461093	Hueckesfeld et al. 2020	L1: Short-presynapticD-3-R	
-3189407	T2l asc contra 01	21461093	Hueckesfeld et al. 2020		
+3946364	AF6: Munin Output left	21461093	Hueckesfeld et al. 2020		
+3946432	_WS	21461093	Hueckesfeld et al. 2020	WS: from olfactory to Hugin interneuron left	
+3946569	BLAd ant med 3 neuron left	21461093	Hueckesfeld et al. 2020		
+4061049	v'td_vnc_a5r	21461093	Hueckesfeld et al. 2020		
+4127707	PPLV - 2 Right (maybe PVL014c); BLP34 a 7	21461093	Hueckesfeld et al. 2020		
+4188290	EH left	21461093	Hueckesfeld et al. 2020		
+4234351	neuron 4234352	21461093	Hueckesfeld et al. 2020		
+6445994	Pre PMN left	21461093	Hueckesfeld et al. 2020		
+4249996	SEZ horns right	21461093	Hueckesfeld et al. 2020		
 4785242	AF3 thermo 3rd left	21461093	Hueckesfeld et al. 2020		
+4874953	Capa right	21461093	Hueckesfeld et al. 2020		
+4995819	neuron	21461093	Hueckesfeld et al. 2020		
+4996106	neuron 4996107	21461093	Hueckesfeld et al. 2020		
+5007013	SOG_somato_left	21461093	Hueckesfeld et al. 2020		
+5010581	EH right	21461093	Hueckesfeld et al. 2020		
+5038920	MBE - Input of Hugin RG Candidates right 1 - paired with #5688091	21461093	Hueckesfeld et al. 2020		
+5252487	Pre-goro11_a3l	21461093	Hueckesfeld et al. 2020		
+4379508	Output of Hugin left	21461093	Hueckesfeld et al. 2020		
+6794664	SEZ-IN-medial projections right	21461093	Hueckesfeld et al. 2020		
+6802553	T1l asc contra 02	21461093	Hueckesfeld et al. 2020		
+6812313	SOG_somato_right	21461093	Hueckesfeld et al. 2020		
+9170669	v'ada_a4l	21461093	Hueckesfeld et al. 2020		
+9254491	ddaA a4r class III md	21461093	Hueckesfeld et al. 2020		
+9372642	PTTH 1 left	21461093	Hueckesfeld et al. 2020		
+9408003	AF1 left	21461093	Hueckesfeld et al. 2020		
+9524538	MB2IN-158	21461093	Hueckesfeld et al. 2020	M1 ; Left	
+9747418	PPLV - 2 Left (maybe PVL014c)	21461093	Hueckesfeld et al. 2020		
+9787933	MB2IN-208	21461093	Hueckesfeld et al. 2020	BAmas lineage Neuron left 2	
+9795662	BAmas12_ven descending 4 left	21461093	Hueckesfeld et al. 2020		
+9151980	vdaB_a4l	21461093	Hueckesfeld et al. 2020		
+9800178	SNeuron-CPLd right	21461093	Hueckesfeld et al. 2020		
 9935752	T1r asc contra 01	21461093	Hueckesfeld et al. 2020		
+10681487	BLP12 claw 1 right; BLP12 a 3	21461093	Hueckesfeld et al. 2020		
+10682411	BLP12 claw 3 right; BLP12 a 4	21461093	Hueckesfeld et al. 2020		
+10684539	BLP12 claw 2 right; BLP12 a 7	21461093	Hueckesfeld et al. 2020		
 10768709	Bilateral near MB_right	21461093	Hueckesfeld et al. 2020		
-11333054	Gustatory PN 1	21461093	Hueckesfeld et al. 2020	Gustatory PN left	
+10781924	gate1_right	21461093	Hueckesfeld et al. 2020		
+10797407	Bike Bars left	21461093	Hueckesfeld et al. 2020		
+10842368	ASB Ascending right 10842369	21461093	Hueckesfeld et al. 2020		
+9842000	PTTH 1 right	21461093	Hueckesfeld et al. 2020		
+3930411	Ruler Like Neuron right	21461093	Hueckesfeld et al. 2020		
+9146908	vdaB_a4r	21461093	Hueckesfeld et al. 2020		
+9022427	ddaC_a3r	21461093	Hueckesfeld et al. 2020		
+6921588	mdIII_t3r	21461093	Hueckesfeld et al. 2020		
+6978585	CA-LP-2_left1	21461093	Hueckesfeld et al. 2020		
+7005184	CP1 d 1 left	21461093	Hueckesfeld et al. 2020		
+7012280	v'td_vnc_a5l	21461093	Hueckesfeld et al. 2020		
+7335439	Coaster (NPF) 2 left	21461093	Hueckesfeld et al. 2020		
+7338309	DPMpl12 Brain into SEZ left	21461093	Hueckesfeld et al. 2020		
+7381964	RG Hugin Input left-> paired with #5613144? Check gap crossings (best match atm)	21461093	Hueckesfeld et al. 2020		
+7476468	CRZ 3 left	21461093	Hueckesfeld et al. 2020		
+9037304	SEZ-fork1	21461093	Hueckesfeld et al. 2020	SEZ-fork-1 right	
+7529574	ITP candidate pair 2 right; candidate 3 right	21461093	Hueckesfeld et al. 2020		
+7557604	MB2IN-150	21461093	Hueckesfeld et al. 2020	L1: Short-presynapticD-3-L	
+7569260	CP1 d 1 right	21461093	Hueckesfeld et al. 2020		
+7627878	v'td_a1r	21461093	Hueckesfeld et al. 2020		
+7768599	PN a3l preCAPA	21461093	Hueckesfeld et al. 2020		
+7799610	v'ada_a2l	21461093	Hueckesfeld et al. 2020		
+8699844	BAmas d 2 right	21461093	Hueckesfeld et al. 2020		
+8765298	BLP12 claw 3 left	21461093	Hueckesfeld et al. 2020		
+8813113	BLAd ant med 3 neuron  right	21461093	Hueckesfeld et al. 2020		
+7530253	ITP candidate 4 right	21461093	Hueckesfeld et al. 2020		
+3928652	CA-LP-1_left	21461093	Hueckesfeld et al. 2020		
+3928574	CA-LP-2_left2	21461093	Hueckesfeld et al. 2020		
+3928522	PTTH 2 left	21461093	Hueckesfeld et al. 2020		
 2142817	MB2IN-146	21461093	Hueckesfeld et al. 2020	pre-dorsal-MAP presynaptic-D-2-R left	
 2147157	BC: presynaptic -medial - paired with #3801211	21461093	Hueckesfeld et al. 2020		
+2379544	BLP12 claw 1 left	21461093	Hueckesfeld et al. 2020		
+2581860	v'ada_a4r 	21461093	Hueckesfeld et al. 2020		
 2597151	AF5: Short-presynaptic-D-1R	21461093	Hueckesfeld et al. 2020		
+2629819	vdaB_a2r	21461093	Hueckesfeld et al. 2020		
+2629826	v'ada_a2r	21461093	Hueckesfeld et al. 2020		
+2683068	ddaA a5l class III md	21461093	Hueckesfeld et al. 2020		
+1672957	vdaB?_a6l	21461093	Hueckesfeld et al. 2020		
+2691026	mdIV?_a6l	21461093	Hueckesfeld et al. 2020		
+2717701	neuron	21461093	Hueckesfeld et al. 2020		
+2723184	v'ada_a3r	21461093	Hueckesfeld et al. 2020		
+2740157	vdaB?_a6r	21461093	Hueckesfeld et al. 2020		
+2748174	vdaB?_a7r	21461093	Hueckesfeld et al. 2020		
+2750739	v'pda a6l class III md	21461093	Hueckesfeld et al. 2020		
+2761699	vdaB?_a8r	21461093	Hueckesfeld et al. 2020		
+2765056	vdaD or v'pda a7l class III md	21461093	Hueckesfeld et al. 2020		
+2817021	v'pda a5l class III md	21461093	Hueckesfeld et al. 2020		
+2700681	ddaF a5r class III md	21461093	Hueckesfeld et al. 2020		
+2822183	vdaB?_a7l	21461093	Hueckesfeld et al. 2020		
+1385074	ddaC?_a6l	21461093	Hueckesfeld et al. 2020		
+1331893	class III or es?	21461093	Hueckesfeld et al. 2020		
+327601	small neuron without soma does not look sensory	21461093	Hueckesfeld et al. 2020		
+360668	t1r sensory putative md III/IV_T1r	21461093	Hueckesfeld et al. 2020		
+367864	v'pda a2r class III md	21461093	Hueckesfeld et al. 2020		
+374619	a4r class III md or could be es	21461093	Hueckesfeld et al. 2020		
+738095	ddaC_a5l	21461093	Hueckesfeld et al. 2020		
+770615	ddaC_a3l	21461093	Hueckesfeld et al. 2020		
+837522	ddaF a4r class III md	21461093	Hueckesfeld et al. 2020		
+867393	MB2IN-208	21461093	Hueckesfeld et al. 2020	BAmas lineage neuron right 2	
+1347570	putative class III	21461093	Hueckesfeld et al. 2020		
+881861	desC_a5r	21461093	Hueckesfeld et al. 2020		
+891237	v'td_vnc_a7r	21461093	Hueckesfeld et al. 2020		
+954272	v'ada_a5r	21461093	Hueckesfeld et al. 2020		
+970844	ddaC?_a5l	21461093	Hueckesfeld et al. 2020		
+1074154	desC_a4r ??	21461093	Hueckesfeld et al. 2020		
+1130528	mdIII_t? sensory	21461093	Hueckesfeld et al. 2020		
+1237125	ddaF a2r class III? lots of uncertain continuities. CHECK	21461093	Hueckesfeld et al. 2020		
+1278501	vdaB_a3r	21461093	Hueckesfeld et al. 2020		
+1300727	ddaA a5r class III md	21461093	Hueckesfeld et al. 2020		
+883721	ddaC_a4r	21461093	Hueckesfeld et al. 2020		
+10958210	MB2ON-243	21461093	Hueckesfeld et al. 2020	F14: PVL005 - 1 Left?	
+2828623	v'ada?_a7l	21461093	Hueckesfeld et al. 2020		
+2842568	ddaC?_a8l	21461093	Hueckesfeld et al. 2020		
+3727026	CRZ 1 right	21461093	Hueckesfeld et al. 2020		
+3727963	Munin right 2	21461093	Hueckesfeld et al. 2020		
+3728746	MB2IN-205	21461093	Hueckesfeld et al. 2020	Munin right 1	
+3742519	C4da_t3l	21461093	Hueckesfeld et al. 2020		
+3762060	Bubsy Right	21461093	Hueckesfeld et al. 2020		
+3762787	CRZ 2 right	21461093	Hueckesfeld et al. 2020		
+3778453	Pre-goro11_a3r	21461093	Hueckesfeld et al. 2020		
+3793165	ddaC_a2r	21461093	Hueckesfeld et al. 2020		
+3727004	CRZ 3 right	21461093	Hueckesfeld et al. 2020		
+3794023	Output of Hugin right	21461093	Hueckesfeld et al. 2020		
+3814635	MN_AN iACT PN right	21461093	Hueckesfeld et al. 2020		
+3846657	v'ada t3r	21461093	Hueckesfeld et al. 2020		
+3859195	Munin left 2	21461093	Hueckesfeld et al. 2020		
+3879467	MB2IN-205	21461093	Hueckesfeld et al. 2020	Munin left 1	
+3925724	ITP candidate 1 left	21461093	Hueckesfeld et al. 2020		
+3926438	CRZ 2 left	21461093	Hueckesfeld et al. 2020		
+3926669	CRZ 1 left	21461093	Hueckesfeld et al. 2020		
+3926904	ITP candidate pair 2 left; ITP candidate 2 left	21461093	Hueckesfeld et al. 2020		
+3801211	BC: neuron 3801212 - paired with #2147157	21461093	Hueckesfeld et al. 2020		
+2833891	vdaB?	21461093	Hueckesfeld et al. 2020		
+3620633	MB2IN-206	21461093	Hueckesfeld et al. 2020	Pre-goro3 right	
+3498479	contra-vine right	21461093	Hueckesfeld et al. 2020		
+2871769	vdaB?_a8l	21461093	Hueckesfeld et al. 2020		
+2871853	mdIV?	21461093	Hueckesfeld et al. 2020		
+2872055	v'ada?_a8l	21461093	Hueckesfeld et al. 2020		
+2899238	v'ada ?	21461093	Hueckesfeld et al. 2020		
+2932028	LH-3	21461093	Hueckesfeld et al. 2020	AF:uptoLN2 sibling 35_right	
 2935173	_WS	21461093	Hueckesfeld et al. 2020	WS: from olfactory to Hugin interneuron right	
 2935198	AF3 thermo 3rd right	21461093	Hueckesfeld et al. 2020		
-19912140	T1r asc contra 02	21461093	Hueckesfeld et al. 2020		
-19816278	MB2IN-204	21461093	Hueckesfeld et al. 2020	NPF-like 1 right	
-19431430	_SOG IN	21461093	Hueckesfeld et al. 2020	SOG IN left; PN into SOG very minor AL connectivity left	
-18440675	BAmas12 midline 3 left	21461093	Hueckesfeld et al. 2020		
-17641913	AF4: TOH left	21461093	Hueckesfeld et al. 2020		
-17511972	SEZ-IN-? left	21461093	Hueckesfeld et al. 2020		
-17415439	presynaptic-D-2-MAP right	21461093	Hueckesfeld et al. 2020		
-17225493	fork of GPhN (left) former SEZ IN - unfinished	21461093	Hueckesfeld et al. 2020		
-16988779	MB2IN-203	21461093	Hueckesfeld et al. 2020	T2l asc medial soma 02	
-16774287	MB2IN-203	21461093	Hueckesfeld et al. 2020	T2r asc medial soma 02	
-16500055	SEZ to brain left - gap todo	21461093	Hueckesfeld et al. 2020		
-16468935	gate1_left	21461093	Hueckesfeld et al. 2020		
-16018440	SEZ to brain right	21461093	Hueckesfeld et al. 2020		
-16018123	T2r asc contra 01	21461093	Hueckesfeld et al. 2020		
-15681246	Bubsy Left	21461093	Hueckesfeld et al. 2020		
-15250080	BAmas12_ven descending 4 right	21461093	Hueckesfeld et al. 2020		
-15225589	MB2IN-146	21461093	Hueckesfeld et al. 2020	pre-dorsal-MAP presynaptic-D-2-R right	
-14962387	_SOG IN	21461093	Hueckesfeld et al. 2020	SOG IN right	
-14273873	ASB Ascending left 14273874 	21461093	Hueckesfeld et al. 2020		
-13429045	AF4: TOH right; Large Spider Neuron right	21461093	Hueckesfeld et al. 2020		
-13190771	fork of GPhN (right)	21461093	Hueckesfeld et al. 2020		
-12335381	BAmas12 midline 3 right	21461093	Hueckesfeld et al. 2020		
-11946903	MB2IN-158	21461093	Hueckesfeld et al. 2020	M1 ; Right	
-11687553	T3l asc contra 01	21461093	Hueckesfeld et al. 2020		
+2970864	ddaC_a2r 	21461093	Hueckesfeld et al. 2020		
+3567420	ddaC_t3r	21461093	Hueckesfeld et al. 2020		
+3044500	MB2IN-172	21461093	Hueckesfeld et al. 2020	DPLc1 Descending L	
+3133851	may be class IV??	21461093	Hueckesfeld et al. 2020		
 3158085	AF5: Short-presynaptic-D-1L	21461093	Hueckesfeld et al. 2020		
-7557604	MB2IN-150	21461093	Hueckesfeld et al. 2020	L1: Short-presynapticD-3-L	
+3158123	presynaptic-D-2-MAP-L left	21461093	Hueckesfeld et al. 2020		
+3189407	T2l asc contra 01	21461093	Hueckesfeld et al. 2020		
+3276003	MB2IN-150	21461093	Hueckesfeld et al. 2020	L1: Short-presynapticD-3-R	
+3414508	contra-vine left	21461093	Hueckesfeld et al. 2020		
+3436420	Pre PMN right	21461093	Hueckesfeld et al. 2020		
+3443129	T3r asc contra 01	21461093	Hueckesfeld et al. 2020		
+3106174	v'ada_a?	21461093	Hueckesfeld et al. 2020		
+10963761	v'td_a2r 	21461093	Hueckesfeld et al. 2020		
+11003707	DL-LH_cand6_sibling left; BLVa12 a 7	21461093	Hueckesfeld et al. 2020		
+11144258	SNeuron CPLd left _former: Death grip left	21461093	Hueckesfeld et al. 2020		
+19297636	neuron 19297637	21461093	Hueckesfeld et al. 2020		
+19297642	neuron 19297643	21461093	Hueckesfeld et al. 2020		
+19297660	neuron 19297661	21461093	Hueckesfeld et al. 2020		
+19297666	neuron 19297667	21461093	Hueckesfeld et al. 2020		
+19297672	neuron 19297673	21461093	Hueckesfeld et al. 2020		
+19297678	neuron 19297679	21461093	Hueckesfeld et al. 2020		
+19297684	neuron 19297685	21461093	Hueckesfeld et al. 2020		
+19297690	neuron 19297691	21461093	Hueckesfeld et al. 2020		
+19297630	neuron 19297631	21461093	Hueckesfeld et al. 2020		
+19297696	neuron 19297697	21461093	Hueckesfeld et al. 2020		
+19297708	neuron 19297709	21461093	Hueckesfeld et al. 2020		
+19297714	neuron 19297715	21461093	Hueckesfeld et al. 2020		
+19297720	neuron 19297721	21461093	Hueckesfeld et al. 2020		
+19297726	neuron 19297727	21461093	Hueckesfeld et al. 2020		
+19297732	neuron 19297733	21461093	Hueckesfeld et al. 2020		
+19297738	neuron 19297739	21461093	Hueckesfeld et al. 2020		
+19297744	neuron 19297745	21461093	Hueckesfeld et al. 2020		
+19297782	neuron 19297783	21461093	Hueckesfeld et al. 2020		
+19297702	neuron 19297703	21461093	Hueckesfeld et al. 2020		
+19297821	neuron 19297822	21461093	Hueckesfeld et al. 2020		
+19297619	neuron 19297620	21461093	Hueckesfeld et al. 2020		
+19297607	neuron 19297608	21461093	Hueckesfeld et al. 2020		
+19263163	Neuron 19263164	21461093	Hueckesfeld et al. 2020		
+19266546	Neuron 19266547	21461093	Hueckesfeld et al. 2020		
+19266572	neuron 19266573	21461093	Hueckesfeld et al. 2020		
+19266580	neuron 19266581	21461093	Hueckesfeld et al. 2020		
+19266588	neuron 19266589	21461093	Hueckesfeld et al. 2020		
+19276024	suckerfish-like 1 (right)	21461093	Hueckesfeld et al. 2020		
+19279295	neuron 19279296	21461093	Hueckesfeld et al. 2020		
+19279307	neuron 19279308	21461093	Hueckesfeld et al. 2020		
+19297613	neuron 19297614	21461093	Hueckesfeld et al. 2020		
+19288801	may be class III or es? a4l	21461093	Hueckesfeld et al. 2020		
+19297549	neuron 19297550	21461093	Hueckesfeld et al. 2020		
+19297555	neuron 19297556	21461093	Hueckesfeld et al. 2020		
+19297567	neuron 19297568	21461093	Hueckesfeld et al. 2020		
+19297573	neuron 19297574	21461093	Hueckesfeld et al. 2020		
+19297584	neuron 19297585	21461093	Hueckesfeld et al. 2020		
+19297590	neuron 19297591	21461093	Hueckesfeld et al. 2020		
+19297596	neuron 19297597	21461093	Hueckesfeld et al. 2020		
+19297602	neuron 19297603	21461093	Hueckesfeld et al. 2020		
+19297542	neuron 19297543	21461093	Hueckesfeld et al. 2020		
+19220239	neuron 19220240	21461093	Hueckesfeld et al. 2020		
+19297828	neuron 19297829	21461093	Hueckesfeld et al. 2020		
+19298305	neuron 19298306	21461093	Hueckesfeld et al. 2020		
+19299858	neuron 19299859	21461093	Hueckesfeld et al. 2020		
+19299864	neuron 19299865	21461093	Hueckesfeld et al. 2020		
+19299875	neuron 19299876	21461093	Hueckesfeld et al. 2020		
+19299886	neuron 19299887	21461093	Hueckesfeld et al. 2020		
+19299897	neuron 19299898	21461093	Hueckesfeld et al. 2020		
+19299903	neuron 19299904	21461093	Hueckesfeld et al. 2020		
+19299909	neuron 19299910	21461093	Hueckesfeld et al. 2020		
+19299915	neuron 19299916	21461093	Hueckesfeld et al. 2020		
+19299852	neuron 19299853	21461093	Hueckesfeld et al. 2020		
+19300046	neuron 19300047	21461093	Hueckesfeld et al. 2020		
+19300574	neuron 19300575	21461093	Hueckesfeld et al. 2020		
+19300580	neuron 19300581	21461093	Hueckesfeld et al. 2020		
+19300586	neuron 19300587	21461093	Hueckesfeld et al. 2020		
+19300592	neuron 19300593	21461093	Hueckesfeld et al. 2020		
+19431430	_SOG IN	21461093	Hueckesfeld et al. 2020	SOG IN left; PN into SOG very minor AL connectivity left	
+19457832	RG cell	21461093	Hueckesfeld et al. 2020		
+19457909	neuron 19457910	21461093	Hueckesfeld et al. 2020		
+19464836	neuron 19464837	21461093	Hueckesfeld et al. 2020		
+19300125	neuron 19300126	21461093	Hueckesfeld et al. 2020		
+19297833	neuron 19297834	21461093	Hueckesfeld et al. 2020		
+19299841	neuron 19299842	21461093	Hueckesfeld et al. 2020		
+19299829	neuron 19299830	21461093	Hueckesfeld et al. 2020		
+19299691	neuron 19299692	21461093	Hueckesfeld et al. 2020		
+19299697	neuron 19299698	21461093	Hueckesfeld et al. 2020		
+19299703	neuron 19299704	21461093	Hueckesfeld et al. 2020		
+19299708	neuron 19299709	21461093	Hueckesfeld et al. 2020		
+19299715	neuron 19299716	21461093	Hueckesfeld et al. 2020		
+19299721	neuron 19299722	21461093	Hueckesfeld et al. 2020		
+19299727	neuron 19299728	21461093	Hueckesfeld et al. 2020		
+19299740	neuron 19299741	21461093	Hueckesfeld et al. 2020		
+19299835	neuron 19299836	21461093	Hueckesfeld et al. 2020		
+19299746	neuron 19299747	21461093	Hueckesfeld et al. 2020		
+19299770	neuron 19299771	21461093	Hueckesfeld et al. 2020		
+19299776	neuron 19299777	21461093	Hueckesfeld et al. 2020		
+19299782	neuron 19299783	21461093	Hueckesfeld et al. 2020		
+19299788	neuron 19299789	21461093	Hueckesfeld et al. 2020		
+19299794	neuron 19299795	21461093	Hueckesfeld et al. 2020		
+19299805	neuron 19299806	21461093	Hueckesfeld et al. 2020		
+19299811	neuron 19299812	21461093	Hueckesfeld et al. 2020		
+19299817	neuron 19299818	21461093	Hueckesfeld et al. 2020		
+19299758	neuron 19299759	21461093	Hueckesfeld et al. 2020		
+19494163	neuron 19494164	21461093	Hueckesfeld et al. 2020		
+19219935	neuron 19219936	21461093	Hueckesfeld et al. 2020		
+19210950	neuron 19210951	21461093	Hueckesfeld et al. 2020		
+13950464	MB2IN-175	21461093	Hueckesfeld et al. 2020	DAMv12 med 3	
+14034311	DPMl b 1 loSM left	21461093	Hueckesfeld et al. 2020		
+14273873	ASB Ascending left 14273874 	21461093	Hueckesfeld et al. 2020		
+14333371	LH-3	21461093	Hueckesfeld et al. 2020	AF:uptoLN2 sibling 35_left	
+14760757	Bike Bars right; DALl1 7	21461093	Hueckesfeld et al. 2020		
+14962387	_SOG IN	21461093	Hueckesfeld et al. 2020	SOG IN right	
+14971928	sens	21461093	Hueckesfeld et al. 2020		
+15217212	vdaB_a2l	21461093	Hueckesfeld et al. 2020		
+13764284	SEZ-fork1	21461093	Hueckesfeld et al. 2020	SEZ-fork-1 left	
+15217317	ddaC_a2l	21461093	Hueckesfeld et al. 2020		
+15232796	ddaC_t3l	21461093	Hueckesfeld et al. 2020		
+15250080	BAmas12_ven descending 4 right	21461093	Hueckesfeld et al. 2020		
+15568134	MB2IN-93	21461093	Hueckesfeld et al. 2020	Bilaterial downstream BPL-to-MB left	
+15639294	MB2ON-218	21461093	Hueckesfeld et al. 2020	CPe contralateral descending left; CPobPm4 is CPe3/pep asc cand Left	
+15681246	Bubsy Left	21461093	Hueckesfeld et al. 2020		
+15711437	PN a3r preCAPA	21461093	Hueckesfeld et al. 2020		
+15804555	VNC-IN-right	21461093	Hueckesfeld et al. 2020		
+15906558	MB2IN-204	21461093	Hueckesfeld et al. 2020	NPF-like 1 left	
+15225589	MB2IN-146	21461093	Hueckesfeld et al. 2020	pre-dorsal-MAP presynaptic-D-2-R right	
+16018123	T2r asc contra 01	21461093	Hueckesfeld et al. 2020		
+13429045	AF4: TOH right; Large Spider Neuron right	21461093	Hueckesfeld et al. 2020		
+13168737	SEZ-IN-? right	21461093	Hueckesfeld et al. 2020		
+11146422	suckerfish-like 1 (left) 	21461093	Hueckesfeld et al. 2020		
+11193510	Ruler Like Neuron left	21461093	Hueckesfeld et al. 2020		
+11244099	VNC Midline Projection Neuron	21461093	Hueckesfeld et al. 2020		
+11333054	Gustatory PN 1	21461093	Hueckesfeld et al. 2020	Gustatory PN left	
+11512247	BAmas d 2 left	21461093	Hueckesfeld et al. 2020		
+11645541	LH-21	21461093	Hueckesfeld et al. 2020	S: Peptidergic_sibling 35_right	
+11687553	T3l asc contra 01	21461093	Hueckesfeld et al. 2020		
+11695602	SEZ-IN-medial projections left	21461093	Hueckesfeld et al. 2020		
+13190771	fork of GPhN (right)	21461093	Hueckesfeld et al. 2020		
+203148	ddaC_a4l	21461093	Hueckesfeld et al. 2020		
+12178825	v'td_vnc_a6r	21461093	Hueckesfeld et al. 2020		
+12293334	inner bridge 1 left	21461093	Hueckesfeld et al. 2020		
+12299704	Bilateral near MB_left	21461093	Hueckesfeld et al. 2020		
+12335381	BAmas12 midline 3 right	21461093	Hueckesfeld et al. 2020		
+12678851	VNC to SEZ a3right	21461093	Hueckesfeld et al. 2020		
+12702645	v'ada t3l	21461093	Hueckesfeld et al. 2020		
+12704360	CA-LP-1_right	21461093	Hueckesfeld et al. 2020		
+13046184	neuron 13046185	21461093	Hueckesfeld et al. 2020		
+11946903	MB2IN-158	21461093	Hueckesfeld et al. 2020	M1 ; Right	
+19219910	neuron 19219911	21461093	Hueckesfeld et al. 2020		
+16018440	SEZ to brain right	21461093	Hueckesfeld et al. 2020		
+16303262	v'td_a1l 	21461093	Hueckesfeld et al. 2020		
+17641913	AF4: TOH left	21461093	Hueckesfeld et al. 2020		
+17671375	MB2ON-243	21461093	Hueckesfeld et al. 2020	BLVa12 a 9 right	
+17896997	BLDc LH right	21461093	Hueckesfeld et al. 2020		
+17937123	ASB LH Interneuron right	21461093	Hueckesfeld et al. 2020		
+18440675	BAmas12 midline 3 left	21461093	Hueckesfeld et al. 2020		
+18740553	MN_AN iACT PN left	21461093	Hueckesfeld et al. 2020		
+19017854	v'td_vnc_a4l	21461093	Hueckesfeld et al. 2020		
+19022898	VNC to SEZ a3left	21461093	Hueckesfeld et al. 2020		
+17525174	DL-LH_cand6_sibling right; BLVa12 a 7	21461093	Hueckesfeld et al. 2020		
+19029736	neuron 19029737	21461093	Hueckesfeld et al. 2020		
+19040382	Midline Projection Neuron with additional ipsilateral axon/dendrite _ a1l	21461093	Hueckesfeld et al. 2020		
+19073065	neuron 19073066	21461093	Hueckesfeld et al. 2020		
+19073076	neuron 19073077	21461093	Hueckesfeld et al. 2020		
+19099474	neuron 19099475	21461093	Hueckesfeld et al. 2020		
+19099485	neuron 19099486	21461093	Hueckesfeld et al. 2020		
+19099494	neuron 19099495	21461093	Hueckesfeld et al. 2020		
+19099659	neuron 19099660	21461093	Hueckesfeld et al. 2020		
+19120772	v'td_vnc_a7l	21461093	Hueckesfeld et al. 2020		
+19037563	v'td_vnc_a4r	21461093	Hueckesfeld et al. 2020		
+16045758	BLP12 claw 2 left	21461093	Hueckesfeld et al. 2020		
+17511972	SEZ-IN-? left	21461093	Hueckesfeld et al. 2020		
+17352470	DPMpl12 Brain into SEZ? right	21461093	Hueckesfeld et al. 2020		
+16409132	BLDc LH left	21461093	Hueckesfeld et al. 2020		
+16432073	class III a2r	21461093	Hueckesfeld et al. 2020		
+16434842	PTTH 2 right	21461093	Hueckesfeld et al. 2020		
+16468935	gate1_left	21461093	Hueckesfeld et al. 2020		
+16500055	SEZ to brain left - gap todo	21461093	Hueckesfeld et al. 2020		
+16544485	ASB LH Interneuron left 	21461093	Hueckesfeld et al. 2020		
+16683883	ITP candidate pair 3 left; ITP candidate 3 left	21461093	Hueckesfeld et al. 2020		
+16683943	ITP candidate 4 left	21461093	Hueckesfeld et al. 2020		
+17415439	presynaptic-D-2-MAP right	21461093	Hueckesfeld et al. 2020		
+16686810	neuron 16686811	21461093	Hueckesfeld et al. 2020		
+16688280	RG CC	21461093	Hueckesfeld et al. 2020		
+16688373	RG Cell CC	21461093	Hueckesfeld et al. 2020		
+16688452	neuron 16688453	21461093	Hueckesfeld et al. 2020		
+16774287	MB2IN-203	21461093	Hueckesfeld et al. 2020	T2r asc medial soma 02	
+16911458	v'td_vnc_a6l	21461093	Hueckesfeld et al. 2020		
+16988779	MB2IN-203	21461093	Hueckesfeld et al. 2020	T2l asc medial soma 02	
+17003953	SEZ horns left	21461093	Hueckesfeld et al. 2020		
+17225493	fork of GPhN (left) former SEZ IN - unfinished	21461093	Hueckesfeld et al. 2020		
+16687841	neuron 16687842	21461093	Hueckesfeld et al. 2020		
+11851588	inner bridge 2 right	21461093	Hueckesfeld et al. 2020		
