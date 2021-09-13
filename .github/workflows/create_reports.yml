@@ -48,6 +48,7 @@ jobs:
           python ./comparison.py
 
       - name: Run get catmaid cellTypes
+        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
