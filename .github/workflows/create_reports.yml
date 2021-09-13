@@ -41,6 +41,7 @@ jobs:
           python ./report_runner.py
   
       - name: Run comparison
+        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
