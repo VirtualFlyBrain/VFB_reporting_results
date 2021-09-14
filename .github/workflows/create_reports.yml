@@ -50,6 +50,7 @@ jobs:
       - name: Run get catmaid cellTypes
         continue-on-error: true
         run: |
+          ls -lh VFB_reporting/
           ls -lh VFB_reporting/VFB_reporting_results/
           ls -lh VFB_reporting/VFB_reporting_results/CATMAID_SKID_reports/
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
