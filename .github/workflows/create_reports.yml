@@ -70,6 +70,7 @@ jobs:
           cd VFB_reporting/src
           rm -vf ../VFB_reporting_results/anat_*.tsv
           rm -vf ../VFB_reporting_results/anat_*.yaml
+          ls -lh ../VFB_reporting_results/
           python ./make_curation_records/anat_curation_file_maker.py
 
       - name: Clean up
