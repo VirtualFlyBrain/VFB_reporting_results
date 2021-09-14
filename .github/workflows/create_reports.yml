@@ -20,7 +20,7 @@ jobs:
         run: |
           git clone https://github.com/VirtualFlyBrain/VFB_reporting.git
           git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
-          ln -s ./ ./VFB_reporting/VFB_reporting_results
+          ln -s ../../ ./VFB_reporting/VFB_reporting_results
 
       - name: Install dependencies
         run: |
