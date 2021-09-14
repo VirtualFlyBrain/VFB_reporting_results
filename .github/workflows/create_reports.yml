@@ -75,15 +75,13 @@ jobs:
 
       - name: Clean up
         run: |
-          mv -v VFB_reporting/*.tsv ./
-          mv -v VFB_reporting/*.yaml ./
           mv -v VFB_reporting/content_report.md ./
           rm -rfv VFB_reporting
           rm -rfv VFB_neo4j
 
       - name: On Completion
         run: |
-          ls -lh *.tsv
+          git status
           git config --global user.email "support@virtualflybrain.org"
           git config --global user.name "gitHub actions"
           git commit -a -m 'automated report run'
