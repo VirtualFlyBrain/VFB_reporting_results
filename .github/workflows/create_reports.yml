@@ -20,7 +20,7 @@ jobs:
         run: |
           git clone https://github.com/VirtualFlyBrain/VFB_reporting.git
           git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
-          ln -s ../../ ./VFB_reporting/VFB_reporting_results
+          ln -s ../ ./VFB_reporting/VFB_reporting_results
 
       - name: Install dependencies
         run: |
@@ -50,6 +50,7 @@ jobs:
       - name: Run get catmaid cellTypes
         continue-on-error: true
         run: |
+          pwd
           ls -lh VFB_reporting/
           ls -lh VFB_reporting/VFB_reporting_results/
           ls -lh VFB_reporting/VFB_reporting_results/CATMAID_SKID_reports/
