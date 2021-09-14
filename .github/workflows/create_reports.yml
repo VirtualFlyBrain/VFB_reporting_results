@@ -75,7 +75,6 @@ jobs:
 
       - name: Clean up
         run: |
-          mv -v VFB_reporting/content_report.md ./
           rm -rfv VFB_reporting
           rm -rfv VFB_neo4j
 
