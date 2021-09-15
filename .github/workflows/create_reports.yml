@@ -80,9 +80,11 @@ jobs:
 
       - name: On Completion
         run: |
-          git status
           git config --global user.email "support@virtualflybrain.org"
           git config --global user.name "gitHub actions"
+          git add *
+          git add CATMAID_SKID_reports
+          git status
           git commit -a -m 'automated report run'
 
       - name: Commit changes
