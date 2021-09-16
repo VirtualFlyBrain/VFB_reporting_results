@@ -19,7 +19,7 @@ jobs:
       - name: Pull Code
         run: |
           git clone https://github.com/VirtualFlyBrain/VFB_reporting.git
-          git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git
+          git clone https://github.com/VirtualFlyBrain/VFB_neo4j.git --branch neo4-2 --single-branch
           ln -s ../ ./VFB_reporting/VFB_reporting_results
 
       - name: Install dependencies
