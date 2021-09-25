@@ -43,6 +43,8 @@ Lillvis2018	staging	Neurons involved in courtship and song (Lillvis2018)	CC-BY-S
 Lilvis2018	pdb	Neurons involved in courtship and song (Lilvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0
 Marin2020	pdb	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	301	0	0
 Marin2020	staging	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	0	0
+Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	114
+Matsuo2016	staging	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
 McKellar2020	staging	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	307
 Miroschnikow2018	pdb	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	30	0
 Miroschnikow2018	staging	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	39	0
@@ -50,11 +52,13 @@ Nojima2021	staging	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf02
 SplitDavis2017	staging	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	1	3
 SplitDavis2020	staging	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	0
 SplitGiraldo2018	staging	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	6
-SplitSchretter2020	staging	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	0	0	0
+SplitSchretter2020	staging	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	26	0	0
 SplitTurner_Evans2017	staging	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	1	3
-SplitTurner_Evans2020	staging	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY-SA_4.0	FBrf0246945	0	23	0
-SplitWang2020a	staging	Split-GAL4 lines from Wang et al., 2020a	CC-BY-SA_4.0	FBrf0245074	54	12	0
-SplitWang2020b	staging	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	0	3	0
+SplitTurner_Evans2020	staging	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY-SA_4.0	FBrf0246945	8	23	0
+SplitWang2020a	staging	Split-GAL4 lines from Wang et al., 2020a	CC-BY-SA_4.0	FBrf0245074	62	12	0
+SplitWang2020b	staging	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	4	3	0
+Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	0	0	14
+Strother2017	staging	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	14
 Valdes_Aleman2021	staging	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	CC-BY-SA_4.0	FBrf0247750	0	5	0
 Wang2020c	staging	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	3	0
 Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	38	108
