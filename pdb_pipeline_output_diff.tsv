@@ -1,6 +1,8 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
 Andrade2019	pdb	EM L1 Andrade et al. 2019	CC-BY-SA_4.0	FBrf0241389	845	10	0
 Andrade2019	pipeline_output	EM L1 Andrade et al. 2019	CC-BY-SA_4.0	FBrf0241389	846	10	0
+Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2455	129	217
+Aso2014	pipeline_output	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2447	129	217
 Baltruschat2021	pipeline_output	EM FAFB Baltruschat et al 2021	CC-BY-SA_4.0	FBrf0248487	8	0	0
 BatesSchlegel2020	pdb	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	456	0	0
 BatesSchlegel2020	pipeline_output	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	454	0	0
@@ -13,7 +15,7 @@ Burgos2018	pipeline_output	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA
 Cachero2010	pdb	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	187	120
 Cachero2010	pipeline_output	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	120
 Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	329	122	306
-Dolan2019	pipeline_output	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	330	122	306
+Dolan2019	pipeline_output	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	227	122	306
 Eichler2017	pdb	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	387	25	27
 Eichler2017	pipeline_output	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	27
 Eschbach2020	pdb	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	0	0
@@ -43,8 +45,6 @@ Lillvis2018	pipeline_output	Neurons involved in courtship and song (Lillvis2018)
 Lilvis2018	pdb	Neurons involved in courtship and song (Lilvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0
 Marin2020	pdb	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	301	0	0
 Marin2020	pipeline_output	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	0	0
-Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	114
-Matsuo2016	pipeline_output	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
 McKellar2020	pipeline_output	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	307
 Miroschnikow2018	pdb	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	30	0
 Miroschnikow2018	pipeline_output	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	39	0
