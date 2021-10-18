@@ -1,4 +1,4 @@
-# VFB_reporting_results
+# VFB_reporting_results [![Create Reports](https://github.com/VirtualFlyBrain/VFB_reporting_results/actions/workflows/create_reports.yml/badge.svg)](https://github.com/VirtualFlyBrain/VFB_reporting_results/actions/workflows/create_reports.yml)
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
  Current results are from the latest travis build #968 from commit: 'no change' on master
