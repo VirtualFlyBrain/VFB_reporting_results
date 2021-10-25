@@ -1,3 +1,23 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
+Berck2016	pdb	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	88	3
+Berck2016	pipeline_output	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	90	3
+BrainName_Ito_half_brain	pdb	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	389	0
+BrainName_Ito_half_brain	pipeline_output	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	391	0
+Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	25	1
+Chiang2010	pipeline_output	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	24	1
+Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	122	306
+Dolan2019	pipeline_output	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	306
+FafbDolan2019	pdb	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	122	306
+FafbDolan2019	pipeline_output	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	306
+FlyLight2019LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	122	306
+FlyLight2019LateralHorn2019	pipeline_output	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	322	306
+FlyLight2019Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	40	99
+FlyLight2019Wu2016	pipeline_output	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	99
+JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	389	0
+JenettShinomya_BrainName	pipeline_output	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	391	0
+LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	122	306
+LateralHorn2019	pipeline_output	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	306
 Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
 Matsuo2016	pipeline_output	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	114
+Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	40	99
+Wu2016	pipeline_output	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	99
