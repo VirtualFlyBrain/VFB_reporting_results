@@ -1,19 +1,19 @@
-skid	name	paper_id	paper_name	FBbt_ID
-36675	A02n_a3r Pseudolooper-4	2072148	Gerhard et al. 2017	
-189519	ddaC_a3l	2072148	Gerhard et al. 2017	
-406883	A02m_a3l Pseudolooper-3	2072148	Gerhard et al. 2017	
-1078668	A02n_a3l Pseudolooper-4	2072148	Gerhard et al. 2017	
-1083314	A02m_a3r Pseudolooper-3	2072148	Gerhard et al. 2017	
-1584165	A10a_a3r Chair-1	2072148	Gerhard et al. 2017	
-1587380	A10a_a3l Chair-1	2072148	Gerhard et al. 2017	
-1591464	v'ada_a3l	2072148	Gerhard et al. 2017	
-1591468	vdaB_a3l	2072148	Gerhard et al. 2017	
-1591472	ddaC_a3r	2072148	Gerhard et al. 2017	
-1591477	v'ada_a3r	2072148	Gerhard et al. 2017	
-1591487	A09l_a3r Down-and-back-1	2072148	Gerhard et al. 2017	
-1591495	A09l_a3l Down-and-back-1	2072148	Gerhard et al. 2017	
-1717121	A09a_a3l Basin-2	2072148	Gerhard et al. 2017	
-1725730	A09c_a3l Basin-4	2072148	Gerhard et al. 2017	
-1771441	A09a_a3r Basin-2	2072148	Gerhard et al. 2017	
-1868541	A09c_a3r Basin-4	2072148	Gerhard et al. 2017	
-1870224	vdaB_a3r	2072148	Gerhard et al. 2017	
+skid	name	paper_id	paper_name	annotations	FBbt_ID
+36675	A02n_a3r Pseudolooper-4	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), VNC (1782339), classIV-preferred (1782143), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+189519	ddaC_a3l	2072148	Gerhard et al. 2017	A3 (1782191), md class IV (1782163), ISN (1782165), Left (1782132), L3_core (1970753), a3ppks (1970869), Javier class IV (1971793), Gerhard et al. 2017 (2072148)	
+406883	A02m_a3l Pseudolooper-3	2072148	Gerhard et al. 2017	A3 (1782191), VNC (1782339), classIV-preferred (1782143), Left (1782132), focus (1822495), gen_fig (1970689), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1078668	A02n_a3l Pseudolooper-4	2072148	Gerhard et al. 2017	A3 (1782191), VNC (1782339), classIV-preferred (1782143), Left (1782132), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1083314	A02m_a3r Pseudolooper-3	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), VNC (1782339), classIV-preferred (1782143), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1584165	A10a_a3r Chair-1	2072148	Gerhard et al. 2017	A3 (1782191), VNC (1782339), classIV-preferred (1782143), Left (1782132), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1587380	A10a_a3l Chair-1	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), VNC (1782339), classIV-preferred (1782143), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1591464	v'ada_a3l	2072148	Gerhard et al. 2017	A3 (1782191), md class IV (1782163), SN (1782170), Left (1782132), L3_core (1970753), a3ppks (1970869), Javier class IV (1971793), Gerhard et al. 2017 (2072148)	
+1591468	vdaB_a3l	2072148	Gerhard et al. 2017	A3 (1782191), md class IV (1782163), SN (1782170), Left (1782132), L3_core (1970753), a3ppks (1970869), Javier class IV (1971793), Gerhard et al. 2017 (2072148)	
+1591472	ddaC_a3r	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), ISN (1782165), md class IV (1782163), L3_core (1970753), a3ppks (1970869), Javier class IV (1971793), Gerhard et al. 2017 (2072148)	
+1591477	v'ada_a3r	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), SN (1782170), md class IV (1782163), L3_core (1970753), a3ppks (1970869), Javier class IV (1971793), Gerhard et al. 2017 (2072148)	
+1591487	A09l_a3r Down-and-back-1	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), VNC (1782339), classIV-preferred (1782143), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1591495	A09l_a3l Down-and-back-1	2072148	Gerhard et al. 2017	A3 (1782191), VNC (1782339), classIV-preferred (1782143), Left (1782132), focus (1822495), L3_core (1970753), Gerhard et al. 2017 (2072148)	
+1717121	A09a_a3l Basin-2	2072148	Gerhard et al. 2017	A3 (1782191), VNC (1782339), classIV-preferred (1782143), Left (1782132), focus (1822495), L3_core (1970753), Javier Basin (1971784), Gerhard et al. 2017 (2072148)	
+1725730	A09c_a3l Basin-4	2072148	Gerhard et al. 2017	A3 (1782191), VNC (1782339), classIV-preferred (1782143), Left (1782132), focus (1822495), L3_core (1970753), Javier Basin (1971784), Gerhard et al. 2017 (2072148)	
+1771441	A09a_a3r Basin-2	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), VNC (1782339), classIV-preferred (1782143), focus (1822495), L3_core (1970753), Javier Basin (1971784), Gerhard et al. 2017 (2072148)	
+1868541	A09c_a3r Basin-4	2072148	Gerhard et al. 2017	classIV-preferred (1782143), A3 (1782191), Right (1782126), VNC (1782339), focus (1822495), L3_core (1970753), Javier Basin (1971784), Gerhard et al. 2017 (2072148)	
+1870224	vdaB_a3r	2072148	Gerhard et al. 2017	A3 (1782191), Right (1782126), SN (1782170), md class IV (1782163), L3_core (1970753), a3ppks (1970869), Javier class IV (1971793), Gerhard et al. 2017 (2072148)	

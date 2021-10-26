@@ -1,38 +1,38 @@
-skid	name	paper_id	paper_name
-18924138	lch5-3 or 1 R	19428501	Valdes-Aleman et al. 2021
-18927547	Ladder-b?	19428501	Valdes-Aleman et al. 2021
-18934554	Ladder-d?	19428501	Valdes-Aleman et al. 2021
-18934596	lch L a	19428501	Valdes-Aleman et al. 2021
-19040878	lch5-5 R	19428501	Valdes-Aleman et al. 2021
-19042468	lch5-2/4 R	19428501	Valdes-Aleman et al. 2021
-19044665	lch5-4/2 R	19428501	Valdes-Aleman et al. 2021
-19046954	Basin-4 R a	19428501	Valdes-Aleman et al. 2021
-19050948	Basin R a	19428501	Valdes-Aleman et al. 2021
-19051485	Basin-2 R a	19428501	Valdes-Aleman et al. 2021
-19052035	lch5-1 or 3 R	19428501	Valdes-Aleman et al. 2021
-19152722	vch L a	19428501	Valdes-Aleman et al. 2021
-19152889	vch L a	19428501	Valdes-Aleman et al. 2021
-19160403	vch L a	19428501	Valdes-Aleman et al. 2021
-19161095	Basin L a	19428501	Valdes-Aleman et al. 2021
-19162459	lch L a	19428501	Valdes-Aleman et al. 2021
-19163524	lch L a	19428501	Valdes-Aleman et al. 2021
-19163814	lch L a	19428501	Valdes-Aleman et al. 2021
-19164165	lch L a	19428501	Valdes-Aleman et al. 2021
-19164185	Ladder-f?	19428501	Valdes-Aleman et al. 2021
-19165552	Drunken-1 L	19428501	Valdes-Aleman et al. 2021
-19168151	Griddle-2 R	19428501	Valdes-Aleman et al. 2021
-19169304	Drunken-1 R	19428501	Valdes-Aleman et al. 2021
-19172518	Handle-A	19428501	Valdes-Aleman et al. 2021
-19181097	Basin L a	19428501	Valdes-Aleman et al. 2021
-19181111	Basin L a	19428501	Valdes-Aleman et al. 2021
-19191355	Basin L a	19428501	Valdes-Aleman et al. 2021
-19219359	Griddle-1 R	19428501	Valdes-Aleman et al. 2021
-19227186	vch R a	19428501	Valdes-Aleman et al. 2021
-19229711	vch R a	19428501	Valdes-Aleman et al. 2021
-19230858	vch R a abnormal branch	19428501	Valdes-Aleman et al. 2021
-19231653	Basin R a	19428501	Valdes-Aleman et al. 2021
-19289095	Ladder-b? d? a	19428501	Valdes-Aleman et al. 2021
-19289102	Ladder-e	19428501	Valdes-Aleman et al. 2021
-19295068	Ladder-c	19428501	Valdes-Aleman et al. 2021
-19395916	Griddle-2 L	19428501	Valdes-Aleman et al. 2021
-19395922	Griddle-1 L	19428501	Valdes-Aleman et al. 2021
+skid	name	paper_id	paper_name	annotations
+18924138	lch5-3 or 1 R	19428501	Valdes-Aleman et al. 2021	lch5 (19042464), chordotonal (19044663), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+18927547	Ladder-b?	19428501	Valdes-Aleman et al. 2021	Javier ladder (19287799), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+18934554	Ladder-d?	19428501	Valdes-Aleman et al. 2021	selection (19165486), Javier ladder (19287799), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+18934596	lch L a	19428501	Valdes-Aleman et al. 2021	Neuron 19161484 (19161487), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19040878	lch5-5 R	19428501	Valdes-Aleman et al. 2021	lch5 (19042464), chordotonal (19044663), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19042468	lch5-2/4 R	19428501	Valdes-Aleman et al. 2021	chordotonal (19044663), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19044665	lch5-4/2 R	19428501	Valdes-Aleman et al. 2021	chordotonal (19044663), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19046954	Basin-4 R a	19428501	Valdes-Aleman et al. 2021	Basin-4 (19049855), Javier Basins (19194022), Javier to analyze (19359879), Basins A (19418561), Basin-4 Right (19418631), Valdes-Aleman et al. 2021 (19428501)
+19050948	Basin R a	19428501	Valdes-Aleman et al. 2021	Javier Basins (19194022), Javier to analyze (19359879), Basins A (19418561), Valdes-Aleman et al. 2021 (19428501)
+19051485	Basin-2 R a	19428501	Valdes-Aleman et al. 2021	Javier Basins (19194022), Javier to analyze (19359879), Basins A (19418561), Valdes-Aleman et al. 2021 (19428501)
+19052035	lch5-1 or 3 R	19428501	Valdes-Aleman et al. 2021	chordotonal (19044663), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19152722	vch L a	19428501	Valdes-Aleman et al. 2021	selection (19165486), ventral chordotonals (19165526), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19152889	vch L a	19428501	Valdes-Aleman et al. 2021	selection (19165486), ventral chordotonals (19165526), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19160403	vch L a	19428501	Valdes-Aleman et al. 2021	selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19161095	Basin L a	19428501	Valdes-Aleman et al. 2021	Javier Basins (19194022), Basin-1 (19297027), Javier to analyze (19359879), Basins A (19418561), Valdes-Aleman et al. 2021 (19428501)
+19162459	lch L a	19428501	Valdes-Aleman et al. 2021	Neuron 19163403 (19163412), Neuron 19163437 (19163440), selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19163524	lch L a	19428501	Valdes-Aleman et al. 2021	selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19163814	lch L a	19428501	Valdes-Aleman et al. 2021	selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19164165	lch L a	19428501	Valdes-Aleman et al. 2021	selection (19165486), Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19164185	Ladder-f?	19428501	Valdes-Aleman et al. 2021	Javier ladder (19287799), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19165552	Drunken-1 L	19428501	Valdes-Aleman et al. 2021	Javier Drunken (19388858), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19168151	Griddle-2 R	19428501	Valdes-Aleman et al. 2021	Javier Griddle (19395908), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19169304	Drunken-1 R	19428501	Valdes-Aleman et al. 2021	Neuron 19171616 (19171619), Javier Drunken (19388858), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19172518	Handle-A	19428501	Valdes-Aleman et al. 2021	Valdes-Aleman et al. 2021 (19428501)
+19181097	Basin L a	19428501	Valdes-Aleman et al. 2021	Javier Basins (19194022), Basin-3 (19297030), Javier to analyze (19359879), Basins A (19418561), Valdes-Aleman et al. 2021 (19428501)
+19181111	Basin L a	19428501	Valdes-Aleman et al. 2021	Javier Basins (19194022), Basin-2 (19297025), Javier to analyze (19359879), Basins A (19418561), Valdes-Aleman et al. 2021 (19428501)
+19191355	Basin L a	19428501	Valdes-Aleman et al. 2021	Neuron 19194890 (19194893), Javier Basins (19194022), Basin-4 (19049855), Javier to analyze (19359879), Basins A (19418561), Basin-4 Left (19418629), Valdes-Aleman et al. 2021 (19428501)
+19219359	Griddle-1 R	19428501	Valdes-Aleman et al. 2021	Javier Griddle (19395908), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19227186	vch R a	19428501	Valdes-Aleman et al. 2021	Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19229711	vch R a	19428501	Valdes-Aleman et al. 2021	Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19230858	vch R a abnormal branch	19428501	Valdes-Aleman et al. 2021	Javier chordotonal (19165478), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19231653	Basin R a	19428501	Valdes-Aleman et al. 2021	Javier Basins (19194022), Javier to analyze (19359879), Basins A (19418561), Basin-4 R a (19418570), Valdes-Aleman et al. 2021 (19428501)
+19289095	Ladder-b? d? a	19428501	Valdes-Aleman et al. 2021	Javier ladder (19287799), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19289102	Ladder-e	19428501	Valdes-Aleman et al. 2021	Javier ladder (19287799), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19295068	Ladder-c	19428501	Valdes-Aleman et al. 2021	Javier ladder (19287799), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19395916	Griddle-2 L	19428501	Valdes-Aleman et al. 2021	Javier Griddle (19395908), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
+19395922	Griddle-1 L	19428501	Valdes-Aleman et al. 2021	Javier Griddle (19395908), Javier to analyze (19359879), Valdes-Aleman et al. 2021 (19428501)
