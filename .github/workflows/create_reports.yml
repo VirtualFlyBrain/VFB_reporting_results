@@ -82,6 +82,8 @@ jobs:
         run: |
           git config --global user.email "support@virtualflybrain.org"
           git config --global user.name "gitHub actions"
+          cd VFB_reporting/VFB_reporting_results
+          git add .
           git status
 
       - name: Commit changes
