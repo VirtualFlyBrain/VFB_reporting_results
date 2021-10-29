@@ -667,8 +667,8 @@ filename	label	is_a	part_of	comment	dbxrefs
 65762	neuron 65763 (FANC:65762)	neuron|motor neuron|mesothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:65762
 65770	neuron 65771 (FANC:65770)	neuron|campaniform sensillum|sensory neuron	female organism|adult ventral nerve cord		catmaid_fanc1:65770
 65781	neuron 65782 (FANC:65781)	neuron|campaniform sensillum|sensory neuron	female organism|adult ventral nerve cord		catmaid_fanc1:65781
-65806	neuron 65807 (FANC:65806)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCSreceives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:65806
-65855	neuron 65856 (FANC:65855)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCSreceives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:65855
+65806	neuron 65807 (FANC:65806)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCS, receives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:65806
+65855	neuron 65856 (FANC:65855)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCS, receives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:65855
 69550	neuron 69551 (FANC:69550)	neuron|motor neuron|mesothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:69550
 69567	neuron 69568 (FANC:69567)	neuron|motor neuron|mesothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:69567
 69576	neuron 69577 (FANC:69576)	neuron|motor neuron|mesothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:69576
@@ -884,10 +884,10 @@ filename	label	is_a	part_of	comment	dbxrefs
 83103	neuron 83104 (FANC:83103)	neuron|sensory neuron	female organism|adult ventral nerve cord		catmaid_fanc1:83103
 83121	neuron 83122 (FANC:83121)	neuron|sensory neuron|campaniform sensillum	female organism|adult ventral nerve cord		catmaid_fanc1:83121
 83134	neuron 83135 (FANC:83134)	neuron|sensory neuron|campaniform sensillum	female organism|adult ventral nerve cord		catmaid_fanc1:83134
-83340	neuron 83341 (FANC:83340)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCSreceives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:83340
+83340	neuron 83341 (FANC:83340)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCS, receives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:83340
 83367	neuron 83368 (FANC:83367)	neuron|sensory neuron	female organism|adult ventral nerve cord		catmaid_fanc1:83367
 83502	neuron 83503 (FANC:83502)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:83502
-83592	neuron 83593 (FANC:83592)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCSreceives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:83592
+83592	neuron 83593 (FANC:83592)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCS, receives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:83592
 83814	neuron 83815 (FANC:83814)	neuron|motor neuron|prothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:83814
 83842	neuron 83843 (FANC:83842)	neuron|motor neuron|metathoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:83842
 84008	neuron 84009 (FANC:84008)	neuron|sensory neuron|campaniform sensillum	female organism|adult ventral nerve cord		catmaid_fanc1:84008
@@ -931,7 +931,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 102603	neuron 102604 (FANC:102603)	neuron|sensory neuron|hair plate	female organism|adult ventral nerve cord		catmaid_fanc1:102603
 102611	neuron 102612 (FANC:102611)	neuron|sensory neuron	female organism|adult ventral nerve cord		catmaid_fanc1:102611
 102629	neuron 102630 (FANC:102629)	neuron|sensory neuron|hair plate	female organism|adult ventral nerve cord		catmaid_fanc1:102629
-102911	neuron 102912 (FANC:102911)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCSreceives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:102911
+102911	neuron 102912 (FANC:102911)	neuron|interneuron	female organism|adult ventral nerve cord	receives 2+ total synapses in left T1 from left or right T1 bCS, receives 5+ total synapses in left T1 from left or right T1 bCS	catmaid_fanc1:102911
 103826	neuron 103827 (FANC:103826)	neuron|motor neuron|metathoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:103826
 103839	neuron 103840 (FANC:103839)	neuron|motor neuron|metathoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:103839
 103875	neuron 103876 (FANC:103875)	neuron|motor neuron|metathoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:103875
