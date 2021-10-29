@@ -1,12 +1,12 @@
 filename	label	is_a	part_of	dbxrefs
 289	neuron 290 (FANC:289)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:289
-318	neuron 319 (FANC:318)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:318
-322	neuron 323 (FANC:322)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:322
-326	neuron 327 (FANC:326)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:326
-330	neuron 331 (FANC:330)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:330
-338	neuron 339 (FANC:338)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:338
-342	neuron 343 (FANC:342)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:342
-346	neuron 347 (FANC:346)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc1:346
+318	neuron 319 (FANC:318)	neuron|sensory neuron	female organism|adult ventral nerve cord	
+322	neuron 323 (FANC:322)	neuron|sensory neuron	female organism|adult ventral nerve cord	
+326	neuron 327 (FANC:326)	neuron|sensory neuron	female organism|adult ventral nerve cord	
+330	neuron 331 (FANC:330)	neuron|sensory neuron	female organism|adult ventral nerve cord	
+338	neuron 339 (FANC:338)	neuron|sensory neuron	female organism|adult ventral nerve cord	
+342	neuron 343 (FANC:342)	neuron|sensory neuron	female organism|adult ventral nerve cord	
+346	neuron 347 (FANC:346)	neuron|sensory neuron	female organism|adult ventral nerve cord	
 358	neuron 359 (FANC:358)	neuron|sensory neuron	female organism|adult ventral nerve cord	
 386	neuron 387 (FANC:386)	neuron|sensory neuron	female organism|adult ventral nerve cord	
 418	neuron 419 (FANC:418)	neuron|sensory neuron	female organism|adult ventral nerve cord	

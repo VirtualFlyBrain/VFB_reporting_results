@@ -1,15 +1,15 @@
 filename	label	is_a	part_of	dbxrefs
-492351	neuron 81155 - elastic transform (FANC:492351)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492351
-492385	neuron 13958 - elastic transform (FANC:492385)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492385
-492407	neuron 15499 - elastic transform (FANC:492407)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492407
-492425	neuron 15505 - elastic transform (FANC:492425)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492425
-492448	neuron 15511 - elastic transform (FANC:492448)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492448
-492467	neuron 15517 - elastic transform (FANC:492467)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492467|catmaid_fanc:123125
-492484	neuron 10680 - elastic transform (FANC:492484)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492484|catmaid_fanc:123125
-492501	neuron 2232 - elastic transform (FANC:492501)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492501|catmaid_fanc:123125
-492519	neuron 12990 - elastic transform (FANC:492519)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492519|catmaid_fanc:123125
-492534	neuron 3006 - elastic transform (FANC:492534)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492534|catmaid_fanc:123125
-492549	neuron 3788 - elastic transform (FANC:492549)	neuron|motor neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492549|catmaid_fanc:123125
+492351	neuron 81155 - elastic transform (FANC:492351)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492351|catmaid_fanc:123125
+492385	neuron 13958 - elastic transform (FANC:492385)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492407	neuron 15499 - elastic transform (FANC:492407)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492425	neuron 15505 - elastic transform (FANC:492425)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492448	neuron 15511 - elastic transform (FANC:492448)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492467	neuron 15517 - elastic transform (FANC:492467)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492484	neuron 10680 - elastic transform (FANC:492484)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492501	neuron 2232 - elastic transform (FANC:492501)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492519	neuron 12990 - elastic transform (FANC:492519)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492534	neuron 3006 - elastic transform (FANC:492534)	neuron|motor neuron	female organism|adult ventral nerve cord	
+492549	neuron 3788 - elastic transform (FANC:492549)	neuron|motor neuron	female organism|adult ventral nerve cord	
 492565	neuron 10829 - elastic transform (FANC:492565)	neuron|motor neuron	female organism|adult ventral nerve cord	
 492582	neuron 3793 - elastic transform (FANC:492582)	neuron|motor neuron	female organism|adult ventral nerve cord	
 492598	neuron 11349 - elastic transform (FANC:492598)	neuron|motor neuron	female organism|adult ventral nerve cord	
