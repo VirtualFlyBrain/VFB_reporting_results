@@ -1,5 +1,5 @@
 filename	label	is_a	part_of	dbxrefs
-492351	neuron 81155 - elastic transform (FANC:492351)	neuron|sensory neuron	female organism|adult ventral nerve cord	catmaid_fanc_jrc2018vncfemale:492351|catmaid_fanc:123125
+492351	neuron 81155 - elastic transform (FANC:492351)	neuron|sensory neuron	female organism|adult ventral nerve cord	|catmaid_fanc:123125
 492385	neuron 13958 - elastic transform (FANC:492385)	neuron|motor neuron	female organism|adult ventral nerve cord	
 492407	neuron 15499 - elastic transform (FANC:492407)	neuron|motor neuron	female organism|adult ventral nerve cord	
 492425	neuron 15505 - elastic transform (FANC:492425)	neuron|motor neuron	female organism|adult ventral nerve cord	
