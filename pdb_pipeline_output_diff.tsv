@@ -17,7 +17,5 @@ JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, S
 JenettShinomya_BrainName	pipeline_output	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	391	0
 LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	122	306
 LateralHorn2019	pipeline_output	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	306
-Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
-Matsuo2016	pipeline_output	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	114
 Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	40	99
 Wu2016	pipeline_output	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	99
