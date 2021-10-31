@@ -241,7 +241,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 497103	neuron 70436 (FANC:497103)	neuron|mesothoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497103|catmaid_fanc:70435
 497119	neuron 99711 (FANC:497119)	neuron|metathoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497119|catmaid_fanc:113443
 497135	neuron 9001 (FANC:497135)	neuron|prothoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497135|catmaid_fanc:9000
-497154	neuron 11052 (FANC:497154)	neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497154|catmaid_fanc:11051
+497154	neuron 11052 (FANC:497154)	neuron|motor neuron|adult ascending neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497154|catmaid_fanc:11051
 497174	neuron 9005 (FANC:497174)	neuron|prothoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497174|catmaid_fanc:9004
 497283	neuron 70444 (FANC:497283)	neuron|mesothoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497283|catmaid_fanc:70443
 497299	neuron 9009 (FANC:497299)	neuron|prothoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:497299|catmaid_fanc:9008
@@ -1948,7 +1948,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 667078	neuron 99711 - flipped (FANC:667078)	neuron|metathoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667078|catmaid_fanc:113443
 667094	neuron 96550 - flipped (FANC:667094)	neuron|metathoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667094|catmaid_fanc:96549
 667113	neuron 18216 - flipped (FANC:667113)	neuron|mesothoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667113|catmaid_fanc:18215
-667128	neuron 11052 - flipped (FANC:667128)	neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667128|catmaid_fanc:11051
+667128	neuron 11052 - flipped (FANC:667128)	neuron|motor neuron|adult ascending neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667128|catmaid_fanc:11051
 667145	neuron 70957 - flipped (FANC:667145)	neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667145|catmaid_fanc:70956
 667161	neuron 99745 - flipped (FANC:667161)	neuron|metathoracic leg muscle motor neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667161|catmaid_fanc:112941
 667177	neuron 74545 - flipped (FANC:667177)	neuron|motor neuron	female organism|adult ventral nerve cord	tracing from electron microscopy	catmaid_fanc_jrc2018vncfemale:667177|catmaid_fanc:74544

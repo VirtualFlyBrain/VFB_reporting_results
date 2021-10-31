@@ -155,7 +155,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 11001	neuron 11002 (FANC:11001)	neuron|motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11001
 11010	neuron 11011 (FANC:11010)	neuron|motor neuron|prothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11010
 11042	neuron 11043 (FANC:11042)	neuron|motor neuron|prothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11042
-11051	neuron 11052 (FANC:11051)	neuron|motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11051
+11051	neuron 11052 (FANC:11051)	neuron|adult ascending neuron|motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11051
 11061	neuron 11062 (FANC:11061)	neuron|motor neuron|prothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11061
 11126	neuron 11127 (FANC:11126)	neuron|motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11126
 11171	neuron 11172 (FANC:11171)	neuron|motor neuron|prothoracic leg muscle motor neuron	female organism|adult ventral nerve cord		catmaid_fanc1:11171
