@@ -1,7 +1,7 @@
 missing terms
 left T1 ventral edge
 bristle
-left T1 leg nerve
+prothoracic leg nerve on adult VNS template, Court2018
 T1 leg sensory neuron unclassified subtype
 ventral bifurcator
 skeleton
@@ -28,13 +28,12 @@ left-right homologs 581 & 11172
 T1 leg motor neuron L3 bundle
 possible stretch receptor
 leaves through damage
-right T1 leg nerve
 right T1 ventral nerve
 left-right homologs 10223 & 2212
 T1 leg motor neuron V4 bundle
-right T1 accessory nerve
 left-right homologs 9888 & 2216
 T1 leg motor neuron A3 bundle
+accessory prothoracic nerve on adult VNS template, Court2018
 left-right homologs 9878 & 2220
 right T1 dorsal nerve
 neck motor neuron D bundle
@@ -69,7 +68,6 @@ left-right homologs 9175 & 16185
 left-right homologs 9187 & 11934
 left-right homologs 9191 & 12803
 top NBLAST hit for 33C10-LexA, after excluding D bundles
-left T1 accessory nerve
 left T1 ventral nerve
 efferent neuron
 T1 leg DUM neuron
@@ -90,7 +88,6 @@ left-right homologs 9709 & 12964
 left-right homologs 9746 & 16765
 third NBLAST hit for 35C09-Gal4
 left-right homologs 9755 & 10841
-T1 multinerve neuron
 CoHP4
 left-right homologs 9857 & 11657
 T1 leg motor neuron A5 bundle
