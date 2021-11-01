@@ -4,3 +4,56 @@ posterior dorsal mesothoracic nerve on adult VNS template, Court2018
 anterior dorsal mesothoracic nerve on adult VNS template, Court2018
 haltere nerve
 bilateral
+update 200729
+assigned to jms
+left-right flipped
+sample identifier: 190819_F2_C2
+source: Tuthill lab
+labeling method: 35C09-Gal4
+labeling method: 33C10-LexA
+sample identifier: 190919_vnc1
+labeling method: 56H01-LexA
+sample identifier: 190919_vnc2
+labeling method: 35C09-Gal4, dye fill
+sample identifier: 190819_F2_C1
+labeling method: 21G01-LexA
+sample identifier: 190923_F1_C1
+template registration: 191030 elastix 16spacing
+labeling method: 22A08-Gal4, dye fill
+sample identifier: 190908_F1_C1
+template registration: 191025 elastix 24spacing
+labeling method: 81A07-Gal4, dye fill
+sample identifier: 190605_F1_C1
+template registration: 190827 elastix 14spacing
+sample identifier: 20190205_63_D4 red channel
+labeling method: R43C10-Gal4, MCFO
+template registration: 200705 elastix 8spacing_100bendingweight_4pts
+sample identifier: 20190205_63_D4 green channel
+sample identifier: 20190205_63_D1 green channel
+template registration: 200706 elastix 8spacing_60bendingweight
+sample identifier: 20190205_63_D1 blue channel
+T2 leg claw chordotonal neuron
+template registration: 200707 elastix 8spacing_100bendingweight_6pts
+sample identifier: 20190205_63_D5 green channel
+template registration: 200708 elastix 8spacing_100bendingweight_12pts
+labeling method: IAV-Gal4, MCFO
+sample identifier: 170602
+template registration: 200708 elastix 8spacing_100bendingweight_2pts
+labeling method: 22E04
+sample identifier: 170426 prothoracic
+sample identifier: 20190524_61_C5 green channel
+labeling method: R74F07-Gal4, MCFO
+template registration: 200709 elastix 8spacing_100bendingweight
+FeCS11-9
+template registration: provided by FlyLight Gen1 MCFO Collection
+sample identifier: 20190201_64_B2 red channel
+labeling method: R64C04-Gal4, MCFO
+sample identifier: 20190201_64_B2 blue channel
+T3 leg club chordotonal neuron
+labeling method: R21D12-Gal4, MCFO
+sample identifier: 20180918_62_F2 red channel
+template registration: 200713 elastix 8spacing_100bendingweight
+sample identifier: H2_ZB44_T1_VNC_20170928
+labeling method: JR239
+pruned
+pruned to nodes with radius 500
