@@ -1,8 +1,5 @@
 missing terms	meta
-sensory neuron of hair plate	hair plate (510500), sensory neuron (492331), left T1 leg nerve (493342), skeleton (492337), LINKED NEURON - elastic transformation of skeleton id 26715 in project id 2 on server https://catmaid3.hms.harvard.edu/catmaidvnc (510505), UPDATED FROM LINKED NEURON - 2020-06-26 11:32 PM (510304), tracing from electron microscopy (546593), UPDATED FROM LINKED NEURON - 2020-08-12 08:00 PM (654187), Paper: Phelps, Hildebrand, Graham et al. 2020 (672231)
 left-right flipped	['adult left-right flipped', 'left-right flipped', 'left-flipped']
-T2 leg claw chordotonal neuron	['adult mesothorasic leg claw chordotonal neuron', 'mesothorasic leg claw chordotonal neuron', 'adult T2 leg claw chordotonal neuron', 'T2 leg claw chordotonal neuron']
 FeCS11-9	['adult FeCS11-9', 'FeCS11-9']
-T3 leg club chordotonal neuron	['adult metathorasic leg club chordotonal neuron', 'metathorasic leg club chordotonal neuron', 'adult T3 leg club chordotonal neuron', 'T3 leg club chordotonal neuron']
 pruned	['adult pruned', 'pruned']
 pruned to nodes with radius 500	['adult pruned to nodes with radius 500', 'pruned to nodes with radius 500']
