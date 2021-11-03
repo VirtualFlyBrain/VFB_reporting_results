@@ -1,30 +1,44 @@
 object	relation	subject_external_id	subject_external_db	pub
+left side of organism	overlaps	289	fanc1	
 peripheral nervous system	overlaps	289	fanc1	
 adult ventral nerve cord	overlaps	289	fanc1	
+left side of organism	overlaps	318	fanc1	
 peripheral nervous system	overlaps	318	fanc1	
 adult ventral nerve cord	overlaps	318	fanc1	
+left side of organism	overlaps	322	fanc1	
 peripheral nervous system	overlaps	322	fanc1	
 adult ventral nerve cord	overlaps	322	fanc1	
+left side of organism	overlaps	326	fanc1	
 peripheral nervous system	overlaps	326	fanc1	
 adult ventral nerve cord	overlaps	326	fanc1	
+left side of organism	overlaps	330	fanc1	
 peripheral nervous system	overlaps	330	fanc1	
 adult ventral nerve cord	overlaps	330	fanc1	
+left side of organism	overlaps	338	fanc1	
 peripheral nervous system	overlaps	338	fanc1	
 adult ventral nerve cord	overlaps	338	fanc1	
+left side of organism	overlaps	342	fanc1	
 peripheral nervous system	overlaps	342	fanc1	
 adult ventral nerve cord	overlaps	342	fanc1	
+left side of organism	overlaps	346	fanc1	
 peripheral nervous system	overlaps	346	fanc1	
 adult ventral nerve cord	overlaps	346	fanc1	
+left side of organism	overlaps	358	fanc1	
 peripheral nervous system	overlaps	358	fanc1	
 adult ventral nerve cord	overlaps	358	fanc1	
+left side of organism	overlaps	386	fanc1	
 peripheral nervous system	overlaps	386	fanc1	
 adult ventral nerve cord	overlaps	386	fanc1	
+left side of organism	overlaps	418	fanc1	
 peripheral nervous system	overlaps	418	fanc1	
 adult ventral nerve cord	overlaps	418	fanc1	
+left side of organism	overlaps	434	fanc1	
 peripheral nervous system	overlaps	434	fanc1	
 adult ventral nerve cord	overlaps	434	fanc1	
+left side of organism	overlaps	451	fanc1	
 peripheral nervous system	overlaps	451	fanc1	
 adult ventral nerve cord	overlaps	451	fanc1	
+left side of organism	overlaps	459	fanc1	
 peripheral nervous system	overlaps	459	fanc1	
 adult ventral nerve cord	overlaps	459	fanc1	
 left side of organism	has soma location	463	fanc1	
@@ -51,37 +65,52 @@ adult ventral nerve cord	overlaps	487	fanc1
 left side of organism	has soma location	491	fanc1	
 peripheral nervous system	overlaps	491	fanc1	
 adult ventral nerve cord	overlaps	491	fanc1	
+left side of organism	overlaps	495	fanc1	
 peripheral nervous system	overlaps	495	fanc1	
 adult ventral nerve cord	overlaps	495	fanc1	
+left side of organism	overlaps	499	fanc1	
 peripheral nervous system	overlaps	499	fanc1	
 adult ventral nerve cord	overlaps	499	fanc1	
+left side of organism	overlaps	503	fanc1	
 peripheral nervous system	overlaps	503	fanc1	
 adult ventral nerve cord	overlaps	503	fanc1	
+left side of organism	overlaps	511	fanc1	
 peripheral nervous system	overlaps	511	fanc1	
 adult ventral nerve cord	overlaps	511	fanc1	
+left side of organism	overlaps	515	fanc1	
 peripheral nervous system	overlaps	515	fanc1	
 adult ventral nerve cord	overlaps	515	fanc1	
+left side of organism	overlaps	523	fanc1	
 peripheral nervous system	overlaps	523	fanc1	
 adult ventral nerve cord	overlaps	523	fanc1	
+left side of organism	overlaps	531	fanc1	
 peripheral nervous system	overlaps	531	fanc1	
 adult ventral nerve cord	overlaps	531	fanc1	
+left side of organism	overlaps	539	fanc1	
 peripheral nervous system	overlaps	539	fanc1	
 adult ventral nerve cord	overlaps	539	fanc1	
+left side of organism	overlaps	543	fanc1	
 peripheral nervous system	overlaps	543	fanc1	
 adult ventral nerve cord	overlaps	543	fanc1	
+left side of organism	overlaps	547	fanc1	
 peripheral nervous system	overlaps	547	fanc1	
 adult ventral nerve cord	overlaps	547	fanc1	
+left side of organism	overlaps	556	fanc1	
 peripheral nervous system	overlaps	556	fanc1	
 adult ventral nerve cord	overlaps	556	fanc1	
+left side of organism	overlaps	560	fanc1	
 peripheral nervous system	overlaps	560	fanc1	
 adult ventral nerve cord	overlaps	560	fanc1	
+left side of organism	overlaps	568	fanc1	
 peripheral nervous system	overlaps	568	fanc1	
 adult ventral nerve cord	overlaps	568	fanc1	
+left side of organism	overlaps	572	fanc1	
 peripheral nervous system	overlaps	572	fanc1	
 adult ventral nerve cord	overlaps	572	fanc1	
 left side of organism	has soma location	580	fanc1	
 peripheral nervous system	overlaps	580	fanc1	
 adult ventral nerve cord	overlaps	580	fanc1	
+left side of organism	overlaps	584	fanc1	
 peripheral nervous system	overlaps	584	fanc1	
 adult ventral nerve cord	overlaps	584	fanc1	
 right side of organism	has soma location	2179	fanc1	
@@ -135,8 +164,10 @@ adult ventral nerve cord	overlaps	3832	fanc1
 right side of organism	has soma location	3837	fanc1	
 peripheral nervous system	overlaps	3837	fanc1	
 adult ventral nerve cord	overlaps	3837	fanc1	
+right side of organism	overlaps	6105	fanc1	
 peripheral nervous system	overlaps	6105	fanc1	
 adult ventral nerve cord	overlaps	6105	fanc1	
+left side of organism	overlaps	6121	fanc1	
 peripheral nervous system	overlaps	6121	fanc1	
 adult ventral nerve cord	overlaps	6121	fanc1	
 right side of organism	has soma location	6653	fanc1	
@@ -166,8 +197,10 @@ adult ventral nerve cord	overlaps	9008	fanc1
 left side of organism	has soma location	9012	fanc1	
 peripheral nervous system	overlaps	9012	fanc1	
 adult ventral nerve cord	overlaps	9012	fanc1	
+left side of organism	overlaps	9016	fanc1	
 peripheral nervous system	overlaps	9016	fanc1	
 adult ventral nerve cord	overlaps	9016	fanc1	
+left side of organism	overlaps	9020	fanc1	
 peripheral nervous system	overlaps	9020	fanc1	
 adult ventral nerve cord	overlaps	9020	fanc1	
 left side of organism	has soma location	9024	fanc1	
@@ -191,6 +224,7 @@ adult ventral nerve cord	overlaps	9190	fanc1
 left side of organism	has soma location	9194	fanc1	
 peripheral nervous system	overlaps	9194	fanc1	
 adult ventral nerve cord	overlaps	9194	fanc1	
+left side of organism	overlaps	9202	fanc1	
 peripheral nervous system	overlaps	9202	fanc1	
 adult ventral nerve cord	overlaps	9202	fanc1	
 left side of organism	has soma location	9206	fanc1	
@@ -199,8 +233,11 @@ adult ventral nerve cord	overlaps	9206	fanc1
 left side of organism	has soma location	9210	fanc1	
 peripheral nervous system	overlaps	9210	fanc1	
 adult ventral nerve cord	overlaps	9210	fanc1	
+left side of organism	overlaps	9476	fanc1	
 peripheral nervous system	overlaps	9476	fanc1	
 adult ventral nerve cord	overlaps	9476	fanc1	
+left side of organism	overlaps	9493	fanc1	
+right side of organism	overlaps	9493	fanc1	
 peripheral nervous system	overlaps	9493	fanc1	
 adult ventral nerve cord	overlaps	9493	fanc1	
 left side of organism	has soma location	9551	fanc1	
@@ -231,8 +268,10 @@ adult ventral nerve cord	overlaps	9771	fanc1
 left side of organism	has soma location	9796	fanc1	
 peripheral nervous system	overlaps	9796	fanc1	
 adult ventral nerve cord	overlaps	9796	fanc1	
+left side of organism	overlaps	9841	fanc1	
 peripheral nervous system	overlaps	9841	fanc1	
 adult ventral nerve cord	overlaps	9841	fanc1	
+left side of organism	overlaps	9851	fanc1	
 peripheral nervous system	overlaps	9851	fanc1	
 adult ventral nerve cord	overlaps	9851	fanc1	
 left side of organism	has soma location	9856	fanc1	
@@ -257,11 +296,13 @@ adult ventral nerve cord	overlaps	9882	fanc1
 left side of organism	has soma location	9887	fanc1	
 peripheral nervous system	overlaps	9887	fanc1	
 adult ventral nerve cord	overlaps	9887	fanc1	
+left side of organism	overlaps	9892	fanc1	
 peripheral nervous system	overlaps	9892	fanc1	
 adult ventral nerve cord	overlaps	9892	fanc1	
 left side of organism	has soma location	9898	fanc1	
 peripheral nervous system	overlaps	9898	fanc1	
 adult ventral nerve cord	overlaps	9898	fanc1	
+left side of organism	overlaps	9912	fanc1	
 peripheral nervous system	overlaps	9912	fanc1	
 adult ventral nerve cord	overlaps	9912	fanc1	
 left side of organism	has soma location	9928	fanc1	
@@ -273,25 +314,34 @@ adult ventral nerve cord	overlaps	9934	fanc1
 left side of organism	has soma location	10207	fanc1	
 peripheral nervous system	overlaps	10207	fanc1	
 adult ventral nerve cord	overlaps	10207	fanc1	
+left side of organism	overlaps	10212	fanc1	
 peripheral nervous system	overlaps	10212	fanc1	
 adult ventral nerve cord	overlaps	10212	fanc1	
+left side of organism	overlaps	10217	fanc1	
 peripheral nervous system	overlaps	10217	fanc1	
 adult ventral nerve cord	overlaps	10217	fanc1	
 left side of organism	has soma location	10222	fanc1	
 peripheral nervous system	overlaps	10222	fanc1	
 adult ventral nerve cord	overlaps	10222	fanc1	
+left side of organism	overlaps	10227	fanc1	
 peripheral nervous system	overlaps	10227	fanc1	
 adult ventral nerve cord	overlaps	10227	fanc1	
+left side of organism	overlaps	10232	fanc1	
 peripheral nervous system	overlaps	10232	fanc1	
 adult ventral nerve cord	overlaps	10232	fanc1	
+left side of organism	overlaps	10237	fanc1	
 peripheral nervous system	overlaps	10237	fanc1	
 adult ventral nerve cord	overlaps	10237	fanc1	
+left side of organism	overlaps	10242	fanc1	
 peripheral nervous system	overlaps	10242	fanc1	
 adult ventral nerve cord	overlaps	10242	fanc1	
+left side of organism	overlaps	10247	fanc1	
 peripheral nervous system	overlaps	10247	fanc1	
 adult ventral nerve cord	overlaps	10247	fanc1	
+left side of organism	overlaps	10252	fanc1	
 peripheral nervous system	overlaps	10252	fanc1	
 adult ventral nerve cord	overlaps	10252	fanc1	
+left side of organism	overlaps	10258	fanc1	
 peripheral nervous system	overlaps	10258	fanc1	
 adult ventral nerve cord	overlaps	10258	fanc1	
 left side of organism	has soma location	10298	fanc1	
@@ -321,42 +371,61 @@ adult ventral nerve cord	overlaps	10413	fanc1
 left side of organism	has soma location	10423	fanc1	
 peripheral nervous system	overlaps	10423	fanc1	
 adult ventral nerve cord	overlaps	10423	fanc1	
+left side of organism	overlaps	10525	fanc1	
 peripheral nervous system	overlaps	10525	fanc1	
 adult ventral nerve cord	overlaps	10525	fanc1	
+left side of organism	overlaps	10530	fanc1	
 peripheral nervous system	overlaps	10530	fanc1	
 adult ventral nerve cord	overlaps	10530	fanc1	
+left side of organism	overlaps	10535	fanc1	
 peripheral nervous system	overlaps	10535	fanc1	
 adult ventral nerve cord	overlaps	10535	fanc1	
+left side of organism	overlaps	10541	fanc1	
 peripheral nervous system	overlaps	10541	fanc1	
 adult ventral nerve cord	overlaps	10541	fanc1	
+left side of organism	overlaps	10546	fanc1	
 peripheral nervous system	overlaps	10546	fanc1	
 adult ventral nerve cord	overlaps	10546	fanc1	
+left side of organism	overlaps	10551	fanc1	
 peripheral nervous system	overlaps	10551	fanc1	
 adult ventral nerve cord	overlaps	10551	fanc1	
+left side of organism	overlaps	10556	fanc1	
 peripheral nervous system	overlaps	10556	fanc1	
 adult ventral nerve cord	overlaps	10556	fanc1	
+left side of organism	overlaps	10561	fanc1	
 peripheral nervous system	overlaps	10561	fanc1	
 adult ventral nerve cord	overlaps	10561	fanc1	
+left side of organism	overlaps	10566	fanc1	
 peripheral nervous system	overlaps	10566	fanc1	
 adult ventral nerve cord	overlaps	10566	fanc1	
+left side of organism	overlaps	10571	fanc1	
 peripheral nervous system	overlaps	10571	fanc1	
 adult ventral nerve cord	overlaps	10571	fanc1	
+left side of organism	overlaps	10576	fanc1	
 peripheral nervous system	overlaps	10576	fanc1	
 adult ventral nerve cord	overlaps	10576	fanc1	
+left side of organism	overlaps	10581	fanc1	
 peripheral nervous system	overlaps	10581	fanc1	
 adult ventral nerve cord	overlaps	10581	fanc1	
+left side of organism	overlaps	10640	fanc1	
 peripheral nervous system	overlaps	10640	fanc1	
 adult ventral nerve cord	overlaps	10640	fanc1	
+left side of organism	overlaps	10645	fanc1	
 peripheral nervous system	overlaps	10645	fanc1	
 adult ventral nerve cord	overlaps	10645	fanc1	
+left side of organism	overlaps	10650	fanc1	
 peripheral nervous system	overlaps	10650	fanc1	
 adult ventral nerve cord	overlaps	10650	fanc1	
+left side of organism	overlaps	10655	fanc1	
 peripheral nervous system	overlaps	10655	fanc1	
 adult ventral nerve cord	overlaps	10655	fanc1	
+left side of organism	overlaps	10660	fanc1	
 peripheral nervous system	overlaps	10660	fanc1	
 adult ventral nerve cord	overlaps	10660	fanc1	
+left side of organism	overlaps	10665	fanc1	
 peripheral nervous system	overlaps	10665	fanc1	
 adult ventral nerve cord	overlaps	10665	fanc1	
+left side of organism	overlaps	10672	fanc1	
 peripheral nervous system	overlaps	10672	fanc1	
 adult ventral nerve cord	overlaps	10672	fanc1	
 left side of organism	has soma location	10679	fanc1	
@@ -453,10 +522,13 @@ adult ventral nerve cord	overlaps	11439	fanc1
 right side of organism	has soma location	11467	fanc1	
 peripheral nervous system	overlaps	11467	fanc1	
 adult ventral nerve cord	overlaps	11467	fanc1	
+right side of organism	overlaps	11487	fanc1	
 peripheral nervous system	overlaps	11487	fanc1	
 adult ventral nerve cord	overlaps	11487	fanc1	
+right side of organism	overlaps	11492	fanc1	
 peripheral nervous system	overlaps	11492	fanc1	
 adult ventral nerve cord	overlaps	11492	fanc1	
+right side of organism	overlaps	11497	fanc1	
 peripheral nervous system	overlaps	11497	fanc1	
 adult ventral nerve cord	overlaps	11497	fanc1	
 right side of organism	has soma location	11596	fanc1	
@@ -481,14 +553,19 @@ adult ventral nerve cord	overlaps	11697	fanc1
 right side of organism	has soma location	11714	fanc1	
 peripheral nervous system	overlaps	11714	fanc1	
 adult ventral nerve cord	overlaps	11714	fanc1	
+right side of organism	overlaps	11739	fanc1	
 peripheral nervous system	overlaps	11739	fanc1	
 adult ventral nerve cord	overlaps	11739	fanc1	
+right side of organism	overlaps	11743	fanc1	
 peripheral nervous system	overlaps	11743	fanc1	
 adult ventral nerve cord	overlaps	11743	fanc1	
+right side of organism	overlaps	11747	fanc1	
 peripheral nervous system	overlaps	11747	fanc1	
 adult ventral nerve cord	overlaps	11747	fanc1	
+right side of organism	overlaps	11769	fanc1	
 peripheral nervous system	overlaps	11769	fanc1	
 adult ventral nerve cord	overlaps	11769	fanc1	
+right side of organism	overlaps	11773	fanc1	
 peripheral nervous system	overlaps	11773	fanc1	
 adult ventral nerve cord	overlaps	11773	fanc1	
 left side of organism	has soma location	11786	fanc1	
@@ -503,8 +580,10 @@ adult ventral nerve cord	overlaps	11796	fanc1
 left side of organism	has soma location	11801	fanc1	
 peripheral nervous system	overlaps	11801	fanc1	
 adult ventral nerve cord	overlaps	11801	fanc1	
+left side of organism	overlaps	11806	fanc1	
 peripheral nervous system	overlaps	11806	fanc1	
 adult ventral nerve cord	overlaps	11806	fanc1	
+left side of organism	overlaps	11811	fanc1	
 peripheral nervous system	overlaps	11811	fanc1	
 adult ventral nerve cord	overlaps	11811	fanc1	
 left side of organism	has soma location	11816	fanc1	
@@ -549,12 +628,16 @@ adult ventral nerve cord	overlaps	12441	fanc1
 right side of organism	has soma location	12450	fanc1	
 peripheral nervous system	overlaps	12450	fanc1	
 adult ventral nerve cord	overlaps	12450	fanc1	
+right side of organism	overlaps	12472	fanc1	
 peripheral nervous system	overlaps	12472	fanc1	
 adult ventral nerve cord	overlaps	12472	fanc1	
+right side of organism	overlaps	12478	fanc1	
 peripheral nervous system	overlaps	12478	fanc1	
 adult ventral nerve cord	overlaps	12478	fanc1	
+left side of organism	overlaps	12602	fanc1	
 peripheral nervous system	overlaps	12602	fanc1	
 adult ventral nerve cord	overlaps	12602	fanc1	
+left side of organism	overlaps	12637	fanc1	
 peripheral nervous system	overlaps	12637	fanc1	
 adult ventral nerve cord	overlaps	12637	fanc1	
 right side of organism	has soma location	12707	fanc1	
@@ -566,6 +649,7 @@ adult ventral nerve cord	overlaps	12735	fanc1
 right side of organism	has soma location	12766	fanc1	
 peripheral nervous system	overlaps	12766	fanc1	
 adult ventral nerve cord	overlaps	12766	fanc1	
+left side of organism	overlaps	12781	fanc1	
 peripheral nervous system	overlaps	12781	fanc1	
 adult ventral nerve cord	overlaps	12781	fanc1	
 right side of organism	has soma location	12785	fanc1	
@@ -574,6 +658,7 @@ adult ventral nerve cord	overlaps	12785	fanc1
 right side of organism	has soma location	12802	fanc1	
 peripheral nervous system	overlaps	12802	fanc1	
 adult ventral nerve cord	overlaps	12802	fanc1	
+right side of organism	overlaps	12813	fanc1	
 peripheral nervous system	overlaps	12813	fanc1	
 adult ventral nerve cord	overlaps	12813	fanc1	
 right side of organism	has soma location	12821	fanc1	
@@ -585,6 +670,7 @@ adult ventral nerve cord	overlaps	12916	fanc1
 right side of organism	has soma location	12963	fanc1	
 peripheral nervous system	overlaps	12963	fanc1	
 adult ventral nerve cord	overlaps	12963	fanc1	
+right side of organism	overlaps	12968	fanc1	
 peripheral nervous system	overlaps	12968	fanc1	
 adult ventral nerve cord	overlaps	12968	fanc1	
 left side of organism	has soma location	12989	fanc1	
@@ -605,23 +691,31 @@ adult ventral nerve cord	overlaps	13030	fanc1
 left side of organism	has soma location	13035	fanc1	
 peripheral nervous system	overlaps	13035	fanc1	
 adult ventral nerve cord	overlaps	13035	fanc1	
+left side of organism	overlaps	13044	fanc1	
 peripheral nervous system	overlaps	13044	fanc1	
 adult ventral nerve cord	overlaps	13044	fanc1	
+left side of organism	overlaps	13048	fanc1	
 peripheral nervous system	overlaps	13048	fanc1	
 adult ventral nerve cord	overlaps	13048	fanc1	
+right side of organism	overlaps	13053	fanc1	
 peripheral nervous system	overlaps	13053	fanc1	
 adult ventral nerve cord	overlaps	13053	fanc1	
+left side of organism	overlaps	13069	fanc1	
 peripheral nervous system	overlaps	13069	fanc1	
 adult ventral nerve cord	overlaps	13069	fanc1	
+left side of organism	overlaps	13078	fanc1	
 peripheral nervous system	overlaps	13078	fanc1	
 adult ventral nerve cord	overlaps	13078	fanc1	
+left side of organism	overlaps	13094	fanc1	
 peripheral nervous system	overlaps	13094	fanc1	
 adult ventral nerve cord	overlaps	13094	fanc1	
 left side of organism	has soma location	13169	fanc1	
 peripheral nervous system	overlaps	13169	fanc1	
 adult ventral nerve cord	overlaps	13169	fanc1	
+left side of organism	overlaps	13188	fanc1	
 peripheral nervous system	overlaps	13188	fanc1	
 adult ventral nerve cord	overlaps	13188	fanc1	
+left side of organism	overlaps	13746	fanc1	
 peripheral nervous system	overlaps	13746	fanc1	
 adult ventral nerve cord	overlaps	13746	fanc1	
 right side of organism	has soma location	13950	fanc1	
@@ -630,20 +724,28 @@ adult ventral nerve cord	overlaps	13950	fanc1
 right side of organism	has soma location	13957	fanc1	
 peripheral nervous system	overlaps	13957	fanc1	
 adult ventral nerve cord	overlaps	13957	fanc1	
+left side of organism	overlaps	14561	fanc1	
 peripheral nervous system	overlaps	14561	fanc1	
 adult ventral nerve cord	overlaps	14561	fanc1	
+left side of organism	overlaps	14712	fanc1	
 peripheral nervous system	overlaps	14712	fanc1	
 adult ventral nerve cord	overlaps	14712	fanc1	
+left side of organism	overlaps	14720	fanc1	
 peripheral nervous system	overlaps	14720	fanc1	
 adult ventral nerve cord	overlaps	14720	fanc1	
+left side of organism	overlaps	14766	fanc1	
 peripheral nervous system	overlaps	14766	fanc1	
 adult ventral nerve cord	overlaps	14766	fanc1	
+left side of organism	overlaps	14820	fanc1	
 peripheral nervous system	overlaps	14820	fanc1	
 adult ventral nerve cord	overlaps	14820	fanc1	
+left side of organism	overlaps	14892	fanc1	
 peripheral nervous system	overlaps	14892	fanc1	
 adult ventral nerve cord	overlaps	14892	fanc1	
+left side of organism	overlaps	14897	fanc1	
 peripheral nervous system	overlaps	14897	fanc1	
 adult ventral nerve cord	overlaps	14897	fanc1	
+left side of organism	overlaps	14905	fanc1	
 peripheral nervous system	overlaps	14905	fanc1	
 adult ventral nerve cord	overlaps	14905	fanc1	
 right side of organism	has soma location	14939	fanc1	
@@ -652,17 +754,22 @@ adult ventral nerve cord	overlaps	14939	fanc1
 right side of organism	has soma location	14948	fanc1	
 peripheral nervous system	overlaps	14948	fanc1	
 adult ventral nerve cord	overlaps	14948	fanc1	
+right side of organism	overlaps	14969	fanc1	
 peripheral nervous system	overlaps	14969	fanc1	
 adult ventral nerve cord	overlaps	14969	fanc1	
+right side of organism	overlaps	15047	fanc1	
 peripheral nervous system	overlaps	15047	fanc1	
 adult ventral nerve cord	overlaps	15047	fanc1	
 left side of organism	has soma location	15083	fanc1	
 peripheral nervous system	overlaps	15083	fanc1	
 adult ventral nerve cord	overlaps	15083	fanc1	
+left side of organism	overlaps	15098	fanc1	
 peripheral nervous system	overlaps	15098	fanc1	
 adult ventral nerve cord	overlaps	15098	fanc1	
+left side of organism	overlaps	15125	fanc1	
 peripheral nervous system	overlaps	15125	fanc1	
 adult ventral nerve cord	overlaps	15125	fanc1	
+left side of organism	overlaps	15163	fanc1	
 peripheral nervous system	overlaps	15163	fanc1	
 adult ventral nerve cord	overlaps	15163	fanc1	
 right side of organism	has soma location	15212	fanc1	
@@ -683,19 +790,25 @@ adult ventral nerve cord	overlaps	15516	fanc1
 right side of organism	has soma location	15679	fanc1	
 peripheral nervous system	overlaps	15679	fanc1	
 adult ventral nerve cord	overlaps	15679	fanc1	
+left side of organism	overlaps	16011	fanc1	
 peripheral nervous system	overlaps	16011	fanc1	
 adult ventral nerve cord	overlaps	16011	fanc1	
 right side of organism	has soma location	16025	fanc1	
 peripheral nervous system	overlaps	16025	fanc1	
 adult ventral nerve cord	overlaps	16025	fanc1	
+right side of organism	overlaps	16040	fanc1	
 peripheral nervous system	overlaps	16040	fanc1	
 adult ventral nerve cord	overlaps	16040	fanc1	
+right side of organism	overlaps	16045	fanc1	
 peripheral nervous system	overlaps	16045	fanc1	
 adult ventral nerve cord	overlaps	16045	fanc1	
+right side of organism	overlaps	16049	fanc1	
 peripheral nervous system	overlaps	16049	fanc1	
 adult ventral nerve cord	overlaps	16049	fanc1	
+right side of organism	overlaps	16054	fanc1	
 peripheral nervous system	overlaps	16054	fanc1	
 adult ventral nerve cord	overlaps	16054	fanc1	
+right side of organism	overlaps	16070	fanc1	
 peripheral nervous system	overlaps	16070	fanc1	
 adult ventral nerve cord	overlaps	16070	fanc1	
 right side of organism	has soma location	16184	fanc1	
@@ -710,14 +823,19 @@ adult ventral nerve cord	overlaps	16222	fanc1
 right side of organism	has soma location	16241	fanc1	
 peripheral nervous system	overlaps	16241	fanc1	
 adult ventral nerve cord	overlaps	16241	fanc1	
+right side of organism	overlaps	16581	fanc1	
 peripheral nervous system	overlaps	16581	fanc1	
 adult ventral nerve cord	overlaps	16581	fanc1	
+right side of organism	overlaps	16681	fanc1	
 peripheral nervous system	overlaps	16681	fanc1	
 adult ventral nerve cord	overlaps	16681	fanc1	
+right side of organism	overlaps	16704	fanc1	
 peripheral nervous system	overlaps	16704	fanc1	
 adult ventral nerve cord	overlaps	16704	fanc1	
+right side of organism	overlaps	16754	fanc1	
 peripheral nervous system	overlaps	16754	fanc1	
 adult ventral nerve cord	overlaps	16754	fanc1	
+right side of organism	overlaps	16759	fanc1	
 peripheral nervous system	overlaps	16759	fanc1	
 adult ventral nerve cord	overlaps	16759	fanc1	
 right side of organism	has soma location	16764	fanc1	
@@ -732,26 +850,34 @@ adult ventral nerve cord	overlaps	16801	fanc1
 left side of organism	has soma location	16810	fanc1	
 peripheral nervous system	overlaps	16810	fanc1	
 adult ventral nerve cord	overlaps	16810	fanc1	
+left side of organism	overlaps	16828	fanc1	
 peripheral nervous system	overlaps	16828	fanc1	
 adult ventral nerve cord	overlaps	16828	fanc1	
+left side of organism	overlaps	16832	fanc1	
 peripheral nervous system	overlaps	16832	fanc1	
 adult ventral nerve cord	overlaps	16832	fanc1	
+left side of organism	overlaps	16850	fanc1	
 peripheral nervous system	overlaps	16850	fanc1	
 adult ventral nerve cord	overlaps	16850	fanc1	
 left side of organism	has soma location	16856	fanc1	
 peripheral nervous system	overlaps	16856	fanc1	
 adult ventral nerve cord	overlaps	16856	fanc1	
+left side of organism	overlaps	16873	fanc1	
 peripheral nervous system	overlaps	16873	fanc1	
 adult ventral nerve cord	overlaps	16873	fanc1	
+left side of organism	overlaps	16879	fanc1	
 peripheral nervous system	overlaps	16879	fanc1	
 adult ventral nerve cord	overlaps	16879	fanc1	
 right side of organism	has soma location	17386	fanc1	
 peripheral nervous system	overlaps	17386	fanc1	
 adult ventral nerve cord	overlaps	17386	fanc1	
+right side of organism	overlaps	17664	fanc1	
 peripheral nervous system	overlaps	17664	fanc1	
 adult ventral nerve cord	overlaps	17664	fanc1	
+right side of organism	overlaps	17764	fanc1	
 peripheral nervous system	overlaps	17764	fanc1	
 adult ventral nerve cord	overlaps	17764	fanc1	
+left side of organism	overlaps	17897	fanc1	
 peripheral nervous system	overlaps	17897	fanc1	
 adult ventral nerve cord	overlaps	17897	fanc1	
 right side of organism	has soma location	17999	fanc1	
@@ -817,8 +943,10 @@ adult ventral nerve cord	overlaps	18449	fanc1
 left side of organism	has soma location	18454	fanc1	
 peripheral nervous system	overlaps	18454	fanc1	
 adult ventral nerve cord	overlaps	18454	fanc1	
+left side of organism	overlaps	18459	fanc1	
 peripheral nervous system	overlaps	18459	fanc1	
 adult ventral nerve cord	overlaps	18459	fanc1	
+left side of organism	overlaps	18516	fanc1	
 peripheral nervous system	overlaps	18516	fanc1	
 adult ventral nerve cord	overlaps	18516	fanc1	
 right side of organism	has soma location	18543	fanc1	
@@ -851,68 +979,100 @@ adult ventral nerve cord	overlaps	18616	fanc1
 right side of organism	has soma location	18622	fanc1	
 peripheral nervous system	overlaps	18622	fanc1	
 adult ventral nerve cord	overlaps	18622	fanc1	
+left side of organism	overlaps	19246	fanc1	
 peripheral nervous system	overlaps	19246	fanc1	
 adult ventral nerve cord	overlaps	19246	fanc1	
+left side of organism	overlaps	19254	fanc1	
 peripheral nervous system	overlaps	19254	fanc1	
 adult ventral nerve cord	overlaps	19254	fanc1	
+left side of organism	overlaps	19269	fanc1	
 peripheral nervous system	overlaps	19269	fanc1	
 adult ventral nerve cord	overlaps	19269	fanc1	
+left side of organism	overlaps	19362	fanc1	
 peripheral nervous system	overlaps	19362	fanc1	
 adult ventral nerve cord	overlaps	19362	fanc1	
+left side of organism	overlaps	19366	fanc1	
 peripheral nervous system	overlaps	19366	fanc1	
 adult ventral nerve cord	overlaps	19366	fanc1	
+left side of organism	overlaps	19371	fanc1	
 peripheral nervous system	overlaps	19371	fanc1	
 adult ventral nerve cord	overlaps	19371	fanc1	
+left side of organism	overlaps	19385	fanc1	
 peripheral nervous system	overlaps	19385	fanc1	
 adult ventral nerve cord	overlaps	19385	fanc1	
+left side of organism	overlaps	19404	fanc1	
 peripheral nervous system	overlaps	19404	fanc1	
 adult ventral nerve cord	overlaps	19404	fanc1	
+left side of organism	overlaps	19411	fanc1	
 peripheral nervous system	overlaps	19411	fanc1	
 adult ventral nerve cord	overlaps	19411	fanc1	
+left side of organism	overlaps	19416	fanc1	
 peripheral nervous system	overlaps	19416	fanc1	
 adult ventral nerve cord	overlaps	19416	fanc1	
+left side of organism	overlaps	19423	fanc1	
 peripheral nervous system	overlaps	19423	fanc1	
 adult ventral nerve cord	overlaps	19423	fanc1	
+left side of organism	overlaps	19443	fanc1	
 peripheral nervous system	overlaps	19443	fanc1	
 adult ventral nerve cord	overlaps	19443	fanc1	
+left side of organism	overlaps	19450	fanc1	
 peripheral nervous system	overlaps	19450	fanc1	
 adult ventral nerve cord	overlaps	19450	fanc1	
+left side of organism	overlaps	19457	fanc1	
 peripheral nervous system	overlaps	19457	fanc1	
 adult ventral nerve cord	overlaps	19457	fanc1	
+left side of organism	overlaps	20067	fanc1	
 peripheral nervous system	overlaps	20067	fanc1	
 adult ventral nerve cord	overlaps	20067	fanc1	
+left side of organism	overlaps	20074	fanc1	
 peripheral nervous system	overlaps	20074	fanc1	
 adult ventral nerve cord	overlaps	20074	fanc1	
+left side of organism	overlaps	20084	fanc1	
 peripheral nervous system	overlaps	20084	fanc1	
 adult ventral nerve cord	overlaps	20084	fanc1	
+left side of organism	overlaps	20113	fanc1	
 peripheral nervous system	overlaps	20113	fanc1	
 adult ventral nerve cord	overlaps	20113	fanc1	
+left side of organism	overlaps	20120	fanc1	
 peripheral nervous system	overlaps	20120	fanc1	
 adult ventral nerve cord	overlaps	20120	fanc1	
+left side of organism	overlaps	20839	fanc1	
 peripheral nervous system	overlaps	20839	fanc1	
 adult ventral nerve cord	overlaps	20839	fanc1	
+left side of organism	overlaps	20847	fanc1	
 peripheral nervous system	overlaps	20847	fanc1	
 adult ventral nerve cord	overlaps	20847	fanc1	
+left side of organism	overlaps	20854	fanc1	
 peripheral nervous system	overlaps	20854	fanc1	
 adult ventral nerve cord	overlaps	20854	fanc1	
+left side of organism	overlaps	20866	fanc1	
 peripheral nervous system	overlaps	20866	fanc1	
 adult ventral nerve cord	overlaps	20866	fanc1	
+left side of organism	overlaps	20889	fanc1	
 peripheral nervous system	overlaps	20889	fanc1	
 adult ventral nerve cord	overlaps	20889	fanc1	
+left side of organism	overlaps	20917	fanc1	
 peripheral nervous system	overlaps	20917	fanc1	
 adult ventral nerve cord	overlaps	20917	fanc1	
+left side of organism	overlaps	20925	fanc1	
 peripheral nervous system	overlaps	20925	fanc1	
 adult ventral nerve cord	overlaps	20925	fanc1	
+left side of organism	overlaps	20936	fanc1	
 peripheral nervous system	overlaps	20936	fanc1	
 adult ventral nerve cord	overlaps	20936	fanc1	
+left side of organism	overlaps	20949	fanc1	
 peripheral nervous system	overlaps	20949	fanc1	
 adult ventral nerve cord	overlaps	20949	fanc1	
+left side of organism	overlaps	20956	fanc1	
 peripheral nervous system	overlaps	20956	fanc1	
 adult ventral nerve cord	overlaps	20956	fanc1	
+left side of organism	overlaps	20968	fanc1	
 peripheral nervous system	overlaps	20968	fanc1	
 adult ventral nerve cord	overlaps	20968	fanc1	
+left side of organism	overlaps	20975	fanc1	
 peripheral nervous system	overlaps	20975	fanc1	
 adult ventral nerve cord	overlaps	20975	fanc1	
+left side of organism	overlaps	20982	fanc1	
 peripheral nervous system	overlaps	20982	fanc1	
 adult ventral nerve cord	overlaps	20982	fanc1	
 right side of organism	has soma location	21086	fanc1	
@@ -927,503 +1087,752 @@ adult ventral nerve cord	overlaps	21243	fanc1
 left side of organism	has soma location	21337	fanc1	
 peripheral nervous system	overlaps	21337	fanc1	
 adult ventral nerve cord	overlaps	21337	fanc1	
+left side of organism	overlaps	21873	fanc1	
 peripheral nervous system	overlaps	21873	fanc1	
 adult ventral nerve cord	overlaps	21873	fanc1	
+left side of organism	overlaps	21894	fanc1	
 peripheral nervous system	overlaps	21894	fanc1	
 adult ventral nerve cord	overlaps	21894	fanc1	
+left side of organism	overlaps	21901	fanc1	
 peripheral nervous system	overlaps	21901	fanc1	
 adult ventral nerve cord	overlaps	21901	fanc1	
+left side of organism	overlaps	21957	fanc1	
 peripheral nervous system	overlaps	21957	fanc1	
 adult ventral nerve cord	overlaps	21957	fanc1	
+left side of organism	overlaps	21993	fanc1	
 peripheral nervous system	overlaps	21993	fanc1	
 adult ventral nerve cord	overlaps	21993	fanc1	
+left side of organism	overlaps	22004	fanc1	
 peripheral nervous system	overlaps	22004	fanc1	
 adult ventral nerve cord	overlaps	22004	fanc1	
+left side of organism	overlaps	22018	fanc1	
 peripheral nervous system	overlaps	22018	fanc1	
 adult ventral nerve cord	overlaps	22018	fanc1	
+left side of organism	overlaps	22034	fanc1	
 peripheral nervous system	overlaps	22034	fanc1	
 adult ventral nerve cord	overlaps	22034	fanc1	
+left side of organism	overlaps	22089	fanc1	
 peripheral nervous system	overlaps	22089	fanc1	
 adult ventral nerve cord	overlaps	22089	fanc1	
+left side of organism	overlaps	22119	fanc1	
 peripheral nervous system	overlaps	22119	fanc1	
 adult ventral nerve cord	overlaps	22119	fanc1	
+left side of organism	overlaps	22133	fanc1	
 peripheral nervous system	overlaps	22133	fanc1	
 adult ventral nerve cord	overlaps	22133	fanc1	
+left side of organism	overlaps	22169	fanc1	
 peripheral nervous system	overlaps	22169	fanc1	
 adult ventral nerve cord	overlaps	22169	fanc1	
+left side of organism	overlaps	22262	fanc1	
 peripheral nervous system	overlaps	22262	fanc1	
 adult ventral nerve cord	overlaps	22262	fanc1	
+left side of organism	overlaps	22293	fanc1	
 peripheral nervous system	overlaps	22293	fanc1	
 adult ventral nerve cord	overlaps	22293	fanc1	
+left side of organism	overlaps	22304	fanc1	
 peripheral nervous system	overlaps	22304	fanc1	
 adult ventral nerve cord	overlaps	22304	fanc1	
+left side of organism	overlaps	22308	fanc1	
 peripheral nervous system	overlaps	22308	fanc1	
 adult ventral nerve cord	overlaps	22308	fanc1	
+left side of organism	overlaps	22351	fanc1	
 peripheral nervous system	overlaps	22351	fanc1	
 adult ventral nerve cord	overlaps	22351	fanc1	
+left side of organism	overlaps	22365	fanc1	
 peripheral nervous system	overlaps	22365	fanc1	
 adult ventral nerve cord	overlaps	22365	fanc1	
+left side of organism	overlaps	22470	fanc1	
 peripheral nervous system	overlaps	22470	fanc1	
 adult ventral nerve cord	overlaps	22470	fanc1	
+left side of organism	overlaps	22477	fanc1	
 peripheral nervous system	overlaps	22477	fanc1	
 adult ventral nerve cord	overlaps	22477	fanc1	
+left side of organism	overlaps	22498	fanc1	
 peripheral nervous system	overlaps	22498	fanc1	
 adult ventral nerve cord	overlaps	22498	fanc1	
+left side of organism	overlaps	22526	fanc1	
 peripheral nervous system	overlaps	22526	fanc1	
 adult ventral nerve cord	overlaps	22526	fanc1	
+left side of organism	overlaps	22533	fanc1	
 peripheral nervous system	overlaps	22533	fanc1	
 adult ventral nerve cord	overlaps	22533	fanc1	
+left side of organism	overlaps	22540	fanc1	
 peripheral nervous system	overlaps	22540	fanc1	
 adult ventral nerve cord	overlaps	22540	fanc1	
+left side of organism	overlaps	22561	fanc1	
 peripheral nervous system	overlaps	22561	fanc1	
 adult ventral nerve cord	overlaps	22561	fanc1	
+left side of organism	overlaps	22568	fanc1	
 peripheral nervous system	overlaps	22568	fanc1	
 adult ventral nerve cord	overlaps	22568	fanc1	
+left side of organism	overlaps	22582	fanc1	
 peripheral nervous system	overlaps	22582	fanc1	
 adult ventral nerve cord	overlaps	22582	fanc1	
+left side of organism	overlaps	22612	fanc1	
 peripheral nervous system	overlaps	22612	fanc1	
 adult ventral nerve cord	overlaps	22612	fanc1	
+left side of organism	overlaps	22619	fanc1	
 peripheral nervous system	overlaps	22619	fanc1	
 adult ventral nerve cord	overlaps	22619	fanc1	
+left side of organism	overlaps	22662	fanc1	
 peripheral nervous system	overlaps	22662	fanc1	
 adult ventral nerve cord	overlaps	22662	fanc1	
+left side of organism	overlaps	22673	fanc1	
 peripheral nervous system	overlaps	22673	fanc1	
 adult ventral nerve cord	overlaps	22673	fanc1	
+left side of organism	overlaps	22697	fanc1	
 peripheral nervous system	overlaps	22697	fanc1	
 adult ventral nerve cord	overlaps	22697	fanc1	
+left side of organism	overlaps	22751	fanc1	
 peripheral nervous system	overlaps	22751	fanc1	
 adult ventral nerve cord	overlaps	22751	fanc1	
+left side of organism	overlaps	22761	fanc1	
 peripheral nervous system	overlaps	22761	fanc1	
 adult ventral nerve cord	overlaps	22761	fanc1	
+left side of organism	overlaps	22782	fanc1	
 peripheral nervous system	overlaps	22782	fanc1	
 adult ventral nerve cord	overlaps	22782	fanc1	
+left side of organism	overlaps	22796	fanc1	
 peripheral nervous system	overlaps	22796	fanc1	
 adult ventral nerve cord	overlaps	22796	fanc1	
+left side of organism	overlaps	22803	fanc1	
 peripheral nervous system	overlaps	22803	fanc1	
 adult ventral nerve cord	overlaps	22803	fanc1	
+left side of organism	overlaps	22810	fanc1	
 peripheral nervous system	overlaps	22810	fanc1	
 adult ventral nerve cord	overlaps	22810	fanc1	
+left side of organism	overlaps	22817	fanc1	
 peripheral nervous system	overlaps	22817	fanc1	
 adult ventral nerve cord	overlaps	22817	fanc1	
+left side of organism	overlaps	22842	fanc1	
 peripheral nervous system	overlaps	22842	fanc1	
 adult ventral nerve cord	overlaps	22842	fanc1	
+left side of organism	overlaps	22857	fanc1	
 peripheral nervous system	overlaps	22857	fanc1	
 adult ventral nerve cord	overlaps	22857	fanc1	
+left side of organism	overlaps	22866	fanc1	
 peripheral nervous system	overlaps	22866	fanc1	
 adult ventral nerve cord	overlaps	22866	fanc1	
+left side of organism	overlaps	22879	fanc1	
 peripheral nervous system	overlaps	22879	fanc1	
 adult ventral nerve cord	overlaps	22879	fanc1	
+left side of organism	overlaps	22887	fanc1	
 peripheral nervous system	overlaps	22887	fanc1	
 adult ventral nerve cord	overlaps	22887	fanc1	
+left side of organism	overlaps	22893	fanc1	
 peripheral nervous system	overlaps	22893	fanc1	
 adult ventral nerve cord	overlaps	22893	fanc1	
+left side of organism	overlaps	22898	fanc1	
 peripheral nervous system	overlaps	22898	fanc1	
 adult ventral nerve cord	overlaps	22898	fanc1	
+left side of organism	overlaps	22917	fanc1	
 peripheral nervous system	overlaps	22917	fanc1	
 adult ventral nerve cord	overlaps	22917	fanc1	
+left side of organism	overlaps	22931	fanc1	
 peripheral nervous system	overlaps	22931	fanc1	
 adult ventral nerve cord	overlaps	22931	fanc1	
+left side of organism	overlaps	22983	fanc1	
 peripheral nervous system	overlaps	22983	fanc1	
 adult ventral nerve cord	overlaps	22983	fanc1	
+left side of organism	overlaps	22989	fanc1	
 peripheral nervous system	overlaps	22989	fanc1	
 adult ventral nerve cord	overlaps	22989	fanc1	
+left side of organism	overlaps	23004	fanc1	
 peripheral nervous system	overlaps	23004	fanc1	
 adult ventral nerve cord	overlaps	23004	fanc1	
+left side of organism	overlaps	23015	fanc1	
 peripheral nervous system	overlaps	23015	fanc1	
 adult ventral nerve cord	overlaps	23015	fanc1	
+left side of organism	overlaps	23066	fanc1	
 peripheral nervous system	overlaps	23066	fanc1	
 adult ventral nerve cord	overlaps	23066	fanc1	
+left side of organism	overlaps	23086	fanc1	
 peripheral nervous system	overlaps	23086	fanc1	
 adult ventral nerve cord	overlaps	23086	fanc1	
+left side of organism	overlaps	23126	fanc1	
 peripheral nervous system	overlaps	23126	fanc1	
 adult ventral nerve cord	overlaps	23126	fanc1	
+left side of organism	overlaps	23161	fanc1	
 peripheral nervous system	overlaps	23161	fanc1	
 adult ventral nerve cord	overlaps	23161	fanc1	
+left side of organism	overlaps	23181	fanc1	
 peripheral nervous system	overlaps	23181	fanc1	
 adult ventral nerve cord	overlaps	23181	fanc1	
+left side of organism	overlaps	23245	fanc1	
 peripheral nervous system	overlaps	23245	fanc1	
 adult ventral nerve cord	overlaps	23245	fanc1	
+left side of organism	overlaps	23252	fanc1	
 peripheral nervous system	overlaps	23252	fanc1	
 adult ventral nerve cord	overlaps	23252	fanc1	
+left side of organism	overlaps	23265	fanc1	
 peripheral nervous system	overlaps	23265	fanc1	
 adult ventral nerve cord	overlaps	23265	fanc1	
+left side of organism	overlaps	23284	fanc1	
 peripheral nervous system	overlaps	23284	fanc1	
 adult ventral nerve cord	overlaps	23284	fanc1	
+left side of organism	overlaps	23321	fanc1	
 peripheral nervous system	overlaps	23321	fanc1	
 adult ventral nerve cord	overlaps	23321	fanc1	
+left side of organism	overlaps	23368	fanc1	
 peripheral nervous system	overlaps	23368	fanc1	
 adult ventral nerve cord	overlaps	23368	fanc1	
+left side of organism	overlaps	23410	fanc1	
 peripheral nervous system	overlaps	23410	fanc1	
 adult ventral nerve cord	overlaps	23410	fanc1	
+left side of organism	overlaps	23454	fanc1	
 peripheral nervous system	overlaps	23454	fanc1	
 adult ventral nerve cord	overlaps	23454	fanc1	
+left side of organism	overlaps	23459	fanc1	
 peripheral nervous system	overlaps	23459	fanc1	
 adult ventral nerve cord	overlaps	23459	fanc1	
+left side of organism	overlaps	23480	fanc1	
 peripheral nervous system	overlaps	23480	fanc1	
 adult ventral nerve cord	overlaps	23480	fanc1	
+left side of organism	overlaps	23503	fanc1	
 peripheral nervous system	overlaps	23503	fanc1	
 adult ventral nerve cord	overlaps	23503	fanc1	
+left side of organism	overlaps	23550	fanc1	
 peripheral nervous system	overlaps	23550	fanc1	
 adult ventral nerve cord	overlaps	23550	fanc1	
+left side of organism	overlaps	23560	fanc1	
 peripheral nervous system	overlaps	23560	fanc1	
 adult ventral nerve cord	overlaps	23560	fanc1	
+left side of organism	overlaps	23581	fanc1	
 peripheral nervous system	overlaps	23581	fanc1	
 adult ventral nerve cord	overlaps	23581	fanc1	
+left side of organism	overlaps	23616	fanc1	
 peripheral nervous system	overlaps	23616	fanc1	
 adult ventral nerve cord	overlaps	23616	fanc1	
+left side of organism	overlaps	23643	fanc1	
 peripheral nervous system	overlaps	23643	fanc1	
 adult ventral nerve cord	overlaps	23643	fanc1	
+left side of organism	overlaps	23700	fanc1	
 peripheral nervous system	overlaps	23700	fanc1	
 adult ventral nerve cord	overlaps	23700	fanc1	
+left side of organism	overlaps	23707	fanc1	
 peripheral nervous system	overlaps	23707	fanc1	
 adult ventral nerve cord	overlaps	23707	fanc1	
+left side of organism	overlaps	23721	fanc1	
 peripheral nervous system	overlaps	23721	fanc1	
 adult ventral nerve cord	overlaps	23721	fanc1	
+left side of organism	overlaps	23746	fanc1	
 peripheral nervous system	overlaps	23746	fanc1	
 adult ventral nerve cord	overlaps	23746	fanc1	
+left side of organism	overlaps	23798	fanc1	
 peripheral nervous system	overlaps	23798	fanc1	
 adult ventral nerve cord	overlaps	23798	fanc1	
+left side of organism	overlaps	23826	fanc1	
 peripheral nervous system	overlaps	23826	fanc1	
 adult ventral nerve cord	overlaps	23826	fanc1	
+left side of organism	overlaps	23845	fanc1	
 peripheral nervous system	overlaps	23845	fanc1	
 adult ventral nerve cord	overlaps	23845	fanc1	
+left side of organism	overlaps	23914	fanc1	
 peripheral nervous system	overlaps	23914	fanc1	
 adult ventral nerve cord	overlaps	23914	fanc1	
+left side of organism	overlaps	23932	fanc1	
 peripheral nervous system	overlaps	23932	fanc1	
 adult ventral nerve cord	overlaps	23932	fanc1	
+left side of organism	overlaps	23949	fanc1	
 peripheral nervous system	overlaps	23949	fanc1	
 adult ventral nerve cord	overlaps	23949	fanc1	
+left side of organism	overlaps	23956	fanc1	
 peripheral nervous system	overlaps	23956	fanc1	
 adult ventral nerve cord	overlaps	23956	fanc1	
+left side of organism	overlaps	23961	fanc1	
 peripheral nervous system	overlaps	23961	fanc1	
 adult ventral nerve cord	overlaps	23961	fanc1	
+left side of organism	overlaps	23991	fanc1	
 peripheral nervous system	overlaps	23991	fanc1	
 adult ventral nerve cord	overlaps	23991	fanc1	
+left side of organism	overlaps	23995	fanc1	
 peripheral nervous system	overlaps	23995	fanc1	
 adult ventral nerve cord	overlaps	23995	fanc1	
+left side of organism	overlaps	24026	fanc1	
 peripheral nervous system	overlaps	24026	fanc1	
 adult ventral nerve cord	overlaps	24026	fanc1	
+left side of organism	overlaps	24040	fanc1	
 peripheral nervous system	overlaps	24040	fanc1	
 adult ventral nerve cord	overlaps	24040	fanc1	
+left side of organism	overlaps	24047	fanc1	
 peripheral nervous system	overlaps	24047	fanc1	
 adult ventral nerve cord	overlaps	24047	fanc1	
+left side of organism	overlaps	24058	fanc1	
 peripheral nervous system	overlaps	24058	fanc1	
 adult ventral nerve cord	overlaps	24058	fanc1	
+left side of organism	overlaps	24111	fanc1	
 peripheral nervous system	overlaps	24111	fanc1	
 adult ventral nerve cord	overlaps	24111	fanc1	
+left side of organism	overlaps	24286	fanc1	
 peripheral nervous system	overlaps	24286	fanc1	
 adult ventral nerve cord	overlaps	24286	fanc1	
+left side of organism	overlaps	24290	fanc1	
 peripheral nervous system	overlaps	24290	fanc1	
 adult ventral nerve cord	overlaps	24290	fanc1	
+left side of organism	overlaps	24300	fanc1	
 peripheral nervous system	overlaps	24300	fanc1	
 adult ventral nerve cord	overlaps	24300	fanc1	
+left side of organism	overlaps	24335	fanc1	
 peripheral nervous system	overlaps	24335	fanc1	
 adult ventral nerve cord	overlaps	24335	fanc1	
+left side of organism	overlaps	24349	fanc1	
 peripheral nervous system	overlaps	24349	fanc1	
 adult ventral nerve cord	overlaps	24349	fanc1	
+left side of organism	overlaps	24376	fanc1	
 peripheral nervous system	overlaps	24376	fanc1	
 adult ventral nerve cord	overlaps	24376	fanc1	
+left side of organism	overlaps	24405	fanc1	
 peripheral nervous system	overlaps	24405	fanc1	
 adult ventral nerve cord	overlaps	24405	fanc1	
+left side of organism	overlaps	24425	fanc1	
 peripheral nervous system	overlaps	24425	fanc1	
 adult ventral nerve cord	overlaps	24425	fanc1	
+left side of organism	overlaps	24430	fanc1	
 peripheral nervous system	overlaps	24430	fanc1	
 adult ventral nerve cord	overlaps	24430	fanc1	
+left side of organism	overlaps	24475	fanc1	
 peripheral nervous system	overlaps	24475	fanc1	
 adult ventral nerve cord	overlaps	24475	fanc1	
+left side of organism	overlaps	24488	fanc1	
 peripheral nervous system	overlaps	24488	fanc1	
 adult ventral nerve cord	overlaps	24488	fanc1	
+left side of organism	overlaps	24501	fanc1	
 peripheral nervous system	overlaps	24501	fanc1	
 adult ventral nerve cord	overlaps	24501	fanc1	
+left side of organism	overlaps	24529	fanc1	
 peripheral nervous system	overlaps	24529	fanc1	
 adult ventral nerve cord	overlaps	24529	fanc1	
+left side of organism	overlaps	24596	fanc1	
 peripheral nervous system	overlaps	24596	fanc1	
 adult ventral nerve cord	overlaps	24596	fanc1	
+left side of organism	overlaps	24645	fanc1	
 peripheral nervous system	overlaps	24645	fanc1	
 adult ventral nerve cord	overlaps	24645	fanc1	
+left side of organism	overlaps	24655	fanc1	
 peripheral nervous system	overlaps	24655	fanc1	
 adult ventral nerve cord	overlaps	24655	fanc1	
+left side of organism	overlaps	24711	fanc1	
 peripheral nervous system	overlaps	24711	fanc1	
 adult ventral nerve cord	overlaps	24711	fanc1	
+left side of organism	overlaps	24734	fanc1	
 peripheral nervous system	overlaps	24734	fanc1	
 adult ventral nerve cord	overlaps	24734	fanc1	
+left side of organism	overlaps	24738	fanc1	
 peripheral nervous system	overlaps	24738	fanc1	
 adult ventral nerve cord	overlaps	24738	fanc1	
+left side of organism	overlaps	24816	fanc1	
 peripheral nervous system	overlaps	24816	fanc1	
 adult ventral nerve cord	overlaps	24816	fanc1	
+left side of organism	overlaps	24830	fanc1	
 peripheral nervous system	overlaps	24830	fanc1	
 adult ventral nerve cord	overlaps	24830	fanc1	
+left side of organism	overlaps	24837	fanc1	
 peripheral nervous system	overlaps	24837	fanc1	
 adult ventral nerve cord	overlaps	24837	fanc1	
+left side of organism	overlaps	24844	fanc1	
 peripheral nervous system	overlaps	24844	fanc1	
 adult ventral nerve cord	overlaps	24844	fanc1	
+left side of organism	overlaps	24854	fanc1	
 peripheral nervous system	overlaps	24854	fanc1	
 adult ventral nerve cord	overlaps	24854	fanc1	
+left side of organism	overlaps	24861	fanc1	
 peripheral nervous system	overlaps	24861	fanc1	
 adult ventral nerve cord	overlaps	24861	fanc1	
+left side of organism	overlaps	24874	fanc1	
 peripheral nervous system	overlaps	24874	fanc1	
 adult ventral nerve cord	overlaps	24874	fanc1	
+left side of organism	overlaps	24882	fanc1	
 peripheral nervous system	overlaps	24882	fanc1	
 adult ventral nerve cord	overlaps	24882	fanc1	
+left side of organism	overlaps	24886	fanc1	
 peripheral nervous system	overlaps	24886	fanc1	
 adult ventral nerve cord	overlaps	24886	fanc1	
+left side of organism	overlaps	24893	fanc1	
 peripheral nervous system	overlaps	24893	fanc1	
 adult ventral nerve cord	overlaps	24893	fanc1	
+left side of organism	overlaps	24900	fanc1	
 peripheral nervous system	overlaps	24900	fanc1	
 adult ventral nerve cord	overlaps	24900	fanc1	
+left side of organism	overlaps	24916	fanc1	
 peripheral nervous system	overlaps	24916	fanc1	
 adult ventral nerve cord	overlaps	24916	fanc1	
+left side of organism	overlaps	24938	fanc1	
 peripheral nervous system	overlaps	24938	fanc1	
 adult ventral nerve cord	overlaps	24938	fanc1	
+left side of organism	overlaps	24952	fanc1	
 peripheral nervous system	overlaps	24952	fanc1	
 adult ventral nerve cord	overlaps	24952	fanc1	
+left side of organism	overlaps	24956	fanc1	
 peripheral nervous system	overlaps	24956	fanc1	
 adult ventral nerve cord	overlaps	24956	fanc1	
+left side of organism	overlaps	24963	fanc1	
 peripheral nervous system	overlaps	24963	fanc1	
 adult ventral nerve cord	overlaps	24963	fanc1	
+left side of organism	overlaps	24987	fanc1	
 peripheral nervous system	overlaps	24987	fanc1	
 adult ventral nerve cord	overlaps	24987	fanc1	
+left side of organism	overlaps	25014	fanc1	
 peripheral nervous system	overlaps	25014	fanc1	
 adult ventral nerve cord	overlaps	25014	fanc1	
+left side of organism	overlaps	25021	fanc1	
 peripheral nervous system	overlaps	25021	fanc1	
 adult ventral nerve cord	overlaps	25021	fanc1	
+left side of organism	overlaps	25032	fanc1	
 peripheral nervous system	overlaps	25032	fanc1	
 adult ventral nerve cord	overlaps	25032	fanc1	
+left side of organism	overlaps	25042	fanc1	
 peripheral nervous system	overlaps	25042	fanc1	
 adult ventral nerve cord	overlaps	25042	fanc1	
+left side of organism	overlaps	25046	fanc1	
 peripheral nervous system	overlaps	25046	fanc1	
 adult ventral nerve cord	overlaps	25046	fanc1	
+left side of organism	overlaps	25053	fanc1	
 peripheral nervous system	overlaps	25053	fanc1	
 adult ventral nerve cord	overlaps	25053	fanc1	
+left side of organism	overlaps	25063	fanc1	
 peripheral nervous system	overlaps	25063	fanc1	
 adult ventral nerve cord	overlaps	25063	fanc1	
+left side of organism	overlaps	25070	fanc1	
 peripheral nervous system	overlaps	25070	fanc1	
 adult ventral nerve cord	overlaps	25070	fanc1	
+left side of organism	overlaps	25084	fanc1	
 peripheral nervous system	overlaps	25084	fanc1	
 adult ventral nerve cord	overlaps	25084	fanc1	
+left side of organism	overlaps	25095	fanc1	
 peripheral nervous system	overlaps	25095	fanc1	
 adult ventral nerve cord	overlaps	25095	fanc1	
+left side of organism	overlaps	25105	fanc1	
 peripheral nervous system	overlaps	25105	fanc1	
 adult ventral nerve cord	overlaps	25105	fanc1	
+left side of organism	overlaps	25119	fanc1	
 peripheral nervous system	overlaps	25119	fanc1	
 adult ventral nerve cord	overlaps	25119	fanc1	
+left side of organism	overlaps	25126	fanc1	
 peripheral nervous system	overlaps	25126	fanc1	
 adult ventral nerve cord	overlaps	25126	fanc1	
+left side of organism	overlaps	25130	fanc1	
 peripheral nervous system	overlaps	25130	fanc1	
 adult ventral nerve cord	overlaps	25130	fanc1	
+left side of organism	overlaps	25140	fanc1	
 peripheral nervous system	overlaps	25140	fanc1	
 adult ventral nerve cord	overlaps	25140	fanc1	
+left side of organism	overlaps	25161	fanc1	
 peripheral nervous system	overlaps	25161	fanc1	
 adult ventral nerve cord	overlaps	25161	fanc1	
+left side of organism	overlaps	25165	fanc1	
 peripheral nervous system	overlaps	25165	fanc1	
 adult ventral nerve cord	overlaps	25165	fanc1	
+left side of organism	overlaps	25205	fanc1	
 peripheral nervous system	overlaps	25205	fanc1	
 adult ventral nerve cord	overlaps	25205	fanc1	
+left side of organism	overlaps	25214	fanc1	
 peripheral nervous system	overlaps	25214	fanc1	
 adult ventral nerve cord	overlaps	25214	fanc1	
+left side of organism	overlaps	25229	fanc1	
 peripheral nervous system	overlaps	25229	fanc1	
 adult ventral nerve cord	overlaps	25229	fanc1	
+left side of organism	overlaps	25249	fanc1	
 peripheral nervous system	overlaps	25249	fanc1	
 adult ventral nerve cord	overlaps	25249	fanc1	
+left side of organism	overlaps	25257	fanc1	
 peripheral nervous system	overlaps	25257	fanc1	
 adult ventral nerve cord	overlaps	25257	fanc1	
+left side of organism	overlaps	25264	fanc1	
 peripheral nervous system	overlaps	25264	fanc1	
 adult ventral nerve cord	overlaps	25264	fanc1	
+left side of organism	overlaps	25275	fanc1	
 peripheral nervous system	overlaps	25275	fanc1	
 adult ventral nerve cord	overlaps	25275	fanc1	
+left side of organism	overlaps	25285	fanc1	
 peripheral nervous system	overlaps	25285	fanc1	
 adult ventral nerve cord	overlaps	25285	fanc1	
+left side of organism	overlaps	25299	fanc1	
 peripheral nervous system	overlaps	25299	fanc1	
 adult ventral nerve cord	overlaps	25299	fanc1	
+left side of organism	overlaps	25304	fanc1	
 peripheral nervous system	overlaps	25304	fanc1	
 adult ventral nerve cord	overlaps	25304	fanc1	
+left side of organism	overlaps	25311	fanc1	
 peripheral nervous system	overlaps	25311	fanc1	
 adult ventral nerve cord	overlaps	25311	fanc1	
+left side of organism	overlaps	25335	fanc1	
 peripheral nervous system	overlaps	25335	fanc1	
 adult ventral nerve cord	overlaps	25335	fanc1	
+left side of organism	overlaps	25349	fanc1	
 peripheral nervous system	overlaps	25349	fanc1	
 adult ventral nerve cord	overlaps	25349	fanc1	
+left side of organism	overlaps	25374	fanc1	
 peripheral nervous system	overlaps	25374	fanc1	
 adult ventral nerve cord	overlaps	25374	fanc1	
+left side of organism	overlaps	25403	fanc1	
 peripheral nervous system	overlaps	25403	fanc1	
 adult ventral nerve cord	overlaps	25403	fanc1	
+left side of organism	overlaps	25417	fanc1	
 peripheral nervous system	overlaps	25417	fanc1	
 adult ventral nerve cord	overlaps	25417	fanc1	
+left side of organism	overlaps	25424	fanc1	
 peripheral nervous system	overlaps	25424	fanc1	
 adult ventral nerve cord	overlaps	25424	fanc1	
+left side of organism	overlaps	25498	fanc1	
 peripheral nervous system	overlaps	25498	fanc1	
 adult ventral nerve cord	overlaps	25498	fanc1	
+left side of organism	overlaps	25528	fanc1	
 peripheral nervous system	overlaps	25528	fanc1	
 adult ventral nerve cord	overlaps	25528	fanc1	
+left side of organism	overlaps	25536	fanc1	
 peripheral nervous system	overlaps	25536	fanc1	
 adult ventral nerve cord	overlaps	25536	fanc1	
+left side of organism	overlaps	25543	fanc1	
 peripheral nervous system	overlaps	25543	fanc1	
 adult ventral nerve cord	overlaps	25543	fanc1	
+left side of organism	overlaps	25562	fanc1	
 peripheral nervous system	overlaps	25562	fanc1	
 adult ventral nerve cord	overlaps	25562	fanc1	
+left side of organism	overlaps	25590	fanc1	
 peripheral nervous system	overlaps	25590	fanc1	
 adult ventral nerve cord	overlaps	25590	fanc1	
+left side of organism	overlaps	25597	fanc1	
 peripheral nervous system	overlaps	25597	fanc1	
 adult ventral nerve cord	overlaps	25597	fanc1	
+left side of organism	overlaps	25601	fanc1	
 peripheral nervous system	overlaps	25601	fanc1	
 adult ventral nerve cord	overlaps	25601	fanc1	
+left side of organism	overlaps	25622	fanc1	
 peripheral nervous system	overlaps	25622	fanc1	
 adult ventral nerve cord	overlaps	25622	fanc1	
+left side of organism	overlaps	25664	fanc1	
 peripheral nervous system	overlaps	25664	fanc1	
 adult ventral nerve cord	overlaps	25664	fanc1	
+left side of organism	overlaps	25709	fanc1	
 peripheral nervous system	overlaps	25709	fanc1	
 adult ventral nerve cord	overlaps	25709	fanc1	
+left side of organism	overlaps	25723	fanc1	
 peripheral nervous system	overlaps	25723	fanc1	
 adult ventral nerve cord	overlaps	25723	fanc1	
+left side of organism	overlaps	25742	fanc1	
 peripheral nervous system	overlaps	25742	fanc1	
 adult ventral nerve cord	overlaps	25742	fanc1	
+left side of organism	overlaps	25752	fanc1	
 peripheral nervous system	overlaps	25752	fanc1	
 adult ventral nerve cord	overlaps	25752	fanc1	
+left side of organism	overlaps	25766	fanc1	
 peripheral nervous system	overlaps	25766	fanc1	
 adult ventral nerve cord	overlaps	25766	fanc1	
+left side of organism	overlaps	25799	fanc1	
 peripheral nervous system	overlaps	25799	fanc1	
 adult ventral nerve cord	overlaps	25799	fanc1	
+left side of organism	overlaps	25807	fanc1	
 peripheral nervous system	overlaps	25807	fanc1	
 adult ventral nerve cord	overlaps	25807	fanc1	
+left side of organism	overlaps	25827	fanc1	
 peripheral nervous system	overlaps	25827	fanc1	
 adult ventral nerve cord	overlaps	25827	fanc1	
+left side of organism	overlaps	25834	fanc1	
 peripheral nervous system	overlaps	25834	fanc1	
 adult ventral nerve cord	overlaps	25834	fanc1	
+left side of organism	overlaps	25841	fanc1	
 peripheral nervous system	overlaps	25841	fanc1	
 adult ventral nerve cord	overlaps	25841	fanc1	
+left side of organism	overlaps	25848	fanc1	
 peripheral nervous system	overlaps	25848	fanc1	
 adult ventral nerve cord	overlaps	25848	fanc1	
+left side of organism	overlaps	25855	fanc1	
 peripheral nervous system	overlaps	25855	fanc1	
 adult ventral nerve cord	overlaps	25855	fanc1	
+left side of organism	overlaps	25862	fanc1	
 peripheral nervous system	overlaps	25862	fanc1	
 adult ventral nerve cord	overlaps	25862	fanc1	
+left side of organism	overlaps	25869	fanc1	
 peripheral nervous system	overlaps	25869	fanc1	
 adult ventral nerve cord	overlaps	25869	fanc1	
+left side of organism	overlaps	25876	fanc1	
 peripheral nervous system	overlaps	25876	fanc1	
 adult ventral nerve cord	overlaps	25876	fanc1	
+left side of organism	overlaps	25890	fanc1	
 peripheral nervous system	overlaps	25890	fanc1	
 adult ventral nerve cord	overlaps	25890	fanc1	
+left side of organism	overlaps	25908	fanc1	
 peripheral nervous system	overlaps	25908	fanc1	
 adult ventral nerve cord	overlaps	25908	fanc1	
+left side of organism	overlaps	25918	fanc1	
 peripheral nervous system	overlaps	25918	fanc1	
 adult ventral nerve cord	overlaps	25918	fanc1	
+left side of organism	overlaps	25929	fanc1	
 peripheral nervous system	overlaps	25929	fanc1	
 adult ventral nerve cord	overlaps	25929	fanc1	
+left side of organism	overlaps	25958	fanc1	
 peripheral nervous system	overlaps	25958	fanc1	
 adult ventral nerve cord	overlaps	25958	fanc1	
+left side of organism	overlaps	25969	fanc1	
 peripheral nervous system	overlaps	25969	fanc1	
 adult ventral nerve cord	overlaps	25969	fanc1	
+left side of organism	overlaps	25979	fanc1	
 peripheral nervous system	overlaps	25979	fanc1	
 adult ventral nerve cord	overlaps	25979	fanc1	
+left side of organism	overlaps	25993	fanc1	
 peripheral nervous system	overlaps	25993	fanc1	
 adult ventral nerve cord	overlaps	25993	fanc1	
+left side of organism	overlaps	25997	fanc1	
 peripheral nervous system	overlaps	25997	fanc1	
 adult ventral nerve cord	overlaps	25997	fanc1	
+left side of organism	overlaps	26006	fanc1	
 peripheral nervous system	overlaps	26006	fanc1	
 adult ventral nerve cord	overlaps	26006	fanc1	
+left side of organism	overlaps	26011	fanc1	
 peripheral nervous system	overlaps	26011	fanc1	
 adult ventral nerve cord	overlaps	26011	fanc1	
+left side of organism	overlaps	26020	fanc1	
 peripheral nervous system	overlaps	26020	fanc1	
 adult ventral nerve cord	overlaps	26020	fanc1	
+left side of organism	overlaps	26028	fanc1	
 peripheral nervous system	overlaps	26028	fanc1	
 adult ventral nerve cord	overlaps	26028	fanc1	
+left side of organism	overlaps	26033	fanc1	
 peripheral nervous system	overlaps	26033	fanc1	
 adult ventral nerve cord	overlaps	26033	fanc1	
+left side of organism	overlaps	26039	fanc1	
 peripheral nervous system	overlaps	26039	fanc1	
 adult ventral nerve cord	overlaps	26039	fanc1	
+left side of organism	overlaps	26048	fanc1	
 peripheral nervous system	overlaps	26048	fanc1	
 adult ventral nerve cord	overlaps	26048	fanc1	
+left side of organism	overlaps	26054	fanc1	
 peripheral nervous system	overlaps	26054	fanc1	
 adult ventral nerve cord	overlaps	26054	fanc1	
+left side of organism	overlaps	26061	fanc1	
 peripheral nervous system	overlaps	26061	fanc1	
 adult ventral nerve cord	overlaps	26061	fanc1	
+left side of organism	overlaps	26070	fanc1	
 peripheral nervous system	overlaps	26070	fanc1	
 adult ventral nerve cord	overlaps	26070	fanc1	
+left side of organism	overlaps	26077	fanc1	
 peripheral nervous system	overlaps	26077	fanc1	
 adult ventral nerve cord	overlaps	26077	fanc1	
+left side of organism	overlaps	26081	fanc1	
 peripheral nervous system	overlaps	26081	fanc1	
 adult ventral nerve cord	overlaps	26081	fanc1	
+left side of organism	overlaps	26088	fanc1	
 peripheral nervous system	overlaps	26088	fanc1	
 adult ventral nerve cord	overlaps	26088	fanc1	
+left side of organism	overlaps	26103	fanc1	
 peripheral nervous system	overlaps	26103	fanc1	
 adult ventral nerve cord	overlaps	26103	fanc1	
+left side of organism	overlaps	26110	fanc1	
 peripheral nervous system	overlaps	26110	fanc1	
 adult ventral nerve cord	overlaps	26110	fanc1	
+left side of organism	overlaps	26117	fanc1	
 peripheral nervous system	overlaps	26117	fanc1	
 adult ventral nerve cord	overlaps	26117	fanc1	
+left side of organism	overlaps	26124	fanc1	
 peripheral nervous system	overlaps	26124	fanc1	
 adult ventral nerve cord	overlaps	26124	fanc1	
+left side of organism	overlaps	26138	fanc1	
 peripheral nervous system	overlaps	26138	fanc1	
 adult ventral nerve cord	overlaps	26138	fanc1	
+left side of organism	overlaps	26145	fanc1	
 peripheral nervous system	overlaps	26145	fanc1	
 adult ventral nerve cord	overlaps	26145	fanc1	
+left side of organism	overlaps	26158	fanc1	
 peripheral nervous system	overlaps	26158	fanc1	
 adult ventral nerve cord	overlaps	26158	fanc1	
+left side of organism	overlaps	26166	fanc1	
 peripheral nervous system	overlaps	26166	fanc1	
 adult ventral nerve cord	overlaps	26166	fanc1	
+left side of organism	overlaps	26173	fanc1	
 peripheral nervous system	overlaps	26173	fanc1	
 adult ventral nerve cord	overlaps	26173	fanc1	
+left side of organism	overlaps	26180	fanc1	
 peripheral nervous system	overlaps	26180	fanc1	
 adult ventral nerve cord	overlaps	26180	fanc1	
+left side of organism	overlaps	26194	fanc1	
 peripheral nervous system	overlaps	26194	fanc1	
 adult ventral nerve cord	overlaps	26194	fanc1	
+left side of organism	overlaps	26198	fanc1	
 peripheral nervous system	overlaps	26198	fanc1	
 adult ventral nerve cord	overlaps	26198	fanc1	
+left side of organism	overlaps	26241	fanc1	
 peripheral nervous system	overlaps	26241	fanc1	
 adult ventral nerve cord	overlaps	26241	fanc1	
+left side of organism	overlaps	26262	fanc1	
 peripheral nervous system	overlaps	26262	fanc1	
 adult ventral nerve cord	overlaps	26262	fanc1	
+left side of organism	overlaps	26269	fanc1	
 peripheral nervous system	overlaps	26269	fanc1	
 adult ventral nerve cord	overlaps	26269	fanc1	
+left side of organism	overlaps	26276	fanc1	
 peripheral nervous system	overlaps	26276	fanc1	
 adult ventral nerve cord	overlaps	26276	fanc1	
+left side of organism	overlaps	26375	fanc1	
 peripheral nervous system	overlaps	26375	fanc1	
 adult ventral nerve cord	overlaps	26375	fanc1	
+left side of organism	overlaps	26382	fanc1	
 peripheral nervous system	overlaps	26382	fanc1	
 adult ventral nerve cord	overlaps	26382	fanc1	
+left side of organism	overlaps	26389	fanc1	
 peripheral nervous system	overlaps	26389	fanc1	
 adult ventral nerve cord	overlaps	26389	fanc1	
+left side of organism	overlaps	26417	fanc1	
 peripheral nervous system	overlaps	26417	fanc1	
 adult ventral nerve cord	overlaps	26417	fanc1	
+left side of organism	overlaps	26431	fanc1	
 peripheral nervous system	overlaps	26431	fanc1	
 adult ventral nerve cord	overlaps	26431	fanc1	
+left side of organism	overlaps	26438	fanc1	
 peripheral nervous system	overlaps	26438	fanc1	
 adult ventral nerve cord	overlaps	26438	fanc1	
+left side of organism	overlaps	26568	fanc1	
 peripheral nervous system	overlaps	26568	fanc1	
 adult ventral nerve cord	overlaps	26568	fanc1	
+left side of organism	overlaps	26708	fanc1	
 peripheral nervous system	overlaps	26708	fanc1	
 adult ventral nerve cord	overlaps	26708	fanc1	
+left side of organism	overlaps	26715	fanc1	
 peripheral nervous system	overlaps	26715	fanc1	
 adult ventral nerve cord	overlaps	26715	fanc1	
+left side of organism	overlaps	26771	fanc1	
 peripheral nervous system	overlaps	26771	fanc1	
 adult ventral nerve cord	overlaps	26771	fanc1	
+left side of organism	overlaps	26778	fanc1	
 peripheral nervous system	overlaps	26778	fanc1	
 adult ventral nerve cord	overlaps	26778	fanc1	
+left side of organism	overlaps	26785	fanc1	
 peripheral nervous system	overlaps	26785	fanc1	
 adult ventral nerve cord	overlaps	26785	fanc1	
+left side of organism	overlaps	26799	fanc1	
 peripheral nervous system	overlaps	26799	fanc1	
 adult ventral nerve cord	overlaps	26799	fanc1	
+left side of organism	overlaps	26806	fanc1	
 peripheral nervous system	overlaps	26806	fanc1	
 adult ventral nerve cord	overlaps	26806	fanc1	
+left side of organism	overlaps	26813	fanc1	
 peripheral nervous system	overlaps	26813	fanc1	
 adult ventral nerve cord	overlaps	26813	fanc1	
+left side of organism	overlaps	26820	fanc1	
 peripheral nervous system	overlaps	26820	fanc1	
 adult ventral nerve cord	overlaps	26820	fanc1	
+left side of organism	overlaps	26834	fanc1	
 peripheral nervous system	overlaps	26834	fanc1	
 adult ventral nerve cord	overlaps	26834	fanc1	
+left side of organism	overlaps	26841	fanc1	
 peripheral nervous system	overlaps	26841	fanc1	
 adult ventral nerve cord	overlaps	26841	fanc1	
+left side of organism	overlaps	26883	fanc1	
 peripheral nervous system	overlaps	26883	fanc1	
 adult ventral nerve cord	overlaps	26883	fanc1	
+left side of organism	overlaps	26961	fanc1	
 peripheral nervous system	overlaps	26961	fanc1	
 adult ventral nerve cord	overlaps	26961	fanc1	
+left side of organism	overlaps	27003	fanc1	
 peripheral nervous system	overlaps	27003	fanc1	
 adult ventral nerve cord	overlaps	27003	fanc1	
+left side of organism	overlaps	27215	fanc1	
 peripheral nervous system	overlaps	27215	fanc1	
 adult ventral nerve cord	overlaps	27215	fanc1	
 left side of organism	has soma location	27920	fanc1	
+left side of organism	overlaps	28096	fanc1	
 peripheral nervous system	overlaps	28096	fanc1	
 adult ventral nerve cord	overlaps	28096	fanc1	
+left side of organism	overlaps	28162	fanc1	
 peripheral nervous system	overlaps	28162	fanc1	
 adult ventral nerve cord	overlaps	28162	fanc1	
 left side of organism	has soma location	28282	fanc1	
@@ -1456,28 +1865,38 @@ adult ventral nerve cord	overlaps	28385	fanc1
 right side of organism	has soma location	28390	fanc1	
 peripheral nervous system	overlaps	28390	fanc1	
 adult ventral nerve cord	overlaps	28390	fanc1	
+right side of organism	overlaps	28400	fanc1	
 peripheral nervous system	overlaps	28400	fanc1	
 adult ventral nerve cord	overlaps	28400	fanc1	
+left side of organism	overlaps	28501	fanc1	
 peripheral nervous system	overlaps	28501	fanc1	
 adult ventral nerve cord	overlaps	28501	fanc1	
+left side of organism	overlaps	29626	fanc1	
 peripheral nervous system	overlaps	29626	fanc1	
 adult ventral nerve cord	overlaps	29626	fanc1	
+left side of organism	overlaps	29781	fanc1	
 peripheral nervous system	overlaps	29781	fanc1	
 adult ventral nerve cord	overlaps	29781	fanc1	
+left side of organism	overlaps	29809	fanc1	
 peripheral nervous system	overlaps	29809	fanc1	
 adult ventral nerve cord	overlaps	29809	fanc1	
+left side of organism	overlaps	29825	fanc1	
 peripheral nervous system	overlaps	29825	fanc1	
 adult ventral nerve cord	overlaps	29825	fanc1	
+left side of organism	overlaps	30294	fanc1	
 peripheral nervous system	overlaps	30294	fanc1	
 adult ventral nerve cord	overlaps	30294	fanc1	
+left side of organism	overlaps	30395	fanc1	
 peripheral nervous system	overlaps	30395	fanc1	
 adult ventral nerve cord	overlaps	30395	fanc1	
 left side of organism	has soma location	30720	fanc1	
 right side of organism	has soma location	33305	fanc1	
 peripheral nervous system	overlaps	33305	fanc1	
 adult ventral nerve cord	overlaps	33305	fanc1	
+right side of organism	overlaps	34069	fanc1	
 peripheral nervous system	overlaps	34069	fanc1	
 adult ventral nerve cord	overlaps	34069	fanc1	
+right side of organism	overlaps	38012	fanc1	
 peripheral nervous system	overlaps	38012	fanc1	
 adult ventral nerve cord	overlaps	38012	fanc1	
 left side of organism	has soma location	42003	fanc1	
@@ -1516,19 +1935,25 @@ adult ventral nerve cord	overlaps	42314	fanc1
 left side of organism	has soma location	42325	fanc1	
 peripheral nervous system	overlaps	42325	fanc1	
 adult ventral nerve cord	overlaps	42325	fanc1	
+left side of organism	overlaps	42902	fanc1	
 peripheral nervous system	overlaps	42902	fanc1	
 adult ventral nerve cord	overlaps	42902	fanc1	
+left side of organism	overlaps	42906	fanc1	
 peripheral nervous system	overlaps	42906	fanc1	
 adult ventral nerve cord	overlaps	42906	fanc1	
+left side of organism	overlaps	42910	fanc1	
 peripheral nervous system	overlaps	42910	fanc1	
 adult ventral nerve cord	overlaps	42910	fanc1	
+left side of organism	overlaps	42914	fanc1	
 peripheral nervous system	overlaps	42914	fanc1	
 adult ventral nerve cord	overlaps	42914	fanc1	
+left side of organism	overlaps	42918	fanc1	
 peripheral nervous system	overlaps	42918	fanc1	
 adult ventral nerve cord	overlaps	42918	fanc1	
 left side of organism	has soma location	42922	fanc1	
 peripheral nervous system	overlaps	42922	fanc1	
 adult ventral nerve cord	overlaps	42922	fanc1	
+left side of organism	overlaps	42928	fanc1	
 peripheral nervous system	overlaps	42928	fanc1	
 adult ventral nerve cord	overlaps	42928	fanc1	
 right side of organism	has soma location	47521	fanc1	
@@ -1543,6 +1968,7 @@ adult ventral nerve cord	overlaps	47542	fanc1
 right side of organism	has soma location	47576	fanc1	
 peripheral nervous system	overlaps	47576	fanc1	
 adult ventral nerve cord	overlaps	47576	fanc1	
+right side of organism	overlaps	47840	fanc1	
 peripheral nervous system	overlaps	47840	fanc1	
 adult ventral nerve cord	overlaps	47840	fanc1	
 right side of organism	has soma location	48215	fanc1	
@@ -1557,10 +1983,13 @@ adult ventral nerve cord	overlaps	48229	fanc1
 right side of organism	has soma location	48238	fanc1	
 peripheral nervous system	overlaps	48238	fanc1	
 adult ventral nerve cord	overlaps	48238	fanc1	
+left side of organism	overlaps	51189	fanc1	
 peripheral nervous system	overlaps	51189	fanc1	
 adult ventral nerve cord	overlaps	51189	fanc1	
+left side of organism	overlaps	51197	fanc1	
 peripheral nervous system	overlaps	51197	fanc1	
 adult ventral nerve cord	overlaps	51197	fanc1	
+left side of organism	overlaps	53001	fanc1	
 peripheral nervous system	overlaps	53001	fanc1	
 adult ventral nerve cord	overlaps	53001	fanc1	
 left side of organism	has soma location	65754	fanc1	
@@ -1569,8 +1998,10 @@ adult ventral nerve cord	overlaps	65754	fanc1
 left side of organism	has soma location	65762	fanc1	
 peripheral nervous system	overlaps	65762	fanc1	
 adult ventral nerve cord	overlaps	65762	fanc1	
+left side of organism	overlaps	65770	fanc1	
 peripheral nervous system	overlaps	65770	fanc1	
 adult ventral nerve cord	overlaps	65770	fanc1	
+left side of organism	overlaps	65781	fanc1	
 peripheral nervous system	overlaps	65781	fanc1	
 adult ventral nerve cord	overlaps	65781	fanc1	
 left side of organism	has soma location	65806	fanc1	
@@ -1605,8 +2036,10 @@ adult ventral nerve cord	overlaps	69660	fanc1
 left side of organism	has soma location	69672	fanc1	
 peripheral nervous system	overlaps	69672	fanc1	
 adult ventral nerve cord	overlaps	69672	fanc1	
+left side of organism	overlaps	69683	fanc1	
 peripheral nervous system	overlaps	69683	fanc1	
 adult ventral nerve cord	overlaps	69683	fanc1	
+left side of organism	overlaps	69709	fanc1	
 peripheral nervous system	overlaps	69709	fanc1	
 adult ventral nerve cord	overlaps	69709	fanc1	
 left side of organism	has soma location	69725	fanc1	
@@ -1621,6 +2054,7 @@ adult ventral nerve cord	overlaps	69841	fanc1
 left side of organism	has soma location	69853	fanc1	
 peripheral nervous system	overlaps	69853	fanc1	
 adult ventral nerve cord	overlaps	69853	fanc1	
+right side of organism	overlaps	69866	fanc1	
 peripheral nervous system	overlaps	69866	fanc1	
 adult ventral nerve cord	overlaps	69866	fanc1	
 right side of organism	has soma location	69877	fanc1	
@@ -1644,6 +2078,7 @@ adult ventral nerve cord	overlaps	70019	fanc1
 left side of organism	has soma location	70023	fanc1	
 peripheral nervous system	overlaps	70023	fanc1	
 adult ventral nerve cord	overlaps	70023	fanc1	
+left side of organism	overlaps	70058	fanc1	
 peripheral nervous system	overlaps	70058	fanc1	
 adult ventral nerve cord	overlaps	70058	fanc1	
 right side of organism	has soma location	70075	fanc1	
@@ -1667,6 +2102,8 @@ adult ventral nerve cord	overlaps	70193	fanc1
 right side of organism	has soma location	70227	fanc1	
 peripheral nervous system	overlaps	70227	fanc1	
 adult ventral nerve cord	overlaps	70227	fanc1	
+left side of organism	overlaps	70240	fanc1	
+right side of organism	overlaps	70240	fanc1	
 peripheral nervous system	overlaps	70240	fanc1	
 adult ventral nerve cord	overlaps	70240	fanc1	
 left side of organism	has soma location	70244	fanc1	
@@ -1681,8 +2118,10 @@ adult ventral nerve cord	overlaps	70276	fanc1
 right side of organism	has soma location	70280	fanc1	
 peripheral nervous system	overlaps	70280	fanc1	
 adult ventral nerve cord	overlaps	70280	fanc1	
+right side of organism	overlaps	70292	fanc1	
 peripheral nervous system	overlaps	70292	fanc1	
 adult ventral nerve cord	overlaps	70292	fanc1	
+right side of organism	overlaps	70309	fanc1	
 peripheral nervous system	overlaps	70309	fanc1	
 adult ventral nerve cord	overlaps	70309	fanc1	
 right side of organism	has soma location	70315	fanc1	
@@ -1691,12 +2130,16 @@ adult ventral nerve cord	overlaps	70315	fanc1
 left side of organism	has soma location	70328	fanc1	
 peripheral nervous system	overlaps	70328	fanc1	
 adult ventral nerve cord	overlaps	70328	fanc1	
+right side of organism	overlaps	70332	fanc1	
 peripheral nervous system	overlaps	70332	fanc1	
 adult ventral nerve cord	overlaps	70332	fanc1	
+right side of organism	overlaps	70372	fanc1	
 peripheral nervous system	overlaps	70372	fanc1	
 adult ventral nerve cord	overlaps	70372	fanc1	
+right side of organism	overlaps	70388	fanc1	
 peripheral nervous system	overlaps	70388	fanc1	
 adult ventral nerve cord	overlaps	70388	fanc1	
+right side of organism	overlaps	70406	fanc1	
 peripheral nervous system	overlaps	70406	fanc1	
 adult ventral nerve cord	overlaps	70406	fanc1	
 right side of organism	has soma location	70423	fanc1	
@@ -1711,8 +2154,10 @@ adult ventral nerve cord	overlaps	70435	fanc1
 left side of organism	has soma location	70443	fanc1	
 peripheral nervous system	overlaps	70443	fanc1	
 adult ventral nerve cord	overlaps	70443	fanc1	
+right side of organism	overlaps	70467	fanc1	
 peripheral nervous system	overlaps	70467	fanc1	
 adult ventral nerve cord	overlaps	70467	fanc1	
+right side of organism	overlaps	70529	fanc1	
 peripheral nervous system	overlaps	70529	fanc1	
 adult ventral nerve cord	overlaps	70529	fanc1	
 right side of organism	has soma location	70533	fanc1	
@@ -1724,16 +2169,19 @@ adult ventral nerve cord	overlaps	70588	fanc1
 left side of organism	has soma location	70635	fanc1	
 peripheral nervous system	overlaps	70635	fanc1	
 adult ventral nerve cord	overlaps	70635	fanc1	
+right side of organism	overlaps	70639	fanc1	
 peripheral nervous system	overlaps	70639	fanc1	
 adult ventral nerve cord	overlaps	70639	fanc1	
 left side of organism	has soma location	70646	fanc1	
 peripheral nervous system	overlaps	70646	fanc1	
 adult ventral nerve cord	overlaps	70646	fanc1	
+right side of organism	overlaps	70667	fanc1	
 peripheral nervous system	overlaps	70667	fanc1	
 adult ventral nerve cord	overlaps	70667	fanc1	
 right side of organism	has soma location	70692	fanc1	
 peripheral nervous system	overlaps	70692	fanc1	
 adult ventral nerve cord	overlaps	70692	fanc1	
+right side of organism	overlaps	70711	fanc1	
 peripheral nervous system	overlaps	70711	fanc1	
 adult ventral nerve cord	overlaps	70711	fanc1	
 left side of organism	has soma location	70733	fanc1	
@@ -1742,6 +2190,7 @@ adult ventral nerve cord	overlaps	70733	fanc1
 right side of organism	has soma location	70741	fanc1	
 peripheral nervous system	overlaps	70741	fanc1	
 adult ventral nerve cord	overlaps	70741	fanc1	
+right side of organism	overlaps	70754	fanc1	
 peripheral nervous system	overlaps	70754	fanc1	
 adult ventral nerve cord	overlaps	70754	fanc1	
 right side of organism	has soma location	70770	fanc1	
@@ -1774,6 +2223,7 @@ adult ventral nerve cord	overlaps	70869	fanc1
 right side of organism	has soma location	70881	fanc1	
 peripheral nervous system	overlaps	70881	fanc1	
 adult ventral nerve cord	overlaps	70881	fanc1	
+left side of organism	overlaps	70905	fanc1	
 peripheral nervous system	overlaps	70905	fanc1	
 adult ventral nerve cord	overlaps	70905	fanc1	
 right side of organism	has soma location	70911	fanc1	
@@ -1791,6 +2241,7 @@ adult ventral nerve cord	overlaps	70956	fanc1
 right side of organism	has soma location	70971	fanc1	
 peripheral nervous system	overlaps	70971	fanc1	
 adult ventral nerve cord	overlaps	70971	fanc1	
+left side of organism	overlaps	70979	fanc1	
 peripheral nervous system	overlaps	70979	fanc1	
 adult ventral nerve cord	overlaps	70979	fanc1	
 left side of organism	has soma location	71021	fanc1	
@@ -1805,6 +2256,7 @@ adult ventral nerve cord	overlaps	71199	fanc1
 right side of organism	has soma location	71206	fanc1	
 peripheral nervous system	overlaps	71206	fanc1	
 adult ventral nerve cord	overlaps	71206	fanc1	
+right side of organism	overlaps	71219	fanc1	
 peripheral nervous system	overlaps	71219	fanc1	
 adult ventral nerve cord	overlaps	71219	fanc1	
 right side of organism	has soma location	71237	fanc1	
@@ -1813,8 +2265,12 @@ adult ventral nerve cord	overlaps	71237	fanc1
 left side of organism	has soma location	71264	fanc1	
 peripheral nervous system	overlaps	71264	fanc1	
 adult ventral nerve cord	overlaps	71264	fanc1	
+left side of organism	overlaps	71277	fanc1	
+right side of organism	overlaps	71277	fanc1	
 peripheral nervous system	overlaps	71277	fanc1	
 adult ventral nerve cord	overlaps	71277	fanc1	
+left side of organism	overlaps	71285	fanc1	
+right side of organism	overlaps	71285	fanc1	
 peripheral nervous system	overlaps	71285	fanc1	
 adult ventral nerve cord	overlaps	71285	fanc1	
 left side of organism	has soma location	71307	fanc1	
@@ -1832,17 +2288,23 @@ adult ventral nerve cord	overlaps	71387	fanc1
 left side of organism	has soma location	71393	fanc1	
 peripheral nervous system	overlaps	71393	fanc1	
 adult ventral nerve cord	overlaps	71393	fanc1	
+right side of organism	overlaps	71405	fanc1	
 peripheral nervous system	overlaps	71405	fanc1	
 adult ventral nerve cord	overlaps	71405	fanc1	
+left side of organism	overlaps	71421	fanc1	
 peripheral nervous system	overlaps	71421	fanc1	
 adult ventral nerve cord	overlaps	71421	fanc1	
+left side of organism	overlaps	71595	fanc1	
 peripheral nervous system	overlaps	71595	fanc1	
 adult ventral nerve cord	overlaps	71595	fanc1	
+left side of organism	overlaps	72868	fanc1	
 peripheral nervous system	overlaps	72868	fanc1	
 adult ventral nerve cord	overlaps	72868	fanc1	
 left side of organism	has soma location	72877	fanc1	
 peripheral nervous system	overlaps	72877	fanc1	
 adult ventral nerve cord	overlaps	72877	fanc1	
+left side of organism	overlaps	72931	fanc1	
+right side of organism	overlaps	72931	fanc1	
 peripheral nervous system	overlaps	72931	fanc1	
 adult ventral nerve cord	overlaps	72931	fanc1	
 right side of organism	has soma location	72940	fanc1	
@@ -1851,6 +2313,7 @@ adult ventral nerve cord	overlaps	72940	fanc1
 left side of organism	has soma location	72969	fanc1	
 peripheral nervous system	overlaps	72969	fanc1	
 adult ventral nerve cord	overlaps	72969	fanc1	
+right side of organism	overlaps	73024	fanc1	
 peripheral nervous system	overlaps	73024	fanc1	
 adult ventral nerve cord	overlaps	73024	fanc1	
 right side of organism	has soma location	73035	fanc1	
@@ -1865,40 +2328,55 @@ adult ventral nerve cord	overlaps	73053	fanc1
 right side of organism	has soma location	73082	fanc1	
 peripheral nervous system	overlaps	73082	fanc1	
 adult ventral nerve cord	overlaps	73082	fanc1	
+right side of organism	overlaps	73090	fanc1	
 peripheral nervous system	overlaps	73090	fanc1	
 adult ventral nerve cord	overlaps	73090	fanc1	
+right side of organism	overlaps	73098	fanc1	
 peripheral nervous system	overlaps	73098	fanc1	
 adult ventral nerve cord	overlaps	73098	fanc1	
 right side of organism	has soma location	73111	fanc1	
 peripheral nervous system	overlaps	73111	fanc1	
 adult ventral nerve cord	overlaps	73111	fanc1	
+left side of organism	overlaps	73128	fanc1	
+right side of organism	overlaps	73128	fanc1	
 peripheral nervous system	overlaps	73128	fanc1	
 adult ventral nerve cord	overlaps	73128	fanc1	
 right side of organism	has soma location	73154	fanc1	
 peripheral nervous system	overlaps	73154	fanc1	
 adult ventral nerve cord	overlaps	73154	fanc1	
+left side of organism	overlaps	73168	fanc1	
+right side of organism	overlaps	73168	fanc1	
 peripheral nervous system	overlaps	73168	fanc1	
 adult ventral nerve cord	overlaps	73168	fanc1	
+left side of organism	overlaps	73184	fanc1	
+right side of organism	overlaps	73184	fanc1	
 peripheral nervous system	overlaps	73184	fanc1	
 adult ventral nerve cord	overlaps	73184	fanc1	
 right side of organism	has soma location	73198	fanc1	
 peripheral nervous system	overlaps	73198	fanc1	
 adult ventral nerve cord	overlaps	73198	fanc1	
+right side of organism	overlaps	73203	fanc1	
 peripheral nervous system	overlaps	73203	fanc1	
 adult ventral nerve cord	overlaps	73203	fanc1	
+right side of organism	overlaps	73208	fanc1	
 peripheral nervous system	overlaps	73208	fanc1	
 adult ventral nerve cord	overlaps	73208	fanc1	
 right side of organism	has soma location	73213	fanc1	
 peripheral nervous system	overlaps	73213	fanc1	
 adult ventral nerve cord	overlaps	73213	fanc1	
+right side of organism	overlaps	73223	fanc1	
 peripheral nervous system	overlaps	73223	fanc1	
 adult ventral nerve cord	overlaps	73223	fanc1	
+right side of organism	overlaps	73228	fanc1	
 peripheral nervous system	overlaps	73228	fanc1	
 adult ventral nerve cord	overlaps	73228	fanc1	
+right side of organism	overlaps	73233	fanc1	
 peripheral nervous system	overlaps	73233	fanc1	
 adult ventral nerve cord	overlaps	73233	fanc1	
+right side of organism	overlaps	73238	fanc1	
 peripheral nervous system	overlaps	73238	fanc1	
 adult ventral nerve cord	overlaps	73238	fanc1	
+right side of organism	overlaps	73243	fanc1	
 peripheral nervous system	overlaps	73243	fanc1	
 adult ventral nerve cord	overlaps	73243	fanc1	
 left side of organism	has soma location	74240	fanc1	
@@ -1916,6 +2394,7 @@ adult ventral nerve cord	overlaps	74302	fanc1
 left side of organism	has soma location	74335	fanc1	
 peripheral nervous system	overlaps	74335	fanc1	
 adult ventral nerve cord	overlaps	74335	fanc1	
+left side of organism	overlaps	74385	fanc1	
 peripheral nervous system	overlaps	74385	fanc1	
 adult ventral nerve cord	overlaps	74385	fanc1	
 left side of organism	has soma location	74415	fanc1	
@@ -1939,10 +2418,13 @@ adult ventral nerve cord	overlaps	74474	fanc1
 right side of organism	has soma location	74544	fanc1	
 peripheral nervous system	overlaps	74544	fanc1	
 adult ventral nerve cord	overlaps	74544	fanc1	
+left side of organism	overlaps	74548	fanc1	
 peripheral nervous system	overlaps	74548	fanc1	
 adult ventral nerve cord	overlaps	74548	fanc1	
+left side of organism	overlaps	74569	fanc1	
 peripheral nervous system	overlaps	74569	fanc1	
 adult ventral nerve cord	overlaps	74569	fanc1	
+right side of organism	overlaps	74682	fanc1	
 peripheral nervous system	overlaps	74682	fanc1	
 adult ventral nerve cord	overlaps	74682	fanc1	
 left side of organism	has soma location	74699	fanc1	
@@ -1999,30 +2481,43 @@ adult ventral nerve cord	overlaps	75084	fanc1
 left side of organism	has soma location	75529	fanc1	
 peripheral nervous system	overlaps	75529	fanc1	
 adult ventral nerve cord	overlaps	75529	fanc1	
+left side of organism	overlaps	75545	fanc1	
 peripheral nervous system	overlaps	75545	fanc1	
 adult ventral nerve cord	overlaps	75545	fanc1	
+left side of organism	overlaps	75577	fanc1	
 peripheral nervous system	overlaps	75577	fanc1	
 adult ventral nerve cord	overlaps	75577	fanc1	
+left side of organism	overlaps	75594	fanc1	
 peripheral nervous system	overlaps	75594	fanc1	
 adult ventral nerve cord	overlaps	75594	fanc1	
+right side of organism	overlaps	75600	fanc1	
 peripheral nervous system	overlaps	75600	fanc1	
 adult ventral nerve cord	overlaps	75600	fanc1	
+right side of organism	overlaps	75608	fanc1	
 peripheral nervous system	overlaps	75608	fanc1	
 adult ventral nerve cord	overlaps	75608	fanc1	
+left side of organism	overlaps	75629	fanc1	
 peripheral nervous system	overlaps	75629	fanc1	
 adult ventral nerve cord	overlaps	75629	fanc1	
+left side of organism	overlaps	75639	fanc1	
 peripheral nervous system	overlaps	75639	fanc1	
 adult ventral nerve cord	overlaps	75639	fanc1	
+left side of organism	overlaps	75657	fanc1	
 peripheral nervous system	overlaps	75657	fanc1	
 adult ventral nerve cord	overlaps	75657	fanc1	
+left side of organism	overlaps	75668	fanc1	
 peripheral nervous system	overlaps	75668	fanc1	
 adult ventral nerve cord	overlaps	75668	fanc1	
+left side of organism	overlaps	75678	fanc1	
 peripheral nervous system	overlaps	75678	fanc1	
 adult ventral nerve cord	overlaps	75678	fanc1	
+left side of organism	overlaps	75687	fanc1	
 peripheral nervous system	overlaps	75687	fanc1	
 adult ventral nerve cord	overlaps	75687	fanc1	
+left side of organism	overlaps	75720	fanc1	
 peripheral nervous system	overlaps	75720	fanc1	
 adult ventral nerve cord	overlaps	75720	fanc1	
+left side of organism	overlaps	75907	fanc1	
 peripheral nervous system	overlaps	75907	fanc1	
 adult ventral nerve cord	overlaps	75907	fanc1	
 left side of organism	has soma location	76000	fanc1	
@@ -2040,94 +2535,133 @@ adult ventral nerve cord	overlaps	76647	fanc1
 left side of organism	has soma location	76663	fanc1	
 peripheral nervous system	overlaps	76663	fanc1	
 adult ventral nerve cord	overlaps	76663	fanc1	
+left side of organism	overlaps	76862	fanc1	
+right side of organism	overlaps	76862	fanc1	
 peripheral nervous system	overlaps	76862	fanc1	
 adult ventral nerve cord	overlaps	76862	fanc1	
 right side of organism	has soma location	76867	fanc1	
 peripheral nervous system	overlaps	76867	fanc1	
 adult ventral nerve cord	overlaps	76867	fanc1	
+right side of organism	overlaps	77048	fanc1	
 peripheral nervous system	overlaps	77048	fanc1	
 adult ventral nerve cord	overlaps	77048	fanc1	
+right side of organism	overlaps	77113	fanc1	
 peripheral nervous system	overlaps	77113	fanc1	
 adult ventral nerve cord	overlaps	77113	fanc1	
+right side of organism	overlaps	77174	fanc1	
 peripheral nervous system	overlaps	77174	fanc1	
 adult ventral nerve cord	overlaps	77174	fanc1	
+right side of organism	overlaps	77181	fanc1	
 peripheral nervous system	overlaps	77181	fanc1	
 adult ventral nerve cord	overlaps	77181	fanc1	
+right side of organism	overlaps	77256	fanc1	
 peripheral nervous system	overlaps	77256	fanc1	
 adult ventral nerve cord	overlaps	77256	fanc1	
+right side of organism	overlaps	77274	fanc1	
 peripheral nervous system	overlaps	77274	fanc1	
 adult ventral nerve cord	overlaps	77274	fanc1	
+right side of organism	overlaps	78300	fanc1	
 peripheral nervous system	overlaps	78300	fanc1	
 adult ventral nerve cord	overlaps	78300	fanc1	
+right side of organism	overlaps	78507	fanc1	
 peripheral nervous system	overlaps	78507	fanc1	
 adult ventral nerve cord	overlaps	78507	fanc1	
+right side of organism	overlaps	78513	fanc1	
 peripheral nervous system	overlaps	78513	fanc1	
 adult ventral nerve cord	overlaps	78513	fanc1	
+right side of organism	overlaps	78542	fanc1	
 peripheral nervous system	overlaps	78542	fanc1	
 adult ventral nerve cord	overlaps	78542	fanc1	
 left side of organism	has soma location	78931	fanc1	
 peripheral nervous system	overlaps	78931	fanc1	
 adult ventral nerve cord	overlaps	78931	fanc1	
+left side of organism	overlaps	78941	fanc1	
 peripheral nervous system	overlaps	78941	fanc1	
 adult ventral nerve cord	overlaps	78941	fanc1	
+left side of organism	overlaps	78948	fanc1	
 peripheral nervous system	overlaps	78948	fanc1	
 adult ventral nerve cord	overlaps	78948	fanc1	
+left side of organism	overlaps	78955	fanc1	
 peripheral nervous system	overlaps	78955	fanc1	
 adult ventral nerve cord	overlaps	78955	fanc1	
+left side of organism	overlaps	78962	fanc1	
 peripheral nervous system	overlaps	78962	fanc1	
 adult ventral nerve cord	overlaps	78962	fanc1	
+left side of organism	overlaps	78972	fanc1	
 peripheral nervous system	overlaps	78972	fanc1	
 adult ventral nerve cord	overlaps	78972	fanc1	
+right side of organism	overlaps	79253	fanc1	
 peripheral nervous system	overlaps	79253	fanc1	
 adult ventral nerve cord	overlaps	79253	fanc1	
+right side of organism	overlaps	79292	fanc1	
 peripheral nervous system	overlaps	79292	fanc1	
 adult ventral nerve cord	overlaps	79292	fanc1	
+right side of organism	overlaps	79301	fanc1	
 peripheral nervous system	overlaps	79301	fanc1	
 adult ventral nerve cord	overlaps	79301	fanc1	
+right side of organism	overlaps	80036	fanc1	
 peripheral nervous system	overlaps	80036	fanc1	
 adult ventral nerve cord	overlaps	80036	fanc1	
 right side of organism	has soma location	80315	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	80315	fanc1	
 peripheral nervous system	overlaps	80315	fanc1	
 adult ventral nerve cord	overlaps	80315	fanc1	
+right side of organism	overlaps	80736	fanc1	
 peripheral nervous system	overlaps	80736	fanc1	
 adult ventral nerve cord	overlaps	80736	fanc1	
+right side of organism	overlaps	80741	fanc1	
 peripheral nervous system	overlaps	80741	fanc1	
 adult ventral nerve cord	overlaps	80741	fanc1	
+left side of organism	overlaps	80794	fanc1	
 peripheral nervous system	overlaps	80794	fanc1	
 adult ventral nerve cord	overlaps	80794	fanc1	
+left side of organism	overlaps	80856	fanc1	
 peripheral nervous system	overlaps	80856	fanc1	
 adult ventral nerve cord	overlaps	80856	fanc1	
+right side of organism	overlaps	80884	fanc1	
 peripheral nervous system	overlaps	80884	fanc1	
 adult ventral nerve cord	overlaps	80884	fanc1	
+right side of organism	overlaps	80894	fanc1	
 peripheral nervous system	overlaps	80894	fanc1	
 adult ventral nerve cord	overlaps	80894	fanc1	
+left side of organism	overlaps	81115	fanc1	
 peripheral nervous system	overlaps	81115	fanc1	
 adult ventral nerve cord	overlaps	81115	fanc1	
+left side of organism	overlaps	81149	fanc1	
 peripheral nervous system	overlaps	81149	fanc1	
 adult ventral nerve cord	overlaps	81149	fanc1	
+left side of organism	overlaps	81154	fanc1	
 peripheral nervous system	overlaps	81154	fanc1	
 adult ventral nerve cord	overlaps	81154	fanc1	
+right side of organism	overlaps	81211	fanc1	
 peripheral nervous system	overlaps	81211	fanc1	
 adult ventral nerve cord	overlaps	81211	fanc1	
+left side of organism	overlaps	81297	fanc1	
 peripheral nervous system	overlaps	81297	fanc1	
 adult ventral nerve cord	overlaps	81297	fanc1	
+left side of organism	overlaps	81458	fanc1	
 peripheral nervous system	overlaps	81458	fanc1	
 adult ventral nerve cord	overlaps	81458	fanc1	
+left side of organism	overlaps	81518	fanc1	
 peripheral nervous system	overlaps	81518	fanc1	
 adult ventral nerve cord	overlaps	81518	fanc1	
+right side of organism	overlaps	81589	fanc1	
 peripheral nervous system	overlaps	81589	fanc1	
 adult ventral nerve cord	overlaps	81589	fanc1	
 left side of organism	has soma location	82231	fanc1	
 peripheral nervous system	overlaps	82231	fanc1	
 adult ventral nerve cord	overlaps	82231	fanc1	
+right side of organism	overlaps	83103	fanc1	
 peripheral nervous system	overlaps	83103	fanc1	
 adult ventral nerve cord	overlaps	83103	fanc1	
+right side of organism	overlaps	83121	fanc1	
 peripheral nervous system	overlaps	83121	fanc1	
 adult ventral nerve cord	overlaps	83121	fanc1	
+right side of organism	overlaps	83134	fanc1	
 peripheral nervous system	overlaps	83134	fanc1	
 adult ventral nerve cord	overlaps	83134	fanc1	
 left side of organism	has soma location	83340	fanc1	
+right side of organism	overlaps	83367	fanc1	
 peripheral nervous system	overlaps	83367	fanc1	
 adult ventral nerve cord	overlaps	83367	fanc1	
 left side of organism	has soma location	83502	fanc1	
@@ -2138,27 +2672,40 @@ adult ventral nerve cord	overlaps	83814	fanc1
 left side of organism	has soma location	83842	fanc1	
 peripheral nervous system	overlaps	83842	fanc1	
 adult ventral nerve cord	overlaps	83842	fanc1	
+right side of organism	overlaps	84008	fanc1	
 peripheral nervous system	overlaps	84008	fanc1	
 adult ventral nerve cord	overlaps	84008	fanc1	
+right side of organism	overlaps	84112	fanc1	
 peripheral nervous system	overlaps	84112	fanc1	
 adult ventral nerve cord	overlaps	84112	fanc1	
+right side of organism	overlaps	84128	fanc1	
 peripheral nervous system	overlaps	84128	fanc1	
 adult ventral nerve cord	overlaps	84128	fanc1	
+right side of organism	overlaps	84139	fanc1	
 peripheral nervous system	overlaps	84139	fanc1	
 adult ventral nerve cord	overlaps	84139	fanc1	
+left side of organism	overlaps	86219	fanc1	
 peripheral nervous system	overlaps	86219	fanc1	
 adult ventral nerve cord	overlaps	86219	fanc1	
+left side of organism	overlaps	86243	fanc1	
 peripheral nervous system	overlaps	86243	fanc1	
 adult ventral nerve cord	overlaps	86243	fanc1	
 left side of organism	has soma location	86813	fanc1	
+left side of organism	overlaps	87094	fanc1	
+right side of organism	overlaps	87094	fanc1	
+right side of organism	overlaps	87358	fanc1	
 peripheral nervous system	overlaps	87358	fanc1	
 adult ventral nerve cord	overlaps	87358	fanc1	
+right side of organism	overlaps	87365	fanc1	
 peripheral nervous system	overlaps	87365	fanc1	
 adult ventral nerve cord	overlaps	87365	fanc1	
+right side of organism	overlaps	87372	fanc1	
 peripheral nervous system	overlaps	87372	fanc1	
 adult ventral nerve cord	overlaps	87372	fanc1	
+right side of organism	overlaps	87657	fanc1	
 peripheral nervous system	overlaps	87657	fanc1	
 adult ventral nerve cord	overlaps	87657	fanc1	
+right side of organism	overlaps	87697	fanc1	
 peripheral nervous system	overlaps	87697	fanc1	
 adult ventral nerve cord	overlaps	87697	fanc1	
 right side of organism	has soma location	88808	fanc1	
@@ -2191,6 +2738,7 @@ adult ventral nerve cord	overlaps	93948	fanc1
 left side of organism	has soma location	93975	fanc1	
 peripheral nervous system	overlaps	93975	fanc1	
 adult ventral nerve cord	overlaps	93975	fanc1	
+left side of organism	overlaps	94021	fanc1	
 peripheral nervous system	overlaps	94021	fanc1	
 adult ventral nerve cord	overlaps	94021	fanc1	
 left side of organism	has soma location	96448	fanc1	
@@ -2223,18 +2771,25 @@ adult ventral nerve cord	overlaps	96619	fanc1
 left side of organism	has soma location	96931	fanc1	
 peripheral nervous system	overlaps	96931	fanc1	
 adult ventral nerve cord	overlaps	96931	fanc1	
+left side of organism	overlaps	101010	fanc1	
 peripheral nervous system	overlaps	101010	fanc1	
 adult ventral nerve cord	overlaps	101010	fanc1	
+left side of organism	overlaps	101067	fanc1	
 peripheral nervous system	overlaps	101067	fanc1	
 adult ventral nerve cord	overlaps	101067	fanc1	
+left side of organism	overlaps	101187	fanc1	
 peripheral nervous system	overlaps	101187	fanc1	
 adult ventral nerve cord	overlaps	101187	fanc1	
+left side of organism	overlaps	101863	fanc1	
 peripheral nervous system	overlaps	101863	fanc1	
 adult ventral nerve cord	overlaps	101863	fanc1	
+left side of organism	overlaps	102603	fanc1	
 peripheral nervous system	overlaps	102603	fanc1	
 adult ventral nerve cord	overlaps	102603	fanc1	
+left side of organism	overlaps	102611	fanc1	
 peripheral nervous system	overlaps	102611	fanc1	
 adult ventral nerve cord	overlaps	102611	fanc1	
+left side of organism	overlaps	102629	fanc1	
 peripheral nervous system	overlaps	102629	fanc1	
 adult ventral nerve cord	overlaps	102629	fanc1	
 cell body rind along midline of adult ventral nerve cord	has soma location	102911	fanc1	
@@ -2317,6 +2872,7 @@ adult ventral nerve cord	overlaps	105361	fanc1
 left side of organism	has soma location	106003	fanc1	
 peripheral nervous system	overlaps	106003	fanc1	
 adult ventral nerve cord	overlaps	106003	fanc1	
+left side of organism	overlaps	106056	fanc1	
 peripheral nervous system	overlaps	106056	fanc1	
 adult ventral nerve cord	overlaps	106056	fanc1	
 left side of organism	has soma location	106073	fanc1	
@@ -2376,6 +2932,8 @@ adult ventral nerve cord	overlaps	107216	fanc1
 left side of organism	has soma location	107221	fanc1	
 peripheral nervous system	overlaps	107221	fanc1	
 adult ventral nerve cord	overlaps	107221	fanc1	
+left side of organism	overlaps	107302	fanc1	
+right side of organism	overlaps	107302	fanc1	
 peripheral nervous system	overlaps	107302	fanc1	
 adult ventral nerve cord	overlaps	107302	fanc1	
 left side of organism	has soma location	107313	fanc1	
@@ -2384,12 +2942,16 @@ adult ventral nerve cord	overlaps	107313	fanc1
 left side of organism	has soma location	107347	fanc1	
 peripheral nervous system	overlaps	107347	fanc1	
 adult ventral nerve cord	overlaps	107347	fanc1	
+left side of organism	overlaps	107371	fanc1	
 peripheral nervous system	overlaps	107371	fanc1	
 adult ventral nerve cord	overlaps	107371	fanc1	
+left side of organism	overlaps	107377	fanc1	
 peripheral nervous system	overlaps	107377	fanc1	
 adult ventral nerve cord	overlaps	107377	fanc1	
+left side of organism	overlaps	107571	fanc1	
 peripheral nervous system	overlaps	107571	fanc1	
 adult ventral nerve cord	overlaps	107571	fanc1	
+left side of organism	overlaps	112538	fanc1	
 peripheral nervous system	overlaps	112538	fanc1	
 adult ventral nerve cord	overlaps	112538	fanc1	
 left side of organism	has soma location	112543	fanc1	
@@ -2551,73 +3113,106 @@ adult ventral nerve cord	overlaps	113429	fanc1
 right side of organism	has soma location	113443	fanc1	
 peripheral nervous system	overlaps	113443	fanc1	
 adult ventral nerve cord	overlaps	113443	fanc1	
+right side of organism	overlaps	113465	fanc1	
 peripheral nervous system	overlaps	113465	fanc1	
 adult ventral nerve cord	overlaps	113465	fanc1	
+right side of organism	overlaps	113475	fanc1	
 peripheral nervous system	overlaps	113475	fanc1	
 adult ventral nerve cord	overlaps	113475	fanc1	
+right side of organism	overlaps	113485	fanc1	
 peripheral nervous system	overlaps	113485	fanc1	
 adult ventral nerve cord	overlaps	113485	fanc1	
+right side of organism	overlaps	113496	fanc1	
 peripheral nervous system	overlaps	113496	fanc1	
 adult ventral nerve cord	overlaps	113496	fanc1	
+right side of organism	overlaps	113549	fanc1	
 peripheral nervous system	overlaps	113549	fanc1	
 adult ventral nerve cord	overlaps	113549	fanc1	
+right side of organism	overlaps	113560	fanc1	
 peripheral nervous system	overlaps	113560	fanc1	
 adult ventral nerve cord	overlaps	113560	fanc1	
+right side of organism	overlaps	113570	fanc1	
 peripheral nervous system	overlaps	113570	fanc1	
 adult ventral nerve cord	overlaps	113570	fanc1	
+right side of organism	overlaps	113580	fanc1	
 peripheral nervous system	overlaps	113580	fanc1	
 adult ventral nerve cord	overlaps	113580	fanc1	
+right side of organism	overlaps	113590	fanc1	
 peripheral nervous system	overlaps	113590	fanc1	
 adult ventral nerve cord	overlaps	113590	fanc1	
+right side of organism	overlaps	113600	fanc1	
 peripheral nervous system	overlaps	113600	fanc1	
 adult ventral nerve cord	overlaps	113600	fanc1	
+right side of organism	overlaps	113611	fanc1	
 peripheral nervous system	overlaps	113611	fanc1	
 adult ventral nerve cord	overlaps	113611	fanc1	
+right side of organism	overlaps	113621	fanc1	
 peripheral nervous system	overlaps	113621	fanc1	
 adult ventral nerve cord	overlaps	113621	fanc1	
+right side of organism	overlaps	113632	fanc1	
 peripheral nervous system	overlaps	113632	fanc1	
 adult ventral nerve cord	overlaps	113632	fanc1	
+right side of organism	overlaps	113643	fanc1	
 peripheral nervous system	overlaps	113643	fanc1	
 adult ventral nerve cord	overlaps	113643	fanc1	
+right side of organism	overlaps	113654	fanc1	
 peripheral nervous system	overlaps	113654	fanc1	
 adult ventral nerve cord	overlaps	113654	fanc1	
+right side of organism	overlaps	113664	fanc1	
 peripheral nervous system	overlaps	113664	fanc1	
 adult ventral nerve cord	overlaps	113664	fanc1	
+right side of organism	overlaps	113677	fanc1	
 peripheral nervous system	overlaps	113677	fanc1	
 adult ventral nerve cord	overlaps	113677	fanc1	
+right side of organism	overlaps	113700	fanc1	
 peripheral nervous system	overlaps	113700	fanc1	
 adult ventral nerve cord	overlaps	113700	fanc1	
+right side of organism	overlaps	113710	fanc1	
 peripheral nervous system	overlaps	113710	fanc1	
 adult ventral nerve cord	overlaps	113710	fanc1	
+right side of organism	overlaps	113721	fanc1	
 peripheral nervous system	overlaps	113721	fanc1	
 adult ventral nerve cord	overlaps	113721	fanc1	
+right side of organism	overlaps	113731	fanc1	
 peripheral nervous system	overlaps	113731	fanc1	
 adult ventral nerve cord	overlaps	113731	fanc1	
+right side of organism	overlaps	113742	fanc1	
 peripheral nervous system	overlaps	113742	fanc1	
 adult ventral nerve cord	overlaps	113742	fanc1	
+right side of organism	overlaps	113753	fanc1	
 peripheral nervous system	overlaps	113753	fanc1	
 adult ventral nerve cord	overlaps	113753	fanc1	
+right side of organism	overlaps	113763	fanc1	
 peripheral nervous system	overlaps	113763	fanc1	
 adult ventral nerve cord	overlaps	113763	fanc1	
+right side of organism	overlaps	113773	fanc1	
 peripheral nervous system	overlaps	113773	fanc1	
 adult ventral nerve cord	overlaps	113773	fanc1	
+right side of organism	overlaps	113785	fanc1	
 peripheral nervous system	overlaps	113785	fanc1	
 adult ventral nerve cord	overlaps	113785	fanc1	
+right side of organism	overlaps	113795	fanc1	
 peripheral nervous system	overlaps	113795	fanc1	
 adult ventral nerve cord	overlaps	113795	fanc1	
+right side of organism	overlaps	113846	fanc1	
 peripheral nervous system	overlaps	113846	fanc1	
 adult ventral nerve cord	overlaps	113846	fanc1	
 right side of organism	has soma location	113857	fanc1	
 peripheral nervous system	overlaps	113857	fanc1	
 adult ventral nerve cord	overlaps	113857	fanc1	
+right side of organism	overlaps	113871	fanc1	
 peripheral nervous system	overlaps	113871	fanc1	
 adult ventral nerve cord	overlaps	113871	fanc1	
+right side of organism	overlaps	113877	fanc1	
 peripheral nervous system	overlaps	113877	fanc1	
 adult ventral nerve cord	overlaps	113877	fanc1	
+right side of organism	overlaps	113883	fanc1	
 peripheral nervous system	overlaps	113883	fanc1	
 adult ventral nerve cord	overlaps	113883	fanc1	
+right side of organism	overlaps	113889	fanc1	
 peripheral nervous system	overlaps	113889	fanc1	
 adult ventral nerve cord	overlaps	113889	fanc1	
+right side of organism	overlaps	113895	fanc1	
 peripheral nervous system	overlaps	113895	fanc1	
 adult ventral nerve cord	overlaps	113895	fanc1	
 right side of organism	has soma location	113901	fanc1	
@@ -2631,6 +3226,8 @@ left side of organism	has soma location	115533	fanc1
 left side of organism	has soma location	116667	fanc1	
 peripheral nervous system	overlaps	116667	fanc1	
 adult ventral nerve cord	overlaps	116667	fanc1	
+left side of organism	overlaps	116674	fanc1	
+right side of organism	overlaps	116674	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	116674	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	116674	fanc1	
 peripheral nervous system	overlaps	116674	fanc1	
@@ -2702,64 +3299,94 @@ adult ventral nerve cord	overlaps	118433	fanc1
 left side of organism	has soma location	118467	fanc1	
 peripheral nervous system	overlaps	118467	fanc1	
 adult ventral nerve cord	overlaps	118467	fanc1	
+right side of organism	overlaps	118490	fanc1	
 peripheral nervous system	overlaps	118490	fanc1	
 adult ventral nerve cord	overlaps	118490	fanc1	
+left side of organism	overlaps	118497	fanc1	
 peripheral nervous system	overlaps	118497	fanc1	
 adult ventral nerve cord	overlaps	118497	fanc1	
+left side of organism	overlaps	120078	fanc1	
 peripheral nervous system	overlaps	120078	fanc1	
 adult ventral nerve cord	overlaps	120078	fanc1	
+left side of organism	overlaps	120112	fanc1	
 peripheral nervous system	overlaps	120112	fanc1	
 adult ventral nerve cord	overlaps	120112	fanc1	
+left side of organism	overlaps	120146	fanc1	
 peripheral nervous system	overlaps	120146	fanc1	
 adult ventral nerve cord	overlaps	120146	fanc1	
+left side of organism	overlaps	120175	fanc1	
 peripheral nervous system	overlaps	120175	fanc1	
 adult ventral nerve cord	overlaps	120175	fanc1	
+left side of organism	overlaps	120368	fanc1	
 peripheral nervous system	overlaps	120368	fanc1	
 adult ventral nerve cord	overlaps	120368	fanc1	
+left side of organism	overlaps	120400	fanc1	
 peripheral nervous system	overlaps	120400	fanc1	
 adult ventral nerve cord	overlaps	120400	fanc1	
+left side of organism	overlaps	120442	fanc1	
 peripheral nervous system	overlaps	120442	fanc1	
 adult ventral nerve cord	overlaps	120442	fanc1	
+left side of organism	overlaps	120475	fanc1	
 peripheral nervous system	overlaps	120475	fanc1	
 adult ventral nerve cord	overlaps	120475	fanc1	
+left side of organism	overlaps	122872	fanc1	
 peripheral nervous system	overlaps	122872	fanc1	
 adult ventral nerve cord	overlaps	122872	fanc1	
+left side of organism	overlaps	122918	fanc1	
 peripheral nervous system	overlaps	122918	fanc1	
 adult ventral nerve cord	overlaps	122918	fanc1	
+left side of organism	overlaps	122984	fanc1	
 peripheral nervous system	overlaps	122984	fanc1	
 adult ventral nerve cord	overlaps	122984	fanc1	
+left side of organism	overlaps	123006	fanc1	
 peripheral nervous system	overlaps	123006	fanc1	
 adult ventral nerve cord	overlaps	123006	fanc1	
+left side of organism	overlaps	123028	fanc1	
 peripheral nervous system	overlaps	123028	fanc1	
 adult ventral nerve cord	overlaps	123028	fanc1	
+left side of organism	overlaps	123055	fanc1	
 peripheral nervous system	overlaps	123055	fanc1	
 adult ventral nerve cord	overlaps	123055	fanc1	
+left side of organism	overlaps	123080	fanc1	
 peripheral nervous system	overlaps	123080	fanc1	
 adult ventral nerve cord	overlaps	123080	fanc1	
+left side of organism	overlaps	123088	fanc1	
 peripheral nervous system	overlaps	123088	fanc1	
 adult ventral nerve cord	overlaps	123088	fanc1	
+left side of organism	overlaps	123098	fanc1	
 peripheral nervous system	overlaps	123098	fanc1	
 adult ventral nerve cord	overlaps	123098	fanc1	
+left side of organism	overlaps	123110	fanc1	
 peripheral nervous system	overlaps	123110	fanc1	
 adult ventral nerve cord	overlaps	123110	fanc1	
+left side of organism	overlaps	123118	fanc1	
 peripheral nervous system	overlaps	123118	fanc1	
 adult ventral nerve cord	overlaps	123118	fanc1	
+left side of organism	overlaps	123125	fanc1	
 peripheral nervous system	overlaps	123125	fanc1	
 adult ventral nerve cord	overlaps	123125	fanc1	
+left side of organism	overlaps	123277	fanc1	
 peripheral nervous system	overlaps	123277	fanc1	
 adult ventral nerve cord	overlaps	123277	fanc1	
+left side of organism	overlaps	123296	fanc1	
 peripheral nervous system	overlaps	123296	fanc1	
 adult ventral nerve cord	overlaps	123296	fanc1	
+left side of organism	overlaps	123301	fanc1	
 peripheral nervous system	overlaps	123301	fanc1	
 adult ventral nerve cord	overlaps	123301	fanc1	
+left side of organism	overlaps	123306	fanc1	
 peripheral nervous system	overlaps	123306	fanc1	
 adult ventral nerve cord	overlaps	123306	fanc1	
+left side of organism	overlaps	123311	fanc1	
 peripheral nervous system	overlaps	123311	fanc1	
 adult ventral nerve cord	overlaps	123311	fanc1	
+left side of organism	overlaps	123316	fanc1	
 peripheral nervous system	overlaps	123316	fanc1	
 adult ventral nerve cord	overlaps	123316	fanc1	
+left side of organism	overlaps	123321	fanc1	
 peripheral nervous system	overlaps	123321	fanc1	
 adult ventral nerve cord	overlaps	123321	fanc1	
+left side of organism	overlaps	123326	fanc1	
 peripheral nervous system	overlaps	123326	fanc1	
 adult ventral nerve cord	overlaps	123326	fanc1	
 left side of organism	has soma location	123644	fanc1	
@@ -2768,63 +3395,88 @@ adult ventral nerve cord	overlaps	123644	fanc1
 right side of organism	has soma location	123733	fanc1	
 peripheral nervous system	overlaps	123733	fanc1	
 adult ventral nerve cord	overlaps	123733	fanc1	
+left side of organism	overlaps	124101	fanc1	
 peripheral nervous system	overlaps	124101	fanc1	
 adult ventral nerve cord	overlaps	124101	fanc1	
+left side of organism	overlaps	127220	fanc1	
 peripheral nervous system	overlaps	127220	fanc1	
 adult ventral nerve cord	overlaps	127220	fanc1	
+left side of organism	overlaps	127704	fanc1	
 peripheral nervous system	overlaps	127704	fanc1	
 adult ventral nerve cord	overlaps	127704	fanc1	
+right side of organism	overlaps	162497	fanc1	
 peripheral nervous system	overlaps	162497	fanc1	
 adult ventral nerve cord	overlaps	162497	fanc1	
+right side of organism	overlaps	162501	fanc1	
 peripheral nervous system	overlaps	162501	fanc1	
 adult ventral nerve cord	overlaps	162501	fanc1	
+right side of organism	overlaps	162505	fanc1	
 peripheral nervous system	overlaps	162505	fanc1	
 adult ventral nerve cord	overlaps	162505	fanc1	
+right side of organism	overlaps	162509	fanc1	
 peripheral nervous system	overlaps	162509	fanc1	
 adult ventral nerve cord	overlaps	162509	fanc1	
+right side of organism	overlaps	162513	fanc1	
 peripheral nervous system	overlaps	162513	fanc1	
 adult ventral nerve cord	overlaps	162513	fanc1	
+right side of organism	overlaps	162517	fanc1	
 peripheral nervous system	overlaps	162517	fanc1	
 adult ventral nerve cord	overlaps	162517	fanc1	
+right side of organism	overlaps	162521	fanc1	
 peripheral nervous system	overlaps	162521	fanc1	
 adult ventral nerve cord	overlaps	162521	fanc1	
+right side of organism	overlaps	162525	fanc1	
 peripheral nervous system	overlaps	162525	fanc1	
 adult ventral nerve cord	overlaps	162525	fanc1	
+right side of organism	overlaps	162533	fanc1	
 peripheral nervous system	overlaps	162533	fanc1	
 adult ventral nerve cord	overlaps	162533	fanc1	
+right side of organism	overlaps	162537	fanc1	
 peripheral nervous system	overlaps	162537	fanc1	
 adult ventral nerve cord	overlaps	162537	fanc1	
+right side of organism	overlaps	162541	fanc1	
 peripheral nervous system	overlaps	162541	fanc1	
 adult ventral nerve cord	overlaps	162541	fanc1	
+right side of organism	overlaps	162545	fanc1	
 peripheral nervous system	overlaps	162545	fanc1	
 adult ventral nerve cord	overlaps	162545	fanc1	
+right side of organism	overlaps	162549	fanc1	
 peripheral nervous system	overlaps	162549	fanc1	
 adult ventral nerve cord	overlaps	162549	fanc1	
+right side of organism	overlaps	162553	fanc1	
 peripheral nervous system	overlaps	162553	fanc1	
 adult ventral nerve cord	overlaps	162553	fanc1	
+right side of organism	overlaps	176255	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	176255	fanc1	
 peripheral nervous system	overlaps	176255	fanc1	
 adult ventral nerve cord	overlaps	176255	fanc1	
+right side of organism	overlaps	176264	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	176264	fanc1	
 peripheral nervous system	overlaps	176264	fanc1	
 adult ventral nerve cord	overlaps	176264	fanc1	
+right side of organism	overlaps	176272	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	176272	fanc1	
 peripheral nervous system	overlaps	176272	fanc1	
 adult ventral nerve cord	overlaps	176272	fanc1	
+right side of organism	overlaps	176280	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	176280	fanc1	
 peripheral nervous system	overlaps	176280	fanc1	
 adult ventral nerve cord	overlaps	176280	fanc1	
+right side of organism	overlaps	176288	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	176288	fanc1	
 peripheral nervous system	overlaps	176288	fanc1	
 adult ventral nerve cord	overlaps	176288	fanc1	
+right side of organism	overlaps	176296	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	176296	fanc1	
 peripheral nervous system	overlaps	176296	fanc1	
 adult ventral nerve cord	overlaps	176296	fanc1	
+right side of organism	overlaps	179000	fanc1	
 peripheral nervous system	overlaps	179000	fanc1	
 adult ventral nerve cord	overlaps	179000	fanc1	
 left side of organism	has soma location	188441	fanc1	
 peripheral nervous system	overlaps	188441	fanc1	
 adult ventral nerve cord	overlaps	188441	fanc1	
+left side of organism	overlaps	189386	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189386	fanc1	
 peripheral nervous system	overlaps	189386	fanc1	
 adult ventral nerve cord	overlaps	189386	fanc1	
@@ -2832,21 +3484,26 @@ left side of organism	has soma location	189391	fanc1
 adult dorsal metathoracic nerve	fasciculates_with	189391	fanc1	
 peripheral nervous system	overlaps	189391	fanc1	
 adult ventral nerve cord	overlaps	189391	fanc1	
+left side of organism	overlaps	189397	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189397	fanc1	
 peripheral nervous system	overlaps	189397	fanc1	
 adult ventral nerve cord	overlaps	189397	fanc1	
+left side of organism	overlaps	189462	fanc1	
 peripheral nervous system	overlaps	189462	fanc1	
 adult ventral nerve cord	overlaps	189462	fanc1	
 left side of organism	has soma location	189468	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189468	fanc1	
 peripheral nervous system	overlaps	189468	fanc1	
 adult ventral nerve cord	overlaps	189468	fanc1	
+left side of organism	overlaps	189483	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189483	fanc1	
 peripheral nervous system	overlaps	189483	fanc1	
 adult ventral nerve cord	overlaps	189483	fanc1	
+left side of organism	overlaps	189490	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189490	fanc1	
 peripheral nervous system	overlaps	189490	fanc1	
 adult ventral nerve cord	overlaps	189490	fanc1	
+left side of organism	overlaps	189532	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189532	fanc1	
 peripheral nervous system	overlaps	189532	fanc1	
 adult ventral nerve cord	overlaps	189532	fanc1	
@@ -2854,27 +3511,35 @@ left side of organism	has soma location	189570	fanc1
 adult dorsal metathoracic nerve	fasciculates_with	189570	fanc1	
 peripheral nervous system	overlaps	189570	fanc1	
 adult ventral nerve cord	overlaps	189570	fanc1	
+left side of organism	overlaps	189580	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189580	fanc1	
 peripheral nervous system	overlaps	189580	fanc1	
 adult ventral nerve cord	overlaps	189580	fanc1	
+left side of organism	overlaps	189595	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189595	fanc1	
 peripheral nervous system	overlaps	189595	fanc1	
 adult ventral nerve cord	overlaps	189595	fanc1	
+left side of organism	overlaps	189602	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189602	fanc1	
 peripheral nervous system	overlaps	189602	fanc1	
 adult ventral nerve cord	overlaps	189602	fanc1	
+left side of organism	overlaps	189642	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189642	fanc1	
 peripheral nervous system	overlaps	189642	fanc1	
 adult ventral nerve cord	overlaps	189642	fanc1	
+left side of organism	overlaps	189680	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189680	fanc1	
 peripheral nervous system	overlaps	189680	fanc1	
 adult ventral nerve cord	overlaps	189680	fanc1	
+left side of organism	overlaps	189699	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189699	fanc1	
 peripheral nervous system	overlaps	189699	fanc1	
 adult ventral nerve cord	overlaps	189699	fanc1	
+left side of organism	overlaps	189705	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189705	fanc1	
 peripheral nervous system	overlaps	189705	fanc1	
 adult ventral nerve cord	overlaps	189705	fanc1	
+left side of organism	overlaps	189722	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189722	fanc1	
 peripheral nervous system	overlaps	189722	fanc1	
 adult ventral nerve cord	overlaps	189722	fanc1	
@@ -2882,39 +3547,51 @@ right side of organism	has soma location	189860	fanc1
 adult dorsal metathoracic nerve	fasciculates_with	189860	fanc1	
 peripheral nervous system	overlaps	189860	fanc1	
 adult ventral nerve cord	overlaps	189860	fanc1	
+right side of organism	overlaps	189870	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189870	fanc1	
 peripheral nervous system	overlaps	189870	fanc1	
 adult ventral nerve cord	overlaps	189870	fanc1	
+left side of organism	overlaps	189901	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189901	fanc1	
 peripheral nervous system	overlaps	189901	fanc1	
 adult ventral nerve cord	overlaps	189901	fanc1	
+right side of organism	overlaps	189992	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	189992	fanc1	
 peripheral nervous system	overlaps	189992	fanc1	
 adult ventral nerve cord	overlaps	189992	fanc1	
+right side of organism	overlaps	190003	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190003	fanc1	
 peripheral nervous system	overlaps	190003	fanc1	
 adult ventral nerve cord	overlaps	190003	fanc1	
+right side of organism	overlaps	190027	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190027	fanc1	
 peripheral nervous system	overlaps	190027	fanc1	
 adult ventral nerve cord	overlaps	190027	fanc1	
+right side of organism	overlaps	190062	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190062	fanc1	
 peripheral nervous system	overlaps	190062	fanc1	
 adult ventral nerve cord	overlaps	190062	fanc1	
+right side of organism	overlaps	190086	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190086	fanc1	
 peripheral nervous system	overlaps	190086	fanc1	
 adult ventral nerve cord	overlaps	190086	fanc1	
+right side of organism	overlaps	190105	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190105	fanc1	
 peripheral nervous system	overlaps	190105	fanc1	
 adult ventral nerve cord	overlaps	190105	fanc1	
+right side of organism	overlaps	190142	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190142	fanc1	
 peripheral nervous system	overlaps	190142	fanc1	
 adult ventral nerve cord	overlaps	190142	fanc1	
+right side of organism	overlaps	190182	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190182	fanc1	
 peripheral nervous system	overlaps	190182	fanc1	
 adult ventral nerve cord	overlaps	190182	fanc1	
+right side of organism	overlaps	190210	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190210	fanc1	
 peripheral nervous system	overlaps	190210	fanc1	
 adult ventral nerve cord	overlaps	190210	fanc1	
+right side of organism	overlaps	190435	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	190435	fanc1	
 peripheral nervous system	overlaps	190435	fanc1	
 adult ventral nerve cord	overlaps	190435	fanc1	
@@ -2922,13 +3599,17 @@ right side of organism	has soma location	193446	fanc1
 adult dorsal metathoracic nerve	fasciculates_with	193446	fanc1	
 peripheral nervous system	overlaps	193446	fanc1	
 adult ventral nerve cord	overlaps	193446	fanc1	
+right side of organism	overlaps	193452	fanc1	
 adult dorsal metathoracic nerve	fasciculates_with	193452	fanc1	
 peripheral nervous system	overlaps	193452	fanc1	
 adult ventral nerve cord	overlaps	193452	fanc1	
+right side of organism	overlaps	193608	fanc1	
 peripheral nervous system	overlaps	193608	fanc1	
 adult ventral nerve cord	overlaps	193608	fanc1	
+left side of organism	overlaps	229141	fanc1	
 peripheral nervous system	overlaps	229141	fanc1	
 adult ventral nerve cord	overlaps	229141	fanc1	
+left side of organism	overlaps	229149	fanc1	
 peripheral nervous system	overlaps	229149	fanc1	
 adult ventral nerve cord	overlaps	229149	fanc1	
 left side of organism	has soma location	243833	fanc1	

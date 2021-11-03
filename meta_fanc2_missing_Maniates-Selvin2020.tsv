@@ -1,4 +1,5 @@
 object	relation	subject_external_id	subject_external_db	pub
+left side of organism	overlaps	492351	fanc_JRC2018VF	
 peripheral nervous system	overlaps	492351	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	492351	fanc_JRC2018VF	
 right side of organism	has soma location	492385	fanc_JRC2018VF	
@@ -1528,887 +1529,1313 @@ adult ventral nerve cord	overlaps	503552	fanc_JRC2018VF
 left side of organism	has soma location	503568	fanc_JRC2018VF	
 peripheral nervous system	overlaps	503568	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	503568	fanc_JRC2018VF	
+left side of organism	overlaps	510294	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510294	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510294	fanc_JRC2018VF	
+left side of organism	overlaps	510306	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510306	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510306	fanc_JRC2018VF	
+left side of organism	overlaps	510321	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510321	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510321	fanc_JRC2018VF	
+left side of organism	overlaps	510337	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510337	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510337	fanc_JRC2018VF	
+right side of organism	overlaps	510351	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510351	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510351	fanc_JRC2018VF	
+right side of organism	overlaps	510368	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510368	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510368	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510368	fanc_JRC2018VF	
+left side of organism	overlaps	510380	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510380	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510380	fanc_JRC2018VF	
+left side of organism	overlaps	510392	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510392	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510392	fanc_JRC2018VF	
+left side of organism	overlaps	510430	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510430	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510430	fanc_JRC2018VF	
+left side of organism	overlaps	510442	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510442	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510442	fanc_JRC2018VF	
+left side of organism	overlaps	510455	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510455	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510455	fanc_JRC2018VF	
+left side of organism	overlaps	510469	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510469	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510469	fanc_JRC2018VF	
+left side of organism	overlaps	510482	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510482	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510482	fanc_JRC2018VF	
+left side of organism	overlaps	510493	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510493	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510493	fanc_JRC2018VF	
+right side of organism	overlaps	510508	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510508	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510508	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510508	fanc_JRC2018VF	
+left side of organism	overlaps	510520	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510520	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510520	fanc_JRC2018VF	
+left side of organism	overlaps	510532	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510532	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510532	fanc_JRC2018VF	
+left side of organism	overlaps	510549	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510549	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510549	fanc_JRC2018VF	
+right side of organism	overlaps	510562	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510562	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510562	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510562	fanc_JRC2018VF	
+left side of organism	overlaps	510574	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510574	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510574	fanc_JRC2018VF	
+right side of organism	overlaps	510587	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510587	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510587	fanc_JRC2018VF	
+left side of organism	overlaps	510599	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510599	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510599	fanc_JRC2018VF	
+right side of organism	overlaps	510612	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510612	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510612	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510612	fanc_JRC2018VF	
+left side of organism	overlaps	510624	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510624	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510624	fanc_JRC2018VF	
+right side of organism	overlaps	510637	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510637	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510637	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510637	fanc_JRC2018VF	
+left side of organism	overlaps	510649	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510649	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510649	fanc_JRC2018VF	
+right side of organism	overlaps	510662	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510662	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510662	fanc_JRC2018VF	
+left side of organism	overlaps	510674	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510674	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510674	fanc_JRC2018VF	
+left side of organism	overlaps	510688	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510688	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510688	fanc_JRC2018VF	
+right side of organism	overlaps	510703	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510703	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510703	fanc_JRC2018VF	
+left side of organism	overlaps	510715	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510715	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510715	fanc_JRC2018VF	
+right side of organism	overlaps	510727	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510727	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510727	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510727	fanc_JRC2018VF	
+right side of organism	overlaps	510739	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510739	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510739	fanc_JRC2018VF	
+right side of organism	overlaps	510752	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	510752	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510752	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510752	fanc_JRC2018VF	
+left side of organism	overlaps	510764	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510764	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510764	fanc_JRC2018VF	
+left side of organism	overlaps	510777	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510777	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510777	fanc_JRC2018VF	
+right side of organism	overlaps	510790	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510790	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510790	fanc_JRC2018VF	
+left side of organism	overlaps	510802	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510802	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510802	fanc_JRC2018VF	
+left side of organism	overlaps	510815	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510815	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510815	fanc_JRC2018VF	
+right side of organism	overlaps	510837	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510837	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510837	fanc_JRC2018VF	
+left side of organism	overlaps	510852	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510852	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510852	fanc_JRC2018VF	
+left side of organism	overlaps	510866	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510866	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510866	fanc_JRC2018VF	
+left side of organism	overlaps	510880	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510880	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510880	fanc_JRC2018VF	
+left side of organism	overlaps	510893	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510893	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510893	fanc_JRC2018VF	
+left side of organism	overlaps	510904	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510904	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510904	fanc_JRC2018VF	
+left side of organism	overlaps	510920	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510920	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510920	fanc_JRC2018VF	
+left side of organism	overlaps	510932	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510932	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510932	fanc_JRC2018VF	
+left side of organism	overlaps	510945	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510945	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510945	fanc_JRC2018VF	
+left side of organism	overlaps	510958	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510958	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510958	fanc_JRC2018VF	
+left side of organism	overlaps	510972	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510972	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510972	fanc_JRC2018VF	
+right side of organism	overlaps	510985	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510985	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510985	fanc_JRC2018VF	
+left side of organism	overlaps	511004	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511004	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511004	fanc_JRC2018VF	
+left side of organism	overlaps	511018	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511018	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511018	fanc_JRC2018VF	
+left side of organism	overlaps	511031	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511031	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511031	fanc_JRC2018VF	
+left side of organism	overlaps	511045	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511045	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511045	fanc_JRC2018VF	
+left side of organism	overlaps	511060	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511060	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511060	fanc_JRC2018VF	
+left side of organism	overlaps	511071	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511071	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511071	fanc_JRC2018VF	
+left side of organism	overlaps	511084	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511084	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511084	fanc_JRC2018VF	
+left side of organism	overlaps	511097	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511097	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511097	fanc_JRC2018VF	
+left side of organism	overlaps	511110	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511110	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511110	fanc_JRC2018VF	
+left side of organism	overlaps	511128	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511128	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511128	fanc_JRC2018VF	
+left side of organism	overlaps	511142	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511142	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511142	fanc_JRC2018VF	
+left side of organism	overlaps	511157	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511157	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511157	fanc_JRC2018VF	
+left side of organism	overlaps	511171	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511171	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511171	fanc_JRC2018VF	
+left side of organism	overlaps	511187	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511187	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511187	fanc_JRC2018VF	
+right side of organism	overlaps	511204	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511204	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511204	fanc_JRC2018VF	
+left side of organism	overlaps	511217	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511217	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511217	fanc_JRC2018VF	
+left side of organism	overlaps	511232	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511232	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511232	fanc_JRC2018VF	
+left side of organism	overlaps	511247	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511247	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511247	fanc_JRC2018VF	
+left side of organism	overlaps	511263	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511263	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511263	fanc_JRC2018VF	
+left side of organism	overlaps	511277	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511277	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511277	fanc_JRC2018VF	
+left side of organism	overlaps	511290	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511290	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511290	fanc_JRC2018VF	
+left side of organism	overlaps	511304	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511304	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511304	fanc_JRC2018VF	
+left side of organism	overlaps	511318	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511318	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511318	fanc_JRC2018VF	
+left side of organism	overlaps	511332	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511332	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511332	fanc_JRC2018VF	
+left side of organism	overlaps	511347	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511347	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511347	fanc_JRC2018VF	
+left side of organism	overlaps	511361	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511361	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511361	fanc_JRC2018VF	
+right side of organism	overlaps	511377	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511377	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511377	fanc_JRC2018VF	
+left side of organism	overlaps	511390	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511390	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511390	fanc_JRC2018VF	
+left side of organism	overlaps	511405	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511405	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511405	fanc_JRC2018VF	
+left side of organism	overlaps	511419	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511419	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511419	fanc_JRC2018VF	
+left side of organism	overlaps	511434	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511434	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511434	fanc_JRC2018VF	
+left side of organism	overlaps	511448	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511448	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511448	fanc_JRC2018VF	
+left side of organism	overlaps	511461	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511461	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511461	fanc_JRC2018VF	
+left side of organism	overlaps	511475	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511475	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511475	fanc_JRC2018VF	
+left side of organism	overlaps	511489	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511489	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511489	fanc_JRC2018VF	
+left side of organism	overlaps	511504	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511504	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511504	fanc_JRC2018VF	
+left side of organism	overlaps	511518	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511518	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511518	fanc_JRC2018VF	
+left side of organism	overlaps	511532	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511532	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511532	fanc_JRC2018VF	
+left side of organism	overlaps	511546	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511546	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511546	fanc_JRC2018VF	
+left side of organism	overlaps	511560	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511560	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511560	fanc_JRC2018VF	
+left side of organism	overlaps	511576	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511576	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511576	fanc_JRC2018VF	
+left side of organism	overlaps	511590	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511590	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511590	fanc_JRC2018VF	
+left side of organism	overlaps	511603	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511603	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511603	fanc_JRC2018VF	
+left side of organism	overlaps	511614	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511614	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511614	fanc_JRC2018VF	
+left side of organism	overlaps	511630	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511630	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511630	fanc_JRC2018VF	
+left side of organism	overlaps	511643	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511643	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511643	fanc_JRC2018VF	
+left side of organism	overlaps	511656	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511656	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511656	fanc_JRC2018VF	
+left side of organism	overlaps	511669	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511669	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511669	fanc_JRC2018VF	
+left side of organism	overlaps	511684	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511684	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511684	fanc_JRC2018VF	
 right side of organism	has soma location	511695	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511695	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511695	fanc_JRC2018VF	
+left side of organism	overlaps	511719	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511719	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511719	fanc_JRC2018VF	
+right side of organism	overlaps	511733	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511733	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511733	fanc_JRC2018VF	
+left side of organism	overlaps	511746	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511746	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511746	fanc_JRC2018VF	
+left side of organism	overlaps	511759	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511759	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511759	fanc_JRC2018VF	
+right side of organism	overlaps	511772	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511772	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511772	fanc_JRC2018VF	
+left side of organism	overlaps	511785	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511785	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511785	fanc_JRC2018VF	
+left side of organism	overlaps	511799	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511799	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511799	fanc_JRC2018VF	
+left side of organism	overlaps	511812	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511812	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511812	fanc_JRC2018VF	
+left side of organism	overlaps	511825	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511825	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511825	fanc_JRC2018VF	
+left side of organism	overlaps	511836	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511836	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511836	fanc_JRC2018VF	
+left side of organism	overlaps	511851	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511851	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511851	fanc_JRC2018VF	
+left side of organism	overlaps	511864	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511864	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511864	fanc_JRC2018VF	
+left side of organism	overlaps	511878	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511878	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511878	fanc_JRC2018VF	
+left side of organism	overlaps	511891	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511891	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511891	fanc_JRC2018VF	
+left side of organism	overlaps	511907	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511907	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511907	fanc_JRC2018VF	
+left side of organism	overlaps	511920	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511920	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511920	fanc_JRC2018VF	
+left side of organism	overlaps	511935	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511935	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511935	fanc_JRC2018VF	
+left side of organism	overlaps	511949	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511949	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511949	fanc_JRC2018VF	
+left side of organism	overlaps	511964	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511964	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511964	fanc_JRC2018VF	
+left side of organism	overlaps	511975	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511975	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511975	fanc_JRC2018VF	
+left side of organism	overlaps	511990	fanc_JRC2018VF	
 peripheral nervous system	overlaps	511990	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	511990	fanc_JRC2018VF	
+left side of organism	overlaps	512001	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512001	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512001	fanc_JRC2018VF	
+left side of organism	overlaps	512015	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512015	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512015	fanc_JRC2018VF	
+left side of organism	overlaps	512029	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512029	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512029	fanc_JRC2018VF	
+left side of organism	overlaps	512040	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512040	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512040	fanc_JRC2018VF	
+left side of organism	overlaps	512054	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512054	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512054	fanc_JRC2018VF	
+left side of organism	overlaps	512068	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512068	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512068	fanc_JRC2018VF	
+left side of organism	overlaps	512092	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512092	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512092	fanc_JRC2018VF	
+left side of organism	overlaps	512106	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512106	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512106	fanc_JRC2018VF	
+left side of organism	overlaps	512119	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512119	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512119	fanc_JRC2018VF	
+left side of organism	overlaps	512137	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512137	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512137	fanc_JRC2018VF	
+left side of organism	overlaps	512151	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512151	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512151	fanc_JRC2018VF	
+left side of organism	overlaps	512166	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512166	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512166	fanc_JRC2018VF	
+left side of organism	overlaps	512179	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512179	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512179	fanc_JRC2018VF	
+left side of organism	overlaps	512192	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512192	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512192	fanc_JRC2018VF	
+left side of organism	overlaps	512207	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512207	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512207	fanc_JRC2018VF	
+left side of organism	overlaps	512221	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512221	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512221	fanc_JRC2018VF	
+left side of organism	overlaps	512235	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512235	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512235	fanc_JRC2018VF	
+left side of organism	overlaps	512249	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512249	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512249	fanc_JRC2018VF	
+left side of organism	overlaps	512263	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512263	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512263	fanc_JRC2018VF	
+left side of organism	overlaps	512277	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512277	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512277	fanc_JRC2018VF	
+left side of organism	overlaps	512290	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512290	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512290	fanc_JRC2018VF	
+left side of organism	overlaps	512303	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512303	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512303	fanc_JRC2018VF	
+left side of organism	overlaps	512318	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512318	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512318	fanc_JRC2018VF	
+left side of organism	overlaps	512331	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512331	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512331	fanc_JRC2018VF	
+right side of organism	overlaps	512345	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512345	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512345	fanc_JRC2018VF	
+left side of organism	overlaps	512356	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512356	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512356	fanc_JRC2018VF	
+left side of organism	overlaps	512367	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512367	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512367	fanc_JRC2018VF	
+left side of organism	overlaps	512380	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512380	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512380	fanc_JRC2018VF	
+left side of organism	overlaps	512393	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512393	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512393	fanc_JRC2018VF	
+left side of organism	overlaps	512406	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512406	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512406	fanc_JRC2018VF	
+left side of organism	overlaps	512419	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512419	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512419	fanc_JRC2018VF	
+left side of organism	overlaps	512433	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512433	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512433	fanc_JRC2018VF	
+left side of organism	overlaps	512447	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512447	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512447	fanc_JRC2018VF	
+left side of organism	overlaps	512463	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512463	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512463	fanc_JRC2018VF	
+left side of organism	overlaps	512476	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512476	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512476	fanc_JRC2018VF	
+left side of organism	overlaps	512490	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512490	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512490	fanc_JRC2018VF	
+left side of organism	overlaps	512505	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512505	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512505	fanc_JRC2018VF	
+left side of organism	overlaps	512518	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512518	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512518	fanc_JRC2018VF	
+left side of organism	overlaps	512531	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512531	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512531	fanc_JRC2018VF	
+left side of organism	overlaps	512545	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512545	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512545	fanc_JRC2018VF	
+left side of organism	overlaps	512559	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512559	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512559	fanc_JRC2018VF	
+left side of organism	overlaps	512572	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512572	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512572	fanc_JRC2018VF	
+left side of organism	overlaps	512588	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512588	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512588	fanc_JRC2018VF	
+left side of organism	overlaps	512603	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512603	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512603	fanc_JRC2018VF	
+left side of organism	overlaps	512617	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512617	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512617	fanc_JRC2018VF	
+left side of organism	overlaps	512632	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512632	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512632	fanc_JRC2018VF	
+left side of organism	overlaps	512645	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512645	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512645	fanc_JRC2018VF	
+left side of organism	overlaps	512658	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512658	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512658	fanc_JRC2018VF	
+left side of organism	overlaps	512672	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512672	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512672	fanc_JRC2018VF	
+left side of organism	overlaps	512686	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512686	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512686	fanc_JRC2018VF	
+left side of organism	overlaps	512700	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512700	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512700	fanc_JRC2018VF	
+left side of organism	overlaps	512713	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512713	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512713	fanc_JRC2018VF	
+left side of organism	overlaps	512727	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512727	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512727	fanc_JRC2018VF	
+left side of organism	overlaps	512741	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512741	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512741	fanc_JRC2018VF	
+left side of organism	overlaps	512754	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512754	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512754	fanc_JRC2018VF	
+left side of organism	overlaps	512767	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512767	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512767	fanc_JRC2018VF	
+left side of organism	overlaps	512781	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512781	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512781	fanc_JRC2018VF	
+left side of organism	overlaps	512795	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512795	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512795	fanc_JRC2018VF	
+left side of organism	overlaps	512810	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512810	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512810	fanc_JRC2018VF	
+left side of organism	overlaps	512823	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512823	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512823	fanc_JRC2018VF	
+left side of organism	overlaps	512837	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512837	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512837	fanc_JRC2018VF	
+left side of organism	overlaps	512853	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512853	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512853	fanc_JRC2018VF	
+left side of organism	overlaps	512867	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512867	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512867	fanc_JRC2018VF	
+left side of organism	overlaps	512881	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512881	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512881	fanc_JRC2018VF	
 left side of organism	has soma location	512894	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512894	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512894	fanc_JRC2018VF	
+left side of organism	overlaps	512909	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512909	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512909	fanc_JRC2018VF	
+right side of organism	overlaps	512920	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512920	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512920	fanc_JRC2018VF	
+left side of organism	overlaps	512931	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512931	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512931	fanc_JRC2018VF	
+left side of organism	overlaps	512944	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512944	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512944	fanc_JRC2018VF	
+left side of organism	overlaps	512955	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512955	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512955	fanc_JRC2018VF	
+left side of organism	overlaps	512968	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512968	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512968	fanc_JRC2018VF	
+left side of organism	overlaps	512979	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512979	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512979	fanc_JRC2018VF	
+left side of organism	overlaps	512991	fanc_JRC2018VF	
 peripheral nervous system	overlaps	512991	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	512991	fanc_JRC2018VF	
+right side of organism	overlaps	513006	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513006	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513006	fanc_JRC2018VF	
+right side of organism	overlaps	513018	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513018	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513018	fanc_JRC2018VF	
+left side of organism	overlaps	513030	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513030	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513030	fanc_JRC2018VF	
+right side of organism	overlaps	513043	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513043	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513043	fanc_JRC2018VF	
+left side of organism	overlaps	513055	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513055	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513055	fanc_JRC2018VF	
+right side of organism	overlaps	513068	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513068	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513068	fanc_JRC2018VF	
+left side of organism	overlaps	513080	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513080	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513080	fanc_JRC2018VF	
+right side of organism	overlaps	513094	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513094	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513094	fanc_JRC2018VF	
+right side of organism	overlaps	513106	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513106	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513106	fanc_JRC2018VF	
+left side of organism	overlaps	513118	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513118	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513118	fanc_JRC2018VF	
+right side of organism	overlaps	513130	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513130	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513130	fanc_JRC2018VF	
+right side of organism	overlaps	513142	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513142	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513142	fanc_JRC2018VF	
+right side of organism	overlaps	513153	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513153	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513153	fanc_JRC2018VF	
+left side of organism	overlaps	513165	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513165	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513165	fanc_JRC2018VF	
+left side of organism	overlaps	513177	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513177	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513177	fanc_JRC2018VF	
+right side of organism	overlaps	513190	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513190	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513190	fanc_JRC2018VF	
+right side of organism	overlaps	513204	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513204	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513204	fanc_JRC2018VF	
+right side of organism	overlaps	513216	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513216	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513216	fanc_JRC2018VF	
+left side of organism	overlaps	513228	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513228	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513228	fanc_JRC2018VF	
+left side of organism	overlaps	513241	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513241	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513241	fanc_JRC2018VF	
+left side of organism	overlaps	513255	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513255	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513255	fanc_JRC2018VF	
+right side of organism	overlaps	513268	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513268	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513268	fanc_JRC2018VF	
+right side of organism	overlaps	513280	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513280	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513280	fanc_JRC2018VF	
+right side of organism	overlaps	513292	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513292	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513292	fanc_JRC2018VF	
+left side of organism	overlaps	513304	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513304	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513304	fanc_JRC2018VF	
+left side of organism	overlaps	513317	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513317	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513317	fanc_JRC2018VF	
+right side of organism	overlaps	513330	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513330	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513330	fanc_JRC2018VF	
+right side of organism	overlaps	513348	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513348	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513348	fanc_JRC2018VF	
+right side of organism	overlaps	513403	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513403	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513403	fanc_JRC2018VF	
+right side of organism	overlaps	513415	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513415	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513415	fanc_JRC2018VF	
+right side of organism	overlaps	513427	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513427	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513427	fanc_JRC2018VF	
+right side of organism	overlaps	513439	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513439	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513439	fanc_JRC2018VF	
+left side of organism	overlaps	513451	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513451	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513451	fanc_JRC2018VF	
+right side of organism	overlaps	513465	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513465	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513465	fanc_JRC2018VF	
+right side of organism	overlaps	513477	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513477	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513477	fanc_JRC2018VF	
+left side of organism	overlaps	513489	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513489	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513489	fanc_JRC2018VF	
+left side of organism	overlaps	513502	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513502	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513502	fanc_JRC2018VF	
+left side of organism	overlaps	513517	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513517	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513517	fanc_JRC2018VF	
+right side of organism	overlaps	513529	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513529	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513529	fanc_JRC2018VF	
+right side of organism	overlaps	513542	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513542	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513542	fanc_JRC2018VF	
+left side of organism	overlaps	513554	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513554	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513554	fanc_JRC2018VF	
+right side of organism	overlaps	513567	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513567	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513567	fanc_JRC2018VF	
+left side of organism	overlaps	513580	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513580	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513580	fanc_JRC2018VF	
+left side of organism	overlaps	513594	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513594	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513594	fanc_JRC2018VF	
+left side of organism	overlaps	513606	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513606	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513606	fanc_JRC2018VF	
+left side of organism	overlaps	513620	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513620	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513620	fanc_JRC2018VF	
+left side of organism	overlaps	513633	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513633	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513633	fanc_JRC2018VF	
+left side of organism	overlaps	513647	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513647	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513647	fanc_JRC2018VF	
+left side of organism	overlaps	513661	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513661	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513661	fanc_JRC2018VF	
+left side of organism	overlaps	513675	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513675	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513675	fanc_JRC2018VF	
+left side of organism	overlaps	513690	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513690	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513690	fanc_JRC2018VF	
+right side of organism	overlaps	513703	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513703	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513703	fanc_JRC2018VF	
+left side of organism	overlaps	513715	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513715	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513715	fanc_JRC2018VF	
+left side of organism	overlaps	513727	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513727	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513727	fanc_JRC2018VF	
+left side of organism	overlaps	513741	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513741	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513741	fanc_JRC2018VF	
+right side of organism	overlaps	513754	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513754	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513754	fanc_JRC2018VF	
+right side of organism	overlaps	513765	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513765	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513765	fanc_JRC2018VF	
+left side of organism	overlaps	513777	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513777	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513777	fanc_JRC2018VF	
+left side of organism	overlaps	513791	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513791	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513791	fanc_JRC2018VF	
+left side of organism	overlaps	513802	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513802	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513802	fanc_JRC2018VF	
+left side of organism	overlaps	513815	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513815	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513815	fanc_JRC2018VF	
+right side of organism	overlaps	513828	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513828	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513828	fanc_JRC2018VF	
+right side of organism	overlaps	513840	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513840	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513840	fanc_JRC2018VF	
+left side of organism	overlaps	513852	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513852	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513852	fanc_JRC2018VF	
+right side of organism	overlaps	513865	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513865	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513865	fanc_JRC2018VF	
+right side of organism	overlaps	513878	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513878	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513878	fanc_JRC2018VF	
+right side of organism	overlaps	513895	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513895	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513895	fanc_JRC2018VF	
+left side of organism	overlaps	513908	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513908	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513908	fanc_JRC2018VF	
+left side of organism	overlaps	513919	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513919	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513919	fanc_JRC2018VF	
+left side of organism	overlaps	513933	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513933	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513933	fanc_JRC2018VF	
+right side of organism	overlaps	513945	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513945	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513945	fanc_JRC2018VF	
+left side of organism	overlaps	513957	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513957	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513957	fanc_JRC2018VF	
+right side of organism	overlaps	513971	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513971	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513971	fanc_JRC2018VF	
+right side of organism	overlaps	513984	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513984	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513984	fanc_JRC2018VF	
+left side of organism	overlaps	513996	fanc_JRC2018VF	
 peripheral nervous system	overlaps	513996	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	513996	fanc_JRC2018VF	
+left side of organism	overlaps	514009	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514009	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514009	fanc_JRC2018VF	
+right side of organism	overlaps	514023	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514023	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514023	fanc_JRC2018VF	
+left side of organism	overlaps	514035	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514035	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514035	fanc_JRC2018VF	
+left side of organism	overlaps	514049	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514049	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514049	fanc_JRC2018VF	
+right side of organism	overlaps	514063	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514063	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514063	fanc_JRC2018VF	
+right side of organism	overlaps	514076	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	514076	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514076	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514076	fanc_JRC2018VF	
+right side of organism	overlaps	514088	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514088	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514088	fanc_JRC2018VF	
+left side of organism	overlaps	514100	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514100	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514100	fanc_JRC2018VF	
+left side of organism	overlaps	514113	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514113	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514113	fanc_JRC2018VF	
+left side of organism	overlaps	514127	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514127	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514127	fanc_JRC2018VF	
+left side of organism	overlaps	514138	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514138	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514138	fanc_JRC2018VF	
+right side of organism	overlaps	514152	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514152	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514152	fanc_JRC2018VF	
+left side of organism	overlaps	514164	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514164	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514164	fanc_JRC2018VF	
+right side of organism	overlaps	514177	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514177	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514177	fanc_JRC2018VF	
+left side of organism	overlaps	514190	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514190	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514190	fanc_JRC2018VF	
+left side of organism	overlaps	514203	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	514203	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514203	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514203	fanc_JRC2018VF	
+left side of organism	overlaps	514215	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514215	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514215	fanc_JRC2018VF	
+right side of organism	overlaps	514229	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514229	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514229	fanc_JRC2018VF	
+left side of organism	overlaps	514242	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514242	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514242	fanc_JRC2018VF	
+left side of organism	overlaps	514258	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514258	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514258	fanc_JRC2018VF	
+right side of organism	overlaps	514272	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514272	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514272	fanc_JRC2018VF	
+left side of organism	overlaps	514285	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	514285	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514285	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514285	fanc_JRC2018VF	
+left side of organism	overlaps	514297	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514297	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514297	fanc_JRC2018VF	
+left side of organism	overlaps	514311	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514311	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514311	fanc_JRC2018VF	
+left side of organism	overlaps	514327	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514327	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514327	fanc_JRC2018VF	
+left side of organism	overlaps	514343	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514343	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514343	fanc_JRC2018VF	
+right side of organism	overlaps	514357	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514357	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514357	fanc_JRC2018VF	
+right side of organism	overlaps	514370	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514370	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514370	fanc_JRC2018VF	
+right side of organism	overlaps	514384	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514384	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514384	fanc_JRC2018VF	
+left side of organism	overlaps	514396	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514396	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514396	fanc_JRC2018VF	
+right side of organism	overlaps	514410	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514410	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514410	fanc_JRC2018VF	
+left side of organism	overlaps	514422	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514422	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514422	fanc_JRC2018VF	
+right side of organism	overlaps	514435	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514435	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514435	fanc_JRC2018VF	
+left side of organism	overlaps	514447	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514447	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514447	fanc_JRC2018VF	
+left side of organism	overlaps	514461	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514461	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514461	fanc_JRC2018VF	
+right side of organism	overlaps	514474	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514474	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514474	fanc_JRC2018VF	
+right side of organism	overlaps	514486	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514486	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514486	fanc_JRC2018VF	
+left side of organism	overlaps	514499	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514499	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514499	fanc_JRC2018VF	
+left side of organism	overlaps	514513	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514513	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514513	fanc_JRC2018VF	
+left side of organism	overlaps	514527	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514527	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514527	fanc_JRC2018VF	
+right side of organism	overlaps	514540	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514540	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514540	fanc_JRC2018VF	
+right side of organism	overlaps	514555	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514555	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514555	fanc_JRC2018VF	
+left side of organism	overlaps	514567	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514567	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514567	fanc_JRC2018VF	
+left side of organism	overlaps	514581	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514581	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514581	fanc_JRC2018VF	
+left side of organism	overlaps	514593	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514593	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514593	fanc_JRC2018VF	
+right side of organism	overlaps	514606	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514606	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514606	fanc_JRC2018VF	
+left side of organism	overlaps	514618	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	514618	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514618	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514618	fanc_JRC2018VF	
+right side of organism	overlaps	514630	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514630	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514630	fanc_JRC2018VF	
+left side of organism	overlaps	514644	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	514644	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514644	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514644	fanc_JRC2018VF	
+left side of organism	overlaps	514656	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514656	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514656	fanc_JRC2018VF	
+right side of organism	overlaps	514668	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514668	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514668	fanc_JRC2018VF	
+right side of organism	overlaps	514680	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514680	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514680	fanc_JRC2018VF	
+left side of organism	overlaps	514692	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514692	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514692	fanc_JRC2018VF	
+left side of organism	overlaps	514705	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514705	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514705	fanc_JRC2018VF	
+right side of organism	overlaps	514719	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514719	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514719	fanc_JRC2018VF	
+right side of organism	overlaps	514731	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514731	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514731	fanc_JRC2018VF	
+right side of organism	overlaps	514744	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514744	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514744	fanc_JRC2018VF	
+left side of organism	overlaps	514757	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514757	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514757	fanc_JRC2018VF	
+right side of organism	overlaps	514771	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514771	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514771	fanc_JRC2018VF	
+left side of organism	overlaps	514783	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514783	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514783	fanc_JRC2018VF	
+left side of organism	overlaps	514796	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514796	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514796	fanc_JRC2018VF	
+left side of organism	overlaps	514808	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	514808	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514808	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514808	fanc_JRC2018VF	
+right side of organism	overlaps	514820	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514820	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514820	fanc_JRC2018VF	
+left side of organism	overlaps	514832	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514832	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514832	fanc_JRC2018VF	
+right side of organism	overlaps	514843	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514843	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514843	fanc_JRC2018VF	
+left side of organism	overlaps	514855	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514855	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514855	fanc_JRC2018VF	
+left side of organism	overlaps	514866	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514866	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514866	fanc_JRC2018VF	
+right side of organism	overlaps	514878	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514878	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514878	fanc_JRC2018VF	
+left side of organism	overlaps	514890	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514890	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514890	fanc_JRC2018VF	
+left side of organism	overlaps	514904	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514904	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514904	fanc_JRC2018VF	
+right side of organism	overlaps	514916	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514916	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514916	fanc_JRC2018VF	
+left side of organism	overlaps	514928	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514928	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514928	fanc_JRC2018VF	
+right side of organism	overlaps	514941	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514941	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514941	fanc_JRC2018VF	
+left side of organism	overlaps	514952	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514952	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514952	fanc_JRC2018VF	
+left side of organism	overlaps	514979	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514979	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514979	fanc_JRC2018VF	
+right side of organism	overlaps	514993	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514993	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514993	fanc_JRC2018VF	
+left side of organism	overlaps	515006	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515006	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515006	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515006	fanc_JRC2018VF	
+left side of organism	overlaps	515018	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515018	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515018	fanc_JRC2018VF	
+left side of organism	overlaps	515032	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515032	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515032	fanc_JRC2018VF	
+left side of organism	overlaps	515046	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515046	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515046	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515046	fanc_JRC2018VF	
+right side of organism	overlaps	515057	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515057	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515057	fanc_JRC2018VF	
+left side of organism	overlaps	515069	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515069	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515069	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515069	fanc_JRC2018VF	
+left side of organism	overlaps	515081	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515081	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515081	fanc_JRC2018VF	
+left side of organism	overlaps	515093	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515093	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515093	fanc_JRC2018VF	
+left side of organism	overlaps	515106	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515106	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515106	fanc_JRC2018VF	
 right side of organism	has soma location	515119	fanc_JRC2018VF	
 adult prothoracic multinerve neuron	fasciculates_with	515119	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515119	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515119	fanc_JRC2018VF	
+right side of organism	overlaps	515139	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515139	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515139	fanc_JRC2018VF	
+right side of organism	overlaps	515153	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515153	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515153	fanc_JRC2018VF	
+right side of organism	overlaps	515167	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515167	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515167	fanc_JRC2018VF	
+left side of organism	overlaps	515181	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515181	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515181	fanc_JRC2018VF	
+left side of organism	overlaps	515195	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515195	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515195	fanc_JRC2018VF	
+left side of organism	overlaps	515208	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515208	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515208	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515208	fanc_JRC2018VF	
+right side of organism	overlaps	515219	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515219	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515219	fanc_JRC2018VF	
+right side of organism	overlaps	515231	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515231	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515231	fanc_JRC2018VF	
+left side of organism	overlaps	515243	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515243	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515243	fanc_JRC2018VF	
+right side of organism	overlaps	515256	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515256	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515256	fanc_JRC2018VF	
+right side of organism	overlaps	515268	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515268	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515268	fanc_JRC2018VF	
+right side of organism	overlaps	515279	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515279	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515279	fanc_JRC2018VF	
+left side of organism	overlaps	515292	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515292	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515292	fanc_JRC2018VF	
+right side of organism	overlaps	515306	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515306	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515306	fanc_JRC2018VF	
+right side of organism	overlaps	515317	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515317	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515317	fanc_JRC2018VF	
+right side of organism	overlaps	515329	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515329	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515329	fanc_JRC2018VF	
+left side of organism	overlaps	515340	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515340	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515340	fanc_JRC2018VF	
+left side of organism	overlaps	515354	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515354	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515354	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515354	fanc_JRC2018VF	
+left side of organism	overlaps	515366	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515366	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515366	fanc_JRC2018VF	
+left side of organism	overlaps	515380	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515380	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515380	fanc_JRC2018VF	
+left side of organism	overlaps	515392	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515392	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515392	fanc_JRC2018VF	
+left side of organism	overlaps	515406	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515406	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515406	fanc_JRC2018VF	
+right side of organism	overlaps	515431	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515431	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515431	fanc_JRC2018VF	
+left side of organism	overlaps	515445	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515445	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515445	fanc_JRC2018VF	
+left side of organism	overlaps	515458	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515458	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515458	fanc_JRC2018VF	
+right side of organism	overlaps	515472	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515472	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515472	fanc_JRC2018VF	
+left side of organism	overlaps	515485	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515485	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515485	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515485	fanc_JRC2018VF	
+left side of organism	overlaps	515497	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515497	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515497	fanc_JRC2018VF	
+left side of organism	overlaps	515511	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515511	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515511	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515511	fanc_JRC2018VF	
+left side of organism	overlaps	515523	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515523	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515523	fanc_JRC2018VF	
+left side of organism	overlaps	515539	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515539	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515539	fanc_JRC2018VF	
+left side of organism	overlaps	515552	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515552	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515552	fanc_JRC2018VF	
+left side of organism	overlaps	515564	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515564	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515564	fanc_JRC2018VF	
+right side of organism	overlaps	515577	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515577	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515577	fanc_JRC2018VF	
+left side of organism	overlaps	515592	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	515592	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515592	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515592	fanc_JRC2018VF	
+left side of organism	overlaps	515604	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515604	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515604	fanc_JRC2018VF	
+left side of organism	overlaps	515617	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515617	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515617	fanc_JRC2018VF	
+right side of organism	overlaps	515631	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515631	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515631	fanc_JRC2018VF	
+right side of organism	overlaps	515643	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515643	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515643	fanc_JRC2018VF	
+left side of organism	overlaps	515656	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515656	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515656	fanc_JRC2018VF	
+right side of organism	overlaps	515669	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515669	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515669	fanc_JRC2018VF	
+right side of organism	overlaps	515682	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515682	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515682	fanc_JRC2018VF	
+left side of organism	overlaps	515694	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515694	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515694	fanc_JRC2018VF	
+right side of organism	overlaps	515706	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515706	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515706	fanc_JRC2018VF	
+left side of organism	overlaps	515718	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515718	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515718	fanc_JRC2018VF	
+right side of organism	overlaps	515732	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515732	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515732	fanc_JRC2018VF	
+left side of organism	overlaps	515744	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515744	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515744	fanc_JRC2018VF	
+right side of organism	overlaps	515755	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515755	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515755	fanc_JRC2018VF	
+left side of organism	overlaps	515769	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515769	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515769	fanc_JRC2018VF	
+left side of organism	overlaps	515783	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515783	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515783	fanc_JRC2018VF	
+left side of organism	overlaps	515796	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515796	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515796	fanc_JRC2018VF	
+left side of organism	overlaps	515807	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515807	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515807	fanc_JRC2018VF	
+left side of organism	overlaps	515820	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515820	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515820	fanc_JRC2018VF	
+right side of organism	overlaps	515833	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515833	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515833	fanc_JRC2018VF	
+left side of organism	overlaps	515846	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515846	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515846	fanc_JRC2018VF	
+left side of organism	overlaps	515860	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515860	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515860	fanc_JRC2018VF	
+right side of organism	overlaps	515874	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515874	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515874	fanc_JRC2018VF	
+right side of organism	overlaps	515885	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515885	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515885	fanc_JRC2018VF	
+left side of organism	overlaps	515897	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515897	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515897	fanc_JRC2018VF	
+left side of organism	overlaps	515910	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515910	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515910	fanc_JRC2018VF	
+right side of organism	overlaps	515925	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515925	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515925	fanc_JRC2018VF	
+left side of organism	overlaps	515937	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515937	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515937	fanc_JRC2018VF	
+left side of organism	overlaps	515950	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515950	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515950	fanc_JRC2018VF	
+left side of organism	overlaps	515965	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515965	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515965	fanc_JRC2018VF	
+left side of organism	overlaps	515980	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515980	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515980	fanc_JRC2018VF	
+left side of organism	overlaps	515991	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515991	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515991	fanc_JRC2018VF	
+right side of organism	overlaps	516004	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516004	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516004	fanc_JRC2018VF	
+left side of organism	overlaps	516017	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516017	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516017	fanc_JRC2018VF	
+left side of organism	overlaps	516032	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516032	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516032	fanc_JRC2018VF	
+left side of organism	overlaps	516045	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516045	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516045	fanc_JRC2018VF	
+right side of organism	overlaps	516059	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516059	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516059	fanc_JRC2018VF	
+left side of organism	overlaps	516071	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516071	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516071	fanc_JRC2018VF	
+right side of organism	overlaps	516086	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	516086	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516086	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516086	fanc_JRC2018VF	
@@ -2416,97 +2843,143 @@ right side of organism	has soma location	516098	fanc_JRC2018VF
 adult prothoracic multinerve neuron	fasciculates_with	516098	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516098	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516098	fanc_JRC2018VF	
+left side of organism	overlaps	516116	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516116	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516116	fanc_JRC2018VF	
+left side of organism	overlaps	516130	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516130	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516130	fanc_JRC2018VF	
+left side of organism	overlaps	516145	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516145	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516145	fanc_JRC2018VF	
+left side of organism	overlaps	516156	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516156	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516156	fanc_JRC2018VF	
+left side of organism	overlaps	516171	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516171	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516171	fanc_JRC2018VF	
+right side of organism	overlaps	516184	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516184	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516184	fanc_JRC2018VF	
+left side of organism	overlaps	516200	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516200	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516200	fanc_JRC2018VF	
+left side of organism	overlaps	516215	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516215	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516215	fanc_JRC2018VF	
+left side of organism	overlaps	516229	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516229	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516229	fanc_JRC2018VF	
+left side of organism	overlaps	516242	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516242	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516242	fanc_JRC2018VF	
+right side of organism	overlaps	516255	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516255	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516255	fanc_JRC2018VF	
+right side of organism	overlaps	516267	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516267	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516267	fanc_JRC2018VF	
+left side of organism	overlaps	516279	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516279	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516279	fanc_JRC2018VF	
+left side of organism	overlaps	516294	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	516294	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516294	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516294	fanc_JRC2018VF	
+left side of organism	overlaps	516306	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516306	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516306	fanc_JRC2018VF	
+left side of organism	overlaps	516321	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516321	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516321	fanc_JRC2018VF	
+right side of organism	overlaps	516334	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516334	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516334	fanc_JRC2018VF	
+left side of organism	overlaps	516345	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516345	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516345	fanc_JRC2018VF	
+right side of organism	overlaps	516359	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516359	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516359	fanc_JRC2018VF	
+left side of organism	overlaps	516370	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516370	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516370	fanc_JRC2018VF	
+right side of organism	overlaps	516386	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516386	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516386	fanc_JRC2018VF	
+left side of organism	overlaps	516397	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516397	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516397	fanc_JRC2018VF	
+left side of organism	overlaps	516409	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516409	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516409	fanc_JRC2018VF	
+left side of organism	overlaps	516422	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516422	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516422	fanc_JRC2018VF	
+left side of organism	overlaps	516438	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516438	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516438	fanc_JRC2018VF	
+left side of organism	overlaps	516452	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516452	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516452	fanc_JRC2018VF	
+right side of organism	overlaps	516465	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516465	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516465	fanc_JRC2018VF	
+left side of organism	overlaps	516477	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516477	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516477	fanc_JRC2018VF	
+right side of organism	overlaps	516492	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516492	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516492	fanc_JRC2018VF	
+right side of organism	overlaps	516504	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516504	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516504	fanc_JRC2018VF	
+left side of organism	overlaps	516515	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516515	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516515	fanc_JRC2018VF	
+right side of organism	overlaps	516528	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516528	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516528	fanc_JRC2018VF	
+left side of organism	overlaps	516539	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516539	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516539	fanc_JRC2018VF	
+left side of organism	overlaps	516554	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516554	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516554	fanc_JRC2018VF	
+left side of organism	overlaps	516566	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516566	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516566	fanc_JRC2018VF	
+right side of organism	overlaps	516581	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516581	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516581	fanc_JRC2018VF	
+left side of organism	overlaps	516593	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516593	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516593	fanc_JRC2018VF	
+right side of organism	overlaps	516606	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516606	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516606	fanc_JRC2018VF	
+left side of organism	overlaps	516617	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516617	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516617	fanc_JRC2018VF	
+right side of organism	overlaps	516632	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516632	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516632	fanc_JRC2018VF	
+right side of organism	overlaps	516643	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516643	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516643	fanc_JRC2018VF	
+left side of organism	overlaps	516654	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516654	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516654	fanc_JRC2018VF	
+right side of organism	overlaps	516667	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516667	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516667	fanc_JRC2018VF	
+left side of organism	overlaps	516679	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516679	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516679	fanc_JRC2018VF	
+left side of organism	overlaps	516694	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516694	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516694	fanc_JRC2018VF	
+right side of organism	overlaps	516709	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	516709	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516709	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516709	fanc_JRC2018VF	
@@ -2514,65 +2987,94 @@ left side of organism	has soma location	516721	fanc_JRC2018VF
 adult prothoracic multinerve neuron	fasciculates_with	516721	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516721	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516721	fanc_JRC2018VF	
+left side of organism	overlaps	516914	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516914	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516914	fanc_JRC2018VF	
+left side of organism	overlaps	516928	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516928	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516928	fanc_JRC2018VF	
+left side of organism	overlaps	516941	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516941	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516941	fanc_JRC2018VF	
+left side of organism	overlaps	516952	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516952	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516952	fanc_JRC2018VF	
+right side of organism	overlaps	516965	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516965	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516965	fanc_JRC2018VF	
+right side of organism	overlaps	516977	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	516977	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516977	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516977	fanc_JRC2018VF	
+left side of organism	overlaps	516989	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516989	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516989	fanc_JRC2018VF	
+left side of organism	overlaps	517003	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517003	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517003	fanc_JRC2018VF	
+left side of organism	overlaps	517017	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517017	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517017	fanc_JRC2018VF	
+left side of organism	overlaps	517031	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517031	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517031	fanc_JRC2018VF	
+left side of organism	overlaps	517044	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517044	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517044	fanc_JRC2018VF	
+right side of organism	overlaps	517056	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	517056	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517056	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517056	fanc_JRC2018VF	
+left side of organism	overlaps	517068	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517068	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517068	fanc_JRC2018VF	
+left side of organism	overlaps	517079	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517079	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517079	fanc_JRC2018VF	
+left side of organism	overlaps	517093	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517093	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517093	fanc_JRC2018VF	
+left side of organism	overlaps	517104	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517104	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517104	fanc_JRC2018VF	
+left side of organism	overlaps	517119	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517119	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517119	fanc_JRC2018VF	
+left side of organism	overlaps	517133	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517133	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517133	fanc_JRC2018VF	
+left side of organism	overlaps	517147	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517147	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517147	fanc_JRC2018VF	
+right side of organism	overlaps	517161	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517161	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517161	fanc_JRC2018VF	
+left side of organism	overlaps	517172	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517172	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517172	fanc_JRC2018VF	
+right side of organism	overlaps	517187	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	517187	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517187	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517187	fanc_JRC2018VF	
+left side of organism	overlaps	517199	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517199	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517199	fanc_JRC2018VF	
+left side of organism	overlaps	517215	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517215	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517215	fanc_JRC2018VF	
+left side of organism	overlaps	517230	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517230	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517230	fanc_JRC2018VF	
+left side of organism	overlaps	517244	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517244	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517244	fanc_JRC2018VF	
+left side of organism	overlaps	517258	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517258	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517258	fanc_JRC2018VF	
+left side of organism	overlaps	517269	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517269	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517269	fanc_JRC2018VF	
+right side of organism	overlaps	517284	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	517284	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517284	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517284	fanc_JRC2018VF	
@@ -2580,198 +3082,315 @@ left side of organism	has soma location	517296	fanc_JRC2018VF
 adult prothoracic multinerve neuron	fasciculates_with	517296	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517296	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517296	fanc_JRC2018VF	
+left side of organism	overlaps	517314	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517314	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517314	fanc_JRC2018VF	
+right side of organism	overlaps	517328	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517328	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517328	fanc_JRC2018VF	
+left side of organism	overlaps	517339	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517339	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517339	fanc_JRC2018VF	
+left side of organism	overlaps	517354	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517354	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517354	fanc_JRC2018VF	
+left side of organism	overlaps	517367	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517367	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517367	fanc_JRC2018VF	
+left side of organism	overlaps	517380	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517380	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517380	fanc_JRC2018VF	
+left side of organism	overlaps	517394	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517394	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517394	fanc_JRC2018VF	
+right side of organism	overlaps	517405	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517405	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517405	fanc_JRC2018VF	
+right side of organism	overlaps	517417	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517417	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517417	fanc_JRC2018VF	
+right side of organism	overlaps	517431	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517431	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517431	fanc_JRC2018VF	
+right side of organism	overlaps	517442	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517442	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517442	fanc_JRC2018VF	
+right side of organism	overlaps	517458	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517458	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517458	fanc_JRC2018VF	
+left side of organism	overlaps	517470	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517470	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517470	fanc_JRC2018VF	
+left side of organism	overlaps	517483	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517483	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517483	fanc_JRC2018VF	
+right side of organism	overlaps	517496	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	517496	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517496	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517496	fanc_JRC2018VF	
+right side of organism	overlaps	517508	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517508	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517508	fanc_JRC2018VF	
+left side of organism	overlaps	517519	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517519	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517519	fanc_JRC2018VF	
+left side of organism	overlaps	517532	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517532	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517532	fanc_JRC2018VF	
+left side of organism	overlaps	517546	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517546	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517546	fanc_JRC2018VF	
+right side of organism	overlaps	517559	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	517559	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517559	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517559	fanc_JRC2018VF	
+right side of organism	overlaps	517571	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517571	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517571	fanc_JRC2018VF	
+right side of organism	overlaps	517583	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517583	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517583	fanc_JRC2018VF	
+left side of organism	overlaps	517595	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517595	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517595	fanc_JRC2018VF	
+right side of organism	overlaps	517606	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	517606	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517606	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517606	fanc_JRC2018VF	
+left side of organism	overlaps	517618	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517618	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517618	fanc_JRC2018VF	
+left side of organism	overlaps	517632	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517632	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517632	fanc_JRC2018VF	
+left side of organism	overlaps	517650	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517650	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517650	fanc_JRC2018VF	
+left side of organism	overlaps	517665	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517665	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517665	fanc_JRC2018VF	
+left side of organism	overlaps	517678	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517678	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517678	fanc_JRC2018VF	
+left side of organism	overlaps	517690	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517690	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517690	fanc_JRC2018VF	
+left side of organism	overlaps	517704	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517704	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517704	fanc_JRC2018VF	
+left side of organism	overlaps	517717	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517717	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517717	fanc_JRC2018VF	
+left side of organism	overlaps	517728	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517728	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517728	fanc_JRC2018VF	
+left side of organism	overlaps	517740	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517740	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517740	fanc_JRC2018VF	
+left side of organism	overlaps	517752	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517752	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517752	fanc_JRC2018VF	
+right side of organism	overlaps	517765	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517765	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517765	fanc_JRC2018VF	
+left side of organism	overlaps	517780	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517780	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517780	fanc_JRC2018VF	
+right side of organism	overlaps	517793	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517793	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517793	fanc_JRC2018VF	
+left side of organism	overlaps	517805	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517805	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517805	fanc_JRC2018VF	
+left side of organism	overlaps	517818	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517818	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517818	fanc_JRC2018VF	
+left side of organism	overlaps	517831	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517831	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517831	fanc_JRC2018VF	
+left side of organism	overlaps	517843	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517843	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517843	fanc_JRC2018VF	
+left side of organism	overlaps	517856	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517856	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517856	fanc_JRC2018VF	
+left side of organism	overlaps	517868	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517868	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517868	fanc_JRC2018VF	
+left side of organism	overlaps	517880	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517880	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517880	fanc_JRC2018VF	
+left side of organism	overlaps	517892	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517892	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517892	fanc_JRC2018VF	
+left side of organism	overlaps	517903	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517903	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517903	fanc_JRC2018VF	
+left side of organism	overlaps	517914	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517914	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517914	fanc_JRC2018VF	
+left side of organism	overlaps	517926	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517926	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517926	fanc_JRC2018VF	
+left side of organism	overlaps	517937	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517937	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517937	fanc_JRC2018VF	
+left side of organism	overlaps	517949	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517949	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517949	fanc_JRC2018VF	
+left side of organism	overlaps	517960	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517960	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517960	fanc_JRC2018VF	
+left side of organism	overlaps	517971	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517971	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517971	fanc_JRC2018VF	
+left side of organism	overlaps	517983	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517983	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517983	fanc_JRC2018VF	
+left side of organism	overlaps	517994	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517994	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517994	fanc_JRC2018VF	
+left side of organism	overlaps	518005	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518005	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518005	fanc_JRC2018VF	
+left side of organism	overlaps	518016	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518016	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518016	fanc_JRC2018VF	
+left side of organism	overlaps	518029	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518029	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518029	fanc_JRC2018VF	
+left side of organism	overlaps	518041	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518041	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518041	fanc_JRC2018VF	
+left side of organism	overlaps	518054	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518054	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518054	fanc_JRC2018VF	
+right side of organism	overlaps	518067	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518067	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518067	fanc_JRC2018VF	
+left side of organism	overlaps	518079	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518079	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518079	fanc_JRC2018VF	
+right side of organism	overlaps	518092	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	518092	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518092	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518092	fanc_JRC2018VF	
+left side of organism	overlaps	518104	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518104	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518104	fanc_JRC2018VF	
+left side of organism	overlaps	518119	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518119	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518119	fanc_JRC2018VF	
+left side of organism	overlaps	518131	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518131	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518131	fanc_JRC2018VF	
+left side of organism	overlaps	518142	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518142	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518142	fanc_JRC2018VF	
+left side of organism	overlaps	519083	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519083	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519083	fanc_JRC2018VF	
+left side of organism	overlaps	519104	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519104	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519104	fanc_JRC2018VF	
+left side of organism	overlaps	519160	fanc_JRC2018VF	
+right side of organism	overlaps	519160	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519160	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519160	fanc_JRC2018VF	
+left side of organism	overlaps	519195	fanc_JRC2018VF	
+right side of organism	overlaps	519195	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519195	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519195	fanc_JRC2018VF	
+left side of organism	overlaps	519210	fanc_JRC2018VF	
+right side of organism	overlaps	519210	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519210	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519210	fanc_JRC2018VF	
+left side of organism	overlaps	519227	fanc_JRC2018VF	
+right side of organism	overlaps	519227	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519227	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519227	fanc_JRC2018VF	
+left side of organism	overlaps	519244	fanc_JRC2018VF	
+right side of organism	overlaps	519244	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519244	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519244	fanc_JRC2018VF	
+left side of organism	overlaps	519260	fanc_JRC2018VF	
+right side of organism	overlaps	519260	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519260	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519260	fanc_JRC2018VF	
+left side of organism	overlaps	519274	fanc_JRC2018VF	
+right side of organism	overlaps	519274	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519274	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519274	fanc_JRC2018VF	
+left side of organism	overlaps	519290	fanc_JRC2018VF	
+right side of organism	overlaps	519290	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519290	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519290	fanc_JRC2018VF	
+left side of organism	overlaps	519310	fanc_JRC2018VF	
+right side of organism	overlaps	519310	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519310	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519310	fanc_JRC2018VF	
+left side of organism	overlaps	519332	fanc_JRC2018VF	
+right side of organism	overlaps	519332	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	519332	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	519332	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519332	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519332	fanc_JRC2018VF	
+left side of organism	overlaps	519350	fanc_JRC2018VF	
+right side of organism	overlaps	519350	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519350	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519350	fanc_JRC2018VF	
+left side of organism	overlaps	519370	fanc_JRC2018VF	
+right side of organism	overlaps	519370	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519370	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519370	fanc_JRC2018VF	
+left side of organism	overlaps	519393	fanc_JRC2018VF	
+right side of organism	overlaps	519393	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	519393	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	519393	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519393	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519393	fanc_JRC2018VF	
+left side of organism	overlaps	519412	fanc_JRC2018VF	
+right side of organism	overlaps	519412	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519412	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519412	fanc_JRC2018VF	
+left side of organism	overlaps	519439	fanc_JRC2018VF	
+right side of organism	overlaps	519439	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519439	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519439	fanc_JRC2018VF	
+left side of organism	overlaps	519473	fanc_JRC2018VF	
+right side of organism	overlaps	519473	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519473	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519473	fanc_JRC2018VF	
+left side of organism	overlaps	519489	fanc_JRC2018VF	
+right side of organism	overlaps	519489	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519489	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519489	fanc_JRC2018VF	
+left side of organism	overlaps	519507	fanc_JRC2018VF	
+right side of organism	overlaps	519507	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519507	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519507	fanc_JRC2018VF	
+left side of organism	overlaps	519525	fanc_JRC2018VF	
+right side of organism	overlaps	519525	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519525	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519525	fanc_JRC2018VF	
+left side of organism	overlaps	519542	fanc_JRC2018VF	
+right side of organism	overlaps	519542	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519542	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519542	fanc_JRC2018VF	
+left side of organism	overlaps	519557	fanc_JRC2018VF	
+right side of organism	overlaps	519557	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519557	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519557	fanc_JRC2018VF	
+left side of organism	overlaps	519576	fanc_JRC2018VF	
+right side of organism	overlaps	519576	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519576	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519576	fanc_JRC2018VF	
+left side of organism	overlaps	519596	fanc_JRC2018VF	
+right side of organism	overlaps	519596	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519596	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519596	fanc_JRC2018VF	
+left side of organism	overlaps	519617	fanc_JRC2018VF	
+right side of organism	overlaps	519617	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519617	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519617	fanc_JRC2018VF	
 right side of organism	has soma location	519636	fanc_JRC2018VF	
@@ -3035,84 +3654,123 @@ adult ventral nerve cord	overlaps	541758	fanc_JRC2018VF
 right side of organism	has soma location	541769	fanc_JRC2018VF	
 peripheral nervous system	overlaps	541769	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	541769	fanc_JRC2018VF	
+left side of organism	overlaps	546504	fanc_JRC2018VF	
 peripheral nervous system	overlaps	546504	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	546504	fanc_JRC2018VF	
+left side of organism	overlaps	546527	fanc_JRC2018VF	
 peripheral nervous system	overlaps	546527	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	546527	fanc_JRC2018VF	
+right side of organism	overlaps	546553	fanc_JRC2018VF	
 peripheral nervous system	overlaps	546553	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	546553	fanc_JRC2018VF	
+right side of organism	overlaps	546577	fanc_JRC2018VF	
 peripheral nervous system	overlaps	546577	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	546577	fanc_JRC2018VF	
+right side of organism	overlaps	547789	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547789	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547789	fanc_JRC2018VF	
+left side of organism	overlaps	547793	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	547793	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547793	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547793	fanc_JRC2018VF	
+right side of organism	overlaps	547802	fanc_JRC2018VF	
 adult dorsal metathoracic nerve	fasciculates_with	547802	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547802	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547802	fanc_JRC2018VF	
+left side of organism	overlaps	547806	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547806	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547806	fanc_JRC2018VF	
+left side of organism	overlaps	547859	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547859	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547859	fanc_JRC2018VF	
+left side of organism	overlaps	547875	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547875	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547875	fanc_JRC2018VF	
+left side of organism	overlaps	547888	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547888	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547888	fanc_JRC2018VF	
+right side of organism	overlaps	547901	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547901	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547901	fanc_JRC2018VF	
+left side of organism	overlaps	547915	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547915	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547915	fanc_JRC2018VF	
+left side of organism	overlaps	547928	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547928	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547928	fanc_JRC2018VF	
+left side of organism	overlaps	547941	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547941	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547941	fanc_JRC2018VF	
+right side of organism	overlaps	547954	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547954	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547954	fanc_JRC2018VF	
+left side of organism	overlaps	547981	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547981	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547981	fanc_JRC2018VF	
+left side of organism	overlaps	547994	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547994	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547994	fanc_JRC2018VF	
+left side of organism	overlaps	548007	fanc_JRC2018VF	
 peripheral nervous system	overlaps	548007	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	548007	fanc_JRC2018VF	
+left side of organism	overlaps	548033	fanc_JRC2018VF	
 peripheral nervous system	overlaps	548033	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	548033	fanc_JRC2018VF	
+right side of organism	overlaps	548046	fanc_JRC2018VF	
 peripheral nervous system	overlaps	548046	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	548046	fanc_JRC2018VF	
+left side of organism	overlaps	552050	fanc_JRC2018VF	
 peripheral nervous system	overlaps	552050	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	552050	fanc_JRC2018VF	
+right side of organism	overlaps	552055	fanc_JRC2018VF	
 peripheral nervous system	overlaps	552055	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	552055	fanc_JRC2018VF	
+left side of organism	overlaps	552070	fanc_JRC2018VF	
 peripheral nervous system	overlaps	552070	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	552070	fanc_JRC2018VF	
+right side of organism	overlaps	552075	fanc_JRC2018VF	
 peripheral nervous system	overlaps	552075	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	552075	fanc_JRC2018VF	
+left side of organism	overlaps	552080	fanc_JRC2018VF	
 peripheral nervous system	overlaps	552080	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	552080	fanc_JRC2018VF	
+right side of organism	overlaps	552085	fanc_JRC2018VF	
 peripheral nervous system	overlaps	552085	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	552085	fanc_JRC2018VF	
+left side of organism	overlaps	553572	fanc_JRC2018VF	
 peripheral nervous system	overlaps	553572	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	553572	fanc_JRC2018VF	
+right side of organism	overlaps	553576	fanc_JRC2018VF	
 peripheral nervous system	overlaps	553576	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	553576	fanc_JRC2018VF	
+left side of organism	overlaps	555749	fanc_JRC2018VF	
 peripheral nervous system	overlaps	555749	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	555749	fanc_JRC2018VF	
+right side of organism	overlaps	555771	fanc_JRC2018VF	
 peripheral nervous system	overlaps	555771	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	555771	fanc_JRC2018VF	
+left side of organism	overlaps	559531	fanc_JRC2018VF	
 peripheral nervous system	overlaps	559531	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	559531	fanc_JRC2018VF	
+right side of organism	overlaps	559535	fanc_JRC2018VF	
 peripheral nervous system	overlaps	559535	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	559535	fanc_JRC2018VF	
+left side of organism	overlaps	559575	fanc_JRC2018VF	
 peripheral nervous system	overlaps	559575	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	559575	fanc_JRC2018VF	
+right side of organism	overlaps	559579	fanc_JRC2018VF	
 peripheral nervous system	overlaps	559579	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	559579	fanc_JRC2018VF	
+left side of organism	overlaps	559583	fanc_JRC2018VF	
 peripheral nervous system	overlaps	559583	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	559583	fanc_JRC2018VF	
+right side of organism	overlaps	559592	fanc_JRC2018VF	
 peripheral nervous system	overlaps	559592	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	559592	fanc_JRC2018VF	
+left side of organism	overlaps	563106	fanc_JRC2018VF	
 peripheral nervous system	overlaps	563106	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	563106	fanc_JRC2018VF	
+right side of organism	overlaps	563113	fanc_JRC2018VF	
 peripheral nervous system	overlaps	563113	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	563113	fanc_JRC2018VF	
 left side of organism	has soma location	564024	fanc_JRC2018VF	
@@ -3126,33 +3784,47 @@ left side of organism	has soma location	564858	fanc_JRC2018VF
 left side of organism	has soma location	564944	fanc_JRC2018VF	
 left side of organism	has soma location	564998	fanc_JRC2018VF	
 left side of organism	has soma location	565016	fanc_JRC2018VF	
+left side of organism	overlaps	565072	fanc_JRC2018VF	
+right side of organism	overlaps	565072	fanc_JRC2018VF	
 left side of organism	has soma location	565120	fanc_JRC2018VF	
 left side of organism	has soma location	565148	fanc_JRC2018VF	
 left side of organism	has soma location	565184	fanc_JRC2018VF	
 left side of organism	has soma location	565204	fanc_JRC2018VF	
 left side of organism	has soma location	565218	fanc_JRC2018VF	
+right side of organism	overlaps	570639	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570639	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570639	fanc_JRC2018VF	
+left side of organism	overlaps	570720	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570720	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570720	fanc_JRC2018VF	
+left side of organism	overlaps	570728	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570728	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570728	fanc_JRC2018VF	
+right side of organism	overlaps	570734	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570734	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570734	fanc_JRC2018VF	
+left side of organism	overlaps	570777	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570777	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570777	fanc_JRC2018VF	
+right side of organism	overlaps	570781	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570781	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570781	fanc_JRC2018VF	
+left side of organism	overlaps	570806	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570806	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570806	fanc_JRC2018VF	
+right side of organism	overlaps	570810	fanc_JRC2018VF	
 peripheral nervous system	overlaps	570810	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	570810	fanc_JRC2018VF	
+left side of organism	overlaps	575926	fanc_JRC2018VF	
 peripheral nervous system	overlaps	575926	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	575926	fanc_JRC2018VF	
+right side of organism	overlaps	575930	fanc_JRC2018VF	
 peripheral nervous system	overlaps	575930	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	575930	fanc_JRC2018VF	
+left side of organism	overlaps	578370	fanc_JRC2018VF	
 peripheral nervous system	overlaps	578370	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	578370	fanc_JRC2018VF	
+right side of organism	overlaps	578374	fanc_JRC2018VF	
 peripheral nervous system	overlaps	578374	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	578374	fanc_JRC2018VF	
 left side of organism	has soma location	582039	fanc_JRC2018VF	
@@ -4705,136 +5377,202 @@ adult ventral nerve cord	overlaps	625456	fanc_JRC2018VF
 left side of organism	has soma location	625472	fanc_JRC2018VF	
 peripheral nervous system	overlaps	625472	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	625472	fanc_JRC2018VF	
+right side of organism	overlaps	628819	fanc_JRC2018VF	
 peripheral nervous system	overlaps	628819	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	628819	fanc_JRC2018VF	
+right side of organism	overlaps	628838	fanc_JRC2018VF	
 peripheral nervous system	overlaps	628838	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	628838	fanc_JRC2018VF	
+right side of organism	overlaps	628943	fanc_JRC2018VF	
 peripheral nervous system	overlaps	628943	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	628943	fanc_JRC2018VF	
+right side of organism	overlaps	629006	fanc_JRC2018VF	
 peripheral nervous system	overlaps	629006	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	629006	fanc_JRC2018VF	
+right side of organism	overlaps	629043	fanc_JRC2018VF	
 peripheral nervous system	overlaps	629043	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	629043	fanc_JRC2018VF	
+right side of organism	overlaps	629105	fanc_JRC2018VF	
 peripheral nervous system	overlaps	629105	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	629105	fanc_JRC2018VF	
+left side of organism	overlaps	663940	fanc_JRC2018VF	
 peripheral nervous system	overlaps	663940	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	663940	fanc_JRC2018VF	
+left side of organism	overlaps	663955	fanc_JRC2018VF	
 peripheral nervous system	overlaps	663955	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	663955	fanc_JRC2018VF	
+left side of organism	overlaps	663968	fanc_JRC2018VF	
 peripheral nervous system	overlaps	663968	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	663968	fanc_JRC2018VF	
+left side of organism	overlaps	663982	fanc_JRC2018VF	
 peripheral nervous system	overlaps	663982	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	663982	fanc_JRC2018VF	
+left side of organism	overlaps	663996	fanc_JRC2018VF	
 peripheral nervous system	overlaps	663996	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	663996	fanc_JRC2018VF	
+left side of organism	overlaps	664009	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664009	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664009	fanc_JRC2018VF	
+left side of organism	overlaps	664022	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664022	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664022	fanc_JRC2018VF	
+left side of organism	overlaps	664035	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664035	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664035	fanc_JRC2018VF	
+left side of organism	overlaps	664048	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664048	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664048	fanc_JRC2018VF	
+left side of organism	overlaps	664061	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664061	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664061	fanc_JRC2018VF	
+left side of organism	overlaps	664074	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664074	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664074	fanc_JRC2018VF	
+left side of organism	overlaps	664088	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664088	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664088	fanc_JRC2018VF	
+left side of organism	overlaps	664101	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664101	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664101	fanc_JRC2018VF	
+left side of organism	overlaps	664116	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664116	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664116	fanc_JRC2018VF	
+left side of organism	overlaps	664129	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664129	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664129	fanc_JRC2018VF	
+left side of organism	overlaps	664142	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664142	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664142	fanc_JRC2018VF	
+left side of organism	overlaps	664155	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664155	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664155	fanc_JRC2018VF	
+left side of organism	overlaps	664168	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664168	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664168	fanc_JRC2018VF	
+left side of organism	overlaps	664185	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664185	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664185	fanc_JRC2018VF	
+left side of organism	overlaps	664198	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664198	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664198	fanc_JRC2018VF	
+left side of organism	overlaps	664211	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664211	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664211	fanc_JRC2018VF	
+left side of organism	overlaps	664224	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664224	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664224	fanc_JRC2018VF	
+left side of organism	overlaps	664237	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664237	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664237	fanc_JRC2018VF	
+left side of organism	overlaps	664250	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664250	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664250	fanc_JRC2018VF	
+left side of organism	overlaps	664263	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664263	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664263	fanc_JRC2018VF	
+left side of organism	overlaps	664276	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664276	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664276	fanc_JRC2018VF	
+left side of organism	overlaps	664290	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664290	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664290	fanc_JRC2018VF	
+left side of organism	overlaps	664303	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664303	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664303	fanc_JRC2018VF	
+left side of organism	overlaps	664318	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664318	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664318	fanc_JRC2018VF	
+left side of organism	overlaps	664331	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664331	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664331	fanc_JRC2018VF	
+left side of organism	overlaps	664344	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664344	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664344	fanc_JRC2018VF	
+left side of organism	overlaps	664357	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664357	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664357	fanc_JRC2018VF	
+left side of organism	overlaps	664371	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664371	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664371	fanc_JRC2018VF	
+left side of organism	overlaps	664384	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664384	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664384	fanc_JRC2018VF	
+left side of organism	overlaps	664397	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664397	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664397	fanc_JRC2018VF	
+left side of organism	overlaps	664410	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664410	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664410	fanc_JRC2018VF	
+left side of organism	overlaps	664423	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664423	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664423	fanc_JRC2018VF	
+left side of organism	overlaps	664436	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664436	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664436	fanc_JRC2018VF	
+left side of organism	overlaps	664449	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664449	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664449	fanc_JRC2018VF	
+left side of organism	overlaps	664462	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664462	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664462	fanc_JRC2018VF	
+left side of organism	overlaps	664474	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664474	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664474	fanc_JRC2018VF	
+left side of organism	overlaps	664487	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664487	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664487	fanc_JRC2018VF	
+left side of organism	overlaps	664500	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664500	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664500	fanc_JRC2018VF	
+left side of organism	overlaps	664513	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664513	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664513	fanc_JRC2018VF	
+left side of organism	overlaps	664526	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664526	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664526	fanc_JRC2018VF	
+left side of organism	overlaps	664539	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664539	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664539	fanc_JRC2018VF	
+right side of organism	overlaps	664552	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664552	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664552	fanc_JRC2018VF	
+right side of organism	overlaps	664564	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664564	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664564	fanc_JRC2018VF	
+left side of organism	overlaps	664577	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664577	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664577	fanc_JRC2018VF	
+left side of organism	overlaps	664590	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664590	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664590	fanc_JRC2018VF	
+left side of organism	overlaps	664603	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664603	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664603	fanc_JRC2018VF	
+left side of organism	overlaps	664616	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664616	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664616	fanc_JRC2018VF	
+left side of organism	overlaps	664629	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664629	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664629	fanc_JRC2018VF	
+left side of organism	overlaps	664642	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664642	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664642	fanc_JRC2018VF	
+left side of organism	overlaps	664655	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664655	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664655	fanc_JRC2018VF	
+left side of organism	overlaps	664669	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664669	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664669	fanc_JRC2018VF	
+left side of organism	overlaps	664682	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664682	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664682	fanc_JRC2018VF	
+left side of organism	overlaps	664695	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664695	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664695	fanc_JRC2018VF	
+left side of organism	overlaps	664708	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664708	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664708	fanc_JRC2018VF	
+left side of organism	overlaps	664721	fanc_JRC2018VF	
 peripheral nervous system	overlaps	664721	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	664721	fanc_JRC2018VF	
 right side of organism	has soma location	665462	fanc_JRC2018VF	
@@ -5353,29 +6091,42 @@ adult ventral nerve cord	overlaps	668181	fanc_JRC2018VF
 right side of organism	has soma location	668198	fanc_JRC2018VF	
 peripheral nervous system	overlaps	668198	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	668198	fanc_JRC2018VF	
+left side of organism	overlaps	669101	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669101	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669101	fanc_JRC2018VF	
+left side of organism	overlaps	669114	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669114	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669114	fanc_JRC2018VF	
+left side of organism	overlaps	669131	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669131	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669131	fanc_JRC2018VF	
+left side of organism	overlaps	669148	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669148	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669148	fanc_JRC2018VF	
+left side of organism	overlaps	669161	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669161	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669161	fanc_JRC2018VF	
+left side of organism	overlaps	669174	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669174	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669174	fanc_JRC2018VF	
+left side of organism	overlaps	669187	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669187	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669187	fanc_JRC2018VF	
+left side of organism	overlaps	669200	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669200	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669200	fanc_JRC2018VF	
+left side of organism	overlaps	669213	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669213	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669213	fanc_JRC2018VF	
+left side of organism	overlaps	669229	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669229	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669229	fanc_JRC2018VF	
+left side of organism	overlaps	669245	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669245	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669245	fanc_JRC2018VF	
+left side of organism	overlaps	669264	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669264	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669264	fanc_JRC2018VF	
+left side of organism	overlaps	669280	fanc_JRC2018VF	
 peripheral nervous system	overlaps	669280	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	669280	fanc_JRC2018VF	
