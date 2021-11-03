@@ -5,6 +5,9 @@ T3 leg club chordotonal neuron	metathoracic femoral chordotonal club neuron
 T2 leg claw chordotonal neuron	mesothoracic femoral chordotonal claw neuron
 right T1 ventral nerve	adult ventral prothoracic nerve
 left T1 ventral nerve	adult ventral prothoracic nerve
+T1 leg claw chordotonal neuron	prothoracic femoral chordotonal claw neuron
+T1 leg club chordotonal neuron	prothoracic femoral chordotonal club neuron
+T1 leg hook chordotonal neuron	prothoracic femoral chordotonal hook neuron
 sensory neuron	adult sensory neuron
 motor neuron	adult motor neuron
 T1 leg motor neuron	prothoracic leg muscle motor neuron
