@@ -3,10 +3,10 @@ hair plate	mechanosensory neuron of hair plate
 campaniform sensillum	sensory neuron of campaniform sensillum
 T3 leg club chordotonal neuron	metathoracic femoral chordotonal club neuron
 T2 leg claw chordotonal neuron	mesothoracic femoral chordotonal claw neuron
-sensory neuron	sensory neuron
+sensory neuron	adult sensory neuron
 motor neuron	adult motor neuron
 T1 leg motor neuron	prothoracic leg muscle motor neuron
-chordotonal neuron	chordotonal neuron
+chordotonal neuron	adult chordotonal neuron
 ascending neuron	adult ascending neuron
 peripherally synapsing interneuron	peripherally synapsing interneuron
 T2 leg motor neuron	mesothoracic leg muscle motor neuron
@@ -14,5 +14,5 @@ central neuron	interneuron
 T3 leg motor neuron	metathoracic leg muscle motor neuron
 neuron	adult neuron
 T1 multinerve neuron	adult prothoracic multinerve neuron
-right haltere nerve	haltere nerve
-left haltere nerve	haltere nerve
+right haltere nerve	adult dorsal metathoracic nerve
+left haltere nerve	adult dorsal metathoracic nerve

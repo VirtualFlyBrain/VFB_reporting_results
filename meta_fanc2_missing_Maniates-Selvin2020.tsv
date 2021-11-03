@@ -371,7 +371,7 @@ right side of organism	has soma location	494638	fanc_JRC2018VF
 peripheral nervous system	overlaps	494638	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	494638	fanc_JRC2018VF	
 right side of organism	has soma location	494658	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	494658	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	494658	fanc_JRC2018VF	
 peripheral nervous system	overlaps	494658	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	494658	fanc_JRC2018VF	
 right side of organism	has soma location	494676	fanc_JRC2018VF	
@@ -810,7 +810,7 @@ right side of organism	has soma location	497930	fanc_JRC2018VF
 peripheral nervous system	overlaps	497930	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	497930	fanc_JRC2018VF	
 right side of organism	has soma location	497946	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	497946	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	497946	fanc_JRC2018VF	
 peripheral nervous system	overlaps	497946	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	497946	fanc_JRC2018VF	
 right side of organism	has soma location	497964	fanc_JRC2018VF	
@@ -835,7 +835,7 @@ right side of organism	has soma location	498087	fanc_JRC2018VF
 peripheral nervous system	overlaps	498087	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	498087	fanc_JRC2018VF	
 left side of organism	has soma location	498109	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	498109	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	498109	fanc_JRC2018VF	
 peripheral nervous system	overlaps	498109	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	498109	fanc_JRC2018VF	
 left side of organism	has soma location	498127	fanc_JRC2018VF	
@@ -881,7 +881,7 @@ right side of organism	has soma location	498368	fanc_JRC2018VF
 peripheral nervous system	overlaps	498368	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	498368	fanc_JRC2018VF	
 left side of organism	has soma location	498385	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	498385	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	498385	fanc_JRC2018VF	
 peripheral nervous system	overlaps	498385	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	498385	fanc_JRC2018VF	
 right side of organism	has soma location	498406	fanc_JRC2018VF	
@@ -966,7 +966,7 @@ right side of organism	has soma location	498863	fanc_JRC2018VF
 peripheral nervous system	overlaps	498863	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	498863	fanc_JRC2018VF	
 left side of organism	has soma location	498884	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	498884	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	498884	fanc_JRC2018VF	
 peripheral nervous system	overlaps	498884	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	498884	fanc_JRC2018VF	
 right side of organism	has soma location	498900	fanc_JRC2018VF	
@@ -1126,7 +1126,7 @@ right side of organism	has soma location	499915	fanc_JRC2018VF
 peripheral nervous system	overlaps	499915	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	499915	fanc_JRC2018VF	
 right side of organism	has soma location	499934	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	499934	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	499934	fanc_JRC2018VF	
 peripheral nervous system	overlaps	499934	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	499934	fanc_JRC2018VF	
 right side of organism	has soma location	499950	fanc_JRC2018VF	
@@ -1538,7 +1538,7 @@ peripheral nervous system	overlaps	510337	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	510337	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510351	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510351	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510368	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510368	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510368	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510368	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510380	fanc_JRC2018VF	
@@ -1557,7 +1557,7 @@ peripheral nervous system	overlaps	510482	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	510482	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510493	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510493	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510508	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510508	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510508	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510508	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510520	fanc_JRC2018VF	
@@ -1566,7 +1566,7 @@ peripheral nervous system	overlaps	510532	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	510532	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510549	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510549	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510562	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510562	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510562	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510562	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510574	fanc_JRC2018VF	
@@ -1575,12 +1575,12 @@ peripheral nervous system	overlaps	510587	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	510587	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510599	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510599	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510612	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510612	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510612	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510612	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510624	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510624	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510637	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510637	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510637	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510637	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510649	fanc_JRC2018VF	
@@ -1595,12 +1595,12 @@ peripheral nervous system	overlaps	510703	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	510703	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510715	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510715	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510727	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510727	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510727	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510727	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510739	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510739	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	510752	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	510752	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510752	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	510752	fanc_JRC2018VF	
 peripheral nervous system	overlaps	510764	fanc_JRC2018VF	
@@ -2087,7 +2087,7 @@ peripheral nervous system	overlaps	514049	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	514049	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514063	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514063	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	514076	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	514076	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514076	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514076	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514088	fanc_JRC2018VF	
@@ -2108,7 +2108,7 @@ peripheral nervous system	overlaps	514177	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	514177	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514190	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514190	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	514203	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	514203	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514203	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514203	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514215	fanc_JRC2018VF	
@@ -2121,7 +2121,7 @@ peripheral nervous system	overlaps	514258	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	514258	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514272	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514272	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	514285	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	514285	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514285	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514285	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514297	fanc_JRC2018VF	
@@ -2172,12 +2172,12 @@ peripheral nervous system	overlaps	514593	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	514593	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514606	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514606	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	514618	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	514618	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514618	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514618	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514630	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514630	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	514644	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	514644	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514644	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514644	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514656	fanc_JRC2018VF	
@@ -2204,7 +2204,7 @@ peripheral nervous system	overlaps	514783	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	514783	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514796	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514796	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	514808	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	514808	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514808	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514808	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514820	fanc_JRC2018VF	
@@ -2235,19 +2235,19 @@ peripheral nervous system	overlaps	514979	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	514979	fanc_JRC2018VF	
 peripheral nervous system	overlaps	514993	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	514993	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515006	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515006	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515006	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515006	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515018	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515018	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515032	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515032	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515046	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515046	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515046	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515046	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515057	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515057	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515069	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515069	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515069	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515069	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515081	fanc_JRC2018VF	
@@ -2270,7 +2270,7 @@ peripheral nervous system	overlaps	515181	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	515181	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515195	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515195	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515208	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515208	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515208	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515208	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515219	fanc_JRC2018VF	
@@ -2295,7 +2295,7 @@ peripheral nervous system	overlaps	515329	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	515329	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515340	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515340	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515354	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515354	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515354	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515354	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515366	fanc_JRC2018VF	
@@ -2314,12 +2314,12 @@ peripheral nervous system	overlaps	515458	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	515458	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515472	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515472	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515485	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515485	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515485	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515485	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515497	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515497	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515511	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515511	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515511	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515511	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515523	fanc_JRC2018VF	
@@ -2332,7 +2332,7 @@ peripheral nervous system	overlaps	515564	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	515564	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515577	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515577	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	515592	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	515592	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515592	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	515592	fanc_JRC2018VF	
 peripheral nervous system	overlaps	515604	fanc_JRC2018VF	
@@ -2409,7 +2409,7 @@ peripheral nervous system	overlaps	516059	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	516059	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516071	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516071	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	516086	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	516086	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516086	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516086	fanc_JRC2018VF	
 right side of organism	has soma location	516098	fanc_JRC2018VF	
@@ -2442,7 +2442,7 @@ peripheral nervous system	overlaps	516267	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	516267	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516279	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516279	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	516294	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	516294	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516294	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516294	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516306	fanc_JRC2018VF	
@@ -2507,7 +2507,7 @@ peripheral nervous system	overlaps	516679	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	516679	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516694	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516694	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	516709	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	516709	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516709	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516709	fanc_JRC2018VF	
 left side of organism	has soma location	516721	fanc_JRC2018VF	
@@ -2524,7 +2524,7 @@ peripheral nervous system	overlaps	516952	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	516952	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516965	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516965	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	516977	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	516977	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516977	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	516977	fanc_JRC2018VF	
 peripheral nervous system	overlaps	516989	fanc_JRC2018VF	
@@ -2537,7 +2537,7 @@ peripheral nervous system	overlaps	517031	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	517031	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517044	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517044	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	517056	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	517056	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517056	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517056	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517068	fanc_JRC2018VF	
@@ -2558,7 +2558,7 @@ peripheral nervous system	overlaps	517161	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	517161	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517172	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517172	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	517187	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	517187	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517187	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517187	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517199	fanc_JRC2018VF	
@@ -2573,7 +2573,7 @@ peripheral nervous system	overlaps	517258	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	517258	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517269	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517269	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	517284	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	517284	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517284	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517284	fanc_JRC2018VF	
 left side of organism	has soma location	517296	fanc_JRC2018VF	
@@ -2608,7 +2608,7 @@ peripheral nervous system	overlaps	517470	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	517470	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517483	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517483	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	517496	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	517496	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517496	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517496	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517508	fanc_JRC2018VF	
@@ -2619,7 +2619,7 @@ peripheral nervous system	overlaps	517532	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	517532	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517546	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517546	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	517559	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	517559	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517559	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517559	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517571	fanc_JRC2018VF	
@@ -2628,7 +2628,7 @@ peripheral nervous system	overlaps	517583	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	517583	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517595	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517595	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	517606	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	517606	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517606	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	517606	fanc_JRC2018VF	
 peripheral nervous system	overlaps	517618	fanc_JRC2018VF	
@@ -2707,7 +2707,7 @@ peripheral nervous system	overlaps	518067	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	518067	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518079	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518079	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	518092	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	518092	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518092	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	518092	fanc_JRC2018VF	
 peripheral nervous system	overlaps	518104	fanc_JRC2018VF	
@@ -2740,16 +2740,16 @@ peripheral nervous system	overlaps	519290	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	519290	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519310	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519310	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	519332	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	519332	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	519332	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	519332	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519332	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519332	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519350	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519350	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519370	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519370	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	519393	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	519393	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	519393	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	519393	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519393	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	519393	fanc_JRC2018VF	
 peripheral nervous system	overlaps	519412	fanc_JRC2018VF	
@@ -3045,10 +3045,10 @@ peripheral nervous system	overlaps	546577	fanc_JRC2018VF
 adult ventral nerve cord	overlaps	546577	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547789	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547789	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	547793	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	547793	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547793	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547793	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	547802	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	547802	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547802	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	547802	fanc_JRC2018VF	
 peripheral nervous system	overlaps	547806	fanc_JRC2018VF	
@@ -5258,7 +5258,7 @@ right side of organism	has soma location	667699	fanc_JRC2018VF
 peripheral nervous system	overlaps	667699	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	667699	fanc_JRC2018VF	
 right side of organism	has soma location	667715	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	667715	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	667715	fanc_JRC2018VF	
 peripheral nervous system	overlaps	667715	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	667715	fanc_JRC2018VF	
 right side of organism	has soma location	667731	fanc_JRC2018VF	
@@ -5271,7 +5271,7 @@ right side of organism	has soma location	667765	fanc_JRC2018VF
 peripheral nervous system	overlaps	667765	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	667765	fanc_JRC2018VF	
 right side of organism	has soma location	667780	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	667780	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	667780	fanc_JRC2018VF	
 peripheral nervous system	overlaps	667780	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	667780	fanc_JRC2018VF	
 right side of organism	has soma location	667797	fanc_JRC2018VF	
@@ -5296,7 +5296,7 @@ right side of organism	has soma location	667892	fanc_JRC2018VF
 peripheral nervous system	overlaps	667892	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	667892	fanc_JRC2018VF	
 right side of organism	has soma location	667908	fanc_JRC2018VF	
-haltere nerve	fasciculates_with	667908	fanc_JRC2018VF	
+adult dorsal metathoracic nerve	fasciculates_with	667908	fanc_JRC2018VF	
 peripheral nervous system	overlaps	667908	fanc_JRC2018VF	
 adult ventral nerve cord	overlaps	667908	fanc_JRC2018VF	
 right side of organism	has soma location	667924	fanc_JRC2018VF	
