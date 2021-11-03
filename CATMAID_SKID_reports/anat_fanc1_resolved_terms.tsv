@@ -3,6 +3,8 @@ hair plate	mechanosensory neuron of hair plate
 campaniform sensillum	sensory neuron of campaniform sensillum
 T3 leg club chordotonal neuron	metathoracic femoral chordotonal club neuron
 T2 leg claw chordotonal neuron	mesothoracic femoral chordotonal claw neuron
+right T1 ventral nerve	adult ventral prothoracic nerve
+left T1 ventral nerve	adult ventral prothoracic nerve
 sensory neuron	adult sensory neuron
 motor neuron	adult motor neuron
 T1 leg motor neuron	prothoracic leg muscle motor neuron
@@ -28,8 +30,14 @@ right anterior dorsal mesothoracic nerve	adult anterior dorsal mesothoracic nerv
 right T1 chordotonal nerve	adult prothoracic chordotonal nerve
 left prosternal nerve	adult prosternal nerve
 right prosternal nerve	adult prosternal nerve
+right T2 leg nerve	adult mesothoracic leg nerve
+left T2 accessory nerve	adult mesothoracic accessory nerve
+right T2 accessory nerve	adult mesothoracic accessory nerve
 left anterior dorsal mesothoracic nerve	adult anterior dorsal mesothoracic nerve
+left T2 leg nerve	adult mesothoracic leg nerve
 left posterior dorsal mesothoracic nerve	adult posterior dorsal mesothoracic nerve
+left T3 leg nerve	adult metathoracic leg nerve
+right T3 leg nerve	adult metathoracic leg nerve
 right haltere nerve	adult dorsal metathoracic nerve
 left first abdominal nerve	adult first abdominal nerve
 right first abdominal nerve	adult first abdominal nerve
