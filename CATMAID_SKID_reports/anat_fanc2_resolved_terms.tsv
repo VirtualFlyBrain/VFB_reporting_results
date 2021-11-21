@@ -14,40 +14,10 @@ right T1 dorsal nerve	adult dorsal prothoracic nerve
 bCS	bilateral campaniform sensillum neuron of leg
 CoHP8	mechanosensory neuron of prothoracic coxal hair plate CoHP8
 T2 leg motor neuron PDMN bundle	adult posterior dorsal mesothoracic nerve
-sensory neuron	adult sensory neuron
-motor neuron	adult motor neuron
 T1 leg motor neuron	prothoracic leg muscle motor neuron
-chordotonal neuron	adult chordotonal neuron
-wing motor neuron	flight muscle motor neuron
-ascending neuron	adult ascending neuron
-peripherally synapsing interneuron	peripherally synapsing interneuron
-T2 leg motor neuron	mesothoracic leg muscle motor neuron
-intersegmental	adult intersegmental mechanosensory system neuron
-central neuron	interneuron
-T3 leg motor neuron	metathoracic leg muscle motor neuron
+motor neuron	adult motor neuron
 left T1 leg nerve	adult prothoracic leg nerve
-right T1 leg nerve	adult prothoracic leg nerve
 right T1 accessory nerve	adult prothoracic accessory nerve
-neuron	adult neuron
+right T1 leg nerve	adult prothoracic leg nerve
 left T1 accessory nerve	adult prothoracic accessory nerve
-left cervical nerve	adult cervical nerve
-right cervical nerve	adult cervical nerve
-T1 multinerve neuron	adult prothoracic multinerve neuron
-left T1 chordotonal nerve	adult prothoracic chordotonal nerve
-right posterior dorsal mesothoracic nerve	adult posterior dorsal mesothoracic nerve
-right anterior dorsal mesothoracic nerve	adult anterior dorsal mesothoracic nerve
-right T1 chordotonal nerve	adult prothoracic chordotonal nerve
-left prosternal nerve	adult prosternal nerve
-right prosternal nerve	adult prosternal nerve
-right T2 leg nerve	adult mesothoracic leg nerve
-left T2 accessory nerve	adult mesothoracic accessory nerve
-right T2 accessory nerve	adult mesothoracic accessory nerve
-left anterior dorsal mesothoracic nerve	adult anterior dorsal mesothoracic nerve
-left T2 leg nerve	adult mesothoracic leg nerve
-left posterior dorsal mesothoracic nerve	adult posterior dorsal mesothoracic nerve
-left T3 leg nerve	adult metathoracic leg nerve
-right T3 leg nerve	adult metathoracic leg nerve
-right haltere nerve	adult dorsal metathoracic nerve
-left first abdominal nerve	adult first abdominal nerve
-right first abdominal nerve	adult first abdominal nerve
-left haltere nerve	adult dorsal metathoracic nerve
+neuron	adult neuron
