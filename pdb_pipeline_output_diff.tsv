@@ -21,6 +21,8 @@ JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, S
 JenettShinomya_BrainName	pipeline_output	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	391	0
 LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	122	306
 LateralHorn2019	pipeline_output	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	306
+Lee2020	pdb	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0
+Lee_Lineage2020	pipeline_output	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0
 Maniates_Selvin2020	pdb	EM FANC Maniates-Selvin et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_01_10_902478	1198	0	0
 Maniates_Selvin2020	pipeline_output	EM FANC Maniates-Selvin et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_01_10_902478	2029	0	0
 Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	40	99
