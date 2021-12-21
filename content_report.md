@@ -3,7 +3,7 @@ VFB Content Report 2021-12-21
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 21 Dec 2021 16:40:52``  
+Report of content found at ``http://pdb.v4.virtualflybrain.org`` on ``Tue, 21 Dec 2021 18:06:35``  
   
 ***``Ontology Content``***  
 
@@ -28,10 +28,10 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 21 Dec 2
   
 ***``Image Content``***  
   
-**119384** total images from **95** datasets  
-**69060** single neuron images of **5432** cell types  
-**48120** images of expression patterns of **17157** drivers  
-**4858** images of expression patterns of **676** split combinations  
+**117589** total images from **89** datasets  
+**67838** single neuron images of **5414** cell types  
+**47900** images of expression patterns of **17101** drivers  
+**4638** images of expression patterns of **620** split combinations  
   
 ***``Annotations``***  
   
