@@ -63,6 +63,12 @@ jobs:
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./VFB_content_report_generator.py
+          
+      - name: Run individual classification report 
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
+          cd VFB_reporting/src
+          python ./individual_classification_report.py
 
       - name: Create curation files
         run: |
