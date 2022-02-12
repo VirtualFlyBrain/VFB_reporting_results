@@ -1,29 +1,67 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
+Aso2014	dev	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	129	312
+Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	129	217
+AsoRubin2016	dev	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	24	0	38
+AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	24	0	23
 Berck2016	dev	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	90	3
 Berck2016	pdb	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	88	3
-BrainName_Ito_half_brain	dev	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	391	0
+BrainName_Ito_half_brain	dev	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	392	0
 BrainName_Ito_half_brain	pdb	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	389	0
 Chiang2010	dev	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	24	1
 Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	25	1
-Dolan2019	dev	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	306
+Dolan2018	dev	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	28
+Dolan2018	pdb	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	21
+Dolan2019	dev	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	451
 Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	122	306
-FafbDolan2019	dev	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	306
+FafbDolan2019	dev	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	451
 FafbDolan2019	pdb	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	122	306
-FlyLight2019LateralHorn2019	dev	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	322	306
+FlyLight2019AsoRubin2016	dev	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	4	0	38
+FlyLight2019AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	4	0	23
+FlyLight2019Klapoetke2017	dev	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	8	4	12
+FlyLight2019Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	8	4	11
+FlyLight2019LateralHorn2019	dev	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	322	451
 FlyLight2019LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	122	306
-FlyLight2019Wu2016	dev	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	99
+FlyLight2019Namiki2018	dev	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	247	134	301
+FlyLight2019Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	247	134	161
+FlyLight2019Robie2017	dev	split-GAL4 lines for EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	21	2	128
+FlyLight2019Robie2017	pdb	split-GAL4 lines for EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	21	2	64
+FlyLight2019Strother2017	dev	Splits targetting the visual motion pathway, Strother2017	CC-BY-SA_4.0	FBrf0235230	63	0	24
+FlyLight2019Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY-SA_4.0	FBrf0235230	63	0	14
+FlyLight2019Wolff2018	dev	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	52	205
+FlyLight2019Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	52	108
+FlyLight2019Wu2016	dev	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	180
 FlyLight2019Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	40	99
 Gen1MCFODionne2018	dev	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY-SA_4.0	FBrf0236874	155	0	0
 Gen1MCFOJenett2012	dev	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY-SA_4.0	FBrf0219813	19866	3	0
 Gen1MCFOPfeiffer2010	dev	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	CC-BY-SA_4.0	FBrf0212052	10	0	0
 Gen1MCFOTirian2017	dev	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY-SA_4.0	FBrf0236875	28460	0	0
-JenettShinomya_BrainName	dev	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	391	0
+JenettShinomya_BrainName	dev	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	392	0
 JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	389	0
-LateralHorn2019	dev	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	306
+Klapoetke2017	dev	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	12
+Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	11
+LateralHorn2019	dev	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	451
 LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	122	306
 Lee2020	pdb	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0
 Lee_Lineage2020	dev	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0
 Maniates_Selvin2020	dev	EM FANC Maniates-Selvin et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_01_10_902478	2029	0	0
 Maniates_Selvin2020	pdb	EM FANC Maniates-Selvin et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_01_10_902478	1198	0	0
-Wu2016	dev	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	99
+McKellar2020	dev	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	327
+McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	307
+Namiki2018	dev	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	134	301
+Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	134	161
+Nojima2021	dev	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	5	6
+Nojima2021	pdb	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	5	4
+Robie2017	dev	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	80	2	128
+Robie2017	pdb	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	80	2	64
+SplitDavis2020	dev	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	160
+SplitDavis2020	pdb	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	0
+SplitGiraldo2018	dev	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	12
+SplitGiraldo2018	pdb	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	6
+Strother2017	dev	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	24
+Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	14
+Wolff2018	dev	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	52	205
+Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	52	108
+Wu2016	dev	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	180
 Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	40	99
+Xie2018	dev	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	26	1001
+Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	26	578
