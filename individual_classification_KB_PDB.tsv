@@ -5,7 +5,7 @@ FBbt_00049828	adult gamma Kenyon cell	1040	0
 FBbt_00100368	adult uniglomerular antennal lobe projection neuron adPN	305	5
 FBbt_00050025	adult ALl1 lineage neuron	284	0
 FBbt_00067362	antennal lobe projection neuron of ALl1 lineage	281	0
-FBbt_00049834	adult alpha'/beta' Kenyon cell	264	0
+FBbt_00049834	adult alpha\'/beta\' Kenyon cell	264	0
 FBbt_00067350	medial antennal lobe tract projection neuron	248	0
 FBbt_00007441	adult multiglomerular antennal lobe projection neuron	210	103
 FBbt_00047717	mediolateral antennal lobe tract projection neuron	175	0
@@ -362,7 +362,7 @@ FBbt_00051723	adult lateral horn AV5a2 neuron	0	19
 FBbt_00007683	neuroblast lineage clone	0	245
 FBbt_00049820	fan-shaped body columnar neuron	0	598
 FBbt_00100248	alpha/beta Kenyon cell	0	289
-FBbt_00100249	alpha'/beta' Kenyon cell	0	335
+FBbt_00100249	alpha\'/beta\' Kenyon cell	0	335
 FBbt_00003636	adult fan-shaped body delta neuron	0	159
 FBbt_00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	0	58
 FBbt_00051545	adult lateral horn AV4g5 neuron	0	3
@@ -379,7 +379,7 @@ FBbt_00100247	gamma Kenyon cell	0	1057
 FBbt_00051542	adult lateral horn AV4g2 neuron	0	4
 FBbt_00003879	lobula complex columnar neuron	0	372
 FBbt_00005106	neuron	0	43673
-FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
+FBbt_00100250	alpha\'/beta\' anterior-posterior Kenyon cell	0	218
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
 FBbt_00051745	adult lateral horn AV7a4 neuron	0	4
 FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	0	18
