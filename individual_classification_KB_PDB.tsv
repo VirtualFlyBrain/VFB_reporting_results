@@ -112,8 +112,9 @@ FBbt_00051757	adult lateral horn PD2a9 neuron	0	1
 FBbt_00051656	adult lateral horn AV2g3 neuron	0	3
 FBbt_00047646	descending neuron of the posterior brain DNp13	0	3
 FBbt_00051695	adult lateral horn AV3b5 neuron	0	3
-FBbt_00051713	adult lateral horn AV3k2 neuron	0	1
+FBbt_00111247	larval A02n neuron	0	1
 FBbt_00051589	adult lateral horn PV5h1 neuron	0	7
+FBbt_00051667	adult lateral horn AV2k1 neuron	0	3
 FBbt_00051490	adult tubercle-tubercle lateral zone neuron b	0	2
 FBbt_00051670	adult lateral horn AV2k12 neuron	0	3
 FBbt_00051541	adult lateral horn AV4g18 neuron	0	1
@@ -123,8 +124,8 @@ FBbt_00051568	adult lateral horn PV4b8 neuron	0	1
 FBbt_00111229	larval Basin-2 neuron	0	4
 FBbt_00051636	adult lateral horn AV2b11 neuron	0	1
 FBbt_00051642	adult lateral horn AV2b8 neuron	0	1
-FBbt_00111247	larval A02n neuron	0	1
 FBbt_00051645	adult lateral horn AV2e1 neuron	0	1
+FBbt_00051713	adult lateral horn AV3k2 neuron	0	1
 FBbt_00051573	adult lateral horn PV4d9 neuron	0	1
 FBbt_00051583	adult lateral horn PV4j2 neuron	0	1
 FBbt_00051607	adult wedge projection neuron 11	0	1
@@ -137,7 +138,7 @@ FBbt_00051491	adult tubercle-tubercle lateral zone neuron a	0	2
 FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	2
 FBbt_00111261	larval T05t neuron	0	2
 FBbt_00051689	adult lateral horn AV3b11 neuron	0	4
-FBbt_00051555	adult fruitless aSP-g2 neuron	0	4
+FBbt_00051797	adult lateral horn PV2i1 neuron	0	2
 FBbt_00051521	adult lateral horn PV5i1 neuron	0	1
 FBbt_00051532	adult lateral horn AV4e5 neuron	0	3
 FBbt_00051792	adult lateral horn PV2e2 neuron	0	3
@@ -146,13 +147,14 @@ FBbt_00051838	adult lateral horn PV8b1 neuron	0	1
 FBbt_00111249	larval Wave neuron	0	2
 FBbt_00051511	adult lateral horn PD3c1 neuron	0	1
 FBbt_00051778	adult lateral horn PV11a1 neuron	0	3
+FBbt_00110929	alpha/beta core Kenyon cell	0	1
 FBbt_00051610	adult wedge projection neuron 9	0	1
 FBbt_00051564	adult lateral horn AD1k1 neuron	0	1
 FBbt_00048517	wind sensitive wedge projection neuron	0	10
 FBbt_00051705	adult lateral horn AV3e5 neuron	0	2
 FBbt_00051613	adult lateral horn AD2c3 neuron	0	3
-FBbt_00051797	adult lateral horn PV2i1 neuron	0	2
-FBbt_00051654	adult lateral horn AV2g1 neuron	0	2
+FBbt_00051774	adult lateral horn PD5f1 neuron	0	1
+FBbt_00051555	adult fruitless aSP-g2 neuron	0	4
 FBbt_00051823	adult lateral horn PV6h3 neuron	0	3
 FBbt_00051691	adult lateral horn AV3b13 neuron	0	2
 FBbt_00051800	adult lateral horn PV3a2 neuron	0	2
@@ -162,7 +164,6 @@ FBbt_00051696	adult lateral horn AV3b6 neuron	0	5
 FBbt_00051692	adult lateral horn AV3b2 neuron	0	6
 FBbt_00051806	adult lateral horn PV6a4 neuron	0	6
 FBbt_00051591	adult lateral horn PV5h4 neuron	0	3
-FBbt_00051803	adult lateral horn PV6a10 neuron	0	1
 FBbt_00051620	adult lateral horn AD3a4 neuron	0	2
 FBbt_00051598	adult lateral horn AV1b3 neuron	0	2
 FBbt_00051765	adult lateral horn PD4a1 neuron	0	4
@@ -190,10 +191,10 @@ FBbt_00051702	adult lateral horn AV3e1 neuron	0	2
 FBbt_00051719	adult lateral horn AV3n1 neuron	0	6
 FBbt_00051811	adult lateral horn PV6a9 neuron	0	5
 FBbt_00051808	adult lateral horn PV6a6 neuron	0	4
-FBbt_00051667	adult lateral horn AV2k1 neuron	0	3
+FBbt_00051654	adult lateral horn AV2g1 neuron	0	2
 FBbt_00051837	adult lateral horn PV8a1 neuron	0	1
-FBbt_00051774	adult lateral horn PD5f1 neuron	0	1
-FBbt_00051537	adult lateral horn AV4g14 neuron	0	1
+FBbt_00051677	adult lateral horn AV2k7 neuron	0	2
+FBbt_00051741	adult lateral horn AV6g1 neuron	0	1
 FBbt_00051833	adult lateral horn PV6p1 neuron	0	1
 FBbt_00047199	larval Ladder-a neuron	0	1
 FBbt_00051597	adult lateral horn AV1b2 neuron	0	1
@@ -205,8 +206,8 @@ FBbt_00051779	adult lateral horn PV1c2 neuron	0	1
 FBbt_00051629	adult lateral horn AD3d4 neuron	0	1
 FBbt_00051540	adult lateral horn AV4g17 neuron	0	1
 FBbt_00051582	adult lateral horn PV4j1 neuron	0	2
-FBbt_00051741	adult lateral horn AV6g1 neuron	0	1
 FBbt_00051684	adult lateral horn AV3a3 neuron	0	1
+FBbt_00051676	adult lateral horn AV2k6 neuron	0	1
 FBbt_00051697	adult lateral horn AV3b7 neuron	0	1
 FBbt_00051595	adult lateral horn PV5j5 neuron	0	2
 FBbt_00051508	adult lateral horn centrifugal neuron 14	0	1
@@ -217,9 +218,10 @@ FBbt_00051681	adult lateral horn AV2m1 neuron	0	2
 FBbt_00051832	adult lateral horn PV6m1 neuron	0	1
 FBbt_00051585	adult lateral horn PV4j4 neuron	0	1
 FBbt_00111245	larval A01n neuron	0	2
+FBbt_00051736	adult lateral horn AV6b4 neuron	0	1
 FBbt_00051714	adult lateral horn AV3k3 neuron	0	1
+FBbt_00051537	adult lateral horn AV4g14 neuron	0	1
 FBbt_00051603	adult lateral horn AV1e1 neuron	0	1
-FBbt_00051659	adult lateral horn AV2g6 neuron	0	1
 FBbt_00051738	adult lateral horn AV6e1 neuron	0	1
 FBbt_00051685	adult lateral horn AV3a4 neuron	0	1
 FBbt_00051520	adult lateral horn PV5f1 neuron	0	1
@@ -244,10 +246,11 @@ FBbt_00051587	adult lateral horn PV5h5 neuron	0	1
 FBbt_00051621	adult lateral horn AD3a5 neuron	0	1
 FBbt_00051839	adult lateral horn PV8c1 neuron	0	1
 FBbt_00051599	adult lateral horn AV1b4 neuron	0	1
-FBbt_00051736	adult lateral horn AV6b4 neuron	0	1
-FBbt_00051676	adult lateral horn AV2k6 neuron	0	1
-FBbt_00051677	adult lateral horn AV2k7 neuron	0	2
-FBbt_00051770	adult lateral horn PD5b1 neuron	0	1
+FBbt_00051659	adult lateral horn AV2g6 neuron	0	1
+FBbt_00051588	adult lateral horn PV5h6 neuron	0	1
+FBbt_00051733	adult lateral horn AV6a6 neuron	0	2
+FBbt_00100253	alpha\'/beta\' middle Kenyon cell	0	1
+FBbt_00051565	adult lateral horn PV4b5 neuron	0	1
 FBbt_00051592	adult lateral horn PV5j1 neuron	0	2
 FBbt_00051776	adult lateral horn PV10b1 neuron	0	1
 FBbt_00051627	adult lateral horn AD3d2 neuron	0	1
@@ -259,6 +262,7 @@ FBbt_00007439	adult antennal lobe projection neuron lPN	0	1
 FBbt_00051828	adult lateral horn PV6j1 neuron	0	1
 FBbt_00051712	adult lateral horn AV3k1 neuron	0	1
 FBbt_00111230	larval Basin-4 neuron	0	4
+FBbt_00051764	adult lateral horn PD2d2 neuron	0	1
 FBbt_00111244	larval A08d neuron	0	2
 FBbt_00051622	adult lateral horn AD3a6 neuron	0	1
 FBbt_00051830	adult lateral horn PV6l1 neuron	0	1
@@ -270,12 +274,10 @@ FBbt_00051820	adult lateral horn PV6f6 neuron	0	2
 FBbt_00051840	adult lateral horn PV8d1 neuron	0	1
 FBbt_00051543	adult lateral horn AV4g3 neuron	0	1
 FBbt_00051729	adult lateral horn AV5b2 neuron	0	2
-FBbt_00051733	adult lateral horn AV6a6 neuron	0	2
-FBbt_00051565	adult lateral horn PV4b5 neuron	0	1
+FBbt_00051770	adult lateral horn PD5b1 neuron	0	1
 FBbt_00051648	adult lateral horn AV2e4 neuron	0	2
-FBbt_00051588	adult lateral horn PV5h6 neuron	0	1
 FBbt_00051721	adult lateral horn AV3l1 neuron	0	1
-FBbt_00051764	adult lateral horn PD2d2 neuron	0	1
+FBbt_00051615	adult lateral horn AD2e2 neuron	0	1
 FBbt_00051715	adult lateral horn AV3k4 neuron	0	1
 FBbt_00051754	adult lateral horn PD1b1 neuron	0	1
 FBbt_00051709	adult lateral horn AV3h1 neuron	0	1
@@ -283,9 +285,10 @@ FBbt_00051688	adult lateral horn AV3b10 neuron	0	2
 FBbt_00051780	adult lateral horn PV1d1 neuron	0	1
 FBbt_00051777	adult lateral horn PV10d1 neuron	0	2
 FBbt_00051772	adult lateral horn PD5d1 neuron	0	2
+FBbt_00100385	adult antennal lobe projection neuron VM5d adPN	0	1
 FBbt_00051517	adult lateral horn PV5d2 neuron	0	1
 FBbt_00111262	larval T08x neuron	0	2
-FBbt_00111252	larval A08m neuron	0	4
+FBbt_00051773	adult lateral horn PD5e1 neuron	0	2
 FBbt_00051630	adult lateral horn AD3d5 neuron	0	1
 FBbt_00051796	adult lateral horn PV2h1 neuron	0	1
 FBbt_00047517	descending neuron of the posterior brain	0	1
@@ -296,12 +299,12 @@ FBbt_00051799	adult lateral horn PV3a1 neuron	0	2
 FBbt_00051748	adult lateral horn AV7a7 neuron	0	2
 FBbt_00051562	adult lateral horn AD1h1 neuron	0	1
 FBbt_00051510	adult lateral horn PD3b3 neuron	0	2
+FBbt_00049733	adult antennal lobe projection neuron VP3+ l2PN 2	0	1
 FBbt_00051558	adult lateral horn AD1f2 neuron	0	1
-FBbt_00051615	adult lateral horn AD2e2 neuron	0	1
-FBbt_00051773	adult lateral horn PD5e1 neuron	0	2
-FBbt_00051798	adult lateral horn PV2i2 neuron	0	2
-FBbt_00051767	adult lateral horn PD4b1 neuron	0	4
-FBbt_00051732	adult lateral horn AV6a5 neuron	0	3
+FBbt_00051803	adult lateral horn PV6a10 neuron	0	1
+FBbt_00051524	adult lateral horn AV4a7 neuron	0	4
+FBbt_00111252	larval A08m neuron	0	4
+FBbt_00051556	adult lateral horn AD1b3 neuron	0	3
 FBbt_00051737	adult lateral horn AV6d1 neuron	0	3
 FBbt_00051699	adult lateral horn AV3b9 neuron	0	2
 FBbt_00049917	adult antennal lobe projection neuron DA2++ ilPN	0	2
@@ -313,10 +316,11 @@ FBbt_00111253	larval A10a neuron	0	2
 FBbt_00051758	adult lateral horn PD2c2 neuron	0	4
 FBbt_00051756	adult lateral horn PD2a8 neuron	0	3
 FBbt_00051507	adult lateral horn centrifugal neuron 13	0	7
-FBbt_00051556	adult lateral horn AD1b3 neuron	0	3
 FBbt_00051563	adult lateral horn AD1i1 neuron	0	3
+FBbt_00111228	larval Basin-3 neuron	0	4
 FBbt_00051734	adult lateral horn AV6a7 neuron	0	4
 FBbt_00051687	adult lateral horn AV3b1 neuron	0	3
+FBbt_00111061	gamma main Kenyon cell	0	5
 FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
 FBbt_00051658	adult lateral horn AV2g5 neuron	0	1
 FBbt_00051675	adult lateral horn AV2k5 neuron	0	3
@@ -326,8 +330,8 @@ FBbt_00047953	mushroom body output neuron	0	26
 FBbt_00051759	adult lateral horn PD2c3 neuron	0	4
 FBbt_00111256	larval A12m neuron	0	2
 FBbt_00051728	adult lateral horn AV5a7 neuron	0	9
+FBbt_00051732	adult lateral horn AV6a5 neuron	0	3
 FBbt_00051604	adult wedge projection neuron 16	0	9
-FBbt_00111691	larval antennal lobe choosy local neuron	0	4
 FBbt_00048516	wedge projection neuron	0	26
 FBbt_00051548	adult lateral horn AV4g8 neuron	0	4
 FBbt_00051662	adult lateral horn AV2i2 neuron	0	3
@@ -353,8 +357,8 @@ FBbt_00050144	adult DM6 lineage neuron	0	1
 FBbt_00051569	adult lateral horn PV4d5 neuron	0	2
 FBbt_00110016	adult olfactory receptor neuron Ir75b	0	17
 FBbt_00049659	adult hygrosensory neuron Ir68a VP5	0	10
+FBbt_00111691	larval antennal lobe choosy local neuron	0	4
 FBbt_00051753	adult lateral horn PD1a1 neuron	0	4
-FBbt_00111228	larval Basin-3 neuron	0	4
 FBbt_00007394	adult local interneuron of the lateral ALl1 neuroblast	0	95
 FBbt_00051512	adult lateral horn PV5a4 neuron	0	2
 FBbt_00007384	multiglomerular antennal lobe projection neuron	0	412
@@ -379,7 +383,7 @@ FBbt_00100247	gamma Kenyon cell	0	1057
 FBbt_00051542	adult lateral horn AV4g2 neuron	0	4
 FBbt_00003879	lobula complex columnar neuron	0	372
 FBbt_00005106	neuron	0	43673
-FBbt_00100250	alpha\'/beta\' anterior-posterior Kenyon cell	0	218
+FBbt_00100250	alpha\'/beta\' anterior-posterior Kenyon cell	0	219
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
 FBbt_00051745	adult lateral horn AV7a4 neuron	0	4
 FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	0	18
@@ -408,8 +412,9 @@ FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulu
 FBbt_00003646	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron	0	42
 FBbt_00051725	adult lateral horn AV5a4 neuron	0	5
 FBbt_00051744	adult lateral horn AV7a3 neuron	0	4
-FBbt_00051763	adult lateral horn PD2c7 neuron	0	2
-FBbt_00051611	adult lateral horn AD2c1 neuron	0	2
+FBbt_00051767	adult lateral horn PD4b1 neuron	0	4
+FBbt_00051628	adult lateral horn AD3d3 neuron	0	1
+FBbt_00051560	adult lateral horn AD1f5 neuron	0	1
 FBbt_00051793	adult lateral horn PV2f1 neuron	0	4
 FBbt_00051812	adult lateral horn PV6b1 neuron	0	7
 FBbt_00051822	adult lateral horn PV6h2 neuron	0	3
@@ -420,9 +425,9 @@ FBbt_00051766	adult lateral horn PD4a2 neuron	0	2
 FBbt_00051637	adult lateral horn AV2b3 neuron	0	3
 FBbt_00051549	adult lateral horn AV4g9 neuron	0	3
 FBbt_00051509	adult lateral horn PD3b2 neuron	0	2
-FBbt_00051628	adult lateral horn AD3d3 neuron	0	1
 FBbt_00051616	adult lateral horn AD2e3 neuron	0	1
-FBbt_00051524	adult lateral horn AV4a7 neuron	0	4
+FBbt_00051735	adult lateral horn AV6b2 neuron	0	4
+FBbt_00051798	adult lateral horn PV2i2 neuron	0	2
 FBbt_00051824	adult lateral horn PV6i1 neuron	0	5
 FBbt_00051731	adult lateral horn AV6a4 neuron	0	3
 FBbt_00051664	adult lateral horn AV2i4 neuron	0	3
@@ -433,10 +438,11 @@ FBbt_00051722	adult lateral horn AV5a10 neuron	0	2
 FBbt_00051805	adult lateral horn PV6a2 neuron	0	5
 FBbt_00051816	adult lateral horn PV6f2 neuron	0	4
 FBbt_00051771	adult lateral horn PD5c1 neuron	0	1
-FBbt_00051560	adult lateral horn AD1f5 neuron	0	1
+FBbt_00051611	adult lateral horn AD2c1 neuron	0	2
 FBbt_00051566	adult lateral horn PV4b6 neuron	0	1
-FBbt_00051529	adult lateral horn AV4e1 neuron	0	3
 FBbt_00051539	adult lateral horn AV4g16 neuron	0	2
+FBbt_00051526	adult lateral horn AV4d2 neuron	0	3
+FBbt_00051763	adult lateral horn PD2c7 neuron	0	2
 FBbt_00051624	adult lateral horn AD3a9 neuron	0	2
 FBbt_00051527	adult lateral horn AV4d4 neuron	0	2
 FBbt_00051834	adult lateral horn PV6q1 neuron	0	2
@@ -459,10 +465,9 @@ FBbt_00051602	adult lateral horn AV1d2 neuron	0	5
 FBbt_00051535	adult lateral horn AV4g12 neuron	0	2
 FBbt_00051551	adult lateral horn AV4i2 neuron	0	1
 FBbt_00051635	adult lateral horn AV2b10 neuron	0	4
-FBbt_00051526	adult lateral horn AV4d2 neuron	0	3
 FBbt_00051554	adult lateral horn AV4k2 neuron	0	2
+FBbt_00051529	adult lateral horn AV4e1 neuron	0	3
 FBbt_00051495	adult olfactory receptor neuron Ir75c	0	24
-FBbt_00051735	adult lateral horn AV6b2 neuron	0	4
 FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	8
 FBbt_00051631	adult lateral horn AD3f1 neuron	0	6
 FBbt_00051528	adult lateral horn AV4d5 neuron	0	4
