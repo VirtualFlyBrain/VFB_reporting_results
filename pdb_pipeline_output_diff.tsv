@@ -9,6 +9,7 @@ BrainName_Ito_half_brain	pdb	BrainName neuropils and tracts - Ito half-brain	CC-
 BrainName_Ito_half_brain	pipeline_output	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	392	0
 Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	25	1
 Chiang2010	pipeline_output	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	24	1
+CostaJefferis_v3	pdb	NBLAST clustering of FlyCircuit 1.0 neurons (Costa2016)	CC-BY-SA_4.0	FBrf0232991	1061	0	0
 Dolan2018	pdb	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	21
 Dolan2018	pipeline_output	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	28
 Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	122	306
