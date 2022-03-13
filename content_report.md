@@ -1,51 +1,51 @@
 
-VFB Content Report 2022-03-12
+VFB Content Report 2022-03-13
 =============================
 
 
-Report of content found at ``http://pdb.v4.virtualflybrain.org`` on ``Sat, 12 Mar 2022 00:12:21``  
+Report of content found at ``http://pdb.v4.virtualflybrain.org`` on ``Sun, 13 Mar 2022 17:47:39``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|17815|1389|
-|All Nervous System Parts|12592|968|
-|All Neurons|9182|699|
-|Characterised Neurons|5317|699|
-|Provisional Neurons|3865|6|
-|All Nervous System Regions|1372|237|
-|Synaptic Neuropils|610|131|
-|Neuron Projection Bundles|557|120|
-|Cell Body Rinds|111|7|
-|Sense Organs|858|134|
+|All Terms|18531|1480|
+|All Nervous System Parts|13133|1013|
+|All Neurons|9722|742|
+|Characterised Neurons|5858|742|
+|Provisional Neurons|3864|8|
+|All Nervous System Regions|1375|240|
+|Synaptic Neuropils|604|133|
+|Neuron Projection Bundles|558|123|
+|Cell Body Rinds|132|8|
+|Sense Organs|831|147|
   
   
-**51044** formal assertions, of which **23261** are SubClassOf assertions and **27783** are other relationship types  
+**55983** formal assertions, of which **26185** are SubClassOf assertions and **29798** are other relationship types  
   
-**40927** formal assertions on nervous system components, of which **17682** are SubClassOf assertions and **23245** are
+**45423** formal assertions on nervous system components, of which **20400** are SubClassOf assertions and **25023** are
  other relationship types  
   
 ***``Image Content``***  
   
-**117589** total images from **89** datasets  
-**67838** single neuron images of **5414** cell types  
-**47900** images of expression patterns of **17101** drivers  
-**4638** images of expression patterns of **620** split combinations  
+**142543** total images from **98** datasets  
+**69891** single neuron images of **5834** cell types  
+**48059** images of expression patterns of **17150** drivers  
+**0** images of expression patterns of **0** split combinations  
   
 ***``Annotations``***  
   
-**2104** annotations recording **516** types of neurons that **1010** specific split combinations are expressed in.  
-**111870** annotations recording **3793** types of anatomical structures that **16699** specific driver lines are 
+**2180** annotations recording **543** types of neurons that **1061** specific split combinations are expressed in.  
+**112682** annotations recording **3792** types of anatomical structures that **17311** specific driver lines are 
 expressed in.  
-**12185** annotations recording **1685** types of neurons that **4045** specific driver lines are expressed in.  
+**13502** annotations recording **1700** types of neurons that **4655** specific driver lines are expressed in.  
   
 ***``Connectivity``***  
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|28260|Any neuron (individuals)|28260|3459171|
+|Any neuron (individuals)|28455|Any neuron (individuals)|28455|3461962|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
-|Any neuron (classes)|292|Muscle (classes)|272|458|
-|Any neuron (classes)|669|Sense organ (classes)|364|509|
+|Any neuron (classes)|304|Muscle (classes)|282|468|
+|Any neuron (classes)|0|Sense organ (classes)|0|0|
   
