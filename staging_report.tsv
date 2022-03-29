@@ -16,7 +16,7 @@ Court2020	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	doi_10_1101_122952	21	0	0
 Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5387	0	0
 Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1101_198648	18016	0	0
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	28
-Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	276	322	451
+Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	451
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	27
 Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	146	0
 Eschbach2020b	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	0	0
@@ -33,16 +33,16 @@ FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0
 FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	180
 FlyLightGen1Set2019	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	15887	3	0
 Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	60	9
-Gen1MCFODionne2018	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY-SA_4.0	FBrf0236874	151	0	0
-Gen1MCFOJenett2012	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY-SA_4.0	FBrf0219813	9947	3	0
-Gen1MCFOPfeiffer2010	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	CC-BY-SA_4.0	FBrf0212052	4	0	0
-Gen1MCFOTirian2017	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY-SA_4.0	FBrf0236875	13348	0	0
+Gen1MCFODionne2018	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY-SA_4.0	FBrf0236874	155	0	0
+Gen1MCFOJenett2012	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY-SA_4.0	FBrf0219813	19866	3	0
+Gen1MCFOPfeiffer2010	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	CC-BY-SA_4.0	FBrf0212052	10	0	0
+Gen1MCFOTirian2017	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY-SA_4.0	FBrf0236875	28460	0	0
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	CC-BY-SA_4.0	FBrf0237057	55	30	0
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	6	10	109
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	CC-BY-SA_4.0	FBrf0236775	1	2	87
 HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	CC-BY_4.0	FBrf0247223	147	30	0
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	52	10
-Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	doi_10_1101_2020_10_22_350306	313	0	0
+Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	15	0
 Ito2013	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	440	0
 JRC2018	JRC 2018 templates & ROIs	CC-BY-NC-SA_4.0	doi_10_1101_376384	48	0	0
 Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	CC-BY-NC-SA_4.0	FBrf0219813	3469	3	0
@@ -72,13 +72,13 @@ Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	5	0
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	CC-BY-SA_4.0	FBrf0234450	193	8	6
 SplitDavis2017	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	1	3
-SplitDavis2020	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	97	25	160
+SplitDavis2020	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	160
 SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	12
-SplitSchretter2020	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	14	0	0
+SplitSchretter2020	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	26	0	0
 SplitTurner_Evans2017	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	1	3
 SplitTurner_Evans2020	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY-SA_4.0	FBrf0246945	8	23	0
-SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	CC-BY-SA_4.0	FBrf0245074	49	12	0
-SplitWang2020b	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	2	3	0
+SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	CC-BY-SA_4.0	FBrf0245074	62	12	0
+SplitWang2020b	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	4	3	0
 Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	24
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	11	6
 Tastekin2018	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	9	9
