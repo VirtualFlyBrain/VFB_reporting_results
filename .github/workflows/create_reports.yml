@@ -64,6 +64,12 @@ jobs:
           cd VFB_reporting/src
           python ./VFB_content_report_generator.py
           
+      - name: Run ID mapping tables
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
+          cd VFB_reporting/src
+          python ./ID_mapping_tables.py
+          
       - name: Run individual classification report 
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
