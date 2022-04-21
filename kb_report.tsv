@@ -53,8 +53,8 @@ JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shino
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	True	FBrf0233796	CC-BY-SA_4.0	44
 Jovanic2019	EM L1 Jovanic et al. 2019	True	FBrf0241547	CC-BY-SA_4.0	37
 Kim2020	EM FAFB Kim et al 2020	True	doi_10_1002_cne_24877	CC-BY-SA_4.0	95
-Kind2021	EM FAFB Kind et al. 2021		FBrf0252485	CC-BY_4.0	0
-Kind2021	EM FAFB Kind et al. 2021		FBrf0252485	CC-BY-SA_4.0	0
+Kind2021	EM FAFB Kind et al. 2021	True	FBrf0252485	CC-BY_4.0	286
+Kind2021	EM FAFB Kind et al. 2021	True	FBrf0252485	CC-BY-SA_4.0	286
 Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	True	FBrf0237184	CC-BY-SA_4.0	17
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	True	FBrf0211243	CC-BY-SA_4.0	504
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	True	FBrf0223724	CC-BY-SA_4.0	111
