@@ -11,8 +11,8 @@ Gen1MCFOTirian2017	pdb	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-
 Gen1MCFOTirian2017	pipeline_output	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY-SA_4.0	FBrf0236875	28460	0	0
 Hueckesfeld2020	pdb	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	doi_10_1101_2020_10_22_350306	313	0	0
 Hueckesfeld2020	pipeline_output	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	15	0
-Kind2021	pipeline_output	EM FAFB Kind et al. 2021	CC-BY-SA_4.0	FBrf0252485	0	43	0
 Kind2021	pipeline_output	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	0	43	0
+Kind2021	pipeline_output	EM FAFB Kind et al. 2021	CC-BY-SA_4.0	FBrf0252485	0	43	0
 SplitDavis2020	pdb	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	97	25	160
 SplitDavis2020	pipeline_output	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	160
 SplitSchretter2020	pdb	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	14	0	0
