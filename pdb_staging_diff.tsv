@@ -1,42 +1,32 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
 Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	129	312
-Aso2014	staging	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	129	284
+Aso2014	staging	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	129	434
 AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	24	0	38
-AsoRubin2016	staging	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	24	0	37
+AsoRubin2016	staging	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	24	0	45
 Berck2016	pdb	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	90	3
-Berck2016	staging	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	90	1
-Burgos2018	pdb	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	41	24
-Burgos2018	staging	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	41	7
-Cachero2010	pdb	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	120
-Cachero2010	staging	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	0
+Berck2016	staging	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	90	6
 Dolan2018	pdb	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	28
-Dolan2018	staging	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	23
+Dolan2018	staging	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	33
 Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	276	322	451
-Dolan2019	staging	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	300
+Dolan2019	staging	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	606
 Eichler2017	pdb	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	27
-Eichler2017	staging	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	25
+Eichler2017	staging	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	29
 FafbDolan2019	pdb	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	451
-FafbDolan2019	staging	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	300
-Felsenberg2018	pdb	EM FAFB Felsenberg et al. 2018	CC-BY-SA_4.0	FBrf0240371	3	1	2
-Felsenberg2018	staging	EM FAFB Felsenberg et al. 2018	CC-BY-SA_4.0	FBrf0240371	3	1	0
+FafbDolan2019	staging	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	606
 FlyLight2019AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	4	0	38
-FlyLight2019AsoRubin2016	staging	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	4	0	37
+FlyLight2019AsoRubin2016	staging	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4.0	FBrf0233230	4	0	45
 FlyLight2019Hampel2015	pdb	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	2	10	109
-FlyLight2019Hampel2015	staging	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	2	10	42
+FlyLight2019Hampel2015	staging	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	2	10	152
 FlyLight2019Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	8	4	12
-FlyLight2019Klapoetke2017	staging	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	8	4	3
+FlyLight2019Klapoetke2017	staging	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	8	4	17
 FlyLight2019LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	322	451
-FlyLight2019LateralHorn2019	staging	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	322	300
+FlyLight2019LateralHorn2019	staging	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	322	606
 FlyLight2019Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	247	134	301
-FlyLight2019Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	247	134	293
-FlyLight2019Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY-SA_4.0	FBrf0235230	63	0	24
-FlyLight2019Strother2017	staging	Splits targetting the visual motion pathway, Strother2017	CC-BY-SA_4.0	FBrf0235230	63	0	22
+FlyLight2019Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	247	134	329
 FlyLight2019Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	52	205
-FlyLight2019Wolff2018	staging	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	52	195
+FlyLight2019Wolff2018	staging	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	52	216
 FlyLight2019Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	180
-FlyLight2019Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	172
-Fushiki2016	pdb	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	60	9
-Fushiki2016	staging	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	60	3
+FlyLight2019Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	87	39	193
 Gen1MCFODionne2018	pdb	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY-SA_4.0	FBrf0236874	151	0	0
 Gen1MCFODionne2018	staging	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY-SA_4.0	FBrf0236874	155	0	0
 Gen1MCFOJenett2012	pdb	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY-SA_4.0	FBrf0219813	9947	3	0
@@ -46,53 +36,47 @@ Gen1MCFOPfeiffer2010	staging	MCFO images of GMR-GAL4 lines from Pfeiffer et al.,
 Gen1MCFOTirian2017	pdb	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY-SA_4.0	FBrf0236875	13348	0	0
 Gen1MCFOTirian2017	staging	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY-SA_4.0	FBrf0236875	28460	0	0
 Hampel2015	pdb	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	6	10	109
-Hampel2015	staging	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	6	10	42
+Hampel2015	staging	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	6	10	152
 Hampel2017	pdb	LexA driver targetting mechanosensory eye bristles (Hampel2017)	CC-BY-SA_4.0	FBrf0236775	1	2	87
-Hampel2017	staging	LexA driver targetting mechanosensory eye bristles (Hampel2017)	CC-BY-SA_4.0	FBrf0236775	1	2	67
+Hampel2017	staging	LexA driver targetting mechanosensory eye bristles (Hampel2017)	CC-BY-SA_4.0	FBrf0236775	1	2	106
 Heckscher2015	pdb	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	52	10
-Heckscher2015	staging	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	52	2
+Heckscher2015	staging	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	52	15
 Hueckesfeld2020	pdb	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	doi_10_1101_2020_10_22_350306	313	0	0
 Hueckesfeld2020	staging	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	15	0
 Jovanic2016	pdb	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	83	10
-Jovanic2016	staging	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	83	3
+Jovanic2016	staging	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	83	17
 Jovanic2019	pdb	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	12	12
-Jovanic2019	staging	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	12	0
+Jovanic2019	staging	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	12	24
 Kind2021	staging	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	0	43	0
 Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	12
-Klapoetke2017	staging	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	3
+Klapoetke2017	staging	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	17
 Larderet2017	pdb	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	36	10
-Larderet2017	staging	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	36	5
+Larderet2017	staging	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	36	17
 LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	451
-LateralHorn2019	staging	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	300
-Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
-Matsuo2016	staging	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	29
+LateralHorn2019	staging	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	606
 McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	327
-McKellar2020	staging	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	322
+McKellar2020	staging	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	328
 Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	134	301
-Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	134	293
+Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	134	329
 Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	124	22
-Ohyama2015	staging	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	124	17
-Schlegel2016	pdb	larval hugin neurons - EM (Schlegel2016)	CC-BY-SA_4.0	FBrf0234450	193	8	6
-Schlegel2016	staging	larval hugin neurons - EM (Schlegel2016)	CC-BY-SA_4.0	FBrf0234450	193	8	4
+Ohyama2015	staging	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	124	23
 SplitDavis2020	pdb	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	97	25	160
-SplitDavis2020	staging	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	130
+SplitDavis2020	staging	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	181
 SplitSchretter2020	pdb	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	14	0	0
 SplitSchretter2020	staging	Split-GAL4 lines from Schretter et al., 2020	CC-BY-SA_4.0	FBrf0247707	26	0	0
 SplitWang2020a	pdb	Split-GAL4 lines from Wang et al., 2020a	CC-BY-SA_4.0	FBrf0245074	49	12	0
 SplitWang2020a	staging	Split-GAL4 lines from Wang et al., 2020a	CC-BY-SA_4.0	FBrf0245074	62	12	0
 SplitWang2020b	pdb	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	2	3	0
 SplitWang2020b	staging	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	4	3	0
-Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	24
-Strother2017	staging	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	22
 Takagi2017	pdb	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	11	6
-Takagi2017	staging	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	11	3
+Takagi2017	staging	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	11	8
 Tastekin2018	pdb	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	9	9
-Tastekin2018	staging	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	9	2
+Tastekin2018	staging	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	9	15
 Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	52	205
-Wolff2018	staging	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	52	195
+Wolff2018	staging	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	52	216
 Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	180
-Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	172
+Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	39	193
 Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	26	1001
-Xie2018	staging	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	26	903
+Xie2018	staging	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	26	1111
 Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	140	13
-Zwart2016	staging	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	140	3
+Zwart2016	staging	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	140	19
