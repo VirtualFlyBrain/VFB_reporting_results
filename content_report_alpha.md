@@ -1,9 +1,9 @@
 
-VFB Content Report 2022-05-31
+VFB Content Report 2022-06-01
 =============================
 
 
-Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Tue, 31 May 2022 00:12:31``  
+Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Wed, 01 Jun 2022 00:12:16``  
   
 ***``Ontology Content``***  
 
@@ -23,8 +23,7 @@ Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Tue, 31
   
 **98551** formal assertions, of which **26408** are SubClassOf assertions and **72143** are other relationship types  
   
-**88612** formal assertions on nervous system components, of which **20624** are SubClassOf assertions and **67988** are
- other relationship types  
+**88612** formal assertions on nervous system components, of which **20624** are SubClassOf assertions and **67988** are other relationship types  
   
 ***``Image Content``***  
   
@@ -36,8 +35,7 @@ Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Tue, 31
 ***``Annotations``***  
   
 **4471** annotations recording **545** types of neurons that **1199** specific split combinations are expressed in.  
-**113851** annotations recording **3792** types of anatomical structures that **16898** specific driver lines are 
-expressed in.  
+**113851** annotations recording **3792** types of anatomical structures that **16898** specific driver lines are expressed in.  
 **15522** annotations recording **1701** types of neurons that **4402** specific driver lines are expressed in.  
   
 ***``Connectivity``***  
