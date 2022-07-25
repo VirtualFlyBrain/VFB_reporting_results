@@ -29,7 +29,6 @@ jobs:
           python -m pip install -r VFB_neo4j/requirements.txt
           
       - name: Run query tools test
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
@@ -42,7 +41,6 @@ jobs:
           python ./report_runner.py
   
       - name: Run comparison
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
