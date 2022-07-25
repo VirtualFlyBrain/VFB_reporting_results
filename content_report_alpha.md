@@ -1,9 +1,9 @@
 
-VFB Content Report 2022-07-08
+VFB Content Report 2022-07-25
 =============================
 
 
-Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Fri, 08 Jul 2022 00:13:11``  
+Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Mon, 25 Jul 2022 15:49:47``  
   
 ***``Ontology Content``***  
 
@@ -46,4 +46,20 @@ Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Fri, 08
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|313|Muscle (classes)|248|294|
 |Any neuron (classes)|740|Sense organ (classes)|391|483|
+  
+  
+  
+***``Content by Template``***  
+
+|Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|Adult Head (McKellar2020)|1|18|0|0|0|0|0|0|
+|adult VNS template - Court2018|10|3217|1|0|3193|494|0|22|
+|JRC_FlyEM_Hemibrain|3|43943|43830|43829|0|0|0|114|
+|JRC2018Unisex|62|119025|64362|47583|31655|1632|38796|46|
+|L1 larval CNS ssTEM - Cardona/Janelia|22|3463|3463|3463|0|0|0|0|
+|JRC2018UnisexVNC|21|20604|2030|2029|8314|625|10240|21|
+|adult brain template Ito2014|1|75|1|0|0|0|0|75|
+|L3 CNS template - Wood2018|2|257|2|0|0|0|2|255|
+|adult brain template JFRC2|21|41940|16299|0|25272|600|16127|58|
   
