@@ -47,35 +47,30 @@ jobs:
           python ./comparison.py
 
       - name: Run get catmaid cellTypes
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./get_catmaid_cellTypes.py
           
       - name: Run get catmaid papers
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./get_catmaid_papers.py
           
       - name: Run VFB content report generator
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./VFB_content_report_generator.py
           
       - name: Run ID mapping tables
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./ID_mapping_tables.py
           
       - name: Run individual classification report 
-        continue-on-error: true
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
