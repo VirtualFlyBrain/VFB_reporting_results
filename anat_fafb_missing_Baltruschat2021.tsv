@@ -1,0 +1,17 @@
+filename	label	is_a	part_of	comment	dbxrefs	synonyms
+		neuron	female organism|adult brain	KC#174-abs, FBbt:00110930	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#287-ym, FBbt:00111061	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#379-ym, FBbt:00111061	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#555-ym, FBbt:00111061	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#556-ym, FBbt:00111061	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#380-abs, FBbt:00110930	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#559-ym, FBbt:00111061	catmaid_fafb:nan	
+		neuron	female organism|adult brain	KC#585-abs, FBbt:00110930	catmaid_fafb:nan	
+13686	KC#174-abs (FAFB:13686)		female organism|adult brain			KCaBs 13687 AJ
+205686	KC#287-ym (FAFB:205686)		female organism|adult brain			KCy 205687 ARH-NS
+531058	KC#379-ym (FAFB:531058)		female organism|adult brain			KCy 531059 PR
+534594	KC#555-ym (FAFB:534594)		female organism|adult brain			KCyd 534595 PR
+535010	KC#556-ym (FAFB:535010)		female organism|adult brain			KCy 535011 PR
+538159	KC#380-abs (FAFB:538159)		female organism|adult brain			KCaBs 538160 PR
+591301	KC#559-ym (FAFB:591301)		female organism|adult brain			KCy 591302 PR
+2764976	KC#585-abs (FAFB:2764976)		female organism|adult brain			KCaBs 535044 PR

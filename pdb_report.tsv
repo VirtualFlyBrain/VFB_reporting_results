@@ -5,7 +5,7 @@ AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY-SA_4
 Baltruschat2021	EM FAFB Baltruschat et al 2021	CC-BY-SA_4.0	FBrf0248487	8	0	0
 BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	454	0	0
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	90	6
-BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	392	0
+BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	393	0
 Burgos2018	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	41	24
 Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	120
 CarreiraRosario2018	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY-SA_4.0	FBrf0239825	31	16	0
@@ -18,7 +18,7 @@ Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	33
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	606
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	29
-Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	146	0
+Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	147	0
 Eschbach2020b	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	0	0
 FafbDolan2019	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	606
 Felsenberg2018	EM FAFB Felsenberg et al. 2018	CC-BY-SA_4.0	FBrf0240371	3	1	2
@@ -43,31 +43,31 @@ Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	CC-BY
 HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	CC-BY_4.0	FBrf0247223	147	30	0
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	52	15
 Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	15	0
-Ito2013	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	440	0
+Ito2013	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	446	0
 JRC2018	JRC 2018 templates & ROIs	CC-BY-NC-SA_4.0	doi_10_1101_376384	48	0	0
 Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	CC-BY-NC-SA_4.0	FBrf0219813	3469	3	0
-JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	392	0
+JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	393	0
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	83	17
 Jovanic2019	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	12	24
 Kim2020	EM FAFB Kim et al 2020	CC-BY-SA_4.0	doi_10_1002_cne_24877	95	0	0
 Kind2021	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	0	43	0
 Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	17
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	504	0	0
-Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	9	0
+Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	10	0
 Larderet2017	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	36	17
 LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	322	606
 Lee_Lineage2020	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0
 Lillvis2018	Neurons involved in courtship and song (Lillvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0
-Maniates_Selvin2020	EM FANC Maniates-Selvin et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_01_10_902478	2029	0	0
+Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	18	0
 Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	0	0
 Mark2019	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0
 Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
-McKellar2020	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	56	328
-Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	39	0
+McKellar2020	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	74	328
+Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	41	0
 Morimoto2020	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	14	0
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	134	329
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	5	6
-Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	124	23
+Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	121	23
 Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	8	0
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	80	2	128
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	5	0
@@ -97,8 +97,8 @@ Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	21242	0	0
 Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	0	0
 Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	219	0	0
-Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	97	457	0
+Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	97	463	0
 Zarin2019	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0
 Zheng2018	EM FAFB Zheng et al 2018	CC-BY-SA_4.0	FBrf0239557	145	1	0
 Zheng2020	EM FAFB Zheng et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_04_17_047167	1492	0	0
-Zwart2016	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	140	19
+Zwart2016	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	145	19

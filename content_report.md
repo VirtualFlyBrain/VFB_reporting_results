@@ -1,29 +1,29 @@
 
-VFB Content Report 2022-07-27
+VFB Content Report 2022-08-23
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 27 Jul 2022 00:10:05``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 23 Aug 2022 15:17:42``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|18578|1485|
-|All Nervous System Parts|13171|1016|
-|All Neurons|9741|745|
-|Characterised Neurons|5877|745|
+|All Terms|19538|1516|
+|All Nervous System Parts|13340|1050|
+|All Neurons|9809|771|
+|Characterised Neurons|5945|771|
 |Provisional Neurons|3864|8|
-|All Nervous System Regions|1382|241|
-|Synaptic Neuropils|608|134|
-|Neuron Projection Bundles|559|123|
+|All Nervous System Regions|1408|245|
+|Synaptic Neuropils|610|136|
+|Neuron Projection Bundles|583|125|
 |Cell Body Rinds|132|8|
-|Sense Organs|845|148|
+|Sense Organs|845|150|
   
   
-**98551** formal assertions, of which **26408** are SubClassOf assertions and **72143** are other relationship types  
+**101224** formal assertions, of which **28194** are SubClassOf assertions and **73030** are other relationship types  
   
-**88612** formal assertions on nervous system components, of which **20624** are SubClassOf assertions and **67988** are other relationship types  
+**88990** formal assertions on nervous system components, of which **21056** are SubClassOf assertions and **67934** are other relationship types  
   
 ***``Image Content``***  
   
@@ -34,9 +34,9 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 27 Jul 2
   
 ***``Annotations``***  
   
-**4471** annotations recording **545** types of neurons that **1199** specific split combinations are expressed in.  
-**113771** annotations recording **3792** types of anatomical structures that **16888** specific driver lines are expressed in.  
-**15522** annotations recording **1701** types of neurons that **4402** specific driver lines are expressed in.  
+**5798** annotations recording **686** types of neurons that **1490** specific split combinations are expressed in.  
+**115215** annotations recording **3937** types of anatomical structures that **17200** specific driver lines are expressed in.  
+**16900** annotations recording **1835** types of neurons that **4726** specific driver lines are expressed in.  
   
 ***``Connectivity``***  
 
@@ -44,8 +44,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 27 Jul 2
 | :--- | :--- | :--- | :--- | :--- |
 |Any neuron (individuals)|28454|Any neuron (individuals)|28454|3461878|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
-|Any neuron (classes)|308|Muscle (classes)|282|465|
-|Any neuron (classes)|738|Sense organ (classes)|390|481|
+|Any neuron (classes)|309|Muscle (classes)|248|294|
+|Any neuron (classes)|748|Sense organ (classes)|395|487|
   
   
   
