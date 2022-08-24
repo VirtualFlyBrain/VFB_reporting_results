@@ -1,16 +1,16 @@
 filename	label	is_a	part_of	comment	dbxrefs	synonyms
-		neuron	female organism|adult brain	KC#32-y, FBbt:00111061	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCgR#1, FBbt:00111061	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCa'b'-ap1_R#10, FBbt:00100250	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCgR#10, FBbt:00111061	catmaid_fafb:nan	
-		neuron	female organism|adult brain	tKCa'b'-ap1_R#1, FBbt:00100250	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCa'b'-ap1_R#4, FBbt:00100250	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCa'b'-ap1_R#3, FBbt:00100250	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCgR#9, FBbt:00111061	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCa'b'-ap1_R#1, FBbt:00100250	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCgR#4, FBbt:00111061	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCgR#7, FBbt:00111061	catmaid_fafb:nan	
-		neuron	female organism|adult brain	KCgR#8, FBbt:00111061	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KC#32-y, FBbt:00111061	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KCgR#1, FBbt:00111061	catmaid_fafb:nan	
+		neuron|alpha'/beta' anterior-posterior Kenyon cell	female organism|adult brain	KCa'b'-ap1_R#10, FBbt:00100250	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KCgR#10, FBbt:00111061	catmaid_fafb:nan	
+		neuron|alpha'/beta' anterior-posterior Kenyon cell	female organism|adult brain	tKCa'b'-ap1_R#1, FBbt:00100250	catmaid_fafb:nan	
+		neuron|alpha'/beta' anterior-posterior Kenyon cell	female organism|adult brain	KCa'b'-ap1_R#4, FBbt:00100250	catmaid_fafb:nan	
+		neuron|alpha'/beta' anterior-posterior Kenyon cell	female organism|adult brain	KCa'b'-ap1_R#3, FBbt:00100250	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KCgR#9, FBbt:00111061	catmaid_fafb:nan	
+		neuron|alpha'/beta' anterior-posterior Kenyon cell	female organism|adult brain	KCa'b'-ap1_R#1, FBbt:00100250	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KCgR#4, FBbt:00111061	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KCgR#7, FBbt:00111061	catmaid_fafb:nan	
+		neuron|gamma main Kenyon cell	female organism|adult brain	KCgR#8, FBbt:00111061	catmaid_fafb:nan	
 8142	KC#32-y (FAFB:8142)		female organism|adult brain			KCy 8143 NM
 9210	KCgR#1 (FAFB:9210)		female organism|adult brain			KCy 9211 SAC
 16274	KCa'b'-ap1_R#10 (FAFB:16274)		female organism|adult brain			LAC KCa'B'-ap1 16275 IJA IS
