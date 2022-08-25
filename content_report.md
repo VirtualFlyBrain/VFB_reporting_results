@@ -3,7 +3,7 @@ VFB Content Report 2022-08-25
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 25 Aug 2022 07:08:21``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 25 Aug 2022 11:13:55``  
   
 ***``Ontology Content``***  
 
