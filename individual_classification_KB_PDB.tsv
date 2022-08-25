@@ -17,8 +17,8 @@ FBbt_00049825	adult Kenyon cell	45	0
 FBbt_00050275	adult DALcm1 lineage neuron	42	0
 FBbt_00050197	adult ALv1 lineage neuron	38	0
 FBbt_00100388	adult antennal lobe projection neuron DL2v adPN	37	0
-FBbt_00050129	adult DALcl1 lineage neuron	37	0
 FBbt_00050135	adult VLPa2 lineage neuron	37	0
+FBbt_00050129	adult DALcl1 lineage neuron	37	0
 FBbt_00050064	adult DALcl2 lineage neuron	36	0
 FBbt_00049466	adult CREa1 lineage neuron	34	0
 FBbt_00100369	adult multiglomerular antennal lobe projection neuron adPN	34	11
@@ -28,20 +28,20 @@ FBbt_00050224	adult DALcm2 lineage neuron	25	0
 FBbt_00100385	adult antennal lobe projection neuron VM5d adPN	20	0
 FBbt_00067361	adult antennal lobe projection neuron VA1v adPN	20	0
 FBbt_00050088	adult BAlv lineage neuron	19	0
-FBbt_00067353	adult antennal lobe projection neuron DL1 adPN	17	0
 FBbt_00067358	adult antennal lobe projection neuron VM7 adPN	17	0
-FBbt_00050111	adult BAmv2 lineage neuron	16	0
-FBbt_00048096	adult antennal lobe projection neuron DA1	16	0
+FBbt_00067353	adult antennal lobe projection neuron DL1 adPN	17	0
 FBbt_00050189	adult BAmas1 lineage neuron	16	0
+FBbt_00050111	adult BAmv2 lineage neuron	16	0
 FBbt_00050242	adult DALd lineage neuron	16	0
+FBbt_00048096	adult antennal lobe projection neuron DA1	16	0
 FBbt_00049465	adult SMPad1 lineage neuron	15	0
+FBbt_00100387	adult antennal lobe projection neuron VC3 adPN	13	0
 FBbt_00100386	adult antennal lobe projection neuron VM5v adPN	13	0
 FBbt_00050120	adult VESa1 lineage neuron	12	0
 FBbt_00050091	adult DPLc3 lineage neuron	11	0
-FBbt_00100387	adult antennal lobe projection neuron VC3 adPN	11	0
 FBbt_00067360	adult antennal lobe projection neuron DM6 adPN	10	0
-FBbt_00067359	adult antennal lobe projection neuron VM2 adPN	9	0
 FBbt_00058206	adult dopaminergic neuron	9	0
+FBbt_00067359	adult antennal lobe projection neuron VM2 adPN	9	0
 FBbt_00049467	adult BAmas2 lineage neuron	9	0
 FBbt_00100225	transverse antennal lobe tract projection neuron	7	0
 FBbt_00050192	adult FLAa1 lineage neuron	5	0
