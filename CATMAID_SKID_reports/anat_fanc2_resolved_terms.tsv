@@ -14,12 +14,17 @@ right T1 dorsal nerve	adult dorsal prothoracic nerve
 bCS	bilateral campaniform sensillum neuron of leg
 CoHP8	mechanosensory neuron of prothoracic coxal hair plate CoHP8
 T2 leg motor neuron PDMN bundle	adult posterior dorsal mesothoracic nerve
+FBbt:00110930	alpha/beta surface Kenyon cell
+FBbt:00111061	gamma main Kenyon cell
+FBbt:00058156	sugar-sensing neuron of labellar taste bristle
+FBbt:00100042	water-sensing neuron of labellar taste bristle
+FBbt:00048152	bitter-sensing neuron of labellar taste bristle
+FBbt:00100043	low salt-sensing neuron of labellar taste bristle
+FBbt:00110887	gustatory receptor neuron of the labellum
+FBbt:00100250	alpha'/beta' anterior-posterior Kenyon cell
 FBbt:00100247	gamma Kenyon cell
 FBbt:00100249	alpha'/beta' Kenyon cell
 FBbt:00100248	alpha/beta Kenyon cell
-FBbt:00111061	gamma main Kenyon cell
-FBbt:00110930	alpha/beta surface Kenyon cell
-FBbt:00100250	alpha'/beta' anterior-posterior Kenyon cell
 FBbt:00003686	Kenyon cell
 FBbt:00051883	adult fudog subesophageal neuron
 FBbt:00051880	adult FMIn subesophageal neuron
@@ -33,8 +38,3 @@ FBbt:00110985	adult feeding interneuron
 FBbt:00111298	proboscis muscle 9 motor neuron
 FBbt:00051861	adult bract subesophageal neuron
 FBbt:00051868	adult cleaver subesophageal neuron
-FBbt:00058156	sugar-sensing neuron of labellar taste bristle
-FBbt:00100042	water-sensing neuron of labellar taste bristle
-FBbt:00048152	bitter-sensing neuron of labellar taste bristle
-FBbt:00100043	low salt-sensing neuron of labellar taste bristle
-FBbt:00110887	gustatory receptor neuron of the labellum
