@@ -15,7 +15,7 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 		neuron|adult phantom subesophageal neuron	female organism|adult brain	Phantom#1, FBbt:00051927	catmaid_fafb:nan	
 		neuron|adult feeding interneuron	female organism|adult brain	Fdg#1, FBbt:00110985	catmaid_fafb:nan	
 		neuron|proboscis muscle 9 motor neuron	female organism|adult brain	MN9#1, FBbt:00111298	catmaid_fafb:nan	
-		neuron	female organism|adult brain	Rounddown#1	catmaid_fafb:nan	
+7574284	Zorro#L1 (FAFB:7574284)	neuron	female organism|adult brain	Rounddown#1	catmaid_fafb:7574284	Zorro L
 		neuron	female organism|adult brain	Scapula#1	catmaid_fafb:nan	
 		neuron|adult bract subesophageal neuron	female organism|adult brain	Bract#1, FBbt:00051861	catmaid_fafb:nan	
 		neuron|adult cleaver subesophageal neuron	female organism|adult brain	Cleaver#1, FBbt:00051868	catmaid_fafb:nan	
@@ -24,7 +24,6 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 		neuron	female organism|adult brain	Roundtree#1	catmaid_fafb:nan	
 		neuron|adult bract subesophageal neuron	female organism|adult brain	Bract#2, FBbt:00051861	catmaid_fafb:nan	
 		neuron	female organism|adult brain	Specter#1	catmaid_fafb:nan	
-7574284	Zorro#L1 (FAFB:7574284)		female organism|adult brain			Zorro L
 7899207	Buster#1 (FAFB:7899207)		female organism|adult brain			Buster
 7899212	Zorro#R1 (FAFB:7899212)		female organism|adult brain			Zorro R
 7929209	Fuchs#1 (FAFB:7929209)		female organism|adult brain			Fuchs
