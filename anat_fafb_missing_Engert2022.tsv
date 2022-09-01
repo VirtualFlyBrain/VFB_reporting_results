@@ -15,143 +15,131 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 7479777	GRN R5#4 (FAFB:7479777)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#4, FBbt:00058156	catmaid_fafb:7479777	Gustatory Receptor Neuron GRN 7479778 SE
 7485475	GRN R6#4 (FAFB:7485475)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#4, FBbt:00100042	catmaid_fafb:7485475	Gustatory Receptor Neuron GRN 7485476 SE
 7487871	GRN R4#7 (FAFB:7487871)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#7, FBbt:00058156	catmaid_fafb:7487871	Gustatory Receptor Neuron GRN 7487872 SE
-		neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#5, FBbt:00100042	catmaid_fafb:nan	
-7575588	GRN R6#5 (FAFB:7575588)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#8, FBbt:00058156	catmaid_fafb:7575588	Gustatory Receptor Neuron GRN 7575589 SE
-7708435	GRN R4#8 (FAFB:7708435)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#6, FBbt:00100042	catmaid_fafb:7708435	Gustatory Receptor Neuron GRN 7708436 SE
-7716995	GRN R6#6 (FAFB:7716995)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#9, FBbt:00058156	catmaid_fafb:7716995	Gustatory Receptor Neuron GRN 7716996 SE
-7723218	GRN R4#9 (FAFB:7723218)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#1, FBbt:00100043	catmaid_fafb:7723218	Gustatory Receptor Neuron GRN 7723219 SE
-7723244	GRN R3#1 (FAFB:7723244)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#7, FBbt:00100042	catmaid_fafb:7723244	Gustatory Receptor Neuron GRN 7723245 SE
-7724239	GRN R6#7 (FAFB:7724239)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#10, FBbt:00058156	catmaid_fafb:7724239	Gustatory Receptor Neuron GRN 7724240 SE
-7753061	GRN R4#10 (FAFB:7753061)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#2, FBbt:00048152	catmaid_fafb:7753061	Gustatory Receptor Neuron GRN 7753062 SE
-7757554	GRN R2#2 (FAFB:7757554)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#2, FBbt:00100043	catmaid_fafb:7757554	Gustatory Receptor Neuron GRN 7757555 SE
-7759395	GRN R3#2 (FAFB:7759395)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#5, FBbt:00058156	catmaid_fafb:7759395	Gustatory Receptor Neuron GRN 7759396 SE
-7759742	GRN R5#5 (FAFB:7759742)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#1, FBbt:00048152	catmaid_fafb:7759742	Gustatory Receptor Neuron GRN 7759743 SE
-7759923	GRN R1#1 (FAFB:7759923)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#3, FBbt:00100043	catmaid_fafb:7759923	Gustatory Receptor Neuron GRN  7759924 SE
-7773850	GRN R3#3 (FAFB:7773850)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#11, FBbt:00058156	catmaid_fafb:7773850	Gustatory Receptor Neuron GRN 7773851 SE
-7774114	GRN R4#11 (FAFB:7774114)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#6, FBbt:00058156	catmaid_fafb:7774114	Gustatory Receptor Neuron GRN 7774115 SE
-7774393	GRN R5#6 (FAFB:7774393)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#2, FBbt:00048152	catmaid_fafb:7774393	Gustatory Receptor Neuron GRN 7774394 SE
-7774674	GRN R1#2 (FAFB:7774674)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#7, FBbt:00058156	catmaid_fafb:7774674	Gustatory Receptor Neuron GRN 7774675 SE
-7789606	GRN R5#7 (FAFB:7789606)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#3, FBbt:00048152	catmaid_fafb:7789606	Gustatory Receptor Neuron GRN 7789607 SE
-7789717	GRN R1#3 (FAFB:7789717)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#4, FBbt:00100043	catmaid_fafb:7789717	Gustatory Receptor Neuron GRN 7789718 SE
-7789757	GRN R3#4 (FAFB:7789757)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#5, FBbt:00100043	catmaid_fafb:7789757	Gustatory Receptor Neuron GRN 7789758 SE
-7789762	GRN R3#5 (FAFB:7789762)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#12, FBbt:00058156	catmaid_fafb:7789762	Gustatory Receptor Neuron GRN 7789763 SE
-7793752	GRN R4#12 (FAFB:7793752)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#6, FBbt:00100043	catmaid_fafb:7793752	Gustatory Receptor Neuron GRN 7793753 SE
-7796688	GRN R3#6 (FAFB:7796688)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#7, FBbt:00100043	catmaid_fafb:7796688	Gustatory Receptor Neuron GRN 7796689 SE
-7802087	GRN R3#7 (FAFB:7802087)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#8, FBbt:00100042	catmaid_fafb:7802087	Gustatory Receptor Neuron GRN 7802088 SE
-7881737	GRN R6#8 (FAFB:7881737)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#8, FBbt:00100043	catmaid_fafb:7881737	Gustatory Receptor Neuron GRN 7881738 SE
-		neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#8, FBbt:00058156	catmaid_fafb:nan	
-		neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#9, FBbt:00100042	catmaid_fafb:nan	
-		neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#4, FBbt:00048152	catmaid_fafb:nan	
-		neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#5, FBbt:00048152	catmaid_fafb:nan	
-8210748	GRN R3#8 (FAFB:8210748)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#1, FBbt:00110887	catmaid_fafb:8210748	Gustatory Receptor Neuron GRN 8210749 SE
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#1, FBbt:00110887	catmaid_fafb:nan	
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#1, FBbt:00110887	catmaid_fafb:nan	
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#2, FBbt:00110887	catmaid_fafb:nan	
-9016928	GRN R5#8 (FAFB:9016928)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#1, FBbt:00048152	catmaid_fafb:9016928	Gustatory Receptor Neuron GRN 9016929 KS
-9235133	GRN R6#9 (FAFB:9235133)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#1, FBbt:00048152	catmaid_fafb:9235133	Gustatory Receptor Neuron GRN 9235134 KS
-9348643	GRN R1#4 (FAFB:9348643)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#2, FBbt:00048152	catmaid_fafb:9348643	Gustatory Receptor Neuron GRN 9348644 KS
-9391836	GRN R1#5 (FAFB:9391836)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#2, FBbt:00110887	catmaid_fafb:9391836	Gustatory Receptor Neuron GRN 9391837 KS
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#1, FBbt:00110887	catmaid_fafb:nan	
-10154803	GRN L4#1 (FAFB:10154803)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#2, FBbt:00048152	catmaid_fafb:10154803	Gustatory Receptor Neuron GRN 10154804 SE
-10223339	GRN L7#1 (FAFB:10223339)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#2, FBbt:00110887	catmaid_fafb:10223339	Gustatory Receptor Neuron GRN 10223340 NM
-10223376	GRN L3#1 (FAFB:10223376)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#13, FBbt:00058156	catmaid_fafb:10223376	Gustatory Receptor Neuron GRN 10223377 JH
-10223392	GRN L4#2 (FAFB:10223392)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#2, FBbt:00110887	catmaid_fafb:10223392	Gustatory Receptor Neuron GRN 10223393 LH
-10368680	GRN L1#1 (FAFB:10368680)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#3, FBbt:00110887	catmaid_fafb:10368680	Gustatory Receptor Neuron GRN 10368681 JH
-10443082	GRN L2#1 (FAFB:10443082)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#3, FBbt:00048152	catmaid_fafb:10443082	Gustatory Receptor Neuron GRN 10443083 LH
-10481113	GRN L2#2 (FAFB:10481113)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#1, FBbt:00100043	catmaid_fafb:10481113	Gustatory Receptor Neuron GRN 10481114 JH
-10489651	GRN L7#2 (FAFB:10489651)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#2, FBbt:00100043	catmaid_fafb:10489651	Gustatory Receptor Neuron GRN 10489652 SE
-10490381	GRN L5#1 (FAFB:10490381)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#4, FBbt:00048152	catmaid_fafb:10490381	Gustatory Receptor Neuron GRN 10368702 NM
-10603489	GRN L1#2 (FAFB:10603489)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#14, FBbt:00058156	catmaid_fafb:10603489	Gustatory Receptor Neuron GRN 10603490 JH
-10626457	GRN L5#2 (FAFB:10626457)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#9, FBbt:00058156	catmaid_fafb:10626457	Gustatory Receptor Neuron GRN 10626458 JH
-10742200	GRN R4#13 (FAFB:10742200)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#3, FBbt:00048152	catmaid_fafb:10742200	Gustatory Receptor Neuron GRN 10742201 SE
-10780407	GRN L3#2 (FAFB:10780407)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#3, FBbt:00100043	catmaid_fafb:10780407	Gustatory Receptor Neuron GRN 10780408 JH
-10780417	GRN L4#3 (FAFB:10780417)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#10, FBbt:00058156	catmaid_fafb:10780417	Gustatory Receptor Neuron GRN 10780418 JH
-10780425	GRN L1#3 (FAFB:10780425)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#3, FBbt:00110887	catmaid_fafb:10780425	Gustatory Receptor Neuron GRN 10780426 JH
-10780443	GRN L6#1 (FAFB:10780443)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#4, FBbt:00048152	catmaid_fafb:10780443	Gustatory Receptor Neuron GRN 10780444 JH
-10795558	GRN L6#2 (FAFB:10795558)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#4, FBbt:00110887	catmaid_fafb:10795558	Gustatory Receptor Neuron GRN 10795559 LH
-10796200	GRN L1#4 (FAFB:10796200)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#11, FBbt:00058156	catmaid_fafb:10796200	Gustatory Receptor Neuron GRN 10487736 LH
-11206721	GRN R4#14 (FAFB:11206721)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#6, FBbt:00048152	catmaid_fafb:11206721	Gustatory Receptor Neuron GRN 11206722 NM
-11206727	GRN R5#9 (FAFB:11206727)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#3, FBbt:00048152	catmaid_fafb:11206727	Gustatory Receptor Neuron GRN 11206728 NM
-11242644	GRN L2#3 (FAFB:11242644)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#4, FBbt:00048152	catmaid_fafb:11242644	Gustatory Receptor Neuron GRN 11242645 LH
-11243248	GRN L6#3 (FAFB:11243248)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#7, FBbt:00048152	catmaid_fafb:11243248	Gustatory Receptor Neuron GRN 11162502 JH
-11356628	GRN R5#10 (FAFB:11356628)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#8, FBbt:00048152	catmaid_fafb:11356628	Gustatory Receptor Neuron GRN 11302512 NM
-11399580	GRN L7#3 (FAFB:11399580)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#12, FBbt:00058156	catmaid_fafb:11399580	Gustatory Receptor Neuron GRN 11399581 MK
-11407091	GRN L2#4 (FAFB:11407091)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#9, FBbt:00100043	catmaid_fafb:11407091	Gustatory Receptor Neuron GRN 11162510 JH
-11461075	GRN L7#4 (FAFB:11461075)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#13, FBbt:00058156	catmaid_fafb:11461075	Gustatory Receptor Neuron GRN 11373582 JH
-11488252	GRN R5#11 (FAFB:11488252)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#9, FBbt:00048152	catmaid_fafb:11488252	Gustatory Receptor Neuron GRN 11488253 JH
-11488257	GRN R1#6 (FAFB:11488257)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#14, FBbt:00058156	catmaid_fafb:11488257	Gustatory Receptor Neuron GRN 11488258 JH
-11488267	GRN R2#3 (FAFB:11488267)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#10, FBbt:00100042	catmaid_fafb:11488267	Gustatory Receptor Neuron GRN 11488268 JH
-11522862	GRN R2#4 (FAFB:11522862)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#11, FBbt:00100042	catmaid_fafb:11522862	Gustatory Receptor Neuron GRN 11522863 MK
-11559706	GRN R1#7 (FAFB:11559706)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#12, FBbt:00100042	catmaid_fafb:11559706	Gustatory Receptor Neuron GRN 11559707 LH
-11559730	GRN R1#8 (FAFB:11559730)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#13, FBbt:00100042	catmaid_fafb:11559730	Gustatory Receptor Neuron GRN 11559731 NM
-11559734	GRN R5#12 (FAFB:11559734)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#14, FBbt:00100042	catmaid_fafb:11559734	Gustatory Receptor Neuron GRN 11559735 JH
-11559749	GRN R3#9 (FAFB:11559749)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#15, FBbt:00100042	catmaid_fafb:11559749	Gustatory Receptor Neuron GRN 11559750 JH
-11559792	GRN R5#13 (FAFB:11559792)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#10, FBbt:00100043	catmaid_fafb:11559792	Gustatory Receptor Neuron GRN 11559793 JH
-11559796	GRN R1#9 (FAFB:11559796)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#16, FBbt:00100042	catmaid_fafb:11559796	Gustatory Receptor Neuron GRN 11559797 JH
-11559800	GRN R5#14 (FAFB:11559800)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#17, FBbt:00100042	catmaid_fafb:11559800	Gustatory Receptor Neuron GRN 11559801 JH
-11559804	GRN R6#10 (FAFB:11559804)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#5, FBbt:00048152	catmaid_fafb:11559804	Gustatory Receptor Neuron GRN 11559805 JH
-11559813	GRN R6#11 (FAFB:11559813)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#15, FBbt:00058156	catmaid_fafb:11559813	Gustatory Receptor Neuron GRN 11559814 JH
-11559821	GRN R6#12 (FAFB:11559821)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#10, FBbt:00048152	catmaid_fafb:11559821	Gustatory Receptor Neuron GRN 11559822 JH
-11559827	GRN R6#13 (FAFB:11559827)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#11, FBbt:00048152	catmaid_fafb:11559827	Gustatory Receptor Neuron GRN 11559828 JH
-11559838	GRN R6#14 (FAFB:11559838)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#5, FBbt:00048152	catmaid_fafb:11559838	Gustatory Receptor Neuron GRN 11559839 JH
-11559846	GRN R6#15 (FAFB:11559846)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#6, FBbt:00048152	catmaid_fafb:11559846	Gustatory Receptor Neuron GRN 11559847 MK
-11559858	GRN R3#10 (FAFB:11559858)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#11, FBbt:00100043	catmaid_fafb:11559858	Gustatory Receptor Neuron GRN 11559859 MK
-11559865	GRN R6#16 (FAFB:11559865)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#16, FBbt:00058156	catmaid_fafb:11559865	Gustatory Receptor Neuron GRN 11559866 MK
-11559900	GRN R6#17 (FAFB:11559900)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#4, FBbt:00100043	catmaid_fafb:11559900	Gustatory Receptor Neuron GRN 11559901 FC
-11603401	GRN R2#5 (FAFB:11603401)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#12, FBbt:00100043	catmaid_fafb:11603401	Gustatory Receptor Neuron GRN 11302521 NM
-11635037	GRN R5#15 (FAFB:11635037)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#7, FBbt:00048152	catmaid_fafb:11635037	Gustatory Receptor Neuron GRN 11559723 NM
-11647363	GRN R1#10 (FAFB:11647363)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#12, FBbt:00048152	catmaid_fafb:11647363	Gustatory Receptor Neuron GRN 9451694 KS
-11674090	GRN R1#11 (FAFB:11674090)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#18, FBbt:00100042	catmaid_fafb:11674090	Gustatory Receptor Neuron GRN 11674091 KS
-11675069	GRN L1#5 (FAFB:11675069)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#5, FBbt:00110887	catmaid_fafb:11675069	Gustatory Receptor Neuron GRN 11675070 JH
-11827484	GRN R2#6 (FAFB:11827484)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#5, FBbt:00100043	catmaid_fafb:11827484	Gustatory Receptor Neuron GRN 11522846 MK
-11966486	GRN R3#11 (FAFB:11966486)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#4, FBbt:00110887	catmaid_fafb:11966486	Gustatory Receptor Neuron GRN 11559890 FC
-11967149	GRN R5#16 (FAFB:11967149)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#15, FBbt:00058156	catmaid_fafb:11967149	Gustatory Receptor Neuron GRN 7759554 SE
-11984676	GRN L6#4 (FAFB:11984676)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#19, FBbt:00100042	catmaid_fafb:11984676	Gustatory Receptor Neuron GRN 11242650 LH
-11987931	GRN R3#12 (FAFB:11987931)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#6, FBbt:00110887	catmaid_fafb:11987931	Gustatory Receptor Neuron GRN 11559784 JH
-11995753	GRN R2#7 (FAFB:11995753)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#5, FBbt:00110887	catmaid_fafb:11995753	Gustatory Receptor Neuron GRN 11559755 NM
-12001108	GRN R1#12 (FAFB:12001108)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#16, FBbt:00058156	catmaid_fafb:12001108	Gustatory Receptor Neuron GRN 11559788 NM
-12173900	GRN R6#18 (FAFB:12173900)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#20, FBbt:00100042	catmaid_fafb:12173900	Gustatory Receptor Neuron GRN 11559809 JH
-12215913	GRN L7#5 (FAFB:12215913)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#17, FBbt:00058156	catmaid_fafb:12215913	Gustatory Receptor Neuron GRN 12215914 PV
-12226830	GRN L6#5 (FAFB:12226830)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#21, FBbt:00100042	catmaid_fafb:12226830	Gustatory Receptor Neuron GRN 12226831 PV
-12817585	GRN L4#4 (FAFB:12817585)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#22, FBbt:00100042	catmaid_fafb:12817585	Gustatory Receptor Neuron GRN 12817586 PV
-12871829	GRN R4#15 (FAFB:12871829)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#23, FBbt:00100042	catmaid_fafb:12871829	Gustatory Receptor Neuron GRN 7724245 SE
-12880552	GRN R6#19 (FAFB:12880552)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#7, FBbt:00110887	catmaid_fafb:12880552	Gustatory Receptor Neuron GRN 11559835 JH
-13216531	GRN L7#6 (FAFB:13216531)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#8, FBbt:00110887	catmaid_fafb:13216531	Gustatory Receptor Neuron GRN 13216532 PV 
-14444228	GRN L4#5 (FAFB:14444228)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#6, FBbt:00110887	catmaid_fafb:14444228	Gustatory Receptor Neuron GRN G5176731138 SE
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#3, FBbt:00110887	catmaid_fafb:nan	
-14928124	GRN R4#16 (FAFB:14928124)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#3, FBbt:00110887	catmaid_fafb:14928124	Gustatory Receptor Neuron GRN G4903508810 SE
-14947928	GRN R6#20 (FAFB:14947928)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#4, FBbt:00110887	catmaid_fafb:14947928	Gustatory Receptor Neuron GRN G5035938111 SE
-14947934	GRN R4#17 (FAFB:14947934)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#9, FBbt:00110887	catmaid_fafb:14947934	Gustatory Receptor Neuron GRN G4644404161 SE
-14947940	GRN R6#21 (FAFB:14947940)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#10, FBbt:00110887	catmaid_fafb:14947940	Gustatory Receptor Neuron GRN G4513893288 SE
-14947952	GRN R6#22 (FAFB:14947952)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#6, FBbt:00048152	catmaid_fafb:14947952	Gustatory Receptor Neuron GRN G4906713011 SE
-14947958	GRN R6#23 (FAFB:14947958)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#7, FBbt:00110887	catmaid_fafb:14947958	Gustatory Receptor Neuron GRN G5172843286 SE
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#8, FBbt:00110887	catmaid_fafb:nan	
-		neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#9, FBbt:00110887	catmaid_fafb:nan	
-16149023	GRN L7#7 (FAFB:16149023)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#10, FBbt:00110887	catmaid_fafb:16149023	Gustatory Receptor Neuron GRN G4252894541 SE
-16149029	GRN L7#8 (FAFB:16149029)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#4, FBbt:00110887	catmaid_fafb:16149029	 Gustatory Receptor Neuron GRN G4252896405 SE
-16149035	GRN L4#6 (FAFB:16149035)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#11, FBbt:00110887	catmaid_fafb:16149035	Gustatory Receptor Neuron GRN G4908661424 SE
-16149041	GRN L3#3 (FAFB:16149041)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#12, FBbt:00110887	catmaid_fafb:16149041	Gustatory Receptor Neuron GRN G4908663174 SE
-16149047	GRN L5#3 (FAFB:16149047)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#5, FBbt:00048152	catmaid_fafb:16149047	Gustatory Receptor Neuron GRN G4908019820 SE
-16149053	GRN L5#4 (FAFB:16149053)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#6, FBbt:00048152	catmaid_fafb:16149053	Gustatory Receptor Neuron GRN G4908018043 SE
-16149059	GRN L7#9 (FAFB:16149059)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#13, FBbt:00110887	catmaid_fafb:16149059	Gustatory Receptor Neuron GRN G4515200063 SE
-16149065	GRN L7#10 (FAFB:16149065)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#7, FBbt:00048152	catmaid_fafb:16149065	Gustatory Receptor Neuron GRN G4776863549 PV
-16149077	GRN L1#6 (FAFB:16149077)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#8, FBbt:00048152	catmaid_fafb:16149077	Gustatory Receptor Neuron GRN G4645707816 SE
-16149083	GRN L4#7 (FAFB:16149083)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#11, FBbt:00110887	catmaid_fafb:16149083	Gustatory Receptor Neuron GRN G4777505483 SE
-16149089	GRN L4#8 (FAFB:16149089)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#9, FBbt:00048152	catmaid_fafb:16149089	Gustatory Receptor Neuron GRN G5043015897 SE
-16149095	GRN L4#9 (FAFB:16149095)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#14, FBbt:00110887	catmaid_fafb:16149095	Gustatory Receptor Neuron GRN G4646985724 SE
-16149101	GRN L4#10 (FAFB:16149101)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#15, FBbt:00110887	catmaid_fafb:16149101	Gustatory Receptor Neuron GRN G4385324783 SE
-16149107	GRN L3#4 (FAFB:16149107)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#10, FBbt:00048152	catmaid_fafb:16149107	Gustatory Receptor Neuron GRN G4909940718 SE
-16149113	GRN L4#11 (FAFB:16149113)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#12, FBbt:00110887	catmaid_fafb:16149113	Gustatory Receptor Neuron GRN G4643155726 SE
-16149119	GRN L4#12 (FAFB:16149119)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#13, FBbt:00110887	catmaid_fafb:16149119	Gustatory Receptor Neuron GRN G5039803870 SE
-16149125	GRN L2#5 (FAFB:16149125)		female organism|adult brain			Gustatory Receptor Neuron GRN G5039812164 SE
-16149131	GRN L2#6 (FAFB:16149131)		female organism|adult brain			Gustatory Receptor Neuron GRN G5041733229 SE
-16149137	GRN L4#13 (FAFB:16149137)		female organism|adult brain			Gustatory Receptor Neuron GRN G4778779523 SE
-16149144	GRN L2#7 (FAFB:16149144)		female organism|adult brain			Gustatory Receptor Neuron GRN G4906731848 SE
-16149150	GRN L2#8 (FAFB:16149150)		female organism|adult brain			Gustatory Receptor Neuron GRN G4906095585 SE
-16149158	GRN L7#11 (FAFB:16149158)		female organism|adult brain			Gustatory Receptor Neuron GRN G4906098406 SE
-16149164	GRN L2#9 (FAFB:16149164)		female organism|adult brain			Gustatory Receptor Neuron GRN G4906086997 SE
-16149171	GRN L4#14 (FAFB:16149171)		female organism|adult brain			Gustatory Receptor Neuron GRN G5040453623 SE
-16149178	GRN L4#15 (FAFB:16149178)		female organism|adult brain			Gustatory Receptor Neuron GRN G5040452086 SE
-16149184	GRN L2#10 (FAFB:16149184)		female organism|adult brain			Gustatory Receptor Neuron GRN G5040452150 SE
-16149191	GRN L7#12 (FAFB:16149191)		female organism|adult brain			Gustatory Receptor Neuron GRN G4513279017 SE
-16149198	GRN L7#13 (FAFB:16149198)		female organism|adult brain			Gustatory Receptor Neuron GRN  G4249071310 SE
+7575588	GRN R6#5 (FAFB:7575588)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#5, FBbt:00100042	catmaid_fafb:7575588	Gustatory Receptor Neuron GRN 7575589 SE
+7708435	GRN R4#8 (FAFB:7708435)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#8, FBbt:00058156	catmaid_fafb:7708435	Gustatory Receptor Neuron GRN 7708436 SE
+7716995	GRN R6#6 (FAFB:7716995)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#6, FBbt:00100042	catmaid_fafb:7716995	Gustatory Receptor Neuron GRN 7716996 SE
+7723218	GRN R4#9 (FAFB:7723218)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#9, FBbt:00058156	catmaid_fafb:7723218	Gustatory Receptor Neuron GRN 7723219 SE
+7723244	GRN R3#1 (FAFB:7723244)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#1, FBbt:00100043	catmaid_fafb:7723244	Gustatory Receptor Neuron GRN 7723245 SE
+7724239	GRN R6#7 (FAFB:7724239)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#7, FBbt:00100042	catmaid_fafb:7724239	Gustatory Receptor Neuron GRN 7724240 SE
+7753061	GRN R4#10 (FAFB:7753061)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#10, FBbt:00058156	catmaid_fafb:7753061	Gustatory Receptor Neuron GRN 7753062 SE
+7757554	GRN R2#2 (FAFB:7757554)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#2, FBbt:00048152	catmaid_fafb:7757554	Gustatory Receptor Neuron GRN 7757555 SE
+7759395	GRN R3#2 (FAFB:7759395)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#2, FBbt:00100043	catmaid_fafb:7759395	Gustatory Receptor Neuron GRN 7759396 SE
+7759742	GRN R5#5 (FAFB:7759742)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#5, FBbt:00058156	catmaid_fafb:7759742	Gustatory Receptor Neuron GRN 7759743 SE
+7759923	GRN R1#1 (FAFB:7759923)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#1, FBbt:00048152	catmaid_fafb:7759923	Gustatory Receptor Neuron GRN  7759924 SE
+7773850	GRN R3#3 (FAFB:7773850)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#3, FBbt:00100043	catmaid_fafb:7773850	Gustatory Receptor Neuron GRN 7773851 SE
+7774114	GRN R4#11 (FAFB:7774114)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#11, FBbt:00058156	catmaid_fafb:7774114	Gustatory Receptor Neuron GRN 7774115 SE
+7774393	GRN R5#6 (FAFB:7774393)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#6, FBbt:00058156	catmaid_fafb:7774393	Gustatory Receptor Neuron GRN 7774394 SE
+7774674	GRN R1#2 (FAFB:7774674)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#2, FBbt:00048152	catmaid_fafb:7774674	Gustatory Receptor Neuron GRN 7774675 SE
+7789606	GRN R5#7 (FAFB:7789606)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#7, FBbt:00058156	catmaid_fafb:7789606	Gustatory Receptor Neuron GRN 7789607 SE
+7789717	GRN R1#3 (FAFB:7789717)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#3, FBbt:00048152	catmaid_fafb:7789717	Gustatory Receptor Neuron GRN 7789718 SE
+7789757	GRN R3#4 (FAFB:7789757)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#4, FBbt:00100043	catmaid_fafb:7789757	Gustatory Receptor Neuron GRN 7789758 SE
+7789762	GRN R3#5 (FAFB:7789762)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#5, FBbt:00100043	catmaid_fafb:7789762	Gustatory Receptor Neuron GRN 7789763 SE
+7793752	GRN R4#12 (FAFB:7793752)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#12, FBbt:00058156	catmaid_fafb:7793752	Gustatory Receptor Neuron GRN 7793753 SE
+7796688	GRN R3#6 (FAFB:7796688)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#6, FBbt:00100043	catmaid_fafb:7796688	Gustatory Receptor Neuron GRN 7796689 SE
+7802087	GRN R3#7 (FAFB:7802087)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#7, FBbt:00100043	catmaid_fafb:7802087	Gustatory Receptor Neuron GRN 7802088 SE
+7881737	GRN R6#8 (FAFB:7881737)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#8, FBbt:00100042	catmaid_fafb:7881737	Gustatory Receptor Neuron GRN 7881738 SE
+8210748	GRN R3#8 (FAFB:8210748)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#8, FBbt:00100043	catmaid_fafb:8210748	Gustatory Receptor Neuron GRN 8210749 SE
+9016928	GRN R5#8 (FAFB:9016928)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#8, FBbt:00058156	catmaid_fafb:9016928	Gustatory Receptor Neuron GRN 9016929 KS
+9235133	GRN R6#9 (FAFB:9235133)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#9, FBbt:00100042	catmaid_fafb:9235133	Gustatory Receptor Neuron GRN 9235134 KS
+9348643	GRN R1#4 (FAFB:9348643)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#4, FBbt:00048152	catmaid_fafb:9348643	Gustatory Receptor Neuron GRN 9348644 KS
+9391836	GRN R1#5 (FAFB:9391836)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#5, FBbt:00048152	catmaid_fafb:9391836	Gustatory Receptor Neuron GRN 9391837 KS
+10154803	GRN L4#1 (FAFB:10154803)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#1, FBbt:00110887	catmaid_fafb:10154803	Gustatory Receptor Neuron GRN 10154804 SE
+10223339	GRN L7#1 (FAFB:10223339)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#1, FBbt:00110887	catmaid_fafb:10223339	Gustatory Receptor Neuron GRN 10223340 NM
+10223376	GRN L3#1 (FAFB:10223376)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#1, FBbt:00110887	catmaid_fafb:10223376	Gustatory Receptor Neuron GRN 10223377 JH
+10223392	GRN L4#2 (FAFB:10223392)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#2, FBbt:00110887	catmaid_fafb:10223392	Gustatory Receptor Neuron GRN 10223393 LH
+10368680	GRN L1#1 (FAFB:10368680)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#1, FBbt:00048152	catmaid_fafb:10368680	Gustatory Receptor Neuron GRN 10368681 JH
+10443082	GRN L2#1 (FAFB:10443082)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#1, FBbt:00048152	catmaid_fafb:10443082	Gustatory Receptor Neuron GRN 10443083 LH
+10481113	GRN L2#2 (FAFB:10481113)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#2, FBbt:00048152	catmaid_fafb:10481113	Gustatory Receptor Neuron GRN 10481114 JH
+10489651	GRN L7#2 (FAFB:10489651)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#2, FBbt:00110887	catmaid_fafb:10489651	Gustatory Receptor Neuron GRN 10489652 SE
+10490381	GRN L5#1 (FAFB:10490381)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#1, FBbt:00110887	catmaid_fafb:10490381	Gustatory Receptor Neuron GRN 10368702 NM
+10603489	GRN L1#2 (FAFB:10603489)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#2, FBbt:00048152	catmaid_fafb:10603489	Gustatory Receptor Neuron GRN 10603490 JH
+10626457	GRN L5#2 (FAFB:10626457)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#2, FBbt:00110887	catmaid_fafb:10626457	Gustatory Receptor Neuron GRN 10626458 JH
+10742200	GRN R4#13 (FAFB:10742200)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#13, FBbt:00058156	catmaid_fafb:10742200	Gustatory Receptor Neuron GRN 10742201 SE
+10780407	GRN L3#2 (FAFB:10780407)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#2, FBbt:00110887	catmaid_fafb:10780407	Gustatory Receptor Neuron GRN 10780408 JH
+10780417	GRN L4#3 (FAFB:10780417)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#3, FBbt:00110887	catmaid_fafb:10780417	Gustatory Receptor Neuron GRN 10780418 JH
+10780425	GRN L1#3 (FAFB:10780425)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#3, FBbt:00048152	catmaid_fafb:10780425	Gustatory Receptor Neuron GRN 10780426 JH
+10780443	GRN L6#1 (FAFB:10780443)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#1, FBbt:00100043	catmaid_fafb:10780443	Gustatory Receptor Neuron GRN 10780444 JH
+10795558	GRN L6#2 (FAFB:10795558)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#2, FBbt:00100043	catmaid_fafb:10795558	Gustatory Receptor Neuron GRN 10795559 LH
+10796200	GRN L1#4 (FAFB:10796200)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#4, FBbt:00048152	catmaid_fafb:10796200	Gustatory Receptor Neuron GRN 10487736 LH
+11206721	GRN R4#14 (FAFB:11206721)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#14, FBbt:00058156	catmaid_fafb:11206721	Gustatory Receptor Neuron GRN 11206722 NM
+11206727	GRN R5#9 (FAFB:11206727)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#9, FBbt:00058156	catmaid_fafb:11206727	Gustatory Receptor Neuron GRN 11206728 NM
+11242644	GRN L2#3 (FAFB:11242644)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#3, FBbt:00048152	catmaid_fafb:11242644	Gustatory Receptor Neuron GRN 11242645 LH
+11243248	GRN L6#3 (FAFB:11243248)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#3, FBbt:00100043	catmaid_fafb:11243248	Gustatory Receptor Neuron GRN 11162502 JH
+11356628	GRN R5#10 (FAFB:11356628)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#10, FBbt:00058156	catmaid_fafb:11356628	Gustatory Receptor Neuron GRN 11302512 NM
+11399580	GRN L7#3 (FAFB:11399580)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#3, FBbt:00110887	catmaid_fafb:11399580	Gustatory Receptor Neuron GRN 11399581 MK
+11407091	GRN L2#4 (FAFB:11407091)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#4, FBbt:00048152	catmaid_fafb:11407091	Gustatory Receptor Neuron GRN 11162510 JH
+11461075	GRN L7#4 (FAFB:11461075)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#4, FBbt:00110887	catmaid_fafb:11461075	Gustatory Receptor Neuron GRN 11373582 JH
+11488252	GRN R5#11 (FAFB:11488252)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#11, FBbt:00058156	catmaid_fafb:11488252	Gustatory Receptor Neuron GRN 11488253 JH
+11488257	GRN R1#6 (FAFB:11488257)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#6, FBbt:00048152	catmaid_fafb:11488257	Gustatory Receptor Neuron GRN 11488258 JH
+11488267	GRN R2#3 (FAFB:11488267)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#3, FBbt:00048152	catmaid_fafb:11488267	Gustatory Receptor Neuron GRN 11488268 JH
+11522862	GRN R2#4 (FAFB:11522862)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#4, FBbt:00048152	catmaid_fafb:11522862	Gustatory Receptor Neuron GRN 11522863 MK
+11559706	GRN R1#7 (FAFB:11559706)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#7, FBbt:00048152	catmaid_fafb:11559706	Gustatory Receptor Neuron GRN 11559707 LH
+11559730	GRN R1#8 (FAFB:11559730)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#8, FBbt:00048152	catmaid_fafb:11559730	Gustatory Receptor Neuron GRN 11559731 NM
+11559734	GRN R5#12 (FAFB:11559734)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#12, FBbt:00058156	catmaid_fafb:11559734	Gustatory Receptor Neuron GRN 11559735 JH
+11559749	GRN R3#9 (FAFB:11559749)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#9, FBbt:00100043	catmaid_fafb:11559749	Gustatory Receptor Neuron GRN 11559750 JH
+11559792	GRN R5#13 (FAFB:11559792)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#13, FBbt:00058156	catmaid_fafb:11559792	Gustatory Receptor Neuron GRN 11559793 JH
+11559796	GRN R1#9 (FAFB:11559796)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#9, FBbt:00048152	catmaid_fafb:11559796	Gustatory Receptor Neuron GRN 11559797 JH
+11559800	GRN R5#14 (FAFB:11559800)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#14, FBbt:00058156	catmaid_fafb:11559800	Gustatory Receptor Neuron GRN 11559801 JH
+11559804	GRN R6#10 (FAFB:11559804)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#10, FBbt:00100042	catmaid_fafb:11559804	Gustatory Receptor Neuron GRN 11559805 JH
+11559813	GRN R6#11 (FAFB:11559813)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#11, FBbt:00100042	catmaid_fafb:11559813	Gustatory Receptor Neuron GRN 11559814 JH
+11559821	GRN R6#12 (FAFB:11559821)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#12, FBbt:00100042	catmaid_fafb:11559821	Gustatory Receptor Neuron GRN 11559822 JH
+11559827	GRN R6#13 (FAFB:11559827)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#13, FBbt:00100042	catmaid_fafb:11559827	Gustatory Receptor Neuron GRN 11559828 JH
+11559838	GRN R6#14 (FAFB:11559838)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#14, FBbt:00100042	catmaid_fafb:11559838	Gustatory Receptor Neuron GRN 11559839 JH
+11559846	GRN R6#15 (FAFB:11559846)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#15, FBbt:00100042	catmaid_fafb:11559846	Gustatory Receptor Neuron GRN 11559847 MK
+11559858	GRN R3#10 (FAFB:11559858)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#10, FBbt:00100043	catmaid_fafb:11559858	Gustatory Receptor Neuron GRN 11559859 MK
+11559865	GRN R6#16 (FAFB:11559865)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#16, FBbt:00100042	catmaid_fafb:11559865	Gustatory Receptor Neuron GRN 11559866 MK
+11559900	GRN R6#17 (FAFB:11559900)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#17, FBbt:00100042	catmaid_fafb:11559900	Gustatory Receptor Neuron GRN 11559901 FC
+11603401	GRN R2#5 (FAFB:11603401)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#5, FBbt:00048152	catmaid_fafb:11603401	Gustatory Receptor Neuron GRN 11302521 NM
+11635037	GRN R5#15 (FAFB:11635037)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#15, FBbt:00058156	catmaid_fafb:11635037	Gustatory Receptor Neuron GRN 11559723 NM
+11647363	GRN R1#10 (FAFB:11647363)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#10, FBbt:00048152	catmaid_fafb:11647363	Gustatory Receptor Neuron GRN 9451694 KS
+11674090	GRN R1#11 (FAFB:11674090)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#11, FBbt:00048152	catmaid_fafb:11674090	Gustatory Receptor Neuron GRN 11674091 KS
+11675069	GRN L1#5 (FAFB:11675069)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#5, FBbt:00048152	catmaid_fafb:11675069	Gustatory Receptor Neuron GRN 11675070 JH
+11827484	GRN R2#6 (FAFB:11827484)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#6, FBbt:00048152	catmaid_fafb:11827484	Gustatory Receptor Neuron GRN 11522846 MK
+11966486	GRN R3#11 (FAFB:11966486)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#11, FBbt:00100043	catmaid_fafb:11966486	Gustatory Receptor Neuron GRN 11559890 FC
+11967149	GRN R5#16 (FAFB:11967149)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R5#16, FBbt:00058156	catmaid_fafb:11967149	Gustatory Receptor Neuron GRN 7759554 SE
+11984676	GRN L6#4 (FAFB:11984676)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#4, FBbt:00100043	catmaid_fafb:11984676	Gustatory Receptor Neuron GRN 11242650 LH
+11987931	GRN R3#12 (FAFB:11987931)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R3#12, FBbt:00100043	catmaid_fafb:11987931	Gustatory Receptor Neuron GRN 11559784 JH
+11995753	GRN R2#7 (FAFB:11995753)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R2#7, FBbt:00048152	catmaid_fafb:11995753	Gustatory Receptor Neuron GRN 11559755 NM
+12001108	GRN R1#12 (FAFB:12001108)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R1#12, FBbt:00048152	catmaid_fafb:12001108	Gustatory Receptor Neuron GRN 11559788 NM
+12173900	GRN R6#18 (FAFB:12173900)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#18, FBbt:00100042	catmaid_fafb:12173900	Gustatory Receptor Neuron GRN 11559809 JH
+12215913	GRN L7#5 (FAFB:12215913)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#5, FBbt:00110887	catmaid_fafb:12215913	Gustatory Receptor Neuron GRN 12215914 PV
+12226830	GRN L6#5 (FAFB:12226830)	neuron|low salt-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L6#5, FBbt:00100043	catmaid_fafb:12226830	Gustatory Receptor Neuron GRN 12226831 PV
+12817585	GRN L4#4 (FAFB:12817585)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#4, FBbt:00110887	catmaid_fafb:12817585	Gustatory Receptor Neuron GRN 12817586 PV
+12871829	GRN R4#15 (FAFB:12871829)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#15, FBbt:00058156	catmaid_fafb:12871829	Gustatory Receptor Neuron GRN 7724245 SE
+12880552	GRN R6#19 (FAFB:12880552)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#19, FBbt:00100042	catmaid_fafb:12880552	Gustatory Receptor Neuron GRN 11559835 JH
+13216531	GRN L7#6 (FAFB:13216531)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#6, FBbt:00110887	catmaid_fafb:13216531	Gustatory Receptor Neuron GRN 13216532 PV 
+14444228	GRN L4#5 (FAFB:14444228)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#5, FBbt:00110887	catmaid_fafb:14444228	Gustatory Receptor Neuron GRN G5176731138 SE
+14928124	GRN R4#16 (FAFB:14928124)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#16, FBbt:00058156	catmaid_fafb:14928124	Gustatory Receptor Neuron GRN G4903508810 SE
+14947928	GRN R6#20 (FAFB:14947928)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#20, FBbt:00100042	catmaid_fafb:14947928	Gustatory Receptor Neuron GRN G5035938111 SE
+14947934	GRN R4#17 (FAFB:14947934)	neuron|sugar-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R4#17, FBbt:00058156	catmaid_fafb:14947934	Gustatory Receptor Neuron GRN G4644404161 SE
+14947940	GRN R6#21 (FAFB:14947940)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#21, FBbt:00100042	catmaid_fafb:14947940	Gustatory Receptor Neuron GRN G4513893288 SE
+14947952	GRN R6#22 (FAFB:14947952)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#22, FBbt:00100042	catmaid_fafb:14947952	Gustatory Receptor Neuron GRN G4906713011 SE
+14947958	GRN R6#23 (FAFB:14947958)	neuron|water-sensing neuron of labellar taste bristle	female organism|adult brain	GRN R6#23, FBbt:00100042	catmaid_fafb:14947958	Gustatory Receptor Neuron GRN G5172843286 SE
+16149023	GRN L7#7 (FAFB:16149023)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#7, FBbt:00110887	catmaid_fafb:16149023	Gustatory Receptor Neuron GRN G4252894541 SE
+16149029	GRN L7#8 (FAFB:16149029)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#8, FBbt:00110887	catmaid_fafb:16149029	 Gustatory Receptor Neuron GRN G4252896405 SE
+16149035	GRN L4#6 (FAFB:16149035)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#6, FBbt:00110887	catmaid_fafb:16149035	Gustatory Receptor Neuron GRN G4908661424 SE
+16149041	GRN L3#3 (FAFB:16149041)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#3, FBbt:00110887	catmaid_fafb:16149041	Gustatory Receptor Neuron GRN G4908663174 SE
+16149047	GRN L5#3 (FAFB:16149047)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#3, FBbt:00110887	catmaid_fafb:16149047	Gustatory Receptor Neuron GRN G4908019820 SE
+16149053	GRN L5#4 (FAFB:16149053)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L5#4, FBbt:00110887	catmaid_fafb:16149053	Gustatory Receptor Neuron GRN G4908018043 SE
+16149059	GRN L7#9 (FAFB:16149059)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#9, FBbt:00110887	catmaid_fafb:16149059	Gustatory Receptor Neuron GRN G4515200063 SE
+16149065	GRN L7#10 (FAFB:16149065)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#10, FBbt:00110887	catmaid_fafb:16149065	Gustatory Receptor Neuron GRN G4776863549 PV
+16149077	GRN L1#6 (FAFB:16149077)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L1#6, FBbt:00048152	catmaid_fafb:16149077	Gustatory Receptor Neuron GRN G4645707816 SE
+16149083	GRN L4#7 (FAFB:16149083)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#7, FBbt:00110887	catmaid_fafb:16149083	Gustatory Receptor Neuron GRN G4777505483 SE
+16149089	GRN L4#8 (FAFB:16149089)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#8, FBbt:00110887	catmaid_fafb:16149089	Gustatory Receptor Neuron GRN G5043015897 SE
+16149095	GRN L4#9 (FAFB:16149095)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#9, FBbt:00110887	catmaid_fafb:16149095	Gustatory Receptor Neuron GRN G4646985724 SE
+16149101	GRN L4#10 (FAFB:16149101)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#10, FBbt:00110887	catmaid_fafb:16149101	Gustatory Receptor Neuron GRN G4385324783 SE
+16149107	GRN L3#4 (FAFB:16149107)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L3#4, FBbt:00110887	catmaid_fafb:16149107	Gustatory Receptor Neuron GRN G4909940718 SE
+16149113	GRN L4#11 (FAFB:16149113)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#11, FBbt:00110887	catmaid_fafb:16149113	Gustatory Receptor Neuron GRN G4643155726 SE
+16149119	GRN L4#12 (FAFB:16149119)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#12, FBbt:00110887	catmaid_fafb:16149119	Gustatory Receptor Neuron GRN G5039803870 SE
+16149125	GRN L2#5 (FAFB:16149125)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#5, FBbt:00048152	catmaid_fafb:16149125	Gustatory Receptor Neuron GRN G5039812164 SE
+16149131	GRN L2#6 (FAFB:16149131)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#6, FBbt:00048152	catmaid_fafb:16149131	Gustatory Receptor Neuron GRN G5041733229 SE
+16149137	GRN L4#13 (FAFB:16149137)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#13, FBbt:00110887	catmaid_fafb:16149137	Gustatory Receptor Neuron GRN G4778779523 SE
+16149144	GRN L2#7 (FAFB:16149144)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#7, FBbt:00048152	catmaid_fafb:16149144	Gustatory Receptor Neuron GRN G4906731848 SE
+16149150	GRN L2#8 (FAFB:16149150)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#8, FBbt:00048152	catmaid_fafb:16149150	Gustatory Receptor Neuron GRN G4906095585 SE
+16149158	GRN L7#11 (FAFB:16149158)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#11, FBbt:00110887	catmaid_fafb:16149158	Gustatory Receptor Neuron GRN G4906098406 SE
+16149164	GRN L2#9 (FAFB:16149164)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#9, FBbt:00048152	catmaid_fafb:16149164	Gustatory Receptor Neuron GRN G4906086997 SE
+16149171	GRN L4#14 (FAFB:16149171)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#14, FBbt:00110887	catmaid_fafb:16149171	Gustatory Receptor Neuron GRN G5040453623 SE
+16149178	GRN L4#15 (FAFB:16149178)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L4#15, FBbt:00110887	catmaid_fafb:16149178	Gustatory Receptor Neuron GRN G5040452086 SE
+16149184	GRN L2#10 (FAFB:16149184)	neuron|bitter-sensing neuron of labellar taste bristle	female organism|adult brain	GRN L2#10, FBbt:00048152	catmaid_fafb:16149184	Gustatory Receptor Neuron GRN G5040452150 SE
+16149191	GRN L7#12 (FAFB:16149191)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#12, FBbt:00110887	catmaid_fafb:16149191	Gustatory Receptor Neuron GRN G4513279017 SE
+16149198	GRN L7#13 (FAFB:16149198)	neuron|gustatory receptor neuron of the labellum	female organism|adult brain	GRN L7#13, FBbt:00110887	catmaid_fafb:16149198	Gustatory Receptor Neuron GRN  G4249071310 SE
