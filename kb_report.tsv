@@ -20,7 +20,7 @@ Dickson_VT	Dickson lab VT line collection - VDRC images	[True]	doi_10_1101_19864
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	[True]	FBrf0240600	CC-BY-SA_4.0	10
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	[True]	FBrf0242477	CC-BY-SA_4.0	277
 Eichler2017	Larval MB neurons - EM (Eichler2017)	[True]	FBrf0236359	CC-BY-SA_4.0	388
-Engert2022	EM FAFB Engert et al. 2022	[True]	FBrf0253662		0
+Engert2022	EM FAFB Engert et al. 2022	[True]	FBrf0253662		144
 Eschbach2020	EM L1 Eschbach et al 2020	[True]	FBrf0245294	CC-BY-SA_4.0	189
 Eschbach2020b	EM L1 Eschbach et al 2020b	[True]	doi_10_1101_2020_04_23_058339	CC-BY_4.0	239
 FafbDolan2019	EM FAFB Dolan et al. 2019	[True]	FBrf0242477	CC-BY-SA_4.0	109
@@ -78,7 +78,7 @@ Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	[True]	FBrf0236042	CC-BY-
 Sayin2019	EM FAFB Sayin et al 2019	[True]	FBrf0243986	CC-BY-SA_4.0	2
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	[True]	FBrf0234450	CC-BY-SA_4.0	193
 Shih2020	FlyCircuit 1.2 neurons	[False]	FBrf0245194	CC-BY_4.0	28607
-Shiu2022	EM FAFB Shiu et al. 2022	[True]	FBrf0254006		0
+Shiu2022	EM FAFB Shiu et al. 2022	[True]	FBrf0254006		25
 SplitDavis2017	Split-GAL4 lines from Turner-Evans et al., 2017	[True]	FBrf0235609	CC-BY-SA_4.0	0
 SplitDavis2020	Split-GAL4 lines from Davis et al., 2020	[True]	FBrf0244935	CC-BY-SA_4.0	130
 SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	[True]	FBrf0240038	CC-BY-SA_4.0	2
