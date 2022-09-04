@@ -1,7 +1,10 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
-Kohl2013	pdb	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	9	0
-Kohl2013	pipeline_output	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	10	0
-Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	124	23
-Ohyama2015	pipeline_output	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	121	23
-Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	140	19
-Zwart2016	pipeline_output	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	145	19
+Cachero2010	pdb	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	120
+Cachero2010	pipeline_output	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	240
+Engert2022	pipeline_output	EM FAFB Engert et al. 2022		FBrf0253662	0	0	0
+Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
+Matsuo2016	pipeline_output	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	250
+Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	121	23
+Ohyama2015	pipeline_output	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	121	44
+Shiu2022	pipeline_output	EM FAFB Shiu et al. 2022		FBrf0254006	0	0	0
+Zheng2022	pipeline_output	EM FAFB Zheng et al. 2022		FBrf0254218	0	0	0
