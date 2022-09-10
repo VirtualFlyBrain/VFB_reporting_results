@@ -1,10 +1,5 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
-Cachero2010	dev	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	240
-Cachero2010	pdb	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	190	120
 Engert2022	dev	EM FAFB Engert et al. 2022		FBrf0253662	0	0	0
-Matsuo2016	dev	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	250
-Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	46	125
-Ohyama2015	dev	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	121	44
-Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	121	23
 Shiu2022	dev	EM FAFB Shiu et al. 2022		FBrf0254006	0	0	0
-Zheng2022	dev	EM FAFB Zheng et al. 2022		FBrf0254218	0	0	0
+Zheng2020	dev	EM FAFB Zheng et al 2020 (published 2022)	CC-BY-SA_4.0	FBrf0254218	1492	0	0
+Zheng2020	pdb	EM FAFB Zheng et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_04_17_047167	1492	0	0
