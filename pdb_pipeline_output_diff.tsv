@@ -1,7 +1,1 @@
 ds.short_form	server	ds.label	license	pub	individuals	ontology_terms	exp_cur
-Engert2022	pipeline_output	EM FAFB Engert et al. 2022		FBrf0253662	144	0	0
-Kind2021	pdb	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	0	43	0
-Kind2021	pipeline_output	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	43	0
-Shiu2022	pipeline_output	EM FAFB Shiu et al. 2022		FBrf0254006	25	0	0
-Zheng2020	pdb	EM FAFB Zheng et al 2020	CC-BY-SA_4.0	doi_10_1101_2020_04_17_047167	1492	0	0
-Zheng2020	pipeline_output	EM FAFB Zheng et al 2020 (published 2022)	CC-BY-SA_4.0	FBrf0254218	1492	0	0

@@ -18,7 +18,7 @@ Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	33
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	606
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	29
-Engert2022	EM FAFB Engert et al. 2022		FBrf0253662	0	0	0
+Engert2022	EM FAFB Engert et al. 2022		FBrf0253662	144	0	0
 Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	147	0
 Eschbach2020b	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	0	0
 FafbDolan2019	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	606
@@ -51,7 +51,7 @@ JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shino
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	83	17
 Jovanic2019	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	12	24
 Kim2020	EM FAFB Kim et al 2020	CC-BY-SA_4.0	doi_10_1002_cne_24877	95	0	0
-Kind2021	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	0	43	0
+Kind2021	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	43	0
 Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY-SA_4.0	FBrf0237184	17	4	17
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	504	0	0
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	10	0
@@ -73,7 +73,7 @@ Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	8	0
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	80	2	128
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	5	0
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	CC-BY-SA_4.0	FBrf0234450	193	8	6
-Shiu2022	EM FAFB Shiu et al. 2022		FBrf0254006	0	0	0
+Shiu2022	EM FAFB Shiu et al. 2022		FBrf0254006	25	0	0
 SplitDavis2017	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	1	3
 SplitDavis2020	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	181
 SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	12
