@@ -18,7 +18,7 @@ Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	3	33
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	322	606
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	41	29
-Engert2022	EM FAFB Engert et al. 2022		FBrf0253662	144	0	0
+Engert2022	EM FAFB Engert et al. 2022	CC-BY_4.0	FBrf0253662	144	0	0
 Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	147	0
 Eschbach2020b	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	0	0
 FafbDolan2019	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	322	606
@@ -43,7 +43,7 @@ Hampel2015	Grooming neurons and drivers (Hampel 2015)	CC-BY-SA_4.0	FBrf0229838	6
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	CC-BY-SA_4.0	FBrf0236775	1	2	106
 HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	CC-BY_4.0	FBrf0247223	147	30	0
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	52	15
-Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	15	0
+Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	15	16
 Ito2013	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	446	0
 JRC2018	JRC 2018 templates & ROIs	CC-BY-NC-SA_4.0	doi_10_1101_376384	48	0	0
 Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	CC-BY-NC-SA_4.0	FBrf0219813	3469	3	0
@@ -73,7 +73,7 @@ Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	8	0
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY-SA_4.0	FBrf0236042	80	2	128
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	5	0
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	CC-BY-SA_4.0	FBrf0234450	193	8	6
-Shiu2022	EM FAFB Shiu et al. 2022		FBrf0254006	25	0	0
+Shiu2022	EM FAFB Shiu et al. 2022	CC-BY_4.0	FBrf0254006	25	0	0
 SplitDavis2017	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	1	3
 SplitDavis2020	Split-GAL4 lines from Davis et al., 2020	CC-BY-SA_4.0	FBrf0244935	130	25	181
 SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	CC-BY-SA_4.0	FBrf0240038	2	0	12
