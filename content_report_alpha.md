@@ -3,7 +3,7 @@ VFB Content Report 2022-10-12
 =============================
 
 
-Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Wed, 12 Oct 2022 08:23:06``  
+Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Wed, 12 Oct 2022 09:20:59``  
   
 ***``Ontology Content``***  
 
@@ -27,23 +27,23 @@ Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Wed, 12
   
 ***``Image Content``***  
   
-**168100** total images from **101** datasets  
-**70346** single neuron images of **5830** cell types  
+**167645** total images from **98** datasets  
+**69891** single neuron images of **5779** cell types  
 **48120** images of expression patterns of **17158** drivers  
 **4858** images of expression patterns of **676** split combinations  
   
 ***``Annotations``***  
   
-**115676** annotations recording **3958** types of anatomical structure that **17318** specific driver lines are expressed in.  
-**99368** annotations recording **2898** parts of the nervous system that **14694** specific driver lines are expressed in.  
-**17264** annotations recording **1858** types of neuron that **4795** specific driver lines are expressed in.  
-**6034** annotations recording **686** types of neuron that **1508** specific split combinations are expressed in.  
+**115215** annotations recording **3937** types of anatomical structure that **17200** specific driver lines are expressed in.  
+**98939** annotations recording **2874** parts of the nervous system that **14597** specific driver lines are expressed in.  
+**16900** annotations recording **1835** types of neuron that **4726** specific driver lines are expressed in.  
+**5798** annotations recording **686** types of neuron that **1490** specific split combinations are expressed in.  
   
 ***``Connectivity``***  
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|28729|Any neuron (individuals)|28729|3462820|
+|Any neuron (individuals)|28454|Any neuron (individuals)|28454|3461878|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|309|Muscle (classes)|248|294|
 |Any neuron (classes)|748|Sense organ (classes)|395|487|
@@ -57,7 +57,7 @@ Report of content found at ``http://pdb-alpha.virtualflybrain.org`` on ``Wed, 12
 |Adult Head (McKellar2020)|1|18|0|0|0|0|0|0|
 |adult VNS template - Court2018|10|3217|1|0|3193|494|0|22|
 |JRC_FlyEM_Hemibrain|3|43943|43830|43829|0|0|0|114|
-|JRC2018Unisex|65|119480|64817|48038|31655|1632|38796|46|
+|JRC2018Unisex|62|119025|64362|47583|31655|1632|38796|46|
 |L1 larval CNS ssTEM - Cardona/Janelia|22|3463|3463|3463|0|0|0|0|
 |JRC2018UnisexVNC|21|20604|2030|2029|8314|625|10240|21|
 |adult brain template Ito2014|1|75|1|0|0|0|0|75|
