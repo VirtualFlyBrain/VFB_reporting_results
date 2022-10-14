@@ -1,1 +1,19 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Aso2014	dev	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	0	788	129	434
+Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY-SA_4.0	FBrf0227179	2449	0	764	129	434
+Dolan2019	dev	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	0	42	322	606
+Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	277	0	41	322	606
+FlyLight2019LateralHorn2019	dev	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	0	35	322	606
+FlyLight2019LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	364	0	33	322	606
+FlyLight2019Wolff2018	dev	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	0	8	52	216
+FlyLight2019Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY-SA_4.0	FBrf0240744	100	0	7	52	216
+Namiki2018	dev	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	0	106	134	329
+Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY-SA_4.0	FBrf0239335	390	0	93	134	329
+SplitWang2020b	dev	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	4	0	1	3	0
+SplitWang2020b	pdb	Split-GAL4 lines from Wang et al., 2020b	CC-BY-SA_4.0	FBrf0246914	4	0	0	3	0
+Wu2016	dev	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	0	159	39	193
+Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY-SA_4.0	FBrf0234700	332	0	156	39	193
+Xie2018	dev	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	26	26	1111
+Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	22	26	1111
+Xu2020NeuronsV1point1	dev	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	22420	9443	0	0
+Xu2020NeuronsV1point1	pdb	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	22420	6	0	0
