@@ -1,9 +1,9 @@
 
-VFB Content Report 2022-10-17
+VFB Content Report 2022-10-18
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 17 Oct 2022 00:14:31``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 18 Oct 2022 08:21:04``  
   
 ***``Ontology Content``***  
 
@@ -26,17 +26,19 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 17 Oct 2
 **88990** formal assertions on nervous system components, of which **21056** are SubClassOf assertions and **67934** are other relationship types  
   
 ***``Image Content``***  
+*``(excludes hemibrain v1.0.1)``*  
   
-**168100** total images from **101** datasets  
-**70346** single neuron images of **5830** cell types  
-**48120** images of expression patterns of **17158** drivers  
-**4858** images of expression patterns of **676** split combinations  
+**126587** total images from **99** datasets  
+**49074** single neuron images of **5809** cell types  
+**43695** images of expression patterns of **16876** drivers  
+**2737** images of expression patterns of **579** split combinations  
+**49038** images of expression pattern fragments of **4601** drivers  
   
 ***``Annotations``***  
   
-**115733** annotations recording **3958** types of anatomical structure that **17322** specific driver lines are expressed in.  
-**99369** annotations recording **2898** parts of the nervous system that **14695** specific driver lines are expressed in.  
-**17265** annotations recording **1858** types of neuron that **4795** specific driver lines are expressed in.  
+**115701** annotations recording **3958** types of anatomical structure that **17317** specific driver lines are expressed in.  
+**99379** annotations recording **2898** parts of the nervous system that **14696** specific driver lines are expressed in.  
+**17268** annotations recording **1858** types of neuron that **4795** specific driver lines are expressed in.  
 **6034** annotations recording **686** types of neuron that **1508** specific split combinations are expressed in.  
   
 ***``Connectivity``***  
@@ -51,13 +53,14 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 17 Oct 2
   
   
 ***``Content by Template``***  
+*``(excludes hemibrain v1.0.1)``*  
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |Adult Head (McKellar2020)|1|18|0|0|0|0|0|0|
 |adult VNS template - Court2018|10|3217|1|0|3193|494|0|22|
-|JRC_FlyEM_Hemibrain|3|43943|43830|43829|0|0|0|114|
-|JRC2018Unisex|65|119480|64817|48038|31655|1632|38796|46|
+|JRC_FlyEM_Hemibrain|2|22701|22588|22587|0|0|0|114|
+|JRC2018Unisex|64|98239|43576|26797|31655|1632|38796|46|
 |L1 larval CNS ssTEM - Cardona/Janelia|22|3463|3463|3463|0|0|0|0|
 |JRC2018UnisexVNC|21|20604|2030|2029|8314|625|10240|21|
 |adult brain template Ito2014|1|75|1|0|0|0|0|75|
