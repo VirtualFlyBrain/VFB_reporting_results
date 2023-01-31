@@ -96,6 +96,8 @@ jobs:
           git config --global user.name "gitHub actions"
           git add .
           git status
+          git commit -a -m "Automated report running. See https://github.com/VirtualFlyBrain/VFB_reporting_results/actions"
+          git status
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
