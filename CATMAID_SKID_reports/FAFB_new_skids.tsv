@@ -1,40 +1,11 @@
 skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
-534333	aSP-g2_L#5	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_L#5 (17678388), FBbt:00051555 (17678558)	aSP-g candidate L 534334 GSXEJ	
-1055936	aSP-g2_L#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_L#1 (17678380), FBbt:00051555 (17678558)	aSP-g candidate L 1055937 GSXEJ IT	
-1064624	G2N-SLP2_R	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP2_R (17678412)	bilateral median SEZ PN RHS 1064625 IT KMS	
-1064687	aSP-g2_L#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_L#2 (17678382), FBbt:00051555 (17678558)	aSP-g candidate L 1064688 IT KMS	
-1064853	aSP-g2_R#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_R#1 (17678390), FBbt:00051555 (17678558)	aSP-g candidate R 1064854 IT	
-1064888	aSP-g1_L#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_L#1 (17678364), FBbt:00049330 (15980478)	aSP-g candidate L 1064889 IT	
-1070581	aSP-g1_R#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_R#1 (17678370), FBbt:00049330 (15980478)	aSP-g candidate R 1070582 IT	
-1074687	aSP-g1_R#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_R#2 (17678372), FBbt:00049330 (15980478)	aSP-g candidate R 1074688 IT	
-1079881	aSP-g1_R#3	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_R#3 (17678374), FBbt:00049330 (15980478)	aSP-g candidate R 1079882 IT	
-1083904	aSP-g1_R#4	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_R#4 (17678376), FBbt:00049330 (15980478)	aSP-g candidate R 1083905 IT	
-1086385	aSP-g2_R#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_R#2 (17678392), FBbt:00051555 (17678558)	aSP-g candidate R 1086386 IT	
 1088678	H2_R	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00052267 (17692128), H2_R (17695708)	H2 neuron (right) 1088679 ZSG	
-1100594	aSP-g1_L#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_L#2 (17678366), FBbt:00049330 (15980478)	aSP-g candidate L 1100595 IT KMS	
-1101176	aSP-g1_L#3	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g1_L#3 (17678368), FBbt:00049330 (15980478)	aSP-g candidate L 1101177 KMS IT	
-1102458	G2N-SLP4_R	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP4_R (17678468)	t2ALT SEZ PN 1 RHS 1102459 RJVR ARH	
-1168923	aSP-g3_R#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g3_R#2 (17678402)	aSP-g candidate R 1168924 IT	
 1177714	T4b_R#1	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#1 (17694958)	Putative T4b 1177715 ZSG	
-1180353	mAL3_L#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), mAL3_L#1 (17678474)	putative mAL (aDT-b) neuron 1180354 KM	
-1181286	mAL3_L#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), mAL3_L#2 (17678476)	putative mAL (aDT-b) neuron 1181287 DG	
-1316642	AD1g1_R	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), AD1g1_R (17678362), FBbt:00051561 (17678548)	GF input neuron 1316643 MAR SMA JSP - unclassified type 123	
-1334561	mAL3_L#3	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), mAL3_L#3 (17678478)	putative mAL (aDT-b) neuron 1334562 IT	
 1737101	T4d_R#1	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#1 (17695354)	Putative T4d 1737102 AT	
-1811965	LHAV2a2_R#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), FBbt:00049338 (17678566), LHAV2a2_R#1 (17678591)	AV2a2#2 1811966 KM	
 1857918	T4d_R#2	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#2 (17695356)	Putative T4d 1857919 HL	
 1949451	T4d_R#3	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#3 (17695358)	Putative T4d 1949452 AT	
 2107285	T4d_R#4	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#4 (17695360)	Putative T4d 2107286 AT	
 2195736	T4b_R#2	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#2 (17694960)	Putative T4b 2195737 CL	
-2255652	G2N-SLP5_R	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP5_R (17678472)	t3ALT SEZ PN 1 RHS 2255653 KM	
-2390280	mAL3_L#4	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), mAL3_L#4 (17678480)	putative mAL (aDT-b) neuron 2390281 KM	
-2686821	G2N-SLP3_R#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP3_R#1 (17678458)	unilateral median SEZ PN RHS #1 2686822 RJVR Jokanaan	
-3781311	G2N-SLP3_R#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP3_R#2 (17678460)	unilateral median SEZ PN RHS #2 3781312 KM RJVR IT Herod Antipas	
-3917175	G2N-aSLP_R#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_R#1 (17678448)	Putative TPN 3917176 Marius SD	
-3927073	mAL3_L#5	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), mAL3_L#5 (17678482)	putative mAL (aDT-b) neuron 3927074 IV	
-4311394	mAL3_L#6	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), mAL3_L#6 (17678484)	putative mAL (aDT-b) neuron 4311395 IV	
-4520197	Multiglomerular mALT lvPN#L1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L1 (17678422), FBbt:00049785 (17678570)	T2 nc mPN mALT left DA1 + 4520198 Patchouli ARJ	
-4520615	Multiglomerular mALT lvPN#L3	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L3 (17687349), FBbt:00049785 (17678570)	T2 nc mPN mALT left DA1 4520616 Sandalwood ARJ	
 5244852	T4d_R#5	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#5 (17695362)	Putative T4d 5244853 CPM	
 5261059	T4b_R#3	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#3 (17694962)	Putative T4b 5261060 CPM	
 5293678	T4a_R#1	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#1 (17694882)	Putative T4a 5293679 CPM	
@@ -84,7 +55,6 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 5669023	T4b_R#18	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#18 (17694992)	Putative T4b 5669024 CPM	
 5671937	T4c_R#3	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003734 (17691926), T4c_R#3 (17695314)	Putative T4c 5671938 CPM	
 5860469	T4a_R#14	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#14 (17694908)	Putative T4a 5860470 CPM	
-5864214	pGRN_R	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), pGRN_R (17678464)	pharyngeal RN R 5864215 IT	
 5892816	T4c_R#4	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003734 (17691926), T4c_R#4 (17695316)	Putative T4c 5892817 CPM	
 5908440	T4b_R#19	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#19 (17694994)	Putative T4b 5908441 CPM	
 5956857	T4a_R#15	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#15 (17694910)	Putative T4a 5956858 CPM	
@@ -107,7 +77,6 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 6666977	T4b_R#29	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#29 (17695014)	Putative T4b 6666978 CPM	
 6671825	T4b_R#30	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#30 (17695016)	Putative T4b 6671826 CPM	
 6700529	T4b_R#31	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#31 (17695018)	Putative T4b 6700530 CPM	
-6762450	LHAV2a2_R#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), FBbt:00049338 (17678566), LHAV2a2_R#2 (17678594)	AV2a2#1 6762451 Swan ASB	
 6769908	Mi1_R#10	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003776 (17674481), Mi1_R#10 (17693340)	Putative Mi1 6769909 HL	
 6884008	Mi1_R#11	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003776 (17674481), Mi1_R#11 (17693342)	Putative Mi1 6884009 HL	
 6934206	T4a_R#21	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#21 (17694922)	Putative T4a 6934207 CPM	
@@ -115,7 +84,6 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 6980083	T4b_R#33	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#33 (17695022)	Putative T4b 6980084 CPM	
 6991012	T4b_R#34	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#34 (17695024)	Putative T4b 6991013 CPM	
 7052819	T4b_R#35	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#35 (17695026)	Putative T4b 7052820 CPM	
-7108314	pGRN_L	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), pGRN_L (17678462)	pharyngeal RN L 7108315	
 7112001	T4b_R#36	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#36 (17695028)	Putative T4b 7112002 CPM	
 7139076	T4a_R#22	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#22 (17694924)	Putative T4a 7139077 CPM	
 7139333	T4d_R#21	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#21 (17695394)	Putative T4d 7139334 CPM	
@@ -133,15 +101,6 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 7354439	T4b_R#43	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#43 (17695042)	Putative T4b 7354440 CPM	
 7365441	T4d_R#24	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#24 (17695400)	Putative T4d 7365442 CPM	
 7377162	T4b_R#44	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#44 (17695044)	Putative T4b 7377163 CPM	
-7414898	Multiglomerular mALT lvPN#L7	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L7 (17678420), FBbt:00049785 (17678570)	T1b nc mPN mALT left 7414899 Le Male ARJ	
-7414916	Multiglomerular mALT lvPN#L6	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L6 (17678418), FBbt:00049785 (17678570)	T1b nc mPN mALT left 7414917 Drakkar Noir ARJ	
-7423477	Multiglomerular mALT lvPN#L5	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L5 (17678416), FBbt:00049785 (17678570)	T1b nc mPN mALT left 7423478 Blue Stratos ARJ	
-7430367	Multiglomerular mALT lvPN#L4	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L4 (17678414), FBbt:00049785 (17678570)	T1b nc mPN mALT left 7430368 Vetiver ARJ	
-7552826	G2N-SLP1_L	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP1_L (17678450)	SEZ lALT PN LHS 7552827 IT They hatin'	
-7710838	Multiglomerular mALT lvPN#L2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), Multiglomerular mALT lvPN#L2 (17678424), FBbt:00049785 (17678570)	T2 nc mPN mALT left 7710839 Four-Seven-One-One ARJ	
-7856299	aSP-g3_L#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g3_L#1 (17678394)	aSP-g candidate L 7856300 IT	
-7899781	aSP-g2_L#3	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_L#3 (17678384), FBbt:00051555 (17678558)	aSP-g candidate L 7899782 IT	
-7918690	aSP-g2_L#4	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), aSP-g2_L#4 (17678386), FBbt:00051555 (17678558)	aSP-g candidate L 7918691 IT	
 8064183	T4d_R#25	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#25 (17695402)	Putative T4d 8064184 CPM	
 8085479	T4b_R#45	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#45 (17695046)	Putative T4b 8085480 CPM	
 8085949	T4d_R#26	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#26 (17695404)	Putative T4d 8085950 CPM	
@@ -228,9 +187,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 8957775	T4b_R#93	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#93 (17695142)	Putative T4b 8957776 MF	
 8967053	T4b_R#94	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#94 (17695144)	Putative T4b 8967054 MF	
 9014290	T4d_R#52	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#52 (17695456)	Putative T4d 9014291 MF	
-9040832	G2N-SLP5_L	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP5_L (17678470)	t3ALT SEZ PN 1 LHS 9040833 IV	
 9143289	T4b_R#95	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#95 (17695146)	Putative T4b 9143290 MF	
-9165878	G2N-SLP4_L	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP4_L (17678466)	t2ALT SEZ PN 1 LHS 9165879 BM	
 9171715	T4b_R#96	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#96 (17695148)	Putative T4b 9171716 MF	
 9215386	T4a_R#27	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#27 (17694934)	Putative T4a 9215387 BG	
 9315457	T4b_R#97	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#97 (17695150)	Putative T4b 9315458 MF	
@@ -240,7 +197,6 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 9397094	T4d_R#55	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#55 (17695462)	Putative T4d 9397095 MF	
 9443223	T4d_R#56	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#56 (17695464)	Putative T4d 9443224 BG	
 9446047	T4d_R#57	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#57 (17695466)	Putative T4d 9446048 MF HL	
-9484087	G2N-SLP3_L#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP3_L#1 (17678454)	unilateral median SEZ PN RHS #2 [FLAa2] 9484088 IV	
 9501514	T4a_R#28	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#28 (17694936)	Putative T4a 9501515 MF	
 9632112	T4d_R#58	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#58 (17695468)	Putative T4d 9632113 MF	
 9759637	T4b_R#99	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#99 (17695154)	Putative T4b 9759638 HL	
@@ -364,16 +320,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 11440919	T4b_R#145	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#145 (17695246)	Putative T4b 11440920 BG	
 11441138	T4c_R#13	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003734 (17691926), T4c_R#13 (17695334)	Putative T4c 11441139 BG	
 11442375	T4c_R#14	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003734 (17691926), T4c_R#14 (17695336)	Putative T4c 11442376 BG	
-11463951	G2N-aSLP_L#1	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#1 (17678428)	Gustatory ascending neuron 11463952 Grasmoor SB	
-11464526	G2N-SLP3_L#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-SLP3_L#2 (17678456)	unilateral median SEZ PN LHS #1 [FLAa2] 11464527 SB	
-11483002	G2N-aSLP_L#2	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#2 (17678430)	Gustatory ascending neuron 11483002 Kirk Fell SB	
 11488881	T4b_R#146	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#146 (17695248)	Putative T4b 11488882 AT	
-11490387	G2N-aSLP_L#3	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#3 (17678432)	Gustatory ascending neuron 11490388 Glaramara IV	
-11491648	G2N-aSLP_L#4	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#4 (17678434)	Gustatory ascending neuron 11491648 Pillar BM	
-11491723	G2N-aSLP_L#5	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#5 (17678436)	Gustatory ascending neuron 11491724 Harrison SB 	
-11491809	G2N-aSLP_L#6	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#6 (17678438)	Gustatory ascending neuron 11491810 Fairfield IV	
-11491851	G2N-aSLP_L#7	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#7 (17678440)	Gustatory ascending neuron 11491852 Scafell SB	
-11495175	G2N-aSLP_L#8	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#8 (17678442)	Gustatory ascending neuron 11495176 Yewbarrow SB	
 11513571	T4d_R#89	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#89 (17695530)	Putative T4d 11513572 AT	
 11560744	T4c_R#15	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003734 (17691926), T4c_R#15 (17695338)	Putative T4c 11560745 BG	
 11607522	T4d_R#90	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#90 (17695532)	Putative T4d 11607523 AT	
@@ -390,8 +337,6 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 11883462	T4b_R#151	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#151 (17695258)	Putative T4b 11883463 CL	
 11925045	T4b_R#152	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003733 (17691749), T4b_R#152 (17695260)	Putative T4b 11925046 AT	
 11966849	T4a_R#35	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#35 (17694950)	Putative T4a 11966850 AT	
-11968494	G2N-aSLP_L#9	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#9 (17678444)	Gustatory ascending neuron 11968495 Bowfell SB	
-11968950	G2N-aSLP_L#10	17675931	Paper: Taisz and Galili et al 2022	Paper: Taisz and Galili et al 2022 (17675931), G2N-aSLP_L#10 (17678446)	Gustatory ascending neuron 11968951 Great Gable SB	
 12074203	T4c_R#17	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003734 (17691926), T4c_R#17 (17695342)	Putative T4c 12074204 AT	
 12090395	T4a_R#36	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003732 (17691710), T4a_R#36 (17694952)	Putative T4a 12090396 BG	
 12100539	T4d_R#94	17687355	Paper: Zhao et al 2023	Paper: Zhao et al 2023 (17687355), FBbt:00003735 (17691949), T4d_R#94 (17695540)	Putative T4d 12100540 AT	
