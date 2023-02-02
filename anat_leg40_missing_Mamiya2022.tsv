@@ -1,5 +1,5 @@
 filename	label	is_a	part_of	comment	dbxrefs
-1688860	arculum midline (FANC:1688860)	neuron	female organism|adult ventral nerve cord	arculum	catmaid_leg40:1688860
-1688874	arculum outline (FANC:1688874)	neuron	female organism|adult ventral nerve cord	outline, arculum	catmaid_leg40:1688874
-1688887	FeCO medial tendon (FANC:1688887)	neuron	female organism|adult ventral nerve cord	sensory tendon	catmaid_leg40:1688887
-1688899	FeCO lateral tendon (FANC:1688899)	neuron	female organism|adult ventral nerve cord	sensory tendon	catmaid_leg40:1688899
+1688860	arculum midline (T1LEG:1688860)	neuron	female organism|prothoracic leg	arculum	catmaid_leg40:1688860
+1688874	arculum outline (T1LEG:1688874)	neuron	female organism|prothoracic leg	outline, arculum	catmaid_leg40:1688874
+1688887	FeCO medial tendon (T1LEG:1688887)	neuron	female organism|prothoracic leg	sensory tendon	catmaid_leg40:1688887
+1688899	FeCO lateral tendon (T1LEG:1688899)	neuron	female organism|prothoracic leg	sensory tendon	catmaid_leg40:1688899
