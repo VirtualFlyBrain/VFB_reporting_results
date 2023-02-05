@@ -4,9 +4,9 @@ filename	label	is_a	part_of	comment	dbxrefs
 601754	neuron 141315 (T1LEG:601754)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103466, neuron 104290, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:601754
 601775	neuron 100361 (T1LEG:601775)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:601775
 601787	muscle 94219 (T1LEG:601787)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:601787
-601803	neuron 82450 (T1LEG:601803)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:601803
+601803	neuron 82450 (T1LEG:601803)	neuron	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:601803
 601821	neuron 100367 (T1LEG:601821)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:601821
-601833	neuron 81936 (T1LEG:601833)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	possible bilateral campaniform sensillum, main leg nerve, TrCS8, sensory neuron, trochanteral campaniform sensillum	catmaid_leg40:601833
+601833	neuron 81936 (T1LEG:601833)	neuron	female organism|prothoracic leg	possible bilateral campaniform sensillum, main leg nerve, TrCS8, sensory neuron, trochanteral campaniform sensillum	catmaid_leg40:601833
 601860	muscle 94226 (T1LEG:601860)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:601860
 601873	neuron 100373 (T1LEG:601873)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:601873
 601885	Neuron 112666 (T1LEG:601885)	neuron	female organism|prothoracic leg	femoral motor neuron, long tendon muscle 2 motor neuron	catmaid_leg40:601885
@@ -15,7 +15,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 601939	muscle 94242 (T1LEG:601939)	neuron	female organism|prothoracic leg	femur muscle 4, anterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:601939
 601952	neuron 100390 (T1LEG:601952)	neuron	female organism|prothoracic leg	tibial bristle, sensory neuron	catmaid_leg40:601952
 601964	neuron 100396 (T1LEG:601964)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:601964
-601976	neuron 81965 (T1LEG:601976)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	TrCS8, sensory neuron, trochanteral campaniform sensillum	catmaid_leg40:601976
+601976	neuron 81965 (T1LEG:601976)	neuron	female organism|prothoracic leg	TrCS8, sensory neuron, trochanteral campaniform sensillum	catmaid_leg40:601976
 601992	neuron 100403 (T1LEG:601992)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:601992
 602004	muscle 94260 (T1LEG:602004)	neuron	female organism|prothoracic leg	femur muscle 4, anterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602004
 602017	muscle 94266 (T1LEG:602017)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602017
@@ -39,42 +39,42 @@ filename	label	is_a	part_of	comment	dbxrefs
 602252	muscle 94337 (T1LEG:602252)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602252
 602265	muscle 94343 (T1LEG:602265)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602265
 602278	neuron 100488 (T1LEG:602278)	neuron	female organism|prothoracic leg	tibial bristle, sensory neuron	catmaid_leg40:602278
-602290	neuron 82061 (T1LEG:602290)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602290
+602290	neuron 82061 (T1LEG:602290)	neuron	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602290
 602313	muscle 94349 (T1LEG:602313)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602313
 602326	neuron 100494 (T1LEG:602326)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:602326
-602338	neuron 82065 (T1LEG:602338)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602338
+602338	neuron 82065 (T1LEG:602338)	neuron	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602338
 602357	neuron 100500 (T1LEG:602357)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:602357
-602369	neuron 82073 (T1LEG:602369)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602369
+602369	neuron 82073 (T1LEG:602369)	neuron	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602369
 602388	neuron 100508 (T1LEG:602388)	neuron	female organism|prothoracic leg	tibial bristle, sensory neuron	catmaid_leg40:602388
-602400	neuron 82079 (T1LEG:602400)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602400
+602400	neuron 82079 (T1LEG:602400)	neuron	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602400
 602419	neuron 100514 (T1LEG:602419)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:602419
-602431	neuron 82085 (T1LEG:602431)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602431
+602431	neuron 82085 (T1LEG:602431)	neuron	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602431
 602450	neuron 104614 (T1LEG:602450)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103367, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:602450
 602466	neuron 100520 (T1LEG:602466)	neuron	female organism|prothoracic leg	tibial bristle, sensory neuron	catmaid_leg40:602466
 602478	neuron 104624 (T1LEG:602478)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103343, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:602478
-602494	neuron 82097 (T1LEG:602494)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	thorax-coxa joint, CoHP8, ventral nerve, sensory neuron, hair plate	catmaid_leg40:602494
-602513	neuron 82103 (T1LEG:602513)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602513
-602532	neuron 82109 (T1LEG:602532)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	dorsal nerve, thorax-coxa joint, CoHP3, hair plate, sensory neuron	catmaid_leg40:602532
+602494	neuron 82097 (T1LEG:602494)	neuron	female organism|prothoracic leg	thorax-coxa joint, CoHP8, ventral nerve, sensory neuron, hair plate	catmaid_leg40:602494
+602513	neuron 82103 (T1LEG:602513)	neuron	female organism|prothoracic leg	ventral nerve, thorax-coxa joint, CoHP8, sensory neuron, hair plate	catmaid_leg40:602513
+602532	neuron 82109 (T1LEG:602532)	neuron	female organism|prothoracic leg	dorsal nerve, thorax-coxa joint, CoHP3, hair plate, sensory neuron	catmaid_leg40:602532
 602551	neuron 141507 (T1LEG:602551)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103476, neuron 95871, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:602551
-602569	neuron 82116 (T1LEG:602569)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	dorsal nerve, thorax-coxa joint, CoHP3, hair plate, sensory neuron	catmaid_leg40:602569
+602569	neuron 82116 (T1LEG:602569)	neuron	female organism|prothoracic leg	dorsal nerve, thorax-coxa joint, CoHP3, hair plate, sensory neuron	catmaid_leg40:602569
 602586	neuron 141511 (T1LEG:602586)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103491, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:602586
 602602	muscle 94409 (T1LEG:602602)	neuron	female organism|prothoracic leg	femur muscle 4, anterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602602
-602615	neuron 82123 (T1LEG:602615)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	dorsal nerve, thorax-coxa joint, CoHP3, hair plate, sensory neuron	catmaid_leg40:602615
+602615	neuron 82123 (T1LEG:602615)	neuron	female organism|prothoracic leg	dorsal nerve, thorax-coxa joint, CoHP3, hair plate, sensory neuron	catmaid_leg40:602615
 602632	muscle 94415 (T1LEG:602632)	neuron	female organism|prothoracic leg	femur muscle 4, anterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602632
 602645	muscle 94421 (T1LEG:602645)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602645
-602658	neuron 82135 (T1LEG:602658)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	accessory nerve, thorax-coxa joint, CoHP4, hair plate, sensory neuron	catmaid_leg40:602658
+602658	neuron 82135 (T1LEG:602658)	neuron	female organism|prothoracic leg	accessory nerve, thorax-coxa joint, CoHP4, hair plate, sensory neuron	catmaid_leg40:602658
 602679	muscle 94427 (T1LEG:602679)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602679
 602692	neuron 141532 (T1LEG:602692)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103394, neuron 95572, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:602692
-602710	neuron 82141 (T1LEG:602710)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	accessory nerve, thorax-coxa joint, CoHP4, hair plate, sensory neuron	catmaid_leg40:602710
-602729	neuron 73952 (T1LEG:602729)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	split hair receptor, TrHP7, coxa-trochanter joint, sensory neuron, hair plate	catmaid_leg40:602729
+602710	neuron 82141 (T1LEG:602710)	neuron	female organism|prothoracic leg	accessory nerve, thorax-coxa joint, CoHP4, hair plate, sensory neuron	catmaid_leg40:602710
+602729	neuron 73952 (T1LEG:602729)	neuron	female organism|prothoracic leg	split hair receptor, TrHP7, coxa-trochanter joint, sensory neuron, hair plate	catmaid_leg40:602729
 602752	muscle 94434 (T1LEG:602752)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602752
-602765	neuron 82147 (T1LEG:602765)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	accessory nerve, thorax-coxa joint, CoHP4, hair plate, sensory neuron	catmaid_leg40:602765
+602765	neuron 82147 (T1LEG:602765)	neuron	female organism|prothoracic leg	accessory nerve, thorax-coxa joint, CoHP4, hair plate, sensory neuron	catmaid_leg40:602765
 602784	muscle 94440 (T1LEG:602784)	neuron	female organism|prothoracic leg	femur muscle 6, posterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:602784
 602797	neuron 82154 (T1LEG:602797)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:602797
 602810	femoral stretch receptor (T1LEG:602810)	neuron	female organism|prothoracic leg	femoral stretch receptor, sensory neuron, main leg nerve, minor sensory neuron type	catmaid_leg40:602810
 602827	neuron 82160 (T1LEG:602827)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:602827
 602839	neuron 82166 (T1LEG:602839)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:602839
-602851	neuron 88315 (T1LEG:602851)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	thorax-coxa joint, CoHP4, accessory nerve, sensory neuron, hair plate	catmaid_leg40:602851
+602851	neuron 88315 (T1LEG:602851)	neuron	female organism|prothoracic leg	thorax-coxa joint, CoHP4, accessory nerve, sensory neuron, hair plate	catmaid_leg40:602851
 602870	neuron 82172 (T1LEG:602870)	neuron	female organism|prothoracic leg	leaves volume, coxal bristle, sensory neuron	catmaid_leg40:602870
 602884	neuron 96507 (T1LEG:602884)	neuron	female organism|prothoracic leg	leaves volume, trochanteral bristle, sensory neuron	catmaid_leg40:602884
 602898	neuron 82178 (T1LEG:602898)	neuron	female organism|prothoracic leg	leaves volume, coxal bristle, sensory neuron	catmaid_leg40:602898
@@ -85,32 +85,32 @@ filename	label	is_a	part_of	comment	dbxrefs
 602962	neuron 82196 (T1LEG:602962)	neuron	female organism|prothoracic leg	trochanteral bristle, sensory neuron	catmaid_leg40:602962
 602974	neuron 82202 (T1LEG:602974)	neuron	female organism|prothoracic leg	trochanteral bristle, sensory neuron	catmaid_leg40:602974
 602986	neuron 82208 (T1LEG:602986)	neuron	female organism|prothoracic leg	sensory neuron, coxal bristle	catmaid_leg40:602986
-602998	neuron 74024 (T1LEG:602998)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, sensory neuron, hair plate	catmaid_leg40:602998
+602998	neuron 74024 (T1LEG:602998)	neuron	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, sensory neuron, hair plate	catmaid_leg40:602998
 603014	neuron 141609 (T1LEG:603014)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103420, neuron 95878, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:603014
-603032	neuron 74033 (T1LEG:603032)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, sensory neuron, hair plate	catmaid_leg40:603032
-603049	neuron 74059 (T1LEG:603049)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP6, hair plate, coxa-trochanter joint, sensory neuron	catmaid_leg40:603049
+603032	neuron 74033 (T1LEG:603032)	neuron	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, sensory neuron, hair plate	catmaid_leg40:603032
+603049	neuron 74059 (T1LEG:603049)	neuron	female organism|prothoracic leg	TrHP6, hair plate, coxa-trochanter joint, sensory neuron	catmaid_leg40:603049
 603068	neuron 82253 (T1LEG:603068)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:603068
 603080	neuron 82259 (T1LEG:603080)	neuron	female organism|prothoracic leg	coxal bristle, leaves volume, sensory neuron	catmaid_leg40:603080
 603093	neuron 82265 (T1LEG:603093)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:603093
-603105	neuron 74075 (T1LEG:603105)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP6, hair plate, coxa-trochanter joint, sensory neuron	catmaid_leg40:603105
+603105	neuron 74075 (T1LEG:603105)	neuron	female organism|prothoracic leg	TrHP6, hair plate, coxa-trochanter joint, sensory neuron	catmaid_leg40:603105
 603122	neuron 82271 (T1LEG:603122)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:603122
 603134	neuron 82343 (T1LEG:603134)	neuron	female organism|prothoracic leg	trochanteral campaniform sensillum, TrCS3, sensory neuron	catmaid_leg40:603134
 603152	neuron 82277 (T1LEG:603152)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:603152
 603164	neuron 82283 (T1LEG:603164)	neuron	female organism|prothoracic leg	leaves volume, coxal bristle, sensory neuron	catmaid_leg40:603164
 603177	neuron 125299 (T1LEG:603177)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103322, neuron 95902, femoral chordotonal neuron, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:603177
 603196	neuron 82295 (T1LEG:603196)	neuron	female organism|prothoracic leg	coxal bristle, sensory neuron	catmaid_leg40:603196
-603208	neuron 74108 (T1LEG:603208)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603208
-603225	neuron 82301 (T1LEG:603225)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP5, sensory neuron, hair plate	catmaid_leg40:603225
-603242	neuron 86401 (T1LEG:603242)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	bilateral campaniform sensillum, main leg nerve, trochanteral campaniform sensillum, TrCS8, sensory neuron	catmaid_leg40:603242
-603263	neuron 82307 (T1LEG:603263)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP5, hair plate, sensory neuron	catmaid_leg40:603263
-603278	neuron 74116 (T1LEG:603278)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP7, hair plate, coxa-trochanter joint, sensory neuron	catmaid_leg40:603278
-603294	neuron 90499 (T1LEG:603294)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP1, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603294
+603208	neuron 74108 (T1LEG:603208)	neuron	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603208
+603225	neuron 82301 (T1LEG:603225)	neuron	female organism|prothoracic leg	TrHP5, sensory neuron, hair plate	catmaid_leg40:603225
+603242	neuron 86401 (T1LEG:603242)	neuron	female organism|prothoracic leg	bilateral campaniform sensillum, main leg nerve, trochanteral campaniform sensillum, TrCS8, sensory neuron	catmaid_leg40:603242
+603263	neuron 82307 (T1LEG:603263)	neuron	female organism|prothoracic leg	TrHP5, hair plate, sensory neuron	catmaid_leg40:603263
+603278	neuron 74116 (T1LEG:603278)	neuron	female organism|prothoracic leg	TrHP7, hair plate, coxa-trochanter joint, sensory neuron	catmaid_leg40:603278
+603294	neuron 90499 (T1LEG:603294)	neuron	female organism|prothoracic leg	TrHP1, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603294
 603310	neuron 90506 (T1LEG:603310)	neuron	female organism|prothoracic leg	trochanteral campaniform sensillum, TrCS5, sensory neuron	catmaid_leg40:603310
 603329	muscle 94606 (T1LEG:603329)	neuron	female organism|prothoracic leg	trochanter muscle 2, trochanteral muscle fiber	catmaid_leg40:603329
 603343	neuron 125333 (T1LEG:603343)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103155, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:603343
-603360	neuron 74135 (T1LEG:603360)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603360
+603360	neuron 74135 (T1LEG:603360)	neuron	female organism|prothoracic leg	TrHP7, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603360
 603376	neuron 125341 (T1LEG:603376)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103204, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:603376
-603392	neuron 74143 (T1LEG:603392)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	split hair receptor, TrHP7, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603392
+603392	neuron 74143 (T1LEG:603392)	neuron	female organism|prothoracic leg	split hair receptor, TrHP7, coxa-trochanter joint, hair plate, sensory neuron	catmaid_leg40:603392
 603409	muscle 94624 (T1LEG:603409)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603409
 603422	neuron 82337 (T1LEG:603422)	neuron	female organism|prothoracic leg	leaves volume, trochanteral bristle, sensory neuron	catmaid_leg40:603422
 603435	muscle 94628 (T1LEG:603435)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603435
@@ -132,10 +132,10 @@ filename	label	is_a	part_of	comment	dbxrefs
 603662	muscle 94672 (T1LEG:603662)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603662
 603674	muscle 94676 (T1LEG:603674)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603674
 603686	neuron 125397 (T1LEG:603686)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103327, femoral chordotonal neuron, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:603686
-603702	neuron 82393 (T1LEG:603702)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP5, sensory neuron, hair plate	catmaid_leg40:603702
+603702	neuron 82393 (T1LEG:603702)	neuron	female organism|prothoracic leg	TrHP5, sensory neuron, hair plate	catmaid_leg40:603702
 603717	neuron 125415 (T1LEG:603717)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103372, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:603717
 603733	muscle 94697 (T1LEG:603733)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603733
-603745	neuron 74219 (T1LEG:603745)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	split hair receptor, hair plate, sensory neuron, TrHP5	catmaid_leg40:603745
+603745	neuron 74219 (T1LEG:603745)	neuron	female organism|prothoracic leg	split hair receptor, hair plate, sensory neuron, TrHP5	catmaid_leg40:603745
 603762	muscle 94703 (T1LEG:603762)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603762
 603774	neuron 125427 (T1LEG:603774)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103382, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:603774
 603790	neuron 131571 (T1LEG:603790)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103322, femoral chordotonal neuron, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:603790
@@ -146,8 +146,8 @@ filename	label	is_a	part_of	comment	dbxrefs
 603858	neuron 82427 (T1LEG:603858)	neuron	female organism|prothoracic leg	leaves volume, femoral bristle, sensory neuron	catmaid_leg40:603858
 603871	muscle 94719 (T1LEG:603871)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603871
 603883	neuron 125439 (T1LEG:603883)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103349, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:603883
-603899	neuron 82433 (T1LEG:603899)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	main leg nerve, FeCS11, sensory neuron, femoral campaniform sensillum	catmaid_leg40:603899
-603919	neuron 82439 (T1LEG:603919)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	main leg nerve, femoral campaniform sensillum, FeCS11, sensory neuron	catmaid_leg40:603919
+603899	neuron 82433 (T1LEG:603899)	neuron	female organism|prothoracic leg	main leg nerve, FeCS11, sensory neuron, femoral campaniform sensillum	catmaid_leg40:603899
+603919	neuron 82439 (T1LEG:603919)	neuron	female organism|prothoracic leg	main leg nerve, femoral campaniform sensillum, FeCS11, sensory neuron	catmaid_leg40:603919
 603936	muscle 94727 (T1LEG:603936)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603936
 603948	neuron 125451 (T1LEG:603948)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103361, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:603948
 603964	neuron 82444 (T1LEG:603964)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:603964
@@ -155,20 +155,20 @@ filename	label	is_a	part_of	comment	dbxrefs
 603988	muscle 94739 (T1LEG:603988)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:603988
 604000	neuron 117267 (T1LEG:604000)	neuron	female organism|prothoracic leg	main leg nerve, tibial motor neuron	catmaid_leg40:604000
 604016	LinB-Tr2 neuron 74261 (T1LEG:604016)	neuron	female organism|prothoracic leg	possible LinB-Tr2, main leg nerve, trochanteral motor neuron	catmaid_leg40:604016
-604038	neuron 82455 (T1LEG:604038)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, sensory neuron, femoral campaniform sensillum	catmaid_leg40:604038
+604038	neuron 82455 (T1LEG:604038)	neuron	female organism|prothoracic leg	FeCS11, sensory neuron, femoral campaniform sensillum	catmaid_leg40:604038
 604053	muscle 94745 (T1LEG:604053)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:604053
-604065	neuron 82460 (T1LEG:604065)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	sensory neuron, FeCS11, femoral campaniform sensillum	catmaid_leg40:604065
+604065	neuron 82460 (T1LEG:604065)	neuron	female organism|prothoracic leg	sensory neuron, FeCS11, femoral campaniform sensillum	catmaid_leg40:604065
 604080	muscle 94751 (T1LEG:604080)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:604080
-604092	neuron 82465 (T1LEG:604092)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, sensory neuron, femoral campaniform sensillum	catmaid_leg40:604092
-604106	neuron 82470 (T1LEG:604106)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604106
+604092	neuron 82465 (T1LEG:604092)	neuron	female organism|prothoracic leg	FeCS11, sensory neuron, femoral campaniform sensillum	catmaid_leg40:604092
+604106	neuron 82470 (T1LEG:604106)	neuron	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604106
 604121	muscle 94762 (T1LEG:604121)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:604121
-604133	neuron 82475 (T1LEG:604133)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604133
-604148	neuron 82480 (T1LEG:604148)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604148
+604133	neuron 82475 (T1LEG:604133)	neuron	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604133
+604148	neuron 82480 (T1LEG:604148)	neuron	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604148
 604163	muscle 94768 (T1LEG:604163)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:604163
-604175	neuron 82485 (T1LEG:604175)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604175
+604175	neuron 82485 (T1LEG:604175)	neuron	female organism|prothoracic leg	FeCS11, femoral campaniform sensillum, sensory neuron	catmaid_leg40:604175
 604190	neuron 125493 (T1LEG:604190)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103355, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:604190
 604206	muscle 94777 (T1LEG:604206)	neuron	female organism|prothoracic leg	trochanter muscle 1, trochanteral muscle fiber	catmaid_leg40:604206
-604218	neuron 82490 (T1LEG:604218)	neuron|prothoracic femoral campaniform sensillum Sc11	female organism|prothoracic leg	femoral campaniform sensillum, sensory neuron, FeCS11	catmaid_leg40:604218
+604218	neuron 82490 (T1LEG:604218)	neuron	female organism|prothoracic leg	femoral campaniform sensillum, sensory neuron, FeCS11	catmaid_leg40:604218
 604233	neuron 94788 (T1LEG:604233)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103104, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:604233
 604249	neuron 74313 (T1LEG:604249)	neuron	female organism|prothoracic leg	possible LinA-Fe1, R81A04-Gal4, long tendon muscle 2 motor neuron, femoral motor neuron	catmaid_leg40:604249
 604275	neuron 94794 (T1LEG:604275)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103111, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:604275
@@ -228,14 +228,14 @@ filename	label	is_a	part_of	comment	dbxrefs
 605031	neuron 82640 (T1LEG:605031)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605031
 605043	neuron 94932 (T1LEG:605043)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103051, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605043
 605058	neuron 82646 (T1LEG:605058)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605058
-605070	neuron 74085 (T1LEG:605070)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	hair plate, coxa-trochanter joint, sensory neuron, TrHP6	catmaid_leg40:605070
+605070	neuron 74085 (T1LEG:605070)	neuron	female organism|prothoracic leg	hair plate, coxa-trochanter joint, sensory neuron, TrHP6	catmaid_leg40:605070
 605087	neuron 82652 (T1LEG:605087)	neuron	female organism|prothoracic leg	sensory neuron, femoral bristle	catmaid_leg40:605087
 605099	neuron 94940 (T1LEG:605099)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103056, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605099
 605114	neuron 82657 (T1LEG:605114)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605114
 605126	neuron 94946 (T1LEG:605126)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103046, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605126
 605142	neuron 82663 (T1LEG:605142)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605142
 605154	neuron 94952 (T1LEG:605154)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103041, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605154
-605170	neuron 80619 (T1LEG:605170)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	TrCS8, trochanteral campaniform sensillum, sensory neuron	catmaid_leg40:605170
+605170	neuron 80619 (T1LEG:605170)	neuron	female organism|prothoracic leg	TrCS8, trochanteral campaniform sensillum, sensory neuron	catmaid_leg40:605170
 605186	neuron 94958 (T1LEG:605186)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103046, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605186
 605201	neuron 82671 (T1LEG:605201)	neuron	female organism|prothoracic leg	femoral bristle, leaves volume, sensory neuron	catmaid_leg40:605201
 605214	scolopidium 103150 (T1LEG:605214)	neuron	female organism|prothoracic leg	dually-innervated scolopidium, femoral scolopidium, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:605214
@@ -249,10 +249,10 @@ filename	label	is_a	part_of	comment	dbxrefs
 605320	neuron 94979 (T1LEG:605320)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103036, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605320
 605335	neuron 82696 (T1LEG:605335)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605335
 605347	neuron 94985 (T1LEG:605347)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103027, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605347
-605363	neuron 74096 (T1LEG:605363)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP6, sensory neuron, hair plate, coxa-trochanter joint	catmaid_leg40:605363
+605363	neuron 74096 (T1LEG:605363)	neuron	female organism|prothoracic leg	TrHP6, sensory neuron, hair plate, coxa-trochanter joint	catmaid_leg40:605363
 605380	neuron 94991 (T1LEG:605380)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103027, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605380
 605395	neuron 94997 (T1LEG:605395)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103081, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605395
-605410	neuron 74067 (T1LEG:605410)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP6, sensory neuron, hair plate, coxa-trochanter joint	catmaid_leg40:605410
+605410	neuron 74067 (T1LEG:605410)	neuron	female organism|prothoracic leg	TrHP6, sensory neuron, hair plate, coxa-trochanter joint	catmaid_leg40:605410
 605426	muscle 92959 (T1LEG:605426)	neuron	female organism|prothoracic leg	femur muscle 4, anterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:605426
 605439	neuron 82720 (T1LEG:605439)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605439
 605451	neuron 95008 (T1LEG:605451)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103160, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605451
@@ -282,7 +282,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 605771	neuron 95058 (T1LEG:605771)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103229, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605771
 605787	scolopidium 103250 (T1LEG:605787)	neuron	female organism|prothoracic leg	dually-innervated scolopidium, femoral scolopidium, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:605787
 605800	neuron 82772 (T1LEG:605800)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605800
-605812	neuron 74046 (T1LEG:605812)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	TrHP6, sensory neuron, hair plate, coxa-trochanter joint	catmaid_leg40:605812
+605812	neuron 74046 (T1LEG:605812)	neuron	female organism|prothoracic leg	TrHP6, sensory neuron, hair plate, coxa-trochanter joint	catmaid_leg40:605812
 605828	neuron 82782 (T1LEG:605828)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:605828
 605840	neuron 95070 (T1LEG:605840)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103209, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605840
 605856	scolopidium 103264 (T1LEG:605856)	neuron	female organism|prothoracic leg	dually-innervated scolopidium, femoral scolopidium, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:605856
@@ -294,7 +294,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 605934	neuron 95082 (T1LEG:605934)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103286, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:605934
 605950	neuron 101228 (T1LEG:605950)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:605950
 605962	scolopidium 103276 (T1LEG:605962)	neuron	female organism|prothoracic leg	dually-innervated scolopidium, femoral scolopidium, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:605962
-605975	neuron 80751 (T1LEG:605975)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	TrCS8, sensory neuron, trochanteral campaniform sensillum	catmaid_leg40:605975
+605975	neuron 80751 (T1LEG:605975)	neuron	female organism|prothoracic leg	TrCS8, sensory neuron, trochanteral campaniform sensillum	catmaid_leg40:605975
 605993	neuron 82800 (T1LEG:605993)	neuron	female organism|prothoracic leg	leaves volume, femoral bristle, sensory neuron	catmaid_leg40:605993
 606006	neuron 95088 (T1LEG:606006)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103306, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:606006
 606022	muscle 93042 (T1LEG:606022)	neuron	female organism|prothoracic leg	femur muscle 4, anterior tibia reductor muscle fiber, femoral muscle fiber	catmaid_leg40:606022
@@ -337,7 +337,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 606507	neuron 101283 (T1LEG:606507)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:606507
 606519	scolopidium 103332 (T1LEG:606519)	neuron	female organism|prothoracic leg	dually-innervated scolopidium, femoral scolopidium, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:606519
 606532	neuron 82854 (T1LEG:606532)	neuron	female organism|prothoracic leg	femoral bristle, damaged, sensory neuron	catmaid_leg40:606532
-606545	neuron 80807 (T1LEG:606545)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	trochanteral campaniform sensillum, sensory neuron, TrCS8	catmaid_leg40:606545
+606545	neuron 80807 (T1LEG:606545)	neuron	female organism|prothoracic leg	trochanteral campaniform sensillum, sensory neuron, TrCS8	catmaid_leg40:606545
 606561	neuron 95142 (T1LEG:606561)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103276, femoral chordotonal neuron, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:606561
 606577	neuron 101289 (T1LEG:606577)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:606577
 606589	scolopidium 103337 (T1LEG:606589)	neuron	female organism|prothoracic leg	dually-innervated scolopidium, femoral scolopidium, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:606589
@@ -466,7 +466,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 608200	neuron 95369 (T1LEG:608200)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103317, femoral chordotonal neuron, attaches to proximal branch of FeCO medial tendon	catmaid_leg40:608200
 608216	neuron 81034 (T1LEG:608216)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 120598, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:608216
 608231	neuron 83082 (T1LEG:608231)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:608231
-608243	neuron 70796 (T1LEG:608243)	neuron|mechanosensory neuron of prothoracic coxal hair plate CoHP8|mechanosensory neuron of hair plate	female organism|prothoracic leg	thorax-coxa joint, CoHP8, sensory neuron, hair plate, ventral nerve	catmaid_leg40:608243
+608243	neuron 70796 (T1LEG:608243)	neuron	female organism|prothoracic leg	thorax-coxa joint, CoHP8, sensory neuron, hair plate, ventral nerve	catmaid_leg40:608243
 608263	neuron 101515 (T1LEG:608263)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:608263
 608275	neuron 95375 (T1LEG:608275)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103306, femoral chordotonal neuron, attaches to distal branch of FeCO medial tendon	catmaid_leg40:608275
 608290	neuron 83088 (T1LEG:608290)	neuron	female organism|prothoracic leg	femoral bristle, leaves volume, sensory neuron	catmaid_leg40:608290
@@ -482,7 +482,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 608427	neuron 101555 (T1LEG:608427)	neuron	female organism|prothoracic leg	tibial bristle, sensory neuron	catmaid_leg40:608427
 608439	neuron 83126 (T1LEG:608439)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:608439
 608451	neuron 101561 (T1LEG:608451)	neuron	female organism|prothoracic leg	tibial bristle, sensory neuron, leaves volume	catmaid_leg40:608451
-608464	neuron 81082 (T1LEG:608464)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	sensory neuron, TrHP5, coxa-trochanter joint, hair plate	catmaid_leg40:608464
+608464	neuron 81082 (T1LEG:608464)	neuron	female organism|prothoracic leg	sensory neuron, TrHP5, coxa-trochanter joint, hair plate	catmaid_leg40:608464
 608480	neuron 101569 (T1LEG:608480)	neuron	female organism|prothoracic leg	tibial bristle, leaves volume, sensory neuron	catmaid_leg40:608480
 608493	neuron 83139 (T1LEG:608493)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:608493
 608505	neuron 83150 (T1LEG:608505)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:608505
@@ -506,7 +506,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 608745	neuron 83190 (T1LEG:608745)	neuron	female organism|prothoracic leg	femoral bristle, sensory neuron	catmaid_leg40:608745
 608757	neuron 101624 (T1LEG:608757)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle, leaves volume	catmaid_leg40:608757
 608770	muscle 93434 (T1LEG:608770)	neuron	female organism|prothoracic leg	femur muscle 5b, tibia flexor muscle fiber, femoral muscle fiber	catmaid_leg40:608770
-608783	neuron 77053 (T1LEG:608783)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	TrCS8, trochanteral campaniform sensillum, sensory neuron	catmaid_leg40:608783
+608783	neuron 77053 (T1LEG:608783)	neuron	female organism|prothoracic leg	TrCS8, trochanteral campaniform sensillum, sensory neuron	catmaid_leg40:608783
 608804	neuron 101631 (T1LEG:608804)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle, leaves volume	catmaid_leg40:608804
 608817	neuron 126208 (T1LEG:608817)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103415, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:608817
 608833	muscle 93442 (T1LEG:608833)	neuron	female organism|prothoracic leg	femur muscle 5b, tibia flexor muscle fiber, femoral muscle fiber	catmaid_leg40:608833
@@ -539,7 +539,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 609196	neuron 95555 (T1LEG:609196)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103394, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609196
 609211	neuron 95584 (T1LEG:609211)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103476, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609211
 609226	coxal stretch receptor (T1LEG:609226)	neuron	female organism|prothoracic leg	ventral nerve, coxal stretch receptor, sensory neuron, minor sensory neuron type	catmaid_leg40:609226
-609242	neuron 81256 (T1LEG:609242)	neuron|prothoracic trochanter campaniform sensillum Sc-8	female organism|prothoracic leg	TrCS8, sensory neuron, trochanteral campaniform sensillum, Neuron 81475	catmaid_leg40:609242
+609242	neuron 81256 (T1LEG:609242)	neuron	female organism|prothoracic leg	TrCS8, sensory neuron, trochanteral campaniform sensillum, Neuron 81475	catmaid_leg40:609242
 609260	neuron 95600 (T1LEG:609260)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103420, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609260
 609275	neuron 95606 (T1LEG:609275)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103511, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609275
 609291	neuron 95612 (T1LEG:609291)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103466, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609291
@@ -570,7 +570,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 609660	muscle 93798 (T1LEG:609660)	neuron	female organism|prothoracic leg	femur muscle 4, tibia flexor muscle fiber, femoral muscle fiber	catmaid_leg40:609660
 609673	neuron 95855 (T1LEG:609673)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103506, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609673
 609688	muscle 93808 (T1LEG:609688)	neuron	female organism|prothoracic leg	femur muscle 4, tibia flexor muscle fiber, femoral muscle fiber	catmaid_leg40:609688
-609701	neuron 83569 (T1LEG:609701)	neuron|prothoracic tibial campaniform sensillum Sc3	female organism|prothoracic leg	TiCSv1, tibial campaniform sensillum, sensory neuron	catmaid_leg40:609701
+609701	neuron 83569 (T1LEG:609701)	neuron	female organism|prothoracic leg	TiCSv1, tibial campaniform sensillum, sensory neuron	catmaid_leg40:609701
 609716	neuron 95860 (T1LEG:609716)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103377, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:609716
 609731	neuron 83573 (T1LEG:609731)	neuron	female organism|prothoracic leg	TiCSv2, tibial campaniform sensillum, sensory neuron	catmaid_leg40:609731
 609745	muscle 93814 (T1LEG:609745)	neuron	female organism|prothoracic leg	femur muscle 4, tibia flexor muscle fiber, femoral muscle fiber	catmaid_leg40:609745
@@ -590,7 +590,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 609939	muscle 93921 (T1LEG:609939)	neuron	female organism|prothoracic leg	femur muscle 2, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:609939
 609952	muscle 93932 (T1LEG:609952)	neuron	female organism|prothoracic leg	femur muscle 2, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:609952
 609965	muscle 93938 (T1LEG:609965)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:609965
-609978	neuron 112385 (T1LEG:609978)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	hair plate, sensory neuron, TiHP3	catmaid_leg40:609978
+609978	neuron 112385 (T1LEG:609978)	neuron	female organism|prothoracic leg	hair plate, sensory neuron, TiHP3	catmaid_leg40:609978
 609992	muscle 93955 (T1LEG:609992)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:609992
 610005	muscle 93960 (T1LEG:610005)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:610005
 610018	neuron 75534 (T1LEG:610018)	neuron	female organism|prothoracic leg	reviewed, tibial motor neuron, main leg nerve	catmaid_leg40:610018
@@ -648,7 +648,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 610700	neuron 104383 (T1LEG:610700)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103506, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:610700
 610715	muscle 94144 (T1LEG:610715)	neuron	female organism|prothoracic leg	femur muscle 2, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:610715
 610728	neuron 100289 (T1LEG:610728)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:610728
-610740	neuron 100295 (T1LEG:610740)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	hair plate, TiHP3, sensory neuron	catmaid_leg40:610740
+610740	neuron 100295 (T1LEG:610740)	neuron	female organism|prothoracic leg	hair plate, TiHP3, sensory neuron	catmaid_leg40:610740
 610753	muscle 94154 (T1LEG:610753)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:610753
 610766	neuron 104395 (T1LEG:610766)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103481, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:610766
 610781	neuron 133067 (T1LEG:610781)	neuron	female organism|prothoracic leg	sensory neuron, innervates scolopidium 103496, neuron 104478, femoral chordotonal neuron, attaches to FeCO lateral tendon	catmaid_leg40:610781
@@ -656,7 +656,7 @@ filename	label	is_a	part_of	comment	dbxrefs
 610810	muscle 94160 (T1LEG:610810)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:610810
 610823	neuron 100307 (T1LEG:610823)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:610823
 610835	muscle 94166 (T1LEG:610835)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:610835
-610848	neuron 100313 (T1LEG:610848)	neuron|mechanosensory neuron of hair plate	female organism|prothoracic leg	hair plate, TiHP3, sensory neuron	catmaid_leg40:610848
+610848	neuron 100313 (T1LEG:610848)	neuron	female organism|prothoracic leg	hair plate, TiHP3, sensory neuron	catmaid_leg40:610848
 610861	muscle 94172 (T1LEG:610861)	neuron	female organism|prothoracic leg	femur muscle 3, tibia extensor muscle fiber, femoral muscle fiber	catmaid_leg40:610861
 610874	neuron 100319 (T1LEG:610874)	neuron	female organism|prothoracic leg	sensory neuron, tibial bristle	catmaid_leg40:610874
 610886	neuron 133089 (T1LEG:610886)	neuron	female organism|prothoracic leg	sensory neuron, femoral chordotonal neuron, innervates scolopidium 103511, neuron 104603, attaches to FeCO lateral tendon	catmaid_leg40:610886

@@ -102,28 +102,28 @@ FBbt_00067354	adult antennal lobe projection neuron DC2 adPN	1	0
 FBbt_00047793	larval mesothoracic T08x neuron	1	0
 FBbt_00100382	adult antennal lobe projection neuron DL4 adPN	1	0
 FBbt_00047774	larval abdominal 1 A05e neuron	1	0
-FBbt_00047701	larval abdominal 1 A02n neuron	1	0
 FBbt_00047792	larval prothoracic T08x neuron	1	0
-FBbt_00047773	larval abdominal 2 A05e neuron	1	0
+FBbt_00047701	larval abdominal 1 A02n neuron	1	0
 FBbt_00049858	adult subesophageal zone output neuron	1	0
-FBbt_00040000	adult antennal lobe projection neuron DC3 adPN	1	0
 FBbt_00067372	adult antennal lobe projection neuron DA1 vPN	1	0
-FBbt_00111229	larval Basin-2 neuron	0	4
-FBbt_00111256	larval A12m neuron	0	2
+FBbt_00047773	larval abdominal 2 A05e neuron	1	0
+FBbt_00040000	adult antennal lobe projection neuron DC3 adPN	1	0
+FBbt_00111228	larval Basin-3 neuron	0	4
 FBbt_00111255	larval A10l neuron	0	2
 FBbt_00111254	larval A10f neuron	0	2
 FBbt_00111253	larval A10a neuron	0	2
 FBbt_00111230	larval Basin-4 neuron	0	4
 FBbt_00111227	larval Basin-1 neuron	0	4
+FBbt_00111229	larval Basin-2 neuron	0	4
+FBbt_00100249	alpha'/beta' Kenyon cell	0	335
 FBbt_00002156	metathoracic dorsal multidendritic neuron ddaC	0	2
-FBbt_00111228	larval Basin-3 neuron	0	4
 FBbt_00100248	alpha/beta Kenyon cell	0	289
 FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
 FBbt_00111257	larval A19c neuron	0	2
 FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
 FBbt_00100214	dopaminergic PAM neuron	0	5
 FBbt_00049820	fan-shaped body columnar neuron	0	598
-FBbt_00100249	alpha'/beta' Kenyon cell	0	335
+FBbt_00111256	larval A12m neuron	0	2
 FBbt_00111262	larval T08x neuron	0	2
 FBbt_00111258	larval A08x neuron	0	2
 FBbt_00111260	larval A10j neuron	0	2
@@ -145,24 +145,25 @@ FBbt_00111261	larval T05t neuron	0	2
 FBbt_00052232	adult dandelion subesophageal neuron	0	1
 FBbt_00052225	adult roundtree subesophageal neuron	0	1
 FBbt_00052226	adult rounddown subesophageal neuron	0	1
-FBbt_00048639	larval LT4 motor neuron of abdominal 1 neuromere	0	2
+FBbt_00052229	adult quasimodo subesophageal neuron	0	1
+FBbt_00047047	adult tubercle-bulb neuron	0	78
 FBbt_00051062	adult tubercle-tubercle neuron	0	8
 FBbt_00048516	wedge projection neuron	0	41
 FBbt_00048574	larval pair1 neuron	0	2
 FBbt_00051333	larval abdominal 1 A06g1 neuron	0	1
 FBbt_00048714	larval Jupiter neuron	0	2
 FBbt_00048726	larval DO2 motor neuron of abdominal 1 neuromere	0	2
+FBbt_00048639	larval LT4 motor neuron of abdominal 1 neuromere	0	2
 FBbt_00048727	larval DO2 motor neuron of abdominal 2 neuromere	0	2
-FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
 FBbt_00049183	larval abdominal 2 A08e1 local neuron	0	2
 FBbt_00049184	larval abdominal 2 A08e2 local neuron	0	2
 FBbt_00047199	larval Ladder-a neuron	0	1
 FBbt_00047354	adult doublesex aDN neuron	0	2
 FBbt_00048517	wind sensitive wedge projection neuron	0	10
 FBbt_00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	0	40
-FBbt_00047047	adult tubercle-bulb neuron	0	78
+FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
 FBbt_00005131	dopaminergic neuron	0	12
-FBbt_00052229	adult quasimodo subesophageal neuron	0	1
+FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
 FBbt_00012391	abdominal 5 dorsal multidendritic neuron ddaF	0	1
 FBbt_00052223	adult zorro subesophageal neuron	0	2
 FBbt_00052231	adult buster subesophageal neuron	0	1
@@ -170,16 +171,16 @@ FBbt_00052224	adult scapula subesophageal neuron	0	1
 FBbt_00052227	adult fuchs subesophageal neuron	0	1
 FBbt_00052228	adult billiards subesophageal neuron	0	1
 FBbt_00012390	abdominal 4 dorsal multidendritic neuron ddaF	0	1
-FBbt_00052185	adult fruitless aSP-g3 (female) neuron	0	1
-FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
+FBbt_00052185	adult fruitless aSP-g3 (female) neuron	0	3
+FBbt_00049661	adult lateral horn centrifugal neuron	0	12
+FBbt_00052188	adult superior lateral protocerebrum gustatory projection neuron 2	0	1
 FBbt_20002628	adult superior lateral protocerebrum gustatory projection neuron 1	0	1
 FBbt_00047646	descending neuron of the posterior brain DNp13	0	3
 FBbt_20003824	adult antennal lobe projection neuron DA1 lvPN	0	3
 FBbt_00047517	descending neuron of the posterior brain	0	2
 FBbt_00047222	adult hygrosensory neuron Ir68a	0	26
-FBbt_00049661	adult lateral horn centrifugal neuron	0	12
 FBbt_00002217	larval VL3/4 motor neuron of abdominal 1 neuromere	0	2
-FBbt_00002390	abdominal 4 dorsal multidendritic neuron ddaA	0	1
+FBbt_00002391	abdominal 5 dorsal multidendritic neuron ddaA	0	1
 FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
 FBbt_00100247	gamma Kenyon cell	0	1057
 FBbt_00002392	abdominal 6 dorsal multidendritic neuron ddaA	0	1
@@ -197,7 +198,7 @@ FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	2
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
 FBbt_00003636	adult fan-shaped body delta neuron	0	159
 FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
-FBbt_00002391	abdominal 5 dorsal multidendritic neuron ddaA	0	1
+FBbt_00002390	abdominal 4 dorsal multidendritic neuron ddaA	0	1
 FBbt_00002342	abdominal 5 desC neuron	0	1
 FBbt_00003686	Kenyon cell	0	45
 FBbt_00002406	abdominal 4 dorsal multidendritic neuron ddaC	0	2
