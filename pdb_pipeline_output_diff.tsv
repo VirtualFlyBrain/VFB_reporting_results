@@ -1,1 +1,27 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+HeadMusclesMcKellar2020	pipeline_output	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
+McKellar2019	pipeline_output	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
+McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	0	0	74	328
+McKellar2020	pipeline_output	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	40	0	0	74	328
+SplitBogovic2020	pipeline_output	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0		0	0	0	0	0
+SplitFeng2020	pipeline_output	Split-GAL4 lines from Feng et al., 2020	CC-BY_4.0		0	0	0	0	0
+SplitGao2019	pipeline_output	Split-GAL4 lines from Gao et al., 2019	CC-BY_4.0		0	0	0	0	0
+SplitHattori2017	pipeline_output	Split-GAL4 lines from Hattori et al., 2017	CC-BY_4.0		0	0	0	0	0
+SplitJovanic2019	pipeline_output	Split-GAL4 lines from Jovanic et al., 2019	CC-BY_4.0	FBrf0241547	0	0	0	12	24
+SplitKind2021	pipeline_output	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	43	0
+SplitKlapoetke2022	pipeline_output	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0		0	0	0	0	0
+SplitLiang2017	pipeline_output	Split-GAL4 lines from Liang et al., 2017	CC-BY_4.0		0	0	0	0	0
+SplitMasek2015	pipeline_output	Split-GAL4 lines from Masek et al., 2015	CC-BY_4.0		0	0	0	0	0
+SplitMontague2019	pipeline_output	Split-GAL4 lines from Montague et al., 2019	CC-BY_4.0		0	0	0	0	0
+SplitMorimoto2020	pipeline_output	Split-GAL4 lines from Morimoto et al., 2020	CC-BY_4.0	FBrf0247630	0	0	0	14	0
+SplitNamiki2022	pipeline_output	Split-GAL4 lines from Namiki et al., 2022	CC-BY_4.0		0	0	0	0	0
+SplitSitaraman2015	pipeline_output	Split-GAL4 lines from Sitaraman et al., 2015	CC-BY_4.0		0	0	0	0	0
+SplitSterne2021	pipeline_output	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0		0	0	0	0	0
+SplitTakagi2017	pipeline_output	Split-GAL4 lines from Takagi et al., 2017	CC-BY_4.0	FBrf0237618	0	0	0	11	8
+SplitTanaka2008	pipeline_output	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0		0	0	0	0	0
+SplitVogt2014	pipeline_output	Split-GAL4 lines from Vogt et al., 2014	CC-BY_4.0		0	0	0	0	0
+SplitVogt2016	pipeline_output	Split-GAL4 lines from Vogt et al., 2016	CC-BY_4.0		0	0	0	0	0
+SplitWang2020c	pipeline_output	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	0	0	0	4	0
+SplitXie2021	pipeline_output	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0		0	0	0	0	0
+SplitYamagata2015	pipeline_output	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0		0	0	0	0	0
+TaiszGalili2022	pipeline_output	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	0	0	0	0	0
