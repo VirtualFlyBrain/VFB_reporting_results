@@ -25,3 +25,5 @@ SplitWang2020c	pipeline_output	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.
 SplitXie2021	pipeline_output	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0		0	0	0	0	0
 SplitYamagata2015	pipeline_output	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0		0	0	0	0	0
 TaiszGalili2022	pipeline_output	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	0	0	0	0	0
+Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	145	19
+Zwart2016	pipeline_output	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	146	19
