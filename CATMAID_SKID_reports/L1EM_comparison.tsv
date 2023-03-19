@@ -1,6 +1,6 @@
 Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_CATMAID	neuron_only
 19496665	Zwart et al. 2016	Zwart2016	41	41	0	0	6
-19711421	Berck, Khandelwal et al. 2016	Berck2016	160	160	0	0	1
+19711421	Berck, Khandelwal et al. 2016	Berck2016	161	160	1	0	1
 19711583	Eichler, Li, Litwin-Kumar et al. 2017	Eichler2017	387	388	0	1	19
 19711972	Larderet, Fritsch et al. 2017	Larderet2017	72	72	0	0	20
 19712046	Ohyama, Schneider-Mizell et al. 2015	Ohyama2015	108	109	0	1	11
@@ -16,9 +16,12 @@ Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_C
 20522905	Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CarreiraRosario2018	31	31	0	0	2
 20726614	Zarin, Mark et al. 2019	Zarin2019	194	194	2	2	20
 20726939	Mark et al. 2019	Mark2019	78	78	0	0	20
-21218996	Andrade et al. 2019	Andrade2019	845	846	0	1	843
+21218996	Andrade et al. 2019	Andrade2019	845	846	1	2	843
 21224835	Tastekin et al. 2018	Tastekin2018	10	10	0	0	0
 21228207	Eschbach, Fushiki et al. 2020	Eschbach2020	204	189	15	0	22
 21308444	Eschbach, Fushiki et al. 2020b	Eschbach2020b	654	239	415	0	0
-21461093	Hueckesfeld et al. 2020	Hueckesfeld2020	877	313	564	0	271
+21388980	Imambocus et al		176	0	176	0	0
+21461093	Hueckesfeld et al. 2020	Hueckesfeld2020	877	313	565	1	271
 21597111	Valdes-Aleman et al. 2021	Valdes-Aleman2021	37	0	37	0	0
+22190049	Barnes et al. 2022		51	0	51	0	0
+22372397	Winding, Pedigo et al. 2023		3066	0	3066	0	0
