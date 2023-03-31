@@ -1,16 +1,10 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Cachero2010	pdb	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	120
-Cachero2010	pipeline_output	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	240
 HeadMusclesMcKellar2020	pipeline_output	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
-Kuan2020	pipeline_output	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		1	0	0	0	0
+Kuan2020	pipeline_output	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		5	0	0	0	0
 Mamiya2022	pipeline_output	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC-BY_4.0	doi_10_1101_2022_08_08_503192	0	0	0	0	0
-Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	125
-Matsuo2016	pipeline_output	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	250
 McKellar2019	pipeline_output	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
 McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	0	0	74	328
 McKellar2020	pipeline_output	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	40	0	0	74	328
-Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	108	0	121	23
-Ohyama2015	pipeline_output	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	108	0	121	44
 SplitBogovic2020	pipeline_output	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0		0	0	0	0	0
 SplitFeng2020	pipeline_output	Split-GAL4 lines from Feng et al., 2020	CC-BY_4.0		0	0	0	0	0
 SplitGao2019	pipeline_output	Split-GAL4 lines from Gao et al., 2019	CC-BY_4.0		0	0	0	0	0

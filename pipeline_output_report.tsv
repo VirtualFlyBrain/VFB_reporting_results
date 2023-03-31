@@ -7,7 +7,7 @@ BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	160	0	90	6
 BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	393	0
 Burgos2018	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	94	0	41	24
-Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	240
+Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	120
 CarreiraRosario2018	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY-SA_4.0	FBrf0239825	31	29	0	16	0
 Chiang2010	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	15877	5966	24	1
 Coates2020	EM FAFB Coates et al 2020	CC-BY-SA_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	191	10	0	0
@@ -56,7 +56,7 @@ Kind2021	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	43	0
 Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	3	4	17
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	504	0	0	0	0
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	0	0	10	0
-Kuan2020	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		1	0	0	0	0
+Kuan2020	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		5	0	0	0	0
 Larderet2017	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	72	0	36	17
 LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242477	0	0	0	322	606
 Lee_Lineage2020	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0	0	0
@@ -65,14 +65,14 @@ Mamiya2022	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC
 Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	18	0
 Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	300	77	0	0
 Mark2019	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	78	0	0	0
-Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	250
+Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	125
 McKellar2019	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
 McKellar2020	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	40	0	0	74	328
 Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	737	0	41	0
 Morimoto2020	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	76	66	14	0
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	106	134	329
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	0	0	5	6
-Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	108	0	121	44
+Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	108	0	121	23
 Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	766	366	8	0
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	80	0	14	2	128
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	2	2	5	0
