@@ -1,4 +1,6 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Eschbach2020	pdb	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	0
+Eschbach2020	pipeline_output	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	71
 HeadMusclesMcKellar2020	pipeline_output	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
 Kuan2020	pipeline_output	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		5	0	0	0	0
 Mamiya2022	pipeline_output	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC-BY_4.0	doi_10_1101_2022_08_08_503192	0	0	0	0	0
