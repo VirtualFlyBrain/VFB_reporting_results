@@ -14,18 +14,22 @@ right T1 dorsal nerve	adult dorsal prothoracic nerve
 bCS	bilateral campaniform sensillum neuron of leg
 CoHP8	mechanosensory neuron of prothoracic coxal hair plate CoHP8
 T2 leg motor neuron PDMN bundle	adult posterior dorsal mesothoracic nerve
-NOI	adult intrinsic nodulus neuron
-LHN	adult lateral horn neuron
+TODO	gustatory receptor neuron of terminal organ dorsolateral group
 VNC	adult ventral nerve cord
+SNp	segmental nerve pioneer neuron
+MB2IN-207	larval mushroom body second order input neuron 207
+SEC	superior ellipsoid commissure
+SNa	larval segmental nerve branch SNa of A1-7
+MBE2as	larval mushroom body output neuron q1
+mACT	mediolateral antennal lobe tract projection neuron
+LHN	adult lateral horn neuron
 ADC	adult anterior dorsal commissure
 NPF	adult NPF neuron
 LHON	adult lateral horn output neuron
 A1L	dorsal lateral bristle of antennal segment 1
 a2	embryonic abdominal segment 2
-MB2IN-207	larval mushroom body second order input neuron 207
-SEC	superior ellipsoid commissure
-MBE2as	larval mushroom body output neuron q1
 D	adult abdominal dorsal multidendritic neuron ddaC
+NOI	adult intrinsic nodulus neuron
 EE	enteroendocrine cell of posterior adult midgut epithelium
 PDL05	adult posterior ventral primary neurite tract 5
 DLT	dorsal lateral tract of dorsal cervical fasciculus
@@ -37,10 +41,6 @@ DN	adult descending neuron
 CITv	C3 fascicle
 CITd	C1 fascicle
 CN	adult prothoracic chordotonal nerve
-TODO	gustatory receptor neuron of terminal organ dorsolateral group
-SNp	segmental nerve pioneer neuron
-SNa	larval segmental nerve branch SNa of A1-7
-mACT	mediolateral antennal lobe tract projection neuron
 TrCS8	prothoracic trochanter campaniform sensillum Sc-8
 dorsal nerve	larval abdominal 8 median nerve
 FeCS11	prothoracic femoral campaniform sensillum Sc11
