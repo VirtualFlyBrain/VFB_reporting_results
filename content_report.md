@@ -1,9 +1,9 @@
 
-VFB Content Report 2023-04-11
+VFB Content Report 2023-04-12
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 11 Apr 2023 00:45:16``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 12 Apr 2023 00:47:15``  
   
 ***``Ontology Content``***  
 
