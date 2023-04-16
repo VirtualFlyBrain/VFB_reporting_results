@@ -1,7 +1,9 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Barnes2022	pipeline_output	EM L1 Barnes et al., 2022	CC-BY_4.0	FBrf0253082	0	0	0	0	0
 Eschbach2020	pdb	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	0
 Eschbach2020	pipeline_output	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	71
 HeadMusclesMcKellar2020	pipeline_output	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
+Imambocus2022	pipeline_output	EM L1 Imambocus et al., 2022	CC-BY_4.0	FBrf0252313	0	0	0	0	0
 Kuan2020	pipeline_output	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		5	0	0	0	0
 Mamiya2022	pipeline_output	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC-BY_4.0	doi_10_1101_2022_08_08_503192	0	0	0	0	0
 McKellar2019	pipeline_output	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
@@ -29,5 +31,6 @@ SplitWang2020c	pipeline_output	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.
 SplitXie2021	pipeline_output	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0		0	0	0	0	0
 SplitYamagata2015	pipeline_output	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0		0	0	0	0	0
 TaiszGalili2022	pipeline_output	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	0	0	0	0	0
+WindingPedigo2023	pipeline_output	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	0	0	0	0	0
 Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	145	19
 Zwart2016	pipeline_output	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	146	19
