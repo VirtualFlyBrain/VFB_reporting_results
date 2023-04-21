@@ -1,8 +1,4 @@
 missing terms	meta
-arculum midline	['adult arculum midline', 'arculum midline']
-arculum outline	['adult arculum outline', 'arculum outline']
-FeCO medial tendon	['adult FeCO medial tendon', 'FeCO medial tendon']
-FeCO lateral tendon	['adult FeCO lateral tendon', 'FeCO lateral tendon']
 long tendon	['adult long tendon', 'long tendon']
 neuron 100355	['adult neuron 100355', 'neuron 100355']
 neuron 141315	['adult neuron 141315', 'neuron 141315']
@@ -692,3 +688,7 @@ trochanteral motor neuron	['trochanteral muscle motor neuron', 'adult trochanter
 coxal motor neuron	['coxal muscle motor neuron', 'adult coxal motor neuron', 'coxal motor neuron']
 reviewed	['adult reviewed neuron', 'reviewed neuron', 'adult reviewed', 'reviewed']
 possible LinF-Co1	['adult possible LinF-Co1', 'possible LinF-Co1']
+arculum midline	['adult arculum midline', 'arculum midline']
+arculum outline	['adult arculum outline', 'arculum outline']
+FeCO medial tendon	['adult FeCO medial tendon', 'FeCO medial tendon']
+FeCO lateral tendon	['adult FeCO lateral tendon', 'FeCO lateral tendon']
