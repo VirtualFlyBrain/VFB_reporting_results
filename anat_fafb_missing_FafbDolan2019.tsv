@@ -1,0 +1,111 @@
+filename	label	is_a	part_of	comment	dbxrefs	synonyms
+30591	MBON-Calyx_R (FAFB:30591)	neuron	female organism|adult brain	FBbt:00100240, MBON-Calyx_R	catmaid_fafb:30591	
+488055	LHAV4c1#1 (FAFB:488055)	neuron	female organism|adult brain	FBbt:00049357, LHAV4c1#1	catmaid_fafb:488055	
+533772	LHAD3a1#1 (FAFB:533772)	neuron	female organism|adult brain	FBbt:00049329, LHAD3a1#1	catmaid_fafb:533772	
+535060	MB-C1#1 (FAFB:535060)	neuron	female organism|adult brain	FBbt:00100226, MB-C1#1	catmaid_fafb:535060	
+556874	LHPV5a3#2 (FAFB:556874)	neuron	female organism|adult brain	FBbt:00049409, LHPV5a3#2	catmaid_fafb:556874	
+1102557	LHPV6c1#2 (FAFB:1102557)	neuron	female organism|adult brain	FBbt:00049422, LHPV6c1#2	catmaid_fafb:1102557	
+1103232	LHPV4c4#2 (FAFB:1103232)	neuron	female organism|adult brain	FBbt:00049399, LHPV4c4#2	catmaid_fafb:1103232	
+1149437	aSP-g1b#2 (FAFB:1149437)	neuron	female organism|adult brain	FBbt:00049330, aSP-g1b#2	catmaid_fafb:1149437	
+1313334	WEDPN3#3 (FAFB:1313334)	neuron	female organism|adult brain	FBbt:00049456, WEDPN3#3	catmaid_fafb:1313334	
+1415926	LHAV6a1#1 (FAFB:1415926)	neuron	female organism|adult brain	FBbt:00049362, LHAV6a1#1	catmaid_fafb:1415926	
+1478950	PPL203#1 (FAFB:1478950)	neuron	female organism|adult brain	FBbt:00048255, PPL203#1	catmaid_fafb:1478950	
+1546454	FB2H#1 (FAFB:1546454)	neuron	female organism|adult brain	FBbt:00049419, FB2H#1	catmaid_fafb:1546454	
+1621078	LHPV5g1#1 (FAFB:1621078)	neuron	female organism|adult brain	FBbt:00049417, LHPV5g1#1	catmaid_fafb:1621078	
+1703872	LHPV2a2#1 (FAFB:1703872)	neuron	female organism|adult brain	FBbt:00049379, LHPV2a2#1	catmaid_fafb:1703872	
+1710793	LHPV4a1#3 (FAFB:1710793)	neuron	female organism|adult brain	FBbt:00049385, LHPV4a1#3	catmaid_fafb:1710793	
+1853423	LHAV4a4#2 (FAFB:1853423)	neuron	female organism|adult brain	FBbt:00049348, LHAV4a4#2	catmaid_fafb:1853423	
+1869224	LHPV4b9#1 (FAFB:1869224)	neuron	female organism|adult brain	FBbt:00049405, LHPV4b9#1	catmaid_fafb:1869224	
+1870230	LHAV2a3#1 (FAFB:1870230)	neuron	female organism|adult brain	LHAV2a3#1, FBbt:00049338	catmaid_fafb:1870230	
+1879479	LHAD1f4#1 (FAFB:1879479)	neuron	female organism|adult brain	FBbt:00049319, LHAD1f4#1	catmaid_fafb:1879479	
+1911124	LHAV4a4#1 (FAFB:1911124)	neuron	female organism|adult brain	FBbt:00049348, LHAV4a4#1	catmaid_fafb:1911124	
+1967862	LHAV1a2#1 (FAFB:1967862)	neuron	female organism|adult brain	FBbt:00049332, LHAV1a2#1	catmaid_fafb:1967862	
+1967891	LHAV4b2#1 (FAFB:1967891)	neuron	female organism|adult brain	FBbt:00049353, LHAV4b2#1	catmaid_fafb:1967891	
+2050698	LHAV4e7#1 (FAFB:2050698)	neuron	female organism|adult brain	LHAV4e7#1	catmaid_fafb:2050698	
+2096700	LHPV4b3#2 (FAFB:2096700)	neuron	female organism|adult brain	FBbt:00049398, LHPV4b3#2	catmaid_fafb:2096700	
+2130631	LHPV6a3#2 (FAFB:2130631)	neuron	female organism|adult brain	FBbt:00049421, LHPV6a3#2	catmaid_fafb:2130631	
+2153398	WEDPN4#1 (FAFB:2153398)	neuron	female organism|adult brain	FBbt:00049457, WEDPN4#1	catmaid_fafb:2153398	
+2198365	LHAV2b2#1 (FAFB:2198365)	neuron	female organism|adult brain	FBbt:00049342, LHAV2b2#1	catmaid_fafb:2198365	
+2227995	WEDPN1A#2 (FAFB:2227995)	neuron	female organism|adult brain	WEDPN1A#2	catmaid_fafb:2227995	
+2372530	LHPV4d3#2 (FAFB:2372530)	neuron	female organism|adult brain	FBbt:00049402, LHPV4d3#2	catmaid_fafb:2372530	
+2402951	LHAD1d1#1 (FAFB:2402951)	neuron	female organism|adult brain	FBbt:00049325, LHAD1d1#1	catmaid_fafb:2402951	
+2425247	LHPV5a2#1 (FAFB:2425247)	neuron	female organism|adult brain	FBbt:00049408, LHPV5a2#1	catmaid_fafb:2425247	
+2477473	aSP-g1b#1 (FAFB:2477473)	neuron	female organism|adult brain	FBbt:00049330, aSP-g1b#1	catmaid_fafb:2477473	
+2548003	LHPV4a10#1 (FAFB:2548003)	neuron	female organism|adult brain	LHPV4a10#1	catmaid_fafb:2548003	
+2638597	LHAV2b1#1 (FAFB:2638597)	neuron	female organism|adult brain	FBbt:00049341, LHAV2b1#1	catmaid_fafb:2638597	
+2659704	LHAV1a1#1 (FAFB:2659704)	neuron	female organism|adult brain	FBbt:00049331, LHAV1a1#1	catmaid_fafb:2659704	
+2684792	LHAV1a1#2 (FAFB:2684792)	neuron	female organism|adult brain	FBbt:00049331, LHAV1a1#2	catmaid_fafb:2684792	
+2794070	LHAV1a3#1 (FAFB:2794070)	neuron	female organism|adult brain	FBbt:00049333, LHAV1a3#1	catmaid_fafb:2794070	
+2842610	LHAD1b2#11 (FAFB:2842610)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#11	catmaid_fafb:2842610	
+2851242	LHAV4g1#1 (FAFB:2851242)	neuron	female organism|adult brain	FBbt:00049347, LHAV4g1#1	catmaid_fafb:2851242	
+2969221	LHAD1c1#2 (FAFB:2969221)	neuron	female organism|adult brain	LHAD1c1#2	catmaid_fafb:2969221	
+3075158	LHAD1b2#10 (FAFB:3075158)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#10	catmaid_fafb:3075158	
+3078257	LHAD1b2#9 (FAFB:3078257)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#9	catmaid_fafb:3078257	
+3080086	LHAD1b2#8 (FAFB:3080086)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#8	catmaid_fafb:3080086	
+3080183	LHAD1c1#1 (FAFB:3080183)	neuron	female organism|adult brain	LHAD1c1#1	catmaid_fafb:3080183	
+3080225	LHAD1b2#7 (FAFB:3080225)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#7	catmaid_fafb:3080225	
+3136251	LHPD3a4#1 (FAFB:3136251)	neuron	female organism|adult brain	LHPD3a4#1	catmaid_fafb:3136251	
+3136591	LHPV2c1#3 (FAFB:3136591)	neuron	female organism|adult brain	FBbt:00049381, LHPV2c1#3	catmaid_fafb:3136591	
+3367291	LHPV4a7#1 (FAFB:3367291)	neuron	female organism|adult brain	FBbt:00049390, LHPV4a7#1	catmaid_fafb:3367291	
+3376158	LHPV6o1#1 (FAFB:3376158)	neuron	female organism|adult brain	LHPV6o1#1	catmaid_fafb:3376158	
+3393889	LHAV4e4#1 (FAFB:3393889)	neuron	female organism|adult brain	LHAV4e4#1	catmaid_fafb:3393889	
+3421839	LHPV4a2#3 (FAFB:3421839)	neuron	female organism|adult brain	FBbt:00049385, LHPV4a2#3	catmaid_fafb:3421839	
+3481901	LHPD3a5#1 (FAFB:3481901)	neuron	female organism|adult brain	FBbt:00049375, LHPD3a5#1	catmaid_fafb:3481901	
+3587600	LHAV5a1#1 (FAFB:3587600)	neuron	female organism|adult brain	FBbt:00049360, LHAV5a1#1	catmaid_fafb:3587600	
+3877150	LHAD1b2#6 (FAFB:3877150)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#6	catmaid_fafb:3877150	
+3897655	LHPV4a1#2 (FAFB:3897655)	neuron	female organism|adult brain	FBbt:00049385, LHPV4a1#2	catmaid_fafb:3897655	
+3931736	LHPV3b1#1 (FAFB:3931736)	neuron	female organism|adult brain	FBbt:00049383, LHPV3b1#1	catmaid_fafb:3931736	
+3931886	LHPV2a1#4 (FAFB:3931886)	neuron	female organism|adult brain	FBbt:00049380, LHPV2a1#4	catmaid_fafb:3931886	
+3932461	LHPV2a1#5 (FAFB:3932461)	neuron	female organism|adult brain	FBbt:00049382, LHPV2a1#5	catmaid_fafb:3932461	
+4017748	VES002#1 (FAFB:4017748)	neuron	female organism|adult brain	FBbt:00049453, VES002#1	catmaid_fafb:4017748	
+4044614	LHPV4a2#2 (FAFB:4044614)	neuron	female organism|adult brain	FBbt:00049385, LHPV4a2#2	catmaid_fafb:4044614	
+4100701	LHPV4k1#1 (FAFB:4100701)	neuron	female organism|adult brain	FBbt:00049388, LHPV4k1#1	catmaid_fafb:4100701	
+4176088	LHAV7a1#1 (FAFB:4176088)	neuron	female organism|adult brain	FBbt:00049367, LHAV7a1#1	catmaid_fafb:4176088	
+4176285	LHPV4a7#2 (FAFB:4176285)	neuron	female organism|adult brain	FBbt:00049390, LHPV4a7#2	catmaid_fafb:4176285	
+4182038	LHPD3a2#1 (FAFB:4182038)	neuron	female organism|adult brain	FBbt:00049376, LHPD3a2#1	catmaid_fafb:4182038	
+4191753	LC43#1 (FAFB:4191753)	neuron	female organism|adult brain	FBbt:00049449, LC43#1	catmaid_fafb:4191753	
+4215506	LHPV4a5#1 (FAFB:4215506)	neuron	female organism|adult brain	FBbt:00049388, LHPV4a5#1	catmaid_fafb:4215506	
+4274682	LHPV4a4#3 (FAFB:4274682)	neuron	female organism|adult brain	FBbt:00049387, LHPV4a4#3	catmaid_fafb:4274682	
+4292232	LHPV4g1#1 (FAFB:4292232)	neuron	female organism|adult brain	FBbt:00049401, LHPV4g1#1	catmaid_fafb:4292232	
+4355299	LHPV4a9#1 (FAFB:4355299)	neuron	female organism|adult brain	FBbt:00049393, LHPV4a9#1	catmaid_fafb:4355299	
+4513533	LHAD1b2#5 (FAFB:4513533)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#5	catmaid_fafb:4513533	
+4672476	WEDPN5#1 (FAFB:4672476)	neuron	female organism|adult brain	FBbt:00049458, WEDPN5#1	catmaid_fafb:4672476	
+4744251	LHAD1b2#1 (FAFB:4744251)	neuron	female organism|adult brain	FBbt:00049323, LHAD1b2#1	catmaid_fafb:4744251	
+4902612	LHAV6b1#1 (FAFB:4902612)	neuron	female organism|adult brain	FBbt:00049364, LHAV6b1#1	catmaid_fafb:4902612	
+4945705	LHPV5b3#1 (FAFB:4945705)	neuron	female organism|adult brain	FBbt:00049412, LHPV5b3#1	catmaid_fafb:4945705	
+4974403	PLP156#1 (FAFB:4974403)	neuron	female organism|adult brain	FBbt:00049452, PLP156#1	catmaid_fafb:4974403	
+5292219	LHPV5b2#1 (FAFB:5292219)	neuron	female organism|adult brain	FBbt:00049411, LHPV5b2#1	catmaid_fafb:5292219	
+5341336	LHAV3a1#1 (FAFB:5341336)	neuron	female organism|adult brain	FBbt:00049344, LHAV3a1#1	catmaid_fafb:5341336	
+5670783	LHPV4a4#2 (FAFB:5670783)	neuron	female organism|adult brain	FBbt:00049387, LHPV4a4#2	catmaid_fafb:5670783	
+5676478	LHPV5c2#1 (FAFB:5676478)	neuron	female organism|adult brain	FBbt:00049414, LHPV5c2#1	catmaid_fafb:5676478	
+5807217	LHPV5g2#1 (FAFB:5807217)	neuron	female organism|adult brain	FBbt:00049418, LHPV5g2#1	catmaid_fafb:5807217	
+5918547	LHPV4a4#5 (FAFB:5918547)	neuron	female organism|adult brain	FBbt:00049387, LHPV4a4#5	catmaid_fafb:5918547	
+5990596	LHAV4e7#2 (FAFB:5990596)	neuron	female organism|adult brain	FBbt:00049355, LHAV4e7#2	catmaid_fafb:5990596	
+6185360	AVLP026#1 (FAFB:6185360)	neuron	female organism|adult brain	AVLP026#1	catmaid_fafb:6185360	
+6197374	LHPV5c3#1 (FAFB:6197374)	neuron	female organism|adult brain	FBbt:00049415, LHPV5c3#1	catmaid_fafb:6197374	
+6203604	LHPV4b1#1 (FAFB:6203604)	neuron	female organism|adult brain	FBbt:00049396, LHPV4b1#1	catmaid_fafb:6203604	
+6536624	LHAD1b1#1 (FAFB:6536624)	neuron	female organism|adult brain	FBbt:00049322, LHAD1b1#1	catmaid_fafb:6536624	
+6772893	LHAV6c1#1 (FAFB:6772893)	neuron	female organism|adult brain	FBbt:00049366, LHAV6c1#1	catmaid_fafb:6772893	
+6825565	LHPV4a4#4 (FAFB:6825565)	neuron	female organism|adult brain	FBbt:00049387, LHPV4a4#4	catmaid_fafb:6825565	
+6900869	LHPV4a4#1 (FAFB:6900869)	neuron	female organism|adult brain	FBbt:00049387, LHPV4a4#1	catmaid_fafb:6900869	
+7483643	LHPV4a2#1 (FAFB:7483643)	neuron	female organism|adult brain	FBbt:00049385, LHPV4a2#1	catmaid_fafb:7483643	
+7739922	GNG-PN1#1 (FAFB:7739922)	neuron	female organism|adult brain	FBbt:00049447, GNG-PN1#1	catmaid_fafb:7739922	
+8521115	LC40b#1 (FAFB:8521115)	neuron	female organism|adult brain	FBbt:00049450, LC40b#1	catmaid_fafb:8521115	
+8739442	LHPV6a1#1 (FAFB:8739442)	neuron	female organism|adult brain	FBbt:00049420, LHPV6a1#1	catmaid_fafb:8739442	
+8927505	AVLP560#1 (FAFB:8927505)	neuron	female organism|adult brain	FBbt:00049443, AVLP560#1	catmaid_fafb:8927505	
+9249174	WEDPN2B#2 (FAFB:9249174)	neuron	female organism|adult brain	WEDPN2B#2	catmaid_fafb:9249174	
+11519370	LHAD1a1#1 (FAFB:11519370)	neuron	female organism|adult brain	FBbt:00049318, LHAD1a1#1	catmaid_fafb:11519370	
+11519536	PV4b2#1 (FAFB:11519536)	neuron	female organism|adult brain	FBbt:00049397, PV4b2#1	catmaid_fafb:11519536	
+11520049	LHPV5a3#1 (FAFB:11520049)	neuron	female organism|adult brain	FBbt:00049409, LHPV5a3#1	catmaid_fafb:11520049	
+11522508	LHAV4b1#1 (FAFB:11522508)	neuron	female organism|adult brain	FBbt:00049365, LHAV4b1#1	catmaid_fafb:11522508	
+11522927	LHPV4a1#1 (FAFB:11522927)	neuron	female organism|adult brain	FBbt:00049385, LHPV4a1#1	catmaid_fafb:11522927	
+11524190	LHAV4a1#1 (FAFB:11524190)	neuron	female organism|adult brain	FBbt:00049345, LHAV4a1#1	catmaid_fafb:11524190	
+11524200	LHPV5d1#2 (FAFB:11524200)	neuron	female organism|adult brain	FBbt:00049416, LHPV5d1#2	catmaid_fafb:11524200	
+11524299	LHPV6l1#1 (FAFB:11524299)	neuron	female organism|adult brain	FBbt:00049398, LHPV6l1#1	catmaid_fafb:11524299	
+11524386	LHPV4a3#1 (FAFB:11524386)	neuron	female organism|adult brain	FBbt:00049386, LHPV4a3#1	catmaid_fafb:11524386	
+11524475	LHPV4d3#1 (FAFB:11524475)	neuron	female organism|adult brain	FBbt:00049402, LHPV4d3#1	catmaid_fafb:11524475	
+11544024	LHPV4a8#1 (FAFB:11544024)	neuron	female organism|adult brain	FBbt:00049391, LHPV4a8#1	catmaid_fafb:11544024	
+11545702	LHPV12a1#1 (FAFB:11545702)	neuron	female organism|adult brain	FBbt:00049428, LHPV12a1#1	catmaid_fafb:11545702	
+15738796	LHAV4c2#1 (FAFB:15738796)	neuron	female organism|adult brain	FBbt:00049356, LHAV4c2#1	catmaid_fafb:15738796	
+15738886	LHAV4a1#2 (FAFB:15738886)	neuron	female organism|adult brain	FBbt:00049345, LHAV4a1#2	catmaid_fafb:15738886	
+15738898	LHAV4a3#1 (FAFB:15738898)	neuron	female organism|adult brain	FBbt:00049346, LHAV4a3#1	catmaid_fafb:15738898	

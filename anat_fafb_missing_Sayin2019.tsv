@@ -1,0 +1,4 @@
+filename	label	is_a	part_of	comment	dbxrefs	synonyms
+1191261	OA-VPM4 (FAFB:1191261)	neuron	female organism|adult brain	OA-VPM4, FBbt:00110152	catmaid_fafb:1191261	
+1329078	OA-VPM3 (FAFB:1329078)	neuron	female organism|adult brain	OA-VPM3, FBbt:00110151	catmaid_fafb:1329078	
+2333007	MBON-y1pedc>a/B_R (FAFB:2333007)	neuron	female organism|adult brain	FBbt:00100246, MBON-y1pedc>a/B_R	catmaid_fafb:2333007	

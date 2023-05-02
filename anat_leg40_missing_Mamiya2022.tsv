@@ -1,0 +1,3 @@
+filename	label	is_a	part_of	comment	dbxrefs
+1688860	arculum midline (T1LEG:1688860)	neuron	female organism|prothoracic leg	arculum	catmaid_leg40:1688860
+1688874	arculum outline (T1LEG:1688874)	neuron	female organism|prothoracic leg	outline, arculum	catmaid_leg40:1688874

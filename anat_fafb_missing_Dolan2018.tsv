@@ -1,0 +1,11 @@
+filename	label	is_a	part_of	comment	dbxrefs	synonyms
+346114	MBON-a2sc_R (FAFB:346114)	neuron	female organism|adult brain	FBbt:00110101, MBON-a2sc_R	catmaid_fafb:346114	
+1299700	LHPD2a1#1 (FAFB:1299700)	neuron	female organism|adult brain	FBbt:00049368, LHPD2a1#1	catmaid_fafb:1299700	
+1415893	LHPD2a1#3 (FAFB:1415893)	neuron	female organism|adult brain	FBbt:00049368, LHPD2a1#3	catmaid_fafb:1415893	
+1420974	MBON-a2sc_L (FAFB:1420974)	neuron	female organism|adult brain	FBbt:00110101, MBON-a2sc_L	catmaid_fafb:1420974	
+1454234	LHPD2a1#4 (FAFB:1454234)	neuron	female organism|adult brain	FBbt:00049368, LHPD2a1#4	catmaid_fafb:1454234	
+1540941	MBON-ap2_R (FAFB:1540941)	neuron	female organism|adult brain	FBbt:00100239, MBON-ap2_R	catmaid_fafb:1540941	
+1606113	LHPD2b1#1 (FAFB:1606113)	neuron	female organism|adult brain	FBbt:00049371, LHPD2b1#1	catmaid_fafb:1606113	
+2205218	LHPD2a1#2 (FAFB:2205218)	neuron	female organism|adult brain	FBbt:00049368, LHPD2a1#2	catmaid_fafb:2205218	
+3345012	LHPD2b1#2 (FAFB:3345012)	neuron	female organism|adult brain	FBbt:00049371, LHPD2b1#2	catmaid_fafb:3345012	
+11547665	LHPD2a1#5 (FAFB:11547665)	neuron	female organism|adult brain	FBbt:00049368, LHPD2a1#5	catmaid_fafb:11547665	

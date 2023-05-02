@@ -320,6 +320,10 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 11440919	T4b_R#145 (FAFB:11440919)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#145	catmaid_fafb:11440919	
 11441138	T4c_R#13 (FAFB:11441138)	neuron	female organism|adult brain	FBbt:00003734, T4c_R#13	catmaid_fafb:11441138	
 11442375	T4c_R#14 (FAFB:11442375)	neuron	female organism|adult brain	FBbt:00003734, T4c_R#14	catmaid_fafb:11442375	
+11458127	Mi1#4 (FAFB:11458127)	neuron	female organism|adult brain	Mi1#4, FBbt:00003776	catmaid_fafb:11458127	
+11470014	Mi1#3 (FAFB:11470014)	neuron	female organism|adult brain	Mi1#3, FBbt:00003776	catmaid_fafb:11470014	
+11471701	Mi1#1 (FAFB:11471701)	neuron	female organism|adult brain	Mi1#1, FBbt:00003776	catmaid_fafb:11471701	
+11472780	Mi1#2 (FAFB:11472780)	neuron	female organism|adult brain	Mi1#2, FBbt:00003776	catmaid_fafb:11472780	
 11488881	T4b_R#146 (FAFB:11488881)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#146	catmaid_fafb:11488881	
 11513571	T4d_R#89 (FAFB:11513571)	neuron	female organism|adult brain	FBbt:00003735, T4d_R#89	catmaid_fafb:11513571	
 11560744	T4c_R#15 (FAFB:11560744)	neuron	female organism|adult brain	FBbt:00003734, T4c_R#15	catmaid_fafb:11560744	
@@ -333,6 +337,7 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 11755116	T4a_R#34 (FAFB:11755116)	neuron	female organism|adult brain	FBbt:00003732, T4a_R#34	catmaid_fafb:11755116	
 11760844	T4b_R#149 (FAFB:11760844)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#149	catmaid_fafb:11760844	
 11823756	T4b_R#150 (FAFB:11823756)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#150	catmaid_fafb:11823756	
+11829850	Mi1#6 (FAFB:11829850)	neuron	female organism|adult brain	Mi1#6, FBbt:00003776	catmaid_fafb:11829850	
 11847871	T4d_R#93 (FAFB:11847871)	neuron	female organism|adult brain	FBbt:00003735, T4d_R#93	catmaid_fafb:11847871	
 11883462	T4b_R#151 (FAFB:11883462)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#151	catmaid_fafb:11883462	
 11925045	T4b_R#152 (FAFB:11925045)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#152	catmaid_fafb:11925045	
@@ -439,6 +444,7 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 13230086	Mi1_R#134 (FAFB:13230086)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#134	catmaid_fafb:13230086	
 13264428	Mi1_R#135 (FAFB:13264428)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#135	catmaid_fafb:13264428	
 13281020	T4b_R#156 (FAFB:13281020)	neuron	female organism|adult brain	FBbt:00003733, T4b_R#156	catmaid_fafb:13281020	
+13294451	Mi1#7 (FAFB:13294451)	neuron	female organism|adult brain	Mi1#7, FBbt:00003776	catmaid_fafb:13294451	
 13303705	Mi1_R#136 (FAFB:13303705)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#136	catmaid_fafb:13303705	
 13313300	Mi1_R#137 (FAFB:13313300)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#137	catmaid_fafb:13313300	
 13314546	Mi1_R#138 (FAFB:13314546)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#138	catmaid_fafb:13314546	
@@ -591,6 +597,7 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 14803696	Mi1_R#267 (FAFB:14803696)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#267	catmaid_fafb:14803696	
 14810279	Mi1_R#268 (FAFB:14810279)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#268	catmaid_fafb:14810279	
 14810632	Mi1_R#269 (FAFB:14810632)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#269	catmaid_fafb:14810632	
+14811021	Mi1#8 (FAFB:14811021)	neuron	female organism|adult brain	Mi1#8, FBbt:00003776	catmaid_fafb:14811021	
 14811179	Mi1_R#270 (FAFB:14811179)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#270	catmaid_fafb:14811179	
 14813014	Mi1_R#271 (FAFB:14813014)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#271	catmaid_fafb:14813014	
 14813528	Mi1_R#272 (FAFB:14813528)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#272	catmaid_fafb:14813528	
@@ -687,6 +694,7 @@ filename	label	is_a	part_of	comment	dbxrefs	synonyms
 14879554	Mi1_R#363 (FAFB:14879554)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#363	catmaid_fafb:14879554	
 14879688	Mi1_R#364 (FAFB:14879688)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#364	catmaid_fafb:14879688	
 14879837	Mi1_R#365 (FAFB:14879837)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#365	catmaid_fafb:14879837	
+14880472	Mi1#5 (FAFB:14880472)	neuron	female organism|adult brain	Mi1#5, FBbt:00003776	catmaid_fafb:14880472	
 14882861	Mi1_R#366 (FAFB:14882861)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#366	catmaid_fafb:14882861	
 14883350	Mi1_R#367 (FAFB:14883350)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#367	catmaid_fafb:14883350	
 14883521	Mi1_R#368 (FAFB:14883521)	neuron	female organism|adult brain	FBbt:00003776, Mi1_R#368	catmaid_fafb:14883521	

@@ -1,0 +1,13 @@
+filename	label	is_a	part_of	comment	dbxrefs	synonyms
+1259226	oviEN (FAFB:1259226)	neuron	female organism|adult brain	oviEN	catmaid_fafb:1259226	
+1862762	oviDNb (FAFB:1862762)	neuron	female organism|adult brain	oviDNb	catmaid_fafb:1862762	
+1875104	oviDNa#2 (FAFB:1875104)	neuron	female organism|adult brain	oviDNa#2	catmaid_fafb:1875104	
+3770805	pC1e (FAFB:3770805)	neuron	female organism|adult brain	pC1e, FBbt:00049926	catmaid_fafb:3770805	
+3781621	pC1b (FAFB:3781621)	neuron	female organism|adult brain	pC1b, FBbt:00049923	catmaid_fafb:3781621	
+3794183	pC1c (FAFB:3794183)	neuron	female organism|adult brain	pC1c, FBbt:00049924	catmaid_fafb:3794183	
+3807212	pC1a (FAFB:3807212)	neuron	female organism|adult brain	pC1a, FBbt:00049922	catmaid_fafb:3807212	
+3979930	pC1d (FAFB:3979930)	neuron	female organism|adult brain	pC1d, FBbt:00049925	catmaid_fafb:3979930	
+4358524	SAG#L (FAFB:4358524)	neuron	female organism|adult brain	FBbt:00111304, SAG#L	catmaid_fafb:4358524	
+5143346	oviDNa#1 (FAFB:5143346)	neuron	female organism|adult brain	oviDNa#1, FBbt:00049920	catmaid_fafb:5143346	
+5353953	SAG#R (FAFB:5353953)	neuron	female organism|adult brain	FBbt:00111304, SAG#R	catmaid_fafb:5353953	
+13325634	oviIN (FAFB:13325634)	neuron	female organism|adult brain	oviIN, FBbt:00049928	catmaid_fafb:13325634	

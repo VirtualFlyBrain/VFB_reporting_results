@@ -1,0 +1,192 @@
+filename	label	is_a	part_of	comment	dbxrefs	synonyms
+720956	WPNB3#3 (FAFB:720956)	neuron	female organism|adult brain	WPNB3#3, FBbt:00048517	catmaid_fafb:720956	
+829827	Dense ABAF LN#1 (FAFB:829827)	neuron	female organism|adult brain	Dense ABAF LN#1	catmaid_fafb:829827	
+1783540	DA2 ORN #4 (FAFB:1783540)	neuron	female organism|adult brain	DA2 ORN #4, FBbt:00067063	catmaid_fafb:1783540	
+1989293	DA2 ORN #5 (FAFB:1989293)	neuron	female organism|adult brain	DA2 ORN #5, FBbt:00067063	catmaid_fafb:1989293	
+1989493	DC1 ORN #5 (FAFB:1989493)	neuron	female organism|adult brain	DC1 ORN #5, FBbt:00067018	catmaid_fafb:1989493	
+1990940	Patchy LN #1 (FAFB:1990940)	neuron	female organism|adult brain	Patchy LN #1	catmaid_fafb:1990940	
+2825182	LN #1 (FAFB:2825182)	neuron	female organism|adult brain	LN #1, FBbt:00007390	catmaid_fafb:2825182	
+2849437	Patchy LN #2 (FAFB:2849437)	neuron	female organism|adult brain	Patchy LN #2	catmaid_fafb:2849437	
+2851276	LN #2 (FAFB:2851276)	neuron	female organism|adult brain	LN #2, FBbt:00007390	catmaid_fafb:2851276	
+2891306	Dense ABAF LN#2 (FAFB:2891306)	neuron	female organism|adult brain	Dense ABAF LN#2	catmaid_fafb:2891306	
+3077882	SIMPAL-Right #1 (FAFB:3077882)	neuron	female organism|adult brain	SIMPAL-Right #1	catmaid_fafb:3077882	
+3085783	SIMPAL-Right #2 (FAFB:3085783)	neuron	female organism|adult brain	SIMPAL-Right #2	catmaid_fafb:3085783	
+3601125	WPNB1#2 (FAFB:3601125)	neuron	female organism|adult brain	WPNB1#2, FBbt:00048517	catmaid_fafb:3601125	
+3644717	SMP Input Neuron #1 (FAFB:3644717)	neuron	female organism|adult brain	SMP Input Neuron #1	catmaid_fafb:3644717	
+3721315	CSDn-left (FAFB:3721315)	neuron	female organism|adult brain	CSDn-left, FBbt:00007405	catmaid_fafb:3721315	
+3755537	WPNB2#2 (FAFB:3755537)	neuron	female organism|adult brain	WPNB2#2, FBbt:00048517	catmaid_fafb:3755537	
+3802286	DA2 ORN #6 (FAFB:3802286)	neuron	female organism|adult brain	DA2 ORN #6, FBbt:00067063	catmaid_fafb:3802286	
+3808894	DC1 ORN #6 (FAFB:3808894)	neuron	female organism|adult brain	DC1 ORN #6, FBbt:00067018	catmaid_fafb:3808894	
+3808901	DC1 ORN #7 (FAFB:3808901)	neuron	female organism|adult brain	DC1 ORN #7, FBbt:00067018	catmaid_fafb:3808901	
+3808955	vLN#1 (FAFB:3808955)	neuron	female organism|adult brain	vLN#1, FBbt:00007393	catmaid_fafb:3808955	
+3821611	WPNB1#1 (FAFB:3821611)	neuron	female organism|adult brain	WPNB1#1, FBbt:00048517	catmaid_fafb:3821611	
+3823702	LN #3 (FAFB:3823702)	neuron	female organism|adult brain	LN #3, FBbt:00007390	catmaid_fafb:3823702	
+3823762	DC1 ORN #15 (FAFB:3823762)	neuron	female organism|adult brain	DC1 ORN #15, FBbt:00067018	catmaid_fafb:3823762	
+3823793	DC1 ORN #8 (FAFB:3823793)	neuron	female organism|adult brain	DC1 ORN #8, FBbt:00067018	catmaid_fafb:3823793	
+3823828	DC1 ORN #9 (FAFB:3823828)	neuron	female organism|adult brain	DC1 ORN #9, FBbt:00067018	catmaid_fafb:3823828	
+3823842	DC1 ORN #10 (FAFB:3823842)	neuron	female organism|adult brain	DC1 ORN #10, FBbt:00067018	catmaid_fafb:3823842	
+3871868	WPNB3#4 (FAFB:3871868)	neuron	female organism|adult brain	WPNB3#4, FBbt:00048517	catmaid_fafb:3871868	
+4079928	DM1 ORN #6 (FAFB:4079928)	neuron	female organism|adult brain	DM1 ORN #6, FBbt:00067046	catmaid_fafb:4079928	
+4081029	DM1 ORN #18 (FAFB:4081029)	neuron	female organism|adult brain	DM1 ORN #18, FBbt:00067046	catmaid_fafb:4081029	
+4081141	DM1 ORN #7 (FAFB:4081141)	neuron	female organism|adult brain	DM1 ORN #7, FBbt:00067046	catmaid_fafb:4081141	
+4081183	DM1 ORN #8 (FAFB:4081183)	neuron	female organism|adult brain	DM1 ORN #8, FBbt:00067046	catmaid_fafb:4081183	
+4081193	DM1 ORN #9 (FAFB:4081193)	neuron	female organism|adult brain	DM1 ORN #9, FBbt:00067046	catmaid_fafb:4081193	
+4081200	DM1 ORN #20 (FAFB:4081200)	neuron	female organism|adult brain	DM1 ORN #20, FBbt:00067046	catmaid_fafb:4081200	
+4095049	VM1 ORN #4 (FAFB:4095049)	neuron	female organism|adult brain	VM1 ORN #4, FBbt:00110012	catmaid_fafb:4095049	
+4271367	WPNB3#5 (FAFB:4271367)	neuron	female organism|adult brain	WPNB3#5, FBbt:00048517	catmaid_fafb:4271367	
+4799868	LN #4 (FAFB:4799868)	neuron	female organism|adult brain	LN #4, FBbt:00007390	catmaid_fafb:4799868	
+5007809	DA2 ORN #7 (FAFB:5007809)	neuron	female organism|adult brain	DA2 ORN #7, FBbt:00067063	catmaid_fafb:5007809	
+5038796	DM5 ORN #8 (FAFB:5038796)	neuron	female organism|adult brain	DM5 ORN #8, FBbt:00067049	catmaid_fafb:5038796	
+5110857	DM5 ORN #9 (FAFB:5110857)	neuron	female organism|adult brain	DM5 ORN #9, FBbt:00067049	catmaid_fafb:5110857	
+5111043	LN #5 (FAFB:5111043)	neuron	female organism|adult brain	LN #5, FBbt:00007390	catmaid_fafb:5111043	
+5111160	LN #6 (FAFB:5111160)	neuron	female organism|adult brain	LN #6, FBbt:00007390	catmaid_fafb:5111160	
+5111282	DM5 ORN #10 (FAFB:5111282)	neuron	female organism|adult brain	DM5 ORN #10, FBbt:00067049	catmaid_fafb:5111282	
+5111360	DM5 ORN #23 (FAFB:5111360)	neuron	female organism|adult brain	DM5 ORN #23, FBbt:00067049	catmaid_fafb:5111360	
+5114950	LN #22 (FAFB:5114950)	neuron	female organism|adult brain	LN #22, FBbt:00007390	catmaid_fafb:5114950	
+5115050	LN #7 (FAFB:5115050)	neuron	female organism|adult brain	LN #7, FBbt:00007390	catmaid_fafb:5115050	
+5115064	LN #8 (FAFB:5115064)	neuron	female organism|adult brain	LN #8, FBbt:00007390	catmaid_fafb:5115064	
+5157807	SIMPAL-Left #2 (FAFB:5157807)	neuron	female organism|adult brain	SIMPAL-Left #2	catmaid_fafb:5157807	
+5157896	DC1 ORN #16 (FAFB:5157896)	neuron	female organism|adult brain	DC1 ORN #16, FBbt:00067018	catmaid_fafb:5157896	
+5158081	DC1 ORN #11 (FAFB:5158081)	neuron	female organism|adult brain	DC1 ORN #11, FBbt:00067018	catmaid_fafb:5158081	
+5164684	DC1 ORN #12 (FAFB:5164684)	neuron	female organism|adult brain	DC1 ORN #12, FBbt:00067018	catmaid_fafb:5164684	
+5171464	LN #9 (FAFB:5171464)	neuron	female organism|adult brain	LN #9, FBbt:00007390	catmaid_fafb:5171464	
+5184269	VM1 ORN #5 (FAFB:5184269)	neuron	female organism|adult brain	VM1 ORN #5, FBbt:00110012	catmaid_fafb:5184269	
+5219918	sparse ABAF LN#1 (FAFB:5219918)	neuron	female organism|adult brain	sparse ABAF LN#1	catmaid_fafb:5219918	
+5243155	Patchy LN #3 (FAFB:5243155)	neuron	female organism|adult brain	Patchy LN #3	catmaid_fafb:5243155	
+5530489	VM1 ORN #6 (FAFB:5530489)	neuron	female organism|adult brain	VM1 ORN #6, FBbt:00110012	catmaid_fafb:5530489	
+5533203	VM1 ORN #7 (FAFB:5533203)	neuron	female organism|adult brain	VM1 ORN #7, FBbt:00110012	catmaid_fafb:5533203	
+5692633	Patchy LN #4 (FAFB:5692633)	neuron	female organism|adult brain	Patchy LN #4	catmaid_fafb:5692633	
+5849310	DM1 ORN #21 (FAFB:5849310)	neuron	female organism|adult brain	DM1 ORN #21, FBbt:00067046	catmaid_fafb:5849310	
+5849467	DM1 ORN #22 (FAFB:5849467)	neuron	female organism|adult brain	DM1 ORN #22, FBbt:00067046	catmaid_fafb:5849467	
+5994210	Patchy LN #5 (FAFB:5994210)	neuron	female organism|adult brain	Patchy LN #5	catmaid_fafb:5994210	
+6097229	WPNB2#1 (FAFB:6097229)	neuron	female organism|adult brain	WPNB2#1, FBbt:00048517	catmaid_fafb:6097229	
+6128900	VM1 ORN #8 (FAFB:6128900)	neuron	female organism|adult brain	VM1 ORN #8, FBbt:00110012	catmaid_fafb:6128900	
+6185002	LN #10 (FAFB:6185002)	neuron	female organism|adult brain	LN #10, FBbt:00007390	catmaid_fafb:6185002	
+6190457	Patchy LN #6 (FAFB:6190457)	neuron	female organism|adult brain	Patchy LN #6	catmaid_fafb:6190457	
+6192677	LN #11 (FAFB:6192677)	neuron	female organism|adult brain	LN #11, FBbt:00007390	catmaid_fafb:6192677	
+6209269	Patchy LN #7 (FAFB:6209269)	neuron	female organism|adult brain	Patchy LN #7	catmaid_fafb:6209269	
+6478900	WPNB3#2 (FAFB:6478900)	neuron	female organism|adult brain	WPNB3#2, FBbt:00048517	catmaid_fafb:6478900	
+6535884	DA2 ORN #8 (FAFB:6535884)	neuron	female organism|adult brain	DA2 ORN #8, FBbt:00067063	catmaid_fafb:6535884	
+6621981	VM2 ORN #1 (FAFB:6621981)	neuron	female organism|adult brain	VM2 ORN #1, FBbt:00067050	catmaid_fafb:6621981	
+6645033	CSDn-right (FAFB:6645033)	neuron	female organism|adult brain	CSDn-right, FBbt:00007405	catmaid_fafb:6645033	
+6715465	DA2 ORN #9 (FAFB:6715465)	neuron	female organism|adult brain	DA2 ORN #9, FBbt:00067063	catmaid_fafb:6715465	
+6792329	WPNB3#6 (FAFB:6792329)	neuron	female organism|adult brain	WPNB3#6, FBbt:00048517	catmaid_fafb:6792329	
+7018632	vLNb#1 (FAFB:7018632)	neuron	female organism|adult brain	vLNb#1, FBbt:00110635	catmaid_fafb:7018632	
+7161775	DM1 ORN #10 (FAFB:7161775)	neuron	female organism|adult brain	DM1 ORN #10, FBbt:00067046	catmaid_fafb:7161775	
+7167832	DM1 ORN #23 (FAFB:7167832)	neuron	female organism|adult brain	DM1 ORN #23, FBbt:00067046	catmaid_fafb:7167832	
+7179380	DM1 ORN #11 (FAFB:7179380)	neuron	female organism|adult brain	DM1 ORN #11, FBbt:00067046	catmaid_fafb:7179380	
+7179492	DM1 ORN #12 (FAFB:7179492)	neuron	female organism|adult brain	DM1 ORN #12, FBbt:00067046	catmaid_fafb:7179492	
+7179501	DM1 ORN #13 (FAFB:7179501)	neuron	female organism|adult brain	DM1 ORN #13, FBbt:00067046	catmaid_fafb:7179501	
+7179547	DM1 ORN #14 (FAFB:7179547)	neuron	female organism|adult brain	DM1 ORN #14, FBbt:00067046	catmaid_fafb:7179547	
+7179613	DM1 ORN #15 (FAFB:7179613)	neuron	female organism|adult brain	DM1 ORN #15, FBbt:00067046	catmaid_fafb:7179613	
+7276604	WPNB3#1 (FAFB:7276604)	neuron	female organism|adult brain	WPNB3#1, FBbt:00048517	catmaid_fafb:7276604	
+7278969	DA1 ORN #1 (FAFB:7278969)	neuron	female organism|adult brain	DA1 ORN #1, FBbt:00067031	catmaid_fafb:7278969	
+7278989	LN #12 (FAFB:7278989)	neuron	female organism|adult brain	LN #12, FBbt:00007390	catmaid_fafb:7278989	
+7298321	Patchy LN #8 (FAFB:7298321)	neuron	female organism|adult brain	Patchy LN #8	catmaid_fafb:7298321	
+7298505	LNsez #1 (FAFB:7298505)	neuron	female organism|adult brain	LNsez #1, FBbt:00047710	catmaid_fafb:7298505	
+7298540	Patchy LN #9 (FAFB:7298540)	neuron	female organism|adult brain	Patchy LN #9	catmaid_fafb:7298540	
+7298614	Patchy LN #10 (FAFB:7298614)	neuron	female organism|adult brain	Patchy LN #10	catmaid_fafb:7298614	
+7337521	DA2 ORN #10 (FAFB:7337521)	neuron	female organism|adult brain	DA2 ORN #10, FBbt:00067063	catmaid_fafb:7337521	
+7348199	Patchy LN #11 (FAFB:7348199)	neuron	female organism|adult brain	Patchy LN #11	catmaid_fafb:7348199	
+7348208	DA2 ORN #12 (FAFB:7348208)	neuron	female organism|adult brain	DA2 ORN #12, FBbt:00067063	catmaid_fafb:7348208	
+7349832	DA2 ORN #13 (FAFB:7349832)	neuron	female organism|adult brain	DA2 ORN #13, FBbt:00067063	catmaid_fafb:7349832	
+7349865	DA2 ORN #14 (FAFB:7349865)	neuron	female organism|adult brain	DA2 ORN #14, FBbt:00067063	catmaid_fafb:7349865	
+7349870	DA2 ORN #15 (FAFB:7349870)	neuron	female organism|adult brain	DA2 ORN #15, FBbt:00067063	catmaid_fafb:7349870	
+7363590	DA2 ORN #16 (FAFB:7363590)	neuron	female organism|adult brain	DA2 ORN #16, FBbt:00067063	catmaid_fafb:7363590	
+7363897	DA2 ORN #17 (FAFB:7363897)	neuron	female organism|adult brain	DA2 ORN #17, FBbt:00067063	catmaid_fafb:7363897	
+7364280	Patchy LN #12 (FAFB:7364280)	neuron	female organism|adult brain	Patchy LN #12	catmaid_fafb:7364280	
+7365232	vLN#2 (FAFB:7365232)	neuron	female organism|adult brain	vLN#2, FBbt:00007393	catmaid_fafb:7365232	
+7365266	DA2 ORN #18 (FAFB:7365266)	neuron	female organism|adult brain	DA2 ORN #18, FBbt:00067063	catmaid_fafb:7365266	
+7462291	DA2 ORN #19 (FAFB:7462291)	neuron	female organism|adult brain	DA2 ORN #19, FBbt:00067063	catmaid_fafb:7462291	
+7490384	DA2 ORN #20 (FAFB:7490384)	neuron	female organism|adult brain	DA2 ORN #20, FBbt:00067063	catmaid_fafb:7490384	
+7490413	DA2 ORN #21 (FAFB:7490413)	neuron	female organism|adult brain	DA2 ORN #21, FBbt:00067063	catmaid_fafb:7490413	
+7702725	Patchy LN #13 (FAFB:7702725)	neuron	female organism|adult brain	Patchy LN #13	catmaid_fafb:7702725	
+7961811	VM1 ORN #9 (FAFB:7961811)	neuron	female organism|adult brain	VM1 ORN #9, FBbt:00110012	catmaid_fafb:7961811	
+8149476	vLN#3 (FAFB:8149476)	neuron	female organism|adult brain	vLN#3, FBbt:00007393	catmaid_fafb:8149476	
+8149505	vLNb#2 (FAFB:8149505)	neuron	female organism|adult brain	vLNb#2, FBbt:00110635	catmaid_fafb:8149505	
+8382473	Patchy LN #14 (FAFB:8382473)	neuron	female organism|adult brain	Patchy LN #14	catmaid_fafb:8382473	
+8382638	VM2 ORN #2 (FAFB:8382638)	neuron	female organism|adult brain	VM2 ORN #2, FBbt:00067050	catmaid_fafb:8382638	
+8382644	VM2 ORN #3 (FAFB:8382644)	neuron	female organism|adult brain	VM2 ORN #3, FBbt:00067050	catmaid_fafb:8382644	
+8382651	VM2 ORN #4 (FAFB:8382651)	neuron	female organism|adult brain	VM2 ORN #4, FBbt:00067050	catmaid_fafb:8382651	
+8404202	LN #13 (FAFB:8404202)	neuron	female organism|adult brain	LN #13, FBbt:00007390	catmaid_fafb:8404202	
+8409238	Patchy LN #15 (FAFB:8409238)	neuron	female organism|adult brain	Patchy LN #15	catmaid_fafb:8409238	
+8411733	VM3 ORN #2 (FAFB:8411733)	neuron	female organism|adult brain	VM3 ORN #2, FBbt:00067009	catmaid_fafb:8411733	
+8451180	LN #14 (FAFB:8451180)	neuron	female organism|adult brain	LN #14, FBbt:00007390	catmaid_fafb:8451180	
+8490593	DA2 ORN #22 (FAFB:8490593)	neuron	female organism|adult brain	DA2 ORN #22, FBbt:00067063	catmaid_fafb:8490593	
+8490608	DA2 ORN #23 (FAFB:8490608)	neuron	female organism|adult brain	DA2 ORN #23, FBbt:00067063	catmaid_fafb:8490608	
+8490628	DA2 ORN #24 (FAFB:8490628)	neuron	female organism|adult brain	DA2 ORN #24, FBbt:00067063	catmaid_fafb:8490628	
+8490635	DA2 ORN #25 (FAFB:8490635)	neuron	female organism|adult brain	DA2 ORN #25, FBbt:00067063	catmaid_fafb:8490635	
+8540881	SIMPAL-Left #1 (FAFB:8540881)	neuron	female organism|adult brain	SIMPAL-Left #1	catmaid_fafb:8540881	
+8543282	VM2 ORN #5 (FAFB:8543282)	neuron	female organism|adult brain	VM2 ORN #5, FBbt:00067050	catmaid_fafb:8543282	
+8552643	VM1 ORN #10 (FAFB:8552643)	neuron	female organism|adult brain	VM1 ORN #10, FBbt:00110012	catmaid_fafb:8552643	
+8552754	VM1 ORN #11 (FAFB:8552754)	neuron	female organism|adult brain	VM1 ORN #11, FBbt:00110012	catmaid_fafb:8552754	
+8594279	DC1 ORN #13 (FAFB:8594279)	neuron	female organism|adult brain	DC1 ORN #13, FBbt:00067018	catmaid_fafb:8594279	
+8633531	Patchy LN #16 (FAFB:8633531)	neuron	female organism|adult brain	Patchy LN #16	catmaid_fafb:8633531	
+8633612	vLN#4 (FAFB:8633612)	neuron	female organism|adult brain	vLN#4, FBbt:00007393	catmaid_fafb:8633612	
+8672384	DM5 ORN #11 (FAFB:8672384)	neuron	female organism|adult brain	DM5 ORN #11, FBbt:00067049	catmaid_fafb:8672384	
+8674892	DM5 ORN #24 (FAFB:8674892)	neuron	female organism|adult brain	DM5 ORN #24, FBbt:00067049	catmaid_fafb:8674892	
+8677211	DM5 ORN #12 (FAFB:8677211)	neuron	female organism|adult brain	DM5 ORN #12, FBbt:00067049	catmaid_fafb:8677211	
+8677226	DM5 ORN #13 (FAFB:8677226)	neuron	female organism|adult brain	DM5 ORN #13, FBbt:00067049	catmaid_fafb:8677226	
+8677396	DM5 ORN #14 (FAFB:8677396)	neuron	female organism|adult brain	DM5 ORN #14, FBbt:00067049	catmaid_fafb:8677396	
+8677435	DM5 ORN #25 (FAFB:8677435)	neuron	female organism|adult brain	DM5 ORN #25, FBbt:00067049	catmaid_fafb:8677435	
+8677465	DM5 ORN #15 (FAFB:8677465)	neuron	female organism|adult brain	DM5 ORN #15, FBbt:00067049	catmaid_fafb:8677465	
+8726949	LN #15 (FAFB:8726949)	neuron	female organism|adult brain	LN #15, FBbt:00007390	catmaid_fafb:8726949	
+8727095	DA2 ORN #26 (FAFB:8727095)	neuron	female organism|adult brain	DA2 ORN #26, FBbt:00067063	catmaid_fafb:8727095	
+8727184	DA2 ORN #27 (FAFB:8727184)	neuron	female organism|adult brain	DA2 ORN #27, FBbt:00067063	catmaid_fafb:8727184	
+8736980	vLN#5 (FAFB:8736980)	neuron	female organism|adult brain	vLN#5, FBbt:00007393	catmaid_fafb:8736980	
+8736990	VM2 ORN #6 (FAFB:8736990)	neuron	female organism|adult brain	VM2 ORN #6, FBbt:00067050	catmaid_fafb:8736990	
+8749911	DM5 ORN #16 (FAFB:8749911)	neuron	female organism|adult brain	DM5 ORN #16, FBbt:00067049	catmaid_fafb:8749911	
+8750841	DM5 ORN #17 (FAFB:8750841)	neuron	female organism|adult brain	DM5 ORN #17, FBbt:00067049	catmaid_fafb:8750841	
+8752609	DM5 ORN #18 (FAFB:8752609)	neuron	female organism|adult brain	DM5 ORN #18, FBbt:00067049	catmaid_fafb:8752609	
+8758596	OA Neuron #1 (FAFB:8758596)	neuron	female organism|adult brain	OA Neuron #1, FBbt:00110147	catmaid_fafb:8758596	
+8758601	Patchy LN #17 (FAFB:8758601)	neuron	female organism|adult brain	Patchy LN #17	catmaid_fafb:8758601	
+8762565	DM5 ORN #19 (FAFB:8762565)	neuron	female organism|adult brain	DM5 ORN #19, FBbt:00067049	catmaid_fafb:8762565	
+8929885	DA2 ORN #28 (FAFB:8929885)	neuron	female organism|adult brain	DA2 ORN #28, FBbt:00067063	catmaid_fafb:8929885	
+8956024	LN #23 (FAFB:8956024)	neuron	female organism|adult brain	LN #23, FBbt:00007390	catmaid_fafb:8956024	
+8964539	LNsez #2 (FAFB:8964539)	neuron	female organism|adult brain	LNsez #2, FBbt:00047710	catmaid_fafb:8964539	
+8990218	DM5 ORN #20 (FAFB:8990218)	neuron	female organism|adult brain	DM5 ORN #20, FBbt:00067049	catmaid_fafb:8990218	
+8990226	DM5 ORN #21 (FAFB:8990226)	neuron	female organism|adult brain	DM5 ORN #21, FBbt:00067049	catmaid_fafb:8990226	
+9234139	LN #16 (FAFB:9234139)	neuron	female organism|adult brain	LN #16, FBbt:00007390	catmaid_fafb:9234139	
+9234183	LN #17 (FAFB:9234183)	neuron	female organism|adult brain	LN #17, FBbt:00007390	catmaid_fafb:9234183	
+10108062	Patchy LN #18 (FAFB:10108062)	neuron	female organism|adult brain	Patchy LN #18	catmaid_fafb:10108062	
+10133855	VM3 ORN #1 (FAFB:10133855)	neuron	female organism|adult brain	VM3 ORN #1, FBbt:00067009	catmaid_fafb:10133855	
+10238492	Patchy LN #19 (FAFB:10238492)	neuron	female organism|adult brain	Patchy LN #19	catmaid_fafb:10238492	
+10485942	LN #18 (FAFB:10485942)	neuron	female organism|adult brain	LN #18, FBbt:00007390	catmaid_fafb:10485942	
+11085282	DM5 ORN #22 (FAFB:11085282)	neuron	female organism|adult brain	DM5 ORN #22, FBbt:00067049	catmaid_fafb:11085282	
+11085290	DM5 ORN #1 (FAFB:11085290)	neuron	female organism|adult brain	DM5 ORN #1, FBbt:00067049	catmaid_fafb:11085290	
+11161904	DM1 ORN #1 (FAFB:11161904)	neuron	female organism|adult brain	DM1 ORN #1, FBbt:00067046	catmaid_fafb:11161904	
+11355584	DC1 ORN #1 (FAFB:11355584)	neuron	female organism|adult brain	DC1 ORN #1, FBbt:00067018	catmaid_fafb:11355584	
+11633437	Patchy LN #20 (FAFB:11633437)	neuron	female organism|adult brain	Patchy LN #20	catmaid_fafb:11633437	
+11673863	DM1 ORN #2 (FAFB:11673863)	neuron	female organism|adult brain	DM1 ORN #2, FBbt:00067046	catmaid_fafb:11673863	
+11673877	DM1 ORN #3 (FAFB:11673877)	neuron	female organism|adult brain	DM1 ORN #3, FBbt:00067046	catmaid_fafb:11673877	
+11720855	DM1 ORN #4 (FAFB:11720855)	neuron	female organism|adult brain	DM1 ORN #4, FBbt:00067046	catmaid_fafb:11720855	
+11720861	DM1 ORN #5 (FAFB:11720861)	neuron	female organism|adult brain	DM1 ORN #5, FBbt:00067046	catmaid_fafb:11720861	
+11774082	DC1 ORN #2 (FAFB:11774082)	neuron	female organism|adult brain	DC1 ORN #2, FBbt:00067018	catmaid_fafb:11774082	
+11858364	DC1 ORN #3 (FAFB:11858364)	neuron	female organism|adult brain	DC1 ORN #3, FBbt:00067018	catmaid_fafb:11858364	
+11858419	vLN#6 (FAFB:11858419)	neuron	female organism|adult brain	vLN#6, FBbt:00007393	catmaid_fafb:11858419	
+11858466	DC1 ORN #4 (FAFB:11858466)	neuron	female organism|adult brain	DC1 ORN #4, FBbt:00067018	catmaid_fafb:11858466	
+11920073	DM5 ORN #2 (FAFB:11920073)	neuron	female organism|adult brain	DM5 ORN #2, FBbt:00067049	catmaid_fafb:11920073	
+11920098	DM5 ORN #3 (FAFB:11920098)	neuron	female organism|adult brain	DM5 ORN #3, FBbt:00067049	catmaid_fafb:11920098	
+11949255	vLN#7 (FAFB:11949255)	neuron	female organism|adult brain	vLN#7, FBbt:00007393	catmaid_fafb:11949255	
+11949260	vLN#8 (FAFB:11949260)	neuron	female organism|adult brain	vLN#8, FBbt:00007393	catmaid_fafb:11949260	
+11950655	DM5 ORN #4 (FAFB:11950655)	neuron	female organism|adult brain	DM5 ORN #4, FBbt:00067049	catmaid_fafb:11950655	
+11957607	DM5 ORN #5 (FAFB:11957607)	neuron	female organism|adult brain	DM5 ORN #5, FBbt:00067049	catmaid_fafb:11957607	
+11957620	DM5 ORN #6 (FAFB:11957620)	neuron	female organism|adult brain	DM5 ORN #6, FBbt:00067049	catmaid_fafb:11957620	
+11957632	DM5 ORN #7 (FAFB:11957632)	neuron	female organism|adult brain	DM5 ORN #7, FBbt:00067049	catmaid_fafb:11957632	
+12013369	DA2 ORN #1 (FAFB:12013369)	neuron	female organism|adult brain	DA2 ORN #1, FBbt:00067063	catmaid_fafb:12013369	
+12013573	DA2 ORN #2 (FAFB:12013573)	neuron	female organism|adult brain	DA2 ORN #2, FBbt:00067063	catmaid_fafb:12013573	
+12024537	DA2 ORN #11 (FAFB:12024537)	neuron	female organism|adult brain	DA2 ORN #11, FBbt:00067063	catmaid_fafb:12024537	
+12029493	DA2 ORN #3 (FAFB:12029493)	neuron	female organism|adult brain	DA2 ORN #3, FBbt:00067063	catmaid_fafb:12029493	
+12039724	LN #19 (FAFB:12039724)	neuron	female organism|adult brain	LN #19, FBbt:00007390	catmaid_fafb:12039724	
+12081297	vLNb#3 (FAFB:12081297)	neuron	female organism|adult brain	vLNb#3, FBbt:00110635	catmaid_fafb:12081297	
+12084779	LN #20 (FAFB:12084779)	neuron	female organism|adult brain	LN #20, FBbt:00007390	catmaid_fafb:12084779	
+12859930	vLN#9 (FAFB:12859930)	neuron	female organism|adult brain	vLN#9, FBbt:00007393	catmaid_fafb:12859930	
+12859987	VM1 ORN #1 (FAFB:12859987)	neuron	female organism|adult brain	VM1 ORN #1, FBbt:00110012	catmaid_fafb:12859987	
+12863515	VM1 ORN #2 (FAFB:12863515)	neuron	female organism|adult brain	VM1 ORN #2, FBbt:00110012	catmaid_fafb:12863515	
+12867308	VM1 ORN #3 (FAFB:12867308)	neuron	female organism|adult brain	VM1 ORN #3, FBbt:00110012	catmaid_fafb:12867308	
+12995528	LN #21 (FAFB:12995528)	neuron	female organism|adult brain	LN #21, FBbt:00007390	catmaid_fafb:12995528	
+13281170	DC1 ORN #14 (FAFB:13281170)	neuron	female organism|adult brain	DC1 ORN #14, FBbt:00067018	catmaid_fafb:13281170	
+13762716	DM1 ORN #16 (FAFB:13762716)	neuron	female organism|adult brain	DM1 ORN #16, FBbt:00067046	catmaid_fafb:13762716	
+14020953	DM1 ORN #24 (FAFB:14020953)	neuron	female organism|adult brain	DM1 ORN #24, FBbt:00067046	catmaid_fafb:14020953	
+14023189	DM1 ORN #19 (FAFB:14023189)	neuron	female organism|adult brain	DM1 ORN #19, FBbt:00067046	catmaid_fafb:14023189	
+14545747	DM1 ORN #17 (FAFB:14545747)	neuron	female organism|adult brain	DM1 ORN #17, FBbt:00067046	catmaid_fafb:14545747	
