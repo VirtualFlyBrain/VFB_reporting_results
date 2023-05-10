@@ -1,5 +1,11 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Barnes2022	dev	EM L1 Barnes et al., 2022	CC-BY_4.0	FBrf0253082	0	0	0	0	0
+Eschbach2020	dev	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	71
+Eschbach2020	pdb	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	0
 HeadMusclesMcKellar2020	dev	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
+Imambocus2022	dev	EM L1 Imambocus et al., 2022	CC-BY_4.0	FBrf0252313	0	0	0	0	0
+Kuan2020	dev	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0		649	0	0	0	0
+Mamiya2022	dev	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC-BY_4.0	doi_10_1101_2022_08_08_503192	2	0	0	0	0
 McKellar2019	dev	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
 McKellar2020	dev	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	40	0	0	74	328
 McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	44	0	0	74	328
@@ -24,6 +30,7 @@ SplitVogt2016	dev	Split-GAL4 lines from Vogt et al., 2016	CC-BY_4.0		0	0	0	0	0
 SplitWang2020c	dev	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	0	0	0	4	0
 SplitXie2021	dev	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0		0	0	0	0	0
 SplitYamagata2015	dev	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0		0	0	0	0	0
-TaiszGalili2022	dev	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	0	0	0	0	0
+TaiszGalili2022	dev	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	55	0	0	0	0
+WindingPedigo2023	dev	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	0	0	0	0	0
 Zwart2016	dev	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	146	19
 Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	145	19
