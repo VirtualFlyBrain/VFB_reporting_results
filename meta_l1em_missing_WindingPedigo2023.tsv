@@ -106,6 +106,7 @@ adult ventral nerve cord	overlaps	1435466	catmaid_l1em
 left side of organism	overlaps	1591351	catmaid_l1em	
 right side of organism	overlaps	1591351	catmaid_l1em	
 left side of organism	overlaps	1678567	catmaid_l1em	
+left side of organism	overlaps	1679034	catmaid_l1em	
 right side of organism	overlaps	1690576	catmaid_l1em	
 left side of organism	overlaps	1706716	catmaid_l1em	
 peripheral nervous system	overlaps	1706716	catmaid_l1em	
@@ -233,6 +234,7 @@ bilateral	has_characteristic	2659386	catmaid_l1em
 right side of organism	overlaps	2667061	catmaid_l1em	
 peripheral nervous system	overlaps	2667061	catmaid_l1em	
 adult ventral nerve cord	overlaps	2667061	catmaid_l1em	
+right side of organism	overlaps	2772093	catmaid_l1em	
 right side of organism	overlaps	2775707	catmaid_l1em	
 right side of organism	overlaps	2775943	catmaid_l1em	
 left side of organism	overlaps	2816457	catmaid_l1em	
@@ -262,6 +264,8 @@ left side of organism	overlaps	3054101	catmaid_l1em
 right side of organism	overlaps	3054101	catmaid_l1em	
 peripheral nervous system	overlaps	3054101	catmaid_l1em	
 adult ventral nerve cord	overlaps	3054101	catmaid_l1em	
+left side of organism	overlaps	3060480	catmaid_l1em	
+right side of organism	overlaps	3060480	catmaid_l1em	
 left side of organism	overlaps	3071301	catmaid_l1em	
 right side of organism	overlaps	3071301	catmaid_l1em	
 peripheral nervous system	overlaps	3071301	catmaid_l1em	
@@ -270,6 +274,8 @@ right side of organism	overlaps	3093284	catmaid_l1em
 right side of organism	overlaps	3123905	catmaid_l1em	
 peripheral nervous system	overlaps	3123905	catmaid_l1em	
 adult ventral nerve cord	overlaps	3123905	catmaid_l1em	
+right side of organism	overlaps	3149791	catmaid_l1em	
+bilateral	has_characteristic	3149791	catmaid_l1em	
 left side of organism	overlaps	3157405	catmaid_l1em	
 right side of organism	overlaps	3157405	catmaid_l1em	
 right side of organism	overlaps	3158085	catmaid_l1em	
@@ -279,6 +285,8 @@ bilateral	has_characteristic	3158123	catmaid_l1em
 left side of organism	overlaps	3158543	catmaid_l1em	
 peripheral nervous system	overlaps	3158543	catmaid_l1em	
 adult ventral nerve cord	overlaps	3158543	catmaid_l1em	
+left side of organism	overlaps	3163105	catmaid_l1em	
+right side of organism	overlaps	3163105	catmaid_l1em	
 peripheral nervous system	overlaps	3192952	catmaid_l1em	
 adult ventral nerve cord	overlaps	3192952	catmaid_l1em	
 right side of organism	overlaps	3199456	catmaid_l1em	
@@ -418,6 +426,8 @@ adult ventral nerve cord	overlaps	3774568	catmaid_l1em
 right side of organism	overlaps	3790004	catmaid_l1em	
 peripheral nervous system	overlaps	3790004	catmaid_l1em	
 adult ventral nerve cord	overlaps	3790004	catmaid_l1em	
+right side of organism	overlaps	3793760	catmaid_l1em	
+bilateral	has_characteristic	3793760	catmaid_l1em	
 right side of organism	overlaps	3794023	catmaid_l1em	
 left side of organism	overlaps	3795424	catmaid_l1em	
 right side of organism	overlaps	3795498	catmaid_l1em	
@@ -434,6 +444,8 @@ right side of organism	overlaps	3813723	catmaid_l1em
 peripheral nervous system	overlaps	3813723	catmaid_l1em	
 adult ventral nerve cord	overlaps	3813723	catmaid_l1em	
 right side of organism	overlaps	3814635	catmaid_l1em	
+left side of organism	overlaps	3814651	catmaid_l1em	
+right side of organism	overlaps	3814651	catmaid_l1em	
 right side of organism	overlaps	3814853	catmaid_l1em	
 bilateral	has_characteristic	3814853	catmaid_l1em	
 left side of organism	overlaps	3819157	catmaid_l1em	
@@ -493,6 +505,8 @@ bilateral	has_characteristic	3945232	catmaid_l1em
 left side of organism	overlaps	3945246	catmaid_l1em	
 left side of organism	overlaps	3945454	catmaid_l1em	
 bilateral	has_characteristic	3945454	catmaid_l1em	
+left side of organism	overlaps	3945756	catmaid_l1em	
+bilateral	has_characteristic	3945756	catmaid_l1em	
 left side of organism	overlaps	3946166	catmaid_l1em	
 left side of organism	overlaps	3946364	catmaid_l1em	
 right side of organism	overlaps	3946364	catmaid_l1em	
@@ -558,6 +572,7 @@ bilateral	has_characteristic	4116174	catmaid_l1em
 left side of organism	overlaps	4117305	catmaid_l1em	
 right side of organism	overlaps	4117305	catmaid_l1em	
 right side of organism	overlaps	4119387	catmaid_l1em	
+right side of organism	overlaps	4130960	catmaid_l1em	
 left side of organism	overlaps	4134539	catmaid_l1em	
 right side of organism	overlaps	4134539	catmaid_l1em	
 right side of organism	overlaps	4144377	catmaid_l1em	
@@ -582,6 +597,7 @@ right side of organism	overlaps	4214582	catmaid_l1em
 peripheral nervous system	overlaps	4214582	catmaid_l1em	
 adult ventral nerve cord	overlaps	4214582	catmaid_l1em	
 bilateral	has_characteristic	4214582	catmaid_l1em	
+right side of organism	overlaps	4215611	catmaid_l1em	
 left side of organism	overlaps	4227304	catmaid_l1em	
 right side of organism	overlaps	4227304	catmaid_l1em	
 left side of organism	overlaps	4227544	catmaid_l1em	
@@ -728,6 +744,8 @@ left side of organism	overlaps	4919895	catmaid_l1em
 right side of organism	overlaps	4919895	catmaid_l1em	
 left side of organism	overlaps	4982172	catmaid_l1em	
 right side of organism	overlaps	4982172	catmaid_l1em	
+left side of organism	overlaps	4983938	catmaid_l1em	
+right side of organism	overlaps	4983938	catmaid_l1em	
 left side of organism	overlaps	4985759	catmaid_l1em	
 right side of organism	overlaps	5010581	catmaid_l1em	
 left side of organism	overlaps	5019924	catmaid_l1em	
@@ -797,10 +815,12 @@ right side of organism	overlaps	5474852	catmaid_l1em
 right side of organism	overlaps	5480553	catmaid_l1em	
 bilateral	has_characteristic	5480553	catmaid_l1em	
 right side of organism	overlaps	5500958	catmaid_l1em	
+right side of organism	overlaps	5512988	catmaid_l1em	
 right side of organism	overlaps	5516552	catmaid_l1em	
 right side of organism	overlaps	5558724	catmaid_l1em	
 bilateral	has_characteristic	5558724	catmaid_l1em	
 right side of organism	overlaps	5560620	catmaid_l1em	
+left side of organism	overlaps	5577650	catmaid_l1em	
 right side of organism	overlaps	5592307	catmaid_l1em	
 bilateral	has_characteristic	5592307	catmaid_l1em	
 left side of organism	overlaps	5601924	catmaid_l1em	
@@ -815,10 +835,14 @@ left side of organism	overlaps	5679304	catmaid_l1em
 right side of organism	overlaps	5679304	catmaid_l1em	
 left side of organism	overlaps	5681132	catmaid_l1em	
 left side of organism	overlaps	5688091	catmaid_l1em	
+left side of organism	overlaps	5690425	catmaid_l1em	
 left side of organism	overlaps	5691934	catmaid_l1em	
 bilateral	has_characteristic	5691934	catmaid_l1em	
 right side of organism	overlaps	5738449	catmaid_l1em	
 bilateral	has_characteristic	5738449	catmaid_l1em	
+left side of organism	overlaps	5745110	catmaid_l1em	
+bilateral	has_characteristic	5745110	catmaid_l1em	
+left side of organism	overlaps	5747036	catmaid_l1em	
 left side of organism	overlaps	5754346	catmaid_l1em	
 left side of organism	overlaps	5769582	catmaid_l1em	
 right side of organism	overlaps	5769582	catmaid_l1em	
@@ -852,6 +876,8 @@ right side of organism	overlaps	5890323	catmaid_l1em
 right side of organism	overlaps	5934511	catmaid_l1em	
 left side of organism	overlaps	5937084	catmaid_l1em	
 right side of organism	overlaps	5937084	catmaid_l1em	
+right side of organism	overlaps	5946241	catmaid_l1em	
+bilateral	has_characteristic	5946241	catmaid_l1em	
 right side of organism	overlaps	5955853	catmaid_l1em	
 bilateral	has_characteristic	5955853	catmaid_l1em	
 right side of organism	overlaps	5956787	catmaid_l1em	
@@ -952,6 +978,7 @@ left side of organism	overlaps	7198338	catmaid_l1em
 right side of organism	overlaps	7198338	catmaid_l1em	
 left side of organism	overlaps	7215582	catmaid_l1em	
 right side of organism	overlaps	7215582	catmaid_l1em	
+left side of organism	overlaps	7227010	catmaid_l1em	
 left side of organism	overlaps	7313896	catmaid_l1em	
 right side of organism	overlaps	7331555	catmaid_l1em	
 left side of organism	overlaps	7338309	catmaid_l1em	
@@ -1022,6 +1049,7 @@ peripheral nervous system	overlaps	7658146	catmaid_l1em
 adult ventral nerve cord	overlaps	7658146	catmaid_l1em	
 left side of organism	overlaps	7690945	catmaid_l1em	
 right side of organism	overlaps	7690945	catmaid_l1em	
+right side of organism	overlaps	7692008	catmaid_l1em	
 left side of organism	overlaps	7694589	catmaid_l1em	
 right side of organism	overlaps	7694589	catmaid_l1em	
 left side of organism	overlaps	7700444	catmaid_l1em	
@@ -1091,6 +1119,8 @@ right side of organism	overlaps	7980189	catmaid_l1em
 peripheral nervous system	overlaps	7980189	catmaid_l1em	
 adult ventral nerve cord	overlaps	7980189	catmaid_l1em	
 right side of organism	overlaps	7980369	catmaid_l1em	
+left side of organism	overlaps	7982896	catmaid_l1em	
+right side of organism	overlaps	7982896	catmaid_l1em	
 left side of organism	overlaps	7983899	catmaid_l1em	
 right side of organism	overlaps	7983899	catmaid_l1em	
 left side of organism	overlaps	8005609	catmaid_l1em	
@@ -1101,6 +1131,7 @@ left side of organism	overlaps	8012953	catmaid_l1em
 right side of organism	overlaps	8019816	catmaid_l1em	
 left side of organism	overlaps	8021456	catmaid_l1em	
 right side of organism	overlaps	8021456	catmaid_l1em	
+left side of organism	overlaps	8025665	catmaid_l1em	
 right side of organism	overlaps	8034919	catmaid_l1em	
 bilateral	has_characteristic	8034919	catmaid_l1em	
 left side of organism	overlaps	8037197	catmaid_l1em	
@@ -1145,6 +1176,7 @@ left side of organism	overlaps	8177991	catmaid_l1em
 right side of organism	overlaps	8177991	catmaid_l1em	
 right side of organism	overlaps	8184598	catmaid_l1em	
 bilateral	has_characteristic	8184598	catmaid_l1em	
+right side of organism	overlaps	8193545	catmaid_l1em	
 left side of organism	overlaps	8198238	catmaid_l1em	
 right side of organism	overlaps	8198238	catmaid_l1em	
 right side of organism	overlaps	8198317	catmaid_l1em	
@@ -1209,6 +1241,7 @@ left side of organism	overlaps	8297018	catmaid_l1em
 right side of organism	overlaps	8297018	catmaid_l1em	
 bilateral	has_characteristic	8297018	catmaid_l1em	
 right side of organism	overlaps	8310087	catmaid_l1em	
+right side of organism	overlaps	8310955	catmaid_l1em	
 left side of organism	overlaps	8311264	catmaid_l1em	
 left side of organism	overlaps	8318678	catmaid_l1em	
 right side of organism	overlaps	8318678	catmaid_l1em	
@@ -1223,6 +1256,8 @@ bilateral	has_characteristic	8338584	catmaid_l1em
 left side of organism	overlaps	8340950	catmaid_l1em	
 left side of organism	overlaps	8349454	catmaid_l1em	
 right side of organism	overlaps	8349454	catmaid_l1em	
+right side of organism	overlaps	8349553	catmaid_l1em	
+bilateral	has_characteristic	8349553	catmaid_l1em	
 left side of organism	overlaps	8357933	catmaid_l1em	
 left side of organism	overlaps	8393981	catmaid_l1em	
 right side of organism	overlaps	8393981	catmaid_l1em	
@@ -1255,6 +1290,8 @@ right side of organism	overlaps	8542422	catmaid_l1em
 left side of organism	overlaps	8559607	catmaid_l1em	
 right side of organism	overlaps	8559607	catmaid_l1em	
 right side of organism	overlaps	8565131	catmaid_l1em	
+left side of organism	overlaps	8640212	catmaid_l1em	
+right side of organism	overlaps	8641784	catmaid_l1em	
 right side of organism	overlaps	8689148	catmaid_l1em	
 left side of organism	overlaps	8689674	catmaid_l1em	
 right side of organism	overlaps	8689674	catmaid_l1em	
@@ -1264,6 +1301,7 @@ left side of organism	overlaps	8704079	catmaid_l1em
 right side of organism	overlaps	8704079	catmaid_l1em	
 right side of organism	overlaps	8711574	catmaid_l1em	
 right side of organism	overlaps	8712361	catmaid_l1em	
+right side of organism	overlaps	8715940	catmaid_l1em	
 right side of organism	overlaps	8717219	catmaid_l1em	
 left side of organism	overlaps	8723397	catmaid_l1em	
 right side of organism	overlaps	8723397	catmaid_l1em	
@@ -1323,6 +1361,11 @@ right side of organism	overlaps	8922644	catmaid_l1em
 bilateral	has_characteristic	8922644	catmaid_l1em	
 left side of organism	overlaps	8924186	catmaid_l1em	
 right side of organism	overlaps	8924186	catmaid_l1em	
+right side of organism	overlaps	8942413	catmaid_l1em	
+right side of organism	overlaps	8951591	catmaid_l1em	
+peripheral nervous system	overlaps	8951591	catmaid_l1em	
+adult ventral nerve cord	overlaps	8951591	catmaid_l1em	
+bilateral	has_characteristic	8951591	catmaid_l1em	
 left side of organism	overlaps	8957325	catmaid_l1em	
 right side of organism	overlaps	8957325	catmaid_l1em	
 left side of organism	overlaps	8974428	catmaid_l1em	
@@ -1356,6 +1399,7 @@ left side of organism	overlaps	9074101	catmaid_l1em
 right side of organism	overlaps	9074101	catmaid_l1em	
 bilateral	has_characteristic	9074101	catmaid_l1em	
 left side of organism	overlaps	9083312	catmaid_l1em	
+right side of organism	overlaps	9091922	catmaid_l1em	
 right side of organism	overlaps	9103732	catmaid_l1em	
 left side of organism	overlaps	9109799	catmaid_l1em	
 right side of organism	overlaps	9109799	catmaid_l1em	
@@ -1366,6 +1410,7 @@ bilateral	has_characteristic	9119558	catmaid_l1em
 left side of organism	overlaps	9141404	catmaid_l1em	
 right side of organism	overlaps	9141404	catmaid_l1em	
 right side of organism	overlaps	9212816	catmaid_l1em	
+left side of organism	overlaps	9235545	catmaid_l1em	
 left side of organism	overlaps	9236708	catmaid_l1em	
 right side of organism	overlaps	9236708	catmaid_l1em	
 left side of organism	overlaps	9238937	catmaid_l1em	
@@ -1377,6 +1422,8 @@ right side of organism	overlaps	9275210	catmaid_l1em
 right side of organism	overlaps	9287906	catmaid_l1em	
 right side of organism	overlaps	9291474	catmaid_l1em	
 right side of organism	overlaps	9294475	catmaid_l1em	
+left side of organism	overlaps	9351843	catmaid_l1em	
+right side of organism	overlaps	9351843	catmaid_l1em	
 left side of organism	overlaps	9372642	catmaid_l1em	
 right side of organism	overlaps	9372642	catmaid_l1em	
 left side of organism	overlaps	9408003	catmaid_l1em	
@@ -1397,6 +1444,7 @@ left side of organism	overlaps	9511772	catmaid_l1em
 right side of organism	overlaps	9511772	catmaid_l1em	
 left side of organism	overlaps	9517477	catmaid_l1em	
 right side of organism	overlaps	9517477	catmaid_l1em	
+right side of organism	overlaps	9519425	catmaid_l1em	
 left side of organism	overlaps	9524538	catmaid_l1em	
 bilateral	has_characteristic	9524538	catmaid_l1em	
 left side of organism	overlaps	9525492	catmaid_l1em	
@@ -1409,6 +1457,9 @@ adult ventral nerve cord	overlaps	9527522	catmaid_l1em
 bilateral	has_characteristic	9527522	catmaid_l1em	
 left side of organism	overlaps	9531722	catmaid_l1em	
 right side of organism	overlaps	9531722	catmaid_l1em	
+right side of organism	overlaps	9532295	catmaid_l1em	
+peripheral nervous system	overlaps	9532295	catmaid_l1em	
+adult ventral nerve cord	overlaps	9532295	catmaid_l1em	
 right side of organism	overlaps	9539868	catmaid_l1em	
 left side of organism	overlaps	9556700	catmaid_l1em	
 right side of organism	overlaps	9556700	catmaid_l1em	
@@ -1424,6 +1475,7 @@ left side of organism	overlaps	9606354	catmaid_l1em
 right side of organism	overlaps	9606354	catmaid_l1em	
 left side of organism	overlaps	9609048	catmaid_l1em	
 right side of organism	overlaps	9609048	catmaid_l1em	
+right side of organism	overlaps	9621307	catmaid_l1em	
 left side of organism	overlaps	9641919	catmaid_l1em	
 right side of organism	overlaps	9641919	catmaid_l1em	
 left side of organism	overlaps	9707941	catmaid_l1em	
@@ -1445,6 +1497,8 @@ peripheral nervous system	overlaps	9748269	catmaid_l1em
 adult ventral nerve cord	overlaps	9748269	catmaid_l1em	
 right side of organism	overlaps	9753418	catmaid_l1em	
 bilateral	has_characteristic	9753418	catmaid_l1em	
+right side of organism	overlaps	9753494	catmaid_l1em	
+bilateral	has_characteristic	9753494	catmaid_l1em	
 left side of organism	overlaps	9753530	catmaid_l1em	
 right side of organism	overlaps	9753530	catmaid_l1em	
 left side of organism	overlaps	9766793	catmaid_l1em	
@@ -1531,6 +1585,8 @@ left side of organism	overlaps	10259967	catmaid_l1em
 right side of organism	overlaps	10259967	catmaid_l1em	
 right side of organism	overlaps	10263287	catmaid_l1em	
 left side of organism	overlaps	10281116	catmaid_l1em	
+left side of organism	overlaps	10323628	catmaid_l1em	
+bilateral	has_characteristic	10323628	catmaid_l1em	
 left side of organism	overlaps	10329208	catmaid_l1em	
 right side of organism	overlaps	10329208	catmaid_l1em	
 right side of organism	overlaps	10339991	catmaid_l1em	
@@ -1568,6 +1624,7 @@ right side of organism	overlaps	10702736	catmaid_l1em
 left side of organism	overlaps	10716080	catmaid_l1em	
 right side of organism	overlaps	10716080	catmaid_l1em	
 bilateral	has_characteristic	10716080	catmaid_l1em	
+right side of organism	overlaps	10725068	catmaid_l1em	
 left side of organism	overlaps	10728318	catmaid_l1em	
 right side of organism	overlaps	10728318	catmaid_l1em	
 left side of organism	overlaps	10728328	catmaid_l1em	
@@ -1642,6 +1699,7 @@ right side of organism	overlaps	11144258	catmaid_l1em
 left side of organism	overlaps	11146422	catmaid_l1em	
 right side of organism	overlaps	11178891	catmaid_l1em	
 bilateral	has_characteristic	11178891	catmaid_l1em	
+right side of organism	overlaps	11184236	catmaid_l1em	
 left side of organism	overlaps	11193510	catmaid_l1em	
 right side of organism	overlaps	11193510	catmaid_l1em	
 right side of organism	overlaps	11210000	catmaid_l1em	
@@ -1655,6 +1713,7 @@ right side of organism	overlaps	11279244	catmaid_l1em
 right side of organism	overlaps	11291344	catmaid_l1em	
 left side of organism	overlaps	11333054	catmaid_l1em	
 right side of organism	overlaps	11333054	catmaid_l1em	
+right side of organism	overlaps	11362589	catmaid_l1em	
 left side of organism	overlaps	11409587	catmaid_l1em	
 left side of organism	overlaps	11455472	catmaid_l1em	
 right side of organism	overlaps	11464638	catmaid_l1em	
@@ -1674,6 +1733,9 @@ bilateral	has_characteristic	11543212	catmaid_l1em
 left side of organism	overlaps	11600886	catmaid_l1em	
 peripheral nervous system	overlaps	11600886	catmaid_l1em	
 adult ventral nerve cord	overlaps	11600886	catmaid_l1em	
+left side of organism	overlaps	11605861	catmaid_l1em	
+right side of organism	overlaps	11605861	catmaid_l1em	
+bilateral	has_characteristic	11605861	catmaid_l1em	
 right side of organism	overlaps	11637003	catmaid_l1em	
 bilateral	has_characteristic	11637003	catmaid_l1em	
 left side of organism	overlaps	11639192	catmaid_l1em	
@@ -1687,6 +1749,7 @@ left side of organism	overlaps	11691640	catmaid_l1em
 right side of organism	overlaps	11691640	catmaid_l1em	
 left side of organism	overlaps	11703922	catmaid_l1em	
 right side of organism	overlaps	11703922	catmaid_l1em	
+left side of organism	overlaps	11717045	catmaid_l1em	
 left side of organism	overlaps	11725127	catmaid_l1em	
 right side of organism	overlaps	11725127	catmaid_l1em	
 left side of organism	overlaps	11725803	catmaid_l1em	
@@ -1704,6 +1767,8 @@ right side of organism	overlaps	11813287	catmaid_l1em
 right side of organism	overlaps	11826171	catmaid_l1em	
 left side of organism	overlaps	11841664	catmaid_l1em	
 right side of organism	overlaps	11851588	catmaid_l1em	
+left side of organism	overlaps	11871574	catmaid_l1em	
+bilateral	has_characteristic	11871574	catmaid_l1em	
 left side of organism	overlaps	11874130	catmaid_l1em	
 peripheral nervous system	overlaps	11874130	catmaid_l1em	
 adult ventral nerve cord	overlaps	11874130	catmaid_l1em	
@@ -1720,6 +1785,8 @@ bilateral	has_characteristic	11946903	catmaid_l1em
 left side of organism	overlaps	12073881	catmaid_l1em	
 peripheral nervous system	overlaps	12073881	catmaid_l1em	
 adult ventral nerve cord	overlaps	12073881	catmaid_l1em	
+left side of organism	overlaps	12121795	catmaid_l1em	
+bilateral	has_characteristic	12121795	catmaid_l1em	
 right side of organism	overlaps	12122924	catmaid_l1em	
 left side of organism	overlaps	12138418	catmaid_l1em	
 right side of organism	overlaps	12138418	catmaid_l1em	
@@ -1751,6 +1818,7 @@ right side of organism	overlaps	12335381	catmaid_l1em
 bilateral	has_characteristic	12335381	catmaid_l1em	
 left side of organism	overlaps	12356747	catmaid_l1em	
 right side of organism	overlaps	12356747	catmaid_l1em	
+left side of organism	overlaps	12367568	catmaid_l1em	
 left side of organism	overlaps	12389097	catmaid_l1em	
 left side of organism	overlaps	12398622	catmaid_l1em	
 left side of organism	overlaps	12475432	catmaid_l1em	
@@ -1766,6 +1834,7 @@ right side of organism	overlaps	12587013	catmaid_l1em
 left side of organism	overlaps	12598741	catmaid_l1em	
 left side of organism	overlaps	12634154	catmaid_l1em	
 right side of organism	overlaps	12634154	catmaid_l1em	
+left side of organism	overlaps	12654063	catmaid_l1em	
 left side of organism	overlaps	12670738	catmaid_l1em	
 left side of organism	overlaps	12704069	catmaid_l1em	
 right side of organism	overlaps	12704069	catmaid_l1em	
@@ -1798,6 +1867,7 @@ right side of organism	overlaps	12935696	catmaid_l1em
 left side of organism	overlaps	12948470	catmaid_l1em	
 right side of organism	overlaps	12948470	catmaid_l1em	
 right side of organism	overlaps	12962772	catmaid_l1em	
+right side of organism	overlaps	13003574	catmaid_l1em	
 right side of organism	overlaps	13046847	catmaid_l1em	
 left side of organism	overlaps	13197236	catmaid_l1em	
 bilateral	has_characteristic	13197236	catmaid_l1em	
@@ -1913,6 +1983,7 @@ right side of organism	overlaps	14334367	catmaid_l1em
 bilateral	has_characteristic	14334367	catmaid_l1em	
 left side of organism	overlaps	14342744	catmaid_l1em	
 left side of organism	overlaps	14437742	catmaid_l1em	
+left side of organism	overlaps	14451162	catmaid_l1em	
 left side of organism	overlaps	14460113	catmaid_l1em	
 right side of organism	overlaps	14460113	catmaid_l1em	
 left side of organism	overlaps	14493841	catmaid_l1em	
@@ -1941,6 +2012,9 @@ adult ventral nerve cord	overlaps	14617508	catmaid_l1em
 right side of organism	overlaps	14680483	catmaid_l1em	
 peripheral nervous system	overlaps	14680483	catmaid_l1em	
 adult ventral nerve cord	overlaps	14680483	catmaid_l1em	
+right side of organism	overlaps	14753815	catmaid_l1em	
+bilateral	has_characteristic	14753815	catmaid_l1em	
+right side of organism	overlaps	14757050	catmaid_l1em	
 right side of organism	overlaps	14760757	catmaid_l1em	
 bilateral	has_characteristic	14760757	catmaid_l1em	
 left side of organism	overlaps	14891367	catmaid_l1em	
@@ -1952,6 +2026,7 @@ right side of organism	overlaps	14898816	catmaid_l1em
 left side of organism	overlaps	14913093	catmaid_l1em	
 right side of organism	overlaps	14913093	catmaid_l1em	
 right side of organism	overlaps	14948339	catmaid_l1em	
+left side of organism	overlaps	15023806	catmaid_l1em	
 left side of organism	overlaps	15202263	catmaid_l1em	
 right side of organism	overlaps	15202263	catmaid_l1em	
 right side of organism	overlaps	15225589	catmaid_l1em	
@@ -1999,6 +2074,7 @@ right side of organism	overlaps	15480928	catmaid_l1em
 peripheral nervous system	overlaps	15480928	catmaid_l1em	
 adult ventral nerve cord	overlaps	15480928	catmaid_l1em	
 bilateral	has_characteristic	15480928	catmaid_l1em	
+right side of organism	overlaps	15481779	catmaid_l1em	
 left side of organism	overlaps	15488316	catmaid_l1em	
 right side of organism	overlaps	15488316	catmaid_l1em	
 right side of organism	overlaps	15505837	catmaid_l1em	
@@ -2018,10 +2094,12 @@ adult ventral nerve cord	overlaps	15508735	catmaid_l1em
 bilateral	has_characteristic	15508735	catmaid_l1em	
 left side of organism	overlaps	15510288	catmaid_l1em	
 bilateral	has_characteristic	15510288	catmaid_l1em	
+left side of organism	overlaps	15519213	catmaid_l1em	
 right side of organism	overlaps	15522777	catmaid_l1em	
 peripheral nervous system	overlaps	15522777	catmaid_l1em	
 adult ventral nerve cord	overlaps	15522777	catmaid_l1em	
 left side of organism	overlaps	15524629	catmaid_l1em	
+left side of organism	overlaps	15525794	catmaid_l1em	
 right side of organism	overlaps	15525858	catmaid_l1em	
 peripheral nervous system	overlaps	15525858	catmaid_l1em	
 adult ventral nerve cord	overlaps	15525858	catmaid_l1em	
@@ -2071,6 +2149,8 @@ adult ventral nerve cord	overlaps	15548107	catmaid_l1em
 right side of organism	overlaps	15548694	catmaid_l1em	
 peripheral nervous system	overlaps	15548694	catmaid_l1em	
 adult ventral nerve cord	overlaps	15548694	catmaid_l1em	
+left side of organism	overlaps	15548844	catmaid_l1em	
+right side of organism	overlaps	15548844	catmaid_l1em	
 right side of organism	overlaps	15556081	catmaid_l1em	
 peripheral nervous system	overlaps	15556081	catmaid_l1em	
 adult ventral nerve cord	overlaps	15556081	catmaid_l1em	
@@ -2342,6 +2422,8 @@ peripheral nervous system	overlaps	15653927	catmaid_l1em
 adult ventral nerve cord	overlaps	15653927	catmaid_l1em	
 peripheral nervous system	overlaps	15656435	catmaid_l1em	
 adult ventral nerve cord	overlaps	15656435	catmaid_l1em	
+right side of organism	overlaps	15656826	catmaid_l1em	
+bilateral	has_characteristic	15656826	catmaid_l1em	
 right side of organism	overlaps	15658013	catmaid_l1em	
 peripheral nervous system	overlaps	15658013	catmaid_l1em	
 adult ventral nerve cord	overlaps	15658013	catmaid_l1em	
@@ -2526,6 +2608,7 @@ peripheral nervous system	overlaps	15730645	catmaid_l1em
 adult ventral nerve cord	overlaps	15730645	catmaid_l1em	
 peripheral nervous system	overlaps	15730680	catmaid_l1em	
 adult ventral nerve cord	overlaps	15730680	catmaid_l1em	
+right side of organism	overlaps	15732509	catmaid_l1em	
 left side of organism	overlaps	15734666	catmaid_l1em	
 right side of organism	overlaps	15734666	catmaid_l1em	
 left side of organism	overlaps	15734988	catmaid_l1em	
@@ -2585,6 +2668,7 @@ left side of organism	overlaps	15828093	catmaid_l1em
 right side of organism	overlaps	15828093	catmaid_l1em	
 left side of organism	overlaps	15861524	catmaid_l1em	
 right side of organism	overlaps	15861524	catmaid_l1em	
+right side of organism	overlaps	15894278	catmaid_l1em	
 peripheral nervous system	overlaps	15914721	catmaid_l1em	
 adult ventral nerve cord	overlaps	15914721	catmaid_l1em	
 left side of organism	overlaps	15938337	catmaid_l1em	
@@ -2747,6 +2831,7 @@ left side of organism	overlaps	16316916	catmaid_l1em
 bilateral	has_characteristic	16316916	catmaid_l1em	
 right side of organism	overlaps	16339645	catmaid_l1em	
 bilateral	has_characteristic	16339645	catmaid_l1em	
+left side of organism	overlaps	16340977	catmaid_l1em	
 left side of organism	overlaps	16340998	catmaid_l1em	
 bilateral	has_characteristic	16340998	catmaid_l1em	
 right side of organism	overlaps	16341399	catmaid_l1em	
@@ -2839,9 +2924,13 @@ bilateral	has_characteristic	16486385	catmaid_l1em
 left side of organism	overlaps	16492104	catmaid_l1em	
 right side of organism	overlaps	16492104	catmaid_l1em	
 right side of organism	overlaps	16515871	catmaid_l1em	
+right side of organism	overlaps	16540741	catmaid_l1em	
+left side of organism	overlaps	16541149	catmaid_l1em	
 left side of organism	overlaps	16544462	catmaid_l1em	
 left side of organism	overlaps	16544485	catmaid_l1em	
 right side of organism	overlaps	16544485	catmaid_l1em	
+left side of organism	overlaps	16545264	catmaid_l1em	
+right side of organism	overlaps	16586265	catmaid_l1em	
 right side of organism	overlaps	16594509	catmaid_l1em	
 right side of organism	overlaps	16621864	catmaid_l1em	
 bilateral	has_characteristic	16621864	catmaid_l1em	
@@ -2885,6 +2974,7 @@ right side of organism	overlaps	16691937	catmaid_l1em
 right side of organism	overlaps	16699958	catmaid_l1em	
 peripheral nervous system	overlaps	16699958	catmaid_l1em	
 adult ventral nerve cord	overlaps	16699958	catmaid_l1em	
+right side of organism	overlaps	16709072	catmaid_l1em	
 left side of organism	overlaps	16720240	catmaid_l1em	
 right side of organism	overlaps	16720240	catmaid_l1em	
 right side of organism	overlaps	16735586	catmaid_l1em	
@@ -2917,6 +3007,8 @@ right side of organism	overlaps	16848475	catmaid_l1em
 bilateral	has_characteristic	16848475	catmaid_l1em	
 left side of organism	overlaps	16848497	catmaid_l1em	
 bilateral	has_characteristic	16848497	catmaid_l1em	
+left side of organism	overlaps	16848587	catmaid_l1em	
+bilateral	has_characteristic	16848587	catmaid_l1em	
 left side of organism	overlaps	16850888	catmaid_l1em	
 right side of organism	overlaps	16850888	catmaid_l1em	
 right side of organism	overlaps	16856539	catmaid_l1em	
@@ -2944,6 +3036,7 @@ adult ventral nerve cord	overlaps	16978882	catmaid_l1em
 bilateral	has_characteristic	16978882	catmaid_l1em	
 right side of organism	overlaps	16987409	catmaid_l1em	
 bilateral	has_characteristic	16987409	catmaid_l1em	
+left side of organism	overlaps	16992171	catmaid_l1em	
 right side of organism	overlaps	17013073	catmaid_l1em	
 bilateral	has_characteristic	17013073	catmaid_l1em	
 left side of organism	overlaps	17015609	catmaid_l1em	
@@ -2958,6 +3051,7 @@ left side of organism	overlaps	17068730	catmaid_l1em
 right side of organism	overlaps	17068730	catmaid_l1em	
 bilateral	has_characteristic	17068730	catmaid_l1em	
 right side of organism	overlaps	17083341	catmaid_l1em	
+left side of organism	overlaps	17086412	catmaid_l1em	
 left side of organism	overlaps	17096642	catmaid_l1em	
 right side of organism	overlaps	17107661	catmaid_l1em	
 right side of organism	overlaps	17125520	catmaid_l1em	
@@ -2972,6 +3066,7 @@ left side of organism	overlaps	17165286	catmaid_l1em
 right side of organism	overlaps	17165286	catmaid_l1em	
 right side of organism	overlaps	17165711	catmaid_l1em	
 bilateral	has_characteristic	17165711	catmaid_l1em	
+right side of organism	overlaps	17166682	catmaid_l1em	
 left side of organism	overlaps	17176767	catmaid_l1em	
 bilateral	has_characteristic	17176767	catmaid_l1em	
 right side of organism	overlaps	17176781	catmaid_l1em	
@@ -3002,6 +3097,7 @@ left side of organism	overlaps	17295912	catmaid_l1em
 right side of organism	overlaps	17295912	catmaid_l1em	
 left side of organism	overlaps	17300165	catmaid_l1em	
 bilateral	has_characteristic	17300165	catmaid_l1em	
+left side of organism	overlaps	17306107	catmaid_l1em	
 left side of organism	overlaps	17315288	catmaid_l1em	
 bilateral	has_characteristic	17315288	catmaid_l1em	
 right side of organism	overlaps	17330632	catmaid_l1em	
@@ -3013,6 +3109,10 @@ left side of organism	overlaps	17355757	catmaid_l1em
 right side of organism	overlaps	17355757	catmaid_l1em	
 bilateral	has_characteristic	17355757	catmaid_l1em	
 right side of organism	overlaps	17357979	catmaid_l1em	
+left side of organism	overlaps	17360262	catmaid_l1em	
+peripheral nervous system	overlaps	17360262	catmaid_l1em	
+adult ventral nerve cord	overlaps	17360262	catmaid_l1em	
+bilateral	has_characteristic	17360262	catmaid_l1em	
 left side of organism	overlaps	17361757	catmaid_l1em	
 right side of organism	overlaps	17361757	catmaid_l1em	
 left side of organism	overlaps	17373283	catmaid_l1em	
@@ -3020,6 +3120,9 @@ right side of organism	overlaps	17379283	catmaid_l1em
 left side of organism	overlaps	17380936	catmaid_l1em	
 peripheral nervous system	overlaps	17380936	catmaid_l1em	
 adult ventral nerve cord	overlaps	17380936	catmaid_l1em	
+left side of organism	overlaps	17383431	catmaid_l1em	
+peripheral nervous system	overlaps	17383431	catmaid_l1em	
+adult ventral nerve cord	overlaps	17383431	catmaid_l1em	
 left side of organism	overlaps	17414715	catmaid_l1em	
 right side of organism	overlaps	17415439	catmaid_l1em	
 bilateral	has_characteristic	17415439	catmaid_l1em	
@@ -3032,6 +3135,7 @@ right side of organism	overlaps	17438424	catmaid_l1em
 bilateral	has_characteristic	17438424	catmaid_l1em	
 left side of organism	overlaps	17454963	catmaid_l1em	
 right side of organism	overlaps	17454963	catmaid_l1em	
+left side of organism	overlaps	17468727	catmaid_l1em	
 left side of organism	overlaps	17476873	catmaid_l1em	
 right side of organism	overlaps	17476873	catmaid_l1em	
 left side of organism	overlaps	17476916	catmaid_l1em	
@@ -3044,8 +3148,14 @@ left side of organism	overlaps	17476964	catmaid_l1em
 right side of organism	overlaps	17476964	catmaid_l1em	
 left side of organism	overlaps	17476975	catmaid_l1em	
 right side of organism	overlaps	17476975	catmaid_l1em	
+left side of organism	overlaps	17513284	catmaid_l1em	
+right side of organism	overlaps	17513284	catmaid_l1em	
 right side of organism	overlaps	17525174	catmaid_l1em	
+right side of organism	overlaps	17529547	catmaid_l1em	
 left side of organism	overlaps	17545695	catmaid_l1em	
+right side of organism	overlaps	17587726	catmaid_l1em	
+right side of organism	overlaps	17587730	catmaid_l1em	
+right side of organism	overlaps	17589475	catmaid_l1em	
 left side of organism	overlaps	17591442	catmaid_l1em	
 right side of organism	overlaps	17591442	catmaid_l1em	
 peripheral nervous system	overlaps	17608754	catmaid_l1em	
@@ -3055,13 +3165,27 @@ right side of organism	overlaps	17639784	catmaid_l1em
 bilateral	has_characteristic	17639784	catmaid_l1em	
 left side of organism	overlaps	17641913	catmaid_l1em	
 right side of organism	overlaps	17641913	catmaid_l1em	
+right side of organism	overlaps	17658884	catmaid_l1em	
+left side of organism	overlaps	17658943	catmaid_l1em	
+right side of organism	overlaps	17658943	catmaid_l1em	
 right side of organism	overlaps	17671219	catmaid_l1em	
 left side of organism	overlaps	17671375	catmaid_l1em	
 right side of organism	overlaps	17671375	catmaid_l1em	
 right side of organism	overlaps	17698681	catmaid_l1em	
+left side of organism	overlaps	17728571	catmaid_l1em	
+left side of organism	overlaps	17728730	catmaid_l1em	
+left side of organism	overlaps	17729110	catmaid_l1em	
+bilateral	has_characteristic	17729110	catmaid_l1em	
+left side of organism	overlaps	17729161	catmaid_l1em	
+left side of organism	overlaps	17729888	catmaid_l1em	
+left side of organism	overlaps	17769815	catmaid_l1em	
+right side of organism	overlaps	17777259	catmaid_l1em	
+bilateral	has_characteristic	17777259	catmaid_l1em	
 left side of organism	overlaps	17784367	catmaid_l1em	
 right side of organism	overlaps	17784367	catmaid_l1em	
 bilateral	has_characteristic	17784367	catmaid_l1em	
+left side of organism	overlaps	17804729	catmaid_l1em	
+bilateral	has_characteristic	17804729	catmaid_l1em	
 left side of organism	overlaps	17806341	catmaid_l1em	
 right side of organism	overlaps	17806341	catmaid_l1em	
 bilateral	has_characteristic	17806341	catmaid_l1em	
@@ -3083,6 +3207,7 @@ adult ventral nerve cord	overlaps	17951153	catmaid_l1em
 left side of organism	overlaps	17980792	catmaid_l1em	
 right side of organism	overlaps	17980792	catmaid_l1em	
 bilateral	has_characteristic	17980792	catmaid_l1em	
+right side of organism	overlaps	17990556	catmaid_l1em	
 right side of organism	overlaps	18028397	catmaid_l1em	
 bilateral	has_characteristic	18028397	catmaid_l1em	
 left side of organism	overlaps	18035864	catmaid_l1em	
@@ -3097,6 +3222,7 @@ right side of organism	overlaps	18231999	catmaid_l1em
 peripheral nervous system	overlaps	18231999	catmaid_l1em	
 adult ventral nerve cord	overlaps	18231999	catmaid_l1em	
 bilateral	has_characteristic	18231999	catmaid_l1em	
+left side of organism	overlaps	18305433	catmaid_l1em	
 left side of organism	overlaps	18440675	catmaid_l1em	
 bilateral	has_characteristic	18440675	catmaid_l1em	
 left side of organism	overlaps	18458734	catmaid_l1em	
@@ -3104,6 +3230,8 @@ right side of organism	overlaps	18464581	catmaid_l1em
 bilateral	has_characteristic	18464581	catmaid_l1em	
 left side of organism	overlaps	18500988	catmaid_l1em	
 right side of organism	overlaps	18500988	catmaid_l1em	
+left side of organism	overlaps	18527962	catmaid_l1em	
+left side of organism	overlaps	18568094	catmaid_l1em	
 right side of organism	overlaps	18620885	catmaid_l1em	
 peripheral nervous system	overlaps	18620885	catmaid_l1em	
 adult ventral nerve cord	overlaps	18620885	catmaid_l1em	
@@ -3115,6 +3243,9 @@ peripheral nervous system	overlaps	18630153	catmaid_l1em
 adult ventral nerve cord	overlaps	18630153	catmaid_l1em	
 left side of organism	overlaps	18648531	catmaid_l1em	
 right side of organism	overlaps	18648531	catmaid_l1em	
+left side of organism	overlaps	18655517	catmaid_l1em	
+right side of organism	overlaps	18655517	catmaid_l1em	
+bilateral	has_characteristic	18655517	catmaid_l1em	
 peripheral nervous system	overlaps	18679889	catmaid_l1em	
 adult ventral nerve cord	overlaps	18679889	catmaid_l1em	
 left side of organism	overlaps	18740553	catmaid_l1em	
@@ -3133,6 +3264,7 @@ left side of organism	overlaps	19120772	catmaid_l1em
 left side of organism	overlaps	19120853	catmaid_l1em	
 right side of organism	overlaps	19120853	catmaid_l1em	
 right side of organism	overlaps	19156025	catmaid_l1em	
+right side of organism	overlaps	19167389	catmaid_l1em	
 left side of organism	overlaps	19175973	catmaid_l1em	
 bilateral	has_characteristic	19175973	catmaid_l1em	
 peripheral nervous system	overlaps	19180425	catmaid_l1em	
@@ -3143,6 +3275,11 @@ left side of organism	overlaps	19470184	catmaid_l1em
 right side of organism	overlaps	19786464	catmaid_l1em	
 bilateral	has_characteristic	19786464	catmaid_l1em	
 right side of organism	overlaps	19857573	catmaid_l1em	
+left side of organism	overlaps	19881737	catmaid_l1em	
+bilateral	has_characteristic	19881737	catmaid_l1em	
+left side of organism	overlaps	20151537	catmaid_l1em	
+left side of organism	overlaps	20343986	catmaid_l1em	
 right side of organism	overlaps	20443457	catmaid_l1em	
 bilateral	has_characteristic	20443457	catmaid_l1em	
+right side of organism	overlaps	21590962	catmaid_l1em	
 right side of organism	overlaps	21664445	catmaid_l1em	
