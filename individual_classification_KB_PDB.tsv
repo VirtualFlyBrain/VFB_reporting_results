@@ -1,6 +1,6 @@
 FBbt_ID	FBbt_label	times_added	times_removed
 FBbt_00047095	adult neuron	13078	0
-FBbt_00001446	embryonic/larval neuron	1139	0
+FBbt_00001446	embryonic/larval neuron	1240	0
 FBbt_00049828	adult gamma Kenyon cell	1040	0
 FBbt_00050025	adult ALl1 lineage neuron	284	0
 FBbt_00067362	antennal lobe projection neuron of ALl1 lineage	281	0
@@ -172,7 +172,7 @@ FBbt_00111404	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 poster
 FBbt_00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	0	58
 FBbt_00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	0	20
 FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
-FBbt_00005106	neuron	0	46240
+FBbt_00005106	neuron	0	46341
 FBbt_00007683	neuroblast lineage clone	0	245
 FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	2
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14

@@ -1,9 +1,9 @@
 
-VFB Content Report 2023-06-26
+VFB Content Report 2023-06-28
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 26 Jun 2023 00:56:22``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Wed, 28 Jun 2023 00:55:29``  
   
 ***``Ontology Content``***  
 
@@ -28,24 +28,24 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 26 Jun 2
 ***``Image Content``***  
 *``(excludes hemibrain v1.0.1)``*  
   
-**127294** total images from **103** datasets  
-**49583** single neuron images of **5901** cell types  
+**127395** total images from **105** datasets  
+**49684** single neuron images of **5901** cell types  
 **43695** images of expression patterns of **16876** drivers  
 **2737** images of expression patterns of **579** split combinations  
 **49038** images of expression pattern fragments of **4601** drivers  
   
 ***``Annotations``***  
   
-**116071** annotations recording **3996** types of anatomical structure that **17396** specific driver lines are expressed in.  
-**99687** annotations recording **2930** parts of the nervous system that **14759** specific driver lines are expressed in.  
-**17523** annotations recording **1892** types of neuron that **4858** specific driver lines are expressed in.  
-**6196** annotations recording **700** types of neuron that **1534** specific split combinations are expressed in.  
+**116551** annotations recording **4029** types of anatomical structure that **17464** specific driver lines are expressed in.  
+**100087** annotations recording **2959** parts of the nervous system that **14820** specific driver lines are expressed in.  
+**17928** annotations recording **1921** types of neuron that **4962** specific driver lines are expressed in.  
+**6352** annotations recording **731** types of neuron that **1575** specific split combinations are expressed in.  
   
 ***``Connectivity``***  
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|28951|Any neuron (individuals)|28951|3465492|
+|Any neuron (individuals)|29052|Any neuron (individuals)|29052|3466784|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|324|Muscle (classes)|227|248|
 |Any neuron (classes)|777|Sense organ (classes)|413|513|
@@ -61,7 +61,7 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 26 Jun 2
 |adult VNS template - Court2018|10|3217|1|0|3193|494|0|22|
 |JRC_FlyEM_Hemibrain|2|22701|22588|22587|0|0|0|114|
 |JRC2018Unisex|65|98142|43479|26700|31655|1632|38796|46|
-|L1 larval CNS ssTEM - Cardona/Janelia|22|3464|3464|3464|0|0|0|0|
+|L1 larval CNS ssTEM - Cardona/Janelia|24|3565|3565|3565|0|0|0|0|
 |JRC2018UnisexVNC|21|20604|2030|2029|8314|625|10240|21|
 |adult brain template Ito2014|1|75|1|0|0|0|0|75|
 |L3 CNS template - Wood2018|2|257|2|0|0|0|2|255|

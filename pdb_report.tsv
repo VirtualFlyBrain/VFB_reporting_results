@@ -46,7 +46,7 @@ HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	CC-BY_4.0	FBrf0247223	14
 HeadMusclesMcKellar2020	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	134	0	52	15
 Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	312	0	15	16
-Imambocus2022	EM L1 Imambocus et al., 2022	CC-BY_4.0	FBrf0252313	0	0	0	0	0
+Imambocus2022	EM L1 Imambocus et al., 2022	CC-BY_4.0	FBrf0252313	3	0	0	0	0
 Ito2013	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	446	0
 JRC2018	JRC 2018 templates & ROIs	CC-BY-NC-SA_4.0	doi_10_1101_376384	48	0	0	0	0
 Jenett2012	FlyLight - GMR GAL4 collection (Jenett2012)	CC-BY-NC-SA_4.0	FBrf0219813	3469	0	0	3	0
@@ -54,7 +54,7 @@ JenettShinomya_BrainName	BrainName neuropils on adult brain JFRC2 (Jenett, Shino
 Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	44	0	83	17
 Jovanic2019	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	37	0	12	24
 Kim2020	EM FAFB Kim et al 2020	CC-BY-SA_4.0	doi_10_1002_cne_24877	95	95	0	0	0
-Kind2021	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	43	0
+Kind2021	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	43	26
 Klapoetke2017	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	3	4	17
 Knowles_Barley2010	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	504	0	0	0	0
 Kohl2013	Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)	CC-BY-SA_4.0	FBrf0223724	111	0	0	10	0
@@ -88,7 +88,7 @@ SplitGao2019	Split-GAL4 lines from Gao et al., 2019	CC-BY_4.0		0	0	0	0	0
 SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	CC-BY_4.0	FBrf0240038	2	0	0	0	12
 SplitHattori2017	Split-GAL4 lines from Hattori et al., 2017	CC-BY_4.0		0	0	0	0	0
 SplitJovanic2019	Split-GAL4 lines from Jovanic et al., 2019	CC-BY_4.0	FBrf0241547	0	0	0	12	24
-SplitKind2021	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	43	0
+SplitKind2021	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	43	26
 SplitKlapoetke2022	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0		0	0	0	0	0
 SplitLiang2017	Split-GAL4 lines from Liang et al., 2017	CC-BY_4.0		0	0	0	0	0
 SplitMasek2015	Split-GAL4 lines from Masek et al., 2015	CC-BY_4.0		0	0	0	0	0
@@ -104,7 +104,7 @@ SplitTurner_Evans2017	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4
 SplitTurner_Evans2020	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	8	0	4	23	0
 SplitVogt2014	Split-GAL4 lines from Vogt et al., 2014	CC-BY_4.0		0	0	0	0	0
 SplitVogt2016	Split-GAL4 lines from Vogt et al., 2016	CC-BY_4.0		0	0	0	0	0
-SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	62	0	16	12	0
+SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	62	0	16	12	36
 SplitWang2020b	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	4	0	1	3	0
 SplitWang2020c	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	0	0	0	4	0
 SplitXie2021	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0		0	0	0	0	0
@@ -117,10 +117,10 @@ Truman2016	L3 Larval CNS Template (Truman2016)	CC-BY-SA_4.0		1	0	0	0	0
 TrumanWood2018public	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		2	0	0	0	0
 Turner_Evans2020	EM FAFB Turner-Evans et al 2020	CC-BY-SA_4.0	doi_10_1016_j_neuron_2020_08_006	49	49	36	0	0
 Valdes_Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	CC-BY-SA_4.0	FBrf0247750	0	0	0	5	0
-Wang2020a	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	12	0
+Wang2020a	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	12	36
 Wang2020b	EM FAFB Wang et al 2020b	CC-BY_4.0	FBrf0246914	1	1	0	3	0
 Wang2020c	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	17	1	4	0
-WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	0	0	0	0	0
+WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	98	0	0	0	0
 Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	0	6	52	216
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	CC-BY-SA_4.0		255	0	0	0	0
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	159	39	193
