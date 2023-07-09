@@ -45,7 +45,7 @@ Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-B
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY_4.0	6
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	True	FBrf0236775	CC-BY-SA_4.0	1
 HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	True	FBrf0247223	CC-BY_4.0	147
-HeadMusclesMcKellar2020	Images of proboscis muscles from McKellar et al., 2020	True	FBrf0246028	CC-BY-SA_4.0	16
+HeadMusclesMcKellar2020	Images of proboscis muscles from McKellar et al., 2020	True	FBrf0246028	CC-BY-SA_4.0	18
 Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	True	FBrf0229965	CC-BY-SA_4.0	137
 Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	True	FBrf0249161	CC-BY-SA_4.0	314
 Imambocus2022	EM L1 Imambocus et al., 2022	True	FBrf0252313	CC-BY_4.0	45
@@ -69,8 +69,8 @@ Mamiya2022	Biomechanical origins of proprioceptive maps in the Drosophila leg	Tr
 Marin2020	EM FAFB Marin et al 2020	True	doi_10_1016_j_cub_2020_06_028	CC-BY-SA_4.0	301
 Mark2019	EM L1 Mark et al. 2019	True	doi_10_1101_617936	CC-BY-SA_4.0	78
 Matsuo2016	AMMC local and projection neurons (Matsuo2016)	True	FBrf0230862	CC-BY-SA_4.0	41
-McKellar2019	Images of aSP22 descending neuron from McKellar et al., 2019	True	FBrf0241391	CC-BY-SA_4.0	4
-McKellar2020	Split-GAL4 lines from McKellar et al., 2020	True	FBrf0246028	CC-BY-SA_4.0	40
+McKellar2019	Images of aSP22 descending neuron from McKellar et al., 2019		FBrf0241391	CC-BY-SA_4.0	4
+McKellar2020	GAL4 lines from McKellar et al., 2020	True	FBrf0246028	CC-BY-SA_4.0	22
 Miroschnikow2018	EM L1 Miroschnikow et al. 2018	True	FBrf0240975	CC-BY-SA_4.0	738
 Morimoto2020	EM FAFB Morimoto et al 2020	True	FBrf0247630	CC-BY_4.0	76
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	True	FBrf0239335	CC-BY_4.0	497
