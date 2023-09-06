@@ -1,8 +1,6 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
 Aso2014	dev	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1923	0	788	129	434
 Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	2449	0	788	129	434
-Burgos2018	dev	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	94	0	41	8
-Burgos2018	pdb	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	94	0	41	24
 CarreiraRosario2018	dev	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY_4.0	FBrf0239825	31	29	0	16	0
 CarreiraRosario2018	pdb	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY-SA_4.0	FBrf0239825	31	29	0	16	0
 Coates2020	dev	EM FAFB Coates et al 2020	CC-BY_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	191	10	0	0
