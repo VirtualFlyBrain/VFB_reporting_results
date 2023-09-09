@@ -1,12 +1,40 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Andrade2019	pdb	EM L1 Andrade et al. 2019	CC-BY-SA_4.0	FBrf0241389	846	846	0	10	0
+Andrade2019	pipeline_output	EM L1 Andrade et al. 2019	CC-BY-SA_4.0	FBrf0241389	846	0	0	10	0
 Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	2449	0	788	129	434
-Aso2014	pipeline_output	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1923	0	788	129	434
+Aso2014	pipeline_output	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1923	0	0	129	434
+AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	24	0	3	0	45
+AsoRubin2016	pipeline_output	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	24	0	0	0	45
+Baltruschat2021	pdb	EM FAFB Baltruschat et al 2021	CC-BY-SA_4.0	FBrf0248487	8	8	8	0	0
+Baltruschat2021	pipeline_output	EM FAFB Baltruschat et al 2021	CC-BY-SA_4.0	FBrf0248487	8	0	0	0	0
+BatesSchlegel2020	pdb	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	454	454	191	0	0
+BatesSchlegel2020	pipeline_output	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	454	0	0	0	0
+Berck2016	pdb	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	160	0	90	6
+Berck2016	pipeline_output	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	0	0	90	6
+Burgos2018	pdb	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	94	0	41	24
+Burgos2018	pipeline_output	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	0	0	41	24
 CarreiraRosario2018	pdb	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY-SA_4.0	FBrf0239825	31	29	0	16	0
-CarreiraRosario2018	pipeline_output	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY_4.0	FBrf0239825	31	29	0	16	0
+CarreiraRosario2018	pipeline_output	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY_4.0	FBrf0239825	31	0	0	16	0
+Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	15877	5966	24	1
+Chiang2010	pipeline_output	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	0	0	24	1
 Coates2020	pdb	EM FAFB Coates et al 2020	CC-BY-SA_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	191	10	0	0
-Coates2020	pipeline_output	EM FAFB Coates et al 2020	CC-BY_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	191	10	0	0
+Coates2020	pipeline_output	EM FAFB Coates et al 2020	CC-BY_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	0	0	0	0
+Dolan2018	pdb	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	10	10	3	33
+Dolan2018	pipeline_output	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	0	0	3	33
 Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	277	0	42	322	606
-Dolan2019	pipeline_output	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	276	0	42	322	606
+Dolan2019	pipeline_output	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	276	0	0	322	606
+Eichler2017	pdb	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	388	0	41	29
+Eichler2017	pipeline_output	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	41	29
+Engert2022	pdb	EM FAFB Engert et al. 2022	CC-BY_4.0	FBrf0253662	144	144	0	0	0
+Engert2022	pipeline_output	EM FAFB Engert et al. 2022	CC-BY_4.0	FBrf0253662	144	0	0	0	0
+Eschbach2020	pdb	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	189	0	147	71
+Eschbach2020	pipeline_output	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	0	0	147	71
+Eschbach2020b	pdb	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	239	0	0	0
+Eschbach2020b	pipeline_output	EM L1 Eschbach et al 2020b	CC-BY_4.0	doi_10_1101_2020_04_23_058339	239	0	0	0	0
+FafbDolan2019	pdb	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	105	97	322	606
+FafbDolan2019	pipeline_output	EM FAFB Dolan et al. 2019	CC-BY-SA_4.0	FBrf0242477	105	0	0	322	606
+Felsenberg2018	pdb	EM FAFB Felsenberg et al. 2018	CC-BY-SA_4.0	FBrf0240371	3	3	3	1	2
+Felsenberg2018	pipeline_output	EM FAFB Felsenberg et al. 2018	CC-BY-SA_4.0	FBrf0240371	3	0	0	1	2
 FlyLight2019AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	4	0	0	0	45
 FlyLight2019AsoRubin2016	pipeline_output	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	1	0	0	0	45
 FlyLight2019Hampel2015	pdb	Grooming neurons and drivers (Hampel 2015)	CC-BY_4.0	FBrf0229838	2	0	0	10	152
@@ -14,19 +42,21 @@ FlyLight2019Hampel2015	pipeline_output	Grooming neurons and drivers (Hampel 2015
 FlyLight2019Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	8	0	0	4	17
 FlyLight2019Klapoetke2017	pipeline_output	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	1	0	0	4	17
 FlyLight2019LateralHorn2019	pdb	FlyLight split-GAL4 lines for Lateral Horn	CC-BY_4.0	FBrf0242477	364	0	35	322	606
-FlyLight2019LateralHorn2019	pipeline_output	FlyLight split-GAL4 lines for Lateral Horn	CC-BY_4.0	FBrf0242477	131	0	35	322	606
+FlyLight2019LateralHorn2019	pipeline_output	FlyLight split-GAL4 lines for Lateral Horn	CC-BY_4.0	FBrf0242477	131	0	0	322	606
 FlyLight2019Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	247	0	5	134	329
-FlyLight2019Namiki2018	pipeline_output	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	128	0	5	134	329
+FlyLight2019Namiki2018	pipeline_output	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	128	0	0	134	329
 FlyLight2019Robie2017	pdb	split-GAL4 lines for EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	21	0	0	2	128
 FlyLight2019Robie2017	pipeline_output	split-GAL4 lines for EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	1	0	0	2	128
 FlyLight2019Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	63	0	1	0	24
-FlyLight2019Strother2017	pipeline_output	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	32	0	1	0	24
+FlyLight2019Strother2017	pipeline_output	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	32	0	0	0	24
 FlyLight2019Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	100	0	8	52	216
-FlyLight2019Wolff2018	pipeline_output	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	21	0	8	52	216
+FlyLight2019Wolff2018	pipeline_output	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	21	0	0	52	216
 FlyLight2019Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	87	0	1	39	193
-FlyLight2019Wu2016	pipeline_output	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	13	0	1	39	193
+FlyLight2019Wu2016	pipeline_output	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	13	0	0	39	193
 FlyLightGen1Set2019	pdb	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	15887	0	0	3	0
 FlyLightGen1Set2019	pipeline_output	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13664	0	0	3	0
+Fushiki2016	pdb	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	82	0	60	9
+Fushiki2016	pipeline_output	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	0	0	60	9
 Gen1MCFODionne2018	pdb	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY_4.0	FBrf0236874	155	0	0	0	0
 Gen1MCFODionne2018	pipeline_output	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY_4.0	FBrf0236874	151	0	0	0	0
 Gen1MCFOJenett2012	pdb	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	19866	0	0	3	0
@@ -35,34 +65,96 @@ Gen1MCFOPfeiffer2010	pdb	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 201
 Gen1MCFOPfeiffer2010	pipeline_output	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	CC-BY_4.0	FBrf0212052	4	0	0	0	0
 Gen1MCFOTirian2017	pdb	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	28460	0	0	0	0
 Gen1MCFOTirian2017	pipeline_output	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	16764	0	0	0	0
+Gerhard2017	pdb	Nociceptive circuit neurons - EM (Gerhard2017)	CC-BY-SA_4.0	FBrf0237057	55	55	0	30	0
+Gerhard2017	pipeline_output	Nociceptive circuit neurons - EM (Gerhard2017)	CC-BY-SA_4.0	FBrf0237057	55	0	0	30	0
+HampelEichler2020	pdb	EM FAFB Hampel and Eichler et al 2020	CC-BY_4.0	FBrf0247223	147	147	28	30	0
+HampelEichler2020	pipeline_output	EM FAFB Hampel and Eichler et al 2020	CC-BY_4.0	FBrf0247223	147	0	0	30	0
 HeadMusclesMcKellar2020	pdb	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	16	0	0	74	328
 HeadMusclesMcKellar2020	pipeline_output	Images of proboscis muscles from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	18	0	0	74	328
+Heckscher2015	pdb	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	134	0	52	15
+Heckscher2015	pipeline_output	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	CC-BY-SA_4.0	FBrf0229965	134	0	0	52	15
+Hueckesfeld2020	pdb	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	312	0	15	16
+Hueckesfeld2020	pipeline_output	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	313	0	0	15	16
+Jovanic2016	pdb	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	44	0	83	17
+Jovanic2016	pipeline_output	larval sensorimotor decision pathways (Jovanic2016)	CC-BY-SA_4.0	FBrf0233796	44	0	0	83	17
+Jovanic2019	pdb	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	37	0	12	24
+Jovanic2019	pipeline_output	EM L1 Jovanic et al. 2019	CC-BY-SA_4.0	FBrf0241547	37	0	0	12	24
+Kim2020	pdb	EM FAFB Kim et al 2020	CC-BY-SA_4.0	doi_10_1002_cne_24877	95	95	0	0	0
+Kim2020	pipeline_output	EM FAFB Kim et al 2020	CC-BY-SA_4.0	doi_10_1002_cne_24877	95	0	0	0	0
+Kind2021	pdb	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	43	26
+Kind2021	pipeline_output	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	0	0	43	26
+Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	3	4	17
+Klapoetke2017	pipeline_output	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	0	4	17
 Knowles_Barley2010	pdb	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	504	0	0	0	0
 Knowles_Barley2010	pipeline_output	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	501	0	0	0	0
+Larderet2017	pdb	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	72	0	36	17
+Larderet2017	pipeline_output	larval visual circuit neurons (Larderet2017)	CC-BY-SA_4.0	FBrf0237760	72	0	0	36	17
+Maniates_Selvin2020	pdb	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	18	0
+Maniates_Selvin2020	pipeline_output	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	0	0	18	0
+Marin2020	pdb	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	300	77	0	0
+Marin2020	pipeline_output	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	0	0	0	0
+Mark2019	pdb	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	78	0	0	0
+Mark2019	pipeline_output	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	0	0
 McKellar2019	pdb	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
 McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	40	0	0	74	328
 McKellar2020	pipeline_output	GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	5	0	0	74	328
 Miroschnikow2018	pdb	EM L1 Miroschnikow et al. 2018	CC-BY-SA_4.0	FBrf0240975	738	737	0	41	0
-Miroschnikow2018	pipeline_output	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	737	0	41	0
+Miroschnikow2018	pipeline_output	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	41	0
+Morimoto2020	pdb	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	76	66	14	0
+Morimoto2020	pipeline_output	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	0	0	14	0
+Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	106	134	329
+Namiki2018	pipeline_output	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	0	134	329
+Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	108	0	121	23
+Ohyama2015	pipeline_output	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	121	23
+Otto2020	pdb	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	766	366	8	0
+Otto2020	pipeline_output	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	0	0	8	0
+Robie2017	pdb	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	80	0	14	2	128
+Robie2017	pipeline_output	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	80	0	0	2	128
+Sayin2019	pdb	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	2	2	5	0
+Sayin2019	pipeline_output	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	0	0	5	0
 Schlegel2016	pdb	larval hugin neurons - EM (Schlegel2016)	CC-BY-SA_4.0	FBrf0234450	193	191	0	8	6
-Schlegel2016	pipeline_output	larval hugin neurons - EM (Schlegel2016)	CC-BY_4.0	FBrf0234450	193	191	0	8	6
+Schlegel2016	pipeline_output	larval hugin neurons - EM (Schlegel2016)	CC-BY_4.0	FBrf0234450	193	0	0	8	6
+Shiu2022	pdb	EM FAFB Shiu et al. 2022	CC-BY_4.0	FBrf0254006	25	24	0	21	0
+Shiu2022	pipeline_output	EM FAFB Shiu et al. 2022	CC-BY_4.0	FBrf0254006	25	0	0	21	0
 SplitDavis2020	pdb	Split-GAL4 lines from Davis et al., 2020	CC-BY_4.0	FBrf0244935	130	0	82	25	181
-SplitDavis2020	pipeline_output	Split-GAL4 lines from Davis et al., 2020	CC-BY_4.0	FBrf0244935	97	0	82	25	181
+SplitDavis2020	pipeline_output	Split-GAL4 lines from Davis et al., 2020	CC-BY_4.0	FBrf0244935	97	0	0	25	181
 SplitSchretter2020	pdb	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	26	0	4	0	0
-SplitSchretter2020	pipeline_output	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	14	0	4	0	0
+SplitSchretter2020	pipeline_output	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	14	0	0	0	0
+SplitTurner_Evans2020	pdb	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	8	0	4	23	0
+SplitTurner_Evans2020	pipeline_output	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	8	0	0	23	0
 SplitWang2020a	pdb	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	62	0	16	12	36
-SplitWang2020a	pipeline_output	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	49	0	16	12	36
+SplitWang2020a	pipeline_output	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	49	0	0	12	36
 SplitWang2020b	pdb	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	4	0	1	3	0
-SplitWang2020b	pipeline_output	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	2	0	1	4	0
+SplitWang2020b	pipeline_output	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	2	0	0	4	0
 Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	18	0	11	0	24
-Strother2017	pipeline_output	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	17	0	11	0	24
+Strother2017	pipeline_output	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	17	0	0	0	24
+Takagi2017	pdb	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	38	0	11	8
+Takagi2017	pipeline_output	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	0	0	11	8
+Tastekin2018	pdb	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	10	0	10	15
+Tastekin2018	pipeline_output	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	0	0	10	15
 Turner_Evans2020	pdb	EM FAFB Turner-Evans et al 2020	CC-BY-SA_4.0	doi_10_1016_j_neuron_2020_08_006	49	49	36	0	0
-Turner_Evans2020	pipeline_output	EM FAFB Turner-Evans et al 2020	CC-BY_4.0	doi_10_1016_j_neuron_2020_08_006	49	49	36	0	0
+Turner_Evans2020	pipeline_output	EM FAFB Turner-Evans et al 2020	CC-BY_4.0	doi_10_1016_j_neuron_2020_08_006	49	0	0	0	0
+Wang2020a	pdb	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	12	36
+Wang2020a	pipeline_output	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	0	0	12	36
 Wang2020b	pdb	EM FAFB Wang et al 2020b	CC-BY_4.0	FBrf0246914	1	1	0	3	0
-Wang2020b	pipeline_output	EM FAFB Wang et al 2020b	CC-BY_4.0	FBrf0246914	1	1	0	4	0
+Wang2020b	pipeline_output	EM FAFB Wang et al 2020b	CC-BY_4.0	FBrf0246914	1	0	0	4	0
+Wang2020c	pdb	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	17	1	4	0
+Wang2020c	pipeline_output	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	0	0	4	0
+Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	0	6	52	216
+Wolff2018	pipeline_output	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	0	0	52	216
+Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	159	39	193
+Wu2016	pipeline_output	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	0	39	193
 Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	26	26	1111
-Xie2018	pipeline_output	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	26	1111
+Xie2018	pipeline_output	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	0	26	1111
 Xu2020NeuronsV1point1	pdb	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	22420	9443	0	0
-Xu2020NeuronsV1point1	pipeline_output	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22420	9443	0	0
+Xu2020NeuronsV1point1	pipeline_output	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	0	0	0	0
 Yu2013	pdb	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	97	0	0	463	0
 Yu2013	pipeline_output	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	463	0
+Zarin2019	pdb	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	192	0	0	0
+Zarin2019	pipeline_output	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0	0	0
+Zheng2018	pdb	EM FAFB Zheng et al 2018	CC-BY-SA_4.0	FBrf0239557	145	145	101	1	0
+Zheng2018	pipeline_output	EM FAFB Zheng et al 2018	CC-BY-SA_4.0	FBrf0239557	145	0	0	1	0
+Zheng2020	pdb	EM FAFB Zheng et al 2020 (published 2022)	CC-BY-SA_4.0	FBrf0254218	1492	1492	724	0	0
+Zheng2020	pipeline_output	EM FAFB Zheng et al 2020 (published 2022)	CC-BY-SA_4.0	FBrf0254218	1492	0	0	0	0
+Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	41	0	146	19
+Zwart2016	pipeline_output	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	0	0	146	19
