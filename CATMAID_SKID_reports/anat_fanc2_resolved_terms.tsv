@@ -14,168 +14,142 @@ right T1 dorsal nerve	adult dorsal prothoracic nerve
 bCS	bilateral campaniform sensillum neuron of leg
 CoHP8	mechanosensory neuron of prothoracic coxal hair plate CoHP8
 T2 leg motor neuron PDMN bundle	adult posterior dorsal mesothoracic nerve
-lch5-2/4	larval abdominal lch5-2/4 neuron
-A1L	dorsal lateral bristle of antennal segment 1
-VNC	adult ventral nerve cord
-A23m	larval Griddle-1 neuron
-SNa	larval segmental nerve branch SNa of A1-7
-v'ch	abdominal lch1 neuron
-SNd	larval intersegmental nerve branch ISNd of A1-7
-SNp	segmental nerve pioneer neuron
-lch5-3	larval abdominal lch5-3 neuron
-lch5-5	larval abdominal lch5-5 neuron
-lch5-1	larval abdominal lch5-1 neuron
-22c	larval antennal lobe glomerulus 22c
-lateral	LN period neuron
-OSN	olfactory receptor neuron
-ORN	adult olfactory receptor neuron
-83a	larval antennal lobe glomerulus 83a
-1a	larval antennal lobe glomerulus 1a
-30a	larval antennal lobe glomerulus 30a
-42b	larval antennal lobe glomerulus 42b
-63a	larval antennal lobe glomerulus 63a
-85c	larval antennal lobe glomerulus 85c
-mPN iACT B2	larval antennal lobe multiglomerular projection neuron B2
-42a	larval antennal lobe glomerulus 42a
-35a	larval antennal lobe glomerulus 35a
-24a	larval antennal lobe glomerulus 24a
-33a	larval antennal lobe glomerulus 33a
-45a	larval antennal lobe glomerulus 45a
-49a	larval antennal lobe glomerulus 49a
-82a	larval antennal lobe glomerulus 82a
-67b	larval antennal lobe glomerulus 67b
-VUM	adult octopaminergic VUM neuron
-MBIN	adult mushroom body input neuron
-45b	larval antennal lobe glomerulus 45b
-74a	larval antennal lobe glomerulus 74a
-13a	larval antennal lobe glomerulus 13a
-59a	larval antennal lobe glomerulus 59a
-MB2IN-108	larval mushroom body feedforward neuron 39
-FFN-39	larval mushroom body feedforward neuron 39
-AL	larval dopaminergic AL neuron
-MB2IN-76	larval mushroom body feedforward neuron 21
-FFN-21	larval mushroom body feedforward neuron 21
-mPN iACT A2	larval antennal lobe multiglomerular projection neuron A2
-CSD neuron	adult CSD interneuron
-CSD	adult CSD interneuron
 LHN	adult lateral horn neuron
-5-HT	adult serotonergic neuron
-dorsal	adult DN period neuron
-mPN iACT B3	larval antennal lobe multiglomerular projection neuron B3
-LHON	adult lateral horn output neuron
-NOI	adult intrinsic nodulus neuron
 CN	adult prothoracic chordotonal nerve
-PMN	larval antennal-pharyngeal nerve motor neuron
-a2	adult abdominal segment 2
-A09l	larval down and back neuron
 v'ada	abdominal anterior ventral multidendritic neuron vdaa
-TODO	gustatory receptor neuron of terminal organ dorsolateral group
-a4	adult abdominal segment 4
-gorogoro	larval Goro neuron
-A01d2	obsolete larval A01d3 neuron
-T	T neuron
-A01c2	obsolete larval A01c1 neuron
-A01c1	larval A01c2 neuron
-ltd	abdominal intersegmental trachea-associated neuron istd
-Se0ens	larval serotonergic SE0 neuron of enteric nervous system
-LPN	LP neuron
-IPC	larval inner optic anlage
-ADC	adult anterior dorsal commissure
-DMS	obsolete SP3 neuron
-LN	LN period neuron
-T1	obsolete dopaminergic T1 neuron
-MB2IN-3	larval mushroom body feed across neuron 1
-MB2ON-8	larval mushroom body feed across neuron 1
-FB-3	larval mushroom body feed across neuron 1
-FAN-1	larval mushroom body feed across neuron 1
-MB2IN-71	larval mushroom body feedforward neuron 18
-FFN-18	larval mushroom body feedforward neuron 18
-MB2IN-51	larval mushroom body feedforward neuron 4
-MB2ON-211	larval mushroom body feedforward neuron 4
-FFN-4	larval mushroom body feedforward neuron 4
-MB2IN-52	larval mushroom body feedforward neuron 5
-MB2ON-212	larval mushroom body feedforward neuron 5
-FFN-5	larval mushroom body feedforward neuron 5
-CP	cerebropharyngeal tracheal branch
-MBE2as	larval mushroom body output neuron q1
-DL1-6	larval dopaminergic DL1-6 neuron
-MBE34	larval mushroom body output neuron f1
-MBON	adult mushroom body output neuron
-MBON-f1	larval mushroom body output neuron f1
-MBE	mushroom body extrinsic neuron
-MHE	mouth hook elevator muscle
-MBE9b	larval mushroom body output neuron e1
-MBE16	larval mushroom body output neuron e2
-SEC	superior ellipsoid commissure
-MB2IN-65	larval mushroom body feedforward neuron 14
-MB2ON-267	larval mushroom body feedforward neuron 14
-FFN-14	larval mushroom body feedforward neuron 14
-EE	enteroendocrine cell of posterior adult midgut epithelium
-SOG	subesophageal zone neuron
-PDL05	adult posterior ventral primary neurite tract 5
-MB2IN-17	larval mushroom body one-step feedback neuron 8
-MB2ON-32	larval mushroom body one-step feedback neuron 8
-FB-16	larval mushroom body one-step feedback neuron 8
-FBN-8	larval mushroom body one-step feedback neuron 8
-CN-12	larval mushroom body one-step feedback neuron 8
-Se0ph	larval serotonergic SE0 neuron of pharynx
-CN-59	larval mushroom body output neuron c1
-MB2IN-90	larval mushroom body feedforward neuron 28
-FFN-28	larval mushroom body feedforward neuron 28
-MBE5b	larval mushroom body output neuron k1
-MBON-o1	larval mushroom body output neuron o1
-SEZ	subesophageal zone neuron
-CITd	C1 fascicle
-ISNp	larval posterior intersegmental nerve root of A1-7
-SN	obsolete larval segmental nerve of A1-7
+SNp	segmental nerve pioneer neuron
+SNa	larval segmental nerve branch SNa of A1-7
 a5	adult abdominal segment 5
-ISN	obsolete larval intersegmental nerve of A1-7
-DN2	DN2 neuron
-CRZ	corazonin neuron
+IPC	larval inner optic anlage
+SNd	larval intersegmental nerve branch ISNd of A1-7
+SIFamide	SIFamide cell of pars intercerebralis
+DLT	dorsal lateral tract of dorsal cervical fasciculus
+SEC	superior ellipsoid commissure
 SC	embryonic Malpighian tubule Type II cell
-PG-LP	larval PTTH neuron of pars lateralis
-PTTH	larval PTTH neuron of pars lateralis
-EH	adult Eh neurosecretory neuron
-MB2IN-14	larval mushroom body one-step feedback neuron 6
-MB2ON-23	larval mushroom body one-step feedback neuron 6
-FB-13	larval mushroom body one-step feedback neuron 6
-FBN-6	larval mushroom body one-step feedback neuron 6
-CN-13	larval mushroom body one-step feedback neuron 6
-DPM	mushroom body dorsal paired medial cell
+SN	obsolete larval segmental nerve of A1-7
+A1L	dorsal lateral bristle of antennal segment 1
+MBE	mushroom body extrinsic neuron
+ADC	adult anterior dorsal commissure
+MB2IN-55	larval mushroom body feedforward neuron 7
+MB2ON-225	larval mushroom body feedforward neuron 7
+FFN-7	larval mushroom body feedforward neuron 7
+VNC	adult ventral nerve cord
+PDL05	adult posterior ventral primary neurite tract 5
 MB2IN-62	larval mushroom body feedforward neuron 12
 FFN-12	larval mushroom body feedforward neuron 12
-PG3	embryonic peripheral glial cell 10
-PG2	intermediate peripheral glial cell of ISN
-PG4	peripheral glial cell 4 of SNc
-PG1	embryonic peripheral glial cell 4
-D	adult abdominal dorsal multidendritic neuron ddaC
-prFB	embryonic/larval fan-shaped body - primordial
-NB	neuroblast
-immature	developing neuron
+T1	obsolete dopaminergic T1 neuron
+PMN	larval antennal-pharyngeal nerve motor neuron
+A01d2	obsolete larval A01d3 neuron
+A01c2	obsolete larval A01c1 neuron
+A01c1	larval A01c2 neuron
+A23m	larval Griddle-1 neuron
+A12p	larval Jaam1 neuron
+A06b2	larval Saaghi 4 neuron
+A01d3	larval A01x3 neuron
+A01d1	larval A01x2 neuron
+A12g	larval Jaam2 neuron
+A12c3	larval Jaam3 neuron
+iIN-1	larval abdominal inhibitory interneuron iIN-1
+A08c2	larval A08s projection neuron
+MB2IN-181	larval A08o neuron
+T	T neuron
+VA	ventral group vA neuron
+ISN	obsolete larval intersegmental nerve of A1-7
+VO	ventral organ
+dbd	prothoracic dorsal Kolbchen dbd
+ddaD	larval dorsal multidendritic neuron ddaF
+ltd	abdominal intersegmental trachea-associated neuron istd
+F1	adult lateral fan-shaped body tangential-protocerebrum neuron ExFl1
+vpda	abdominal posterior ventral multidendritic neuron vdap
+vbd	v'es3 neuron
+dmd1	larval abdominal dorsal multidendritic neuron dda1
+ddaF	larval dorsal multidendritic neuron ddaD
+S3	lobula columnar neuron LC10
+gorogoro	larval Goro neuron
+TODO	gustatory receptor neuron of terminal organ dorsolateral group
+A09l	larval down and back neuron
+a4	adult abdominal segment 4
 KC	adult Kenyon cell
 MBE4a	larval mushroom body dopaminergic neuron f1
+MBIN	adult mushroom body input neuron
 DAN-f1	larval mushroom body dopaminergic neuron f1
 dopamine	dopaminergic neuron
 MBE12	larval mushroom body anterior paired lateral cell
 APL	adult mushroom body anterior paired lateral cell
+MBE2as	larval mushroom body output neuron q1
+MBON	adult mushroom body output neuron
+42a	larval antennal lobe glomerulus 42a
+VUM	adult octopaminergic VUM neuron
 MBE4h	larval mushroom body dopaminergic neuron d1
 DL1-4	larval mushroom body dopaminergic neuron d1
 DAN-d1	larval mushroom body dopaminergic neuron d1
+24a	larval antennal lobe glomerulus 24a
 CN-62	larval mushroom body output neuron m1
+AL	larval dopaminergic AL neuron
+74a	larval antennal lobe glomerulus 74a
+35a	larval antennal lobe glomerulus 35a
 MBIN-e1	larval mushroom body input neuron e1
+85c	larval antennal lobe glomerulus 85c
 MBIN-l1	larval mushroom body input neuron l1
 MBE4f	larval mushroom body dopaminergic neuron g1
+45a	larval antennal lobe glomerulus 45a
+13a	larval antennal lobe glomerulus 13a
+CP	cerebropharyngeal tracheal branch
+DL1-6	larval dopaminergic DL1-6 neuron
+MBE34	larval mushroom body output neuron f1
+MBON-f1	larval mushroom body output neuron f1
 MB	adult MBp3 lineage neuron
 MBE15a	larval mushroom body output neuron g1
+42b	larval antennal lobe glomerulus 42b
+MBE5b	larval mushroom body output neuron k1
+59a	larval antennal lobe glomerulus 59a
+45b	larval antennal lobe glomerulus 45b
+49a	larval antennal lobe glomerulus 49a
+63a	larval antennal lobe glomerulus 63a
+MBE9b	larval mushroom body output neuron e1
+82a	larval antennal lobe glomerulus 82a
+22c	larval antennal lobe glomerulus 22c
+1a	larval antennal lobe glomerulus 1a
+83a	larval antennal lobe glomerulus 83a
 MBON-q1	larval mushroom body output neuron q1
+30a	larval antennal lobe glomerulus 30a
+33a	larval antennal lobe glomerulus 33a
+67b	larval antennal lobe glomerulus 67b
+EE	enteroendocrine cell of posterior adult midgut epithelium
+MBE16	larval mushroom body output neuron e2
 MBIN-b1	larval mushroom body input neuron b1
+CN-59	larval mushroom body output neuron c1
 peduncle	mushroom body pedunculus
 CN-61	larval mushroom body output neuron p1
 sVPMmx	larval maxillary VPM neuron
 OAN-g1	larval maxillary VPM neuron
 m	obsolete abdominal 2 neuroblast medial cluster
+D	adult abdominal dorsal multidendritic neuron ddaC
 MBIN-b2	larval mushroom body input neuron b2
+LHON	adult lateral horn output neuron
+MBON-o1	larval mushroom body output neuron o1
 MBE6	larval mushroom body output neuron d1
+lateral	LN period neuron
+OSN	olfactory receptor neuron
+ORN	adult olfactory receptor neuron
+mPN iACT B2	larval antennal lobe multiglomerular projection neuron B2
+MB2IN-108	larval mushroom body feedforward neuron 39
+FFN-39	larval mushroom body feedforward neuron 39
+MB2IN-76	larval mushroom body feedforward neuron 21
+FFN-21	larval mushroom body feedforward neuron 21
+mPN iACT A2	larval antennal lobe multiglomerular projection neuron A2
+CSD neuron	adult CSD interneuron
+CSD	adult CSD interneuron
+5-HT	adult serotonergic neuron
+dorsal	adult DN period neuron
+mPN iACT B3	larval antennal lobe multiglomerular projection neuron B3
+NOI	adult intrinsic nodulus neuron
+lch5-2/4	larval abdominal lch5-2/4 neuron
+v'ch	abdominal lch1 neuron
+lch5-3	larval abdominal lch5-3 neuron
+lch5-5	larval abdominal lch5-5 neuron
+lch5-1	larval abdominal lch5-1 neuron
+eIN-1	larval excitatory interneuron eIN-1
 MB2IN-94	larval mushroom body feedforward neuron 30
 FFN-30	larval mushroom body feedforward neuron 30
 MB2IN-40	larval mushroom body feedforward neuron 2
@@ -186,9 +160,21 @@ MB2ON-10	larval mushroom body one-step feedback neuron 4
 FB-5	larval mushroom body one-step feedback neuron 4
 FBN-4	larval mushroom body one-step feedback neuron 4
 CN-21	larval mushroom body one-step feedback neuron 4
+MB2IN-3	larval mushroom body feed across neuron 1
+MB2ON-8	larval mushroom body feed across neuron 1
+FB-3	larval mushroom body feed across neuron 1
+FAN-1	larval mushroom body feed across neuron 1
+MB2IN-71	larval mushroom body feedforward neuron 18
+FFN-18	larval mushroom body feedforward neuron 18
 MB2IN-47	larval mushroom body feedforward neuron 3
 MB2ON-197	larval mushroom body feedforward neuron 3
 FFN-3	larval mushroom body feedforward neuron 3
+MB2IN-51	larval mushroom body feedforward neuron 4
+MB2ON-211	larval mushroom body feedforward neuron 4
+FFN-4	larval mushroom body feedforward neuron 4
+MB2IN-52	larval mushroom body feedforward neuron 5
+MB2ON-212	larval mushroom body feedforward neuron 5
+FFN-5	larval mushroom body feedforward neuron 5
 MB2IN-103	larval mushroom body one-step feedback neuron 27
 MB2ON-250	larval mushroom body one-step feedback neuron 27
 FB-43	larval mushroom body one-step feedback neuron 27
@@ -257,6 +243,7 @@ MB2ON-21	larval mushroom body feed across neuron 6
 FB-11	larval mushroom body feed across neuron 6
 FAN-6	larval mushroom body feed across neuron 6
 CN-38	larval mushroom body feed across neuron 6
+SOG	subesophageal zone neuron
 BL	larval mushroom body output neuron b1
 MB2IN-37	larval mushroom body one-step feedback neuron 19
 MB2ON-112	larval mushroom body one-step feedback neuron 19
@@ -267,9 +254,6 @@ MB2ON-43	larval mushroom body one-step feedback neuron 10
 FB-18	larval mushroom body one-step feedback neuron 10
 FBN-10	larval mushroom body one-step feedback neuron 10
 CN-32	larval mushroom body one-step feedback neuron 10
-MB2IN-55	larval mushroom body feedforward neuron 7
-MB2ON-225	larval mushroom body feedforward neuron 7
-FFN-7	larval mushroom body feedforward neuron 7
 MB2IN-46	larval mushroom body one-step feedback neuron 23
 MB2ON-132	larval mushroom body one-step feedback neuron 23
 FB-38	larval mushroom body one-step feedback neuron 23
@@ -308,6 +292,9 @@ FB-35	larval mushroom body one-step feedback neuron 21
 FBN-21	larval mushroom body one-step feedback neuron 21
 MB2IN-96	larval mushroom body feedforward neuron 32
 FFN-32	larval mushroom body feedforward neuron 32
+MB2IN-65	larval mushroom body feedforward neuron 14
+MB2ON-267	larval mushroom body feedforward neuron 14
+FFN-14	larval mushroom body feedforward neuron 14
 MB2IN-26	larval mushroom body feedforward neuron 1
 MB2ON-168	larval mushroom body feedforward neuron 1
 FFN-1	larval mushroom body feedforward neuron 1
@@ -363,10 +350,20 @@ MB2ON-85	larval mushroom body one-step feedback neuron 12
 FB-25	larval mushroom body one-step feedback neuron 12
 FBN-12	larval mushroom body one-step feedback neuron 12
 CN-11	larval mushroom body one-step feedback neuron 12
+MB2IN-14	larval mushroom body one-step feedback neuron 6
+MB2ON-23	larval mushroom body one-step feedback neuron 6
+FB-13	larval mushroom body one-step feedback neuron 6
+FBN-6	larval mushroom body one-step feedback neuron 6
+CN-13	larval mushroom body one-step feedback neuron 6
 MB2IN-75	larval mushroom body feedforward neuron 20
 FFN-20	larval mushroom body feedforward neuron 20
 MB2IN-87	larval mushroom body feedforward neuron 27
 FFN-27	larval mushroom body feedforward neuron 27
+MB2IN-17	larval mushroom body one-step feedback neuron 8
+MB2ON-32	larval mushroom body one-step feedback neuron 8
+FB-16	larval mushroom body one-step feedback neuron 8
+FBN-8	larval mushroom body one-step feedback neuron 8
+CN-12	larval mushroom body one-step feedback neuron 8
 MB2IN-104	larval mushroom body feedforward neuron 35
 FFN-35	larval mushroom body feedforward neuron 35
 MB2IN-61	larval mushroom body feedforward neuron 11
@@ -412,37 +409,40 @@ MB2ON-117	larval mushroom body feed across neuron 12
 FB-34	larval mushroom body feed across neuron 12
 FAN-12	larval mushroom body feed across neuron 12
 CN-25	larval mushroom body feed across neuron 12
+MB2IN-90	larval mushroom body feedforward neuron 28
+FFN-28	larval mushroom body feedforward neuron 28
 MB2IN-72	larval mushroom body feedforward neuron 41
 MB2IN-54	larval mushroom body feedforward neuron 6
 MB2ON-224	larval mushroom body feedforward neuron 6
 FFN-6	larval mushroom body feedforward neuron 6
 MB2IN-78	larval mushroom body feedforward neuron 22
 FFN-22	larval mushroom body feedforward neuron 22
-eIN-1	larval excitatory interneuron eIN-1
-iIN-1	larval abdominal inhibitory interneuron iIN-1
 MB2ON-86	larval mushroom body second order output neuron 86
 TODO neuron	gustatory receptor neuron of terminal organ dorsolateral group
-SIFamide	SIFamide cell of pars intercerebralis
-DLT	dorsal lateral tract of dorsal cervical fasciculus
+SEZ	subesophageal zone neuron
+CITd	C1 fascicle
+a2	adult abdominal segment 2
+DMS	obsolete SP3 neuron
+DN2	DN2 neuron
+ISNp	larval posterior intersegmental nerve root of A1-7
+LPN	LP neuron
+LN	LN period neuron
+CRZ	corazonin neuron
+PG-LP	larval PTTH neuron of pars lateralis
+PTTH	larval PTTH neuron of pars lateralis
+EH	adult Eh neurosecretory neuron
+DPM	mushroom body dorsal paired medial cell
+PG3	embryonic peripheral glial cell 10
+PG2	intermediate peripheral glial cell of ISN
+PG4	peripheral glial cell 4 of SNc
+PG1	embryonic peripheral glial cell 4
+Se0ens	larval serotonergic SE0 neuron of enteric nervous system
+MHE	mouth hook elevator muscle
+Se0ph	larval serotonergic SE0 neuron of pharynx
 OLP	optic lobe pioneer neuron
-VA	ventral group vA neuron
-VO	ventral organ
-dbd	prothoracic dorsal Kolbchen dbd
-ddaD	larval dorsal multidendritic neuron ddaF
-F1	adult lateral fan-shaped body tangential-protocerebrum neuron ExFl1
-A12p	larval Jaam1 neuron
-vpda	abdominal posterior ventral multidendritic neuron vdap
-vbd	v'es3 neuron
-A08c2	larval A08s projection neuron
-A12g	larval Jaam2 neuron
-A12c3	larval Jaam3 neuron
-dmd1	larval abdominal dorsal multidendritic neuron dda1
-ddaF	larval dorsal multidendritic neuron ddaD
-S3	lobula columnar neuron LC10
-A06b2	larval Saaghi 4 neuron
-A01d3	larval A01x3 neuron
-A01d1	larval A01x2 neuron
-MB2IN-181	larval A08o neuron
+prFB	embryonic/larval fan-shaped body - primordial
+NB	neuroblast
+immature	developing neuron
 T1 leg motor neuron	prothoracic leg muscle motor neuron
 wing motor neuron	flight muscle motor neuron
 T2 leg motor neuron	mesothoracic leg muscle motor neuron
