@@ -8,7 +8,7 @@ BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	0	0	90	6
 BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	393	0
 Burgos2018	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	0	0	41	24
-Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	120
+Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	240
 CarreiraRosario2018	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY_4.0	FBrf0239825	31	0	0	16	0
 Chiang2010	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	0	0	24	1
 Coates2020	EM FAFB Coates et al 2020	CC-BY_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	0	0	0	0
@@ -67,13 +67,13 @@ Mamiya2022	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC
 Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	0	0	18	0
 Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	0	0	0	0
 Mark2019	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	0	0
-Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	125
+Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	250
 McKellar2020	GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	21	0	0	74	328
 Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	44	0
 Morimoto2020	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	0	0	14	0
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	0	134	329
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	0	0	5	6
-Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	121	23
+Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	121	44
 Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	0	0	8	0
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	80	0	0	2	128
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	0	0	5	0
@@ -98,7 +98,7 @@ SplitSchretter2020	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf02
 SplitSitaraman2015	Split-GAL4 lines from Sitaraman et al., 2015	CC-BY_4.0	FBrf0230181	0	0	0	0	0
 SplitSterne2021	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0	FBrf0251280	0	0	0	121	1305
 SplitTakagi2017	Split-GAL4 lines from Takagi et al., 2017	CC-BY_4.0	FBrf0237618	0	0	0	11	8
-SplitTanaka2008	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0	FBrf0205263	0	0	0	94	575
+SplitTanaka2008	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0	FBrf0205263	0	0	0	94	1685
 SplitTurner_Evans2017	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY-SA_4.0	FBrf0235609	0	0	0	1	3
 SplitTurner_Evans2020	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	8	0	0	23	0
 SplitVogt2014	Split-GAL4 lines from Vogt et al., 2014	CC-BY_4.0	FBrf0226027	0	0	0	0	17

@@ -13,6 +13,8 @@ Berck2016	dev	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0
 Berck2016	pdb	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	160	160	0	90	6
 Burgos2018	dev	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	0	0	41	24
 Burgos2018	pdb	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	94	94	0	41	24
+Cachero2010	dev	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	240
+Cachero2010	pdb	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	190	120
 CarreiraRosario2018	dev	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY_4.0	FBrf0239825	31	0	0	16	0
 CarreiraRosario2018	pdb	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	CC-BY-SA_4.0	FBrf0239825	31	29	0	16	0
 Chiang2010	dev	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	0	0	24	1
@@ -79,6 +81,8 @@ Marin2020	dev	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_02
 Marin2020	pdb	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	300	77	0	0
 Mark2019	dev	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	0	0
 Mark2019	pdb	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	78	0	0	0
+Matsuo2016	dev	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	250
+Matsuo2016	pdb	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	125
 McKellar2019	pdb	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-SA_4.0	FBrf0241391	4	0	0	3	10
 McKellar2020	dev	GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	21	0	0	74	328
 McKellar2020	pdb	Split-GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	40	0	0	74	328
@@ -88,7 +92,7 @@ Morimoto2020	dev	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	0	0	14	0
 Morimoto2020	pdb	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	76	66	14	0
 Namiki2018	dev	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	0	134	329
 Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	106	134	329
-Ohyama2015	dev	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	121	23
+Ohyama2015	dev	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	121	44
 Ohyama2015	pdb	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	108	0	121	23
 Otto2020	dev	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	0	0	8	0
 Otto2020	pdb	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	766	366	8	0
@@ -126,7 +130,7 @@ SplitSitaraman2015	dev	Split-GAL4 lines from Sitaraman et al., 2015	CC-BY_4.0	FB
 SplitSitaraman2015	pdb	Split-GAL4 lines from Sitaraman et al., 2015	CC-BY_4.0		0	0	0	0	0
 SplitSterne2021	dev	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0	FBrf0251280	0	0	0	121	1305
 SplitSterne2021	pdb	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0		0	0	0	0	0
-SplitTanaka2008	dev	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0	FBrf0205263	0	0	0	94	575
+SplitTanaka2008	dev	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0	FBrf0205263	0	0	0	94	1685
 SplitTanaka2008	pdb	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0		0	0	0	0	0
 SplitTurner_Evans2020	dev	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	8	0	0	23	0
 SplitTurner_Evans2020	pdb	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	8	0	4	23	0
