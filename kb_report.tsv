@@ -114,6 +114,7 @@ SplitWang2020c	Split-GAL4 lines from Wang et al., 2020c	True	FBrf0247919	CC-BY_4
 SplitXie2021	Split-GAL4 lines from Xie et al., 2021	True	FBrf0247975	CC-BY_4.0	20
 SplitYamagata2015	Split-GAL4 lines from Yamagata et al., 2015	True	FBrf0227330	CC-BY_4.0	18
 Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY_4.0	23
+TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	True	FBrf0256726	CC-BY-SA_4.0	55
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	True	doi_10_1101_2022_05_13_491877v3	CC-BY-SA_4.0	55
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY-SA_4.0	38
 Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons, 	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	23759
@@ -137,7 +138,7 @@ Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	True	doi_10_1101_2
 Xu2020roi	JRC_FlyEM_Hemibrain painted domains	True	doi_10_1101_2020_01_21_911859	CC-BY_4.0	230
 Yu2013	Lee lab adult brain lineage clone image set	True	FBrf0221412	CC-BY-NC-SA_4.0	97
 Zarin2019	EM L1 Zarin, Mark et al. 2019	True	doi_10_1101_617977	CC-BY-SA_4.0	194
-Zhao2023	EM FAFB Zhao et al., 2023	True	FBrf0255530	CC-BY_4.0	1186
+Zhao2023	EM FAFB Zhao et al., 2023	True	doi_10_1101_2022_12_14_520178	CC-BY_4.0	1186
 Zheng2018	EM FAFB Zheng et al 2018	True	FBrf0239557	CC-BY-SA_4.0	148
 Zheng2020	EM FAFB Zheng et al 2020 (published 2022)	True	FBrf0254218	CC-BY-SA_4.0	1492
 Zwart2016	Larval motor circuit neurons (Zwart2016)	True	FBrf0233076	CC-BY-SA_4.0	41
