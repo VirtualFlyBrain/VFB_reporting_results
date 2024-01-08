@@ -1,9 +1,9 @@
 
-VFB Content Report 2024-01-07
+VFB Content Report 2024-01-08
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 07 Jan 2024 00:48:44``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 08 Jan 2024 00:45:31``  
   
 ***``Ontology Content``***  
 
