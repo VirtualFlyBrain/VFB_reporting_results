@@ -1061,6 +1061,8 @@ skid	name	paper_id	paper_name	annotations	synonyms
 2109445	MBON-y5B'2a_R	12823574	Paper: Felsenberg et al 2018	FBbt:00100234 (11476200), Paper: Felsenberg et al 2018 (12823574), Paper: Otto et al 2020 (15754388), MBON-y5B'2a_R (17034160)	MBON-y5B'2a 2109446 NS
 2333007	MBON-y1pedc>a/B_R	12823574	Paper: Felsenberg et al 2018	FBbt:00100246 (11474502), Paper: Felsenberg et al 2018 (12823574), Paper: Sayin et al 2019 (13500459), Paper: Otto et al 2020 (15754388), MBON-y1pedc>a/B_R (17034154)	MBON-y1pedc>a/B 298954 JSL
 4291899	MBON-B'2mp_R	12823574	Paper: Felsenberg et al 2018	FBbt:00100232 (11476211), Paper: Felsenberg et al 2018 (12823574), Paper: Otto et al 2020 (15754388), MBON-B'2mp_R (17034140)	Neuron 4291900 Putative MBON-B'2mp
+1167858	CvN6_NMN	17697497	Paper: Gorko et al 2024	Paper: Erginkaya et al 2023 (17697276), Paper: Gorko et al 2024 (17697497), CvN6_NMN (17697503)	Cervical Nerve Neuron 1167859 SI
+1337777	CvN7_NMN	17697497	Paper: Gorko et al 2024	Paper: Erginkaya et al 2023 (17697276), Paper: Gorko et al 2024 (17697497), CvN7_NMN (17697500)	Cervical Nerve Neuron 1337778 SI
 1181773	JO-EVP#1	16857700	Paper: Hampel and Eichler et al 2020	Paper: Hampel and Eichler et al 2020 (16857700), JO-EVP#1 (16858003)	JO-EVP_1
 1230854	JO-EVP#3	16857700	Paper: Hampel and Eichler et al 2020	Paper: Hampel and Eichler et al 2020 (16857700), JO-EVP#3 (16858007)	JO-EVP_3
 1231085	JO-EVL#3	16857700	Paper: Hampel and Eichler et al 2020	Paper: Hampel and Eichler et al 2020 (16857700), JO-EVL#3 (16857959)	JO-EVL_3
