@@ -1,1 +1,15 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+BrainName_Ito_half_brain	dev	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	395	0
+BrainName_Ito_half_brain	pdb	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	393	0
+Ito2013	dev	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	468	0
+Ito2013	pdb	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	465	0
+JenettShinomya_BrainName	dev	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	0	0	395	0
+JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	0	0	393	0
+Kind2021	dev	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	47	0
+Kind2021	pdb	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	43	0
+SplitKind2021	dev	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	47	0
+SplitKind2021	pdb	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	43	0
+Xie2018	dev	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	28	0
+Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	27	0
+Yu2013	dev	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	474	0
+Yu2013	pdb	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	472	0
