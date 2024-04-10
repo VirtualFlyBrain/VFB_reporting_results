@@ -2,6 +2,7 @@ import jenkins
 import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
+import os
 
 #jobs - list of pipeline2 jobs (going with fixed list from Robbie for now)
 jobs_list = ['pip_vfb-kb', 'L1EM_Conectome_OWL', 'FAFB_Conectome_OWL', 'pip_vfb-triplestore', 'pip_vfb-pipeline-dumps', 'pip_vfb-owlery', 'pip_vfb-prod',
