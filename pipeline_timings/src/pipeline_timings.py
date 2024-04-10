@@ -35,7 +35,7 @@ def get_durations(jobs_list):
 durations_df = get_durations(jobs_list)
 
 fig = durations_df[0].plot.bar(y=0, ylabel='time (h)').get_figure()
-fig.savefig('pipeline2_job_durations.png', bbox_inches='tight')
+fig.savefig('output/pipeline2_job_durations.png', bbox_inches='tight')
 plt.close(fig)
 
 #Dealing with logs 'pip_vfb-pipeline-dumps' #TODO this may make sense as a func if it's used more than once
@@ -72,5 +72,5 @@ df_time['diff']=df_time['diff']/60/60
 
 # plot
 fig2 = df_time['diff'].plot.bar(y='diff', ylabel='time (h)').get_figure()
-fig2.savefig('pipeline2_dumps_durations.png', bbox_inches='tight')
+fig2.savefig('output/pipeline2_dumps_durations.png', bbox_inches='tight')
 
