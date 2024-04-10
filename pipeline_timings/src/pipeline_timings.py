@@ -13,9 +13,9 @@ jobs_with_log = ['pip_vfb-pipeline-dumps']#  'pip_vfb-triplestore' - "VFBTIME: T
 
 ###connect to jenkins server #TODO this should be vars from jenkins
 #get credentials
-server_url=int(os.environ.get('SERVER_URL'))
-username=int(os.environ.get('USERNAME'))
-api_token=int(os.environ.get('API_TOKEN'))
+server_url=os.environ.get('SERVER_URL')
+username=os.environ.get('USERNAME')
+api_token=os.environ.get('API_TOKEN')
 
 server = jenkins.Jenkins(server_url, username=username, password=api_token)
 
