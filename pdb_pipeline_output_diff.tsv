@@ -1,15 +1,29 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Berck2016	pdb	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	161	160	0	90	0
+Berck2016	pipeline_output	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	161	160	0	91	0
 BrainName_Ito_half_brain	pdb	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	393	0
 BrainName_Ito_half_brain	pipeline_output	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	395	0
+Court2020	pdb	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	104	0
+Court2020	pipeline_output	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	113	0
+FlyLight2019Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	1	0	0	4	0
+FlyLight2019Klapoetke2017	pipeline_output	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	1	0	0	2	0
 Ito2013	pdb	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	465	0
-Ito2013	pipeline_output	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	468	0
+Ito2013	pipeline_output	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	470	0
 JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	0	0	393	0
 JenettShinomya_BrainName	pipeline_output	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	0	0	395	0
 Kind2021	pdb	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	43	0
 Kind2021	pipeline_output	EM FAFB Kind et al. 2021	CC-BY_4.0	FBrf0252485	286	285	5	47	0
+Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	3	4	0
+Klapoetke2017	pipeline_output	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	3	2	0
+Knowles_Barley2010	pdb	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	501	0	0	0	0
+Knowles_Barley2010	pipeline_output	BrainTrap lines (Knowles-Barley2010)	CC-BY-SA_4.0	FBrf0211243	504	0	0	0	0
+Kuan2020	pdb	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0	FBrf0247324	675	0	0	62	0
+Kuan2020	pipeline_output	Millimeter-scale imaging of a Drosophila leg at single-neuron resolution	CC-BY_4.0	FBrf0247324	675	0	0	65	0
 SplitKind2021	pdb	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	43	0
 SplitKind2021	pipeline_output	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	0	0	0	47	0
+TrumanWood2018	pdb	Truman Larval Flip-Out Collection	unlicensed		0	0	0	0	0
+TrumanWood2018	pipeline_output	Truman Larval Flip-Out Collection	unlicensed		1775	0	0	0	0
 Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	27	0
-Xie2018	pipeline_output	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	28	0
+Xie2018	pipeline_output	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	26	28	0
 Yu2013	pdb	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	472	0
-Yu2013	pipeline_output	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	474	0
+Yu2013	pipeline_output	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	476	0
