@@ -1,9 +1,9 @@
 
-VFB Content Report 2024-06-18
+VFB Content Report 2024-06-19
 =============================
 
 
-Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 18 Jun 2024 00:47:23``  
+Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Wed, 19 Jun 2024 00:45:49``  
   
 ***``Ontology Content``***  
 
@@ -36,9 +36,9 @@ Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 18 
   
 ***``Annotations``***  
   
-**31212** annotations recording **2357** types of anatomical structure that **7167** specific driver lines are expressed in.  
-**21507** annotations recording **1627** parts of the nervous system that **5308** specific driver lines are expressed in.  
-**5683** annotations recording **810** types of neuron that **1706** specific driver lines are expressed in.  
+**49041** annotations recording **2357** types of anatomical structure that **7177** specific driver lines are expressed in.  
+**30752** annotations recording **1627** parts of the nervous system that **5308** specific driver lines are expressed in.  
+**8966** annotations recording **810** types of neuron that **1706** specific driver lines are expressed in.  
 **0** annotations recording **0** types of neuron that **0** specific split combinations are expressed in.  
   
 ***``Connectivity``***  
