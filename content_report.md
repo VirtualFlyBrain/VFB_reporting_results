@@ -1,9 +1,9 @@
 
-VFB Content Report 2024-06-21
+VFB Content Report 2024-06-22
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 21 Jun 2024 00:45:25``  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 22 Jun 2024 00:43:51``  
   
 ***``Ontology Content``***  
 
