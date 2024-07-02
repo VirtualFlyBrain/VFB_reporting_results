@@ -3,27 +3,27 @@ VFB Content Report 2024-07-02
 =============================
 
 
-Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 02 Jul 2024 00:50:16``  
+Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 02 Jul 2024 12:14:06``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|24421|0|
-|All Nervous System Parts|17924|0|
-|All Neurons|14247|0|
-|Characterised Neurons|6603|0|
-|Provisional Neurons|7644|0|
-|All Nervous System Regions|1438|0|
-|Synaptic Neuropils|635|0|
-|Neuron Projection Bundles|593|0|
+|All Terms|28179|0|
+|All Nervous System Parts|21613|0|
+|All Neurons|17949|0|
+|Characterised Neurons|6658|0|
+|Provisional Neurons|11291|0|
+|All Nervous System Regions|1428|0|
+|Synaptic Neuropils|624|0|
+|Neuron Projection Bundles|594|0|
 |Cell Body Rinds|132|0|
 |Sense Organs|861|0|
   
   
-**127057** formal assertions, of which **52635** are SubClassOf assertions and **74422** are other relationship types  
+**155416** formal assertions, of which **68725** are SubClassOf assertions and **86691** are other relationship types  
   
-**113291** formal assertions on nervous system components, of which **44609** are SubClassOf assertions and **68682** are other relationship types  
+**141529** formal assertions on nervous system components, of which **60672** are SubClassOf assertions and **80857** are other relationship types  
   
 ***``Image Content``***  
 *``(excludes hemibrain v1.0.1)``*  
@@ -48,7 +48,7 @@ Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 02 
 |Any neuron (individuals)|30782|Any neuron (individuals)|30782|3499200|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|324|Muscle (classes)|227|248|
-|Any neuron (classes)|770|Sense organ (classes)|433|535|
+|Any neuron (classes)|777|Sense organ (classes)|433|535|
   
   
   
