@@ -1,24 +1,24 @@
 
-VFB Content Report 2024-07-01
+VFB Content Report 2024-07-02
 =============================
 
 
-Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Mon, 01 Jul 2024 00:58:44``  
+Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 02 Jul 2024 00:50:16``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|24421|1647|
-|All Nervous System Parts|17924|1155|
-|All Neurons|14247|860|
-|Characterised Neurons|6603|859|
-|Provisional Neurons|7644|13|
-|All Nervous System Regions|1438|254|
-|Synaptic Neuropils|635|144|
-|Neuron Projection Bundles|593|129|
-|Cell Body Rinds|132|8|
-|Sense Organs|861|163|
+|All Terms|24421|0|
+|All Nervous System Parts|17924|0|
+|All Neurons|14247|0|
+|Characterised Neurons|6603|0|
+|Provisional Neurons|7644|0|
+|All Nervous System Regions|1438|0|
+|Synaptic Neuropils|635|0|
+|Neuron Projection Bundles|593|0|
+|Cell Body Rinds|132|0|
+|Sense Organs|861|0|
   
   
 **127057** formal assertions, of which **52635** are SubClassOf assertions and **74422** are other relationship types  
@@ -36,10 +36,10 @@ Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Mon, 01 
   
 ***``Annotations``***  
   
-**338162** annotations recording **4159** types of anatomical structure that **17948** specific driver lines are expressed in.  
-**273811** annotations recording **3056** parts of the nervous system that **15243** specific driver lines are expressed in.  
-**46850** annotations recording **2026** types of neuron that **5402** specific driver lines are expressed in.  
-**9802** annotations recording **793** types of neuron that **1901** specific split combinations are expressed in.  
+**0** annotations recording **0** types of anatomical structure that **0** specific driver lines are expressed in.  
+**0** annotations recording **0** parts of the nervous system that **0** specific driver lines are expressed in.  
+**0** annotations recording **0** types of neuron that **0** specific driver lines are expressed in.  
+**0** annotations recording **0** types of neuron that **0** specific split combinations are expressed in.  
   
 ***``Connectivity``***  
 
