@@ -13,24 +13,24 @@ FBbt_00049834	adult alpha'/beta' Kenyon cell	264	0
 FBbt_00067350	medial antennal lobe tract projection neuron	248	0
 FBbt_00007441	adult multiglomerular antennal lobe projection neuron	210	94
 FBbt_00049526	adult serotonergic neuron	176	0
-FBbt_00007414	adult multiglomerular antennal lobe projection neuron vPN	169	75
 FBbt_00047717	mediolateral antennal lobe tract projection neuron	169	0
+FBbt_00007414	adult multiglomerular antennal lobe projection neuron vPN	169	75
 FBbt_00100389	adult antennal lobe projection neuron DL2d adPN	139	0
 FBbt_00004252	prothoracic leg sensillum	76	0
 FBbt_00007440	adult uniglomerular antennal lobe projection neuron	67	23
-FBbt_00058203	adult octopaminergic neuron	61	0
+FBbt_00058203	adult octopaminergic neuron	61	2
 FBbt_00050168	adult LALv1 lineage neuron	60	0
 FBbt_00051299	adult olfactory projection neuron	57	0
 FBbt_00007402	GABAergic local interneuron of the adult antennal lobe	54	0
 FBbt_00049825	adult Kenyon cell	45	0
 FBbt_00050275	adult CREa2 lineage neuron	40	0
-FBbt_00100388	adult antennal lobe projection neuron DL2v adPN	37	0
-FBbt_00050129	adult AOTUv3 lineage neuron	37	0
-FBbt_00050197	adult ALv1 lineage neuron	37	0
 FBbt_00050135	adult VLPa2 lineage neuron	37	0
+FBbt_00050129	adult AOTUv3 lineage neuron	37	0
+FBbt_00100388	adult antennal lobe projection neuron DL2v adPN	37	0
+FBbt_00050197	adult ALv1 lineage neuron	37	0
 FBbt_00050064	adult AOTUv4 lineage neuron	36	0
-FBbt_00007403	cholinergic local interneuron of the adult antennal lobe	34	0
 FBbt_00049466	adult CREa1 lineage neuron	34	0
+FBbt_00007403	cholinergic local interneuron of the adult antennal lobe	34	0
 FBbt_00100369	adult multiglomerular antennal lobe projection neuron adPN	33	11
 FBbt_00050195	adult SMPp&v1 lineage neuron	31	0
 FBbt_00100224	lateral antennal lobe tract projection neuron	27	0
@@ -38,11 +38,11 @@ FBbt_00050224	adult AOTUv1 lineage neuron	25	0
 FBbt_00049899	BAmd1 Notch ON hemilineage neuron	23	0
 FBbt_00049895	DALcm1 Notch ON hemilineage neuron	21	0
 FBbt_00110435	adult fruitless aIP-c (female) neuron	21	0
-FBbt_00100385	adult antennal lobe projection neuron VM5d adPN	20	0
 FBbt_00067361	adult antennal lobe projection neuron VA1v adPN	20	0
+FBbt_00100385	adult antennal lobe projection neuron VM5d adPN	20	0
 FBbt_00050088	adult WEDa1 lineage neuron	19	0
-FBbt_00067358	adult antennal lobe projection neuron VM7 adPN	17	0
 FBbt_00067353	adult antennal lobe projection neuron DL1 adPN	17	0
+FBbt_00067358	adult antennal lobe projection neuron VM7 adPN	17	0
 FBbt_00048096	adult antennal lobe projection neuron DA1	16	0
 FBbt_00050242	adult WEDd1 lineage neuron	16	0
 FBbt_00050111	adult PSa1 lineage neuron	16	0
@@ -54,173 +54,4156 @@ FBbt_00050120	adult VESa1 lineage neuron	12	0
 FBbt_00100387	adult antennal lobe projection neuron VC3 adPN	11	0
 FBbt_00050091	adult SLPpm3 lineage neuron	11	0
 FBbt_00067360	adult antennal lobe projection neuron DM6 adPN	10	0
-FBbt_00049467	adult FLAa3 lineage neuron	9	0
 FBbt_00067359	adult antennal lobe projection neuron VM2 adPN	9	0
+FBbt_00049467	adult FLAa3 lineage neuron	9	0
 FBbt_00003988	unilateral intrinsic neuron	8	0
 FBbt_00100225	transverse antennal lobe tract projection neuron	7	0
-FBbt_00110459	adult fruitless aSP-f (female) neuron	5	0
 FBbt_00050192	adult FLAa1 lineage neuron	5	0
-FBbt_00100383	adult antennal lobe projection neuron VC4 adPN	4	0
+FBbt_00110459	adult fruitless aSP-f (female) neuron	5	0
 FBbt_00047227	hygrosensory projection neuron	4	0
 FBbt_00051293	adult thermosensory neuron	4	0
+FBbt_00100383	adult antennal lobe projection neuron VC4 adPN	4	0
 FBbt_00048137	mushroom body octopaminergic neuron	3	0
-FBbt_00049942	descending neuron of the posterior brain DNp13 (female)	3	0
 FBbt_00067357	adult antennal lobe projection neuron VA1d adPN	3	0
-FBbt_00047787	larval abdominal 1 A01n neuron	2	0
-FBbt_00047319	adult serotonergic SE neuron	2	0
-FBbt_00047772	larval abdominal 1 A03o1 neuron	2	0
-FBbt_00047778	larval abdominal 2 A08m neuron	2	0
-FBbt_00052007	adult neurosecretory neuron	2	0
-FBbt_00058202	adult peptidergic neuron	2	0
-FBbt_00047779	larval abdominal 1 A08m neuron	2	0
+FBbt_00049942	descending neuron of the posterior brain DNp13 (female)	3	0
 FBbt_00047776	larval abdominal 1 A14g neuron	2	0
+FBbt_00047528	neuron projection bundle of adult ventral nerve cord	2	0
 FBbt_00047775	larval abdominal 2 A14g neuron	2	0
 FBbt_00047789	larval abdominal 1 A23g neuron	2	0
-FBbt_00052113	lateral antennal lobe tract projection neuron 4 (female)	2	0
-FBbt_00047770	larval abdominal 1 A02m neuron	2	0
-FBbt_00049764	adult antennal lobe projection neuron VL2a vPN	2	0
+FBbt_00047319	adult serotonergic SE neuron	2	0
+FBbt_00052007	adult neurosecretory neuron	2	0
+FBbt_00058202	adult peptidergic neuron	2	0
 FBbt_00100368	adult uniglomerular antennal lobe projection neuron adPN	2	5
+FBbt_00049764	adult antennal lobe projection neuron VL2a vPN	2	0
+FBbt_00047397	larval abdominal 1 Basin-3 neuron	2	0
 FBbt_00059282	adult antennal lobe projection neuron DP1l	2	0
 FBbt_00067371	adult antennal lobe projection neuron VA1v vPN	2	0
-FBbt_00004113	adult sense organ	2	0
-FBbt_00047777	larval abdominal 1 A08d neuron	2	0
-FBbt_00005159	gustatory sensory organ	2	0
 FBbt_00100378	adult antennal lobe projection neuron VM4 adPN	2	0
-FBbt_00047684	larval abdominal 3 Wave neuron	2	0
+FBbt_00052113	lateral antennal lobe tract projection neuron 4 (female)	2	0
+FBbt_00004113	adult sense organ	2	0
 FBbt_00058249	adult gustatory receptor neuron	2	0
-FBbt_00047404	larval abdominal 4 Basin-4 neuron	2	0
-FBbt_00047383	larval abdominal 1 Basin-1 neuron	2	0
-FBbt_00047788	larval abdominal 1 A19c neuron	2	0
-FBbt_00047786	larval abdominal 1 A12m neuron	2	0
-FBbt_00047791	larval metathoracic T05t neuron	2	0
-FBbt_00047785	larval abdominal 2 A10l neuron	2	0
-FBbt_00047784	larval abdominal 2 A10f neuron	2	0
-FBbt_00047782	larval abdominal 1 A10a neuron	2	0
-FBbt_00047686	larval abdominal 3 A10j neuron	2	0
-FBbt_00047401	larval abdominal 1 Basin-4 neuron	2	0
-FBbt_00047780	larval abdominal 1 A08x neuron	2	0
-FBbt_00047386	larval abdominal 4 Basin-1 neuron	2	0
-FBbt_00047391	larval abdominal 1 Basin-2 neuron	2	0
-FBbt_00047394	larval abdominal 4 Basin-2 neuron	2	0
-FBbt_00047685	larval abdominal 9 TePn04 neuron	2	0
-FBbt_00047397	larval abdominal 1 Basin-3 neuron	2	0
+FBbt_00047779	larval abdominal 1 A08m neuron	2	0
 FBbt_00047400	larval abdominal 4 Basin-3 neuron	2	0
-FBbt_00047528	neuron projection bundle of adult ventral nerve cord	2	0
+FBbt_00005159	gustatory sensory organ	2	0
+FBbt_00047394	larval abdominal 4 Basin-2 neuron	2	0
+FBbt_00047788	larval abdominal 1 A19c neuron	2	0
+FBbt_00047391	larval abdominal 1 Basin-2 neuron	2	0
+FBbt_00047778	larval abdominal 2 A08m neuron	2	0
+FBbt_00047684	larval abdominal 3 Wave neuron	2	0
+FBbt_00047770	larval abdominal 1 A02m neuron	2	0
+FBbt_00047787	larval abdominal 1 A01n neuron	2	0
+FBbt_00047777	larval abdominal 1 A08d neuron	2	0
+FBbt_00047685	larval abdominal 9 TePn04 neuron	2	0
+FBbt_00047791	larval metathoracic T05t neuron	2	0
+FBbt_00047686	larval abdominal 3 A10j neuron	2	0
+FBbt_00047780	larval abdominal 1 A08x neuron	2	0
+FBbt_00047772	larval abdominal 1 A03o1 neuron	2	0
+FBbt_00047786	larval abdominal 1 A12m neuron	2	0
+FBbt_00047784	larval abdominal 2 A10f neuron	2	0
+FBbt_00047386	larval abdominal 4 Basin-1 neuron	2	0
+FBbt_00047785	larval abdominal 2 A10l neuron	2	0
+FBbt_00047782	larval abdominal 1 A10a neuron	2	0
+FBbt_00047404	larval abdominal 4 Basin-4 neuron	2	0
+FBbt_00047401	larval abdominal 1 Basin-4 neuron	2	0
+FBbt_00047383	larval abdominal 1 Basin-1 neuron	2	0
+FBbt_00067354	adult antennal lobe projection neuron DC2 adPN	1	0
 FBbt_00050239	adult SLPav2 lineage neuron	1	0
+FBbt_00048266	adult dopaminergic neuron of gnathal ganglion	1	0
+FBbt_00047773	larval abdominal 2 A05e neuron	1	0
+FBbt_00047774	larval abdominal 1 A05e neuron	1	0
+FBbt_00051253	adult doublesex aDN (male) neuron	1	0
+FBbt_00048507	larval metathoracic Ladder-a neuron	1	0
+FBbt_00051254	adult doublesex aDN (female) neuron	1	0
+FBbt_00100382	adult antennal lobe projection neuron DL4 adPN	1	0
+FBbt_00049765	adult antennal lobe projection neuron VL2p vPN	1	0
+FBbt_00110570	adult uniglomerular antennal lobe projection neuron V	1	0
+FBbt_00040000	adult antennal lobe projection neuron DC3 adPN	1	0
 FBbt_00047792	larval prothoracic T08x neuron	1	0
 FBbt_00047793	larval mesothoracic T08x neuron	1	0
 FBbt_00047701	larval abdominal 1 A02n neuron	1	0
-FBbt_00051253	adult doublesex aDN (male) neuron	1	0
-FBbt_00048507	larval metathoracic Ladder-a neuron	1	0
-FBbt_00048266	adult dopaminergic neuron of gnathal ganglion	1	0
-FBbt_00051254	adult doublesex aDN (female) neuron	1	0
-FBbt_00049765	adult antennal lobe projection neuron VL2p vPN	1	0
-FBbt_00100382	adult antennal lobe projection neuron DL4 adPN	1	0
-FBbt_00110570	adult uniglomerular antennal lobe projection neuron V	1	0
-FBbt_00047773	larval abdominal 2 A05e neuron	1	0
-FBbt_00067354	adult antennal lobe projection neuron DC2 adPN	1	0
-FBbt_00047774	larval abdominal 1 A05e neuron	1	0
-FBbt_00040000	adult antennal lobe projection neuron DC3 adPN	1	0
 FBbt_00067372	adult antennal lobe projection neuron DA1 vPN	1	0
-FBbt_00111248	larval A02m neuron	0	2
-FBbt_00111256	larval A12m neuron	0	2
-FBbt_00111257	larval A19c neuron	0	2
-FBbt_00111258	larval A08x neuron	0	2
-FBbt_00111260	larval A10j neuron	0	2
-FBbt_00111261	larval T05t neuron	0	2
-FBbt_00111262	larval T08x neuron	0	2
-FBbt_00111263	larval TePn04 neuron	0	2
-FBbt_00111244	larval A08d neuron	0	2
-FBbt_00111245	larval A01n neuron	0	2
-FBbt_00111247	larval A02n neuron	0	1
-FBbt_00111249	larval Wave neuron	0	2
-FBbt_00005923	hygrosensory neuron	0	9
-FBbt_00111250	larval A03o1 neuron	0	2
-FBbt_00111251	larval A05e neuron	0	2
-FBbt_00111252	larval A08m neuron	0	4
-FBbt_00111254	larval A10f neuron	0	2
-FBbt_00111231	larval A14g neuron	0	4
-FBbt_00111232	larval A23g neuron	0	2
-FBbt_00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	0	40
-FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
-FBbt_00100247	gamma Kenyon cell	0	1057
-FBbt_00047953	mushroom body output neuron	0	26
-FBbt_00111255	larval A10l neuron	0	2
-FBbt_00049661	adult lateral horn centrifugal neuron	0	12
-FBbt_00111253	larval A10a neuron	0	2
-FBbt_00048999	adult Drosulfakinin neuron	0	6
-FBbt_00003879	lobula complex columnar neuron	0	372
-FBbt_00047354	adult doublesex aDN neuron	0	2
+FBbt_20007847	adult AN07B063 neuron	0	2
+FBbt_20008827	adult IN03A051 neuron	0	9
+FBbt_20007900	adult AN08B094 neuron	0	2
+FBbt_20009023	adult IN04B084 neuron	0	7
+FBbt_20009830	adult IN13A042 neuron	0	6
+FBbt_20009022	adult IN04B083 neuron	0	2
+FBbt_20008636	adult IN01B015 neuron	0	2
+FBbt_20010657	adult IN21A040 neuron	0	2
+FBbt_20007786	adult AN06A060 neuron	0	2
+FBbt_20010763	adult IN23B039 neuron	0	4
+FBbt_20010389	adult IN19A068 neuron	0	2
+FBbt_20007758	adult AN05B069 neuron	0	4
+FBbt_20010243	adult IN17A084 neuron	0	3
+FBbt_20008515	adult IN00A042 neuron	0	2
+FBbt_20010509	adult IN19B077 neuron	0	5
+FBbt_20009439	adult IN08B076 neuron	0	3
+FBbt_20007752	adult AN05B059 neuron	0	2
+FBbt_20008520	adult IN00A047 neuron	0	5
+FBbt_20010115	adult IN16B051 neuron	0	4
+FBbt_20009917	adult IN13B060 neuron	0	4
+FBbt_20009975	adult IN14A021 neuron	0	4
+FBbt_20010133	adult IN16B069 neuron	0	4
+FBbt_20010248	adult IN17A089 neuron	0	2
+FBbt_20007699	adult AN01B018 neuron	0	2
+FBbt_20008844	adult IN03A068 neuron	0	10
+FBbt_20010393	adult IN19A072 neuron	0	2
+FBbt_20010237	adult IN17A078 neuron	0	4
+FBbt_20007753	adult AN05B060 neuron	0	2
+FBbt_20008831	adult IN03A055 neuron	0	9
+FBbt_20009982	adult IN14A028 neuron	0	8
+FBbt_20009443	adult IN08B082 neuron	0	7
+FBbt_20010122	adult IN16B058 neuron	0	6
+FBbt_20010257	adult IN17A098 neuron	0	2
+FBbt_20010499	adult IN19B064 neuron	0	2
+FBbt_20008916	adult IN03B067 neuron	0	4
+FBbt_20009586	adult IN10B030 neuron	0	8
+FBbt_20009812	adult IN13A024 neuron	0	6
+FBbt_20009977	adult IN14A023 neuron	0	9
+FBbt_20008913	adult IN03B064 neuron	0	6
+FBbt_20010556	adult IN20A.22A029 neuron	0	2
+FBbt_20010375	adult IN19A053 neuron	0	1
+FBbt_20007849	adult AN07B070 neuron	0	7
+FBbt_20009590	adult IN10B034 neuron	0	1
+FBbt_20010118	adult IN16B054 neuron	0	2
+FBbt_20007845	adult AN07B060 neuron	0	6
+FBbt_20008984	adult IN04B043 neuron	0	4
+FBbt_20008025	adult AN17A076 neuron	0	2
+FBbt_20009155	adult IN06A057 neuron	0	4
+FBbt_20009446	adult IN08B087 neuron	0	4
+FBbt_20009447	adult IN08B088 neuron	0	4
+FBbt_20008596	adult IN01A058 neuron	0	6
+FBbt_20007895	adult AN08B079 neuron	0	10
+FBbt_20009248	adult IN06B025 neuron	0	2
+FBbt_20010263	adult IN17A104 neuron	0	2
+FBbt_20009484	adult IN09A032 neuron	0	5
+FBbt_20008511	adult IN00A038 neuron	0	3
+FBbt_20009621	adult IN11A016 neuron	0	4
+FBbt_20010777	adult IN23B053 neuron	0	2
+FBbt_20010238	adult IN17A079 neuron	0	4
+FBbt_20008171	adult ANXXX255 neuron	0	2
+FBbt_20009445	adult IN08B085 neuron	0	6
+FBbt_20010372	adult IN19A050 neuron	0	2
+FBbt_20008816	adult IN03A040 neuron	0	6
+FBbt_20010665	adult IN21A048 neuron	0	2
+FBbt_20009026	adult IN04B087 neuron	0	3
+FBbt_20008813	adult IN03A037 neuron	0	10
+FBbt_20008996	adult IN04B057 neuron	0	4
+FBbt_20007896	adult AN08B081 neuron	0	4
+FBbt_20009258	adult IN06B040 neuron	0	5
+FBbt_20010498	adult IN19B062 neuron	0	2
+FBbt_20008180	adult ANXXX368 neuron	0	1
+FBbt_20009018	adult IN04B079 neuron	0	6
+FBbt_20010367	adult IN19A045 neuron	0	5
+FBbt_20009477	adult IN09A025 neuron	0	2
+FBbt_20009436	adult IN08B072 neuron	0	2
+FBbt_20010111	adult IN16B047 neuron	0	2
+FBbt_20009970	adult IN14A015 neuron	0	12
+FBbt_20009002	adult IN04B063 neuron	0	5
+FBbt_20010136	adult IN16B072 neuron	0	2
+FBbt_20009140	adult IN06A042 neuron	0	6
+FBbt_20010245	adult IN17A086 neuron	0	2
+FBbt_20007844	adult AN07B057 neuron	0	2
+FBbt_20008834	adult IN03A058 neuron	0	6
+FBbt_20008982	adult IN04B041 neuron	0	4
+FBbt_20009004	adult IN04B065 neuron	0	1
+FBbt_20011199	adult MNhl65 neuron	0	2
+FBbt_20008513	adult IN00A040 neuron	0	5
+FBbt_20008815	adult IN03A039 neuron	0	9
+FBbt_20008912	adult IN03B063 neuron	0	6
+FBbt_20010651	adult IN21A034 neuron	0	2
+FBbt_20008902	adult IN03B053 neuron	0	4
+FBbt_20009823	adult IN13A035 neuron	0	10
+FBbt_20009149	adult IN06A051 neuron	0	2
+FBbt_20009088	adult IN05B064 neuron	0	4
+FBbt_20009142	adult IN06A044 neuron	0	8
+FBbt_20007816	adult AN06B068 neuron	0	6
+FBbt_20009923	adult IN13B066 neuron	0	2
+FBbt_20009900	adult IN13B043 neuron	0	2
+FBbt_20009480	adult IN09A028 neuron	0	2
+FBbt_20009154	adult IN06A056 neuron	0	2
+FBbt_20008993	adult IN04B054 neuron	0	9
+FBbt_20008826	adult IN03A050 neuron	0	3
+FBbt_20007902	adult AN08B096 neuron	0	2
+FBbt_20009728	adult IN12B026 neuron	0	6
+FBbt_20009324	adult IN07B045 neuron	0	4
+FBbt_20008837	adult IN03A061 neuron	0	5
+FBbt_20009329	adult IN07B054 neuron	0	8
+FBbt_20010140	adult IN16B076 neuron	0	2
+FBbt_20010246	adult IN17A087 neuron	0	2
+FBbt_20010250	adult IN17A091 neuron	0	2
+FBbt_20009827	adult IN13A039 neuron	0	2
+FBbt_20007748	adult AN05B053 neuron	0	6
+FBbt_20007835	adult AN07B042 neuron	0	3
+FBbt_20009125	adult IN06A022 neuron	0	12
+FBbt_20008743	adult IN02A031 neuron	0	2
+FBbt_20010117	adult IN16B053 neuron	0	4
+FBbt_20008075	adult AN19B074 neuron	0	2
+FBbt_20009281	adult IN06B071 neuron	0	6
+FBbt_20008023	adult AN17A068 neuron	0	2
+FBbt_20010130	adult IN16B066 neuron	0	2
+FBbt_20009733	adult IN12B031 neuron	0	6
+FBbt_20007898	adult AN08B086 neuron	0	2
+FBbt_20008971	adult IN04B030 neuron	0	4
+FBbt_20008999	adult IN04B060 neuron	0	6
+FBbt_20010377	adult IN19A055 neuron	0	2
+FBbt_20007761	adult AN05B078 neuron	0	7
+FBbt_20010126	adult IN16B062 neuron	0	4
+FBbt_20009100	adult IN05B086 neuron	0	2
+FBbt_20009746	adult IN12B044 neuron	0	13
+FBbt_20010378	adult IN19A056 neuron	0	3
+FBbt_20008851	adult IN03A075 neuron	0	9
+FBbt_20009818	adult IN13A030 neuron	0	7
+FBbt_20009036	adult IN04B097 neuron	0	4
+FBbt_20009481	adult IN09A029 neuron	0	4
+FBbt_20009158	adult IN06A061 neuron	0	6
+FBbt_20010273	adult IN17A115 neuron	0	2
+FBbt_20009939	adult IN13B082 neuron	0	3
+FBbt_20010267	adult IN17A108 neuron	0	2
+FBbt_20009840	adult IN13A053 neuron	0	4
+FBbt_20009926	adult IN13B069 neuron	0	2
+FBbt_20010319	adult IN18B046 neuron	0	4
+FBbt_20010149	adult IN16B087 neuron	0	2
+FBbt_20009285	adult IN06B076 neuron	0	6
+FBbt_20009011	adult IN04B072 neuron	0	2
+FBbt_20009096	adult IN05B079 neuron	0	2
+FBbt_20009656	adult IN11B015 neuron	0	8
+FBbt_20007995	adult AN12B055 neuron	0	4
+FBbt_20009979	adult IN14A025 neuron	0	6
+FBbt_20009915	adult IN13B058 neuron	0	8
+FBbt_20009166	adult IN06A070 neuron	0	4
+FBbt_20008528	adult IN00A055 neuron	0	1
+FBbt_20008988	adult IN04B048 neuron	0	6
+FBbt_20010504	adult IN19B070 neuron	0	6
+FBbt_20009693	adult IN12A046 neuron	0	4
+FBbt_20009045	adult IN04B106 neuron	0	2
+FBbt_20008519	adult IN00A046 neuron	0	1
+FBbt_20009016	adult IN04B077 neuron	0	6
+FBbt_20009739	adult IN12B037 neuron	0	15
+FBbt_20009037	adult IN04B098 neuron	0	5
+FBbt_20008072	adult AN19B061 neuron	0	4
+FBbt_20010681	adult IN21A064 neuron	0	2
+FBbt_20009200	adult IN06A107 neuron	0	2
+FBbt_20010135	adult IN16B071 neuron	0	4
+FBbt_20008612	adult IN01A074 neuron	0	4
+FBbt_20010684	adult IN21A067 neuron	0	2
+FBbt_20008927	adult IN03B078 neuron	0	3
+FBbt_20010519	adult IN19B088 neuron	0	2
+FBbt_20009206	adult IN06A114 neuron	0	2
+FBbt_20010443	adult IN19A125 neuron	0	1
+FBbt_20009558	adult IN09B046 neuron	0	6
+FBbt_20007757	adult AN05B068 neuron	0	6
+FBbt_20009334	adult IN07B063 neuron	0	4
+FBbt_20011092	adult INXXX430 neuron	0	1
+FBbt_20010004	adult IN14A051 neuron	0	3
+FBbt_20008652	adult IN01B032 neuron	0	2
+FBbt_20009291	adult IN06B082 neuron	0	6
+FBbt_20007852	adult AN07B076 neuron	0	4
+FBbt_20009180	adult IN06A085 neuron	0	4
+FBbt_20009903	adult IN13B046 neuron	0	4
+FBbt_20010558	adult IN20A.22A032 neuron	0	2
+FBbt_20009919	adult IN13B062 neuron	0	2
+FBbt_20010269	adult IN17A110 neuron	0	2
+FBbt_20010254	adult IN17A095 neuron	0	2
+FBbt_20007759	adult AN05B071 neuron	0	5
+FBbt_20007909	adult AN08B103 neuron	0	2
+FBbt_20010256	adult IN17A097 neuron	0	3
+FBbt_20010768	adult IN23B044 neuron	0	4
+FBbt_20009284	adult IN06B074 neuron	0	10
+FBbt_20008960	adult IN04B018 neuron	0	7
+FBbt_20009630	adult IN11A026 neuron	0	2
+FBbt_20007839	adult AN07B049 neuron	0	10
+FBbt_20010753	adult IN23B029 neuron	0	5
+FBbt_20009170	adult IN06A074 neuron	0	2
+FBbt_20007950	adult AN09B040 neuron	0	6
+FBbt_20010759	adult IN23B035 neuron	0	4
+FBbt_20009822	adult IN13A034 neuron	0	9
+FBbt_20009032	adult IN04B093 neuron	0	4
+FBbt_20009092	adult IN05B073 neuron	0	4
+FBbt_20008905	adult IN03B056 neuron	0	6
+FBbt_20010506	adult IN19B072 neuron	0	3
+FBbt_20009377	adult IN08A024 neuron	0	6
+FBbt_20009491	adult IN09A040 neuron	0	1
+FBbt_20007840	adult AN07B050 neuron	0	4
+FBbt_20009021	adult IN04B082 neuron	0	2
+FBbt_20010261	adult IN17A102 neuron	0	2
+FBbt_20009925	adult IN13B068 neuron	0	2
+FBbt_20009375	adult IN08A022 neuron	0	6
+FBbt_20009984	adult IN14A030 neuron	0	2
+FBbt_20007966	adult AN10B029 neuron	0	6
+FBbt_20010505	adult IN19B071 neuron	0	12
+FBbt_20007846	adult AN07B062 neuron	0	8
+FBbt_20009555	adult IN09B043 neuron	0	6
+FBbt_20009734	adult IN12B032 neuron	0	4
+FBbt_20010369	adult IN19A047 neuron	0	2
+FBbt_20008846	adult IN03A070 neuron	0	4
+FBbt_20010751	adult IN23B027 neuron	0	1
+FBbt_20008589	adult IN01A050 neuron	0	9
+FBbt_20008071	adult AN19B060 neuron	0	4
+FBbt_20010540	adult IN20A.22A011 neuron	0	7
+FBbt_20009331	adult IN07B058 neuron	0	6
+FBbt_00053119	metathoracic femoral reductor muscle motor neuron	0	4
+FBbt_20009747	adult IN12B045 neuron	0	5
+FBbt_20007755	adult AN05B063 neuron	0	4
+FBbt_20010119	adult IN16B055 neuron	0	8
+FBbt_20010371	adult IN19A049 neuron	0	2
+FBbt_20008503	adult IN00A030 neuron	0	5
+FBbt_20010776	adult IN23B052 neuron	0	1
+FBbt_20010131	adult IN16B067 neuron	0	2
+FBbt_20010258	adult IN17A099 neuron	0	3
+FBbt_20009744	adult IN12B042 neuron	0	2
+FBbt_20009093	adult IN05B074 neuron	0	2
+FBbt_20010255	adult IN17A096 neuron	0	2
+FBbt_20009438	adult IN08B075 neuron	0	2
+FBbt_20010398	adult IN19A079 neuron	0	2
+FBbt_20007908	adult AN08B102 neuron	0	2
+FBbt_20009014	adult IN04B075 neuron	0	4
+FBbt_20008744	adult IN02A032 neuron	0	2
+FBbt_20010512	adult IN19B081 neuron	0	4
+FBbt_20010550	adult IN20A.22A023 neuron	0	6
+FBbt_20010518	adult IN19B087 neuron	0	3
+FBbt_20009994	adult IN14A040 neuron	0	2
+FBbt_20010264	adult IN17A105 neuron	0	2
+FBbt_20009701	adult IN12A058 neuron	0	4
+FBbt_20010134	adult IN16B070 neuron	0	6
+FBbt_20007843	adult AN07B056 neuron	0	6
+FBbt_20009430	adult IN08B062 neuron	0	7
+FBbt_20009616	adult IN11A011 neuron	0	4
+FBbt_20010411	adult IN19A092 neuron	0	1
+FBbt_20009009	adult IN04B070 neuron	0	3
+FBbt_20008004	adult AN16B081 neuron	0	2
+FBbt_20007842	adult AN07B052 neuron	0	6
+FBbt_20008842	adult IN03A066 neuron	0	8
+FBbt_20009038	adult IN04B099 neuron	0	2
+FBbt_20009087	adult IN05B061 neuron	0	2
+FBbt_20008736	adult IN02A021 neuron	0	2
+FBbt_20010497	adult IN19B058 neuron	0	4
+FBbt_20010487	adult IN19B045 neuron	0	6
+FBbt_20008969	adult IN04B028 neuron	0	4
+FBbt_20010230	adult IN17A067 neuron	0	2
+FBbt_20008976	adult IN04B035 neuron	0	2
+FBbt_00049598	giant fiber coupled neuron 2	0	11
+FBbt_20009133	adult IN06A034 neuron	0	2
+FBbt_20009422	adult IN08B046 neuron	0	4
+FBbt_20008809	adult IN03A033 neuron	0	8
+FBbt_20009426	adult IN08B055 neuron	0	4
+FBbt_20010494	adult IN19B055 neuron	0	2
+FBbt_20009260	adult IN06B043 neuron	0	8
+FBbt_20010219	adult IN17A055 neuron	0	2
+FBbt_20007751	adult AN05B058 neuron	0	2
+FBbt_20008807	adult IN03A031 neuron	0	8
+FBbt_20009819	adult IN13A031 neuron	0	2
+FBbt_20010488	adult IN19B047 neuron	0	2
+FBbt_20007750	adult AN05B056 neuron	0	4
+FBbt_20010493	adult IN19B054 neuron	0	4
+FBbt_20008034	adult AN17B016 neuron	0	2
+FBbt_20010310	adult IN18B037 neuron	0	2
+FBbt_20008801	adult IN03A025 neuron	0	4
+FBbt_20007892	adult AN08B066 neuron	0	2
+FBbt_20010222	adult IN17A058 neuron	0	4
+FBbt_20010911	adult INXXX194 neuron	0	2
+FBbt_20009136	adult IN06A037 neuron	0	2
+FBbt_20010313	adult IN18B040 neuron	0	2
+FBbt_20011221	adult MNml83 neuron	0	1
+FBbt_20008067	adult AN19B046 neuron	0	4
+FBbt_20008805	adult IN03A029 neuron	0	6
+FBbt_20007715	adult AN03B094 neuron	0	2
+FBbt_20009131	adult IN06A032 neuron	0	2
+FBbt_20008796	adult IN03A020 neuron	0	6
+FBbt_20009815	adult IN13A027 neuron	0	4
+FBbt_20010644	adult IN21A027 neuron	0	2
+FBbt_20007745	adult AN05B049 neuron	0	6
+FBbt_20008818	adult IN03A042 neuron	0	2
+FBbt_20010647	adult IN21A030 neuron	0	2
+FBbt_20008965	adult IN04B024 neuron	0	4
+FBbt_20008510	adult IN00A037 neuron	0	1
+FBbt_20009415	adult IN08B037 neuron	0	6
+FBbt_20008065	adult AN19B042 neuron	0	2
+FBbt_20010112	adult IN16B048 neuron	0	2
+FBbt_20008496	adult IN00A022 neuron	0	4
+FBbt_20009811	adult IN13A023 neuron	0	4
+FBbt_20010211	adult IN17A044 neuron	0	6
+FBbt_20009471	adult IN09A019 neuron	0	6
+FBbt_20008169	adult ANXXX250 neuron	0	2
+FBbt_20009610	adult IN11A005 neuron	0	4
+FBbt_20007814	adult AN06B051 neuron	0	4
+FBbt_20009885	adult IN13B028 neuron	0	6
+FBbt_20009429	adult IN08B060 neuron	0	4
+FBbt_20009434	adult IN08B067 neuron	0	4
+FBbt_20007747	adult AN05B052 neuron	0	4
+FBbt_20009730	adult IN12B028 neuron	0	3
+FBbt_20009435	adult IN08B068 neuron	0	8
+FBbt_20009130	adult IN06A031 neuron	0	2
+FBbt_20009318	adult IN07B032 neuron	0	2
+FBbt_20009614	adult IN11A009 neuron	0	2
+FBbt_20010228	adult IN17A065 neuron	0	2
+FBbt_20008808	adult IN03A032 neuron	0	4
+FBbt_20008799	adult IN03A023 neuron	0	2
+FBbt_20009139	adult IN06A040 neuron	0	2
+FBbt_20010236	adult IN17A077 neuron	0	2
+FBbt_20010758	adult IN23B034 neuron	0	2
+FBbt_20009127	adult IN06A024 neuron	0	2
+FBbt_20007713	adult AN03B039 neuron	0	2
+FBbt_20009081	adult IN05B038 neuron	0	2
+FBbt_20007813	adult AN06B048 neuron	0	2
+FBbt_20011219	adult MNml81 neuron	0	2
+FBbt_20008581	adult IN01A041 neuron	0	6
+FBbt_20009257	adult IN06B038 neuron	0	4
+FBbt_20010215	adult IN17A049 neuron	0	4
+FBbt_20010087	adult IN14B011 neuron	0	2
+FBbt_20010086	adult IN14B010 neuron	0	6
+FBbt_20009416	adult IN08B038 neuron	0	2
+FBbt_20010213	adult IN17A046 neuron	0	2
+FBbt_20009083	adult IN05B041 neuron	0	2
+FBbt_20008951	adult IN04B009 neuron	0	6
+FBbt_20009419	adult IN08B042 neuron	0	6
+FBbt_20009321	adult IN07B038 neuron	0	4
+FBbt_20010221	adult IN17A057 neuron	0	2
+FBbt_20007901	adult AN08B095 neuron	0	2
+FBbt_20010214	adult IN17A048 neuron	0	2
+FBbt_20008793	adult IN03A017 neuron	0	4
+FBbt_20007884	adult AN08B041 neuron	0	2
+FBbt_20011209	adult MNhl75 neuron	0	1
+FBbt_20009256	adult IN06B036 neuron	0	4
+FBbt_00053050	adult fruitless vMS13 neuron	0	2
+FBbt_20008894	adult IN03B038 neuron	0	2
+FBbt_20007964	adult AN10B026 neuron	0	2
+FBbt_20010106	adult IN16B040 neuron	0	2
+FBbt_20007886	adult AN08B048 neuron	0	2
+FBbt_20009688	adult IN12A034 neuron	0	2
+FBbt_20009080	adult IN05B037 neuron	0	2
+FBbt_20007889	adult AN08B053 neuron	0	2
+FBbt_20008582	adult IN01A042 neuron	0	4
+FBbt_20008970	adult IN04B029 neuron	0	6
+FBbt_20008498	adult IN00A025 neuron	0	5
+FBbt_20008810	adult IN03A034 neuron	0	4
+FBbt_20009722	adult IN12B020 neuron	0	9
+FBbt_20010308	adult IN18B035 neuron	0	4
+FBbt_20010643	adult IN21A026 neuron	0	3
+FBbt_20010223	adult IN17A059 neuron	0	2
+FBbt_20009428	adult IN08B058 neuron	0	4
+FBbt_20010917	adult INXXX206 neuron	0	2
+FBbt_20008812	adult IN03A036 neuron	0	7
+FBbt_20008501	adult IN00A028 neuron	0	3
+FBbt_20008505	adult IN00A032 neuron	0	2
+FBbt_20007983	adult AN11B008 neuron	0	2
+FBbt_20007810	adult AN06B044 neuron	0	2
+FBbt_20007936	adult AN09B023 neuron	0	8
+FBbt_20009681	adult IN12A019 neuron	0	5
+FBbt_20009424	adult IN08B052 neuron	0	3
+FBbt_20007744	adult AN05B048 neuron	0	2
+FBbt_20007890	adult AN08B057 neuron	0	2
+FBbt_20008955	adult IN04B013 neuron	0	8
+FBbt_20009262	adult IN06B049 neuron	0	2
+FBbt_20010307	adult IN18B034 neuron	0	5
+FBbt_20010507	adult IN19B073 neuron	0	4
+FBbt_20010218	adult IN17A053 neuron	0	4
+FBbt_20009266	adult IN06B054 neuron	0	2
+FBbt_20008957	adult IN04B015 neuron	0	6
+FBbt_20010302	adult IN18B027 neuron	0	2
+FBbt_20009611	adult IN11A006 neuron	0	4
+FBbt_20008952	adult IN04B010 neuron	0	6
+FBbt_20009691	adult IN12A039 neuron	0	4
+FBbt_20009151	adult IN06A053 neuron	0	1
+FBbt_20008994	adult IN04B055 neuron	0	2
+FBbt_20007716	adult AN03B095 neuron	0	2
+FBbt_20009029	adult IN04B090 neuron	0	4
+FBbt_20007893	adult AN08B071 neuron	0	6
+FBbt_20009090	adult IN05B066 neuron	0	4
+FBbt_20009323	adult IN07B044 neuron	0	5
+FBbt_20008598	adult IN01A060 neuron	0	3
+FBbt_20009628	adult IN11A023 neuron	0	1
+FBbt_20009976	adult IN14A022 neuron	0	2
+FBbt_20009893	adult IN13B036 neuron	0	7
+FBbt_20009654	adult IN11B013 neuron	0	10
+FBbt_20010240	adult IN17A081 neuron	0	2
+FBbt_20007743	adult AN05B047 neuron	0	1
+FBbt_20009441	adult IN08B078 neuron	0	4
+FBbt_20008532	adult IN00A059 neuron	0	1
+FBbt_20010212	adult IN17A045 neuron	0	2
+FBbt_20010539	adult IN20A.22A010 neuron	0	7
+FBbt_20011020	adult INXXX345 neuron	0	2
+FBbt_20011007	adult INXXX328 neuron	0	4
+FBbt_20009132	adult IN06A033 neuron	0	4
+FBbt_20011014	adult INXXX336 neuron	0	2
+FBbt_20010244	adult IN17A085 neuron	0	3
+FBbt_20008820	adult IN03A044 neuron	0	4
+FBbt_20008824	adult IN03A048 neuron	0	4
+FBbt_20009475	adult IN09A023 neuron	0	4
+FBbt_20009432	adult IN08B064 neuron	0	4
+FBbt_20010317	adult IN18B044 neuron	0	2
+FBbt_20008817	adult IN03A041 neuron	0	6
+FBbt_20009692	adult IN12A043 neuron	0	11
+FBbt_20007891	adult AN08B061 neuron	0	6
+FBbt_20007812	adult AN06B046 neuron	0	4
+FBbt_20008800	adult IN03A024 neuron	0	4
+FBbt_20007947	adult AN09B035 neuron	0	6
+FBbt_20010232	adult IN17A071 neuron	0	2
+FBbt_20009272	adult IN06B061 neuron	0	8
+FBbt_20009431	adult IN08B063 neuron	0	4
+FBbt_20008967	adult IN04B026 neuron	0	6
+FBbt_20008514	adult IN00A041 neuron	0	5
+FBbt_20009899	adult IN13B042 neuron	0	3
+FBbt_20010391	adult IN19A070 neuron	0	2
+FBbt_20010656	adult IN21A039 neuron	0	1
+FBbt_20009152	adult IN06A054 neuron	0	4
+FBbt_20007841	adult AN07B051 neuron	0	1
+FBbt_20010774	adult IN23B050 neuron	0	2
+FBbt_20008990	adult IN04B050 neuron	0	4
+FBbt_20010762	adult IN23B038 neuron	0	1
+FBbt_20010364	adult IN19A042 neuron	0	4
+FBbt_20010361	adult IN19A037 neuron	0	2
+FBbt_20010495	adult IN19B056 neuron	0	4
+FBbt_20008989	adult IN04B049 neuron	0	5
+FBbt_20010234	adult IN17A074 neuron	0	2
+FBbt_20009896	adult IN13B039 neuron	0	2
+FBbt_20007887	adult AN08B049 neuron	0	4
+FBbt_20009622	adult IN11A017 neuron	0	2
+FBbt_20009433	adult IN08B065 neuron	0	6
+FBbt_20010247	adult IN17A088 neuron	0	2
+FBbt_20010284	adult IN17B010 neuron	0	2
+FBbt_20010723	adult IN21A106 neuron	0	1
+FBbt_20011213	adult MNml29 neuron	0	2
+FBbt_20010500	adult IN19B066 neuron	0	6
+FBbt_20010397	adult IN19A077 neuron	0	1
+FBbt_20008959	adult IN04B017 neuron	0	7
+FBbt_20010491	adult IN19B052 neuron	0	2
+FBbt_20010242	adult IN17A083 neuron	0	2
+FBbt_20009273	adult IN06B062 neuron	0	2
+FBbt_20009143	adult IN06A045 neuron	0	2
+FBbt_20008819	adult IN03A043 neuron	0	2
+FBbt_20009427	adult IN08B056 neuron	0	8
+FBbt_20008995	adult IN04B056 neuron	0	2
+FBbt_20008587	adult IN01A047 neuron	0	4
+FBbt_20009008	adult IN04B069 neuron	0	2
+FBbt_20008068	adult AN19B049 neuron	0	2
+FBbt_20007749	adult AN05B054 neuron	0	6
+FBbt_20007832	adult AN07B037 neuron	0	6
+FBbt_20008980	adult IN04B039 neuron	0	2
+FBbt_20009325	adult IN07B047 neuron	0	2
+FBbt_20007885	adult AN08B047 neuron	0	6
+FBbt_20008981	adult IN04B040 neuron	0	2
+FBbt_20007837	adult AN07B045 neuron	0	4
+FBbt_20010233	adult IN17A072 neuron	0	3
+FBbt_20008074	adult AN19B065 neuron	0	4
+FBbt_20009267	adult IN06B055 neuron	0	6
+FBbt_20010476	adult IN19B029 neuron	0	1
+FBbt_20007746	adult AN05B050 neuron	0	7
+FBbt_20009164	adult IN06A068 neuron	0	2
+FBbt_20010646	adult IN21A029 neuron	0	2
+FBbt_20009145	adult IN06A047 neuron	0	2
+FBbt_20010747	adult IN23B022 neuron	0	4
+FBbt_20011019	adult INXXX343 neuron	0	2
+FBbt_20009731	adult IN12B029 neuron	0	4
+FBbt_20009423	adult IN08B051 neuron	0	12
+FBbt_20007785	adult AN06A041 neuron	0	2
+FBbt_20010090	adult IN14B014 neuron	0	1
+FBbt_20009724	adult IN12B022 neuron	0	6
+FBbt_20010114	adult IN16B050 neuron	0	2
+FBbt_20010489	adult IN19B048 neuron	0	4
+FBbt_20009150	adult IN06A052 neuron	0	4
+FBbt_20010231	adult IN17A069 neuron	0	2
+FBbt_20007894	adult AN08B074 neuron	0	6
+FBbt_20010235	adult IN17A075 neuron	0	2
+FBbt_20009146	adult IN06A048 neuron	0	2
+FBbt_20008997	adult IN04B058 neuron	0	2
+FBbt_20010241	adult IN17A082 neuron	0	2
+FBbt_20008517	adult IN00A044 neuron	0	1
+FBbt_20009028	adult IN04B089 neuron	0	2
+FBbt_20009973	adult IN14A018 neuron	0	5
+FBbt_20010649	adult IN21A032 neuron	0	2
+FBbt_20009825	adult IN13A037 neuron	0	4
+FBbt_20009889	adult IN13B032 neuron	0	8
+FBbt_20010653	adult IN21A036 neuron	0	1
+FBbt_20008176	adult ANXXX318 neuron	0	2
+FBbt_20009891	adult IN13B034 neuron	0	4
+FBbt_20008986	adult IN04B046 neuron	0	4
+FBbt_20009478	adult IN09A026 neuron	0	6
+FBbt_20010746	adult IN23B021 neuron	0	4
+FBbt_20009179	adult IN06A084 neuron	0	2
+FBbt_20010110	adult IN16B046 neuron	0	5
+FBbt_20009690	adult IN12A036 neuron	0	8
+FBbt_20008983	adult IN04B042 neuron	0	2
+FBbt_20008066	adult AN19B044 neuron	0	4
+FBbt_20011211	adult MNhl88 neuron	0	2
+FBbt_20010314	adult IN18B041 neuron	0	2
+FBbt_20008899	adult IN03B049 neuron	0	4
+FBbt_20008502	adult IN00A029 neuron	0	3
+FBbt_20008829	adult IN03A053 neuron	0	5
+FBbt_20010560	adult IN20A.22A034 neuron	0	1
+FBbt_20009824	adult IN13A036 neuron	0	7
+FBbt_20009762	adult IN12B061 neuron	0	2
+FBbt_20010328	adult IN18B056 neuron	0	2
+FBbt_20009106	adult IN05B092 neuron	0	2
+FBbt_20008923	adult IN03B074 neuron	0	8
+FBbt_20009196	adult IN06A103 neuron	0	4
+FBbt_20010172	adult IN16B110 neuron	0	2
+FBbt_20011217	adult MNml79 neuron	0	2
+FBbt_20008760	adult IN02A049 neuron	0	8
+FBbt_20009542	adult IN09A091 neuron	0	5
+FBbt_20010808	adult IN23B084 neuron	0	4
+FBbt_20008665	adult IN01B045 neuron	0	2
+FBbt_20008541	adult IN00A068 neuron	0	2
+FBbt_20008591	adult IN01A052 neuron	0	4
+FBbt_20009613	adult IN11A008 neuron	0	6
+FBbt_20008688	adult IN01B068 neuron	0	3
+FBbt_20009041	adult IN04B102 neuron	0	9
+FBbt_20008761	adult IN02A050 neuron	0	4
+FBbt_20010706	adult IN21A089 neuron	0	2
+FBbt_20009215	adult IN06A123 neuron	0	4
+FBbt_20010702	adult IN21A085 neuron	0	3
+FBbt_20010396	adult IN19A076 neuron	0	2
+FBbt_20008618	adult IN01A080 neuron	0	5
+FBbt_20010672	adult IN21A055 neuron	0	2
+FBbt_20010183	adult IN16B123 neuron	0	1
+FBbt_20010458	adult IN19A140 neuron	0	1
+FBbt_20008757	adult IN02A045 neuron	0	6
+FBbt_20008544	adult IN00A071 neuron	0	1
+FBbt_20010057	adult IN14A105 neuron	0	4
+FBbt_20009198	adult IN06A105 neuron	0	2
+FBbt_20008758	adult IN02A047 neuron	0	6
+FBbt_20007862	adult AN07B101 neuron	0	4
+FBbt_20007854	adult AN07B082 neuron	0	12
+FBbt_20010176	adult IN16B115 neuron	0	2
+FBbt_20009450	adult IN08B092 neuron	0	6
+FBbt_20009972	adult IN14A017 neuron	0	6
+FBbt_20009504	adult IN09A053 neuron	0	4
+FBbt_20010175	adult IN16B114 neuron	0	5
+FBbt_20009988	adult IN14A034 neuron	0	4
+FBbt_20009153	adult IN06A055 neuron	0	2
+FBbt_20010058	adult IN14A106 neuron	0	4
+FBbt_20009908	adult IN13B051 neuron	0	2
+FBbt_20010063	adult IN14A111 neuron	0	4
+FBbt_20010163	adult IN16B101 neuron	0	4
+FBbt_20010399	adult IN19A080 neuron	0	2
+FBbt_20009639	adult IN11A037 neuron	0	4
+FBbt_20009589	adult IN10B033 neuron	0	6
+FBbt_20010569	adult IN20A.22A043 neuron	0	7
+FBbt_20010051	adult IN14A099 neuron	0	2
+FBbt_20008700	adult IN01B081 neuron	0	4
+FBbt_20008644	adult IN01B024 neuron	0	3
+FBbt_20009774	adult IN12B074 neuron	0	7
+FBbt_20010697	adult IN21A080 neuron	0	4
+FBbt_20009046	adult IN04B107 neuron	0	9
+FBbt_20010708	adult IN21A091 neuron	0	2
+FBbt_20009932	adult IN13B075 neuron	0	2
+FBbt_20009534	adult IN09A083 neuron	0	3
+FBbt_20008762	adult IN02A051 neuron	0	2
+FBbt_20010363	adult IN19A041 neuron	0	13
+FBbt_20010045	adult IN14A093 neuron	0	3
+FBbt_20009776	adult IN12B077 neuron	0	6
+FBbt_20010064	adult IN14A112 neuron	0	2
+FBbt_20010065	adult IN14A113 neuron	0	3
+FBbt_20010252	adult IN17A093 neuron	0	6
+FBbt_20008771	adult IN02A060 neuron	0	4
+FBbt_20010701	adult IN21A084 neuron	0	2
+FBbt_20010433	adult IN19A115 neuron	0	1
+FBbt_20010054	adult IN14A102 neuron	0	2
+FBbt_20010316	adult IN18B043 neuron	0	4
+FBbt_20008534	adult IN00A061 neuron	0	2
+FBbt_20010688	adult IN21A071 neuron	0	2
+FBbt_20009785	adult IN12B087 neuron	0	4
+FBbt_20011198	adult MNhl64 neuron	0	2
+FBbt_20010524	adult IN19B094 neuron	0	6
+FBbt_20008668	adult IN01B048 neuron	0	4
+FBbt_20009949	adult IN13B095 neuron	0	1
+FBbt_20010724	adult IN21A107 neuron	0	1
+FBbt_20008084	adult AN19B104 neuron	0	9
+FBbt_20009627	adult IN11A022 neuron	0	6
+FBbt_20007980	adult AN10B056 neuron	0	4
+FBbt_20009053	adult IN04B114 neuron	0	4
+FBbt_20008870	adult IN03A095 neuron	0	4
+FBbt_20009707	adult IN12A064 neuron	0	7
+FBbt_20010676	adult IN21A059 neuron	0	4
+FBbt_20009938	adult IN13B081 neuron	0	2
+FBbt_20008871	adult IN03A096 neuron	0	4
+FBbt_20010705	adult IN21A088 neuron	0	2
+FBbt_20007968	adult AN10B033 neuron	0	4
+FBbt_20009322	adult IN07B039 neuron	0	4
+FBbt_20009187	adult IN06A093 neuron	0	4
+FBbt_20007982	adult AN10B061 neuron	0	2
+FBbt_20009156	adult IN06A058 neuron	0	2
+FBbt_20008692	adult IN01B072 neuron	0	2
+FBbt_20009295	adult IN06B086 neuron	0	8
+FBbt_20009831	adult IN13A043 neuron	0	5
+FBbt_20009214	adult IN06A122 neuron	0	4
+FBbt_20009103	adult IN05B089 neuron	0	4
+FBbt_20009835	adult IN13A047 neuron	0	7
+FBbt_20010278	adult IN17A120 neuron	0	2
+FBbt_20009102	adult IN05B088 neuron	0	6
+FBbt_20009414	adult IN08B035 neuron	0	2
+FBbt_20008687	adult IN01B067 neuron	0	4
+FBbt_20008085	adult AN19B106 neuron	0	2
+FBbt_20008188	adult ANXXX462 neuron	0	2
+FBbt_20010013	adult IN14A060 neuron	0	2
+FBbt_20008657	adult IN01B037 neuron	0	6
+FBbt_20010608	adult IN20A.22A083 neuron	0	2
+FBbt_20009783	adult IN12B085 neuron	0	2
+FBbt_20010068	adult IN14A116 neuron	0	2
+FBbt_20010227	adult IN17A064 neuron	0	8
+FBbt_20008759	adult IN02A048 neuron	0	6
+FBbt_20009637	adult IN11A035 neuron	0	2
+FBbt_20008681	adult IN01B061 neuron	0	7
+FBbt_20009354	adult IN07B093 neuron	0	2
+FBbt_20010385	adult IN19A063 neuron	0	1
+FBbt_20009638	adult IN11A036 neuron	0	2
+FBbt_20008974	adult IN04B033 neuron	0	4
+FBbt_20008005	adult AN16B112 neuron	0	4
+FBbt_20008639	adult IN01B019 neuron	0	6
+FBbt_20009727	adult IN12B025 neuron	0	12
+FBbt_20007999	adult AN12B089 neuron	0	10
+FBbt_20010699	adult IN21A082 neuron	0	2
+FBbt_20008615	adult IN01A077 neuron	0	6
+FBbt_20008613	adult IN01A075 neuron	0	4
+FBbt_20007915	adult AN08B112 neuron	0	4
+FBbt_20008678	adult IN01B058 neuron	0	1
+FBbt_20009287	adult IN06B078 neuron	0	10
+FBbt_20009936	adult IN13B079 neuron	0	6
+FBbt_20009397	adult IN08A044 neuron	0	2
+FBbt_20007853	adult AN07B078 neuron	0	4
+FBbt_20010021	adult IN14A068 neuron	0	6
+FBbt_20008848	adult IN03A072 neuron	0	2
+FBbt_20009003	adult IN04B064 neuron	0	4
+FBbt_20010794	adult IN23B070 neuron	0	6
+FBbt_20009541	adult IN09A090 neuron	0	7
+FBbt_20009183	adult IN06A088 neuron	0	4
+FBbt_20009511	adult IN09A060 neuron	0	11
+FBbt_20009286	adult IN06B077 neuron	0	8
+FBbt_20010726	adult IN21A109 neuron	0	2
+FBbt_20008776	adult IN02A065 neuron	0	3
+FBbt_20009950	adult IN13B096 neuron	0	5
+FBbt_20008766	adult IN02A055 neuron	0	5
+FBbt_20009843	adult IN13A056 neuron	0	2
+FBbt_20008674	adult IN01B054 neuron	0	5
+FBbt_20010459	adult IN19A141 neuron	0	1
+FBbt_20009161	adult IN06A065 neuron	0	4
+FBbt_20008973	adult IN04B032 neuron	0	9
+FBbt_20009000	adult IN04B061 neuron	0	2
+FBbt_20009566	adult IN09B054 neuron	0	2
+FBbt_20009276	adult IN06B065 neuron	0	2
+FBbt_20007996	adult AN12B060 neuron	0	9
+FBbt_20008768	adult IN02A057 neuron	0	6
+FBbt_20008676	adult IN01B056 neuron	0	6
+FBbt_20009750	adult IN12B048 neuron	0	11
+FBbt_20009759	adult IN12B058 neuron	0	7
+FBbt_20009474	adult IN09A022 neuron	0	11
+FBbt_20010408	adult IN19A089 neuron	0	1
+FBbt_20010327	adult IN18B055 neuron	0	4
+FBbt_20010680	adult IN21A063 neuron	0	3
+FBbt_20009516	adult IN09A065 neuron	0	3
+FBbt_20009777	adult IN12B078 neuron	0	3
+FBbt_20007809	adult AN06B042 neuron	0	2
+FBbt_20009740	adult IN12B038 neuron	0	6
+FBbt_00053045	adult fruitless vMS11 neuron	0	15
+FBbt_20010750	adult IN23B025 neuron	0	6
+FBbt_20010451	adult IN19A133 neuron	0	4
+FBbt_20010537	adult IN20A.22A008 neuron	0	12
+FBbt_20008773	adult IN02A062 neuron	0	8
+FBbt_20009901	adult IN13B044 neuron	0	9
+FBbt_20010292	adult IN18B012 neuron	0	2
+FBbt_20011254	adult SNpp42 neuron	0	18
+FBbt_20008721	adult IN01B102 neuron	0	2
+FBbt_20008715	adult IN01B096 neuron	0	2
+FBbt_20010690	adult IN21A073 neuron	0	2
+FBbt_20008833	adult IN03A057 neuron	0	6
+FBbt_20009844	adult IN13A057 neuron	0	8
+FBbt_20010142	adult IN16B079 neuron	0	5
+FBbt_20009540	adult IN09A089 neuron	0	2
+FBbt_20010721	adult IN21A104 neuron	0	2
+FBbt_20009992	adult IN14A038 neuron	0	7
+FBbt_20009444	adult IN08B083 neuron	0	12
+FBbt_20009829	adult IN13A041 neuron	0	6
+FBbt_20010813	adult IN23B089 neuron	0	6
+FBbt_20008697	adult IN01B078 neuron	0	6
+FBbt_20011108	adult INXXX451 neuron	0	2
+FBbt_20008823	adult IN03A047 neuron	0	6
+FBbt_20010496	adult IN19B057 neuron	0	7
+FBbt_20008748	adult IN02A036 neuron	0	4
+FBbt_20009956	adult IN13B102 neuron	0	2
+FBbt_20010373	adult IN19A051 neuron	0	2
+FBbt_20008717	adult IN01B098 neuron	0	2
+FBbt_20009479	adult IN09A027 neuron	0	6
+FBbt_20009452	adult IN08B104 neuron	0	5
+FBbt_20009347	adult IN07B081 neuron	0	10
+FBbt_20010508	adult IN19B075 neuron	0	8
+FBbt_20009846	adult IN13A059 neuron	0	13
+FBbt_20009182	adult IN06A087 neuron	0	2
+FBbt_20008070	adult AN19B059 neuron	0	6
+FBbt_20008033	adult AN17B013 neuron	0	4
+FBbt_20009763	adult IN12B062 neuron	0	5
+FBbt_20010048	adult IN14A096 neuron	0	4
+FBbt_20007861	adult AN07B100 neuron	0	2
+FBbt_20008526	adult IN00A053 neuron	0	4
+FBbt_20010249	adult IN17A090 neuron	0	3
+FBbt_20008686	adult IN01B066 neuron	0	2
+FBbt_20007897	adult AN08B084 neuron	0	4
+FBbt_20010148	adult IN16B086 neuron	0	6
+FBbt_20011110	adult INXXX454 neuron	0	11
+FBbt_20010138	adult IN16B074 neuron	0	8
+FBbt_20007756	adult AN05B067 neuron	0	3
+FBbt_20009269	adult IN06B058 neuron	0	4
+FBbt_20010791	adult IN23B067 neuron	0	10
+FBbt_20008077	adult AN19B079 neuron	0	7
+FBbt_20008656	adult IN01B036 neuron	0	2
+FBbt_20009054	adult IN04B115 neuron	0	2
+FBbt_20010698	adult IN21A081 neuron	0	2
+FBbt_20008713	adult IN01B094 neuron	0	2
+FBbt_20010184	adult IN16B124 neuron	0	2
+FBbt_20010028	adult IN14A076 neuron	0	6
+FBbt_20009784	adult IN12B086 neuron	0	6
+FBbt_20008605	adult IN01A067 neuron	0	4
+FBbt_20010501	adult IN19B067 neuron	0	10
+FBbt_20008024	adult AN17A073 neuron	0	2
+FBbt_20010720	adult IN21A103 neuron	0	2
+FBbt_20008852	adult IN03A076 neuron	0	2
+FBbt_20009634	adult IN11A031 neuron	0	4
+FBbt_20010318	adult IN18B045 neuron	0	7
+FBbt_20009327	adult IN07B051 neuron	0	3
+FBbt_20010390	adult IN19A069 neuron	0	7
+FBbt_20008991	adult IN04B052 neuron	0	2
+FBbt_20009263	adult IN06B050 neuron	0	3
+FBbt_20009922	adult IN13B065 neuron	0	6
+FBbt_20009989	adult IN14A035 neuron	0	2
+FBbt_20010538	adult IN20A.22A009 neuron	0	14
+FBbt_20011192	adult MNhl29 neuron	0	2
+FBbt_20009643	adult IN11A043 neuron	0	4
+FBbt_20010448	adult IN19A130 neuron	0	1
+FBbt_20010376	adult IN19A054 neuron	0	6
+FBbt_20010722	adult IN21A105 neuron	0	1
+FBbt_20008906	adult IN03B057 neuron	0	4
+FBbt_20010185	adult IN16B125 neuron	0	6
+FBbt_20008854	adult IN03A078 neuron	0	6
+FBbt_20010027	adult IN14A075 neuron	0	2
+FBbt_20008495	adult IN00A021 neuron	0	3
+FBbt_20009337	adult IN07B066 neuron	0	7
+FBbt_20011203	adult MNhl69 neuron	0	1
+FBbt_20010262	adult IN17A103 neuron	0	2
+FBbt_20008683	adult IN01B063 neuron	0	3
+FBbt_20009770	adult IN12B070 neuron	0	4
+FBbt_20010076	adult IN14A124 neuron	0	1
+FBbt_20010711	adult IN21A094 neuron	0	2
+FBbt_20007974	adult AN10B046 neuron	0	14
+FBbt_20010447	adult IN19A129 neuron	0	1
+FBbt_20010009	adult IN14A056 neuron	0	6
+FBbt_20008673	adult IN01B053 neuron	0	6
+FBbt_20009486	adult IN09A034 neuron	0	4
+FBbt_20010032	adult IN14A080 neuron	0	2
+FBbt_20009210	adult IN06A118 neuron	0	2
+FBbt_20010782	adult IN23B058 neuron	0	3
+FBbt_20010044	adult IN14A092 neuron	0	2
+FBbt_20010572	adult IN20A.22A046 neuron	0	3
+FBbt_20009934	adult IN13B077 neuron	0	2
+FBbt_20009930	adult IN13B073 neuron	0	4
+FBbt_20009099	adult IN05B084 neuron	0	2
+FBbt_20010793	adult IN23B069 neuron	0	2
+FBbt_20010370	adult IN19A048 neuron	0	7
+FBbt_20010658	adult IN21A041 neuron	0	5
+FBbt_20010788	adult IN23B064 neuron	0	4
+FBbt_20009185	adult IN06A090 neuron	0	5
+FBbt_20010320	adult IN18B047 neuron	0	4
+FBbt_20010006	adult IN14A053 neuron	0	2
+FBbt_20009493	adult IN09A042 neuron	0	6
+FBbt_20010554	adult IN20A.22A027 neuron	0	3
+FBbt_20007754	adult AN05B062 neuron	0	5
+FBbt_20008595	adult IN01A057 neuron	0	2
+FBbt_20009495	adult IN09A044 neuron	0	5
+FBbt_20010275	adult IN17A117 neuron	0	2
+FBbt_20010003	adult IN14A050 neuron	0	6
+FBbt_20008934	adult IN03B085 neuron	0	2
+FBbt_20010272	adult IN17A114 neuron	0	2
+FBbt_20007762	adult AN05B081 neuron	0	2
+FBbt_20010225	adult IN17A061 neuron	0	12
+FBbt_20010143	adult IN16B080 neuron	0	3
+FBbt_20009197	adult IN06A104 neuron	0	9
+FBbt_20010365	adult IN19A043 neuron	0	3
+FBbt_20010150	adult IN16B088 neuron	0	2
+FBbt_20008531	adult IN00A058 neuron	0	3
+FBbt_20009393	adult IN08A040 neuron	0	6
+FBbt_20007906	adult AN08B100 neuron	0	7
+FBbt_20011070	adult INXXX405 neuron	0	6
+FBbt_20010671	adult IN21A054 neuron	0	3
+FBbt_20008021	adult AN17A050 neuron	0	2
+FBbt_20008611	adult IN01A073 neuron	0	10
+FBbt_20008675	adult IN01B055 neuron	0	2
+FBbt_20010276	adult IN17A118 neuron	0	3
+FBbt_20008594	adult IN01A056 neuron	0	4
+FBbt_20009591	adult IN10B036 neuron	0	4
+FBbt_20010806	adult IN23B082 neuron	0	2
+FBbt_20009492	adult IN09A041 neuron	0	2
+FBbt_20011195	adult MNhl61 neuron	0	2
+FBbt_20009346	adult IN07B080 neuron	0	7
+FBbt_20010007	adult IN14A054 neuron	0	2
+FBbt_20008078	adult AN19B093 neuron	0	4
+FBbt_20007952	adult AN09B044 neuron	0	2
+FBbt_20010395	adult IN19A074 neuron	0	2
+FBbt_20009144	adult IN06A046 neuron	0	2
+FBbt_20007790	adult AN06A095 neuron	0	2
+FBbt_20010689	adult IN21A072 neuron	0	2
+FBbt_20007910	adult AN08B106 neuron	0	4
+FBbt_20010803	adult IN23B079 neuron	0	4
+FBbt_20011218	adult MNml80 neuron	0	3
+FBbt_20009948	adult IN13B094 neuron	0	2
+FBbt_20009587	adult IN10B031 neuron	0	5
+FBbt_20010265	adult IN17A106 neuron	0	4
+FBbt_20009226	adult IN06A134 neuron	0	1
+FBbt_20009987	adult IN14A033 neuron	0	2
+FBbt_20010011	adult IN14A058 neuron	0	4
+FBbt_20008006	adult AN16B116 neuron	0	2
+FBbt_20008524	adult IN00A051 neuron	0	4
+FBbt_20009376	adult IN08A023 neuron	0	8
+FBbt_20009633	adult IN11A030 neuron	0	5
+FBbt_20010659	adult IN21A042 neuron	0	6
+FBbt_20010692	adult IN21A075 neuron	0	3
+FBbt_20009985	adult IN14A031 neuron	0	2
+FBbt_20008610	adult IN01A072 neuron	0	2
+FBbt_20009980	adult IN14A026 neuron	0	4
+FBbt_20009559	adult IN09B047 neuron	0	6
+FBbt_20007912	adult AN08B109 neuron	0	2
+FBbt_20009754	adult IN12B052 neuron	0	6
+FBbt_20008750	adult IN02A038 neuron	0	4
+FBbt_20009020	adult IN04B081 neuron	0	17
+FBbt_20009449	adult IN08B091 neuron	0	7
+FBbt_20007848	adult AN07B069 neuron	0	12
+FBbt_20009494	adult IN09A043 neuron	0	17
+FBbt_20010566	adult IN20A.22A040 neuron	0	3
+FBbt_20009941	adult IN13B085 neuron	0	2
+FBbt_20010667	adult IN21A050 neuron	0	2
+FBbt_20010129	adult IN16B065 neuron	0	2
+FBbt_20009097	adult IN05B080 neuron	0	4
+FBbt_20009526	adult IN09A075 neuron	0	2
+FBbt_20010786	adult IN23B062 neuron	0	4
+FBbt_20008749	adult IN02A037 neuron	0	2
+FBbt_20008931	adult IN03B082 neuron	0	2
+FBbt_20010792	adult IN23B068 neuron	0	3
+FBbt_20010648	adult IN21A031 neuron	0	2
+FBbt_20010384	adult IN19A062 neuron	0	2
+FBbt_20009748	adult IN12B046 neuron	0	2
+FBbt_20008079	adult AN19B098 neuron	0	4
+FBbt_20009181	adult IN06A086 neuron	0	4
+FBbt_20009585	adult IN10B028 neuron	0	10
+FBbt_20009761	adult IN12B060 neuron	0	2
+FBbt_20008658	adult IN01B038 neuron	0	2
+FBbt_20008747	adult IN02A035 neuron	0	4
+FBbt_20010780	adult IN23B056 neuron	0	12
+FBbt_20009995	adult IN14A041 neuron	0	2
+FBbt_20007986	adult AN12A017 neuron	0	2
+FBbt_20010147	adult IN16B085 neuron	0	2
+FBbt_20009756	adult IN12B054 neuron	0	5
+FBbt_20010544	adult IN20A.22A016 neuron	0	13
+FBbt_20009174	adult IN06A078 neuron	0	2
+FBbt_20010274	adult IN17A116 neuron	0	2
+FBbt_20009496	adult IN09A045 neuron	0	6
+FBbt_20010374	adult IN19A052 neuron	0	7
+FBbt_20009752	adult IN12B050 neuron	0	4
+FBbt_20010406	adult IN19A087 neuron	0	2
+FBbt_20010785	adult IN23B061 neuron	0	2
+FBbt_20010444	adult IN19A126 neuron	0	2
+FBbt_20009993	adult IN14A039 neuron	0	2
+FBbt_20010561	adult IN20A.22A035 neuron	0	7
+FBbt_20009556	adult IN09B044 neuron	0	4
+FBbt_20008922	adult IN03B073 neuron	0	2
+FBbt_20009098	adult IN05B082 neuron	0	2
+FBbt_20008914	adult IN03B065 neuron	0	6
+FBbt_20010516	adult IN19B085 neuron	0	4
+FBbt_20009946	adult IN13B091 neuron	0	1
+FBbt_20010154	adult IN16B092 neuron	0	5
+FBbt_20009928	adult IN13B071 neuron	0	1
+FBbt_20009503	adult IN09A052 neuron	0	5
+FBbt_20009193	adult IN06A100 neuron	0	4
+FBbt_20009027	adult IN04B088 neuron	0	4
+FBbt_20010669	adult IN21A052 neuron	0	2
+FBbt_20010527	adult IN19B097 neuron	0	2
+FBbt_20010165	adult IN16B103 neuron	0	2
+FBbt_20009651	adult IN11B009 neuron	0	4
+FBbt_20008638	adult IN01B017 neuron	0	4
+FBbt_20008666	adult IN01B046 neuron	0	7
+FBbt_20009834	adult IN13A046 neuron	0	6
+FBbt_20010321	adult IN18B048 neuron	0	5
+FBbt_20010801	adult IN23B077 neuron	0	2
+FBbt_20010160	adult IN16B098 neuron	0	7
+FBbt_20008186	adult ANXXX445 neuron	0	2
+FBbt_20010019	adult IN14A066 neuron	0	2
+FBbt_20007973	adult AN10B045 neuron	0	10
+FBbt_20009157	adult IN06A059 neuron	0	19
+FBbt_20010128	adult IN16B064 neuron	0	4
+FBbt_20009782	adult IN12B084 neuron	0	2
+FBbt_20010685	adult IN21A068 neuron	0	1
+FBbt_20009184	adult IN06A089 neuron	0	2
+FBbt_20007789	adult AN06A092 neuron	0	9
+FBbt_20008081	adult AN19B100 neuron	0	2
+FBbt_20008607	adult IN01A069 neuron	0	7
+FBbt_20009845	adult IN13A058 neuron	0	4
+FBbt_20008972	adult IN04B031 neuron	0	10
+FBbt_20008677	adult IN01B057 neuron	0	2
+FBbt_20010000	adult IN14A046 neuron	0	2
+FBbt_20008003	adult AN16B078 neuron	0	13
+FBbt_20009805	adult IN13A017 neuron	0	2
+FBbt_20010691	adult IN21A074 neuron	0	1
+FBbt_20010025	adult IN14A072 neuron	0	2
+FBbt_20010169	adult IN16B107 neuron	0	3
+FBbt_20009047	adult IN04B108 neuron	0	6
+FBbt_20009813	adult IN13A025 neuron	0	4
+FBbt_20010546	adult IN20A.22A018 neuron	0	10
+FBbt_20010800	adult IN23B076 neuron	0	2
+FBbt_20010686	adult IN21A069 neuron	0	1
+FBbt_20010403	adult IN19A084 neuron	0	6
+FBbt_20009847	adult IN13A060 neuron	0	8
+FBbt_20010049	adult IN14A097 neuron	0	2
+FBbt_20007914	adult AN08B111 neuron	0	2
+FBbt_20009832	adult IN13A044 neuron	0	6
+FBbt_20009173	adult IN06A077 neuron	0	4
+FBbt_20009202	adult IN06A109 neuron	0	6
+FBbt_20009402	adult IN08A049 neuron	0	4
+FBbt_20007860	adult AN07B097 neuron	0	2
+FBbt_20008486	adult IN00A011 neuron	0	8
+FBbt_20009223	adult IN06A131 neuron	0	2
+FBbt_20008764	adult IN02A053 neuron	0	2
+FBbt_20010584	adult IN20A.22A058 neuron	0	8
+FBbt_20010679	adult IN21A062 neuron	0	2
+FBbt_20010050	adult IN14A098 neuron	0	2
+FBbt_20009562	adult IN09B050 neuron	0	2
+FBbt_20008522	adult IN00A049 neuron	0	4
+FBbt_20010104	adult IN16B038 neuron	0	2
+FBbt_20009640	adult IN11A040 neuron	0	3
+FBbt_20008670	adult IN01B050 neuron	0	4
+FBbt_20007907	adult AN08B101 neuron	0	6
+FBbt_20010251	adult IN17A092 neuron	0	2
+FBbt_20010277	adult IN17A119 neuron	0	4
+FBbt_20010804	adult IN23B080 neuron	0	2
+FBbt_20008859	adult IN03A083 neuron	0	6
+FBbt_20010033	adult IN14A081 neuron	0	4
+FBbt_20009737	adult IN12B035 neuron	0	6
+FBbt_20010035	adult IN14A083 neuron	0	2
+FBbt_20009694	adult IN12A048 neuron	0	2
+FBbt_20007997	adult AN12B076 neuron	0	2
+FBbt_20010040	adult IN14A088 neuron	0	2
+FBbt_20009510	adult IN09A059 neuron	0	2
+FBbt_20009508	adult IN09A057 neuron	0	6
+FBbt_20010159	adult IN16B097 neuron	0	6
+FBbt_20007859	adult AN07B095 neuron	0	2
+FBbt_20009383	adult IN08A030 neuron	0	10
+FBbt_20010260	adult IN17A101 neuron	0	2
+FBbt_20007903	adult AN08B097 neuron	0	5
+FBbt_20009943	adult IN13B088 neuron	0	4
+FBbt_20010164	adult IN16B102 neuron	0	2
+FBbt_20010559	adult IN20A.22A033 neuron	0	7
+FBbt_20010036	adult IN14A084 neuron	0	2
+FBbt_20010010	adult IN14A057 neuron	0	2
+FBbt_20010037	adult IN14A085 neuron	0	4
+FBbt_20009453	adult IN08B105 neuron	0	2
+FBbt_20010046	adult IN14A094 neuron	0	1
+FBbt_20010016	adult IN14A063 neuron	0	2
+FBbt_20009505	adult IN09A054 neuron	0	6
+FBbt_20008930	adult IN03B081 neuron	0	5
+FBbt_20010583	adult IN20A.22A057 neuron	0	2
+FBbt_20009213	adult IN06A121 neuron	0	2
+FBbt_20009051	adult IN04B112 neuron	0	6
+FBbt_20010799	adult IN23B075 neuron	0	1
+FBbt_20010812	adult IN23B088 neuron	0	3
+FBbt_20009448	adult IN08B090 neuron	0	2
+FBbt_20009519	adult IN09A068 neuron	0	2
+FBbt_20010012	adult IN14A059 neuron	0	3
+FBbt_20007970	adult AN10B035 neuron	0	11
+FBbt_20010802	adult IN23B078 neuron	0	4
+FBbt_20009500	adult IN09A049 neuron	0	6
+FBbt_20009509	adult IN09A058 neuron	0	3
+FBbt_20009944	adult IN13B089 neuron	0	4
+FBbt_20009781	adult IN12B083 neuron	0	2
+FBbt_20010271	adult IN17A113 neuron	0	4
+FBbt_20010526	adult IN19B096 neuron	0	2
+FBbt_20008512	adult IN00A039 neuron	0	2
+FBbt_20007856	adult AN07B088 neuron	0	1
+FBbt_20010707	adult IN21A090 neuron	0	2
+FBbt_20009937	adult IN13B080 neuron	0	4
+FBbt_20010017	adult IN14A064 neuron	0	5
+FBbt_20008516	adult IN00A043 neuron	0	3
+FBbt_20008659	adult IN01B039 neuron	0	4
+FBbt_20010022	adult IN14A069 neuron	0	2
+FBbt_20010216	adult IN17A051 neuron	0	2
+FBbt_20010171	adult IN16B109 neuron	0	2
+FBbt_20009049	adult IN04B110 neuron	0	4
+FBbt_20010423	adult IN19A105 neuron	0	2
+FBbt_20009773	adult IN12B073 neuron	0	6
+FBbt_20010031	adult IN14A079 neuron	0	2
+FBbt_20009723	adult IN12B021 neuron	0	2
+FBbt_20010315	adult IN18B042 neuron	0	6
+FBbt_20008667	adult IN01B047 neuron	0	2
+FBbt_20007911	adult AN08B107 neuron	0	2
+FBbt_20009563	adult IN09B051 neuron	0	2
+FBbt_20009048	adult IN04B109 neuron	0	3
+FBbt_20009636	adult IN11A034 neuron	0	4
+FBbt_20008661	adult IN01B041 neuron	0	4
+FBbt_20008080	adult AN19B099 neuron	0	4
+FBbt_20010167	adult IN16B105 neuron	0	4
+FBbt_20010074	adult IN14A122 neuron	0	1
+FBbt_20008663	adult IN01B043 neuron	0	3
+FBbt_20010429	adult IN19A111 neuron	0	2
+FBbt_20009758	adult IN12B057 neuron	0	5
+FBbt_20010773	adult IN23B049 neuron	0	6
+FBbt_20008499	adult IN00A026 neuron	0	7
+FBbt_20010309	adult IN18B036 neuron	0	2
+FBbt_20007737	adult AN05B035 neuron	0	2
+FBbt_20008179	adult ANXXX362 neuron	0	1
+FBbt_20008015	adult AN17A015 neuron	0	8
+FBbt_20007926	adult AN09B011 neuron	0	2
+FBbt_20008019	adult AN17A031 neuron	0	2
+FBbt_20008414	adult DNxn156 neuron	0	2
+FBbt_20009129	adult IN06A028 neuron	0	6
+FBbt_20008308	adult DNxl086 neuron	0	2
+FBbt_20008422	adult DNxn164 neuron	0	2
+FBbt_20007549	descending neuron of the posterior brain DNp49	0	2
+FBbt_20008307	adult DNxl085 neuron	0	2
+FBbt_20011318	adult SNxx22 neuron	0	35
+FBbt_20008418	adult DNxn160 neuron	0	2
+FBbt_20008283	adult DNxl022 neuron	0	2
+FBbt_20010484	adult IN19B040 neuron	0	4
+FBbt_20010296	adult IN18B016 neuron	0	4
+FBbt_20010479	adult IN19B033 neuron	0	2
+FBbt_20007962	adult AN10B022 neuron	0	6
+FBbt_20008332	adult DNxl111 neuron	0	2
+FBbt_20007548	descending neuron of the posterior brain DNp38	0	2
+FBbt_20009720	adult IN12B016 neuron	0	2
+FBbt_20011299	adult SNxx03 neuron	0	225
+FBbt_20007933	adult AN09B019 neuron	0	4
+FBbt_20008334	adult DNxl113 neuron	0	2
+FBbt_20007991	adult AN12B008 neuron	0	4
+FBbt_20007836	adult AN07B043 neuron	0	2
+FBbt_20007880	adult AN08B028 neuron	0	4
+FBbt_20008314	adult DNxl093 neuron	0	2
+FBbt_00053150	mesothoracic pleural remotor muscle motor neuron	0	6
+FBbt_20008443	adult DNxn185 neuron	0	2
+FBbt_20010205	adult IN17A037 neuron	0	4
+FBbt_20007501	descending neuron of the gnathal ganglion DNg56	0	2
+FBbt_20008415	adult DNxn157 neuron	0	2
+FBbt_20008883	adult IN03B022 neuron	0	2
+FBbt_20008294	adult DNxl072 neuron	0	2
+FBbt_00052729	ps2 motor neuron	0	2
+FBbt_20011249	adult SNpp21 neuron	0	4
+FBbt_20011258	adult SNpp49 neuron	0	6
+FBbt_20008354	adult DNxl133 neuron	0	2
+FBbt_20008417	adult DNxn159 neuron	0	2
+FBbt_20009904	adult IN13B047 neuron	0	1
+FBbt_20009370	adult IN08A012 neuron	0	2
+FBbt_20010301	adult IN18B026 neuron	0	2
+FBbt_20011223	adult MNml85 neuron	0	1
+FBbt_20007506	descending neuron of the gnathal ganglion DNg64	0	2
+FBbt_20008559	adult IN01A017 neuron	0	2
+FBbt_20011257	adult SNpp48 neuron	0	6
+FBbt_20008792	adult IN03A016 neuron	0	2
+FBbt_20008017	adult AN17A024 neuron	0	6
+FBbt_20009134	adult IN06A035 neuron	0	2
+FBbt_20007782	adult AN06A026 neuron	0	4
+FBbt_20009112	adult IN06A005 neuron	0	2
+FBbt_20008409	adult DNxn151 neuron	0	2
+FBbt_20009211	adult IN06A119 neuron	0	4
+FBbt_20011251	adult SNpp25 neuron	0	6
+FBbt_20008390	adult DNxn132 neuron	0	2
+FBbt_20008429	adult DNxn171 neuron	0	2
+FBbt_20008431	adult DNxn173 neuron	0	2
+FBbt_20011247	adult SNpp15 neuron	0	6
+FBbt_20009686	adult IN12A027 neuron	0	4
+FBbt_20008063	adult AN19B036 neuron	0	4
+FBbt_20007865	adult AN08B009 neuron	0	5
+FBbt_20008740	adult IN02A028 neuron	0	2
+FBbt_20008408	adult DNxn150 neuron	0	2
+FBbt_20008008	adult AN17A003 neuron	0	6
+FBbt_20008361	adult DNxn102 neuron	0	2
+FBbt_20008291	adult DNxl068 neuron	0	2
+FBbt_20007988	adult AN12B004 neuron	0	6
+FBbt_20008299	adult DNxl077 neuron	0	4
+FBbt_20007935	adult AN09B021 neuron	0	2
+FBbt_20008304	adult DNxl082 neuron	0	2
+FBbt_20008410	adult DNxn152 neuron	0	2
+FBbt_20011301	adult SNxx05 neuron	0	78
+FBbt_20008045	adult AN18B053 neuron	0	6
+FBbt_20009646	adult IN11B002 neuron	0	2
+FBbt_20009710	adult IN12B004 neuron	0	2
+FBbt_20008333	adult DNxl112 neuron	0	2
+FBbt_20008316	adult DNxl095 neuron	0	2
+FBbt_20010465	adult IN19B007 neuron	0	2
+FBbt_20007948	adult AN09B036 neuron	0	2
+FBbt_20007870	adult AN08B015 neuron	0	2
+FBbt_20008554	adult IN01A011 neuron	0	6
+FBbt_20009242	adult IN06B018 neuron	0	2
+FBbt_20008285	adult DNxl053 neuron	0	2
+FBbt_20009162	adult IN06A066 neuron	0	6
+FBbt_20007551	descending neuron of the posterior brain DNp65	0	2
+FBbt_20009065	adult IN05B016 neuron	0	4
+FBbt_20008319	adult DNxl098 neuron	0	2
+FBbt_20011244	adult SNpp12 neuron	0	2
+FBbt_20008009	adult AN17A004 neuron	0	2
+FBbt_20007517	descending neuron of the gnathal ganglion DNg79	0	4
+FBbt_00052181	descending neuron of the posterior brain DNp42	0	2
+FBbt_20007470	descending neuron of the gnathal ganglion DNg97	0	2
+FBbt_20011315	adult SNxx19 neuron	0	13
+FBbt_20007811	adult AN06B045 neuron	0	2
+FBbt_20011297	adult SNxx01 neuron	0	69
+FBbt_20008445	adult DNxn187 neuron	0	2
+FBbt_00059260	haltere dorsal ventral muscle motor neuron	0	2
+FBbt_20008282	adult DNxl021 neuron	0	2
+FBbt_20008062	adult AN19B032 neuron	0	2
+FBbt_20007931	adult AN09B016 neuron	0	2
+FBbt_20010734	adult IN23B006 neuron	0	4
+FBbt_20007525	descending neuron of the gnathal ganglion DNg88	0	2
+FBbt_20009246	adult IN06B022 neuron	0	2
+FBbt_00052731	haltere axillary muscle I1	0	2
+FBbt_20011148	adult MNad28 neuron	0	2
+FBbt_20011316	adult SNxx20 neuron	0	31
+FBbt_20009408	adult IN08B017 neuron	0	2
+FBbt_20010195	adult IN17A023 neuron	0	2
+FBbt_20009148	adult IN06A050 neuron	0	4
+FBbt_20011302	adult SNxx06 neuron	0	95
+FBbt_20007479	descending neuron of the gnathal ganglion DNg107	0	2
+FBbt_20007876	adult AN08B024 neuron	0	6
+FBbt_20008551	adult IN01A008 neuron	0	2
+FBbt_20009255	adult IN06B035 neuron	0	4
+FBbt_20008286	adult DNxl056 neuron	0	2
+FBbt_20008882	adult IN03B021 neuron	0	6
+FBbt_20008091	adult AN23B026 neuron	0	2
+FBbt_20009124	adult IN06A021 neuron	0	2
+FBbt_20008325	adult DNxl104 neuron	0	2
+FBbt_20009209	adult IN06A117 neuron	0	10
+FBbt_20007489	descending neuron of the gnathal ganglion DNg45	0	2
+FBbt_20008879	adult IN03B016 neuron	0	2
+FBbt_20008346	adult DNxl125 neuron	0	2
+FBbt_20007798	adult AN06B012 neuron	0	2
+FBbt_20008738	adult IN02A024 neuron	0	2
+FBbt_20008293	adult DNxl071 neuron	0	4
+FBbt_20009649	adult IN11B005 neuron	0	2
+FBbt_20008297	adult DNxl075 neuron	0	4
+FBbt_20008295	adult DNxl073 neuron	0	2
+FBbt_20008383	adult DNxn125 neuron	0	2
+FBbt_20008365	adult DNxn106 neuron	0	5
+FBbt_20008342	adult DNxl121 neuron	0	2
+FBbt_00053049	adult fruitless dMS10 neuron	0	2
+FBbt_20008412	adult DNxn154 neuron	0	2
+FBbt_20007519	descending neuron of the gnathal ganglion DNg82	0	2
+FBbt_20008275	adult DNut054 neuron	0	16
+FBbt_20011273	adult SNta22 neuron	0	12
+FBbt_20009647	adult IN11B003 neuron	0	4
+FBbt_20008372	adult DNxn113 neuron	0	2
+FBbt_20008274	adult DNut053 neuron	0	2
+FBbt_20010337	adult IN19A009 neuron	0	4
+FBbt_20008234	adult DNit011 neuron	0	1
+FBbt_20008432	adult DNxn174 neuron	0	2
+FBbt_20007797	adult AN06B011 neuron	0	2
+FBbt_20008271	adult DNut050 neuron	0	2
+FBbt_20008549	adult IN01A005 neuron	0	4
+FBbt_20010334	adult IN19A006 neuron	0	6
+FBbt_20008396	adult DNxn138 neuron	0	2
+FBbt_20008276	adult DNut057 neuron	0	2
+FBbt_20011248	adult SNpp20 neuron	0	9
+FBbt_20011252	adult SNpp34 neuron	0	8
+FBbt_20010342	adult IN19A014 neuron	0	4
+FBbt_20011287	adult SNta36 neuron	0	11
+FBbt_20008272	adult DNut051 neuron	0	2
+FBbt_20008449	adult DNxn191 neuron	0	1
+FBbt_20007472	descending neuron of the gnathal ganglion DNg99	0	2
+FBbt_20010340	adult IN19A012 neuron	0	4
+FBbt_20008442	adult DNxn184 neuron	0	2
+FBbt_20008018	adult AN17A026 neuron	0	2
+FBbt_20009121	adult IN06A018 neuron	0	2
+FBbt_20009821	adult IN13A033 neuron	0	2
+FBbt_20007867	adult AN08B012 neuron	0	4
+FBbt_20007888	adult AN08B050 neuron	0	2
+FBbt_20011269	adult SNta13 neuron	0	6
+FBbt_20007828	adult AN07B025 neuron	0	2
+FBbt_20007512	descending neuron of the gnathal ganglion DNg71	0	2
+FBbt_20011274	adult SNta23 neuron	0	85
+FBbt_20007528	descending neuron of the gnathal ganglion DNg91	0	2
+FBbt_20008381	adult DNxn123 neuron	0	2
+FBbt_20008378	adult DNxn119 neuron	0	4
+FBbt_20010199	adult IN17A029 neuron	0	2
+FBbt_20008337	adult DNxl116 neuron	0	2
+FBbt_20008279	adult DNut060 neuron	0	2
+FBbt_00052773	dorsal ventral indirect flight muscle motor neuron 2	0	4
+FBbt_20008394	adult DNxn136 neuron	0	2
+FBbt_20008553	adult IN01A010 neuron	0	4
+FBbt_20007486	descending neuron of the gnathal ganglion DNg42	0	2
+FBbt_20009243	adult IN06B019 neuron	0	2
+FBbt_20008380	adult DNxn122 neuron	0	2
+FBbt_20008240	adult DNml001 neuron	0	2
+FBbt_20008259	adult DNut037 neuron	0	2
+FBbt_20007509	descending neuron of the gnathal ganglion DNg67	0	2
+FBbt_20008022	adult AN17A062 neuron	0	6
+FBbt_20007781	adult AN06A018 neuron	0	2
+FBbt_20008729	adult IN02A012 neuron	0	4
+FBbt_20009652	adult IN11B011 neuron	0	2
+FBbt_20008269	adult DNut048 neuron	0	2
+FBbt_20009717	adult IN12B013 neuron	0	4
+FBbt_00053057	descending neuron of the anterior ventral brain DNb09	0	2
+FBbt_20009253	adult IN06B032 neuron	0	2
+FBbt_20008416	adult DNxn158 neuron	0	2
+FBbt_20008264	adult DNut043 neuron	0	2
+FBbt_20008296	adult DNxl074 neuron	0	2
+FBbt_20007826	adult AN07B021 neuron	0	2
+FBbt_20009293	adult IN06B084 neuron	0	2
+FBbt_20008892	adult IN03B036 neuron	0	2
+FBbt_20011246	adult SNpp14 neuron	0	6
+FBbt_20011212	adult MNml10 neuron	0	2
+FBbt_20008360	adult DNxn101 neuron	0	2
+FBbt_20008089	adult AN23B004 neuron	0	2
+FBbt_20007960	adult AN10B020 neuron	0	6
+FBbt_20008562	adult IN01A020 neuron	0	2
+FBbt_20008382	adult DNxn124 neuron	0	2
+FBbt_20008301	adult DNxl079 neuron	0	2
+FBbt_20008430	adult DNxn172 neuron	0	2
+FBbt_20009820	adult IN13A032 neuron	0	4
+FBbt_20009920	adult IN13B063 neuron	0	3
+FBbt_20010469	adult IN19B013 neuron	0	4
+FBbt_20008278	adult DNut059 neuron	0	2
+FBbt_00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	0	4
+FBbt_20007547	descending neuron of the posterior brain DNp73	0	2
+FBbt_20008010	adult AN17A008 neuron	0	2
+FBbt_20007943	adult AN09B031 neuron	0	2
+FBbt_20008392	adult DNxn134 neuron	0	2
+FBbt_00053115	mesothoracic accessory trochanter levator muscle motor neuron	0	4
+FBbt_20008395	adult DNxn137 neuron	0	2
+FBbt_20008968	adult IN04B027 neuron	0	5
+FBbt_20008039	adult AN18B019 neuron	0	4
+FBbt_00053169	descending neuron of the posterior brain DNp54	0	2
+FBbt_20008281	adult DNut062 neuron	0	1
+FBbt_20008386	adult DNxn128 neuron	0	7
+FBbt_20011226	adult MNxm02 neuron	0	2
+FBbt_20009653	adult IN11B012 neuron	0	2
+FBbt_20009810	adult IN13A022 neuron	0	7
+FBbt_20010204	adult IN17A035 neuron	0	2
+FBbt_20008373	adult DNxn114 neuron	0	2
+FBbt_20008328	adult DNxl107 neuron	0	2
+FBbt_20009312	adult IN07B026 neuron	0	2
+FBbt_20008401	adult DNxn143 neuron	0	2
+FBbt_20008413	adult DNxn155 neuron	0	2
+FBbt_20008379	adult DNxn121 neuron	0	2
+FBbt_20009371	adult IN08A016 neuron	0	4
+FBbt_20008564	adult IN01A023 neuron	0	6
+FBbt_20011253	adult SNpp35 neuron	0	6
+FBbt_20008376	adult DNxn117 neuron	0	5
+FBbt_20008550	adult IN01A007 neuron	0	4
+FBbt_20009123	adult IN06A020 neuron	0	4
+FBbt_20008377	adult DNxn118 neuron	0	2
+FBbt_20010346	adult IN19A019 neuron	0	4
+FBbt_20008427	adult DNxn169 neuron	0	2
+FBbt_20008953	adult IN04B011 neuron	0	5
+FBbt_20008261	adult DNut040 neuron	0	2
+FBbt_20007531	descending neuron of the gnathal ganglion DNg94	0	2
+FBbt_20010478	adult IN19B031 neuron	0	2
+FBbt_20008782	adult IN03A005 neuron	0	2
+FBbt_20007827	adult AN07B024 neuron	0	2
+FBbt_20008265	adult DNut044 neuron	0	2
+FBbt_20009881	adult IN13B024 neuron	0	2
+FBbt_20008552	adult IN01A009 neuron	0	4
+FBbt_20008451	adult DNxn193 neuron	0	1
+FBbt_20009461	adult IN09A009 neuron	0	4
+FBbt_20009458	adult IN09A004 neuron	0	4
+FBbt_20010736	adult IN23B008 neuron	0	8
+FBbt_20008977	adult IN04B036 neuron	0	9
+FBbt_20008326	adult DNxl105 neuron	0	2
+FBbt_20008345	adult DNxl124 neuron	0	2
+FBbt_20007990	adult AN12B006 neuron	0	2
+FBbt_00058100	prothoracic coxal strand receptor neuron	0	2
+FBbt_20008570	adult IN01A029 neuron	0	2
+FBbt_20009910	adult IN13B053 neuron	0	2
+FBbt_20011259	adult SNpp55 neuron	0	2
+FBbt_20011298	adult SNxx02 neuron	0	27
+FBbt_20010456	adult IN19A138 neuron	0	1
+FBbt_20009898	adult IN13B041 neuron	0	2
+FBbt_00053151	metathoracic pleural remotor muscle motor neuron	0	4
+FBbt_20008322	adult DNxl101 neuron	0	2
+FBbt_20008964	adult IN04B022 neuron	0	4
+FBbt_20009860	adult IN13A073 neuron	0	1
+FBbt_20008347	adult DNxl126 neuron	0	2
+FBbt_20009235	adult IN06B008 neuron	0	6
+FBbt_20008315	adult DNxl094 neuron	0	2
+FBbt_20008353	adult DNxl132 neuron	0	2
+FBbt_20007474	descending neuron of the gnathal ganglion DNg103	0	2
+FBbt_00051917	adult mute subesophageal neuron	0	4
+FBbt_20009070	adult IN05B021 neuron	0	2
+FBbt_20008331	adult DNxl110 neuron	0	2
+FBbt_20009888	adult IN13B031 neuron	0	2
+FBbt_20011190	adult MNhl01 neuron	0	2
+FBbt_20007735	adult AN05B027 neuron	0	2
+FBbt_20008339	adult DNxl118 neuron	0	2
+FBbt_20008437	adult DNxn179 neuron	0	4
+FBbt_00053116	metathoracic accessory trochanter levator muscle motor neuron	0	6
+FBbt_20007494	descending neuron of the gnathal ganglion DNg50	0	2
+FBbt_20011309	adult SNxx13 neuron	0	14
+FBbt_20011303	adult SNxx07 neuron	0	35
+FBbt_20007932	adult AN09B018 neuron	0	8
+FBbt_20008310	adult DNxl088 neuron	0	2
+FBbt_00053148	metathoracic femoral pretarsal depressor muscle motor neuron	0	4
+FBbt_20010472	adult IN19B020 neuron	0	2
+FBbt_20007739	adult AN05B040 neuron	0	2
+FBbt_20008888	adult IN03B031 neuron	0	2
+FBbt_20008400	adult DNxn142 neuron	0	2
+FBbt_20010303	adult IN18B028 neuron	0	2
+FBbt_20009853	adult IN13A066 neuron	0	1
+FBbt_20007468	descending neuron of the gnathal ganglion DNg95	0	2
+FBbt_20008323	adult DNxl102 neuron	0	2
+FBbt_20008351	adult DNxl130 neuron	0	2
+FBbt_20008885	adult IN03B025 neuron	0	2
+FBbt_20008350	adult DNxl129 neuron	0	2
+FBbt_20008419	adult DNxn161 neuron	0	2
+FBbt_20008336	adult DNxl115 neuron	0	2
+FBbt_20007481	descending neuron of the gnathal ganglion DNg109	0	2
+FBbt_20008306	adult DNxl084 neuron	0	2
+FBbt_20009410	adult IN08B021 neuron	0	2
+FBbt_20009814	adult IN13A026 neuron	0	2
+FBbt_20007473	descending neuron of the gnathal ganglion DNg100	0	2
+FBbt_20010452	adult IN19A134 neuron	0	1
+FBbt_20008305	adult DNxl083 neuron	0	2
+FBbt_20010293	adult IN18B013 neuron	0	2
+FBbt_20008143	adult ANXXX127 neuron	0	2
+FBbt_20010481	adult IN19B035 neuron	0	4
+FBbt_20009071	adult IN05B022 neuron	0	4
+FBbt_20011197	adult MNhl63 neuron	0	2
+FBbt_20008016	adult AN17A018 neuron	0	6
+FBbt_20008302	adult DNxl080 neuron	0	2
+FBbt_20008287	adult DNxl063 neuron	0	2
+FBbt_20007869	adult AN08B014 neuron	0	2
+FBbt_20008289	adult DNxl066 neuron	0	2
+FBbt_20007673	descending neuron of the gnathal ganglion DNg70	0	2
+FBbt_20009066	adult IN05B017 neuron	0	6
+FBbt_20009147	adult IN06A049 neuron	0	2
+FBbt_20010475	adult IN19B027 neuron	0	2
+FBbt_20008634	adult IN01B013 neuron	0	1
+FBbt_20010084	adult IN14B008 neuron	0	2
+FBbt_20009072	adult IN05B024 neuron	0	2
+FBbt_20008335	adult DNxl114 neuron	0	2
+FBbt_20010931	adult INXXX227 neuron	0	2
+FBbt_20007731	adult AN05B021 neuron	0	2
+FBbt_20008435	adult DNxn177 neuron	0	2
+FBbt_20009077	adult IN05B033 neuron	0	4
+FBbt_20009552	adult IN09B018 neuron	0	2
+FBbt_20009069	adult IN05B020 neuron	0	2
+FBbt_20008568	adult IN01A027 neuron	0	2
+FBbt_20007312	descending neuron of the outside anterior cluster DNd04	0	2
+FBbt_20011305	adult SNxx09 neuron	0	2
+FBbt_20007732	adult AN05B024 neuron	0	2
+FBbt_00052182	descending neuron of the posterior brain DNp43	0	2
+FBbt_20011196	adult MNhl62 neuron	0	2
+FBbt_20007510	descending neuron of the gnathal ganglion DNg68	0	2
+FBbt_20009865	adult IN13B007 neuron	0	2
+FBbt_20007550	descending neuron of the posterior brain DNp58	0	2
+FBbt_00051889	adult gumdrop subesophageal neuron	0	2
+FBbt_20010742	adult IN23B016 neuron	0	2
+FBbt_20008398	adult DNxn140 neuron	0	2
+FBbt_20007471	descending neuron of the gnathal ganglion DNg98	0	2
+FBbt_20009063	adult IN05B013 neuron	0	2
+FBbt_20008357	adult DNxn071 neuron	0	2
+FBbt_20008438	adult DNxn180 neuron	0	2
+FBbt_20008362	adult DNxn103 neuron	0	2
+FBbt_20011314	adult SNxx18 neuron	0	1
+FBbt_20010353	adult IN19A028 neuron	0	2
+FBbt_20010473	adult IN19B021 neuron	0	4
+FBbt_20007730	adult AN05B017 neuron	0	2
+FBbt_20011308	adult SNxx12 neuron	0	13
+FBbt_20008440	adult DNxn182 neuron	0	2
+FBbt_20011313	adult SNxx17 neuron	0	6
+FBbt_20009372	adult IN08A017 neuron	0	4
+FBbt_20007924	adult AN09B007 neuron	0	2
+FBbt_20008635	adult IN01B014 neuron	0	4
+FBbt_20007508	descending neuron of the gnathal ganglion DNg66	0	2
+FBbt_20011304	adult SNxx08 neuron	0	6
+FBbt_20011306	adult SNxx10 neuron	0	25
+FBbt_20008944	adult IN04B001 neuron	0	2
+FBbt_20009877	adult IN13B020 neuron	0	2
+FBbt_20009079	adult IN05B036 neuron	0	2
+FBbt_20008388	adult DNxn130 neuron	0	2
+FBbt_20008439	adult DNxn181 neuron	0	2
+FBbt_20008399	adult DNxn141 neuron	0	2
+FBbt_20009250	adult IN06B028 neuron	0	4
+FBbt_20011193	adult MNhl59 neuron	0	2
+FBbt_20009068	adult IN05B019 neuron	0	2
+FBbt_20011319	adult SNxx23 neuron	0	31
+FBbt_20009160	adult IN06A064 neuron	0	6
+FBbt_20011327	adult SNxx31 neuron	0	2
+FBbt_20011307	adult SNxx11 neuron	0	15
+FBbt_20011205	adult MNhl71 neuron	0	1
+FBbt_20008558	adult IN01A016 neuron	0	2
+FBbt_20008191	adult DNad005 neuron	0	2
+FBbt_20008421	adult DNxn163 neuron	0	2
+FBbt_00053156	metathoracic tergotrochanter extensor muscle motor neuron	0	2
+FBbt_20009067	adult IN05B018 neuron	0	2
+FBbt_20010085	adult IN14B009 neuron	0	2
+FBbt_20009310	adult IN07B022 neuron	0	2
+FBbt_20009249	adult IN06B027 neuron	0	2
+FBbt_20008728	adult IN02A011 neuron	0	2
+FBbt_20007871	adult AN08B016 neuron	0	2
+FBbt_20008318	adult DNxl097 neuron	0	2
+FBbt_20008434	adult DNxn176 neuron	0	2
+FBbt_20011300	adult SNxx04 neuron	0	123
+FBbt_00051201	adult aSP22 (male) descending neuron	0	2
+FBbt_20009311	adult IN07B023 neuron	0	4
+FBbt_20008014	adult AN17A014 neuron	0	6
+FBbt_20009675	adult IN12A011 neuron	0	4
+FBbt_20008479	adult IN00A003 neuron	0	2
+FBbt_20009299	adult IN07B006 neuron	0	6
+FBbt_20007469	descending neuron of the gnathal ganglion DNg96	0	2
+FBbt_20007985	adult AN12A003 neuron	0	2
+FBbt_20008791	adult IN03A015 neuron	0	2
+FBbt_20008483	adult IN00A008 neuron	0	1
+FBbt_20007524	descending neuron of the gnathal ganglion DNg87	0	2
+FBbt_20008424	adult DNxn166 neuron	0	2
+FBbt_20010976	adult INXXX284 neuron	0	2
+FBbt_20010352	adult IN19A027 neuron	0	4
+FBbt_20011311	adult SNxx15 neuron	0	10
+FBbt_00053044	adult fruitless dMS9 neuron	0	2
+FBbt_20009320	adult IN07B034 neuron	0	2
+FBbt_20009679	adult IN12A016 neuron	0	4
+FBbt_20008327	adult DNxl106 neuron	0	4
+FBbt_00051961	adult web subesophageal neuron	0	4
+FBbt_20008881	adult IN03B020 neuron	0	4
+FBbt_20010304	adult IN18B029 neuron	0	2
+FBbt_20008348	adult DNxl127 neuron	0	2
+FBbt_20008053	adult AN19B014 neuron	0	2
+FBbt_20009307	adult IN07B016 neuron	0	2
+FBbt_20009084	adult IN05B042 neuron	0	4
+FBbt_20007712	adult AN03B011 neuron	0	4
+FBbt_20010359	adult IN19A034 neuron	0	2
+FBbt_20011317	adult SNxx21 neuron	0	20
+FBbt_20011323	adult SNxx27 neuron	0	2
+FBbt_20009319	adult IN07B033 neuron	0	4
+FBbt_20007488	descending neuron of the gnathal ganglion DNg44	0	2
+FBbt_20008312	adult DNxl091 neuron	0	2
+FBbt_20010852	adult INXXX056 neuron	0	2
+FBbt_20011227	adult MNxm03 neuron	0	2
+FBbt_20011328	adult SNxx32 neuron	0	2
+FBbt_20008876	adult IN03B011 neuron	0	2
+FBbt_20009314	adult IN07B028 neuron	0	2
+FBbt_20008886	adult IN03B028 neuron	0	2
+FBbt_20008343	adult DNxl122 neuron	0	2
+FBbt_20011310	adult SNxx14 neuron	0	59
+FBbt_20008303	adult DNxl081 neuron	0	2
+FBbt_20008313	adult DNxl092 neuron	0	2
+FBbt_20011230	adult SAxx01 neuron	0	12
+FBbt_20009671	adult IN12A007 neuron	0	2
+FBbt_20011232	adult SNch01 neuron	0	36
+FBbt_20007718	adult AN04B001 neuron	0	4
+FBbt_20008441	adult DNxn183 neuron	0	2
+FBbt_20010345	adult IN19A017 neuron	0	2
+FBbt_20009236	adult IN06B012 neuron	0	2
+FBbt_20007829	adult AN07B032 neuron	0	2
+FBbt_20007714	adult AN03B050 neuron	0	2
+FBbt_20007945	adult AN09B033 neuron	0	6
+FBbt_20009667	adult IN12A003 neuron	0	4
+FBbt_20008433	adult DNxn175 neuron	0	2
+FBbt_20009240	adult IN06B016 neuron	0	4
+FBbt_20009252	adult IN06B030 neuron	0	4
+FBbt_20007480	descending neuron of the gnathal ganglion DNg108	0	2
+FBbt_20007514	descending neuron of the gnathal ganglion DNg75	0	2
+FBbt_20008341	adult DNxl120 neuron	0	2
+FBbt_20007921	adult AN09B003 neuron	0	4
+FBbt_00049697	descending neuron of the posterior brain DNp44	0	2
+FBbt_20009687	adult IN12A029 neuron	0	4
+FBbt_20010470	adult IN19B015 neuron	0	2
+FBbt_20010291	adult IN18B011 neuron	0	4
+FBbt_20008731	adult IN02A014 neuron	0	2
+FBbt_20010881	adult INXXX121 neuron	0	2
+FBbt_20008061	adult AN19B028 neuron	0	2
+FBbt_20008069	adult AN19B051 neuron	0	4
+FBbt_20008321	adult DNxl100 neuron	0	2
+FBbt_20008320	adult DNxl099 neuron	0	2
+FBbt_20007487	descending neuron of the gnathal ganglion DNg43	0	2
+FBbt_00051922	adult oval subesophageal neuron	0	2
+FBbt_20007511	descending neuron of the gnathal ganglion DNg69	0	2
+FBbt_20007736	adult AN05B029 neuron	0	2
+FBbt_20011146	adult MNad26 neuron	0	2
+FBbt_20007515	descending neuron of the gnathal ganglion DNg76	0	2
+FBbt_20007711	adult AN03B009 neuron	0	2
+FBbt_20010305	adult IN18B032 neuron	0	3
+FBbt_20008788	adult IN03A012 neuron	0	2
+FBbt_20008567	adult IN01A026 neuron	0	2
+FBbt_20008329	adult DNxl108 neuron	0	2
+FBbt_20007475	descending neuron of the gnathal ganglion DNg104	0	2
+FBbt_20008349	adult DNxl128 neuron	0	2
+FBbt_20008317	adult DNxl096 neuron	0	2
+FBbt_20010921	adult INXXX213 neuron	0	6
+FBbt_20010910	adult INXXX193 neuron	0	2
+FBbt_20011256	adult SNpp46 neuron	0	4
+FBbt_20010638	adult IN21A021 neuron	0	2
+FBbt_20007946	adult AN09B034 neuron	0	2
+FBbt_20008561	adult IN01A019 neuron	0	2
+FBbt_20008447	adult DNxn189 neuron	0	1
+FBbt_20009073	adult IN05B028 neuron	0	6
+FBbt_20008298	adult DNxl076 neuron	0	2
+FBbt_20007941	adult AN09B029 neuron	0	4
+FBbt_20008384	adult DNxn126 neuron	0	2
+FBbt_20010944	adult INXXX242 neuron	0	2
+FBbt_20008344	adult DNxl123 neuron	0	2
+FBbt_20008426	adult DNxn168 neuron	0	2
+FBbt_20010357	adult IN19A032 neuron	0	6
+FBbt_20007742	adult AN05B046 neuron	0	3
+FBbt_20008436	adult DNxn178 neuron	0	2
+FBbt_20011312	adult SNxx16 neuron	0	6
+FBbt_20008423	adult DNxn165 neuron	0	2
+FBbt_20008036	adult AN18B002 neuron	0	2
+FBbt_20007821	adult AN07B011 neuron	0	2
+FBbt_20009409	adult IN08B019 neuron	0	2
+FBbt_20008444	adult DNxn186 neuron	0	2
+FBbt_20008052	adult AN19B010 neuron	0	2
+FBbt_20010300	adult IN18B021 neuron	0	6
+FBbt_20009244	adult IN06B020 neuron	0	2
+FBbt_20010287	adult IN18B005 neuron	0	4
+FBbt_20007476	descending neuron of the gnathal ganglion DNg105	0	2
+FBbt_20008420	adult DNxn162 neuron	0	2
+FBbt_20007507	descending neuron of the gnathal ganglion DNg65	0	2
+FBbt_20009665	adult IN12A001 neuron	0	4
+FBbt_20010295	adult IN18B015 neuron	0	2
+FBbt_20008284	adult DNxl049 neuron	0	2
+FBbt_20008340	adult DNxl119 neuron	0	2
+FBbt_20008355	adult DNxl134 neuron	0	2
+FBbt_20008405	adult DNxn147 neuron	0	2
+FBbt_20010080	adult IN14B004 neuron	0	2
+FBbt_20007738	adult AN05B036 neuron	0	2
+FBbt_20010341	adult IN19A013 neuron	0	4
+FBbt_20008216	adult DNfl037 neuron	0	4
+FBbt_20009806	adult IN13A018 neuron	0	6
+FBbt_20010640	adult IN21A023 neuron	0	6
+FBbt_20007493	descending neuron of the gnathal ganglion DNg49	0	2
+FBbt_20009808	adult IN13A020 neuron	0	8
+FBbt_20011189	adult MNfl10 neuron	0	2
+FBbt_20009809	adult IN13A021 neuron	0	6
+FBbt_00051912	adult mesa subesophageal neuron	0	2
+FBbt_20008211	adult DNfl032 neuron	0	2
+FBbt_20008566	adult IN01A025 neuron	0	6
+FBbt_20011240	adult SNch13 neuron	0	9
+FBbt_20008364	adult DNxn105 neuron	0	3
+FBbt_20008222	adult DNfl043 neuron	0	1
+FBbt_20009801	adult IN13A012 neuron	0	6
+FBbt_20011235	adult SNch07 neuron	0	81
+FBbt_20010107	adult IN16B041 neuron	0	6
+FBbt_20007492	descending neuron of the gnathal ganglion DNg48	0	2
+FBbt_20009464	adult IN09A012 neuron	0	6
+FBbt_00051938	adult sink subesophageal neuron	0	1
+FBbt_20008255	adult DNnt021 neuron	0	1
+FBbt_20010347	adult IN19A020 neuron	0	6
+FBbt_20008221	adult DNfl042 neuron	0	2
+FBbt_20011118	adult INXXX466 neuron	0	6
+FBbt_20011242	adult SNch15 neuron	0	14
+FBbt_20008245	adult DNnt011 neuron	0	16
+FBbt_20008178	adult ANXXX338 neuron	0	1
+FBbt_20010348	adult IN19A021 neuron	0	6
+FBbt_20011228	adult SAch01 neuron	0	45
+FBbt_20011236	adult SNch08 neuron	0	13
+FBbt_20010335	adult IN19A007 neuron	0	6
+FBbt_20010098	adult IN16B030 neuron	0	6
+FBbt_20008406	adult DNxn148 neuron	0	2
+FBbt_00049556	femoral chordotonal club neuron	0	183
+FBbt_20008578	adult IN01A038 neuron	0	12
+FBbt_20008247	adult DNnt013 neuron	0	4
+FBbt_20008047	adult AN19A019 neuron	0	2
+FBbt_20007707	adult AN02A025 neuron	0	2
+FBbt_20007520	descending neuron of the gnathal ganglion DNg83	0	2
+FBbt_20008253	adult DNnt019 neuron	0	2
+FBbt_20011239	adult SNch11 neuron	0	45
+FBbt_20011234	adult SNch06 neuron	0	116
+FBbt_00053114	prothoracic accessory trochanter levator muscle motor neuron	0	6
+FBbt_20011255	adult SNpp44 neuron	0	6
+FBbt_20008249	adult DNnt015 neuron	0	2
+FBbt_20008448	adult DNxn190 neuron	0	1
+FBbt_20007513	descending neuron of the gnathal ganglion DNg73	0	2
+FBbt_20008187	adult ANXXX453 neuron	0	2
+FBbt_20008223	adult DNfl044 neuron	0	1
+FBbt_20008208	adult DNfl029 neuron	0	4
+FBbt_20008192	adult DNfl012 neuron	0	2
+FBbt_20010344	adult IN19A016 neuron	0	12
+FBbt_20008403	adult DNxn145 neuron	0	2
+FBbt_00051420	adult mechanosensory neuron	0	19
+FBbt_20008404	adult DNxn146 neuron	0	2
+FBbt_00049557	femoral chordotonal claw neuron	0	88
+FBbt_00051861	adult bract subesophageal neuron	0	4
+FBbt_00053104	prothoracic pleural remotor and abductor muscle motor neuron	0	4
+FBbt_20010097	adult IN16B029 neuron	0	6
+FBbt_20009798	adult IN13A009 neuron	0	6
+FBbt_20007526	descending neuron of the gnathal ganglion DNg89	0	2
+FBbt_20008244	adult DNnt010 neuron	0	4
+FBbt_20007823	adult AN07B015 neuron	0	5
+FBbt_20008205	adult DNfl026 neuron	0	2
+FBbt_20011283	adult SNta32 neuron	0	45
+FBbt_20008256	adult DNnt022 neuron	0	1
+FBbt_20010217	adult IN17A052 neuron	0	12
+FBbt_20008252	adult DNnt018 neuron	0	2
+FBbt_20009466	adult IN09A014 neuron	0	6
+FBbt_20010380	adult IN19A058 neuron	0	2
+FBbt_20010629	adult IN21A012 neuron	0	6
+FBbt_20010749	adult IN23B024 neuron	0	6
+FBbt_20008214	adult DNfl035 neuron	0	2
+FBbt_20010100	adult IN16B033 neuron	0	6
+FBbt_20008198	adult DNfl018 neuron	0	2
+FBbt_20008573	adult IN01A032 neuron	0	6
+FBbt_20009875	adult IN13B018 neuron	0	6
+FBbt_20010108	adult IN16B042 neuron	0	12
+FBbt_20009554	adult IN09B038 neuron	0	12
+FBbt_20008402	adult DNxn144 neuron	0	10
+FBbt_20008220	adult DNfl041 neuron	0	2
+FBbt_20011120	adult INXXX468 neuron	0	12
+FBbt_20010099	adult IN16B032 neuron	0	6
+FBbt_20008580	adult IN01A040 neuron	0	6
+FBbt_20009892	adult IN13B035 neuron	0	6
+FBbt_20009863	adult IN13B005 neuron	0	6
+FBbt_20007830	adult AN07B035 neuron	0	5
+FBbt_20009483	adult IN09A031 neuron	0	6
+FBbt_20010095	adult IN16B022 neuron	0	4
+FBbt_20007710	adult AN03A008 neuron	0	2
+FBbt_20008557	adult IN01A015 neuron	0	6
+FBbt_20011281	adult SNta30 neuron	0	86
+FBbt_20009965	adult IN14A010 neuron	0	6
+FBbt_20009897	adult IN13B040 neuron	0	2
+FBbt_20009911	adult IN13B054 neuron	0	6
+FBbt_20011250	adult SNpp23 neuron	0	17
+FBbt_20010081	adult IN14B005 neuron	0	4
+FBbt_20009462	adult IN09A010 neuron	0	6
+FBbt_20010636	adult IN21A019 neuron	0	6
+FBbt_20009880	adult IN13B023 neuron	0	6
+FBbt_20008956	adult IN04B014 neuron	0	2
+FBbt_20009916	adult IN13B059 neuron	0	2
+FBbt_20009870	adult IN13B012 neuron	0	6
+FBbt_20011276	adult SNta25 neuron	0	53
+FBbt_20011241	adult SNch14 neuron	0	12
+FBbt_20007491	descending neuron of the gnathal ganglion DNg47	0	2
+FBbt_20011229	adult SAch02 neuron	0	14
+FBbt_20008290	adult DNxl067 neuron	0	4
+FBbt_20008425	adult DNxn167 neuron	0	2
+FBbt_20008358	adult DNxn073 neuron	0	2
+FBbt_20010196	adult IN17A025 neuron	0	6
+FBbt_20009914	adult IN13B057 neuron	0	6
+FBbt_20009876	adult IN13B019 neuron	0	6
+FBbt_20010194	adult IN17A022 neuron	0	6
+FBbt_20011243	adult SNch16 neuron	0	13
+FBbt_20009251	adult IN06B029 neuron	0	12
+FBbt_20008407	adult DNxn149 neuron	0	2
+FBbt_20008248	adult DNnt014 neuron	0	4
+FBbt_20007721	adult AN04B023 neuron	0	6
+FBbt_20007498	descending neuron of the gnathal ganglion DNg53	0	2
+FBbt_20009890	adult IN13B033 neuron	0	7
+FBbt_20008978	adult IN04B037 neuron	0	6
+FBbt_20009912	adult IN13B055 neuron	0	6
+FBbt_20010641	adult IN21A024 neuron	0	6
+FBbt_20010350	adult IN19A024 neuron	0	4
+FBbt_20008254	adult DNnt020 neuron	0	2
+FBbt_20007516	descending neuron of the gnathal ganglion DNg78	0	2
+FBbt_20007942	adult AN09B030 neuron	0	4
+FBbt_20009412	adult IN08B030 neuron	0	4
+FBbt_20010285	adult IN17B014 neuron	0	2
+FBbt_20009122	adult IN06A019 neuron	0	8
+FBbt_20007881	adult AN08B032 neuron	0	2
+FBbt_20009116	adult IN06A011 neuron	0	6
+FBbt_20010739	adult IN23B012 neuron	0	2
+FBbt_20007939	adult AN09B027 neuron	0	2
+FBbt_20009082	adult IN05B039 neuron	0	2
+FBbt_20009469	adult IN09A017 neuron	0	6
+FBbt_20010200	adult IN17A030 neuron	0	2
+FBbt_20009873	adult IN13B015 neuron	0	2
+FBbt_20010203	adult IN17A034 neuron	0	1
+FBbt_20007805	adult AN06B034 neuron	0	2
+FBbt_20008490	adult IN00A016 neuron	0	2
+FBbt_20008798	adult IN03A022 neuron	0	4
+FBbt_20007883	adult AN08B035 neuron	0	2
+FBbt_20010480	adult IN19B034 neuron	0	2
+FBbt_20010738	adult IN23B011 neuron	0	2
+FBbt_20007804	adult AN06B031 neuron	0	4
+FBbt_20010202	adult IN17A033 neuron	0	2
+FBbt_20010482	adult IN19B037 neuron	0	2
+FBbt_20010358	adult IN19A033 neuron	0	2
+FBbt_20010207	adult IN17A040 neuron	0	2
+FBbt_20010477	adult IN19B030 neuron	0	2
+FBbt_20009075	adult IN05B031 neuron	0	2
+FBbt_20008031	adult AN17B011 neuron	0	2
+FBbt_20009678	adult IN12A015 neuron	0	4
+FBbt_20010018	adult IN14A065 neuron	0	2
+FBbt_20008893	adult IN03B037 neuron	0	2
+FBbt_20010893	adult INXXX143 neuron	0	2
+FBbt_20009683	adult IN12A024 neuron	0	2
+FBbt_20009074	adult IN05B030 neuron	0	2
+FBbt_20009421	adult IN08B045 neuron	0	2
+FBbt_20009126	adult IN06A023 neuron	0	2
+FBbt_20009417	adult IN08B039 neuron	0	1
+FBbt_20010210	adult IN17A043 neuron	0	2
+FBbt_20009418	adult IN08B040 neuron	0	6
+FBbt_20008020	adult AN17A047 neuron	0	2
+FBbt_20010089	adult IN14B013 neuron	0	2
+FBbt_20010229	adult IN17A066 neuron	0	2
+FBbt_20010220	adult IN17A056 neuron	0	2
+FBbt_20010121	adult IN16B057 neuron	0	1
+FBbt_20008900	adult IN03B051 neuron	0	2
+FBbt_20010485	adult IN19B041 neuron	0	2
+FBbt_20010226	adult IN17A063 neuron	0	2
+FBbt_20008954	adult IN04B012 neuron	0	4
+FBbt_20008163	adult ANXXX191 neuron	0	2
+FBbt_00053100	motor neuron of adult dorsal prothoracic nerve	0	8
+FBbt_20008797	adult IN03A021 neuron	0	2
+FBbt_20010925	adult INXXX219 neuron	0	2
+FBbt_20010642	adult IN21A025 neuron	0	1
+FBbt_20008733	adult IN02A018 neuron	0	2
+FBbt_20008168	adult ANXXX218 neuron	0	2
+FBbt_20008577	adult IN01A037 neuron	0	2
+FBbt_20009682	adult IN12A021 neuron	0	7
+FBbt_20009437	adult IN08B073 neuron	0	2
+FBbt_20010286	adult IN17B015 neuron	0	4
+FBbt_20010201	adult IN17A032 neuron	0	2
+FBbt_20008041	adult AN18B022 neuron	0	2
+FBbt_20009411	adult IN08B029 neuron	0	2
+FBbt_20010209	adult IN17A042 neuron	0	2
+FBbt_20009117	adult IN06A012 neuron	0	2
+FBbt_20010904	adult INXXX180 neuron	0	2
+FBbt_20010102	adult IN16B036 neuron	0	6
+FBbt_20008195	adult DNfl015 neuron	0	2
+FBbt_20008219	adult DNfl040 neuron	0	2
+FBbt_20008367	adult DNxn108 neuron	0	4
+FBbt_20011238	adult SNch10 neuron	0	93
+FBbt_20008450	adult DNxn192 neuron	0	1
+FBbt_20009857	adult IN13A070 neuron	0	1
+FBbt_20008206	adult DNfl027 neuron	0	2
+FBbt_20008199	adult DNfl019 neuron	0	2
+FBbt_20008224	adult DNfl045 neuron	0	1
+FBbt_20008446	adult DNxn188 neuron	0	1
+FBbt_20008203	adult DNfl024 neuron	0	2
+FBbt_20008194	adult DNfl014 neuron	0	2
+FBbt_20008250	adult DNnt016 neuron	0	2
+FBbt_20008197	adult DNfl017 neuron	0	2
+FBbt_20008231	adult DNit008 neuron	0	2
+FBbt_20007518	descending neuron of the gnathal ganglion DNg81	0	2
+FBbt_20011285	adult SNta34 neuron	0	53
+FBbt_20009363	adult IN08A002 neuron	0	6
+FBbt_20011233	adult SNch05 neuron	0	239
+FBbt_20008251	adult DNnt017 neuron	0	4
+FBbt_20008242	adult DNnt008 neuron	0	8
+FBbt_20008200	adult DNfl020 neuron	0	2
+FBbt_20011271	adult SNta20 neuron	0	139
+FBbt_20008241	adult DNnt007 neuron	0	11
+FBbt_20007490	descending neuron of the gnathal ganglion DNg46	0	2
+FBbt_20011237	adult SNch09 neuron	0	70
+FBbt_00049558	femoral chordotonal hook neuron	0	57
+FBbt_20008048	adult AN19A038 neuron	0	2
+FBbt_20011272	adult SNta21 neuron	0	99
+FBbt_00052600	prothoracic femoral pretarsal depressor muscle motor neuron	0	4
+FBbt_20008213	adult DNfl034 neuron	0	2
+FBbt_20009413	adult IN08B033 neuron	0	2
+FBbt_20008204	adult DNfl025 neuron	0	2
+FBbt_20010356	adult IN19A031 neuron	0	2
+FBbt_20009118	adult IN06A013 neuron	0	2
+FBbt_20009609	adult IN11A004 neuron	0	2
+FBbt_20010297	adult IN18B017 neuron	0	2
+FBbt_20011277	adult SNta26 neuron	0	46
+FBbt_20008243	adult DNnt009 neuron	0	2
+FBbt_20011282	adult SNta31 neuron	0	63
+FBbt_20011292	adult SNta41 neuron	0	38
+FBbt_20011293	adult SNta42 neuron	0	94
+FBbt_20008212	adult DNfl033 neuron	0	2
+FBbt_20011280	adult SNta29 neuron	0	235
+FBbt_20011295	adult SNta44 neuron	0	66
+FBbt_20011291	adult SNta40 neuron	0	55
+FBbt_20011289	adult SNta38 neuron	0	118
+FBbt_20008218	adult DNfl039 neuron	0	2
+FBbt_20008201	adult DNfl022 neuron	0	2
+FBbt_20007504	descending neuron of the gnathal ganglion DNg62	0	2
+FBbt_20008232	adult DNit009 neuron	0	1
+FBbt_20008210	adult DNfl031 neuron	0	2
+FBbt_20008196	adult DNfl016 neuron	0	4
+FBbt_20008207	adult DNfl028 neuron	0	5
+FBbt_20008202	adult DNfl023 neuron	0	2
+FBbt_20011279	adult SNta28 neuron	0	91
+FBbt_20008397	adult DNxn139 neuron	0	7
+FBbt_20008215	adult DNfl036 neuron	0	2
+FBbt_20011329	adult SNxx33 neuron	0	95
+FBbt_20008209	adult DNfl030 neuron	0	2
+FBbt_20010208	adult IN17A041 neuron	0	6
+FBbt_20010329	adult IN19A001 neuron	0	6
+FBbt_20010536	adult IN20A.22A007 neuron	0	12
+FBbt_20009807	adult IN13A019 neuron	0	6
+FBbt_20008368	adult DNxn109 neuron	0	19
+FBbt_20008055	adult AN19B017 neuron	0	2
+FBbt_00052772	dorsal ventral indirect flight muscle motor neuron 1	0	6
+FBbt_20009317	adult IN07B031 neuron	0	4
+FBbt_20011320	adult SNxx24 neuron	0	2
+FBbt_20009472	adult IN09A020 neuron	0	6
+FBbt_20007477	descending neuron of the gnathal ganglion DNg106	0	9
+FBbt_20008726	adult IN02A008 neuron	0	2
+FBbt_20008057	adult AN19B019 neuron	0	2
+FBbt_20008387	adult DNxn129 neuron	0	2
+FBbt_20011264	adult SNta05 neuron	0	7
+FBbt_20008324	adult DNxl103 neuron	0	2
+FBbt_20008230	adult DNit007 neuron	0	6
+FBbt_20008375	adult DNxn116 neuron	0	7
+FBbt_20008238	adult DNlt010 neuron	0	2
+FBbt_20009316	adult IN07B030 neuron	0	4
+FBbt_20010735	adult IN23B007 neuron	0	6
+FBbt_20007674	descending neuron of the gnathal ganglion DNg72	0	2
+FBbt_20011245	adult SNpp13 neuron	0	2
+FBbt_20007808	adult AN06B040 neuron	0	2
+FBbt_20008228	adult DNit005 neuron	0	4
+FBbt_20011321	adult SNxx25 neuron	0	11
+FBbt_20008311	adult DNxl090 neuron	0	2
+FBbt_20008359	adult DNxn100 neuron	0	6
+FBbt_20011268	adult SNta12 neuron	0	3
+FBbt_20009607	adult IN11A002 neuron	0	4
+FBbt_20008411	adult DNxn153 neuron	0	2
+FBbt_20008884	adult IN03B024 neuron	0	2
+FBbt_20011225	adult MNxm01 neuron	0	2
+FBbt_20007938	adult AN09B026 neuron	0	2
+FBbt_20009138	adult IN06A039 neuron	0	2
+FBbt_20010193	adult IN17A020 neuron	0	6
+FBbt_20008366	adult DNxn107 neuron	0	2
+FBbt_20008235	adult DNit012 neuron	0	1
+FBbt_20008236	adult DNit013 neuron	0	1
+FBbt_20008889	adult IN03B032 neuron	0	4
+FBbt_20009584	adult IN10B025 neuron	0	2
+FBbt_20008258	adult DNut036 neuron	0	6
+FBbt_20011284	adult SNta33 neuron	0	30
+FBbt_20007521	descending neuron of the gnathal ganglion DNg84	0	2
+FBbt_20007994	adult AN12B019 neuron	0	6
+FBbt_20008493	adult IN00A019 neuron	0	4
+FBbt_20008369	adult DNxn110 neuron	0	4
+FBbt_20008489	adult IN00A014 neuron	0	4
+FBbt_20008054	adult AN19B015 neuron	0	2
+FBbt_20011324	adult SNxx28 neuron	0	6
+FBbt_20008280	adult DNut061 neuron	0	1
+FBbt_20008229	adult DNit006 neuron	0	6
+FBbt_20007834	adult AN07B041 neuron	0	4
+FBbt_20011265	adult SNta06 neuron	0	10
+FBbt_20007873	adult AN08B020 neuron	0	2
+FBbt_20007920	adult AN09B002 neuron	0	2
+FBbt_20010531	adult IN20A.22A002 neuron	0	4
+FBbt_20011260	adult SNpp61 neuron	0	10
+FBbt_20011261	adult SNpp62 neuron	0	8
+FBbt_20007500	descending neuron of the gnathal ganglion DNg55	0	1
+FBbt_20008292	adult DNxl070 neuron	0	2
+FBbt_20011322	adult SNxx26 neuron	0	10
+FBbt_20008227	adult DNit004 neuron	0	2
+FBbt_20007696	adult AN01B005 neuron	0	6
+FBbt_20007878	adult AN08B026 neuron	0	6
+FBbt_20008233	adult DNit010 neuron	0	1
+FBbt_20007704	adult AN02A016 neuron	0	2
+FBbt_20009872	adult IN13B014 neuron	0	6
+FBbt_20010187	adult IN17A007 neuron	0	6
+FBbt_00051886	adult genie subesophageal neuron	0	2
+FBbt_20008185	adult ANXXX434 neuron	0	2
+FBbt_20008266	adult DNut045 neuron	0	2
+FBbt_20007527	descending neuron of the gnathal ganglion DNg90	0	2
+FBbt_20008890	adult IN03B034 neuron	0	2
+FBbt_20008273	adult DNut052 neuron	0	4
+FBbt_20007485	descending neuron of the gnathal ganglion DNg111	0	2
+FBbt_20009608	adult IN11A003 neuron	0	8
+FBbt_20008263	adult DNut042 neuron	0	11
+FBbt_20008059	adult AN19B024 neuron	0	4
+FBbt_20008371	adult DNxn112 neuron	0	6
+FBbt_20007505	descending neuron of the gnathal ganglion DNg63	0	2
+FBbt_20008225	adult DNht001 neuron	0	23
+FBbt_20008056	adult AN19B018 neuron	0	2
+FBbt_20010206	adult IN17A039 neuron	0	3
+FBbt_20008267	adult DNut046 neuron	0	14
+FBbt_20008370	adult DNxn111 neuron	0	2
+FBbt_20009163	adult IN06A067 neuron	0	10
+FBbt_20008785	adult IN03A009 neuron	0	4
+FBbt_20008268	adult DNut047 neuron	0	2
+FBbt_20007722	adult AN04B051 neuron	0	2
+FBbt_20007552	descending neuron outside of the brain DNx02	0	4
+FBbt_20007777	adult AN06A010 neuron	0	2
+FBbt_20009718	adult IN12B014 neuron	0	4
+FBbt_20008363	adult DNxn104 neuron	0	4
+FBbt_20008300	adult DNxl078 neuron	0	2
+FBbt_20007546	descending neuron of the posterior brain DNp72	0	3
+FBbt_20007937	adult AN09B024 neuron	0	2
+FBbt_20007940	adult AN09B028 neuron	0	4
+FBbt_20010224	adult IN17A060 neuron	0	4
+FBbt_20008226	adult DNit003 neuron	0	3
+FBbt_20008560	adult IN01A018 neuron	0	2
+FBbt_20010474	adult IN19B023 neuron	0	2
+FBbt_20008878	adult IN03B015 neuron	0	4
+FBbt_20008330	adult DNxl109 neuron	0	2
+FBbt_20007503	descending neuron of the gnathal ganglion DNg59	0	2
+FBbt_20008032	adult AN17B012 neuron	0	2
+FBbt_20008277	adult DNut058 neuron	0	3
+FBbt_20008262	adult DNut041 neuron	0	2
+FBbt_20008356	adult DNxl135 neuron	0	1
+FBbt_20009247	adult IN06B024 neuron	0	4
+FBbt_20007495	descending neuron of the gnathal ganglion DNg51	0	4
+FBbt_20008309	adult DNxl087 neuron	0	2
+FBbt_20008338	adult DNxl117 neuron	0	2
+FBbt_20008389	adult DNxn131 neuron	0	2
+FBbt_20007825	adult AN07B018 neuron	0	2
+FBbt_20008487	adult IN00A012 neuron	0	2
+FBbt_20008393	adult DNxn135 neuron	0	2
+FBbt_00052727	wing axillary muscle hg3 motor neuron	0	2
+FBbt_20010733	adult IN23B005 neuron	0	4
+FBbt_20009315	adult IN07B029 neuron	0	6
+FBbt_20008288	adult DNxl065 neuron	0	2
+FBbt_20008352	adult DNxl131 neuron	0	2
+FBbt_00053164	adult prosternal sense organ neuron	0	29
+FBbt_20011267	adult SNta10 neuron	0	7
+FBbt_20008385	adult DNxn127 neuron	0	2
+FBbt_20008485	adult IN00A010 neuron	0	2
+FBbt_20008270	adult DNut049 neuron	0	2
+FBbt_20007803	adult AN06B026 neuron	0	2
+FBbt_20009583	adult IN10B023 neuron	0	4
+FBbt_20008090	adult AN23B010 neuron	0	2
+FBbt_20008735	adult IN02A020 neuron	0	6
+FBbt_00051940	adult snake subesophageal neuron	0	2
+FBbt_20007783	adult AN06A027 neuron	0	2
+FBbt_20009804	adult IN13A015 neuron	0	6
+FBbt_20009465	adult IN09A013 neuron	0	6
+FBbt_20011270	adult SNta19 neuron	0	41
+FBbt_20010094	adult IN16B020 neuron	0	6
+FBbt_20008804	adult IN03A028 neuron	0	4
+FBbt_20011231	adult SAxx02 neuron	0	12
+FBbt_20007993	adult AN12B017 neuron	0	6
+FBbt_20011275	adult SNta24 neuron	0	8
+FBbt_20009883	adult IN13B026 neuron	0	6
+FBbt_20008963	adult IN04B021 neuron	0	2
+FBbt_20010530	adult IN20A.22A001 neuron	0	12
+FBbt_20009961	adult IN14A006 neuron	0	6
+FBbt_20008783	adult IN03A006 neuron	0	6
+FBbt_20010637	adult IN21A020 neuron	0	6
+FBbt_20009967	adult IN14A012 neuron	0	6
+FBbt_20008631	adult IN01B008 neuron	0	6
+FBbt_20008794	adult IN03A018 neuron	0	2
+FBbt_20010349	adult IN19A022 neuron	0	6
+FBbt_20010627	adult IN21A010 neuron	0	6
+FBbt_20010101	adult IN16B034 neuron	0	2
+FBbt_20008632	adult IN01B010 neuron	0	6
+FBbt_20010190	adult IN17A016 neuron	0	6
+FBbt_20008574	adult IN01A034 neuron	0	4
+FBbt_20009964	adult IN14A009 neuron	0	6
+FBbt_20011288	adult SNta37 neuron	0	164
+FBbt_20008640	adult IN01B020 neuron	0	6
+FBbt_20008784	adult IN03A007 neuron	0	6
+FBbt_20009895	adult IN13B038 neuron	0	6
+FBbt_20010535	adult IN20A.22A006 neuron	0	12
+FBbt_20009005	adult IN04B066 neuron	0	5
+FBbt_20008260	adult DNut039 neuron	0	2
+FBbt_20010355	adult IN19A030 neuron	0	6
+FBbt_20011278	adult SNta27 neuron	0	41
+FBbt_20009969	adult IN14A014 neuron	0	6
+FBbt_20010635	adult IN21A018 neuron	0	6
+FBbt_20011286	adult SNta35 neuron	0	33
+FBbt_20011326	adult SNxx30 neuron	0	6
+FBbt_20009929	adult IN13B072 neuron	0	2
+FBbt_20007499	descending neuron of the gnathal ganglion DNg54	0	2
+FBbt_20008732	adult IN02A015 neuron	0	6
+FBbt_20010333	adult IN19A005 neuron	0	6
+FBbt_20007833	adult AN07B040 neuron	0	2
+FBbt_20008891	adult IN03B035 neuron	0	8
+FBbt_20008051	adult AN19B009 neuron	0	4
+FBbt_20010354	adult IN19A029 neuron	0	6
+FBbt_20009907	adult IN13B050 neuron	0	6
+FBbt_20008979	adult IN04B038 neuron	0	3
+FBbt_20007817	adult AN06B075 neuron	0	2
+FBbt_20011296	adult SNta45 neuron	0	26
+FBbt_20008789	adult IN03A013 neuron	0	4
+FBbt_20009968	adult IN14A013 neuron	0	6
+FBbt_20009721	adult IN12B018 neuron	0	6
+FBbt_20009879	adult IN13B022 neuron	0	8
+FBbt_20010464	adult IN19B005 neuron	0	2
+FBbt_20009871	adult IN13B013 neuron	0	6
+FBbt_20010483	adult IN19B038 neuron	0	4
+FBbt_20007698	adult AN01B014 neuron	0	2
+FBbt_20009716	adult IN12B012 neuron	0	6
+FBbt_20009874	adult IN13B017 neuron	0	6
+FBbt_20007522	descending neuron of the gnathal ganglion DNg85	0	2
+FBbt_20009887	adult IN13B030 neuron	0	6
+FBbt_20008257	adult DNut034 neuron	0	4
+FBbt_20011294	adult SNta43 neuron	0	61
+FBbt_00051859	adult bobber subesophageal neuron	0	2
+FBbt_20008579	adult IN01A039 neuron	0	6
+FBbt_20008992	adult IN04B053 neuron	0	2
+FBbt_20007874	adult AN08B022 neuron	0	6
+FBbt_20009455	adult IN09A001 neuron	0	6
+FBbt_20011325	adult SNxx29 neuron	0	23
+FBbt_20009886	adult IN13B029 neuron	0	6
+FBbt_20009367	adult IN08A008 neuron	0	6
+FBbt_20008895	adult IN03B042 neuron	0	6
+FBbt_20007807	adult AN06B039 neuron	0	8
+FBbt_20009963	adult IN14A008 neuron	0	6
+FBbt_20008246	adult DNnt012 neuron	0	2
+FBbt_20008575	adult IN01A035 neuron	0	6
+FBbt_20008734	adult IN02A019 neuron	0	4
+FBbt_20009882	adult IN13B025 neuron	0	6
+FBbt_20008961	adult IN04B019 neuron	0	2
+FBbt_20010741	adult IN23B014 neuron	0	6
+FBbt_20007965	adult AN10B027 neuron	0	6
+FBbt_20008880	adult IN03B019 neuron	0	4
+FBbt_20007806	adult AN06B037 neuron	0	2
+FBbt_20008391	adult DNxn133 neuron	0	2
+FBbt_20011266	adult SNta09 neuron	0	121
+FBbt_20011262	adult SNta01 neuron	0	21
+FBbt_20008239	adult DNlt011 neuron	0	2
+FBbt_20007984	adult AN11B012 neuron	0	2
+FBbt_20009254	adult IN06B033 neuron	0	4
+FBbt_20008237	adult DNlt009 neuron	0	2
+FBbt_20011263	adult SNta02 neuron	0	72
+FBbt_00052774	dorsal ventral indirect flight muscle motor neuron 3	0	4
+FBbt_20009869	adult IN13B011 neuron	0	6
+FBbt_20008217	adult DNfl038 neuron	0	2
+FBbt_20008571	adult IN01A030 neuron	0	4
+FBbt_20009470	adult IN09A018 neuron	0	6
+FBbt_20008962	adult IN04B020 neuron	0	2
+FBbt_20010192	adult IN17A019 neuron	0	6
+FBbt_20010191	adult IN17A017 neuron	0	6
+FBbt_20010534	adult IN20A.22A005 neuron	0	6
+FBbt_20007815	adult AN06B057 neuron	0	2
+FBbt_20009878	adult IN13B021 neuron	0	6
+FBbt_20008555	adult IN01A012 neuron	0	6
+FBbt_20009966	adult IN14A011 neuron	0	6
+FBbt_20008987	adult IN04B047 neuron	0	2
+FBbt_20008790	adult IN03A014 neuron	0	6
+FBbt_20010532	adult IN20A.22A003 neuron	0	4
+FBbt_20009962	adult IN14A007 neuron	0	6
+FBbt_00053163	adult prosternal chordotonal organ neuron	0	51
+FBbt_20008193	adult DNfl013 neuron	0	2
+FBbt_20008576	adult IN01A036 neuron	0	6
+FBbt_20010533	adult IN20A.22A004 neuron	0	4
+FBbt_20008046	adult AN19A018 neuron	0	12
+FBbt_20009468	adult IN09A016 neuron	0	6
+FBbt_20008641	adult IN01B021 neuron	0	5
+FBbt_20010639	adult IN21A022 neuron	0	6
+FBbt_20011290	adult SNta39 neuron	0	38
+FBbt_20008975	adult IN04B034 neuron	0	4
+FBbt_20007944	adult AN09B032 neuron	0	4
+FBbt_20008374	adult DNxn115 neuron	0	7
+FBbt_20009884	adult IN13B027 neuron	0	6
+FBbt_20010628	adult IN21A011 neuron	0	6
+FBbt_20008428	adult DNxn170 neuron	0	2
+FBbt_20010713	adult IN21A096 neuron	0	2
+FBbt_20007787	adult AN06A062 neuron	0	4
+FBbt_20008617	adult IN01A079 neuron	0	10
+FBbt_20010927	adult INXXX221 neuron	0	3
+FBbt_20011160	adult MNad40 neuron	0	2
+FBbt_20010920	adult INXXX212 neuron	0	4
+FBbt_20010299	adult IN18B020 neuron	0	4
+FBbt_20008556	adult IN01A013 neuron	0	2
+FBbt_20010913	adult INXXX198 neuron	0	2
+FBbt_20011144	adult MNad24 neuron	0	2
+FBbt_20011135	adult MNad15 neuron	0	4
+FBbt_20008167	adult ANXXX214 neuron	0	2
+FBbt_20009802	adult IN13A013 neuron	0	4
+FBbt_20011153	adult MNad33 neuron	0	2
+FBbt_20008132	adult ANXXX092 neuron	0	2
+FBbt_20010360	adult IN19A036 neuron	0	2
+FBbt_00053146	metathoracic tibial pretarsal depressor muscle motor neuron	0	4
+FBbt_20007690	adult AN01A033 neuron	0	2
+FBbt_00053079	contralaterally projecting haltere interneuron	0	18
+FBbt_20008151	adult ANXXX148 neuron	0	4
+FBbt_20010914	adult INXXX199 neuron	0	2
+FBbt_20008455	adult EA27X006 neuron	0	2
+FBbt_20008569	adult IN01A028 neuron	0	2
+FBbt_20009420	adult IN08B044 neuron	0	1
+FBbt_20011170	adult MNad50 neuron	0	3
+FBbt_20010915	adult INXXX201 neuron	0	2
+FBbt_20010942	adult INXXX240 neuron	0	2
+FBbt_20011173	adult MNad53 neuron	0	4
+FBbt_20008469	adult EN00B024 neuron	0	1
+FBbt_20010885	adult INXXX129 neuron	0	2
+FBbt_20010937	adult INXXX234 neuron	0	1
+FBbt_20009650	adult IN11B006 neuron	0	2
+FBbt_20007831	adult AN07B036 neuron	0	2
+FBbt_20010935	adult INXXX232 neuron	0	1
+FBbt_20011174	adult MNad54 neuron	0	4
+FBbt_20007963	adult AN10B024 neuron	0	4
+FBbt_20007741	adult AN05B045 neuron	0	2
+FBbt_20010977	adult INXXX285 neuron	0	2
+FBbt_20008476	adult ENXXX286 neuron	0	2
+FBbt_20008586	adult IN01A046 neuron	0	2
+FBbt_20007784	adult AN06A030 neuron	0	2
+FBbt_20008725	adult IN02A007 neuron	0	4
+FBbt_20007691	adult AN01A049 neuron	0	2
+FBbt_20008572	adult IN01A031 neuron	0	6
+FBbt_20010907	adult INXXX184 neuron	0	2
+FBbt_20010919	adult INXXX211 neuron	0	4
+FBbt_20010840	adult INXXX034 neuron	0	1
+FBbt_20010103	adult IN16B037 neuron	0	6
+FBbt_20011168	adult MNad48 neuron	0	2
+FBbt_20010990	adult INXXX303 neuron	0	2
+FBbt_20008583	adult IN01A043 neuron	0	4
+FBbt_20009120	adult IN06A016 neuron	0	2
+FBbt_20010943	adult INXXX241 neuron	0	2
+FBbt_20011167	adult MNad47 neuron	0	2
+FBbt_20011165	adult MNad45 neuron	0	2
+FBbt_20009368	adult IN08A010 neuron	0	2
+FBbt_20010939	adult INXXX237 neuron	0	2
+FBbt_20010877	adult INXXX112 neuron	0	2
+FBbt_20008488	adult IN00A013 neuron	0	1
+FBbt_20007772	adult AN05B102 neuron	0	4
+FBbt_20010882	adult INXXX122 neuron	0	4
+FBbt_20009128	adult IN06A025 neuron	0	2
+FBbt_20011130	adult MNad10 neuron	0	4
+FBbt_20011208	adult MNhl74 neuron	0	1
+FBbt_20011169	adult MNad49 neuron	0	2
+FBbt_20009685	adult IN12A026 neuron	0	4
+FBbt_20010981	adult INXXX292 neuron	0	1
+FBbt_20008140	adult ANXXX109 neuron	0	2
+FBbt_20008470	adult EN00B027 neuron	0	2
+FBbt_20010900	adult INXXX161 neuron	0	4
+FBbt_20010868	adult INXXX091 neuron	0	2
+FBbt_20007875	adult AN08B023 neuron	0	6
+FBbt_20010898	adult INXXX158 neuron	0	2
+FBbt_20008466	adult EN00B019 neuron	0	1
+FBbt_20008453	adult EA00B022 neuron	0	1
+FBbt_20008468	adult EN00B021 neuron	0	2
+FBbt_20011180	adult MNad61 neuron	0	2
+FBbt_20010875	adult INXXX110 neuron	0	4
+FBbt_20008144	adult ANXXX130 neuron	0	2
+FBbt_20007923	adult AN09B006 neuron	0	2
+FBbt_20009313	adult IN07B027 neuron	0	4
+FBbt_20008138	adult ANXXX106 neuron	0	2
+FBbt_20008043	adult AN18B025 neuron	0	2
+FBbt_20010820	adult IN26X002 neuron	0	6
+FBbt_20007800	adult AN06B015 neuron	0	4
+FBbt_20008060	adult AN19B025 neuron	0	2
+FBbt_20007769	adult AN05B099 neuron	0	6
+FBbt_20008137	adult ANXXX102 neuron	0	2
+FBbt_20008150	adult ANXXX145 neuron	0	6
+FBbt_00053123	metathoracic tibial levator muscle motor neuron	0	4
+FBbt_20007778	adult AN06A015 neuron	0	2
+FBbt_20008129	adult ANXXX084 neuron	0	8
+FBbt_20007767	adult AN05B097 neuron	0	8
+FBbt_20008127	adult ANXXX075 neuron	0	2
+FBbt_20008161	adult ANXXX174 neuron	0	2
+FBbt_20010298	adult IN18B018 neuron	0	2
+FBbt_20008153	adult ANXXX151 neuron	0	2
+FBbt_20010843	adult INXXX038 neuron	0	2
+FBbt_20008584	adult IN01A044 neuron	0	2
+FBbt_20011132	adult MNad12 neuron	0	4
+FBbt_20010633	adult IN21A016 neuron	0	6
+FBbt_20011151	adult MNad31 neuron	0	2
+FBbt_20007956	adult AN10B015 neuron	0	6
+FBbt_20010929	adult INXXX224 neuron	0	2
+FBbt_20008164	adult ANXXX196 neuron	0	1
+FBbt_20010831	adult INXXX008 neuron	0	2
+FBbt_00052747	haltere axillary muscle III2 motor neuron	0	2
+FBbt_20010930	adult INXXX225 neuron	0	2
+FBbt_20011119	adult INXXX467 neuron	0	2
+FBbt_20009078	adult IN05B034 neuron	0	2
+FBbt_20010938	adult INXXX235 neuron	0	2
+FBbt_20010306	adult IN18B033 neuron	0	2
+FBbt_20009550	adult IN09B008 neuron	0	6
+FBbt_20007694	adult AN01B002 neuron	0	6
+FBbt_20008157	adult ANXXX165 neuron	0	2
+FBbt_20009684	adult IN12A025 neuron	0	4
+FBbt_20010992	adult INXXX305 neuron	0	1
+FBbt_20010908	adult INXXX188 neuron	0	2
+FBbt_20008148	adult ANXXX139 neuron	0	2
+FBbt_20010926	adult INXXX220 neuron	0	2
+FBbt_20010909	adult INXXX192 neuron	0	2
+FBbt_20010895	adult INXXX147 neuron	0	2
+FBbt_20010619	adult IN21A002 neuron	0	6
+FBbt_20007705	adult AN02A017 neuron	0	2
+FBbt_20011175	adult MNad55 neuron	0	2
+FBbt_20008002	adult AN14B012 neuron	0	2
+FBbt_20011172	adult MNad52 neuron	0	2
+FBbt_20008160	adult ANXXX171 neuron	0	2
+FBbt_20008100	adult AN27X018 neuron	0	2
+FBbt_20011210	adult MNhl87 neuron	0	2
+FBbt_20008030	adult AN17B009 neuron	0	2
+FBbt_20008497	adult IN00A024 neuron	0	6
+FBbt_20011013	adult INXXX335 neuron	0	2
+FBbt_20010632	adult IN21A015 neuron	0	6
+FBbt_20010923	adult INXXX216 neuron	0	1
+FBbt_20011021	adult INXXX346 neuron	0	2
+FBbt_20010113	adult IN16B049 neuron	0	4
+FBbt_20009109	adult IN06A002 neuron	0	2
+FBbt_20010490	adult IN19B050 neuron	0	8
+FBbt_20010932	adult INXXX228 neuron	0	8
+FBbt_20011008	adult INXXX329 neuron	0	5
+FBbt_20008142	adult ANXXX120 neuron	0	4
+FBbt_20007702	adult AN02A005 neuron	0	2
+FBbt_20011131	adult MNad11 neuron	0	8
+FBbt_20009645	adult IN11B001 neuron	0	6
+FBbt_20011028	adult INXXX353 neuron	0	4
+FBbt_20008119	adult ANXXX049 neuron	0	4
+FBbt_20010950	adult INXXX249 neuron	0	2
+FBbt_20011047	adult INXXX379 neuron	0	2
+FBbt_20010947	adult INXXX245 neuron	0	2
+FBbt_20010979	adult INXXX288 neuron	0	4
+FBbt_20008500	adult IN00A027 neuron	0	4
+FBbt_20007951	adult AN09B042 neuron	0	2
+FBbt_20007717	adult AN04A001 neuron	0	6
+FBbt_20011017	adult INXXX340 neuron	0	2
+FBbt_20011150	adult MNad30 neuron	0	2
+FBbt_20009141	adult IN06A043 neuron	0	2
+FBbt_20008177	adult ANXXX323 neuron	0	1
+FBbt_20010934	adult INXXX231 neuron	0	8
+FBbt_20010886	adult INXXX133 neuron	0	2
+FBbt_20008588	adult IN01A048 neuron	0	6
+FBbt_20007760	adult AN05B076 neuron	0	2
+FBbt_00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	0	4
+FBbt_20010975	adult INXXX283 neuron	0	5
+FBbt_20011042	adult INXXX374 neuron	0	2
+FBbt_20010093	adult IN16B018 neuron	0	6
+FBbt_20011081	adult INXXX418 neuron	0	4
+FBbt_20009549	adult IN09B006 neuron	0	4
+FBbt_20010972	adult INXXX280 neuron	0	4
+FBbt_20010510	adult IN19B078 neuron	0	4
+FBbt_20011024	adult INXXX349 neuron	0	1
+FBbt_20008189	adult ANXXX470 neuron	0	1
+FBbt_20010861	adult INXXX076 neuron	0	2
+FBbt_20010959	adult INXXX262 neuron	0	4
+FBbt_20011058	adult INXXX392 neuron	0	6
+FBbt_20010958	adult INXXX261 neuron	0	4
+FBbt_20011159	adult MNad39 neuron	0	1
+FBbt_20008117	adult ANXXX043 neuron	0	4
+FBbt_20007771	adult AN05B101 neuron	0	4
+FBbt_20010997	adult INXXX315 neuron	0	10
+FBbt_20008099	adult AN27X017 neuron	0	8
+FBbt_20011011	adult INXXX333 neuron	0	2
+FBbt_20008158	adult ANXXX169 neuron	0	10
+FBbt_20007959	adult AN10B019 neuron	0	6
+FBbt_20010850	adult INXXX053 neuron	0	2
+FBbt_20010967	adult INXXX271 neuron	0	4
+FBbt_20009797	adult IN13A008 neuron	0	6
+FBbt_20008101	adult AN27X019 neuron	0	1
+FBbt_20011029	adult INXXX354 neuron	0	2
+FBbt_20009668	adult IN12A004 neuron	0	2
+FBbt_20009709	adult IN12B003 neuron	0	6
+FBbt_20008181	adult ANXXX380 neuron	0	4
+FBbt_20011043	adult INXXX375 neuron	0	1
+FBbt_20010928	adult INXXX223 neuron	0	2
+FBbt_20008174	adult ANXXX308 neuron	0	2
+FBbt_20008029	adult AN17B008 neuron	0	6
+FBbt_20010737	adult IN23B009 neuron	0	8
+FBbt_20010948	adult INXXX246 neuron	0	4
+FBbt_20010974	adult INXXX282 neuron	0	2
+FBbt_20011152	adult MNad32 neuron	0	2
+FBbt_20010991	adult INXXX304 neuron	0	2
+FBbt_20010916	adult INXXX204 neuron	0	4
+FBbt_20011222	adult MNml84 neuron	0	1
+FBbt_20010945	adult INXXX243 neuron	0	4
+FBbt_20011134	adult MNad14 neuron	0	8
+FBbt_20010970	adult INXXX276 neuron	0	2
+FBbt_20008175	adult ANXXX313 neuron	0	2
+FBbt_20010896	adult INXXX149 neuron	0	6
+FBbt_20008173	adult ANXXX296 neuron	0	1
+FBbt_20010971	adult INXXX279 neuron	0	4
+FBbt_20010996	adult INXXX310 neuron	0	1
+FBbt_20011166	adult MNad46 neuron	0	2
+FBbt_20010987	adult INXXX300 neuron	0	2
+FBbt_20007740	adult AN05B044 neuron	0	2
+FBbt_20010918	adult INXXX209 neuron	0	2
+FBbt_20011001	adult INXXX320 neuron	0	2
+FBbt_20010993	adult INXXX306 neuron	0	4
+FBbt_20007720	adult AN04B004 neuron	0	2
+FBbt_20010962	adult INXXX266 neuron	0	2
+FBbt_20008112	adult ANXXX027 neuron	0	10
+FBbt_20010951	adult INXXX251 neuron	0	2
+FBbt_20007934	adult AN09B020 neuron	0	4
+FBbt_20011164	adult MNad44 neuron	0	2
+FBbt_20010969	adult INXXX275 neuron	0	2
+FBbt_20008172	adult ANXXX264 neuron	0	2
+FBbt_20011003	adult INXXX322 neuron	0	4
+FBbt_20011015	adult INXXX337 neuron	0	2
+FBbt_20011051	adult INXXX384 neuron	0	2
+FBbt_20011005	adult INXXX325 neuron	0	2
+FBbt_20010968	adult INXXX273 neuron	0	2
+FBbt_20010941	adult INXXX239 neuron	0	4
+FBbt_20010963	adult INXXX267 neuron	0	4
+FBbt_20009792	adult IN13A003 neuron	0	6
+FBbt_00053108	prothoracic sternotrochanter extensor muscle motor neuron	0	4
+FBbt_20011171	adult MNad51 neuron	0	2
+FBbt_20010936	adult INXXX233 neuron	0	2
+FBbt_00051966	haltere muscle motor neuron	0	6
+FBbt_20008165	adult ANXXX200 neuron	0	4
+FBbt_20010830	adult INXXX007 neuron	0	2
+FBbt_20010961	adult INXXX265 neuron	0	4
+FBbt_00052750	adult VNC ventral unpaired median neuron	0	20
+FBbt_20011022	adult INXXX347 neuron	0	2
+FBbt_20010949	adult INXXX247 neuron	0	4
+FBbt_20010964	adult INXXX268 neuron	0	2
+FBbt_20010088	adult IN14B012 neuron	0	4
+FBbt_20010986	adult INXXX299 neuron	0	1
+FBbt_20011163	adult MNad43 neuron	0	2
+FBbt_20008135	adult ANXXX098 neuron	0	6
+FBbt_20008154	adult ANXXX152 neuron	0	2
+FBbt_20008170	adult ANXXX254 neuron	0	2
+FBbt_20010995	adult INXXX309 neuron	0	2
+FBbt_20010954	adult INXXX256 neuron	0	1
+FBbt_20010492	adult IN19B053 neuron	0	2
+FBbt_20008471	adult EN21X001 neuron	0	4
+FBbt_20011023	adult INXXX348 neuron	0	4
+FBbt_20010999	adult INXXX317 neuron	0	2
+FBbt_20010884	adult INXXX126 neuron	0	8
+FBbt_20010083	adult IN14B007 neuron	0	4
+FBbt_20007775	adult AN05B105 neuron	0	2
+FBbt_20010829	adult INXXX004 neuron	0	2
+FBbt_20009795	adult IN13A006 neuron	0	6
+FBbt_00053080	wing contralaterally projecting haltere interneuron	0	14
+FBbt_20011187	adult MNad68 neuron	0	2
+FBbt_20009713	adult IN12B009 neuron	0	2
+FBbt_20008459	adult EN00B009 neuron	0	1
+FBbt_20009576	adult IN10B007 neuron	0	4
+FBbt_20009405	adult IN08B003 neuron	0	2
+FBbt_20010079	adult IN14B003 neuron	0	2
+FBbt_20007954	adult AN10B008 neuron	0	2
+FBbt_20009362	adult IN07B104 neuron	0	2
+FBbt_20009674	adult IN12A010 neuron	0	2
+FBbt_20009113	adult IN06A006 neuron	0	2
+FBbt_20008106	adult ANXXX008 neuron	0	2
+FBbt_20009960	adult IN14A005 neuron	0	6
+FBbt_20009575	adult IN10B006 neuron	0	2
+FBbt_20008948	adult IN04B006 neuron	0	3
+FBbt_20009712	adult IN12B007 neuron	0	6
+FBbt_20007796	adult AN06B009 neuron	0	2
+FBbt_20009365	adult IN08A005 neuron	0	6
+FBbt_20010862	adult INXXX077 neuron	0	2
+FBbt_20009302	adult IN07B009 neuron	0	4
+FBbt_20009666	adult IN12A002 neuron	0	4
+FBbt_20010462	adult IN19B003 neuron	0	6
+FBbt_20009456	adult IN09A002 neuron	0	6
+FBbt_00052752	adult mesothoracic VUM neuron 1	0	1
+FBbt_20009300	adult IN07B007 neuron	0	6
+FBbt_20008626	adult IN01B001 neuron	0	2
+FBbt_20008107	adult ANXXX013 neuron	0	2
+FBbt_20008114	adult ANXXX033 neuron	0	2
+FBbt_20007709	adult AN03A002 neuron	0	2
+FBbt_20010859	adult INXXX069 neuron	0	1
+FBbt_20008120	adult ANXXX050 neuron	0	2
+FBbt_20008465	adult EN00B018 neuron	0	1
+FBbt_20007764	adult AN05B094 neuron	0	2
+FBbt_20010874	adult INXXX107 neuron	0	2
+FBbt_20008098	adult AN27X016 neuron	0	2
+FBbt_20010624	adult IN21A007 neuron	0	6
+FBbt_20008946	adult IN04B004 neuron	0	3
+FBbt_20010289	adult IN18B008 neuron	0	2
+FBbt_20010844	adult INXXX039 neuron	0	2
+FBbt_20009366	adult IN08A007 neuron	0	6
+FBbt_20008001	adult AN14A003 neuron	0	6
+FBbt_20009669	adult IN12A005 neuron	0	2
+FBbt_20010280	adult IN17B003 neuron	0	2
+FBbt_20009957	adult IN14A001 neuron	0	6
+FBbt_20008096	adult AN27X013 neuron	0	4
+FBbt_20009793	adult IN13A004 neuron	0	4
+FBbt_20008126	adult ANXXX074 neuron	0	2
+FBbt_20010834	adult INXXX023 neuron	0	2
+FBbt_20010283	adult IN17B008 neuron	0	2
+FBbt_20008118	adult ANXXX046 neuron	0	2
+FBbt_20009958	adult IN14A002 neuron	0	6
+FBbt_20011183	adult MNad64 neuron	0	2
+FBbt_20008116	adult ANXXX041 neuron	0	4
+FBbt_20008723	adult IN02A004 neuron	0	2
+FBbt_20007819	adult AN07B004 neuron	0	2
+FBbt_20007792	adult AN06B002 neuron	0	6
+FBbt_20007793	adult AN06B004 neuron	0	2
+FBbt_20010854	adult INXXX062 neuron	0	4
+FBbt_20011184	adult MNad65 neuron	0	2
+FBbt_20008104	adult ANXXX006 neuron	0	2
+FBbt_20008547	adult IN01A003 neuron	0	2
+FBbt_20010902	adult INXXX173 neuron	0	2
+FBbt_20010282	adult IN17B006 neuron	0	2
+FBbt_20007727	adult AN05B009 neuron	0	4
+FBbt_20009457	adult IN09A003 neuron	0	6
+FBbt_20011162	adult MNad42 neuron	0	2
+FBbt_20007802	adult AN06B025 neuron	0	2
+FBbt_20007820	adult AN07B005 neuron	0	6
+FBbt_20009238	adult IN06B014 neuron	0	2
+FBbt_20010846	adult INXXX044 neuron	0	4
+FBbt_20008462	adult EN00B013 neuron	0	4
+FBbt_20009577	adult IN10B010 neuron	0	2
+FBbt_20010826	adult IN27X007 neuron	0	2
+FBbt_20007863	adult AN08B005 neuron	0	2
+FBbt_20008780	adult IN03A003 neuron	0	2
+FBbt_20010825	adult IN27X005 neuron	0	2
+FBbt_20010836	adult INXXX027 neuron	0	4
+FBbt_20010281	adult IN17B004 neuron	0	4
+FBbt_20009060	adult IN05B010 neuron	0	4
+FBbt_20010078	adult IN14B002 neuron	0	2
+FBbt_20007729	adult AN05B015 neuron	0	2
+FBbt_20009237	adult IN06B013 neuron	0	4
+FBbt_20008724	adult IN02A006 neuron	0	2
+FBbt_20010856	adult INXXX064 neuron	0	2
+FBbt_20008095	adult AN27X011 neuron	0	2
+FBbt_00052753	adult mesothoracic VUM neuron 2	0	3
+FBbt_20010833	adult INXXX022 neuron	0	2
+FBbt_20007701	adult AN02A002 neuron	0	2
+FBbt_20008037	adult AN18B003 neuron	0	2
+FBbt_20009791	adult IN13A002 neuron	0	6
+FBbt_20008131	adult ANXXX090 neuron	0	2
+FBbt_20008027	adult AN17B005 neuron	0	2
+FBbt_20008094	adult AN27X009 neuron	0	4
+FBbt_20010838	adult INXXX031 neuron	0	2
+FBbt_20010091	adult IN16B014 neuron	0	2
+FBbt_20007868	adult AN08B013 neuron	0	2
+FBbt_20009572	adult IN10B002 neuron	0	2
+FBbt_20010463	adult IN19B004 neuron	0	2
+FBbt_20008125	adult ANXXX072 neuron	0	2
+FBbt_20009309	adult IN07B020 neuron	0	2
+FBbt_20008945	adult IN04B002 neuron	0	2
+FBbt_20010077	adult IN14B001 neuron	0	2
+FBbt_20008722	adult IN02A003 neuron	0	4
+FBbt_20009573	adult IN10B003 neuron	0	2
+FBbt_20009111	adult IN06A004 neuron	0	2
+FBbt_20010331	adult IN19A003 neuron	0	6
+FBbt_20008481	adult IN00A005 neuron	0	1
+FBbt_20008121	adult ANXXX055 neuron	0	2
+FBbt_20009711	adult IN12B005 neuron	0	4
+FBbt_20010188	adult IN17A011 neuron	0	2
+FBbt_20010467	adult IN19B011 neuron	0	2
+FBbt_20010837	adult INXXX029 neuron	0	2
+FBbt_20009304	adult IN07B012 neuron	0	4
+FBbt_20009579	adult IN10B012 neuron	0	4
+FBbt_20010618	adult IN21A001 neuron	0	6
+FBbt_20007766	adult AN05B096 neuron	0	4
+FBbt_20007866	adult AN08B010 neuron	0	4
+FBbt_20009578	adult IN10B011 neuron	0	4
+FBbt_00053083	wing projection neuron 1	0	2
+FBbt_20010466	adult IN19B008 neuron	0	2
+FBbt_20009862	adult IN13B004 neuron	0	6
+FBbt_20010869	adult INXXX095 neuron	0	4
+FBbt_20010096	adult IN16B024 neuron	0	2
+FBbt_20011138	adult MNad18 neuron	0	4
+FBbt_20007929	adult AN09B014 neuron	0	2
+FBbt_20008464	adult EN00B016 neuron	0	4
+FBbt_00053121	prothoracic tibial levator muscle motor neuron	0	4
+FBbt_20008145	adult ANXXX131 neuron	0	2
+FBbt_20008133	adult ANXXX093 neuron	0	2
+FBbt_20008086	adult AN23B001 neuron	0	2
+FBbt_20010867	adult INXXX089 neuron	0	2
+FBbt_20007776	adult AN05B106 neuron	0	2
+FBbt_20007957	adult AN10B017 neuron	0	2
+FBbt_20007918	adult AN09A007 neuron	0	3
+FBbt_20007734	adult AN05B026 neuron	0	2
+FBbt_20010891	adult INXXX140 neuron	0	2
+FBbt_20008155	adult ANXXX154 neuron	0	2
+FBbt_20010863	adult INXXX078 neuron	0	4
+FBbt_20008000	adult AN13B002 neuron	0	2
+FBbt_20010903	adult INXXX179 neuron	0	2
+FBbt_20008146	adult ANXXX132 neuron	0	2
+FBbt_20008093	adult AN27X008 neuron	0	2
+FBbt_20007930	adult AN09B015 neuron	0	2
+FBbt_20010892	adult INXXX142 neuron	0	2
+FBbt_20008042	adult AN18B023 neuron	0	2
+FBbt_20010864	adult INXXX083 neuron	0	2
+FBbt_20011121	adult INXXX469 neuron	0	2
+FBbt_20007961	adult AN10B021 neuron	0	2
+FBbt_20010622	adult IN21A005 neuron	0	4
+FBbt_20008563	adult IN01A022 neuron	0	2
+FBbt_20007684	adult AN00A006 neuron	0	5
+FBbt_20010879	adult INXXX115 neuron	0	2
+FBbt_20010872	adult INXXX101 neuron	0	2
+FBbt_20008097	adult AN27X015 neuron	0	2
+FBbt_20011139	adult MNad19 neuron	0	6
+FBbt_20010899	adult INXXX159 neuron	0	2
+FBbt_20007719	adult AN04B003 neuron	0	6
+FBbt_20008730	adult IN02A013 neuron	0	2
+FBbt_20010853	adult INXXX058 neuron	0	6
+FBbt_20011155	adult MNad35 neuron	0	2
+FBbt_20008040	adult AN18B020 neuron	0	2
+FBbt_20009064	adult IN05B014 neuron	0	2
+FBbt_20011202	adult MNhl68 neuron	0	3
+FBbt_20010897	adult INXXX153 neuron	0	2
+FBbt_20007799	adult AN06B014 neuron	0	2
+FBbt_20007928	adult AN09B013 neuron	0	2
+FBbt_20009677	adult IN12A013 neuron	0	2
+FBbt_20011156	adult MNad36 neuron	0	2
+FBbt_20010839	adult INXXX032 neuron	0	6
+FBbt_20010878	adult INXXX114 neuron	0	2
+FBbt_20007685	adult AN00A009 neuron	0	1
+FBbt_20007689	adult AN01A021 neuron	0	2
+FBbt_20010880	adult INXXX119 neuron	0	2
+FBbt_20008149	adult ANXXX144 neuron	0	2
+FBbt_20011200	adult MNhl66 neuron	0	2
+FBbt_20010889	adult INXXX137 neuron	0	2
+FBbt_20010888	adult INXXX135 neuron	0	2
+FBbt_20010894	adult INXXX146 neuron	0	2
+FBbt_20008147	adult ANXXX136 neuron	0	2
+FBbt_20010621	adult IN21A004 neuron	0	6
+FBbt_20010890	adult INXXX138 neuron	0	2
+FBbt_20011154	adult MNad34 neuron	0	2
+FBbt_20009715	adult IN12B011 neuron	0	4
+FBbt_20011179	adult MNad59 neuron	0	1
+FBbt_20010858	adult INXXX066 neuron	0	2
+FBbt_20010901	adult INXXX167 neuron	0	2
+FBbt_20008949	adult IN04B007 neuron	0	2
+FBbt_20008134	adult ANXXX094 neuron	0	2
+FBbt_20007877	adult AN08B025 neuron	0	2
+FBbt_20010092	adult IN16B016 neuron	0	6
+FBbt_20008156	adult ANXXX157 neuron	0	2
+FBbt_20009114	adult IN06A008 neuron	0	2
+FBbt_20010873	adult INXXX104 neuron	0	2
+FBbt_20008787	adult IN03A011 neuron	0	2
+FBbt_20009580	adult IN10B013 neuron	0	2
+FBbt_20008103	adult ANXXX005 neuron	0	2
+FBbt_20008162	adult ANXXX178 neuron	0	2
+FBbt_20009581	adult IN10B014 neuron	0	6
+FBbt_20009115	adult IN06A009 neuron	0	2
+FBbt_00049597	giant fiber coupled neuron 1	0	3
+FBbt_20009676	adult IN12A012 neuron	0	2
+FBbt_20008141	adult ANXXX116 neuron	0	4
+FBbt_20008474	adult ENXXX128 neuron	0	2
+FBbt_20011145	adult MNad25 neuron	0	2
+FBbt_20011176	adult MNad56 neuron	0	2
+FBbt_20008139	adult ANXXX108 neuron	0	2
+FBbt_20010865	adult INXXX084 neuron	0	4
+FBbt_20011201	adult MNhl67 neuron	0	2
+FBbt_20010866	adult INXXX087 neuron	0	2
+FBbt_20010630	adult IN21A013 neuron	0	6
+FBbt_00052755	adult mesothoracic VUM neuron 4	0	1
+FBbt_20008494	adult IN00A020 neuron	0	5
+FBbt_20008128	adult ANXXX082 neuron	0	2
+FBbt_20011158	adult MNad38 neuron	0	1
+FBbt_20011147	adult MNad27 neuron	0	2
+FBbt_20007879	adult AN08B027 neuron	0	2
+FBbt_20007794	adult AN06B005 neuron	0	2
+FBbt_20007919	adult AN09B001 neuron	0	2
+FBbt_20007917	adult AN09A005 neuron	0	4
+FBbt_20007992	adult AN12B011 neuron	0	2
+FBbt_20007927	adult AN09B012 neuron	0	4
+FBbt_20007882	adult AN08B034 neuron	0	6
+FBbt_20007780	adult AN06A017 neuron	0	2
+FBbt_20011137	adult MNad17 neuron	0	6
+FBbt_20010876	adult INXXX111 neuron	0	2
+FBbt_20009459	adult IN09A006 neuron	0	7
+FBbt_20009803	adult IN13A014 neuron	0	8
+FBbt_20010887	adult INXXX134 neuron	0	2
+FBbt_20010906	adult INXXX183 neuron	0	2
+FBbt_20008950	adult IN04B008 neuron	0	6
+FBbt_20011177	adult MNad57 neuron	0	2
+FBbt_20007773	adult AN05B103 neuron	0	2
+FBbt_20008136	adult ANXXX099 neuron	0	2
+FBbt_20009467	adult IN09A015 neuron	0	2
+FBbt_20010460	adult IN19A142 neuron	0	2
+FBbt_20009119	adult IN06A014 neuron	0	2
+FBbt_20008152	adult ANXXX150 neuron	0	4
+FBbt_20007733	adult AN05B025 neuron	0	2
+FBbt_20008467	adult EN00B020 neuron	0	1
+FBbt_20008478	adult IN00A002 neuron	0	3
+FBbt_20011185	adult MNad66 neuron	0	2
+FBbt_20008565	adult IN01A024 neuron	0	2
+FBbt_20007703	adult AN02A009 neuron	0	2
+FBbt_20008482	adult IN00A007 neuron	0	3
+FBbt_20008873	adult IN03B001 neuron	0	2
+FBbt_20008124	adult ANXXX071 neuron	0	2
+FBbt_20009959	adult IN14A004 neuron	0	6
+FBbt_20009719	adult IN12B015 neuron	0	2
+FBbt_20011181	adult MNad62 neuron	0	2
+FBbt_20007770	adult AN05B100 neuron	0	6
+FBbt_20011012	adult INXXX334 neuron	0	4
+FBbt_20007958	adult AN10B018 neuron	0	2
+FBbt_20008707	adult IN01B088 neuron	0	1
+FBbt_00047619	descending neuron of the gnathal ganglion DNg27	0	2
 FBbt_00047199	larval Ladder-a neuron	0	1
-FBbt_00048516	wedge projection neuron	0	41
+FBbt_00047248	ps1 motor neuron	0	2
+FBbt_00047247	flight muscle motor neuron	0	4
+FBbt_00047246	wing axillary muscle hg1 motor neuron	0	2
+FBbt_00047609	descending neuron of the gnathal ganglion DNg17	0	2
+FBbt_00047608	descending neuron of the gnathal ganglion DNg16	0	2
+FBbt_00047606	descending neuron of the gnathal ganglion DNg14	0	2
+FBbt_00047605	descending neuron of the gnathal ganglion DNg13	0	2
+FBbt_00047604	descending neuron of the gnathal ganglion DNg12	0	30
+FBbt_00047603	descending neuron of the gnathal ganglion DNg11	0	13
+FBbt_00047602	descending neuron of the gnathal ganglion DNg10	0	22
+FBbt_00047601	descending neuron of the gnathal ganglion DNg09	0	5
+FBbt_00047600	descending neuron of the gnathal ganglion DNg08	0	16
+FBbt_00047618	descending neuron of the gnathal ganglion DNg26	0	4
 FBbt_00051062	adult tubercle-tubercle neuron	0	8
+FBbt_00047615	descending neuron of the gnathal ganglion DNg23	0	2
+FBbt_00047614	descending neuron of the gnathal ganglion DNg22	0	2
+FBbt_00047613	descending neuron of the gnathal ganglion DNg21	0	2
+FBbt_00047612	descending neuron of the gnathal ganglion DNg20	0	2
+FBbt_00047611	descending neuron of the gnathal ganglion DNg19	0	2
+FBbt_00047610	descending neuron of the gnathal ganglion DNg18	0	2
+FBbt_00047669	descending neuron outside of the brain DNx01	0	2
+FBbt_00047668	descending neuron of the posterior brain DNp35	0	2
+FBbt_00047667	descending neuron of the posterior brain DNp34	0	2
+FBbt_00047665	descending neuron of the posterior brain DNp32	0	2
+FBbt_00047664	descending neuron of the posterior brain DNp31	0	2
+FBbt_00047663	descending neuron of the posterior brain DNp30	0	2
+FBbt_00047662	descending neuron of the posterior brain DNp29	0	2
+FBbt_00048516	wedge projection neuron	0	41
 FBbt_00047047	adult tubercle-bulb neuron	0	78
-FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
-FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
-FBbt_00047222	adult hygrosensory neuron Ir68a	0	26
-FBbt_00047517	descending neuron of the posterior brain	0	2
-FBbt_00047646	descending neuron of the posterior brain DNp13	0	3
-FBbt_00111230	larval Basin-4 neuron	0	4
-FBbt_00049820	fan-shaped body columnar neuron	0	598
-FBbt_00100214	dopaminergic PAM neuron	0	5
-FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
-FBbt_00100249	alpha'/beta' Kenyon cell	0	335
-FBbt_00005131	dopaminergic neuron	0	12
-FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
+FBbt_00047629	descending neuron of the gnathal ganglion DNg37	0	2
+FBbt_00110613	adult fruitless pIP-h (male) neuron	0	2
+FBbt_00004071	dorsal tp motor neuron	0	2
+FBbt_00004070	wing axillary muscle I1 motor neuron	0	2
+FBbt_00004079	indirect flight muscle motor neuron DLMN5	0	2
+FBbt_00004072	ventral tp motor neuron	0	2
+FBbt_00004069	wing axillary muscle III1 motor neuron	0	2
+FBbt_00110978	antennal mechanosensory and motor center D1 projection neuron	0	2
+FBbt_00047666	descending neuron of the posterior brain DNp33	0	2
 FBbt_00100248	alpha/beta Kenyon cell	0	289
-FBbt_00111228	larval Basin-3 neuron	0	4
-FBbt_00111229	larval Basin-2 neuron	0	4
-FBbt_00111227	larval Basin-1 neuron	0	4
-FBbt_00005918	thermosensory neuron	0	4
-FBbt_00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	0	46
-FBbt_00003870	lobula columnar neuron	0	31
-FBbt_00100719	BLD2 lineage neuron	0	1
-FBbt_00007542	adult fan-shaped body layer 3 tangential neuron	0	9
-FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	8
-FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	46
-FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	85
-FBbt_00007541	adult fan-shaped body layer 2 tangential neuron	0	84
+FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
+FBbt_00005131	dopaminergic neuron	0	12
+FBbt_00100249	alpha'/beta' Kenyon cell	0	335
+FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
+FBbt_00100214	dopaminergic PAM neuron	0	5
+FBbt_00110631	antennal mechanosensory and motor center AMMC-VNC projection neuron	0	13
+FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
+FBbt_00047599	descending neuron of the gnathal ganglion DNg07	0	13
+FBbt_00049820	fan-shaped body columnar neuron	0	598
+FBbt_00001453	larval RP2 motor neuron	0	4
+FBbt_00110852	adult fruitless vAB3 (male) neuron	0	10
+FBbt_00110856	adult fruitless dPR1 neuron	0	2
+FBbt_00110854	adult fruitless pIP10 (male) neuron	0	2
+FBbt_00110860	adult fruitless vPR6 (male) neuron	0	7
+FBbt_00047646	descending neuron of the posterior brain DNp13	0	5
+FBbt_00048999	adult Drosulfakinin neuron	0	6
+FBbt_00047517	descending neuron of the posterior brain	0	48
+FBbt_00047222	adult hygrosensory neuron Ir68a	0	26
+FBbt_00049661	adult lateral horn centrifugal neuron	0	12
+FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
+FBbt_00048120	adult NPF P1 neuron	0	2
+FBbt_00047628	descending neuron of the gnathal ganglion DNg36	0	4
+FBbt_00004068	wing basalar muscle b2 motor neuron	0	2
+FBbt_00047579	descending neuron of the anterior dorsal brain DNa08	0	2
+FBbt_00047589	descending neuron of the pars intercerebralis DNc02	0	2
+FBbt_00047588	descending neuron of the pars intercerebralis DNc01	0	2
+FBbt_00047587	descending neuron of the anterior ventral brain DNb06	0	2
+FBbt_00047585	descending neuron of the anterior ventral brain DNb04	0	6
+FBbt_00047595	descending neuron of the gnathal ganglion DNg03	0	14
+FBbt_00047594	descending neuron of the gnathal ganglion DNg02	0	27
+FBbt_00047593	descending neuron of the gnathal ganglion DNg01	0	6
+FBbt_00047598	descending neuron of the gnathal ganglion DNg06	0	7
+FBbt_00047597	descending neuron of the gnathal ganglion DNg05	0	4
+FBbt_00051904	adult knees subesophageal neuron	0	4
+FBbt_00047596	descending neuron of the gnathal ganglion DNg04	0	4
+FBbt_00047573	descending neuron of the anterior dorsal brain DNa02	0	2
+FBbt_00047572	descending neuron of the anterior dorsal brain DNa01	0	2
+FBbt_00047578	descending neuron of the anterior dorsal brain DNa07	0	2
+FBbt_00047660	descending neuron of the posterior brain DNp27	0	2
+FBbt_00047577	descending neuron of the anterior dorsal brain DNa06	0	2
+FBbt_00047576	descending neuron of the anterior dorsal brain DNa05	0	2
+FBbt_00047575	descending neuron of the anterior dorsal brain DNa04	0	2
+FBbt_00047574	descending neuron of the anterior dorsal brain DNa03	0	2
+FBbt_00047584	descending neuron of the anterior ventral brain DNb03	0	4
+FBbt_00047583	descending neuron of the anterior ventral brain DNb02	0	4
+FBbt_00047582	descending neuron of the anterior ventral brain DNb01	0	2
+FBbt_00047581	descending neuron of the anterior dorsal brain DNa10	0	2
+FBbt_00047580	descending neuron of the anterior dorsal brain DNa09	0	2
+FBbt_00047516	descending neuron of the gnathal ganglion	0	13
+FBbt_00047515	descending neuron of the outside anterior cluster	0	2
+FBbt_00047513	descending neuron of the anterior ventral brain	0	6
+FBbt_00047512	descending neuron of the anterior dorsal brain	0	10
+FBbt_00047354	adult doublesex aDN neuron	0	2
+FBbt_00047661	descending neuron of the posterior brain DNp28	0	2
+FBbt_00047627	descending neuron of the gnathal ganglion DNg35	0	2
+FBbt_00047647	descending neuron of the posterior brain DNp14	0	2
+FBbt_00047625	descending neuron of the gnathal ganglion DNg33	0	2
+FBbt_00047624	descending neuron of the gnathal ganglion DNg32	0	2
+FBbt_00047623	descending neuron of the gnathal ganglion DNg31	0	2
+FBbt_00047622	descending neuron of the gnathal ganglion DNg30	0	2
+FBbt_00047621	descending neuron of the gnathal ganglion DNg29	0	2
+FBbt_00047637	descending neuron of the posterior brain DNp04	0	2
+FBbt_00047636	descending neuron of the posterior brain DNp03	0	2
+FBbt_00047633	descending neuron of the gnathal ganglion DNg41	0	2
+FBbt_00047632	descending neuron of the gnathal ganglion DNg40	0	2
+FBbt_00047631	descending neuron of the gnathal ganglion DNg39	0	4
+FBbt_00047630	descending neuron of the gnathal ganglion DNg38	0	4
+FBbt_00047649	descending neuron of the posterior brain DNp16	0	4
+FBbt_00047648	descending neuron of the posterior brain DNp15	0	2
+FBbt_00049941	descending neuron of the posterior brain DNp13 (male)	0	2
+FBbt_00047652	descending neuron of the posterior brain DNp19	0	2
+FBbt_00047645	descending neuron of the posterior brain DNp12	0	2
+FBbt_00047643	descending neuron of the posterior brain DNp10	0	2
+FBbt_00047642	descending neuron of the posterior brain DNp09	0	2
+FBbt_00047641	descending neuron of the posterior brain DNp08	0	2
+FBbt_00047640	descending neuron of the posterior brain DNp07	0	2
+FBbt_00047650	descending neuron of the posterior brain DNp17	0	13
+FBbt_00047659	descending neuron of the posterior brain DNp26	0	2
+FBbt_00047658	descending neuron of the posterior brain DNp25	0	2
+FBbt_00047657	descending neuron of the posterior brain DNp24	0	2
+FBbt_00047656	descending neuron of the posterior brain DNp23	0	2
+FBbt_00047655	descending neuron of the posterior brain DNp22	0	2
+FBbt_00047654	descending neuron of the posterior brain DNp21	0	2
+FBbt_00047653	descending neuron of the posterior brain DNp20	0	2
+FBbt_00004067	wing axillary muscle III3 motor neuron	0	2
+FBbt_00004066	wing basalar muscle b1 motor neuron	0	2
+FBbt_20010626	adult IN21A009 neuron	0	6
 FBbt_00007544	adult fan-shaped body layer 5 tangential neuron	0	108
-FBbt_00003657	fan-shaped body tangential neuron	0	574
-FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	0	20
-FBbt_00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	0	22
-FBbt_00003646	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron	0	42
-FBbt_00003686	Kenyon cell	0	45
-FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
-FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	0	18
-FBbt_00003635	adult protocerebral bridge 1 glomerulus-fan-shaped body-lateral accessory lobe neuron	0	50
-FBbt_00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	0	14
-FBbt_00111424	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type a neuron	0	29
-FBbt_00111404	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 posterior domain neuron	0	270
 FBbt_00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	0	58
-FBbt_00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	0	20
-FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
-FBbt_00005106	neuron	0	51572
-FBbt_00007683	neuroblast lineage clone	0	235
+FBbt_00111404	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 posterior domain neuron	0	270
+FBbt_00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	0	46
+FBbt_00111424	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type a neuron	0	29
+FBbt_00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	0	14
+FBbt_00003635	adult protocerebral bridge 1 glomerulus-fan-shaped body-lateral accessory lobe neuron	0	50
+FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	0	18
+FBbt_00003686	Kenyon cell	0	45
+FBbt_00100719	BLD2 lineage neuron	0	1
+FBbt_00003646	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron	0	42
+FBbt_00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	0	22
+FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	0	20
+FBbt_00003657	fan-shaped body tangential neuron	0	574
+FBbt_00007541	adult fan-shaped body layer 2 tangential neuron	0	84
+FBbt_00110165	octopaminergic VL1 neuron	0	2
+FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	85
+FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	46
+FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	8
+FBbt_00007542	adult fan-shaped body layer 3 tangential neuron	0	9
 FBbt_00007540	adult fan-shaped body layer 1 tangential neuron	0	28
+FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
 FBbt_00049536	adult fan-shaped body layer 9 tangential neuron	0	33
-FBbt_00003859	lobula tangential neuron	0	12
-FBbt_00049779	adult multiglomerular antennal lobe projection neuron lvPN	0	37
-FBbt_00050144	adult DM6 lineage neuron	0	1
-FBbt_00111640	medulla columnar neuron	0	122
-FBbt_00007394	adult local interneuron of the lateral ALl1 neuroblast	0	66
-FBbt_00007390	adult antennal lobe local neuron	0	102
-FBbt_00007386	adult olfactory receptor neuron	0	125
-FBbt_00067123	adult antennal lobe projection neuron	0	2
-FBbt_00110415	adult fruitless aDT-a neuron	0	6
-FBbt_00007437	adult antennal lobe projection neuron vPN	0	7
-FBbt_00049780	adult multiglomerular antennal lobe projection neuron of SEZ	0	2
-FBbt_00047720	transverse antennal lobe tract 4 projection neuron 1	0	3
-FBbt_00049778	adult multiglomerular antennal lobe projection neuron lPN	0	10
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
-FBbt_00049910	adult multiglomerular antennal lobe projection neuron l2PN	0	4
-FBbt_00047724	lateral antennal lobe tract projection neuron 4	0	2
-FBbt_00007430	DN1p neuron	0	7
-FBbt_00110461	adult fruitless aSP-g (female) neuron	0	7
-FBbt_00007384	multiglomerular antennal lobe projection neuron	0	412
-FBbt_00100656	BAmas2 lineage neuron	0	5
-FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
-FBbt_00003907	lobula plate tangential neuron	0	2
-FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
 FBbt_00003636	adult fan-shaped body delta neuron	0	159
+FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
+FBbt_00003907	lobula plate tangential neuron	0	2
+FBbt_00007408	peripherally synapsing interneuron	0	2
+FBbt_00047097	primary neuron	0	3034
+FBbt_00047591	descending neuron of the anterior brain DNd02	0	2
+FBbt_00047644	descending neuron of the posterior brain DNp11	0	2
+FBbt_00007406	mesothoracic tergotrochanter muscle motor neuron	0	4
+FBbt_00047626	descending neuron of the gnathal ganglion DNg34	0	2
+FBbt_00007683	neuroblast lineage clone	0	235
+FBbt_00005106	neuron	0	51572
+FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
+FBbt_00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	0	20
+FBbt_00111517	adult pheromone projection neuron 1	0	8
+FBbt_00049540	Notch OFF hemilineage neuron	0	7283
+FBbt_00111502	antennal mechanosensory and motor center AMMC Db7 neuron	0	2
+FBbt_00047616	descending neuron of the gnathal ganglion DNg24	0	2
+FBbt_00111500	antennal mechanosensory and motor center AMMC Db5 neuron	0	2
+FBbt_00047607	descending neuron of the gnathal ganglion DNg15	0	2
+FBbt_00051918	adult nagini subesophageal neuron	0	2
+FBbt_00110149	octopaminergic VPM1 neuron	0	2
+FBbt_00110543	adult fruitless aDT8 neuron	0	2
+FBbt_00111494	antennal mechanosensory and motor center AMMC Db2 neuron	0	2
+FBbt_00111495	antennal mechanosensory and motor center AMMC Db3 neuron	0	2
+FBbt_00047638	descending neuron of the posterior brain DNp05	0	2
+FBbt_00111492	antennal mechanosensory and motor center AMMC Di7 neuron	0	2
+FBbt_00003996	thoracic relay interneuron	0	2
+FBbt_00047932	antennal lobe descending neuron 1	0	2
+FBbt_00047586	descending neuron of the anterior ventral brain DNb05	0	2
+FBbt_00111490	antennal mechanosensory and motor center AMMC Di5 neuron	0	2
+FBbt_00047639	descending neuron of the posterior brain DNp06	0	2
+FBbt_00111488	antennal mechanosensory and motor center AMMC Di3 neuron	0	2
+FBbt_00047651	descending neuron of the posterior brain DNp18	0	2
+FBbt_00111485	antennal mechanosensory and motor center AMMC P3b neuron	0	2
+FBbt_00047635	descending neuron of the posterior brain DNp02	0	2
+FBbt_00110166	octopaminergic VL2 neuron	0	2
+FBbt_00047592	descending neuron of the anterior brain DNd03	0	2
+FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
+FBbt_00049539	Notch ON hemilineage neuron	0	6764
+FBbt_00047634	descending neuron of the posterior brain DNp01	0	2
+FBbt_00111263	larval TePn04 neuron	0	2
+FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
+FBbt_00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	0	40
+FBbt_00111308	adult moonwalker descending neuron	0	4
+FBbt_00111232	larval A23g neuron	0	2
+FBbt_00111231	larval A14g neuron	0	4
+FBbt_00111252	larval A08m neuron	0	4
+FBbt_00111251	larval A05e neuron	0	2
+FBbt_00111250	larval A03o1 neuron	0	2
+FBbt_00111249	larval Wave neuron	0	2
+FBbt_00111248	larval A02m neuron	0	2
+FBbt_00111247	larval A02n neuron	0	1
+FBbt_00111245	larval A01n neuron	0	2
+FBbt_00111244	larval A08d neuron	0	2
+FBbt_00111262	larval T08x neuron	0	2
+FBbt_00047953	mushroom body output neuron	0	26
+FBbt_00111261	larval T05t neuron	0	2
+FBbt_00111260	larval A10j neuron	0	2
+FBbt_00111258	larval A08x neuron	0	2
+FBbt_00111257	larval A19c neuron	0	2
+FBbt_00111256	larval A12m neuron	0	2
+FBbt_00111255	larval A10l neuron	0	2
+FBbt_00111254	larval A10f neuron	0	2
+FBbt_00111253	larval A10a neuron	0	2
+FBbt_00111230	larval Basin-4 neuron	0	4
+FBbt_00111227	larval Basin-1 neuron	0	4
+FBbt_00111229	larval Basin-2 neuron	0	4
+FBbt_00111228	larval Basin-3 neuron	0	4
+FBbt_00004020	giant fiber neuron	0	2
+FBbt_00100247	gamma Kenyon cell	0	1057
+FBbt_00048301	adult ascending neuron	0	35
+FBbt_00100656	BAmas2 lineage neuron	0	5
+FBbt_00007390	adult antennal lobe local neuron	0	102
+FBbt_00007384	multiglomerular antennal lobe projection neuron	0	412
+FBbt_00110461	adult fruitless aSP-g (female) neuron	0	7
+FBbt_00007430	DN1p neuron	0	7
+FBbt_00047724	lateral antennal lobe tract projection neuron 4	0	2
+FBbt_00049910	adult multiglomerular antennal lobe projection neuron l2PN	0	4
+FBbt_00049778	adult multiglomerular antennal lobe projection neuron lPN	0	10
+FBbt_00049779	adult multiglomerular antennal lobe projection neuron lvPN	0	37
+FBbt_00047720	transverse antennal lobe tract 4 projection neuron 1	0	3
+FBbt_00049780	adult multiglomerular antennal lobe projection neuron of SEZ	0	2
+FBbt_00007437	adult antennal lobe projection neuron vPN	0	7
+FBbt_00110415	adult fruitless aDT-a neuron	0	6
+FBbt_00067123	adult antennal lobe projection neuron	0	2
+FBbt_00007386	adult olfactory receptor neuron	0	125
+FBbt_00007394	adult local interneuron of the lateral ALl1 neuroblast	0	66
+FBbt_00005922	chemosensory neuron	0	19
+FBbt_00111640	medulla columnar neuron	0	122
+FBbt_00050144	adult DM6 lineage neuron	0	1
+FBbt_00003859	lobula tangential neuron	0	12
+FBbt_00003870	lobula columnar neuron	0	31
+FBbt_00003879	lobula complex columnar neuron	0	372
+FBbt_00111141	adult fruitless vPR7 neuron	0	26
+FBbt_00047096	secondary neuron	0	10451
+FBbt_00111145	adult fruitless vPR9 neuron	0	9
+FBbt_00111170	adult fruitless pMP2 neuron	0	2
+FBbt_00111101	adult fruitless dMS5 neuron	0	2
+FBbt_00111095	adult fruitless dMS2 neuron	0	21
+FBbt_00005918	thermosensory neuron	0	4
+FBbt_00005923	hygrosensory neuron	0	9
+FBbt_00047511	adult descending neuron	0	2
+FBbt_00048059	mechanosensory neuron of trochanter campaniform sensillum	0	10
+FBbt_00048061	mechanosensory neuron of hair plate	0	60
+FBbt_20010922	adult INXXX215 neuron	0	4
+FBbt_20011032	adult INXXX359 neuron	0	2
+FBbt_20011129	adult MNad09 neuron	0	8
+FBbt_20008630	adult IN01B007 neuron	0	6
+FBbt_20009283	adult IN06B073 neuron	0	12
+FBbt_20008109	adult ANXXX023 neuron	0	2
+FBbt_20007706	adult AN02A022 neuron	0	2
+FBbt_20011074	adult INXXX409 neuron	0	4
+FBbt_20008786	adult IN03A010 neuron	0	6
+FBbt_20011127	adult MNad06 neuron	0	8
+FBbt_20011009	adult INXXX331 neuron	0	6
+FBbt_20007822	adult AN07B013 neuron	0	4
+FBbt_00052359	adult metathoracic histaminergic neuron	0	2
+FBbt_20010849	adult INXXX052 neuron	0	2
+FBbt_20011071	adult INXXX406 neuron	0	4
+FBbt_20010343	adult IN19A015 neuron	0	6
+FBbt_20009868	adult IN13B010 neuron	0	6
+FBbt_20011041	adult INXXX373 neuron	0	4
+FBbt_20009971	adult IN14A016 neuron	0	2
+FBbt_20007695	adult AN01B004 neuron	0	6
+FBbt_20008765	adult IN02A054 neuron	0	14
+FBbt_20011085	adult INXXX423 neuron	0	2
+FBbt_00051097	adult LUL130 neuron of ventral nerve cord	0	6
+FBbt_20010966	adult INXXX270 neuron	0	2
+FBbt_20011097	adult INXXX439 neuron	0	1
+FBbt_20010982	adult INXXX293 neuron	0	4
+FBbt_20011098	adult INXXX440 neuron	0	8
+FBbt_20011061	adult INXXX395 neuron	0	4
+FBbt_20010362	adult IN19A040 neuron	0	2
+FBbt_20011044	adult INXXX376 neuron	0	2
+FBbt_20011086	adult INXXX424 neuron	0	4
+FBbt_20011055	adult INXXX388 neuron	0	2
+FBbt_20011082	adult INXXX419 neuron	0	4
+FBbt_20011078	adult INXXX415 neuron	0	6
+FBbt_20007795	adult AN06B007 neuron	0	4
+FBbt_00058941	haltere basalar muscle	0	4
+FBbt_20010620	adult IN21A003 neuron	0	6
+FBbt_20010965	adult INXXX269 neuron	0	10
+FBbt_20011087	adult INXXX425 neuron	0	1
+FBbt_20010819	adult IN26X001 neuron	0	6
+FBbt_20011126	adult MNad05 neuron	0	6
+FBbt_20011010	adult INXXX332 neuron	0	8
+FBbt_20010631	adult IN21A014 neuron	0	6
+FBbt_20008064	adult AN19B039 neuron	0	2
+FBbt_20011220	adult MNml82 neuron	0	1
+FBbt_20008108	adult ANXXX019 neuron	0	4
+FBbt_20010994	adult INXXX307 neuron	0	4
+FBbt_20008877	adult IN03B012 neuron	0	4
+FBbt_20011133	adult MNad13 neuron	0	12
+FBbt_20011045	adult INXXX377 neuron	0	6
+FBbt_20011080	adult INXXX417 neuron	0	6
+FBbt_20010978	adult INXXX287 neuron	0	12
+FBbt_20011099	adult INXXX441 neuron	0	4
+FBbt_20009974	adult IN14A020 neuron	0	6
+FBbt_20010933	adult INXXX230 neuron	0	9
+FBbt_20009239	adult IN06B015 neuron	0	4
+FBbt_20011038	adult INXXX369 neuron	0	4
+FBbt_20008585	adult IN01A045 neuron	0	12
+FBbt_20011204	adult MNhl70 neuron	0	1
+FBbt_20011062	adult INXXX396 neuron	0	10
+FBbt_20010502	adult IN19B068 neuron	0	8
+FBbt_20008506	adult IN00A033 neuron	0	5
+FBbt_20011025	adult INXXX350 neuron	0	4
+FBbt_00048101	adult doublesex TN1B (male) neuron	0	11
+FBbt_20010924	adult INXXX217 neuron	0	8
+FBbt_20011036	adult INXXX365 neuron	0	4
+FBbt_20007922	adult AN09B004 neuron	0	10
+FBbt_20009981	adult IN14A027 neuron	0	6
+FBbt_20008751	adult IN02A039 neuron	0	2
+FBbt_20009799	adult IN13A010 neuron	0	6
+FBbt_20011072	adult INXXX407 neuron	0	4
+FBbt_20008475	adult ENXXX226 neuron	0	18
+FBbt_20011088	adult INXXX426 neuron	0	4
+FBbt_20011073	adult INXXX408 neuron	0	2
+FBbt_20009245	adult IN06B021 neuron	0	2
+FBbt_20011067	adult INXXX401 neuron	0	2
+FBbt_00053081	neck contralaterally projecting haltere interneuron	0	6
+FBbt_20008092	adult AN26X004 neuron	0	2
+FBbt_20007708	adult AN02A046 neuron	0	2
+FBbt_00053058	satellite tergotrochanter muscle motor neuron	0	4
+FBbt_20011063	adult INXXX397 neuron	0	4
+FBbt_20007774	adult AN05B104 neuron	0	6
+FBbt_20010851	adult INXXX054 neuron	0	2
+FBbt_20011056	adult INXXX390 neuron	0	2
+FBbt_20011037	adult INXXX366 neuron	0	2
+FBbt_20011069	adult INXXX403 neuron	0	1
+FBbt_20009866	adult IN13B008 neuron	0	2
+FBbt_20008603	adult IN01A065 neuron	0	4
+FBbt_20010940	adult INXXX238 neuron	0	2
+FBbt_20010912	adult INXXX197 neuron	0	5
+FBbt_20010832	adult INXXX019 neuron	0	8
+FBbt_20008599	adult IN01A061 neuron	0	8
+FBbt_20007955	adult AN10B009 neuron	0	2
+FBbt_20008727	adult IN02A010 neuron	0	6
+FBbt_20008184	adult ANXXX433 neuron	0	2
+FBbt_20007692	adult AN01A055 neuron	0	4
+FBbt_20008491	adult IN00A017 neuron	0	5
+FBbt_20011124	adult MNad03 neuron	0	6
+FBbt_20008742	adult IN02A030 neuron	0	14
+FBbt_20007949	adult AN09B037 neuron	0	4
+FBbt_20011089	adult INXXX427 neuron	0	4
+FBbt_20011106	adult INXXX449 neuron	0	2
+FBbt_20007768	adult AN05B098 neuron	0	2
+FBbt_20009159	adult IN06A063 neuron	0	8
+FBbt_20007801	adult AN06B023 neuron	0	4
+FBbt_20009271	adult IN06B060 neuron	0	2
+FBbt_20011068	adult INXXX402 neuron	0	6
+FBbt_20008628	adult IN01B003 neuron	0	6
+FBbt_20011076	adult INXXX412 neuron	0	2
+FBbt_20011083	adult INXXX420 neuron	0	2
+FBbt_00053101	prothoracic sternal anterior rotator muscle motor neuron	0	4
+FBbt_20008166	adult ANXXX202 neuron	0	10
+FBbt_20009796	adult IN13A007 neuron	0	5
+FBbt_20008183	adult ANXXX410 neuron	0	2
+FBbt_20010955	adult INXXX257 neuron	0	2
+FBbt_20009606	adult IN11A001 neuron	0	2
+FBbt_20011077	adult INXXX414 neuron	0	4
+FBbt_20008044	adult AN18B032 neuron	0	2
+FBbt_20009076	adult IN05B032 neuron	0	4
+FBbt_20011030	adult INXXX355 neuron	0	2
+FBbt_20007872	adult AN08B018 neuron	0	14
+FBbt_20010847	adult INXXX045 neuron	0	10
+FBbt_20011057	adult INXXX391 neuron	0	2
+FBbt_20007693	adult AN01A086 neuron	0	4
+FBbt_20011178	adult MNad58 neuron	0	2
+FBbt_20008473	adult ENXXX012 neuron	0	4
+FBbt_00053103	prothoracic sternal posterior rotator muscle motor neuron	0	8
+FBbt_20011066	adult INXXX400 neuron	0	4
+FBbt_20007779	adult AN06A016 neuron	0	2
+FBbt_20010634	adult IN21A017 neuron	0	8
+FBbt_20010905	adult INXXX181 neuron	0	2
+FBbt_00049571	metathoracic leg muscle motor neuron	0	14
+FBbt_00052599	prothoracic tibial pretarsal depressor muscle motor neuron	0	4
+FBbt_20008756	adult IN02A044 neuron	0	10
+FBbt_20009548	adult IN09B005 neuron	0	6
+FBbt_20010351	adult IN19A026 neuron	0	4
+FBbt_20010983	adult INXXX294 neuron	0	2
+FBbt_20010827	adult IN27X014 neuron	0	2
+FBbt_20008775	adult IN02A064 neuron	0	8
+FBbt_20011105	adult INXXX448 neuron	0	17
+FBbt_20011004	adult INXXX324 neuron	0	2
+FBbt_20011046	adult INXXX378 neuron	0	4
+FBbt_20010998	adult INXXX316 neuron	0	6
+FBbt_20008627	adult IN01B002 neuron	0	6
+FBbt_20010625	adult IN21A008 neuron	0	6
+FBbt_20010336	adult IN19A008 neuron	0	8
+FBbt_20008460	adult EN00B010 neuron	0	5
+FBbt_20011117	adult INXXX464 neuron	0	6
+FBbt_20011064	adult INXXX398 neuron	0	1
+FBbt_20011026	adult INXXX351 neuron	0	2
+FBbt_20011040	adult INXXX372 neuron	0	8
+FBbt_20010960	adult INXXX263 neuron	0	6
+FBbt_20009800	adult IN13A011 neuron	0	2
+FBbt_00053155	metathoracic sternotrochanter extensor muscle motor neuron	0	6
+FBbt_20009983	adult IN14A029 neuron	0	4
+FBbt_20011109	adult INXXX452 neuron	0	6
+FBbt_20011091	adult INXXX429 neuron	0	10
+FBbt_20009680	adult IN12A018 neuron	0	4
+FBbt_20011039	adult INXXX370 neuron	0	4
+FBbt_20009794	adult IN13A005 neuron	0	6
+FBbt_00048271	wing margin taste bristle	0	391
+FBbt_00048100	adult doublesex TN1A (male) neuron	0	26
+FBbt_00048109	wing axillary muscle I2 motor neuron	0	2
+FBbt_00048104	adult doublesex TN1E (male) neuron	0	6
+FBbt_00048103	adult doublesex TN1D (male) neuron	0	6
+FBbt_00048102	adult doublesex TN1C (male) neuron	0	13
+FBbt_00048112	DLM motor neuron	0	8
+FBbt_00048111	wing axillary muscle hg2 motor neuron	0	2
+FBbt_00048110	tpn motor neuron	0	2
+FBbt_00048279	sensory neuron of wing campaniform sensillum	0	217
+FBbt_00048297	sensory neuron of haltere capitellum trichoid sensillum	0	36
+FBbt_00048296	sensory neuron of haltere campaniform sensillum	0	325
+FBbt_00048277	mechanosensory neuron of Wheeler's organ	0	60
+FBbt_00048272	wing margin mechanosensory bristle	0	337
+FBbt_00058244	adult sensory neuron	0	288
+FBbt_20010339	adult IN19A011 neuron	0	6
+FBbt_00051439	proprioceptive sensory neuron	0	162
 FBbt_00048517	wind sensitive wedge projection neuron	0	10
+FBbt_20010871	adult INXXX100 neuron	0	6
+FBbt_20009551	adult IN09B014 neuron	0	2
+FBbt_00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	0	4
+FBbt_20010841	adult INXXX035 neuron	0	2
+FBbt_20010956	adult INXXX258 neuron	0	10
+FBbt_20008590	adult IN01A051 neuron	0	4
+FBbt_20011018	adult INXXX341 neuron	0	8
+FBbt_20009553	adult IN09B022 neuron	0	4
+FBbt_20011053	adult INXXX386 neuron	0	6
+FBbt_00049570	mesothoracic leg muscle motor neuron	0	18
+FBbt_20008130	adult ANXXX086 neuron	0	2
+FBbt_20011033	adult INXXX360 neuron	0	4
+FBbt_20010973	adult INXXX281 neuron	0	6
+FBbt_20011065	adult INXXX399 neuron	0	4
+FBbt_00051967	neck muscle motor neuron of VNC	0	24
+FBbt_20011075	adult INXXX411 neuron	0	4
+FBbt_20009790	adult IN13A001 neuron	0	6
+FBbt_20008597	adult IN01A059 neuron	0	8
+FBbt_20010985	adult INXXX297 neuron	0	8
+FBbt_20011224	adult MNml86 neuron	0	1
+FBbt_20010870	adult INXXX096 neuron	0	4
+FBbt_20010952	adult INXXX252 neuron	0	2
+FBbt_20010984	adult INXXX295 neuron	0	10
+FBbt_20010883	adult INXXX124 neuron	0	2
+FBbt_20011027	adult INXXX352 neuron	0	4
+FBbt_20011114	adult INXXX458 neuron	0	2
+FBbt_20010468	adult IN19B012 neuron	0	6
+FBbt_20011090	adult INXXX428 neuron	0	4
+FBbt_20008484	adult IN00A009 neuron	0	4
+FBbt_20008182	adult ANXXX404 neuron	0	2
+FBbt_20011107	adult INXXX450 neuron	0	4
+FBbt_20009333	adult IN07B061 neuron	0	10
+FBbt_20010989	adult INXXX302 neuron	0	4
+FBbt_20011128	adult MNad08 neuron	0	6
+FBbt_20011104	adult INXXX447 neuron	0	2
+FBbt_00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	0	4
+FBbt_20011116	adult INXXX460 neuron	0	4
+FBbt_20010821	adult IN26X003 neuron	0	4
+FBbt_20008088	adult AN23B003 neuron	0	2
+FBbt_20010855	adult INXXX063 neuron	0	2
+FBbt_20010953	adult INXXX253 neuron	0	6
+FBbt_20011050	adult INXXX383 neuron	0	2
+FBbt_20011125	adult MNad04 neuron	0	4
+FBbt_20010980	adult INXXX290 neuron	0	12
+FBbt_20010946	adult INXXX244 neuron	0	2
+FBbt_20008770	adult IN02A059 neuron	0	10
+FBbt_20011049	adult INXXX382 neuron	0	8
+FBbt_00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	0	4
+FBbt_20011094	adult INXXX436 neuron	0	8
+FBbt_20011035	adult INXXX364 neuron	0	8
+FBbt_20011006	adult INXXX326 neuron	0	2
+FBbt_20011101	adult INXXX443 neuron	0	6
+FBbt_20011122	adult MNad01 neuron	0	6
+FBbt_20008781	adult IN03A004 neuron	0	6
+FBbt_20011140	adult MNad20 neuron	0	4
+FBbt_20010623	adult IN21A006 neuron	0	6
+FBbt_20011060	adult INXXX394 neuron	0	4
+FBbt_20011102	adult INXXX444 neuron	0	3
+FBbt_20011136	adult MNad16 neuron	0	8
+FBbt_20008629	adult IN01B006 neuron	0	6
+FBbt_20008159	adult ANXXX170 neuron	0	4
+FBbt_20010417	adult IN19A099 neuron	0	8
+FBbt_20011031	adult INXXX357 neuron	0	2
+FBbt_20011059	adult INXXX393 neuron	0	2
+FBbt_20011111	adult INXXX455 neuron	0	2
+FBbt_20011123	adult MNad02 neuron	0	12
+FBbt_20009110	adult IN06A003 neuron	0	4
+FBbt_20011096	adult INXXX438 neuron	0	4
+FBbt_20011048	adult INXXX381 neuron	0	2
+FBbt_20010957	adult INXXX260 neuron	0	3
+FBbt_20010988	adult INXXX301 neuron	0	4
+FBbt_20011079	adult INXXX416 neuron	0	6
+FBbt_20011034	adult INXXX363 neuron	0	8
+FBbt_20011016	adult INXXX339 neuron	0	2
+FBbt_20008123	adult ANXXX068 neuron	0	2
+FBbt_20009670	adult IN12A006 neuron	0	2
+FBbt_20008115	adult ANXXX037 neuron	0	2
+FBbt_20011054	adult INXXX387 neuron	0	4
+FBbt_20009624	adult IN11A019 neuron	0	5
+FBbt_20010573	adult IN20A.22A047 neuron	0	7
+FBbt_20009522	adult IN09A071 neuron	0	8
+FBbt_20010326	adult IN18B054 neuron	0	6
+FBbt_20008693	adult IN01B073 neuron	0	7
+FBbt_20008690	adult IN01B070 neuron	0	3
+FBbt_20009945	adult IN13B090 neuron	0	13
+FBbt_20009330	adult IN07B055 neuron	0	10
+FBbt_20009632	adult IN11A028 neuron	0	6
+FBbt_20008911	adult IN03B062 neuron	0	4
+FBbt_20010155	adult IN16B093 neuron	0	4
+FBbt_20008718	adult IN01B099 neuron	0	2
+FBbt_20009340	adult IN07B073 neuron	0	21
+FBbt_20009689	adult IN12A035 neuron	0	5
+FBbt_20009279	adult IN06B069 neuron	0	8
+FBbt_20008609	adult IN01A071 neuron	0	6
+FBbt_20010700	adult IN21A083 neuron	0	5
+FBbt_20009085	adult IN05B043 neuron	0	2
+FBbt_20010779	adult IN23B055 neuron	0	3
+FBbt_20009019	adult IN04B080 neuron	0	4
+FBbt_20009270	adult IN06B059 neuron	0	15
+FBbt_20009736	adult IN12B034 neuron	0	7
+FBbt_20010760	adult IN23B036 neuron	0	4
+FBbt_20009400	adult IN08A047 neuron	0	10
+FBbt_20010525	adult IN19B095 neuron	0	5
+FBbt_20008917	adult IN03B068 neuron	0	2
+FBbt_20009188	adult IN06A094 neuron	0	9
+FBbt_20010270	adult IN17A111 neuron	0	5
+FBbt_20009345	adult IN07B079 neuron	0	8
+FBbt_20007976	adult AN10B048 neuron	0	12
+FBbt_20010109	adult IN16B045 neuron	0	12
+FBbt_20008935	adult IN03B086 neuron	0	18
+FBbt_20009094	adult IN05B075 neuron	0	4
+FBbt_20009536	adult IN09A085 neuron	0	4
+FBbt_20009194	adult IN06A101 neuron	0	5
+FBbt_20008710	adult IN01B091 neuron	0	4
+FBbt_20010664	adult IN21A047 neuron	0	13
+FBbt_20010197	adult IN17A027 neuron	0	2
+FBbt_20009218	adult IN06A126 neuron	0	6
+FBbt_20008822	adult IN03A046 neuron	0	12
+FBbt_20010745	adult IN23B020 neuron	0	6
+FBbt_20009588	adult IN10B032 neuron	0	20
+FBbt_20008593	adult IN01A054 neuron	0	7
+FBbt_20010616	adult IN20A.22A091 neuron	0	8
+FBbt_20010717	adult IN21A100 neuron	0	3
+FBbt_20010008	adult IN14A055 neuron	0	2
+FBbt_20011002	adult INXXX321 neuron	0	8
+FBbt_20010591	adult IN20A.22A065 neuron	0	10
+FBbt_20009604	adult IN10B059 neuron	0	13
+FBbt_20010809	adult IN23B085 neuron	0	6
+FBbt_20010455	adult IN19A137 neuron	0	1
+FBbt_20007998	adult AN12B080 neuron	0	2
+FBbt_20009894	adult IN13B037 neuron	0	6
+FBbt_20010677	adult IN21A060 neuron	0	2
+FBbt_20010547	adult IN20A.22A019 neuron	0	8
+FBbt_20008601	adult IN01A063 neuron	0	8
+FBbt_20009849	adult IN13A062 neuron	0	11
+FBbt_20009391	adult IN08A038 neuron	0	3
+FBbt_20009189	adult IN06A096 neuron	0	6
+FBbt_20009918	adult IN13B061 neuron	0	2
+FBbt_20010120	adult IN16B056 neuron	0	4
+FBbt_20010141	adult IN16B077 neuron	0	11
+FBbt_20010268	adult IN17A109 neuron	0	2
+FBbt_20010404	adult IN19A085 neuron	0	4
+FBbt_20008671	adult IN01B051 neuron	0	4
+FBbt_20010182	adult IN16B122 neuron	0	3
+FBbt_20010177	adult IN16B117 neuron	0	2
+FBbt_20009217	adult IN06A125 neuron	0	5
+FBbt_20008896	adult IN03B043 neuron	0	4
+FBbt_20010001	adult IN14A047 neuron	0	7
+FBbt_20009664	adult IN11B023 neuron	0	9
+FBbt_20009767	adult IN12B066 neuron	0	13
+FBbt_20010816	adult IN23B092 neuron	0	2
+FBbt_20007851	adult AN07B072 neuron	0	23
+FBbt_20009454	adult IN08B108 neuron	0	4
+FBbt_20009816	adult IN13A028 neuron	0	8
+FBbt_20009177	adult IN06A082 neuron	0	17
+FBbt_20008719	adult IN01B100 neuron	0	6
+FBbt_20010407	adult IN19A088 neuron	0	17
+FBbt_20009359	adult IN07B100 neuron	0	8
+FBbt_20010605	adult IN20A.22A080 neuron	0	5
+FBbt_20009603	adult IN10B058 neuron	0	22
+FBbt_20009999	adult IN14A045 neuron	0	4
+FBbt_20009030	adult IN04B091 neuron	0	6
+FBbt_20010578	adult IN20A.22A052 neuron	0	9
+FBbt_20009332	adult IN07B059 neuron	0	2
+FBbt_20007981	adult AN10B060 neuron	0	4
+FBbt_20009280	adult IN06B070 neuron	0	7
+FBbt_20009498	adult IN09A047 neuron	0	7
+FBbt_20009171	adult IN06A075 neuron	0	14
+FBbt_20009487	adult IN09A035 neuron	0	2
+FBbt_20009440	adult IN08B077 neuron	0	4
+FBbt_20009013	adult IN04B074 neuron	0	19
+FBbt_20008898	adult IN03B046 neuron	0	4
+FBbt_20008901	adult IN03B052 neuron	0	6
+FBbt_20009473	adult IN09A021 neuron	0	6
+FBbt_20008664	adult IN01B044 neuron	0	4
+FBbt_20008533	adult IN00A060 neuron	0	3
+FBbt_20009617	adult IN11A012 neuron	0	4
+FBbt_20008937	adult IN03B088 neuron	0	8
+FBbt_20008841	adult IN03A065 neuron	0	8
+FBbt_20009501	adult IN09A050 neuron	0	6
+FBbt_20009001	adult IN04B062 neuron	0	6
+FBbt_20010427	adult IN19A109 neuron	0	4
+FBbt_20010603	adult IN20A.22A078 neuron	0	9
+FBbt_20010696	adult IN21A079 neuron	0	4
+FBbt_20008869	adult IN03A094 neuron	0	13
+FBbt_20009386	adult IN08A033 neuron	0	4
+FBbt_20010041	adult IN14A089 neuron	0	2
+FBbt_20008538	adult IN00A065 neuron	0	3
+FBbt_20009089	adult IN05B065 neuron	0	4
+FBbt_20009338	adult IN07B067 neuron	0	4
+FBbt_20009619	adult IN11A014 neuron	0	6
+FBbt_20008701	adult IN01B082 neuron	0	6
+FBbt_20009369	adult IN08A011 neuron	0	13
+FBbt_20009006	adult IN04B067 neuron	0	5
+FBbt_20008537	adult IN00A064 neuron	0	2
+FBbt_20009294	adult IN06B085 neuron	0	8
+FBbt_20007971	adult AN10B037 neuron	0	12
+FBbt_20010410	adult IN19A091 neuron	0	2
+FBbt_20008536	adult IN00A063 neuron	0	8
+FBbt_20009703	adult IN12A060 neuron	0	4
+FBbt_20010511	adult IN19B080 neuron	0	6
+FBbt_20010577	adult IN20A.22A051 neuron	0	10
+FBbt_20008832	adult IN03A056 neuron	0	4
+FBbt_20010124	adult IN16B060 neuron	0	4
+FBbt_20010845	adult INXXX042 neuron	0	2
+FBbt_20010105	adult IN16B039 neuron	0	4
+FBbt_20009216	adult IN06A124 neuron	0	5
+FBbt_20009547	adult IN09A096 neuron	0	9
+FBbt_20009533	adult IN09A082 neuron	0	5
+FBbt_20010132	adult IN16B068 neuron	0	6
+FBbt_20011100	adult INXXX442 neuron	0	5
+FBbt_20009050	adult IN04B111 neuron	0	4
+FBbt_20009135	adult IN06A036 neuron	0	2
+FBbt_20010144	adult IN16B082 neuron	0	6
+FBbt_20011095	adult INXXX437 neuron	0	4
+FBbt_20009190	adult IN06A097 neuron	0	5
+FBbt_20009499	adult IN09A048 neuron	0	5
+FBbt_20007858	adult AN07B091 neuron	0	6
+FBbt_20009927	adult IN13B070 neuron	0	8
+FBbt_20009396	adult IN08A043 neuron	0	18
+FBbt_20009403	adult IN08A050 neuron	0	11
+FBbt_20009044	adult IN04B105 neuron	0	6
+FBbt_20009543	adult IN09A092 neuron	0	10
+FBbt_20010570	adult IN20A.22A044 neuron	0	5
+FBbt_20009025	adult IN04B086 neuron	0	2
+FBbt_20009625	adult IN11A020 neuron	0	5
+FBbt_20009570	adult IN09B058 neuron	0	2
+FBbt_20010740	adult IN23B013 neuron	0	6
+FBbt_20009933	adult IN13B076 neuron	0	6
+FBbt_20009425	adult IN08B054 neuron	0	13
+FBbt_20010259	adult IN17A100 neuron	0	2
+FBbt_20008821	adult IN03A045 neuron	0	15
+FBbt_20009755	adult IN12B053 neuron	0	9
+FBbt_20009700	adult IN12A057 neuron	0	4
+FBbt_20008772	adult IN02A061 neuron	0	4
+FBbt_20010181	adult IN16B121 neuron	0	5
+FBbt_20009506	adult IN09A055 neuron	0	8
+FBbt_20009348	adult IN07B083 neuron	0	13
+FBbt_20009398	adult IN08A045 neuron	0	6
+FBbt_20008920	adult IN03B071 neuron	0	11
+FBbt_20010752	adult IN23B028 neuron	0	14
+FBbt_00053160	prothoracic intracoxal trochanter levator muscle motor neuron	0	16
+FBbt_20009091	adult IN05B070 neuron	0	6
+FBbt_20010430	adult IN19A112 neuron	0	2
+FBbt_20009524	adult IN09A073 neuron	0	6
+FBbt_20009766	adult IN12B065 neuron	0	8
+FBbt_20010770	adult IN23B046 neuron	0	9
+FBbt_20009207	adult IN06A115 neuron	0	4
+FBbt_20008811	adult IN03A035 neuron	0	3
+FBbt_20010523	adult IN19B092 neuron	0	2
+FBbt_20010441	adult IN19A123 neuron	0	1
+FBbt_20010600	adult IN20A.22A074 neuron	0	9
+FBbt_20009991	adult IN14A037 neuron	0	6
+FBbt_20010059	adult IN14A107 neuron	0	4
+FBbt_20008840	adult IN03A064 neuron	0	11
+FBbt_20010420	adult IN19A102 neuron	0	2
+FBbt_20010678	adult IN21A061 neuron	0	6
+FBbt_20008933	adult IN03B084 neuron	0	6
+FBbt_20008604	adult IN01A066 neuron	0	6
+FBbt_20009788	adult IN12B091 neuron	0	2
+FBbt_20010528	adult IN19B103 neuron	0	7
+FBbt_20009658	adult IN11B017 neuron	0	13
+FBbt_20009490	adult IN09A039 neuron	0	17
+FBbt_20009626	adult IN11A021 neuron	0	11
+FBbt_20010571	adult IN20A.22A045 neuron	0	10
+FBbt_20010253	adult IN17A094 neuron	0	4
+FBbt_20009175	adult IN06A079 neuron	0	6
+FBbt_20010798	adult IN23B074 neuron	0	7
+FBbt_20009786	adult IN12B088 neuron	0	6
+FBbt_20009208	adult IN06A116 neuron	0	11
+FBbt_20009952	adult IN13B098 neuron	0	6
+FBbt_20009482	adult IN09A030 neuron	0	7
+FBbt_20009274	adult IN06B063 neuron	0	9
+FBbt_20010053	adult IN14A101 neuron	0	2
+FBbt_20010322	adult IN18B049 neuron	0	2
+FBbt_20011149	adult MNad29 neuron	0	2
+FBbt_20008849	adult IN03A073 neuron	0	11
+FBbt_20010666	adult IN21A049 neuron	0	6
+FBbt_20009488	adult IN09A037 neuron	0	3
+FBbt_20009339	adult IN07B068 neuron	0	6
+FBbt_20008662	adult IN01B042 neuron	0	7
+FBbt_20008529	adult IN00A056 neuron	0	5
+FBbt_20008625	adult IN01A088 neuron	0	6
+FBbt_20010764	adult IN23B040 neuron	0	6
+FBbt_20008669	adult IN01B049 neuron	0	6
+FBbt_20010178	adult IN16B118 neuron	0	4
+FBbt_20009909	adult IN13B052 neuron	0	7
+FBbt_20008647	adult IN01B027 neuron	0	15
+FBbt_20009530	adult IN09A079 neuron	0	11
+FBbt_20009521	adult IN09A070 neuron	0	5
+FBbt_20009597	adult IN10B044 neuron	0	8
+FBbt_20009848	adult IN13A061 neuron	0	12
+FBbt_20010796	adult IN23B072 neuron	0	8
+FBbt_20009227	adult IN06A135 neuron	0	4
+FBbt_20009602	adult IN10B057 neuron	0	29
+FBbt_20009660	adult IN11B019 neuron	0	9
+FBbt_20009095	adult IN05B077 neuron	0	2
+FBbt_20009545	adult IN09A094 neuron	0	5
+FBbt_20010156	adult IN16B094 neuron	0	4
+FBbt_20010146	adult IN16B084 neuron	0	2
+FBbt_20010673	adult IN21A056 neuron	0	6
+FBbt_20008523	adult IN00A050 neuron	0	3
+FBbt_20010239	adult IN17A080 neuron	0	2
+FBbt_20009221	adult IN06A129 neuron	0	4
+FBbt_20008540	adult IN00A067 neuron	0	4
+FBbt_20008919	adult IN03B070 neuron	0	8
+FBbt_20010574	adult IN20A.22A048 neuron	0	13
+FBbt_20010062	adult IN14A110 neuron	0	10
+FBbt_20009850	adult IN13A063 neuron	0	6
+FBbt_20010730	adult IN21A114 neuron	0	1
+FBbt_20010563	adult IN20A.22A037 neuron	0	5
+FBbt_20009662	adult IN11B021 neuron	0	14
+FBbt_20010761	adult IN23B037 neuron	0	6
+FBbt_20009905	adult IN13B048 neuron	0	2
+FBbt_20010311	adult IN18B038 neuron	0	10
+FBbt_20008518	adult IN00A045 neuron	0	7
+FBbt_20010437	adult IN19A119 neuron	0	1
+FBbt_20009230	adult IN06A138 neuron	0	5
+FBbt_00053069	prothoracic tarsal levator muscle motor neuron	0	5
+FBbt_20010400	adult IN19A081 neuron	0	5
+FBbt_20010394	adult IN19A073 neuron	0	9
+FBbt_20009942	adult IN13B087 neuron	0	6
+FBbt_20011194	adult MNhl60 neuron	0	2
+FBbt_20009705	adult IN12A062 neuron	0	6
+FBbt_20007967	adult AN10B031 neuron	0	2
+FBbt_20009265	adult IN06B053 neuron	0	6
+FBbt_20007904	adult AN08B098 neuron	0	8
+FBbt_20010413	adult IN19A094 neuron	0	3
+FBbt_20009855	adult IN13A068 neuron	0	14
+FBbt_20010162	adult IN16B100 neuron	0	9
+FBbt_20009738	adult IN12B036 neuron	0	12
+FBbt_20010024	adult IN14A071 neuron	0	1
+FBbt_20010029	adult IN14A077 neuron	0	7
+FBbt_20009489	adult IN09A038 neuron	0	3
+FBbt_20010522	adult IN19B091 neuron	0	14
+FBbt_20008778	adult IN02A067 neuron	0	2
+FBbt_20009024	adult IN04B085 neuron	0	4
+FBbt_20010771	adult IN23B047 neuron	0	6
+FBbt_20008703	adult IN01B084 neuron	0	6
+FBbt_20010409	adult IN19A090 neuron	0	5
+FBbt_20009605	adult IN10B061 neuron	0	2
+FBbt_20008716	adult IN01B097 neuron	0	4
+FBbt_20010428	adult IN19A110 neuron	0	6
+FBbt_20009902	adult IN13B045 neuron	0	6
+FBbt_20008853	adult IN03A077 neuron	0	8
+FBbt_20008872	adult IN03A097 neuron	0	3
+FBbt_20008705	adult IN01B086 neuron	0	2
+FBbt_20010552	adult IN20A.22A025 neuron	0	5
+FBbt_20009031	adult IN04B092 neuron	0	7
+FBbt_20009859	adult IN13A072 neuron	0	3
+FBbt_20008642	adult IN01B022 neuron	0	6
+FBbt_20010075	adult IN14A123 neuron	0	2
+FBbt_20010683	adult IN21A066 neuron	0	3
+FBbt_20009567	adult IN09B055 neuron	0	2
+FBbt_20010137	adult IN16B073 neuron	0	7
+FBbt_20010661	adult IN21A044 neuron	0	6
+FBbt_20008706	adult IN01B087 neuron	0	2
+FBbt_20010020	adult IN14A067 neuron	0	3
+FBbt_20010541	adult IN20A.22A012 neuron	0	11
+FBbt_20008608	adult IN01A070 neuron	0	10
+FBbt_20008958	adult IN04B016 neuron	0	4
+FBbt_20008838	adult IN03A062 neuron	0	23
+FBbt_20010180	adult IN16B120 neuron	0	2
+FBbt_20009385	adult IN08A032 neuron	0	6
+FBbt_20010613	adult IN20A.22A088 neuron	0	6
+FBbt_20010422	adult IN19A104 neuron	0	3
+FBbt_20009384	adult IN08A031 neuron	0	12
+FBbt_20009838	adult IN13A051 neuron	0	12
+FBbt_20008521	adult IN00A048 neuron	0	5
+FBbt_20009817	adult IN13A029 neuron	0	8
+FBbt_20008592	adult IN01A053 neuron	0	4
+FBbt_20008704	adult IN01B085 neuron	0	2
+FBbt_20008745	adult IN02A033 neuron	0	11
+FBbt_20008648	adult IN01B028 neuron	0	2
+FBbt_20008695	adult IN01B075 neuron	0	2
+FBbt_20008866	adult IN03A091 neuron	0	7
+FBbt_20009392	adult IN08A039 neuron	0	4
+FBbt_20010453	adult IN19A135 neuron	0	3
+FBbt_20008908	adult IN03B059 neuron	0	4
+FBbt_20010014	adult IN14A061 neuron	0	3
+FBbt_20009517	adult IN09A066 neuron	0	6
+FBbt_20008073	adult AN19B063 neuron	0	4
+FBbt_20010704	adult IN21A087 neuron	0	18
+FBbt_20010366	adult IN19A044 neuron	0	4
+FBbt_20010543	adult IN20A.22A015 neuron	0	9
+FBbt_20008543	adult IN00A070 neuron	0	2
+FBbt_20010670	adult IN21A053 neuron	0	2
+FBbt_20010529	adult IN19B105 neuron	0	4
+FBbt_20010439	adult IN19A121 neuron	0	3
+FBbt_20009600	adult IN10B054 neuron	0	7
+FBbt_20008918	adult IN03B069 neuron	0	14
+FBbt_20009954	adult IN13B100 neuron	0	1
+FBbt_20008712	adult IN01B093 neuron	0	2
+FBbt_20008839	adult IN03A063 neuron	0	2
+FBbt_20010580	adult IN20A.22A054 neuron	0	8
+FBbt_20010715	adult IN21A098 neuron	0	2
+FBbt_20010166	adult IN16B104 neuron	0	2
+FBbt_20009856	adult IN13A069 neuron	0	3
+FBbt_20010005	adult IN14A052 neuron	0	7
+FBbt_20010030	adult IN14A078 neuron	0	11
+FBbt_20010425	adult IN19A107 neuron	0	4
+FBbt_20008862	adult IN03A087 neuron	0	7
+FBbt_20009373	adult IN08A019 neuron	0	12
+FBbt_20008655	adult IN01B035 neuron	0	3
+FBbt_20011052	adult INXXX385 neuron	0	4
+FBbt_20009631	adult IN11A027 neuron	0	8
+FBbt_20010457	adult IN19A139 neuron	0	1
+FBbt_20008861	adult IN03A085 neuron	0	8
+FBbt_20008752	adult IN02A040 neuron	0	4
+FBbt_20010766	adult IN23B042 neuron	0	2
+FBbt_20010067	adult IN14A115 neuron	0	3
+FBbt_20009169	adult IN06A073 neuron	0	2
+FBbt_20009388	adult IN08A035 neuron	0	6
+FBbt_20009010	adult IN04B071 neuron	0	6
+FBbt_20010807	adult IN23B083 neuron	0	2
+FBbt_20010687	adult IN21A070 neuron	0	2
+FBbt_20008637	adult IN01B016 neuron	0	5
+FBbt_20010818	adult IN23B094 neuron	0	2
+FBbt_00053046	adult fruitless vMS12 neuron	0	28
+FBbt_20009996	adult IN14A042 neuron	0	6
+FBbt_20008741	adult IN02A029 neuron	0	16
+FBbt_20010564	adult IN20A.22A038 neuron	0	9
+FBbt_20010694	adult IN21A077 neuron	0	5
+FBbt_20009107	adult IN05B093 neuron	0	2
+FBbt_20008806	adult IN03A030 neuron	0	12
+FBbt_20009833	adult IN13A045 neuron	0	10
+FBbt_20009335	adult IN07B064 neuron	0	4
+FBbt_20009725	adult IN12B023 neuron	0	7
+FBbt_20010814	adult IN23B090 neuron	0	5
+FBbt_20009341	adult IN07B074 neuron	0	5
+FBbt_20010515	adult IN19B084 neuron	0	6
+FBbt_20008865	adult IN03A090 neuron	0	2
+FBbt_20008942	adult IN03B093 neuron	0	2
+FBbt_20008542	adult IN00A069 neuron	0	2
+FBbt_20010174	adult IN16B113 neuron	0	2
+FBbt_20010450	adult IN19A132 neuron	0	2
+FBbt_20008858	adult IN03A082 neuron	0	4
+FBbt_20010442	adult IN19A124 neuron	0	3
+FBbt_20009529	adult IN09A078 neuron	0	7
+FBbt_20009955	adult IN13B101 neuron	0	1
+FBbt_20009395	adult IN08A042 neuron	0	4
+FBbt_20010173	adult IN16B111 neuron	0	4
+FBbt_20010454	adult IN19A136 neuron	0	1
+FBbt_20010576	adult IN20A.22A050 neuron	0	7
+FBbt_20009168	adult IN06A072 neuron	0	4
+FBbt_20009378	adult IN08A025 neuron	0	2
+FBbt_20009612	adult IN11A007 neuron	0	7
+FBbt_20010709	adult IN21A092 neuron	0	2
+FBbt_20010055	adult IN14A103 neuron	0	2
+FBbt_20008696	adult IN01B077 neuron	0	4
+FBbt_20008083	adult AN19B102 neuron	0	2
+FBbt_20008850	adult IN03A074 neuron	0	3
+FBbt_20009924	adult IN13B067 neuron	0	2
+FBbt_20010772	adult IN23B048 neuron	0	2
+FBbt_20010728	adult IN21A112 neuron	0	1
+FBbt_20009906	adult IN13B049 neuron	0	2
+FBbt_20009765	adult IN12B064 neuron	0	2
+FBbt_20010069	adult IN14A117 neuron	0	2
+FBbt_20010714	adult IN21A097 neuron	0	2
+FBbt_20009034	adult IN04B095 neuron	0	4
+FBbt_20009231	adult IN06A139 neuron	0	1
+FBbt_20009854	adult IN13A067 neuron	0	5
+FBbt_20010790	adult IN23B066 neuron	0	5
+FBbt_20009497	adult IN09A046 neuron	0	12
+FBbt_20010038	adult IN14A086 neuron	0	6
+FBbt_20009760	adult IN12B059 neuron	0	7
+FBbt_20007979	adult AN10B053 neuron	0	10
+FBbt_20009751	adult IN12B049 neuron	0	6
+FBbt_20008643	adult IN01B023 neuron	0	9
+FBbt_20009935	adult IN13B078 neuron	0	12
+FBbt_20009743	adult IN12B041 neuron	0	6
+FBbt_20009512	adult IN09A061 neuron	0	2
+FBbt_20009507	adult IN09A056 neuron	0	5
+FBbt_20009561	adult IN09B049 neuron	0	2
+FBbt_20011000	adult INXXX319 neuron	0	2
+FBbt_20009224	adult IN06A132 neuron	0	11
+FBbt_20009699	adult IN12A054 neuron	0	10
+FBbt_20007978	adult AN10B051 neuron	0	4
+FBbt_20010789	adult IN23B065 neuron	0	5
+FBbt_20009349	adult IN07B084 neuron	0	4
+FBbt_20010602	adult IN20A.22A077 neuron	0	10
+FBbt_20009520	adult IN09A069 neuron	0	6
+FBbt_20010002	adult IN14A048 neuron	0	4
+FBbt_20009839	adult IN13A052 neuron	0	4
+FBbt_20010426	adult IN19A108 neuron	0	18
+FBbt_20010047	adult IN14A095 neuron	0	6
+FBbt_20009828	adult IN13A040 neuron	0	13
+FBbt_20009986	adult IN14A032 neuron	0	2
+FBbt_20009644	adult IN11A045 neuron	0	1
+FBbt_20009165	adult IN06A069 neuron	0	2
+FBbt_20008684	adult IN01B064 neuron	0	3
+FBbt_20007788	adult AN06A080 neuron	0	4
+FBbt_20008845	adult IN03A069 neuron	0	10
+FBbt_20010783	adult IN23B059 neuron	0	5
+FBbt_20009288	adult IN06B079 neuron	0	12
+FBbt_20008943	adult IN04A002 neuron	0	6
+FBbt_20008650	adult IN01B030 neuron	0	2
+FBbt_20008602	adult IN01A064 neuron	0	4
+FBbt_20009527	adult IN09A076 neuron	0	4
+FBbt_20009222	adult IN06A130 neuron	0	4
+FBbt_20010663	adult IN21A046 neuron	0	2
+FBbt_20010769	adult IN23B045 neuron	0	4
+FBbt_20009841	adult IN13A054 neuron	0	7
+FBbt_00049600	giant fiber coupled neuron 4	0	9
+FBbt_20010073	adult IN14A121 neuron	0	3
+FBbt_20010668	adult IN21A051 neuron	0	5
+FBbt_20010158	adult IN16B096 neuron	0	2
+FBbt_20010674	adult IN21A057 neuron	0	2
+FBbt_20010179	adult IN16B119 neuron	0	3
+FBbt_20009390	adult IN08A037 neuron	0	8
+FBbt_20010325	adult IN18B052 neuron	0	4
+FBbt_20010787	adult IN23B063 neuron	0	6
+FBbt_20009998	adult IN14A044 neuron	0	7
+FBbt_20010486	adult IN19B043 neuron	0	11
+FBbt_20010655	adult IN21A038 neuron	0	6
+FBbt_20009015	adult IN04B076 neuron	0	4
+FBbt_20010168	adult IN16B106 neuron	0	5
+FBbt_20009203	adult IN06A110 neuron	0	7
+FBbt_20010431	adult IN19A113 neuron	0	5
+FBbt_20009532	adult IN09A081 neuron	0	5
+FBbt_20008624	adult IN01A087 neuron	0	4
+FBbt_20008623	adult IN01A085 neuron	0	2
+FBbt_20009381	adult IN08A028 neuron	0	12
+FBbt_20008746	adult IN02A034 neuron	0	4
+FBbt_20007916	adult AN08B113 neuron	0	10
+FBbt_20009745	adult IN12B043 neuron	0	5
+FBbt_20009191	adult IN06A098 neuron	0	4
+FBbt_20008698	adult IN01B079 neuron	0	6
+FBbt_20010061	adult IN14A109 neuron	0	7
+FBbt_20008720	adult IN01B101 neuron	0	3
+FBbt_20008940	adult IN03B091 neuron	0	12
+FBbt_20009007	adult IN04B068 neuron	0	12
+FBbt_20010116	adult IN16B052 neuron	0	8
+FBbt_00049599	giant fiber coupled neuron 3	0	12
+FBbt_20008708	adult IN01B089 neuron	0	2
+FBbt_20010419	adult IN19A101 neuron	0	3
+FBbt_20007913	adult AN08B110 neuron	0	2
+FBbt_20010596	adult IN20A.22A070 neuron	0	11
+FBbt_20009565	adult IN09B053 neuron	0	4
+FBbt_20010412	adult IN19A093 neuron	0	16
+FBbt_20009275	adult IN06B064 neuron	0	8
+FBbt_20010585	adult IN20A.22A059 neuron	0	10
+FBbt_20011206	adult MNhl72 neuron	0	1
+FBbt_20009278	adult IN06B067 neuron	0	4
+FBbt_20010725	adult IN21A108 neuron	0	2
+FBbt_20009012	adult IN04B073 neuron	0	4
+FBbt_20007977	adult AN10B049 neuron	0	6
+FBbt_20010440	adult IN19A122 neuron	0	9
+FBbt_20007838	adult AN07B046 neuron	0	8
+FBbt_20010731	adult IN21A115 neuron	0	1
+FBbt_20010449	adult IN19A131 neuron	0	1
+FBbt_20010401	adult IN19A082 neuron	0	4
+FBbt_20010125	adult IN16B061 neuron	0	8
+FBbt_20009594	adult IN10B041 neuron	0	12
+FBbt_20009779	adult IN12B081 neuron	0	9
+FBbt_20009697	adult IN12A052 neuron	0	7
+FBbt_20007969	adult AN10B034 neuron	0	10
+FBbt_20010434	adult IN19A116 neuron	0	2
+FBbt_20009620	adult IN11A015 neuron	0	2
+FBbt_20010775	adult IN23B051 neuron	0	2
+FBbt_20010710	adult IN21A093 neuron	0	6
+FBbt_20009336	adult IN07B065 neuron	0	11
+FBbt_20009769	adult IN12B069 neuron	0	5
+FBbt_20009343	adult IN07B076 neuron	0	10
+FBbt_20010810	adult IN23B086 neuron	0	7
+FBbt_20009219	adult IN06A127 neuron	0	2
+FBbt_20009502	adult IN09A051 neuron	0	2
+FBbt_20010598	adult IN20A.22A072 neuron	0	2
+FBbt_20008857	adult IN03A081 neuron	0	6
+FBbt_20009940	adult IN13B084 neuron	0	2
+FBbt_20010432	adult IN19A114 neuron	0	12
+FBbt_20010438	adult IN19A120 neuron	0	5
+FBbt_20009086	adult IN05B055 neuron	0	2
+FBbt_20010716	adult IN21A099 neuron	0	3
+FBbt_20010066	adult IN14A114 neuron	0	7
+FBbt_20008777	adult IN02A066 neuron	0	10
+FBbt_20011093	adult INXXX431 neuron	0	11
+FBbt_20008926	adult IN03B077 neuron	0	8
+FBbt_20010056	adult IN14A104 neuron	0	2
+FBbt_20009564	adult IN09B052 neuron	0	4
+FBbt_20010405	adult IN19A086 neuron	0	6
+FBbt_20010549	adult IN20A.22A022 neuron	0	7
+FBbt_20008622	adult IN01A084 neuron	0	2
+FBbt_20010778	adult IN23B054 neuron	0	6
+FBbt_20010060	adult IN14A108 neuron	0	6
+FBbt_20009356	adult IN07B096 neuron	0	18
+FBbt_00053118	mesothoracic femoral reductor muscle motor neuron	0	6
+FBbt_20008767	adult IN02A056 neuron	0	9
+FBbt_20008711	adult IN01B092 neuron	0	5
+FBbt_20010817	adult IN23B093 neuron	0	2
+FBbt_20010611	adult IN20A.22A086 neuron	0	12
+FBbt_20009229	adult IN06A137 neuron	0	6
+FBbt_20009729	adult IN12B027 neuron	0	13
+FBbt_20009476	adult IN09A024 neuron	0	6
+FBbt_20008924	adult IN03B075 neuron	0	4
+FBbt_20009513	adult IN09A062 neuron	0	2
+FBbt_20010579	adult IN20A.22A053 neuron	0	15
+FBbt_20010675	adult IN21A058 neuron	0	8
+FBbt_20009544	adult IN09A093 neuron	0	13
+FBbt_20010795	adult IN23B071 neuron	0	6
+FBbt_20010034	adult IN14A082 neuron	0	3
+FBbt_20010592	adult IN20A.22A066 neuron	0	6
+FBbt_20008921	adult IN03B072 neuron	0	11
+FBbt_20009225	adult IN06A133 neuron	0	4
+FBbt_20008709	adult IN01B090 neuron	0	14
+FBbt_20009350	adult IN07B086 neuron	0	10
+FBbt_20010594	adult IN20A.22A068 neuron	0	4
+FBbt_20009192	adult IN06A099 neuron	0	6
+FBbt_20009017	adult IN04B078 neuron	0	13
+FBbt_20008691	adult IN01B071 neuron	0	1
+FBbt_20009598	adult IN10B050 neuron	0	10
+FBbt_20010743	adult IN23B017 neuron	0	6
+FBbt_20009757	adult IN12B056 neuron	0	10
+FBbt_20011103	adult INXXX446 neuron	0	16
+FBbt_20008076	adult AN19B076 neuron	0	4
+FBbt_20010729	adult IN21A113 neuron	0	1
+FBbt_20009442	adult IN08B080 neuron	0	2
+FBbt_20009764	adult IN12B063 neuron	0	11
+FBbt_20009635	adult IN11A032 neuron	0	12
+FBbt_20009842	adult IN13A055 neuron	0	8
+FBbt_20009101	adult IN05B087 neuron	0	2
+FBbt_20008645	adult IN01B025 neuron	0	6
+FBbt_20010421	adult IN19A103 neuron	0	2
+FBbt_20008654	adult IN01B034 neuron	0	4
+FBbt_20008915	adult IN03B066 neuron	0	22
+FBbt_20008508	adult IN00A035 neuron	0	3
+FBbt_20009261	adult IN06B047 neuron	0	16
+FBbt_20010615	adult IN20A.22A090 neuron	0	18
+FBbt_20010612	adult IN20A.22A087 neuron	0	6
+FBbt_20010392	adult IN19A071 neuron	0	6
+FBbt_20008966	adult IN04B025 neuron	0	6
+FBbt_20010614	adult IN20A.22A089 neuron	0	16
+FBbt_20010744	adult IN23B018 neuron	0	16
+FBbt_00053162	metathoracic intracoxal trochanter levator muscle motor neuron	0	12
+FBbt_20010712	adult IN21A095 neuron	0	2
+FBbt_20010590	adult IN20A.22A064 neuron	0	6
+FBbt_20010521	adult IN19B090 neuron	0	10
+FBbt_20009355	adult IN07B094 neuron	0	12
+FBbt_00053053	adult fruitless vPR13 neuron	0	17
+FBbt_20008907	adult IN03B058 neuron	0	21
+FBbt_20009357	adult IN07B098 neuron	0	17
+FBbt_20009661	adult IN11B020 neuron	0	9
+FBbt_20010071	adult IN14A119 neuron	0	6
+FBbt_20009360	adult IN07B102 neuron	0	10
+FBbt_20009826	adult IN13A038 neuron	0	11
+FBbt_00053060	pretarsal depressor muscle motor neuron	0	23
+FBbt_20010070	adult IN14A118 neuron	0	6
+FBbt_00053107	prothoracic tergotrochanter extensor muscle motor neuron	0	8
+FBbt_20010581	adult IN20A.22A055 neuron	0	19
+FBbt_20009523	adult IN09A072 neuron	0	7
+FBbt_20009525	adult IN09A074 neuron	0	9
+FBbt_20011215	adult MNml77 neuron	0	2
+FBbt_20009618	adult IN11A013 neuron	0	2
+FBbt_00053117	prothoracic femoral reductor muscle motor neuron	0	12
+FBbt_20010595	adult IN20A.22A069 neuron	0	11
+FBbt_20010418	adult IN19A100 neuron	0	8
+FBbt_20009167	adult IN06A071 neuron	0	2
+FBbt_20010654	adult IN21A037 neuron	0	9
+FBbt_20008836	adult IN03A060 neuron	0	8
+FBbt_20007905	adult AN08B099 neuron	0	22
+FBbt_20009655	adult IN11B014 neuron	0	11
+FBbt_20010811	adult IN23B087 neuron	0	6
+FBbt_20010575	adult IN20A.22A049 neuron	0	17
+FBbt_20010368	adult IN19A046 neuron	0	4
+FBbt_20010703	adult IN21A086 neuron	0	3
+FBbt_20007925	adult AN09B009 neuron	0	6
+FBbt_20010757	adult IN23B033 neuron	0	4
+FBbt_20009557	adult IN09B045 neuron	0	6
+FBbt_20009514	adult IN09A063 neuron	0	7
+FBbt_20010695	adult IN21A078 neuron	0	7
+FBbt_20009663	adult IN11B022 neuron	0	19
+FBbt_20008699	adult IN01B080 neuron	0	14
+FBbt_20009361	adult IN07B103 neuron	0	4
+FBbt_20008867	adult IN03A092 neuron	0	7
+FBbt_20008685	adult IN01B065 neuron	0	16
+FBbt_20009326	adult IN07B048 neuron	0	6
+FBbt_20009702	adult IN12A059 neuron	0	17
+FBbt_20010026	adult IN14A074 neuron	0	6
+FBbt_00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	0	14
+FBbt_20009641	adult IN11A041 neuron	0	3
+FBbt_20009560	adult IN09B048 neuron	0	6
+FBbt_20010660	adult IN21A043 neuron	0	2
+FBbt_20009172	adult IN06A076 neuron	0	6
+FBbt_20008847	adult IN03A071 neuron	0	17
+FBbt_20010767	adult IN23B043 neuron	0	10
+FBbt_20010312	adult IN18B039 neuron	0	2
+FBbt_20008855	adult IN03A079 neuron	0	2
+FBbt_20008897	adult IN03B045 neuron	0	2
+FBbt_20010756	adult IN23B032 neuron	0	9
+FBbt_20008646	adult IN01B026 neuron	0	6
+FBbt_20009043	adult IN04B104 neuron	0	7
+FBbt_20009593	adult IN10B040 neuron	0	6
+FBbt_20009768	adult IN12B068 neuron	0	10
+FBbt_20010436	adult IN19A118 neuron	0	3
+FBbt_20009696	adult IN12A051 neuron	0	2
+FBbt_20008714	adult IN01B095 neuron	0	25
+FBbt_20010719	adult IN21A102 neuron	0	5
+FBbt_20009342	adult IN07B075 neuron	0	9
+FBbt_20009990	adult IN14A036 neuron	0	6
+FBbt_00053131	mesothoracic tibial depressor motor neuron	0	23
+FBbt_20008856	adult IN03A080 neuron	0	4
+FBbt_20008737	adult IN02A023 neuron	0	8
+FBbt_20010383	adult IN19A061 neuron	0	7
+FBbt_20008535	adult IN00A062 neuron	0	3
+FBbt_20010718	adult IN21A101 neuron	0	1
+FBbt_00053130	prothoracic tibial depressor motor neuron	0	30
+FBbt_20009289	adult IN06B080 neuron	0	8
+FBbt_20010610	adult IN20A.22A085 neuron	0	16
+FBbt_20008904	adult IN03B055 neuron	0	11
+FBbt_20009379	adult IN08A026 neuron	0	24
+FBbt_20008619	adult IN01A081 neuron	0	5
+FBbt_20010402	adult IN19A083 neuron	0	3
+FBbt_20009259	adult IN06B042 neuron	0	4
+FBbt_20007818	adult AN07B003 neuron	0	2
+FBbt_00052725	wing basalar muscle b3 motor neuron	0	2
+FBbt_20008456	adult EN00B002 neuron	0	1
+FBbt_20010848	adult INXXX048 neuron	0	2
+FBbt_20009305	adult IN07B013 neuron	0	2
+FBbt_00051089	adult LBL40 neuron of ventral nerve cord	0	2
+FBbt_20009463	adult IN09A011 neuron	0	2
+FBbt_20011142	adult MNad22 neuron	0	4
+FBbt_20008947	adult IN04B005 neuron	0	2
+FBbt_20010471	adult IN19B016 neuron	0	2
+FBbt_20009582	adult IN10B016 neuron	0	2
+FBbt_20011191	adult MNhl02 neuron	0	2
+FBbt_20008111	adult ANXXX026 neuron	0	2
+FBbt_20008463	adult EN00B014 neuron	0	1
+FBbt_00052751	adult mesothoracic ventral unpaired median neuron	0	2
+FBbt_20007688	adult AN01A014 neuron	0	2
+FBbt_20009864	adult IN13B006 neuron	0	6
+FBbt_20007687	adult AN01A006 neuron	0	2
+FBbt_20007686	adult AN01A001 neuron	0	2
+FBbt_20010857	adult INXXX065 neuron	0	2
+FBbt_20007824	adult AN07B017 neuron	0	2
+FBbt_20007765	adult AN05B095 neuron	0	2
+FBbt_20010288	adult IN18B006 neuron	0	2
+FBbt_20008058	adult AN19B022 neuron	0	2
+FBbt_20009062	adult IN05B012 neuron	0	2
+FBbt_20008454	adult EA06B010 neuron	0	2
+FBbt_20011186	adult MNad67 neuron	0	2
+FBbt_20008480	adult IN00A004 neuron	0	2
+FBbt_20009234	adult IN06B006 neuron	0	2
+FBbt_20008007	adult AN17A002 neuron	0	2
+FBbt_20009306	adult IN07B014 neuron	0	2
+FBbt_20010189	adult IN17A013 neuron	0	2
+FBbt_20010822	adult IN27X001 neuron	0	2
+FBbt_20011161	adult MNad41 neuron	0	2
+FBbt_20008102	adult ANXXX002 neuron	0	2
+FBbt_20010186	adult IN17A001 neuron	0	6
+FBbt_20008012	adult AN17A012 neuron	0	4
+FBbt_20010294	adult IN18B014 neuron	0	2
+FBbt_20009298	adult IN07B002 neuron	0	7
+FBbt_20009672	adult IN12A008 neuron	0	2
+FBbt_20008087	adult AN23B002 neuron	0	2
+FBbt_20009460	adult IN09A007 neuron	0	4
+FBbt_20008452	adult EA00B006 neuron	0	1
+FBbt_20009233	adult IN06B003 neuron	0	2
+FBbt_20009061	adult IN05B011 neuron	0	4
+FBbt_20008038	adult AN18B004 neuron	0	2
+FBbt_20009308	adult IN07B019 neuron	0	2
+FBbt_20010330	adult IN19A002 neuron	0	6
+FBbt_20007987	adult AN12B001 neuron	0	2
+FBbt_20008113	adult ANXXX030 neuron	0	2
+FBbt_20008458	adult EN00B004 neuron	0	2
+FBbt_20009301	adult IN07B008 neuron	0	2
+FBbt_20008122	adult ANXXX057 neuron	0	2
+FBbt_20010082	adult IN14B006 neuron	0	2
+FBbt_20008548	adult IN01A004 neuron	0	2
+FBbt_20008472	adult EN27X010 neuron	0	5
+FBbt_20011182	adult MNad63 neuron	0	2
+FBbt_20010338	adult IN19A010 neuron	0	4
+FBbt_20009708	adult IN12B002 neuron	0	6
+FBbt_20008013	adult AN17A013 neuron	0	4
+FBbt_20007864	adult AN08B007 neuron	0	2
+FBbt_20009058	adult IN05B005 neuron	0	2
+FBbt_20009867	adult IN13B009 neuron	0	6
+FBbt_20010279	adult IN17B001 neuron	0	2
+FBbt_20007726	adult AN05B007 neuron	0	2
+FBbt_00052728	wing axillary muscle hg4 motor neuron	0	2
+FBbt_20008011	adult AN17A009 neuron	0	2
+FBbt_20009108	adult IN05B094 neuron	0	2
+FBbt_20009297	adult IN07B001 neuron	0	4
+FBbt_20008049	adult AN19B001 neuron	0	4
+FBbt_20009232	adult IN06B001 neuron	0	2
+FBbt_20009861	adult IN13B001 neuron	0	6
+FBbt_20008545	adult IN01A001 neuron	0	2
+FBbt_20009055	adult IN05B001 neuron	0	2
+FBbt_20010823	adult IN27X003 neuron	0	2
+FBbt_20008050	adult AN19B004 neuron	0	2
+FBbt_20008035	adult AN18B001 neuron	0	2
+FBbt_20007724	adult AN05B005 neuron	0	2
+FBbt_20010732	adult IN23B001 neuron	0	2
+FBbt_20008875	adult IN03B008 neuron	0	2
+FBbt_20008874	adult IN03B005 neuron	0	2
+FBbt_20009648	adult IN11B004 neuron	0	18
+FBbt_00053122	mesothoracic tibial levator muscle motor neuron	0	4
+FBbt_20009056	adult IN05B002 neuron	0	2
+FBbt_20009571	adult IN10B001 neuron	0	2
+FBbt_20010828	adult INXXX003 neuron	0	2
+FBbt_00052046	adult interneuron	0	11
+FBbt_20008105	adult ANXXX007 neuron	0	2
+FBbt_20009404	adult IN08B001 neuron	0	2
+FBbt_00053052	adult fruitless vMS17 neuron	0	2
+FBbt_20007700	adult AN02A001 neuron	0	2
+FBbt_20009241	adult IN06B017 neuron	0	8
+FBbt_20010824	adult IN27X004 neuron	0	2
+FBbt_20010461	adult IN19B002 neuron	0	2
+FBbt_00053051	adult fruitless vMS16 neuron	0	2
+FBbt_20008546	adult IN01A002 neuron	0	2
+FBbt_20009057	adult IN05B003 neuron	0	2
+FBbt_20011143	adult MNad23 neuron	0	2
+FBbt_20008026	adult AN17B002 neuron	0	2
+FBbt_20007728	adult AN05B010 neuron	0	2
+FBbt_20009059	adult IN05B008 neuron	0	2
+FBbt_20011141	adult MNad21 neuron	0	4
+FBbt_20008779	adult IN03A001 neuron	0	4
+FBbt_20009574	adult IN10B004 neuron	0	2
+FBbt_20007953	adult AN10B005 neuron	0	2
+FBbt_20008457	adult EN00B003 neuron	0	2
+FBbt_20007723	adult AN05B004 neuron	0	2
+FBbt_20010835	adult INXXX025 neuron	0	2
+FBbt_20010842	adult INXXX036 neuron	0	2
+FBbt_20011157	adult MNad37 neuron	0	1
+FBbt_20009406	adult IN08B004 neuron	0	2
+FBbt_20009673	adult IN12A009 neuron	0	2
+FBbt_20009364	adult IN08A003 neuron	0	2
+FBbt_20008461	adult EN00B012 neuron	0	1
+FBbt_20008887	adult IN03B029 neuron	0	2
+FBbt_20009303	adult IN07B010 neuron	0	2
+FBbt_20011188	adult MNad69 neuron	0	2
+FBbt_20008110	adult ANXXX024 neuron	0	2
+FBbt_20008028	adult AN17B007 neuron	0	2
+FBbt_20007725	adult AN05B006 neuron	0	4
+FBbt_20009407	adult IN08B006 neuron	0	2
+FBbt_20010290	adult IN18B009 neuron	0	2
+FBbt_20010860	adult INXXX073 neuron	0	2
+FBbt_20007683	adult AN00A002 neuron	0	1
+FBbt_20007989	adult AN12B005 neuron	0	2
+FBbt_20008477	adult IN00A001 neuron	0	2
+FBbt_20010332	adult IN19A004 neuron	0	6
+FBbt_20010198	adult IN17A028 neuron	0	12
+FBbt_20009568	adult IN09B056 neuron	0	2
+FBbt_20009596	adult IN10B043 neuron	0	6
+FBbt_20009978	adult IN14A024 neuron	0	6
+FBbt_20008600	adult IN01A062 neuron	0	10
+FBbt_20009401	adult IN08A048 neuron	0	8
+FBbt_20008925	adult IN03B076 neuron	0	2
+FBbt_20010748	adult IN23B023 neuron	0	15
+FBbt_20010139	adult IN16B075 neuron	0	20
+FBbt_20010555	adult IN20A.22A028 neuron	0	12
+FBbt_20010015	adult IN14A062 neuron	0	2
+FBbt_20009328	adult IN07B053 neuron	0	2
+FBbt_20010386	adult IN19A064 neuron	0	12
+FBbt_20010415	adult IN19A096 neuron	0	8
+FBbt_20009615	adult IN11A010 neuron	0	3
+FBbt_20009201	adult IN06A108 neuron	0	6
+FBbt_20010815	adult IN23B091 neuron	0	4
+FBbt_20008864	adult IN03A089 neuron	0	8
+FBbt_20010145	adult IN16B083 neuron	0	7
+FBbt_20010446	adult IN19A128 neuron	0	1
+FBbt_20009105	adult IN05B091 neuron	0	7
+FBbt_20009344	adult IN07B077 neuron	0	6
+FBbt_20009772	adult IN12B072 neuron	0	15
+FBbt_20008530	adult IN00A057 neuron	0	10
+FBbt_20009659	adult IN11B018 neuron	0	9
+FBbt_20009389	adult IN08A036 neuron	0	25
+FBbt_20009515	adult IN09A064 neuron	0	12
+FBbt_20009039	adult IN04B100 neuron	0	20
+FBbt_20009749	adult IN12B047 neuron	0	3
+FBbt_20008938	adult IN03B089 neuron	0	19
+FBbt_20009741	adult IN12B039 neuron	0	6
+FBbt_20010797	adult IN23B073 neuron	0	2
+FBbt_20010765	adult IN23B041 neuron	0	6
+FBbt_20010693	adult IN21A076 neuron	0	2
+FBbt_20008903	adult IN03B054 neuron	0	6
+FBbt_20009595	adult IN10B042 neuron	0	20
+FBbt_20010514	adult IN19B083 neuron	0	2
+FBbt_20010650	adult IN21A033 neuron	0	2
+FBbt_20009528	adult IN09A077 neuron	0	4
+FBbt_20008527	adult IN00A054 neuron	0	6
+FBbt_20008802	adult IN03A026 neuron	0	8
+FBbt_20010161	adult IN16B099 neuron	0	11
+FBbt_20011084	adult INXXX421 neuron	0	7
+FBbt_20009380	adult IN08A027 neuron	0	6
+FBbt_20008755	adult IN02A043 neuron	0	6
+FBbt_20009394	adult IN08A041 neuron	0	16
+FBbt_20009546	adult IN09A095 neuron	0	8
+FBbt_20009537	adult IN09A086 neuron	0	6
+FBbt_20009629	adult IN11A025 neuron	0	6
+FBbt_20010542	adult IN20A.22A013 neuron	0	6
+FBbt_20009931	adult IN13B074 neuron	0	6
+FBbt_20009539	adult IN09A088 neuron	0	4
+FBbt_20010557	adult IN20A.22A030 neuron	0	11
+FBbt_20010587	adult IN20A.22A061 neuron	0	10
+FBbt_20007850	adult AN07B071 neuron	0	18
+FBbt_20009778	adult IN12B079 neuron	0	13
+FBbt_20008633	adult IN01B012 neuron	0	6
+FBbt_20009787	adult IN12B090 neuron	0	2
+FBbt_20010123	adult IN16B059 neuron	0	4
+FBbt_20008928	adult IN03B079 neuron	0	8
+FBbt_20009921	adult IN13B064 neuron	0	6
+FBbt_20009569	adult IN09B057 neuron	0	2
+FBbt_20008525	adult IN00A052 neuron	0	2
+FBbt_20008843	adult IN03A067 neuron	0	10
+FBbt_20009953	adult IN13B099 neuron	0	2
+FBbt_20010606	adult IN20A.22A081 neuron	0	3
+FBbt_20010503	adult IN19B069 neuron	0	2
+FBbt_20007697	adult AN01B011 neuron	0	6
+FBbt_20009195	adult IN06A102 neuron	0	8
+FBbt_20008936	adult IN03B087 neuron	0	2
+FBbt_20007857	adult AN07B089 neuron	0	12
+FBbt_20008504	adult IN00A031 neuron	0	11
+FBbt_20010617	adult IN20A.22A092 neuron	0	21
+FBbt_20008539	adult IN00A066 neuron	0	5
+FBbt_20009451	adult IN08B093 neuron	0	13
+FBbt_20008753	adult IN02A041 neuron	0	2
+FBbt_20008795	adult IN03A019 neuron	0	6
+FBbt_20008763	adult IN02A052 neuron	0	6
+FBbt_20009518	adult IN09A067 neuron	0	2
+FBbt_20009035	adult IN04B096 neuron	0	3
+FBbt_20010562	adult IN20A.22A036 neuron	0	18
+FBbt_20009178	adult IN06A083 neuron	0	8
+FBbt_20009358	adult IN07B099 neuron	0	9
+FBbt_20009642	adult IN11A042 neuron	0	2
+FBbt_20010170	adult IN16B108 neuron	0	8
+FBbt_20010388	adult IN19A067 neuron	0	5
+FBbt_20009352	adult IN07B090 neuron	0	6
+FBbt_20008616	adult IN01A078 neuron	0	7
+FBbt_20009228	adult IN06A136 neuron	0	9
+FBbt_20008680	adult IN01B060 neuron	0	4
+FBbt_20008828	adult IN03A052 neuron	0	10
+FBbt_20009851	adult IN13A064 neuron	0	3
+FBbt_20009531	adult IN09A080 neuron	0	2
+FBbt_20008939	adult IN03B090 neuron	0	7
+FBbt_20009204	adult IN06A111 neuron	0	4
+FBbt_20008621	adult IN01A083 neuron	0	6
+FBbt_20010039	adult IN14A087 neuron	0	6
+FBbt_20008694	adult IN01B074 neuron	0	7
+FBbt_20009387	adult IN08A034 neuron	0	12
+FBbt_20008082	adult AN19B101 neuron	0	8
+FBbt_20010784	adult IN23B060 neuron	0	7
+FBbt_20010435	adult IN19A117 neuron	0	26
+FBbt_20009268	adult IN06B056 neuron	0	10
+FBbt_20010754	adult IN23B030 neuron	0	6
+FBbt_20008825	adult IN03A049 neuron	0	2
+FBbt_20011115	adult INXXX459 neuron	0	4
+FBbt_20010597	adult IN20A.22A071 neuron	0	6
+FBbt_20008682	adult IN01B062 neuron	0	2
+FBbt_20009282	adult IN06B072 neuron	0	5
+FBbt_20008909	adult IN03B060 neuron	0	26
+FBbt_20010517	adult IN19B086 neuron	0	8
+FBbt_20009176	adult IN06A081 neuron	0	4
+FBbt_20008998	adult IN04B059 neuron	0	5
+FBbt_20010387	adult IN19A065 neuron	0	5
+FBbt_20011214	adult MNml76 neuron	0	2
+FBbt_20009296	adult IN06B087 neuron	0	6
+FBbt_20010781	adult IN23B057 neuron	0	6
+FBbt_20011207	adult MNhl73 neuron	0	1
+FBbt_20010424	adult IN19A106 neuron	0	19
+FBbt_20010682	adult IN21A065 neuron	0	1
+FBbt_20009199	adult IN06A106 neuron	0	10
+FBbt_20009538	adult IN09A087 neuron	0	4
+FBbt_20010127	adult IN16B063 neuron	0	4
+FBbt_20009042	adult IN04B103 neuron	0	8
+FBbt_20008492	adult IN00A018 neuron	0	2
+FBbt_20009277	adult IN06B066 neuron	0	21
+FBbt_20009947	adult IN13B093 neuron	0	5
+FBbt_20009775	adult IN12B075 neuron	0	8
+FBbt_20008769	adult IN02A058 neuron	0	8
+FBbt_20009351	adult IN07B087 neuron	0	12
+FBbt_20009399	adult IN08A046 neuron	0	6
+FBbt_20010153	adult IN16B091 neuron	0	4
+FBbt_20009052	adult IN04B113 neuron	0	2
+FBbt_20008910	adult IN03B061 neuron	0	9
+FBbt_20008803	adult IN03A027 neuron	0	6
+FBbt_20010520	adult IN19B089 neuron	0	8
+FBbt_20008653	adult IN01B033 neuron	0	7
+FBbt_20011113	adult INXXX457 neuron	0	2
+FBbt_20009951	adult IN13B097 neuron	0	6
+FBbt_20010586	adult IN20A.22A060 neuron	0	12
+FBbt_20010152	adult IN16B090 neuron	0	4
+FBbt_20009695	adult IN12A050 neuron	0	6
+FBbt_20010645	adult IN21A028 neuron	0	6
+FBbt_20008702	adult IN01B083 neuron	0	8
+FBbt_20009742	adult IN12B040 neuron	0	6
+FBbt_20007855	adult AN07B085 neuron	0	6
+FBbt_20010381	adult IN19A059 neuron	0	7
+FBbt_20010445	adult IN19A127 neuron	0	4
+FBbt_20007975	adult AN10B047 neuron	0	14
+FBbt_20008863	adult IN03A088 neuron	0	6
+FBbt_20009913	adult IN13B056 neuron	0	7
+FBbt_20009599	adult IN10B052 neuron	0	6
+FBbt_20008672	adult IN01B052 neuron	0	7
+FBbt_20009382	adult IN08A029 neuron	0	6
+FBbt_20010755	adult IN23B031 neuron	0	8
+FBbt_20010151	adult IN16B089 neuron	0	6
+FBbt_20008868	adult IN03A093 neuron	0	5
+FBbt_20009753	adult IN12B051 neuron	0	5
+FBbt_20009771	adult IN12B071 neuron	0	6
+FBbt_20008509	adult IN00A036 neuron	0	4
+FBbt_20009033	adult IN04B094 neuron	0	5
+FBbt_20008651	adult IN01B031 neuron	0	5
+FBbt_20007972	adult AN10B039 neuron	0	10
+FBbt_20010382	adult IN19A060 neuron	0	21
+FBbt_20010023	adult IN14A070 neuron	0	3
+FBbt_20010604	adult IN20A.22A079 neuron	0	8
+FBbt_20010582	adult IN20A.22A056 neuron	0	7
+FBbt_20010548	adult IN20A.22A021 neuron	0	12
+FBbt_20007763	adult AN05B083 neuron	0	2
+FBbt_20010805	adult IN23B081 neuron	0	7
+FBbt_20009858	adult IN13A071 neuron	0	5
+FBbt_20010662	adult IN21A045 neuron	0	2
+FBbt_20010567	adult IN20A.22A041 neuron	0	12
+FBbt_20009780	adult IN12B082 neuron	0	3
+FBbt_20009040	adult IN04B101 neuron	0	8
+FBbt_20008941	adult IN03B092 neuron	0	6
+FBbt_20008649	adult IN01B029 neuron	0	2
+FBbt_20009789	adult IN12B092 neuron	0	2
+FBbt_20010599	adult IN20A.22A073 neuron	0	15
+FBbt_20009726	adult IN12B024 neuron	0	18
+FBbt_20010601	adult IN20A.22A076 neuron	0	9
+FBbt_20010042	adult IN14A090 neuron	0	8
+FBbt_20010652	adult IN21A035 neuron	0	6
+FBbt_20008507	adult IN00A034 neuron	0	3
+FBbt_20008814	adult IN03A038 neuron	0	4
+FBbt_20010589	adult IN20A.22A063 neuron	0	6
+FBbt_20010324	adult IN18B051 neuron	0	6
+FBbt_20010072	adult IN14A120 neuron	0	6
+FBbt_20008835	adult IN03A059 neuron	0	11
+FBbt_20010157	adult IN16B095 neuron	0	2
+FBbt_20009698	adult IN12A053 neuron	0	7
+FBbt_20010545	adult IN20A.22A017 neuron	0	19
+FBbt_20009706	adult IN12A063 neuron	0	18
+FBbt_20010565	adult IN20A.22A039 neuron	0	24
+FBbt_20009601	adult IN10B055 neuron	0	16
+FBbt_20009186	adult IN06A091 neuron	0	4
+FBbt_20009374	adult IN08A021 neuron	0	4
+FBbt_20009836	adult IN13A049 neuron	0	6
+FBbt_20009290	adult IN06B081 neuron	0	8
+FBbt_20010593	adult IN20A.22A067 neuron	0	19
+FBbt_20009657	adult IN11B016 neuron	0	12
+FBbt_20008679	adult IN01B059 neuron	0	7
+FBbt_20008932	adult IN03B083 neuron	0	10
+FBbt_20008929	adult IN03B080 neuron	0	7
+FBbt_20008774	adult IN02A063 neuron	0	5
+FBbt_20009732	adult IN12B030 neuron	0	12
+FBbt_20009104	adult IN05B090 neuron	0	14
+FBbt_20010416	adult IN19A098 neuron	0	11
+FBbt_20007791	adult AN06A112 neuron	0	6
+FBbt_20008689	adult IN01B069 neuron	0	5
+FBbt_20010266	adult IN17A107 neuron	0	2
+FBbt_20010609	adult IN20A.22A084 neuron	0	17
+FBbt_20009997	adult IN14A043 neuron	0	5
+FBbt_20011112	adult INXXX456 neuron	0	4
+FBbt_20010607	adult IN20A.22A082 neuron	0	3
+FBbt_20010414	adult IN19A095 neuron	0	2
+FBbt_20009353	adult IN07B092 neuron	0	14
+FBbt_20007899	adult AN08B089 neuron	0	2
+FBbt_00053102	prothoracic sternal adductor muscle motor neuron	0	2
+FBbt_20009735	adult IN12B033 neuron	0	6
+FBbt_20009220	adult IN06A128 neuron	0	2
+FBbt_20010513	adult IN19B082 neuron	0	4
+FBbt_20010553	adult IN20A.22A026 neuron	0	6
+FBbt_20010588	adult IN20A.22A062 neuron	0	6
+FBbt_20009852	adult IN13A065 neuron	0	3
+FBbt_20009212	adult IN06A120 neuron	0	6
+FBbt_20008660	adult IN01B040 neuron	0	6
+FBbt_20010323	adult IN18B050 neuron	0	4
+FBbt_20008606	adult IN01A068 neuron	0	5
+FBbt_20008620	adult IN01A082 neuron	0	12
+FBbt_20010043	adult IN14A091 neuron	0	2
+FBbt_20009205	adult IN06A113 neuron	0	14
+FBbt_20009837	adult IN13A050 neuron	0	15
+FBbt_20009535	adult IN09A084 neuron	0	6
+FBbt_20009292	adult IN06B083 neuron	0	4
+FBbt_20008614	adult IN01A076 neuron	0	7
+FBbt_20010727	adult IN21A111 neuron	0	1
+FBbt_20010052	adult IN14A100 neuron	0	4
+FBbt_20008830	adult IN03A054 neuron	0	6
+FBbt_20011216	adult MNml78 neuron	0	6
+FBbt_00053132	metathoracic tibial depressor motor neuron	0	21
+FBbt_20009264	adult IN06B052 neuron	0	6
+FBbt_20008739	adult IN02A026 neuron	0	2
+FBbt_20009704	adult IN12A061 neuron	0	12
+FBbt_20009485	adult IN09A033 neuron	0	5
+FBbt_20008985	adult IN04B044 neuron	0	6
+FBbt_20010379	adult IN19A057 neuron	0	7
+FBbt_00053070	prothoracic tarsal depressor muscle motor neuron	0	10
+FBbt_20008754	adult IN02A042 neuron	0	5
+FBbt_20010551	adult IN20A.22A024 neuron	0	23
+FBbt_20009592	adult IN10B038 neuron	0	9
+FBbt_20010568	adult IN20A.22A042 neuron	0	8
+FBbt_20009137	adult IN06A038 neuron	0	2
+FBbt_20008860	adult IN03A084 neuron	0	6
+FBbt_20009623	adult IN11A018 neuron	0	4
+FBbt_20009714	adult IN12B010 neuron	0	2
