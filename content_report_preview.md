@@ -1,44 +1,44 @@
 
-VFB Content Report 2024-07-08
+VFB Content Report 2024-07-13
 =============================
 
 
-Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Mon, 08 Jul 2024 00:53:57``  
+Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Sat, 13 Jul 2024 00:51:47``  
   
 ***``Ontology Content``***  
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|28179|0|
-|All Nervous System Parts|21613|0|
-|All Neurons|17949|0|
-|Characterised Neurons|6658|0|
-|Provisional Neurons|11291|0|
-|All Nervous System Regions|1428|0|
-|Synaptic Neuropils|624|0|
-|Neuron Projection Bundles|594|0|
-|Cell Body Rinds|132|0|
-|Sense Organs|861|0|
+|All Terms|28179|1659|
+|All Nervous System Parts|21613|1160|
+|All Neurons|17949|865|
+|Characterised Neurons|6658|864|
+|Provisional Neurons|11291|13|
+|All Nervous System Regions|1428|255|
+|Synaptic Neuropils|624|144|
+|Neuron Projection Bundles|594|129|
+|Cell Body Rinds|132|8|
+|Sense Organs|861|164|
   
   
-**155416** formal assertions, of which **68725** are SubClassOf assertions and **86691** are other relationship types  
+**155449** formal assertions, of which **68723** are SubClassOf assertions and **86726** are other relationship types  
   
-**141529** formal assertions on nervous system components, of which **60672** are SubClassOf assertions and **80857** are other relationship types  
+**141568** formal assertions on nervous system components, of which **60672** are SubClassOf assertions and **80896** are other relationship types  
   
 ***``Image Content``***  
 *``(excludes hemibrain v1.0.1)``*  
   
 **156789** total images from **109** datasets  
-**78709** single neuron images of **5968** cell types  
+**78709** single neuron images of **9957** cell types  
 **43699** images of expression patterns of **16879** drivers  
 **2738** images of expression patterns of **579** split combinations  
 **50803** images of expression pattern fragments of **4792** drivers  
   
 ***``Annotations``***  
   
-**0** annotations recording **0** types of anatomical structure that **0** specific driver lines are expressed in.  
-**0** annotations recording **0** parts of the nervous system that **0** specific driver lines are expressed in.  
-**0** annotations recording **0** types of neuron that **0** specific driver lines are expressed in.  
+**33175** annotations recording **2356** types of anatomical structure that **7351** specific driver lines are expressed in.  
+**23467** annotations recording **1627** parts of the nervous system that **5490** specific driver lines are expressed in.  
+**5676** annotations recording **810** types of neuron that **1705** specific driver lines are expressed in.  
 **0** annotations recording **0** types of neuron that **0** specific split combinations are expressed in.  
   
 ***``Connectivity``***  
