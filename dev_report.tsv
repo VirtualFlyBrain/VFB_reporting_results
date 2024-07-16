@@ -66,7 +66,7 @@ LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242
 Lee_Lineage2020	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0	0	0
 Lillvis2018	Neurons involved in courtship and song (Lillvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0	0	0
 Mamiya2022	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC-BY_4.0	doi_10_1101_2022_08_08_503192	4	0	0	0	0
-Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	18	0
+Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	21	0
 Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	300	77	0	0
 Mark2019	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	0	0
 Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	46	0
@@ -123,15 +123,15 @@ SplitTuthill2013	Split-GAL4 lines from Tuthill et al., 2013	CC-BY_4.0		0	0	0	0	0
 SplitVijayan2023	Split-GAL4 lines from Vijayan et al., 2023	CC-BY_4.0		0	0	0	0	0
 SplitVogt2014	Split-GAL4 lines from Vogt et al., 2014	CC-BY_4.0	FBrf0226027	0	0	0	0	0
 SplitVogt2016	Split-GAL4 lines from Vogt et al., 2016	CC-BY_4.0	FBrf0232492	0	0	0	3	0
-SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	49	0	16	12	0
+SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	49	0	16	13	0
 SplitWang2020b	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	2	0	1	4	0
 SplitWang2020c	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	0	0	0	4	0
 SplitXie2021	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	0	0	0	0	0
 SplitYamagata2015	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	0	0	0	1	0
 SplitZhao2023	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	0	0	0	0	0
 Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	17	0	11	0	0
-TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	55	55	10	0	0
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	FBrf0256726	55	55	10	20	0
+TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	55	55	10	0	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	0	0	11	0
 Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons, 	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	0	0
 Tastekin2018	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	0	0	10	0
@@ -140,7 +140,7 @@ TrumanWood2018	Truman Larval Flip-Out Collection	unlicensed		1775	0	0	0	0
 TrumanWood2018public	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		2	0	0	0	0
 Turner_Evans2020	EM FAFB Turner-Evans et al 2020	CC-BY_4.0	doi_10_1016_j_neuron_2020_08_006	49	49	36	0	0
 Valdes_Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	CC-BY-SA_4.0	FBrf0247750	0	0	0	6	0
-Wang2020a	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	12	0
+Wang2020a	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	13	0
 Wang2020b	EM FAFB Wang et al 2020b	CC-BY_4.0	FBrf0246914	1	1	0	4	0
 Wang2020c	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	17	1	4	0
 WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	1507	0	0	0	0
@@ -156,4 +156,4 @@ Zarin2019	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0	
 Zhao2023	EM FAFB Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2022_12_14_520178	2372	1186	1	0	0
 Zheng2018	EM FAFB Zheng et al 2018	CC-BY-SA_4.0	FBrf0239557	145	145	100	1	0
 Zheng2020	EM FAFB Zheng et al 2020 (published 2022)	CC-BY-SA_4.0	FBrf0254218	1492	1492	713	0	0
-Zwart2016	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	0	0	146	0
+Zwart2016	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	0	0	149	0
