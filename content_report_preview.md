@@ -1,9 +1,9 @@
 
-VFB Content Report 2024-07-16
+VFB Content Report 2024-07-17
 =============================
 
 
-Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Tue, 16 Jul 2024 00:50:41``  
+Report of content found at ``http://pdbsl.p2.VirtualFlyBrain.org`` on ``Wed, 17 Jul 2024 00:51:20``  
   
 ***``Ontology Content``***  
 
