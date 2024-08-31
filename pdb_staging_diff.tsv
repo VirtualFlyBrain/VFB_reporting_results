@@ -1,16 +1,10 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1923	0	787	129	0
-Aso2014	staging	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1896	0	787	129	0
 BrainName_Ito_half_brain	pdb	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	395	0
 BrainName_Ito_half_brain	staging	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	396	0
 Dickson2017	pdb	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5387	0	0	0	0
-Dickson2017	staging	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5378	0	0	0	0
-Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	276	0	42	322	0
-Dolan2019	staging	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	165	0	42	322	0
+Dickson2017	staging	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5379	0	0	0	0
 FlyLight2019Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	128	0	5	134	0
 FlyLight2019Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	128	0	5	137	0
-FlyLightGen1Set2019	pdb	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13664	0	0	3	0
-FlyLightGen1Set2019	staging	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13587	0	0	3	0
 Gorko2024	pdb	EM FAFB Gorko et al 2024	CC-BY-SA_4.0	FBrf0251280	2	2	2	121	0
 Gorko2024	staging	EM FAFB Gorko et al 2024	CC-BY-SA_4.0	FBrf0251280	2	2	2	130	0
 JenettShinomya_BrainName	pdb	BrainName neuropils on adult brain JFRC2 (Jenett, Shinomya)	CC-BY-SA_4.0	FBrf0224194	58	0	0	395	0
@@ -24,10 +18,8 @@ Matsuo2016	staging	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	F
 Miroschnikow2018	pdb	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	44	0
 Miroschnikow2018	staging	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	43	0
 Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	106	134	0
-Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	382	0	106	137	0
-Nern2024	staging	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	12686	0	0	0	0
-Robie2017	pdb	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	80	0	14	2	0
-Robie2017	staging	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	78	0	14	2	0
+Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	389	0	106	137	0
+Nern2024	staging	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53393	0	0	0	0
 SplitBaker2022	pdb	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0		0	0	0	0	0
 SplitBaker2022	staging	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0	FBrf0254226	0	0	0	30	0
 SplitCheong2024	pdb	Split-GAL4 lines from Cheong et al., 2024	CC-BY_4.0		0	0	0	0	0
@@ -58,13 +50,7 @@ TrumanWood2018	pdb	Truman Larval Flip-Out Collection	unlicensed		1775	0	0	0	0
 TrumanWood2018	staging	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		1775	0	0	0	0
 Wang2020a	pdb	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	12	0
 Wang2020a	staging	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	13	0
-Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	0	6	52	0
-Wolff2018	staging	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	187	0	6	52	0
-Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	159	50	0
-Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	323	0	159	50	0
 Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	26	28	0
 Xie2018	staging	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	28	0
-Xu2020roi	pdb	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	219	0	0	0	0
-Xu2020roi	staging	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	120	0	0	0	0
 Zwart2016	pdb	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	0	0	146	0
 Zwart2016	staging	Larval motor circuit neurons (Zwart2016)	CC-BY-SA_4.0	FBrf0233076	41	0	0	149	0

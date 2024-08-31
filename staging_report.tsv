@@ -1,6 +1,6 @@
 ds.short_form	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
 Andrade2019	EM L1 Andrade et al. 2019	CC-BY-SA_4.0	FBrf0241389	847	0	0	10	0
-Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1896	0	787	129	0
+Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	1923	0	787	129	0
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	24	0	3	0	0
 Baltruschat2021	EM FAFB Baltruschat et al 2021	CC-BY-SA_4.0	FBrf0248487	8	8	8	0	0
 Barnes2022	EM L1 Barnes et al., 2022	CC-BY_4.0	FBrf0253082	0	0	0	0	0
@@ -14,10 +14,10 @@ Chiang2010	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0
 Coates2020	EM FAFB Coates et al 2020	CC-BY_4.0	doi_10_1523_JNEUROSCI_0552_20_2020	191	191	10	0	0
 Court2017	Adult VNS neuropils (Court2017)	CC-BY-SA_4.0	doi_10_1101_122952	24	0	0	0	0
 Court2020	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	113	0
-Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5378	0	0	0	0
+Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5379	0	0	0	0
 Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1101_198648	18016	0	0	0	0
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	10	10	3	0
-Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	165	0	42	322	0
+Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	276	0	42	322	0
 Dorkenwald2023	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	0	0	0	0	0
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	42	0
 Engert2022	EM FAFB Engert et al. 2022	CC-BY_4.0	FBrf0253662	144	144	0	0	0
@@ -34,7 +34,7 @@ FlyLight2019Robie2017	split-GAL4 lines for EB neurons (Robie2017)	CC-BY_4.0	FBrf
 FlyLight2019Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	32	0	1	0	0
 FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	21	0	8	52	0
 FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	13	0	1	50	0
-FlyLightGen1Set2019	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13587	0	0	3	0
+FlyLightGen1Set2019	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13664	0	0	3	0
 Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	CC-BY-SA_4.0	FBrf0231611	82	0	0	60	0
 Gen1MCFODionne2018	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY_4.0	FBrf0236874	151	0	0	0	0
 Gen1MCFOJenett2012	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	15861	0	0	3	0
@@ -74,12 +74,12 @@ McKellar2019	Images of aSP22 descending neuron from McKellar et al., 2019	CC-BY-
 McKellar2020	GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	5	0	0	74	0
 Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	43	0
 Morimoto2020	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	76	66	14	0
-Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	382	0	106	137	0
-Nern2024	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	12686	0	0	0	0
+Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	389	0	106	137	0
+Nern2024	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53393	0	0	0	0
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	0	0	6	0
 Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	121	0
 Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	766	364	8	0
-Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	78	0	14	2	0
+Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	80	0	14	2	0
 Sayin2019	EM FAFB Sayin et al 2019	CC-BY-SA_4.0	FBrf0243986	2	2	2	5	0
 Schlegel2016	larval hugin neurons - EM (Schlegel2016)	CC-BY_4.0	FBrf0234450	193	0	0	8	0
 Shiu2022	EM FAFB Shiu et al. 2022	CC-BY_4.0	FBrf0254006	25	24	0	21	0
@@ -131,8 +131,8 @@ SplitXie2021	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	0	0	0	
 SplitYamagata2015	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	0	0	0	1	0
 SplitZhao2023	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	0	0	0	0	0
 Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	17	0	11	0	0
-TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	55	55	10	0	0
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	FBrf0256726	55	55	10	20	0
+TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	55	55	10	0	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	0	0	11	0
 Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	0	0
 Tastekin2018	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	0	0	10	0
@@ -145,13 +145,13 @@ Wang2020a	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	13	0
 Wang2020b	EM FAFB Wang et al 2020b	CC-BY_4.0	FBrf0246914	1	1	0	4	0
 Wang2020c	EM FAFB Wang et al 2020c	CC-BY-SA_4.0	FBrf0247919	17	17	1	4	0
 WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	1507	0	0	0	0
-Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	187	0	6	52	0
+Wolff2018	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	188	0	6	52	0
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	CC-BY-SA_4.0		255	0	0	0	0
-Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	323	0	159	50	0
+Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	159	50	0
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	28	0
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	21242	0	0	0	0
 Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22420	9426	0	0
-Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	120	0	0	0	0
+Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	219	0	0	0	0
 Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	476	0
 Zarin2019	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0	0	0
 Zhao2023	EM FAFB Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2022_12_14_520178	2372	1186	1	0	0
