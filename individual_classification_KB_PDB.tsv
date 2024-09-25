@@ -1,6 +1,6 @@
 FBbt_ID	FBbt_label	times_added	times_removed
-FBbt_00047095	adult neuron	15313	19861
 FBbt_00058205	adult cholinergic neuron	15119	0
+FBbt_00047095	adult neuron	14127	19861
 FBbt_00058207	adult GABAergic neuron	6534	0
 FBbt_00058208	adult glutamatergic neuron	5666	0
 FBbt_00001446	larval neuron	4104	0
@@ -2863,7 +2863,7 @@ FBbt_00003636	adult fan-shaped body delta neuron	0	159
 FBbt_00111170	adult fruitless pMP2 neuron	0	2
 FBbt_00003686	Kenyon cell	0	45
 FBbt_00007683	neuroblast lineage clone	0	235
-FBbt_00005106	neuron	0	51572
+FBbt_00005106	neuron	0	50386
 FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
 FBbt_00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	0	20
 FBbt_00111517	adult pheromone projection neuron 1	0	8
