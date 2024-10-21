@@ -43,7 +43,7 @@ SplitVijayan2023	pipeline_output	Split-GAL4 lines from Vijayan et al., 2023	CC-B
 Takemura2023	pdb	Male Adult Nerve Cord (MANC) connectome neurons, 	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4	0
 Takemura2023	pipeline_output	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4064	0
 TrumanWood2018	pdb	Truman Larval Flip-Out Collection	unlicensed		1775	0	0	2	0
-TrumanWood2018	pipeline_output	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		1775	0	0	2	0
+TrumanWood2018	pipeline_output	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		12239	0	0	2	0
 Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	26	70	0
 Xie2018	pipeline_output	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	70	0
 Xu2020NeuronsV1point1	pdb	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22420	9426	5043	0
