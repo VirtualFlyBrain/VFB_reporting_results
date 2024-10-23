@@ -140,15 +140,15 @@ Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf
 Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	23759
 Tastekin2018	EM L1 Tastekin et al 2018	True	FBrf0240828	CC-BY-SA_4.0	10
 Truman2016	L3 Larval CNS Template (Truman2016)	True		CC-BY-SA_4.0	1
-TrumanWood2018	Truman Larval Flip-Out Collection	True		CC-BY-SA_4.0	12239
-TrumanWood2018public	Truman Larval Flip-Out Collection	True		CC-BY-SA_4.0	2
+TrumanWood2018	Truman Larval Flip-Out Collection	True	FBrf0225812	CC-BY-SA_4.0	12239
+TrumanWood2018public	Truman Larval Flip-Out Collection	True	FBrf0225812	CC-BY-SA_4.0	2
 Tsubouchi2017	Adult somatosensory system neurons (Tsubouchi2017)	False	FBrf0237124	CC-BY-SA_4.0	0
 Turner_Evans2020	EM FAFB Turner-Evans et al 2020	True	doi_10_1016_j_neuron_2020_08_006	CC-BY_4.0	49
 Valdes-Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	True	FBrf0247750	CC-BY-SA_4.0	0
 Wang2020a	EM FAFB Wang et al 2020a	True	FBrf0245074	CC-BY_4.0	12
 Wang2020b	EM FAFB Wang et al 2020b	True	FBrf0246914	CC-BY_4.0	1
 Wang2020c	EM FAFB Wang et al 2020c	True	FBrf0247919	CC-BY-SA_4.0	17
-WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	True	doi_10_1126_science_add9330	CC-BY_4.0	1507
+WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	True	FBrf0255988	CC-BY_4.0	1507
 Wolff2018	Splits targetting CX neurons, Wolff2018	True	FBrf0240744	CC-BY_4.0	3665
 WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	True		CC-BY-SA_4.0	255
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY_4.0	2183
