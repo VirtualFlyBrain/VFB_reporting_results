@@ -18,7 +18,7 @@ Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.
 Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1101_198648	18016	0	0	7807	0
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	10	10	4	0
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	276	0	42	110	0
-Dorkenwald2023	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	0	0	7318	0
+Dorkenwald2023	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139254	0	0	7317	0
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	67	0
 Engert2022	EM FAFB Engert et al. 2022	CC-BY_4.0	FBrf0253662	144	144	0	5	0
 Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	0	0	77	0
@@ -75,7 +75,7 @@ McKellar2020	GAL4 lines from McKellar et al., 2020	CC-BY-SA_4.0	FBrf0246028	5	0	
 Miroschnikow2018	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	56	0
 Morimoto2020	EM FAFB Morimoto et al 2020	CC-BY_4.0	FBrf0247630	76	76	66	4	0
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	389	0	106	132	0
-Nern2024	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53393	0	0	475	0
+Nern2024	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53409	0	0	475	0
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	CC-BY-SA_4.0	FBrf0248430	15	0	0	15	0
 Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	CC-BY-SA_4.0	FBrf0228257	109	0	0	52	0
 Otto2020	EM FAFB Otto et al 2020	CC-BY_4.0	FBrf0246510	768	766	364	60	0
@@ -131,14 +131,14 @@ SplitXie2021	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	0	0	0	
 SplitYamagata2015	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	0	0	0	0	0
 SplitZhao2023	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	0	0	0	0	0
 Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	17	0	11	9	0
-TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	FBrf0256726	55	55	10	15	0
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	55	55	10	15	0
+TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	FBrf0256726	55	55	10	15	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	0	0	15	0
 Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4064	0
 Tastekin2018	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	0	0	4	0
 Truman2016	L3 Larval CNS Template (Truman2016)	CC-BY-SA_4.0		1	0	0	1	0
-TrumanWood2018	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		12239	0	0	2	0
-TrumanWood2018public	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		2	0	0	2	0
+TrumanWood2018	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	12239	0	0	2	0
+TrumanWood2018public	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	2	0	0	2	0
 Turner_Evans2020	EM FAFB Turner-Evans et al 2020	CC-BY_4.0	doi_10_1016_j_neuron_2020_08_006	49	49	36	17	0
 Valdes_Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	CC-BY-SA_4.0	FBrf0247750	0	0	0	0	0
 Wang2020a	EM FAFB Wang et al 2020a	CC-BY_4.0	FBrf0245074	12	12	10	10	0

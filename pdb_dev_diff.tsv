@@ -5,7 +5,7 @@ Chiang2010	dev	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	F
 Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	15886	5952	217	0
 Dickson2017	dev	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5379	0	0	2530	0
 Dickson2017	pdb	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5387	0	0	2530	0
-Dorkenwald2023	dev	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	0	0	7318	0
+Dorkenwald2023	dev	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139254	0	0	7317	0
 Dorkenwald2023	pdb	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	0	0	0	0	0
 Eichler2017	dev	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	67	0
 Eichler2017	pdb	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	68	0
@@ -19,7 +19,7 @@ Miroschnikow2018	dev	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	
 Miroschnikow2018	pdb	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	55	0
 Namiki2018	dev	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	389	0	106	132	0
 Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	106	132	0
-Nern2024	dev	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53393	0	0	475	0
+Nern2024	dev	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53409	0	0	475	0
 SplitBaker2022	dev	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0	FBrf0254226	0	0	0	0	0
 SplitBaker2022	pdb	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0		0	0	0	0	0
 SplitCheong2024	dev	Split-GAL4 lines from Cheong et al., 2024	CC-BY_4.0	FBrf0258993	0	0	0	0	0
@@ -42,8 +42,10 @@ SplitVijayan2023	dev	Split-GAL4 lines from Vijayan et al., 2023	CC-BY_4.0	FBrf02
 SplitVijayan2023	pdb	Split-GAL4 lines from Vijayan et al., 2023	CC-BY_4.0		0	0	0	0	0
 Takemura2023	dev	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4064	0
 Takemura2023	pdb	Male Adult Nerve Cord (MANC) connectome neurons, 	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4	0
-TrumanWood2018	dev	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		12239	0	0	2	0
+TrumanWood2018	dev	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	12239	0	0	2	0
 TrumanWood2018	pdb	Truman Larval Flip-Out Collection	unlicensed		1775	0	0	2	0
+TrumanWood2018public	dev	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	2	0	0	2	0
+TrumanWood2018public	pdb	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		2	0	0	2	0
 WindingPedigo2023	dev	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	FBrf0255988	1507	0	0	1	0
 WindingPedigo2023	pdb	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	1507	0	0	1	0
 Xie2018	dev	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	70	0

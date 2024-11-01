@@ -6,7 +6,7 @@ Chiang2010	staging	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit Licen
 Dickson2017	pdb	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5387	0	0	2530	0
 Dickson2017	staging	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.0	doi_10_1101_198648	5379	0	0	2530	0
 Dorkenwald2023	pdb	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	0	0	0	0	0
-Dorkenwald2023	staging	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	0	0	7318	0
+Dorkenwald2023	staging	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139254	0	0	7317	0
 Eichler2017	pdb	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	68	0
 Eichler2017	staging	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	67	0
 Gorko2024	pdb	EM FAFB Gorko et al 2024	CC-BY-SA_4.0	FBrf0251280	2	2	2	1	0
@@ -19,7 +19,7 @@ Miroschnikow2018	pdb	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	
 Miroschnikow2018	staging	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	56	0
 Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	390	0	106	132	0
 Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	389	0	106	132	0
-Nern2024	staging	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53393	0	0	475	0
+Nern2024	staging	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53409	0	0	475	0
 SplitBaker2022	pdb	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0		0	0	0	0	0
 SplitBaker2022	staging	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0	FBrf0254226	0	0	0	0	0
 SplitCheong2024	pdb	Split-GAL4 lines from Cheong et al., 2024	CC-BY_4.0		0	0	0	0	0
@@ -43,7 +43,9 @@ SplitVijayan2023	staging	Split-GAL4 lines from Vijayan et al., 2023	CC-BY_4.0	FB
 Takemura2023	pdb	Male Adult Nerve Cord (MANC) connectome neurons, 	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4	0
 Takemura2023	staging	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	0	0	4064	0
 TrumanWood2018	pdb	Truman Larval Flip-Out Collection	unlicensed		1775	0	0	2	0
-TrumanWood2018	staging	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		12239	0	0	2	0
+TrumanWood2018	staging	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	12239	0	0	2	0
+TrumanWood2018public	pdb	Truman Larval Flip-Out Collection	CC-BY-SA_4.0		2	0	0	2	0
+TrumanWood2018public	staging	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	2	0	0	2	0
 WindingPedigo2023	pdb	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	doi_10_1126_science_add9330	1507	0	0	1	0
 WindingPedigo2023	staging	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	FBrf0255988	1507	0	0	1	0
 Xie2018	pdb	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	79	0	26	70	0
