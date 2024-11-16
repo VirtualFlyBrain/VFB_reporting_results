@@ -39,7 +39,7 @@ FBbt_00050275	adult CREa2 lineage neuron	207	0
 FBbt_00050186	adult DL1 lineage neuron	192	0
 FBbt_00110394	adult VPNp2 lineage neuron	188	0
 FBbt_00050005	adult SLPa&l1 lineage neuron	184	0
-FBbt_00058244	adult sensory neuron	181	255
+FBbt_00058244	adult sensory neuron	181	259
 FBbt_00007414	adult multiglomerular antennal lobe projection neuron vPN	170	75
 FBbt_00047717	mediolateral antennal lobe tract projection neuron	169	0
 FBbt_00049899	BAmd1 Notch ON hemilineage neuron	166	0
@@ -286,26 +286,25 @@ FBbt_00050099	adult LHd1 lineage neuron	1	0
 FBbt_00110399	obsolete adult VPNp4 lineage clone	1	0
 FBbt_00110570	adult uniglomerular antennal lobe projection neuron V	1	0
 FBbt_00049765	adult antennal lobe projection neuron VL2p vPN	1	0
-FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
 FBbt_00100214	dopaminergic PAM neuron	0	5
 FBbt_00049820	fan-shaped body columnar neuron	0	598
 FBbt_00007577	optic lobe intrinsic neuron	0	1390
+FBbt_00049569	prothoracic leg muscle motor neuron	0	728
+FBbt_00051967	neck muscle motor neuron of VNC	0	36
+FBbt_00049555	adult prothoracic multinerve neuron	0	6
+FBbt_00049576	bilateral campaniform sensillum neuron of mesothoracic leg	0	7
+FBbt_00053163	adult prosternal chordotonal organ neuron	0	32
+FBbt_00049577	bilateral campaniform sensillum neuron of metathoracic leg	0	6
 FBbt_00052568	bristle sensory neuron	0	144
-FBbt_00053163	adult prosternal chordotonal organ neuron	0	30
-FBbt_00052750	adult VNC ventral unpaired median neuron	0	18
-FBbt_00048061	mechanosensory neuron of hair plate	0	21
-FBbt_00049561	prothoracic femoral chordotonal club neuron	0	52
-FBbt_00049560	prothoracic femoral chordotonal claw neuron	0	27
-FBbt_00005131	dopaminergic neuron	0	12
-FBbt_00049577	bilateral campaniform sensillum neuron of metathoracic leg	0	4
-FBbt_00048057	sensory neuron of campaniform sensillum	0	44
-FBbt_00049559	prothoracic femoral chordotonal hook neuron	0	35
-FBbt_00049555	adult prothoracic multinerve neuron	0	4
 FBbt_00100249	alpha'/beta' Kenyon cell	0	335
-FBbt_00111228	larval Basin-3 neuron	0	4
-FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
+FBbt_00049571	metathoracic leg muscle motor neuron	0	186
+FBbt_00049575	bilateral campaniform sensillum neuron of prothoracic leg	0	13
+FBbt_00047247	flight muscle motor neuron	0	94
+FBbt_00049570	mesothoracic leg muscle motor neuron	0	184
+FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
 FBbt_00100248	alpha/beta Kenyon cell	0	289
-FBbt_00111244	larval A08d neuron	0	2
+FBbt_00005131	dopaminergic neuron	0	12
+FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
 FBbt_00111263	larval TePn04 neuron	0	2
 FBbt_00111262	larval T08x neuron	0	2
 FBbt_00111261	larval T05t neuron	0	2
@@ -319,10 +318,11 @@ FBbt_00111253	larval A10a neuron	0	2
 FBbt_00111230	larval Basin-4 neuron	0	4
 FBbt_00111227	larval Basin-1 neuron	0	4
 FBbt_00111229	larval Basin-2 neuron	0	4
-FBbt_00048274	mechanosensory neuron of leg chordotonal organ	0	14
-FBbt_00049575	bilateral campaniform sensillum neuron of prothoracic leg	0	5
-FBbt_00048275	ascending mechanosensory neuron of leg chordotonal organ	0	5
-FBbt_00058084	mechanosensory neuron of prothoracic coxal hair plate CoHP8	0	8
+FBbt_00111228	larval Basin-3 neuron	0	4
+FBbt_00052750	adult VNC ventral unpaired median neuron	0	31
+FBbt_00051966	haltere muscle motor neuron	0	51
+FBbt_00048061	mechanosensory neuron of hair plate	0	21
+FBbt_00049561	prothoracic femoral chordotonal club neuron	0	58
 FBbt_00047513	descending neuron of the anterior ventral brain	0	6
 FBbt_00048516	wedge projection neuron	0	41
 FBbt_00047946	gustatory projection neuron	0	1
@@ -340,15 +340,15 @@ FBbt_00052046	adult interneuron	0	4
 FBbt_00051232	adult ellipsoid body extrinsic ring neuron ExR8	0	4
 FBbt_00051062	adult tubercle-tubercle neuron	0	8
 FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
-FBbt_00049576	bilateral campaniform sensillum neuron of mesothoracic leg	0	4
-FBbt_00049571	metathoracic leg muscle motor neuron	0	124
-FBbt_00111247	larval A02n neuron	0	1
+FBbt_00049560	prothoracic femoral chordotonal claw neuron	0	33
+FBbt_00048275	ascending mechanosensory neuron of leg chordotonal organ	0	5
+FBbt_00111245	larval A01n neuron	0	2
+FBbt_00048057	sensory neuron of campaniform sensillum	0	54
+FBbt_00049563	mesothoracic femoral chordotonal claw neuron	0	2
+FBbt_00049559	prothoracic femoral chordotonal hook neuron	0	39
+FBbt_00048274	mechanosensory neuron of leg chordotonal organ	0	15
+FBbt_00058084	mechanosensory neuron of prothoracic coxal hair plate CoHP8	0	8
 FBbt_00058083	mechanosensory neuron of prothoracic coxal hair plate CoHP4	0	4
-FBbt_00049570	mesothoracic leg muscle motor neuron	0	123
-FBbt_00047247	flight muscle motor neuron	0	63
-FBbt_00049569	prothoracic leg muscle motor neuron	0	139
-FBbt_00051966	haltere muscle motor neuron	0	34
-FBbt_00051967	neck muscle motor neuron of VNC	0	24
 FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
 FBbt_00058082	mechanosensory neuron of prothoracic coxal hair plate CoHP3	0	3
 FBbt_00047646	descending neuron of the posterior brain DNp13	0	5
@@ -356,27 +356,28 @@ FBbt_00048999	adult Drosulfakinin neuron	0	6
 FBbt_00047517	descending neuron of the posterior brain	0	48
 FBbt_00047222	adult hygrosensory neuron Ir68a	0	26
 FBbt_00049661	adult lateral horn centrifugal neuron	0	12
-FBbt_00111245	larval A01n neuron	0	2
+FBbt_00111244	larval A08d neuron	0	2
 FBbt_00049536	adult fan-shaped body layer 9 tangential neuron	0	33
+FBbt_00111247	larval A02n neuron	0	1
 FBbt_00111248	larval A02m neuron	0	2
-FBbt_00007540	adult fan-shaped body layer 1 tangential neuron	0	28
 FBbt_00007544	adult fan-shaped body layer 5 tangential neuron	0	113
 FBbt_00007541	adult fan-shaped body layer 2 tangential neuron	0	84
 FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	85
 FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	46
 FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	8
 FBbt_00007542	adult fan-shaped body layer 3 tangential neuron	0	9
+FBbt_00007540	adult fan-shaped body layer 1 tangential neuron	0	28
 FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
-FBbt_00003655	adult ellipsoid body extrinsic ring neuron ExR1	0	4
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
 FBbt_00003636	adult fan-shaped body delta neuron	0	159
 FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
 FBbt_00003907	lobula plate tangential neuron	0	2
 FBbt_00007408	peripherally synapsing interneuron	0	2
 FBbt_00047097	primary neuron	0	3029
+FBbt_00049540	Notch OFF hemilineage neuron	0	7154
 FBbt_00003657	fan-shaped body tangential neuron	0	574
+FBbt_00003655	adult ellipsoid body extrinsic ring neuron ExR1	0	4
 FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	0	20
-FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
 FBbt_00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	0	46
 FBbt_00007683	neuroblast lineage clone	0	233
 FBbt_00005106	neuron	0	57940
@@ -392,40 +393,40 @@ FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall sur
 FBbt_00003686	Kenyon cell	0	185
 FBbt_00100719	BLD2 lineage neuron	0	1
 FBbt_00003646	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron	0	42
-FBbt_00049540	Notch OFF hemilineage neuron	0	7154
+FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
 FBbt_00049539	Notch ON hemilineage neuron	0	6695
-FBbt_00111249	larval Wave neuron	0	2
-FBbt_00100247	gamma Kenyon cell	0	1057
-FBbt_00003879	lobula complex columnar neuron	0	372
+FBbt_00100656	BAmas2 lineage neuron	0	5
+FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
 FBbt_00047096	secondary neuron	0	10446
 FBbt_00005918	thermosensory neuron	0	4
 FBbt_00005923	hygrosensory neuron	0	9
 FBbt_00005927	gustatory receptor neuron	0	131
 FBbt_00047953	mushroom body output neuron	0	26
-FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
-FBbt_00003859	lobula tangential neuron	0	12
+FBbt_00100247	gamma Kenyon cell	0	1057
 FBbt_00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	0	40
+FBbt_00003870	lobula columnar neuron	0	31
 FBbt_00111232	larval A23g neuron	0	2
 FBbt_00111231	larval A14g neuron	0	4
 FBbt_00111252	larval A08m neuron	0	4
 FBbt_00111251	larval A05e neuron	0	2
 FBbt_00111250	larval A03o1 neuron	0	2
-FBbt_00003870	lobula columnar neuron	0	31
-FBbt_00050161	adult VPNp&v1 lineage clone	0	1
-FBbt_00100656	BAmas2 lineage neuron	0	5
-FBbt_00049779	adult multiglomerular antennal lobe projection neuron lvPN	0	37
+FBbt_00111249	larval Wave neuron	0	2
+FBbt_00003879	lobula complex columnar neuron	0	372
+FBbt_00003859	lobula tangential neuron	0	12
 FBbt_00007384	multiglomerular antennal lobe projection neuron	0	412
+FBbt_00047720	transverse antennal lobe tract 4 projection neuron 1	0	3
 FBbt_00110461	adult fruitless aSP-g (female) neuron	0	7
 FBbt_00007430	DN1p neuron	0	7
 FBbt_00047724	lateral antennal lobe tract projection neuron 4	0	4
 FBbt_00049910	adult multiglomerular antennal lobe projection neuron l2PN	0	4
 FBbt_00049778	adult multiglomerular antennal lobe projection neuron lPN	0	10
-FBbt_00047720	transverse antennal lobe tract 4 projection neuron 1	0	3
-FBbt_00111640	medulla columnar neuron	0	122
+FBbt_00049779	adult multiglomerular antennal lobe projection neuron lvPN	0	37
 FBbt_00049780	adult multiglomerular antennal lobe projection neuron of SEZ	0	2
+FBbt_00050161	adult VPNp&v1 lineage clone	0	1
 FBbt_00007437	adult antennal lobe projection neuron vPN	0	7
 FBbt_00110415	adult fruitless aDT-a neuron	0	6
 FBbt_00067123	adult antennal lobe projection neuron	0	2
 FBbt_00007386	adult olfactory receptor neuron	0	125
 FBbt_00007390	adult antennal lobe local neuron	0	108
+FBbt_00111640	medulla columnar neuron	0	122
 FBbt_00051231	adult ellipsoid body extrinsic ring neuron ExR7	0	4
