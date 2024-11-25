@@ -1,26 +1,22 @@
 skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
-8853753	LHPV4c#1_L	15579831	Paper: Marin et al 2020	Paper: Marin et al 2020 (15579831), LHPV4c#1_L (15981177)	LHPV4c_L#1 8853754 ECM MT left	
-8854268	LHPV4c#3_L	15579831	Paper: Marin et al 2020	Paper: Marin et al 2020 (15579831), LHPV4c#3_L (15981181)	LHPV4c_L#3 8854269 MT left	
-8872558	LHPV4c#4_L	15579831	Paper: Marin et al 2020	Paper: Marin et al 2020 (15579831), LHPV4c#4_L (15981183)	LHPV4c_L#4 8872559 ECM left	
-8880798	LHPV4c#5_L	15579831	Paper: Marin et al 2020	Paper: Marin et al 2020 (15579831), LHPV4c#5_L (15981185)	LHPV4c_L#5 8880799 MT left	
-8883804	LHPV4c#2_L	15579831	Paper: Marin et al 2020	Paper: Marin et al 2020 (15579831), LHPV4c#2_L (15981179)	LHPV4c_L#2 8883805 MT left	
-6037171	Protocerebral_DAN_input_c 11.13.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.13.0#1 (17042055)	neuron 6037172 SMP.R-CRE.R-SMP.L AJES Borage	
-6066277	Protocerebral_DAN_input_c 10.6.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.6.0#1 (17042014)	neuron 6066278 [SMP.R]-[SMP.L]-[SIP.L]-[AVLP.L] Ardisia AJES	
-6084271	Protocerebral_DAN_input_c 3.13.0#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.13.0#5 (17042846)	neuron 6084272 [SMP.R]-[SIP.R] AJES Magnolia	
-6084281	Protocerebral_DAN_input_c 5.3.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 5.3.0 (17042982)	neuron 6084282 [SMP.R]-[SEZ.R] AJES Ipomoea	
-6092334	Protocerebral_DAN_input_c 3.8.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.8.0#6 (17042954)	Neuron 6646396 Wild Horses JH MWP	
-6110086	Protocerebral_DAN_input_c 17.3.3#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.3.3#1 (17042674)	neuron 6110087 Pandora MWP	
+551939	SEZ_DAN_input_c 7.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), SEZ_DAN_input_c 7.1.0 (17043096)	neuron 551940 MBON a3 a1 postsyn 	
+6130325	Protocerebral_DAN_input_c 13.15.6#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.6#4 (17042458)	neuron 6130326 Tinbergen MWP 	
+6128360	Protocerebral_DAN_input_c 14.10.5#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.10.5#2 (17042518)	neuron 6128361 [SI/LP.R]-[SI/LP.L] AJES Catha	
+6115789	Protocerebral_DAN_input_c 3.9.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.9.0#2 (17042968)	neuron 6115790 MWP Slater	
+6114897	Protocerebral_DAN_input_c 3.21.0#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.21.0#4 (17042878)	neuron 6114898 NP	
 6110667	Protocerebral_DAN_input_c 10.11.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.11.0 (17041975)	neuron 6110668 Epimetheus MWP	
 6110644	Protocerebral_DAN_input_c 20.2.0#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.2.0#8 (17042802)	neuron 6110645 Satoshi Nakamoto MWP	
-6037165	Protocerebral_DAN_input_c 3.20.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.20.0 (17042870)	neuron 6037166 [SMP.R] Euphorbia AJES	
-6114897	Protocerebral_DAN_input_c 3.21.0#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.21.0#4 (17042878)	neuron 6114898 NP	
-6115789	Protocerebral_DAN_input_c 3.9.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.9.0#2 (17042968)	neuron 6115790 MWP Slater	
-6128360	Protocerebral_DAN_input_c 14.10.5#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.10.5#2 (17042518)	neuron 6128361 [SI/LP.R]-[SI/LP.L] AJES Catha	
-6130325	Protocerebral_DAN_input_c 13.15.6#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.6#4 (17042458)	neuron 6130326 Tinbergen MWP 	
 6110252	Protocerebral_DAN_input_c 17.3.3#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.3.3#2 (17042676)	neuron 6110253 [SMP.R]-[PLP.R] AJES Starman	
+6110086	Protocerebral_DAN_input_c 17.3.3#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.3.3#1 (17042674)	neuron 6110087 Pandora MWP	
+6092334	Protocerebral_DAN_input_c 3.8.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.8.0#6 (17042954)	Neuron 6646396 Wild Horses JH MWP	
+6084281	Protocerebral_DAN_input_c 5.3.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 5.3.0 (17042982)	neuron 6084282 [SMP.R]-[SEZ.R] AJES Ipomoea	
+6084271	Protocerebral_DAN_input_c 3.13.0#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.13.0#5 (17042846)	neuron 6084272 [SMP.R]-[SIP.R] AJES Magnolia	
+6066277	Protocerebral_DAN_input_c 10.6.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.6.0#1 (17042014)	neuron 6066278 [SMP.R]-[SMP.L]-[SIP.L]-[AVLP.L] Ardisia AJES	
+6037171	Protocerebral_DAN_input_c 11.13.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.13.0#1 (17042055)	neuron 6037172 SMP.R-CRE.R-SMP.L AJES Borage	
+6037165	Protocerebral_DAN_input_c 3.20.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.20.0 (17042870)	neuron 6037166 [SMP.R] Euphorbia AJES	
+6130400	Protocerebral_DAN_input_c 12.10.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.10.0#6 (17042257)	neuron 6130401 MWP Lady Gregory TY type7-4	
 6036782	Protocerebral_DAN_input_c 3.24.4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.24.4 (17042896)	neuron 6036783 CRE.R-SMP.R-ATL.R-IB.R Brassica	
 6012066	Protocerebral_DAN_input_c 3.24.3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.24.3 (17042894)	Neuron 6012067 MWP Heaney	
-6130400	Protocerebral_DAN_input_c 12.10.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.10.0#6 (17042257)	neuron 6130401 MWP Lady Gregory TY type7-4	
 6010061	Protocerebral_DAN_input_c 11.9.3#18	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#18 (17042189)	neuron 6010062 [SMP.R]-[SIP.R]-[SLP.R] AJES Van Dyck	
 5999377	Protocerebral_DAN_input_c 13.15.4#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.4#3 (17042446)	Neuron 5999378 MWP Bernard Shaw	
 5993635	Protocerebral_DAN_input_c 3.16.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.16.0 (17042858)	neuron 5993636 Hail Storm LT	
@@ -36,7 +32,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 5955124	Protocerebral_DAN_input_c 15.3.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.3.0#1 (17042650)	neuron 5955125 KF	
 6018269	Protocerebral_DAN_input_c 10.2.2#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.2.2#3 (17042001)	neuron 6018270 MWP Hades	
 6132086	Protocerebral_DAN_input_c 13.14.2#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.14.2#3 (17042416)	neuron 6132087 MWP Swammerdam	
-6132670	Protocerebral_DAN_input_c 3.13.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.13.0#6 (17042848)	neuron 6132671 MWP Vampyroteuthis infernalis	
+6132138	SEZ_DAN_input_c 6.2.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), SEZ_DAN_input_c 6.2.0 (17043094)	neuron 6132139 MWP Noether	
 6132249	Protocerebral_DAN_input_c 5.2.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 5.2.0#2 (17042976)	neuron 6132250 [SIP.R]-[SMP.R]-[SEZ.R]-[VNC] AJES Millais	
 6735444	Protocerebral_DAN_input_c 3.13.0#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.13.0#8 (17042852)	neuron 6735445 [SMP.R]/[SIP.R]-[SMP.L]/[SIP.L] AJES Psychotria	
 6731898	Protocerebral_DAN_input_c 12.5.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.5.1 (17042287)	neuron 6731899 MWP Gymnothorax moringa	
@@ -55,13 +51,13 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 6439962	Protocerebral_DAN_input_c 17.4.2#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.2#5 (17042694)	neuron 6439963 Gladiolus NM	
 6428719	Protocerebral_DAN_input_c 14.6.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.6.1 (17042538)	Neuron 6428720 Euridice JH	
 6427329	Protocerebral_DAN_input_c 15.11.2#19	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.2#19 (17042602)	neuron 5555829 Fancy Art NM	
-5937017	Protocerebral_DAN_input_c 15.9.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.9.0 (17042658)	neuron 5937018 AJES Wisteria	
+6132670	Protocerebral_DAN_input_c 3.13.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.13.0#6 (17042848)	neuron 6132671 MWP Vampyroteuthis infernalis	
 6153581	Protocerebral_DAN_input_c 15.13.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.13.0#1 (17042638)	neuron 6153582 Scarlet Study LT	
 6162599	Protocerebral_DAN_input_c 3.12.0_OTHERS16#7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.12.0_OTHERS16#7 (17042832)	neuron 6162600 [SMP.R]-[SMP.L] AJES Berberis	
 6162613	Protocerebral_DAN_input_c 12.4.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.4.0#2 (17042283)	SIP.L-SMP.L-SMP.R 6162614 Large Blue KJH AJES	
 6162853	Protocerebral_DAN_input_c 13.8.0#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.8.0#4 (17042496)	neuron 6162854 Larkspur NM	
 6163460	Protocerebral_DAN_input_c 12.4.0#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.4.0#3 (17042285)	neuron 6163461 [SMP.R]-[SMP.L]-[SIP.R] AJES Panax	
-6132138	SEZ_DAN_input_c 6.2.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), SEZ_DAN_input_c 6.2.0 (17043094)	neuron 6132139 MWP Noether	
+5937017	Protocerebral_DAN_input_c 15.9.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.9.0 (17042658)	neuron 5937018 AJES Wisteria	
 6172624	Protocerebral_DAN_input_c 3.21.0#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.21.0#5 (17042880)	neuron 6172625 KF	
 6202243	Protocerebral_DAN_input_c 3.7.0#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.7.0#6 (17042940)	neuron 6202244 MWP AJES Dodecahedron	
 6224424	Protocerebral_DAN_input_c 13.14.4#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.14.4#3 (17042424)	neuron 6224425 MWP Pearl Slaghoople	
@@ -71,7 +67,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 6408126	Protocerebral_DAN_input_c 15.3.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.3.0#2 (17042652)	neuron 6408127 [SIP.R]-[CRE.L] AJES 	
 6193358	Protocerebral_DAN_input_c 11.14.3#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.3#1 (17042067)	neuron 6193359 [SMP.R]-[SMP.L] AJES Silene	
 5935183	Protocerebral_DAN_input_c 15.11.2#18	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.2#18 (17042600)	neuron 5935184 Laceleaf NM	
-5919567	Protocerebral_DAN_input_c 3.8.0#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.8.0#5 (17042952)	neuron 5919568 Tom Hanks MWP	
+5930055	Protocerebral_DAN_input_c 17.4.6#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.6#4 (17042760)	neuron 5930056 KE	
 5928883	Protocerebral_DAN_input_c 3.17.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.17.0#1 (17042860)	neuron 5928884 MWP Stephen Fry	
 5283825	Protocerebral_DAN_input_c 17.4.5#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.5#2 (17042752)	neuron 5283826 MD	
 5283790	Protocerebral_DAN_input_c 17.4.44#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.44#5 (17042748)	putative aIP neuron 5283791 MD	
@@ -105,10 +101,10 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 5163288	Protocerebral_DAN_input_c 17.4.43#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.43#4 (17042736)	putative aIP neuron 5163289 MD	
 5163661	Protocerebral_DAN_input_c 3.21.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.21.0#1 (17042872)	neuron 5163662 Star Trek RT	
 5158720	Protocerebral_DAN_input_c 15.11.2#16	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.2#16 (17042596)	Neuron 5158721 Calypso JH	
-5930055	Protocerebral_DAN_input_c 17.4.6#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.6#4 (17042760)	neuron 5930056 KE	
+6834056	Protocerebral_DAN_input_c 10.10.7#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.10.7#4 (17041967)	aSP-g tract 6834057 KMS	
 5363909	Protocerebral_DAN_input_c 10.16.2#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.16.2#1 (17041989)	dlALT  1449743 NM JH	
 5384778	Protocerebral_DAN_input_c 3.21.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.21.0#2 (17042874)	Neuron 5384779 Lady Astor JH	
-6834056	Protocerebral_DAN_input_c 10.10.7#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.10.7#4 (17041967)	aSP-g tract 6834057 KMS	
+5919567	Protocerebral_DAN_input_c 3.8.0#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.8.0#5 (17042952)	neuron 5919568 Tom Hanks MWP	
 5914700	Protocerebral_DAN_input_c 17.4.6#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.6#3 (17042758)	neuron 5914701 KE	
 5888228	Protocerebral_DAN_input_c 12.10.0#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.10.0#5 (17042255)	neuron 5888229 TY type5-11	
 5872789	Protocerebral_DAN_input_c 9.4.2#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.4.2#2 (17043062)	neuron 5872790 MWP Diploria labryinthiformis	
@@ -141,7 +137,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 5652506	Protocerebral_DAN_input_c 20.4.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.4.0 (17042810)	neuron 5652507 Perfect Storm LT	
 5496848	Protocerebral_DAN_input_c 13.12.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.12.2 (17042387)	neuron 5496849 Anna Lee Wiley RT	
 6836000	Protocerebral_DAN_input_c 15.8.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.8.0 (17042656)	aSP-g tract 6836001 KMS TY	
-6986820	Protocerebral_DAN_input_c 8.2.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 8.2.0 (17042990)	neuron 6986821 MWP Franklin	
+6901685	Protocerebral_DAN_input_c 9.2.4#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.4#5 (17043032)	neuron 6901686 SLP.R-SIP.R-SMP.R aSP-g tract Escher AJES	
 6973212	Protocerebral_DAN_input_c 17.2.4#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.2.4#2 (17042666)	[SLP.L/SIP.L]-[SMP.L]-[SMP.R] 6973213 Nimrod KJH	
 9750962	Protocerebral_DAN_input_c 12.10.0#9	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.10.0#9 (17042263)	neuron 9750963 MWP Perceptron	
 9484412	Protocerebral_DAN_input_c 10.10.7#7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.10.7#7 (17041973)	putative aSP-f L neuron 9484413 IV	
@@ -210,7 +206,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 11695128	Protocerebral_DAN_input_c 11.12.2#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.12.2#6 (17042053)	neuron 11695129 [SMP.R] - SEZ? Lemon Haze AJES 	
 11705080	Protocerebral_DAN_input_c 11.9.3#21	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#21 (17042195)	LHON-C11 Ventral 3785538 ASB	
 11478314	Protocerebral_DAN_input_c 11.5.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.5.2 (17042143)	neuron 11478315 [SMP.R] AJES Miconia	
-6901685	Protocerebral_DAN_input_c 9.2.4#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.4#5 (17043032)	neuron 6901686 SLP.R-SIP.R-SMP.R aSP-g tract Escher AJES	
+5133590	Protocerebral_DAN_input_c 17.4.44#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.44#1 (17042740)	putative aIP neuron 5133591 MD	
 8249194	Protocerebral_DAN_input_c 13.16.0#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.16.0#3 (17042470)	neuron 8249195 GD Bach	
 8248704	Protocerebral_DAN_input_c 11.9.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.1 (17042151)	neuron 8248705 [SMP.R]-[posterior LH.R] AJES Rothko	
 7092554	Protocerebral_DAN_input_c 10.5.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.5.0 (17042012)	neuron 7092555 MWP Trevor	
@@ -230,7 +226,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 7036909	Protocerebral_DAN_input_c 2.1.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 2.1.0#2 (17042780)	neuron 7036910 MWP Sauron	
 7030538	Protocerebral_DAN_input_c 3.4.2#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.4.2#1 (17042902)	neuron 7030539	
 7027448	Protocerebral_DAN_input_c 20.2.0#9	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.2.0#9 (17042804)	neuron 7027449 MWP Gandalf	
-5133590	Protocerebral_DAN_input_c 17.4.44#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.44#1 (17042740)	putative aIP neuron 5133591 MD	
+6986820	Protocerebral_DAN_input_c 8.2.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 8.2.0 (17042990)	neuron 6986821 MWP Franklin	
 6997168	Protocerebral_DAN_input_c 9.7.2#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.7.2#4 (17043080)	neuron 6997169 Leeuwenhoek MWP	
 6997700	Protocerebral_DAN_input_c 15.11.1#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.1#5 (17042560)	neuron 6997701 [SMP.R]-[CRE.R]-[SIP.R] Marina Abramovic AJES	
 6998157	Protocerebral_DAN_input_c 15.11.3#7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.3#7 (17042618)	neuron 6998158 MWP VanDerWaals	
@@ -280,8 +276,8 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 7532738	Protocerebral_DAN_input_c 5.2.0#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 5.2.0#3 (17042978)	neuron 7532739 [SMP.R]-[SEZ.R]-[VNC] AJES Egon Schiele	
 7532852	Protocerebral_DAN_input_c 13.3.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.3.0#2 (17042480)	neuron 7532853 [SMP.R]-[FLA.R] AJES Kapoor	
 7267242	Protocerebral_DAN_input_c 14.10.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.10.2 (17042510)	neuron 7267243 KJH MWP Jablonski	
+15385365	Protocerebral_DAN_input_c 14.3.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.3.2 (17042522)	neuron 5364350 Elevator RT	
 5133500	Protocerebral_DAN_input_c 17.4.6#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.6#1 (17042754)	neuron 5133501 MD	
-5130852	Protocerebral_DAN_input_c 10.16.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.16.1 (17041987)	Neuron 5130853 Zond JH	
 5130961	Protocerebral_DAN_input_c 14.10.5#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.10.5#1 (17042516)	Neuron 5130962 Piggly Wiggly JH	
 2916531	Protocerebral_DAN_input_c 9.2.7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.7 (17043042)	neuron 2916532 King Kong CMM	
 2850491	Protocerebral_DAN_input_c 9.2.8#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.8#1 (17043044)	neuron 2850492 Dr. Seuss CMM	
@@ -297,26 +293,25 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 2613257	Protocerebral_DAN_input_c 10.10.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.10.2 (17041953)	aSP-g downstream 2613258 KM	
 2531588	Protocerebral_DAN_input_c 11.6.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.6.0#1 (17042145)	aSP-g downstream 2531589 KM NF	
 2451082	Protocerebral_DAN_input_c 17.2.6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.2.6 (17042668)	[CRE.R] - [MB.ML] 2451083 AJES	
-2425528	Protocerebral_DAN_input_c 11.14.1#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.1#2 (17042061)	neuron 2425529 RT NAS	
-2416734	Protocerebral_DAN_input_c 11.14.1#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.1#1 (17042059)	neuron 2416735 RT RP NAS	
-2404179	Protocerebral_DAN_input_c 14.4.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.4.2 (17042530)	Neuron 2404180 Jazz JJ	
-2237100	Protocerebral_DAN_input_c 12.6.6#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#6 (17042333)	Neuron 2237101 Sir Francis Drake JH	
-2249156	Protocerebral_DAN_input_c 11.16.10#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.10#2 (17042079)	neuron 2249157 Nero's Rome RT LT	
-2250960	Protocerebral_DAN_input_c 11.16.7#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.7#2 (17042129)	[CRE.R] 2250961 AJES Putative PPL1 DAN	
-2263284	Protocerebral_DAN_input_c 3.6.0_OTHERS15#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.6.0_OTHERS15#6 (17042926)	neuron 2263285 MWP Galeocerdo cuvier	
-2265099	Protocerebral_DAN_input_c 11.16.3#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.3#1 (17042111)	mAL downstream 2265100 KM	
-2265448	DAN_USN_c 12.6.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), DAN_USN_c 12.6.2 (17041750)	mAL downstream 2265449 KM	
 2916537	Protocerebral_DAN_input_c 10.9.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.9.2 (17042024)	neuron 2916538 Hubble CMM	
-2265555	Protocerebral_DAN_input_c 12.6.2#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.2#6 (17042309)	mAL downstream 2265556 KM	
-2293616	Protocerebral_DAN_input_c 12.6.6#7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#7 (17042335)	Neuron 2293617 Scout RT	
-2293621	Protocerebral_DAN_input_c 12.6.6#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#8 (17042337)	Neuron 2293622 Oregon Trail JJ	
-2294141	Protocerebral_DAN_input_c 12.6.6#9	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#9 (17042339)	Neuron 2294142 Shoelace Park JH	
-2298586	Protocerebral_DAN_input_c 12.6.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.1 (17042297)	Neuron 2298587 Large Pawn RT	
-2360874	Protocerebral_DAN_input_c 10.12.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.12.0#1 (17041977)	aSP-g downstream 2360875 KM IT	
+2425528	Protocerebral_DAN_input_c 11.14.1#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.1#2 (17042061)	neuron 2425529 RT NAS	
+2404179	Protocerebral_DAN_input_c 14.4.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.4.2 (17042530)	Neuron 2404180 Jazz JJ	
 2375064	Protocerebral_DAN_input_c 11.4.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.4.2 (17042139)	neuron 2375065 Eiffel Tower RT	
+2360874	Protocerebral_DAN_input_c 10.12.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.12.0#1 (17041977)	aSP-g downstream 2360875 KM IT	
+2298586	Protocerebral_DAN_input_c 12.6.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.1 (17042297)	Neuron 2298587 Large Pawn RT	
+2294141	Protocerebral_DAN_input_c 12.6.6#9	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#9 (17042339)	Neuron 2294142 Shoelace Park JH	
+2293621	Protocerebral_DAN_input_c 12.6.6#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#8 (17042337)	Neuron 2293622 Oregon Trail JJ	
+2293616	Protocerebral_DAN_input_c 12.6.6#7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#7 (17042335)	Neuron 2293617 Scout RT	
 2265731	DAN_USN_c 15.11.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), DAN_USN_c 15.11.1 (17041752)	neuron 2265732 MWP BRussell	
-2236897	Protocerebral_DAN_input_c 12.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.1.0 (17042245)	Neuron 2236898 Cherokee Phoenix JJ & RT	
+2265555	Protocerebral_DAN_input_c 12.6.2#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.2#6 (17042309)	mAL downstream 2265556 KM	
+2265448	DAN_USN_c 12.6.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), DAN_USN_c 12.6.2 (17041750)	mAL downstream 2265449 KM	
+2265099	Protocerebral_DAN_input_c 11.16.3#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.3#1 (17042111)	mAL downstream 2265100 KM	
+2263284	Protocerebral_DAN_input_c 3.6.0_OTHERS15#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.6.0_OTHERS15#6 (17042926)	neuron 2263285 MWP Galeocerdo cuvier	
+2250960	Protocerebral_DAN_input_c 11.16.7#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.7#2 (17042129)	[CRE.R] 2250961 AJES Putative PPL1 DAN	
+2249156	Protocerebral_DAN_input_c 11.16.10#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.10#2 (17042079)	neuron 2249157 Nero's Rome RT LT	
+2416734	Protocerebral_DAN_input_c 11.14.1#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.1#1 (17042059)	neuron 2416735 RT RP NAS	
 2916542	Protocerebral_DAN_input_c 9.2.8#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.8#2 (17043046)	neuron 2916543 Florida CMM	
+2932647	Protocerebral_DAN_input_c 11.16.10#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.10#3 (17042081)	neuron 2932648 MWP Atlantic	
 2934324	Protocerebral_DAN_input_c 15.11.3#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.3#2 (17042608)	neuron 2934325 MWP Temminck	
 3078023	Protocerebral_DAN_input_c 12.3.3#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.3.3#2 (17042279)	neuron 3078024 Toothpaste Tube JJ	
 3077965	Protocerebral_DAN_input_c 10.4.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.4.0#1 (17042007)	neuron 3077966 MWP Huygens	
@@ -341,7 +336,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 2969237	Protocerebral_DAN_input_c 15.11.2#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.2#2 (17042568)	neuron 2969238 Cotton Gin CMM	
 2982093	Protocerebral_DAN_input_c 11.14.1#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.1#3 (17042063)	neuron 2982094 NAS MD NM	
 2982099	Protocerebral_DAN_input_c 11.14.1#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.14.1#4 (17042065)	neuron 2982100 NAS MD	
-2932647	Protocerebral_DAN_input_c 11.16.10#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.10#3 (17042081)	neuron 2932648 MWP Atlantic	
+2237100	Protocerebral_DAN_input_c 12.6.6#6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#6 (17042333)	Neuron 2237101 Sir Francis Drake JH	
 2991284	Protocerebral_DAN_input_c 3.8.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.8.0#1 (17042944)	Neuron 2991285 Deathly Hallow JH	
 3020395	Protocerebral_DAN_input_c 11.16.6#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.6#2 (17042125)	SIP.R -> CRE.R 3020396 PS CH MVP2 downstream SIP	
 3038331	Protocerebral_DAN_input_c 3.6.0_OTHERS15#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.6.0_OTHERS15#1 (17042914)	neuron 3038332 MWP C.S. Lewis	
@@ -350,9 +345,10 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 3074089	Protocerebral_DAN_input_c 15.11.3#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.3#5 (17042614)	neuron 3074090 [SMP/SIP/CRE.R]-[SLP.L] Jig of Life AJES MWP	
 3074593	Protocerebral_DAN_input_c 11.16.12	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.12 (17042107)	neuron 3074594 MWP Epipelagic	
 2998093	Protocerebral_DAN_input_c 3.7.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.7.0#1 (17042930)	neuron 2998094 Carti RJT	
-3078625	Protocerebral_DAN_input_c 11.16.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.2 (17042109)	neuron 3078626 Apple I JJ	
+2236897	Protocerebral_DAN_input_c 12.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.1.0 (17042245)	Neuron 2236898 Cherokee Phoenix JJ & RT	
 2236828	Protocerebral_DAN_input_c 11.16.7#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.7#1 (17042127)	Neuron 2236829 Brown Bananas RT	
-2173638	Protocerebral_DAN_input_c 3.12.0_OTHERS16#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.12.0_OTHERS16#8 (17042834)	Neuron 2173639 Chlorophyll JH TY	
+2236492	Protocerebral_DAN_input_c 11.16.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.1 (17042075)	Neuron 2236493 Turkey RT	
+1670516	Protocerebral_DAN_input_c 15.11.4#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.4#2 (17042630)	[CRE.R] - [CRE.L] - [SIP.L] 1670517 AJES	
 1651545	Protocerebral_DAN_input_c 20.2.0#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.2.0#3 (17042792)	[CRE.R] 1651546 (pMP-a lineage) AJES	
 1651416	Protocerebral_DAN_input_c 15.11.4#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.4#1 (17042628)	[CRE.R] 1651417 AJES (same lineage as putative asP-j)	
 1651222	Protocerebral_DAN_input_c 20.2.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.2.0#2 (17042790)	[CRE.R] 1651223 (pMP-a lineage) AJES	
@@ -369,25 +365,25 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 1318702	Protocerebral_DAN_input_c 12.6.2#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.2#2 (17042301)	aSP-g downstream neuron 1318703 IT & RT	
 1311287	Protocerebral_DAN_input_c 13.13.2#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.13.2#1 (17042396)	neuron 1311288 Galaxy RT ASB	
 1307939	Protocerebral_DAN_input_c 11.16.6#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.6#1 (17042123)	 SIP.R -> CRE.R 1627868 AJES MVP2 downstream SIP	
-1298683	Protocerebral_DAN_input_c 12.2.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.2.0#1 (17042269)	LH neuron downstream of V2a 1298684 Interesting CMM ASB	
-551939	SEZ_DAN_input_c 7.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), SEZ_DAN_input_c 7.1.0 (17043096)	neuron 551940 MBON a3 a1 postsyn 	
 588526	Protocerebral_DAN_input_c 13.15.1#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.1#1 (17042426)	neuron 588527-FW-A2	
 625980	Protocerebral_DAN_input_c 13.15.1#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.1#2 (17042428)	neuron 625981-FW-A8	
 629093	Protocerebral_DAN_input_c 17.2.4#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.2.4#1 (17042664)	-> SMP.L-SMP.R 629094 Gogmagog KK KJH	
 635314	Protocerebral_DAN_input_c 13.15.1#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.1#3 (17042430)	neuron 635315-FW-A10 MWP Kronos	
 693072	Protocerebral_DAN_input_c 9.5.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.5.0 (17043068)	neuron 693073 GSXEJ	
-1670516	Protocerebral_DAN_input_c 15.11.4#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.4#2 (17042630)	[CRE.R] - [CRE.L] - [SIP.L] 1670517 AJES	
 716645	Protocerebral_DAN_input_c 11.9.4#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.4#1 (17042197)	neuron 716646 GSXEJ	
-983054	Protocerebral_DAN_input_c 11.9.3#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#3 (17042159)	aSP-g type tract crossing alpha lobe neuron 983055 GSXEJ	
+1671124	Protocerebral_DAN_input_c 11.11.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.11.0#1 (17042032)	[CRE.R] - [SMP.R] >[SIP.L] neuron 1671125 AJES	
+860160	Protocerebral_DAN_input_c 18.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 18.1.0 (17042762)	putative DAN 860161 JH NS	
 1064603	DAN_USN_c 10.10.7	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), DAN_USN_c 10.10.7 (17041734)	aSP-g cand arch tract neuron 1064604 IT	
 1099678	Protocerebral_DAN_input_c 10.10.6	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.10.6 (17041959)	aSP-g downstream 1099679 IT KM	
 1180169	Protocerebral_DAN_input_c 13.15.4#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.4#1 (17042442)	aSP-g downstream 1180170 KM	
 1211268	DAN_USN_c 10.10.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), DAN_USN_c 10.10.2 (17041732)	aSP-g downstream 1211269 KM	
 1276310	Protocerebral_DAN_input_c 12.6.2#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.2#1 (17042299)	mAL downstream 1276311 KM	
-860160	Protocerebral_DAN_input_c 18.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 18.1.0 (17042762)	putative DAN 860161 JH NS	
-2236492	Protocerebral_DAN_input_c 11.16.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.1 (17042075)	Neuron 2236493 Turkey RT	
-1671124	Protocerebral_DAN_input_c 11.11.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.11.0#1 (17042032)	[CRE.R] - [SMP.R] >[SIP.L] neuron 1671125 AJES	
-1683650	Protocerebral_DAN_input_c 3.6.0_OTHERS15#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.6.0_OTHERS15#5 (17042924)	large fragment 1683651 AJES	
+1298683	Protocerebral_DAN_input_c 12.2.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.2.0#1 (17042269)	LH neuron downstream of V2a 1298684 Interesting CMM ASB	
+983054	Protocerebral_DAN_input_c 11.9.3#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#3 (17042159)	aSP-g type tract crossing alpha lobe neuron 983055 GSXEJ	
+3078625	Protocerebral_DAN_input_c 11.16.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.2 (17042109)	neuron 3078626 Apple I JJ	
+1671518	Protocerebral_DAN_input_c 20.2.0#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.2.0#4 (17042794)	[CRE.R] 1671519 (pMP-a lineage) AJES	
+1856261	Protocerebral_DAN_input_c 11.10.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.10.0#1 (17042028)	Neuron 1856262 William Pitt the Elder JJ	
+2173638	Protocerebral_DAN_input_c 3.12.0_OTHERS16#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.12.0_OTHERS16#8 (17042834)	Neuron 2173639 Chlorophyll JH TY	
 2160773	Protocerebral_DAN_input_c 3.11.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.11.0 (17042818)	neuron 2160774 ASB TODO LT RT	
 2144424	Protocerebral_DAN_input_c 12.6.2#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.2#5 (17042307)	aSP-g downstream 2144425 KM	
 2142915	Protocerebral_DAN_input_c 10.8.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.8.0 (17042020)	mAL downstream 2142916 KM	
@@ -404,24 +400,23 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 1934923	Protocerebral_DAN_input_c 13.15.6#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.6#2 (17042454)	Neuron 1934924 Jack Kilby IC JJ	
 1933256	Protocerebral_DAN_input_c 13.15.6#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.6#1 (17042452)	Neuron 1933258 Doctor Bakey JH	
 1933033	Protocerebral_DAN_input_c 2.1.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 2.1.0#1 (17042778)	Neuron 1933034 Hoover Dam RT	
-1932356	Protocerebral_DAN_input_c 11.16.10#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.10#1 (17042077)	Neuron 1932357 Bellaco Sois JH	
-1856261	Protocerebral_DAN_input_c 11.10.0#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.10.0#1 (17042028)	Neuron 1856262 William Pitt the Elder JJ	
 1875117	Protocerebral_DAN_input_c 17.4.2#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 17.4.2#2 (17042688)	neuron 1875118 Mayday RT	
 1875568	Protocerebral_DAN_input_c 11.9.3#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#4 (17042161)	LHON-C11A-delta 1875569 Cornell RT	
 1876196	Protocerebral_DAN_input_c 12.6.5#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.5#1 (17042319)	Neuron 1876197 Acadia RT	
 1876684	Protocerebral_DAN_input_c 12.6.6#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#1 (17042323)	Neuron 1876685 Lionheart JH	
 1876727	Protocerebral_DAN_input_c 3.12.0_OTHERS16#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.12.0_OTHERS16#1 (17042820)	Neuron 1876728 Pteranodon JH	
-1671518	Protocerebral_DAN_input_c 20.2.0#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 20.2.0#4 (17042794)	[CRE.R] 1671519 (pMP-a lineage) AJES	
 1876755	Protocerebral_DAN_input_c 12.6.6#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#2 (17042325)	neuron 1876756 Salk RT	
-1876799	Protocerebral_DAN_input_c 12.6.6#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#3 (17042327)	neuron 1876800 Beloved RT	
+1683650	Protocerebral_DAN_input_c 3.6.0_OTHERS15#5	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.6.0_OTHERS15#5 (17042924)	large fragment 1683651 AJES	
+1876779	Protocerebral_DAN_input_c 12.6.5#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.5#2 (17042321)	Neuron 1876780 Bridge L JJ & RT	
 1878029	Protocerebral_DAN_input_c 11.5.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.5.1 (17042141)	Neuron 1878030 Bridge M RT & JJ	
 1913313	Protocerebral_DAN_input_c 12.6.4#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.4#1 (17042315)	SMP.R-SLP.R-LH.R 1913314 Brown Hairstreak KJH	
 1917270	Protocerebral_DAN_input_c 13.15.5#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.15.5#2 (17042450)	Neuron 1917271 [SMP.R] JJ AJES Nolde	
 1919973	Protocerebral_DAN_input_c 13.13.4#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.13.4#1 (17042404)	Neuron 1919974 Orange Juice JH	
 1920529	Protocerebral_DAN_input_c 12.6.6#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#4 (17042329)	Neuron 1920530 Beardslee JH	
-1876779	Protocerebral_DAN_input_c 12.6.5#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.5#2 (17042321)	Neuron 1876780 Bridge L JJ & RT	
-5131480	Protocerebral_DAN_input_c 9.2.10#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.10#3 (17043008)	Neuron 5131481 Golden Lion JH	
+1932356	Protocerebral_DAN_input_c 11.16.10#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.16.10#1 (17042077)	Neuron 1932357 Bellaco Sois JH	
+1876799	Protocerebral_DAN_input_c 12.6.6#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.6.6#3 (17042327)	neuron 1876800 Beloved RT	
 3078904	Protocerebral_DAN_input_c 19.1.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 19.1.0 (17042768)	neuron 3078905 Streetcar JJ	
+3078932	Protocerebral_DAN_input_c 10.2.1#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.2.1#1 (17041993)	neuron 3078933 Steam Train JJ	
 3079205	Protocerebral_DAN_input_c 11.12.2#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.12.2#1 (17042043)	neuron 3079206 Electric Tram JJ	
 4174741	Protocerebral_DAN_input_c 9.4.1#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.4.1#2 (17043056)	[SP.R] 4174742 Yew MWP ASB	
 4152722	Protocerebral_DAN_input_c 13.12.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 13.12.1 (17042385)	neuron 4152723 JJ	
@@ -458,7 +453,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 3730444	Protocerebral_DAN_input_c 11.9.3#10	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#10 (17042173)	LHON-C11 Ventral 3730445 ASB	
 4175043	Protocerebral_DAN_input_c 11.9.3#16	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#16 (17042185)	[LH.R->] 4175044 C11 Ventral ASB	
 4182192	Protocerebral_DAN_input_c 15.11.2#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.2#8 (17042580)	neuron 4182193 [SMP.R]-[CRE.R]-[SIP.R] AJES Valeriana	
-15385365	Protocerebral_DAN_input_c 14.3.2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 14.3.2 (17042522)	neuron 5364350 Elevator RT	
+5130852	Protocerebral_DAN_input_c 10.16.1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.16.1 (17041987)	Neuron 5130853 Zond JH	
 5130722	Protocerebral_DAN_input_c 9.2.10#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.10#2 (17043006)	Neuron 5130723 Boulder Dam JH	
 5130062	Protocerebral_DAN_input_c 9.2.10#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.10#1 (17043004)	neuron 5130063 Magnetic Tape RT	
 5097515	Protocerebral_DAN_input_c 12.10.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.10.0#2 (17042249)	neuron 5097516 TY type5-10	
@@ -490,7 +485,7 @@ skid	name	paper_id	paper_name	annotations	synonyms	FBbt_ID
 4756435	Protocerebral_DAN_input_c 15.11.1#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 15.11.1#2 (17042554)	neuron 4756436 Magellan's Vittoria LT NM	
 4892993	Protocerebral_DAN_input_c 3.23.0	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.23.0 (17042888)	neuron 4892994 Queen Anne's Revenge LT	
 4413271	Protocerebral_DAN_input_c 12.8.0#8	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 12.8.0#8 (17042359)	neuron 4413272 [SMP.R]-[PVLP.R?] Turner AJES	
-3078932	Protocerebral_DAN_input_c 10.2.1#1	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 10.2.1#1 (17041993)	neuron 3078933 Steam Train JJ	
+5131480	Protocerebral_DAN_input_c 9.2.10#3	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 9.2.10#3 (17043008)	Neuron 5131481 Golden Lion JH	
 3730399	Protocerebral_DAN_input_c 11.9.3#9	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 11.9.3#9 (17042171)	not C11A 3730400 ASB JH	
 3730390	DAN_USN_c 11.9.5#4	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), DAN_USN_c 11.9.5#4 (17041746)	LHON-C11 Ventral 3730391 ASB KJH	
 3111192	Protocerebral_DAN_input_c 3.8.0#2	15754388	Paper: Otto et al 2020	Paper: Otto et al 2020 (15754388), Protocerebral_DAN_input_c 3.8.0#2 (17042946)	neuron 3111193 invisible ink RT JJ	
