@@ -1,7 +1,1 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Court2017	pdb	Adult VNS neuropils (Court2017)	CC-BY-SA_4.0	doi_10_1101_122952	24	0	0	24	0
-Court2017	pipeline_output	Adult VNS neuropils (Court2017)	CC-BY-SA_4.0	doi_10_1101_122952	23	0	0	23	0
-Ito2013	pdb	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	91	0
-Ito2013	pipeline_output	Ito lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221438	96	0	0	90	0
-Maniates_Selvin2020	pdb	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	2	0
-Maniates_Selvin2020	pipeline_output	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	34	0
