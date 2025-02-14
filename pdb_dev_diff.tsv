@@ -21,8 +21,6 @@ Hueckesfeld2020	dev	Unveiling the sensory and interneuronal pathways of the neur
 Hueckesfeld2020	pdb	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	CC-BY-SA_4.0	FBrf0249161	314	0	0	28	0
 Imambocus2022	dev	EM L1 Imambocus et al., 2022	CC-BY_4.0	FBrf0252313	45	0	0	9	0
 Imambocus2022	pdb	EM L1 Imambocus et al., 2022	CC-BY_4.0	FBrf0252313	45	0	0	1	0
-Maniates_Selvin2020	dev	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	0	0	34	0
-Maniates_Selvin2020	pdb	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	34	0
 Mark2019	dev	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	63	0
 Mark2019	pdb	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	59	0
 Miroschnikow2018	dev	EM L1 Miroschnikow et al. 2018	CC-BY_4.0	FBrf0240975	738	0	0	79	0
@@ -39,5 +37,5 @@ Tastekin2018	dev	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	0	0	5	0
 Tastekin2018	pdb	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	0	0	4	0
 WindingPedigo2023	dev	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	FBrf0255988	1507	0	0	56	0
 WindingPedigo2023	pdb	EM L1 Winding, Pedigo et al., 2023	CC-BY_4.0	FBrf0255988	1507	0	0	1	0
-Xu2020NeuronsV1point1	dev	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22423	9426	5042	0
 Xu2020NeuronsV1point1	pdb	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22420	9426	5042	0
+Xu2020NeuronsV1point2point1	dev	JRC_FlyEM_Hemibrain neurons Version 1.2.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22423	9426	5042	0
