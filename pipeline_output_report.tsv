@@ -66,7 +66,7 @@ LateralHorn2019	FlyLight split-GAL4 lines for Lateral Horn	CC-BY-SA_4.0	FBrf0242
 Lee_Lineage2020	central brain neurons by lineage, Lee2020	CC-BY_4.0	doi_10_7554_eLife_53518	462	0	0	38	0
 Lillvis2018	Neurons involved in courtship and song (Lillvis2018)	CC-BY-SA_4.0	doi_10_1101_238147	2	0	0	1	0
 Mamiya2022	Biomechanical origins of proprioceptive maps in the Drosophila leg	CC-BY_4.0	doi_10_1101_2022_08_08_503192	4	0	0	3	0
-Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	0	0	34	0
+Maniates_Selvin2020	EM FANC Phelps et al 2020	CC-BY-SA_4.0	FBrf0247998	2029	2016	0	34	0
 Marin2020	EM FAFB Marin et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_028	300	300	77	87	0
 Mark2019	EM L1 Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617936	78	0	0	63	0
 Matsuo2016	AMMC local and projection neurons (Matsuo2016)	CC-BY-SA_4.0	FBrf0230862	41	0	0	39	0
@@ -150,7 +150,7 @@ WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	CC-BY-SA_4.0		255	0	0	138
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	159	55	0
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	70	0
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	21242	0	0	1	0
-Xu2020NeuronsV1point1	JRC_FlyEM_Hemibrain neurons Version 1.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22423	9426	5042	0
+Xu2020NeuronsV1point2point1	JRC_FlyEM_Hemibrain neurons Version 1.2.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22423	9426	5042	0
 Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	219	0	0	156	0
 Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	95	0
 Zarin2019	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0	86	0
