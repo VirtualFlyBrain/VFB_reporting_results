@@ -18,7 +18,7 @@ Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	CC-BY-NC-SA_4.
 Dickson_VT	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1101_198648	18016	0	0	7807	0
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	CC-BY-SA_4.0	FBrf0240600	10	10	10	4	0
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	276	0	42	110	0
-Dorkenwald2023	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139254	139191	0	7317	0
+Dorkenwald2023	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	139191	0	7320	0
 Eichler2017	Larval MB neurons - EM (Eichler2017)	CC-BY-SA_4.0	FBrf0236359	388	0	0	79	0
 Engert2022	EM FAFB Engert et al. 2022	CC-BY_4.0	FBrf0253662	144	144	0	5	0
 Eschbach2020	EM L1 Eschbach et al 2020	CC-BY-SA_4.0	FBrf0245294	189	0	0	99	0
@@ -150,7 +150,7 @@ WoodHartenstein2018	L3 neuropils (WoodHartenstein2018)	CC-BY-SA_4.0		255	0	0	138
 Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	332	0	159	55	0
 Xie2018	Split GAL4 lines for dopaminergic neurons, Xie2018	CC-BY-SA_4.0	FBrf0238545	78	0	26	70	0
 Xu2020Neurons	JRC_FlyEM_Hemibrain neurons Version 1.0.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	21242	0	0	1	0
-Xu2020NeuronsV1point2point1	JRC_FlyEM_Hemibrain neurons Version 1.2.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22423	9426	5042	0
+Xu2020NeuronsV1point2point1	JRC_FlyEM_Hemibrain neurons Version 1.2.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	22423	9426	5049	0
 Xu2020roi	JRC_FlyEM_Hemibrain painted domains	CC-BY_4.0	doi_10_1101_2020_01_21_911859	219	0	0	156	0
 Yu2013	Lee lab adult brain lineage clone image set	CC-BY-NC-SA_4.0	FBrf0221412	95	0	0	95	0
 Zarin2019	EM L1 Zarin, Mark et al. 2019	CC-BY-SA_4.0	doi_10_1101_617977	192	0	0	86	0

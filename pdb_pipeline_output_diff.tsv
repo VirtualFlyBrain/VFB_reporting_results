@@ -1,1 +1,5 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Dorkenwald2023	pdb	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139254	139191	0	7317	0
+Dorkenwald2023	pipeline_output	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	139191	0	7320	0
+Xu2020NeuronsV1point2point1	pdb	JRC_FlyEM_Hemibrain neurons Version 1.2.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22587	22423	9426	5042	0
+Xu2020NeuronsV1point2point1	pipeline_output	JRC_FlyEM_Hemibrain neurons Version 1.2.1	CC-BY_4.0	doi_10_1101_2020_01_21_911859	22593	22423	9426	5049	0
