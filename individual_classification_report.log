@@ -1,0 +1,16 @@
+2025-03-31 16:51:24,745 - INFO - Starting individual classification report generation
+2025-03-31 16:51:24,745 - INFO - Fetching KB classification data...
+2025-03-31 16:51:55,307 - INFO - Retrieved 328666 KB classifications
+2025-03-31 16:51:55,307 - INFO - Fetching PDB classification data...
+2025-03-31 16:52:39,967 - INFO - Retrieved 453673 PDB classifications
+2025-03-31 16:52:39,967 - INFO - Processing classification data...
+2025-03-31 16:52:40,223 - INFO - Merged classifications: 299886 matching individual IDs
+2025-03-31 16:53:37,348 - INFO - Found 393 FBbt terms added in PDB
+2025-03-31 16:53:37,486 - INFO - Found 251 FBbt terms removed from KB
+2025-03-31 16:53:37,489 - INFO - Total distinct FBbt terms changed: 628
+2025-03-31 16:53:37,489 - INFO - Retrieving FBbt labels...
+2025-03-31 16:53:37,489 - INFO - Processing 628 FBbt IDs in batches of 50
+2025-03-31 16:53:47,426 - INFO - Retrieved labels for 628 FBbt IDs
+2025-03-31 16:53:47,429 - INFO - Saving report to ../VFB_reporting_results/individual_classification_KB_PDB.tsv
+2025-03-31 16:53:47,440 - INFO - Report saved successfully with 628 rows
+2025-03-31 16:53:47,441 - INFO - Process completed in 142.70 seconds
