@@ -1,16 +1,16 @@
-2025-04-01 03:57:27,037 - INFO - Starting individual classification report generation
-2025-04-01 03:57:27,037 - INFO - Fetching KB classification data...
-2025-04-01 03:57:58,189 - INFO - Retrieved 328666 KB classifications
-2025-04-01 03:57:58,190 - INFO - Fetching PDB classification data...
-2025-04-01 03:58:45,116 - INFO - Retrieved 453673 PDB classifications
-2025-04-01 03:58:45,116 - INFO - Processing classification data...
-2025-04-01 03:58:45,386 - INFO - Merged classifications: 299886 matching individual IDs
-2025-04-01 03:59:43,301 - INFO - Found 393 FBbt terms added in PDB
-2025-04-01 03:59:43,442 - INFO - Found 251 FBbt terms removed from KB
-2025-04-01 03:59:43,445 - INFO - Total distinct FBbt terms changed: 628
-2025-04-01 03:59:43,445 - INFO - Retrieving FBbt labels...
-2025-04-01 03:59:43,445 - INFO - Processing 628 FBbt IDs in batches of 50
-2025-04-01 03:59:52,941 - INFO - Retrieved labels for 628 FBbt IDs
-2025-04-01 03:59:52,946 - INFO - Saving report to ../VFB_reporting_results/individual_classification_KB_PDB.tsv
-2025-04-01 03:59:52,957 - INFO - Report saved successfully with 628 rows
-2025-04-01 03:59:52,957 - INFO - Process completed in 145.92 seconds
+2025-04-01 05:58:01,889 - INFO - Starting individual classification report generation
+2025-04-01 05:58:01,889 - INFO - Fetching KB classification data...
+2025-04-01 05:58:33,143 - INFO - Retrieved 328666 KB classifications
+2025-04-01 05:58:33,143 - INFO - Fetching PDB classification data...
+2025-04-01 05:59:06,404 - INFO - Retrieved 453673 PDB classifications
+2025-04-01 05:59:06,404 - INFO - Processing classification data...
+2025-04-01 05:59:06,678 - INFO - Merged classifications: 299886 matching individual IDs
+2025-04-01 06:00:04,720 - INFO - Found 393 FBbt terms added in PDB
+2025-04-01 06:00:04,875 - INFO - Found 251 FBbt terms removed from KB
+2025-04-01 06:00:04,878 - INFO - Total distinct FBbt terms changed: 628
+2025-04-01 06:00:04,878 - INFO - Retrieving FBbt labels...
+2025-04-01 06:00:04,878 - INFO - Processing 628 FBbt IDs in batches of 50
+2025-04-01 06:00:15,421 - INFO - Retrieved labels for 628 FBbt IDs
+2025-04-01 06:00:15,424 - INFO - Saving report to ../VFB_reporting_results/individual_classification_KB_PDB.tsv
+2025-04-01 06:00:15,436 - INFO - Report saved successfully with 628 rows
+2025-04-01 06:00:15,436 - INFO - Process completed in 133.55 seconds
