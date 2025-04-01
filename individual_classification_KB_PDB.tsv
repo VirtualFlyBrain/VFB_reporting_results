@@ -392,38 +392,37 @@ FBbt_00110600	obsolete adult fruitless aSP-g (male) lineage clone	1	0
 FBbt_00110618	obsolete adult fruitless pMP-c (male) lineage clone	1	0
 FBbt_00110616	obsolete adult fruitless pMP-b (male) lineage clone	1	0
 FBbt_00110614	obsolete adult fruitless pMP-a (male) lineage clone	1	0
-FBbt_00110625	adult fruitless pSP-b (male) neuron	0	1
+FBbt_00110623	adult fruitless pMP-f (male) neuron	0	1
+FBbt_00110573	adult fruitless aIP-i neuron	0	2
 FBbt_00110581	adult fruitless aDT-d (male) neuron	0	1
 FBbt_00049820	fan-shaped body columnar neuron	0	598
-FBbt_00110623	adult fruitless pMP-f (male) neuron	0	1
-FBbt_00110615	adult fruitless pMP-a (male) neuron	0	1
 FBbt_00110621	adult fruitless P1 (male) neuron	0	1
+FBbt_00110625	adult fruitless pSP-b (male) neuron	0	1
+FBbt_00110615	adult fruitless pMP-a (male) neuron	0	1
 FBbt_00110617	adult fruitless pMP-b (male) neuron	0	1
 FBbt_00110619	adult fruitless pMP-c (male) neuron	0	1
 FBbt_00110611	adult fruitless pIP-e (male) neuron	0	1
 FBbt_00110601	adult fruitless aSP-g (male) neuron	0	1
-FBbt_00110603	adult fruitless aSP-h (male) neuron	0	1
-FBbt_00110573	adult fruitless aIP-i neuron	0	2
-FBbt_00110587	adult fruitless aIP-c (male) neuron	0	1
 FBbt_00110591	adult fruitless aIP-e (male) neuron	0	1
-FBbt_00007577	optic lobe intrinsic neuron	0	1390
 FBbt_00110585	adult fruitless aIP-b (male) neuron	0	1
+FBbt_00007577	optic lobe intrinsic neuron	0	1390
+FBbt_00110587	adult fruitless aIP-c (male) neuron	0	1
 FBbt_00110583	adult fruitless aDT-e (male) neuron	0	1
 FBbt_00110599	adult fruitless aSP-f (male) neuron	0	1
-FBbt_00110595	adult fruitless aSP-a (male) neuron	0	1
+FBbt_00110597	adult fruitless aSP-b (male) neuron	0	1
 FBbt_00110593	adult fruitless aIP-g (male) neuron	0	1
 FBbt_00110533	adult fruitless pSP-e neuron	0	3
 FBbt_00110531	adult fruitless pSP-d neuron	0	3
 FBbt_00110535	adult fruitless pSP-f neuron	0	3
 FBbt_00001448	pCC neuron	0	2
-FBbt_00110605	adult fruitless aSP-i (male) neuron	0	1
 FBbt_00053304	larval abdominal 1 pCC neuron	0	2
-FBbt_00110597	adult fruitless aSP-b (male) neuron	0	1
-FBbt_00100249	alpha'/beta' Kenyon cell	0	335
-FBbt_00110607	adult fruitless aSP-k (male) neuron	0	1
-FBbt_00005131	dopaminergic neuron	0	12
-FBbt_00047947	larval gustatory projection neuron	0	9
-FBbt_00111255	larval A10l neuron	0	2
+FBbt_00110603	adult fruitless aSP-h (male) neuron	0	1
+FBbt_00048883	NB5-3 lineage primary neuron	0	2
+FBbt_00110595	adult fruitless aSP-a (male) neuron	0	1
+FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
+FBbt_00110605	adult fruitless aSP-i (male) neuron	0	1
+FBbt_00100227	mushroom body extrinsic neuron	0	18
+FBbt_00047949	larval thermosensory projection neuron	0	8
 FBbt_00111254	larval A10f neuron	0	2
 FBbt_00111253	larval A10a neuron	0	2
 FBbt_00111298	proboscis muscle 9 motor neuron	0	2
@@ -434,9 +433,9 @@ FBbt_00111228	larval Basin-3 neuron	0	4
 FBbt_00110985	adult feeding interneuron	0	2
 FBbt_00100248	alpha/beta Kenyon cell	0	289
 FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
-FBbt_00100227	mushroom body extrinsic neuron	0	18
-FBbt_00110609	adult fruitless pIP-a (male) neuron	0	1
-FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
+FBbt_00005131	dopaminergic neuron	0	12
+FBbt_00100249	alpha'/beta' Kenyon cell	0	335
+FBbt_00110607	adult fruitless aSP-k (male) neuron	0	1
 FBbt_00100214	adult dopaminergic PAM neuron	0	5
 FBbt_00110513	adult fruitless pSG-a neuron	0	2
 FBbt_00110515	adult fruitless pSG-b neuron	0	2
@@ -448,9 +447,10 @@ FBbt_00110507	adult fruitless pMP-e (female) neuron	0	1
 FBbt_00110501	adult fruitless pMP-b (female) neuron	0	1
 FBbt_00110503	adult fruitless pMP-c (female) neuron	0	1
 FBbt_00110525	adult fruitless pSP-b (female) neuron	0	1
-FBbt_00048883	NB5-3 lineage primary neuron	0	2
+FBbt_00110609	adult fruitless pIP-a (male) neuron	0	1
+FBbt_00047947	larval gustatory projection neuron	0	9
 FBbt_00048517	wind sensitive wedge projection neuron	0	10
-FBbt_00047949	larval thermosensory projection neuron	0	8
+FBbt_00051967	neck muscle motor neuron of VNC	0	30
 FBbt_00051887	adult gnome subesophageal neuron	0	2
 FBbt_00052750	adult VNC ventral unpaired median neuron	0	5
 FBbt_00052046	adult interneuron	0	4
@@ -465,7 +465,7 @@ FBbt_00051951	adult trumpet subesophageal neuron	0	2
 FBbt_00051188	proboscis muscle 6 motor neuron	0	2
 FBbt_00051882	adult foxglove subesophageal neuron	0	2
 FBbt_00051952	adult tulip subesophageal neuron	0	2
-FBbt_00111257	larval A19c neuron	0	2
+FBbt_00111256	larval A12m neuron	0	2
 FBbt_00051190	proboscis muscle 8 motor neuron	0	2
 FBbt_00051935	adult roundup subesophageal neuron	0	2
 FBbt_00051949	adult trident subesophageal neuron	0	1
@@ -479,10 +479,9 @@ FBbt_00051232	adult ellipsoid body extrinsic ring neuron ExR8	0	4
 FBbt_00051231	adult ellipsoid body extrinsic ring neuron ExR7	0	4
 FBbt_00051953	adult tundra subesophageal neuron	0	2
 FBbt_00051097	adult LUL130 neuron of ventral nerve cord	0	6
-FBbt_00048287	visual projection neuron	0	10
-FBbt_00051967	neck muscle motor neuron of VNC	0	30
-FBbt_00049926	adult doublesex pC1e (female) neuron	0	1
+FBbt_00051867	adult clavicle subesophageal neuron	0	2
 FBbt_00048057	sensory neuron of campaniform sensillum	0	1
+FBbt_00049925	adult doublesex pC1d (female) neuron	0	2
 FBbt_00047646	descending neuron of the posterior brain DNp13	0	5
 FBbt_00048999	adult Drosulfakinin neuron	0	6
 FBbt_00047517	descending neuron of the posterior brain	0	48
@@ -494,9 +493,9 @@ FBbt_00047047	adult tubercle-bulb neuron	0	78
 FBbt_00051062	adult tubercle-tubercle neuron	0	8
 FBbt_00048516	wedge projection neuron	0	41
 FBbt_00049924	adult doublesex pC1c (female) neuron	0	2
-FBbt_00049925	adult doublesex pC1d (female) neuron	0	2
-FBbt_00047511	adult descending neuron	0	2
+FBbt_00049926	adult doublesex pC1e (female) neuron	0	1
 FBbt_00049922	adult doublesex pC1a (female) neuron	0	2
+FBbt_00048287	visual projection neuron	0	10
 FBbt_00049923	adult doublesex pC1b (female) neuron	0	2
 FBbt_00047946	gustatory projection neuron	0	1
 FBbt_00047199	larval Ladder-a neuron	0	1
@@ -508,11 +507,11 @@ FBbt_00047516	descending neuron of the gnathal ganglion	0	13
 FBbt_00047515	descending neuron of the outside anterior cluster	0	2
 FBbt_00047513	descending neuron of the anterior ventral brain	0	6
 FBbt_00047512	descending neuron of the anterior dorsal brain	0	10
-FBbt_00111256	larval A12m neuron	0	2
+FBbt_00047511	adult descending neuron	0	2
+FBbt_00111255	larval A10l neuron	0	2
 FBbt_00111640	medulla columnar neuron	0	122
-FBbt_00111258	larval A08x neuron	0	2
-FBbt_00110433	adult fruitless aIP-b (female) neuron	0	1
-FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
+FBbt_00111257	larval A19c neuron	0	2
+FBbt_00110431	adult fruitless aIP-a neuron	0	2
 FBbt_00003907	lobula plate tangential neuron	0	2
 FBbt_00047097	primary neuron	0	3029
 FBbt_00049540	Notch OFF hemilineage neuron	0	6618
@@ -524,9 +523,9 @@ FBbt_00100656	BAmas2 lineage neuron	0	5
 FBbt_00110427	adult fruitless aDT-g neuron	0	2
 FBbt_00110425	adult fruitless aDT-f neuron	0	2
 FBbt_00007384	multiglomerular antennal lobe projection neuron	0	412
-FBbt_00110431	adult fruitless aIP-a neuron	0	2
-FBbt_00110467	adult fruitless aSP-j neuron	0	2
+FBbt_00110433	adult fruitless aIP-b (female) neuron	0	1
 FBbt_00110439	adult fruitless aIP-e (female) neuron	0	1
+FBbt_00003636	adult fan-shaped body delta neuron	0	159
 FBbt_00110445	adult fruitless aIP-h neuron	0	2
 FBbt_00110443	adult fruitless aIP-g (female) neuron	0	1
 FBbt_00053362	adult fruitless aIP-g type 2 (female) neuron	0	5
@@ -538,10 +537,11 @@ FBbt_00110447	adult fruitless aSG-a neuron	0	2
 FBbt_00110455	adult fruitless aSP-d neuron	0	2
 FBbt_00110453	adult fruitless aSP-c neuron	0	2
 FBbt_00110451	adult fruitless aSP-b (female) neuron	0	1
-FBbt_00003636	adult fan-shaped body delta neuron	0	159
+FBbt_00110471	adult fruitless aSP-l neuron	0	2
+FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
 FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
-FBbt_00049536	adult fan-shaped body layer 9 tangential neuron	0	33
-FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
+FBbt_00111258	larval A08x neuron	0	2
+FBbt_00100719	BLD2 lineage neuron	0	1
 FBbt_00007683	neuroblast lineage clone	0	234
 FBbt_00005106	neuron	0	57940
 FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
@@ -554,8 +554,8 @@ FBbt_00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral 
 FBbt_00003635	adult protocerebral bridge 1 glomerulus-fan-shaped body-lateral accessory lobe neuron	0	50
 FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	0	18
 FBbt_00003686	Kenyon cell	0	185
-FBbt_00100719	BLD2 lineage neuron	0	1
 FBbt_00003646	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron	0	42
+FBbt_00049536	adult fan-shaped body layer 9 tangential neuron	0	33
 FBbt_00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	0	22
 FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	0	20
 FBbt_00003655	adult ellipsoid body extrinsic ring neuron ExR1	0	4
@@ -567,11 +567,11 @@ FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	46
 FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	8
 FBbt_00007542	adult fan-shaped body layer 3 tangential neuron	0	9
 FBbt_00007540	adult fan-shaped body layer 1 tangential neuron	0	28
-FBbt_00110471	adult fruitless aSP-l neuron	0	2
+FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
+FBbt_00110467	adult fruitless aSP-j neuron	0	2
 FBbt_00110465	adult fruitless aSP-i (female) neuron	0	1
-FBbt_00111260	larval A10j neuron	0	2
-FBbt_00111232	larval A23g neuron	0	2
-FBbt_00003859	lobula tangential neuron	0	12
+FBbt_00110463	adult fruitless aSP-h (female) neuron	0	1
+FBbt_00111231	larval A14g neuron	0	4
 FBbt_00003870	lobula columnar neuron	0	31
 FBbt_00003879	lobula complex columnar neuron	0	372
 FBbt_00047096	secondary neuron	0	9590
@@ -583,9 +583,9 @@ FBbt_00100247	gamma Kenyon cell	0	1057
 FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
 FBbt_00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	0	40
 FBbt_00111317	adult CCAP protocerebrum neuron	0	3
-FBbt_00111231	larval A14g neuron	0	4
-FBbt_00110463	adult fruitless aSP-h (female) neuron	0	1
+FBbt_00111232	larval A23g neuron	0	2
 FBbt_00111252	larval A08m neuron	0	4
+FBbt_00110461	adult fruitless aSP-g (female) neuron	0	8
 FBbt_00111251	larval A05e neuron	0	2
 FBbt_00111250	larval A03o1 neuron	0	2
 FBbt_00111249	larval Wave neuron	0	2
@@ -597,11 +597,11 @@ FBbt_00111263	larval TePn04 neuron	0	2
 FBbt_00111262	larval T08x neuron	0	2
 FBbt_00111261	larval T05t neuron	0	2
 FBbt_00053298	larval abdominal 1 A10j neuron	0	2
+FBbt_00111260	larval A10j neuron	0	2
+FBbt_00003859	lobula tangential neuron	0	12
 FBbt_00111647	antennal grooming descending neuron 1	0	4
 FBbt_00111648	antennal grooming descending neuron 2	0	2
 FBbt_00111645	antennal grooming brain interneuron 1	0	3
-FBbt_00007390	adult antennal lobe local neuron	0	108
-FBbt_00110461	adult fruitless aSP-g (female) neuron	0	8
 FBbt_00110469	adult fruitless aSP-k (female) neuron	0	1
 FBbt_00110481	adult fruitless pIP-b neuron	0	2
 FBbt_00110479	adult fruitless pIP-a (female) neuron	0	1
@@ -626,4 +626,5 @@ FBbt_00110417	adult fruitless aDT-b (female) neuron	0	1
 FBbt_00110415	adult fruitless aDT-a neuron	0	8
 FBbt_00067123	adult antennal lobe projection neuron	0	2
 FBbt_00007386	adult olfactory receptor neuron	0	125
+FBbt_00007390	adult antennal lobe local neuron	0	108
 FBbt_20007365	descending neuron of the gnathal ganglion DNge053	0	2
