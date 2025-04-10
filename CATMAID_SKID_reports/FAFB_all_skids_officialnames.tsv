@@ -914,6 +914,65 @@ skid	name	paper_id	paper_name	annotations	synonyms
 15738796	LHAV4c2#1	15754283	Paper: Dolan et al 2019	FBbt:00049356 (15805710), LHAV4c2#1 (15994299), Paper: Dolan et al 2019 (15754283)	LHAV4c2#1 15738797 RJVR
 15738886	LHAV4a1#2	15754283	Paper: Dolan et al 2019	FBbt:00049345 (15805615), LHAV4a1#2 (15994239), Paper: Dolan et al 2019 (15754283)	LHAV4a1#2 15738887 DM1 Centric 2 ASB
 15738898	LHAV4a3#1	15754283	Paper: Dolan et al 2019	FBbt:00049346 (15980513), LHAV4a3#1 (15994247), Paper: Bates and Schlegel et al 2020 (15754279), Paper: Dolan et al 2019 (15754283)	LHAV4a3#1 15738899 Chicken ASB
+284703	LC4_R#1	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#1 (17697582), FBbt:00003874 (17697759)	putative LC4 neuron 284704 GMC ET
+284788	LC4_R#2	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#2 (17697584), FBbt:00003874 (17697759)	putative LC4 neuron 284789 GMC
+285581	LC4_R#3	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#3 (17697586), FBbt:00003874 (17697759)	putative LC4 neuron 285582 GMC JSP SMA
+292337	LC4_R#4	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#4 (17697588), FBbt:00003874 (17697759)	putative LC4 neuron 292338 GMC SMA
+292771	LC4_R#5	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#5 (17697590), FBbt:00003874 (17697759)	putative LC4 neuron 292772 GMC SMA JSP
+308338	LC4_R#6	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#6 (17697592), FBbt:00003874 (17697759)	putative LC4 neuron 308339 GMC SMA
+309385	LC4_R#7	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#7 (17697594), FBbt:00003874 (17697759)	putative LC4 neuron 309386 GMC SMA
+310806	LC4_R#8	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#8 (17697596), FBbt:00003874 (17697759)	putative LC4 neuron 310807 GMC MAR SMA JSP
+858357	LC4_R#9	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#9 (17697598), FBbt:00003874 (17697759)	putative LC4 neuron 858358 SM SMA
+867281	LC4_R#10	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#10 (17697600), FBbt:00003874 (17697759)	putative LC4 neuron 867282 SM
+867557	LC4_R#11	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#11 (17697602), FBbt:00003874 (17697759)	putative LC4 neuron 867558 MAR
+867786	LC4_R#12	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#12 (17697604), FBbt:00003874 (17697759)	putative LC4 neuron 867787 SM JSP
+872672	LC4_R#13	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#13 (17697606), FBbt:00003874 (17697759)	putative LC4 neuron 872673 SM SMA
+873664	LC4_R#14	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#14 (17697608), FBbt:00003874 (17697759)	putative LC4 neuron 873665 MAR
+873699	LC4_R#15	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#15 (17697610), FBbt:00003874 (17697759)	putative LC4 neuron 873700 MAR SMA
+873720	LC4_R#16	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#16 (17697612), FBbt:00003874 (17697759)	putative LC4 neuron 873721 MAR SMA
+874312	LC4_R#17	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#17 (17697614), FBbt:00003874 (17697759)	putative LC4 neuron 874313 SM
+874359	LC4_R#18	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#18 (17697616), FBbt:00003874 (17697759)	putative LC4 neuron 874360 MAR SMA JSP
+874394	LC4_R#19	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#19 (17697618), FBbt:00003874 (17697759)	putative LC4 neuron 874395 MAR JSP
+893079	LC4_R#20	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#20 (17697620), FBbt:00003874 (17697759)	putative LC4 neuron 893080 SM
+1060175	LC4_R#21	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#21 (17697622), FBbt:00003874 (17697759)	putative LC4 neuron 1060176 MAR
+1060195	LC4_R#22	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#22 (17697624), FBbt:00003874 (17697759)	putative LC4 neuron 1060196 MAR
+1060201	LC4_R#23	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#23 (17697626), FBbt:00003874 (17697759)	putative LC4 neuron 1060202 MAR
+1060221	LC4_R#24	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#24 (17697628), FBbt:00003874 (17697759)	putative LC4 neuron 1060222 MAR SMA
+1060322	LC4_R#25	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#25 (17697630), FBbt:00003874 (17697759)	putative LC4 neuron 1060323 MAR JSP
+1075741	LC4_R#26	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#26 (17697632), FBbt:00003874 (17697759)	putative LC4 neuron 1075742 MAR
+1075777	LC4_R#27	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#27 (17697634), FBbt:00003874 (17697759)	putative LC4 neuron 1075778 MAR SMA
+1075821	LC4_R#28	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#28 (17697636), FBbt:00003874 (17697759)	putative LC4 neuron 1075822 MAR
+1077372	LC4_R#29	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#29 (17697638), FBbt:00003874 (17697759)	putative LC4 neuron 1077373 MAR
+1077484	LC4_R#30	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#30 (17697640), FBbt:00003874 (17697759)	putative LC4 neuron 1077485 MAR
+1077585	LC4_R#31	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#31 (17697642), FBbt:00003874 (17697759)	putative LC4 neuron 1077586 MAR JSP
+1108134	LC4_R#32	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#32 (17697644), FBbt:00003874 (17697759)	putative LC4 neuron 1108135 MAR
+1108155	LC4_R#33	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#33 (17697646), FBbt:00003874 (17697759)	putative LC4 neuron 1108156 MAR
+1199415	LC4_R#34	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#34 (17697648), FBbt:00003874 (17697759)	putative LC4 neuron 1199416 MAR
+1316949	LC4_R#35	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#35 (17697650), FBbt:00003874 (17697759)	putative LC4 neuron 309405 GMC SMA
+1319279	LC4_R#36	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#36 (17697652), FBbt:00003874 (17697759)	putative LC4 neuron 1319280 JSP SMA
+1324489	LC4_R#37	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#37 (17697654), FBbt:00003874 (17697759)	putative LC4 neuron 1324490 MAR SMA
+1325025	LC4_R#38	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#38 (17697656), FBbt:00003874 (17697759)	putative LC4 neuron 1325026 MAR
+1325197	LC4_R#39	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#39 (17697658), FBbt:00003874 (17697759)	putative LC4 neuron 1325198 MAR SMA
+1325500	LC4_R#40	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#40 (17697660), FBbt:00003874 (17697759)	putative LC4 neuron 1325501 SMA JSP
+1325528	LC4_R#41	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#41 (17697662), FBbt:00003874 (17697759)	putative LC4 neuron 1325529 SMA
+1325578	LC4_R#42	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#42 (17697664), FBbt:00003874 (17697759)	putative LC4 neuron 1325579 SMA
+1325592	LC4_R#43	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#43 (17697666), FBbt:00003874 (17697759)	putative LC4 neuron 1325593 SMA
+1325636	LC4_R#44	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#44 (17697668), FBbt:00003874 (17697759)	putative LC4 neuron 1325637 SMA JSP
+1325820	LC4_R#45	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#45 (17697670), FBbt:00003874 (17697759)	putative LC4 neuron 1325821 SMA JSP
+1325938	LC4_R#46	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#46 (17697672), FBbt:00003874 (17697759)	putative LC4 neuron 1325939 SMA ET
+1325965	LC4_R#47	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#47 (17697674), FBbt:00003874 (17697759)	putative LC4 neuron 1325966 SMA
+1326385	LC4_R#48	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#48 (17697676), FBbt:00003874 (17697759)	putative LC4 neuron 1326386 JSP SMA
+1326497	LC4_R#49	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#49 (17697678), FBbt:00003874 (17697759)	putative LC4 neuron 1326498 SMA
+1326615	LC4_R#50	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#50 (17697680), FBbt:00003874 (17697759)	putative LC4 neuron 1326616 MAR SMA
+2284700	LC4_R#51	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#51 (17697682), FBbt:00003874 (17697759)	putative LC4 neuron 2284701 JSP SMA
+2909976	LC4_R#52	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#52 (17697684), FBbt:00003874 (17697759)	putative LC4 neuron 2909977 JSP
+2910014	LC4_R#53	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#53 (17697686), FBbt:00003874 (17697759)	putative LC4 neuron 2910015 MAR SMA JSP
+2980141	LC4_R#54	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#54 (17697688), FBbt:00003874 (17697759)	putative LC4 neuron 2980142 SMA
+3072214	LC4_R#55	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), LC4_R#55 (17697690), FBbt:00003874 (17697759)	putative LC4 neuron 3072215 SMA
+4947529	DNp01_R	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), DNp01_R (17697692), FBbt:00004020 (17697815)	GF1 DB GMC SM
+5349447	DNp11_R	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), DNp11_R (17697698), FBbt:00047644 (17697821)	putative DNp11 neuron 5349448 JSP ET
+6958818	DNp04_R	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), DNp04_R (17697696), FBbt:00047637 (17697819)	putative DNp04 neuron 6958819 SMA JSP
+7138957	DNp02_R	17697522	Paper: Dombrovski et al 2023	Paper: Dombrovski et al 2023 (17697522), DNp02_R (17697694), FBbt:00047635 (17697817)	putative DNp02 neuron 7138958 JSP SMA
 7179579	GRN R5#1	17682008	Paper: Engert et al 2022	Paper: Engert et al 2022 (17682008), GRN R5#1 (17682363), FBbt:00058156 (17682833)	Gustatory Receptor Neuron GRN 7179580 SE
 7256298	GRN R6#1	17682008	Paper: Engert et al 2022	Paper: Engert et al 2022 (17682008), GRN R6#1 (17682395), FBbt:00100042 (17682867)	Gustatory Receptor Neuron GRN 7256299 SE
 7349219	GRN R4#1	17682008	Paper: Engert et al 2022	Paper: Engert et al 2022 (17682008), GRN R4#1 (17682329), FBbt:00058156 (17682833)	Gustatory Receptor Neuron GRN 7349220 SE
