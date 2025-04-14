@@ -1,40 +1,10 @@
 vfb_id	vfb_label	skid	is_deprecated
 VFB_00100191	3rd-order Thermo right; CPLd interneuron (L1EM:8598886)	8598886	False
-VFB_00101002	L1 CNS neuron SN motor neuron a1r(L1EM:4114921)	4114921	False
-VFB_001001s5	BLAv12 pos s 3 Right (L1EM:16698702)	16698702	False
-VFB_0010158m	vdaB_a2r (L1EM:2629819)	2629819	False
 VFB_00100971	L1 CNS neuron Neuron 18507413 with a soma(L1EM:18507412)	18507412	False
+VFB_00101002	L1 CNS neuron SN motor neuron a1r(L1EM:4114921)	4114921	False
 VFB_00101095	putative class III or es (L1EM:367872)	367872	False
-VFB_0010021c	BAmv12 dor s 8 Left (L1EM:19402006)	19402006	False
-VFB_00102247	L1 CNS neuron MN6/7 RP3_a1l(L1EM:14478517)	14478517	False
 VFB_00102245	L1 CNS neuron MN6/7 RP3_a1r(L1EM:14238853)	14238853	False
-Hueckesfeld2020	Unveiling the sensory and interneuronal pathways of the neuroendocrine connectome in Drosophila (Hueckesfeld et al. 2020)	21461093	False
-Valdes-Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	21597111	False
-doi_10_1101_2020_04_23_058339	Eschbach, Fushiki et al. 2020b; Circuits for integrating learnt and innate valences in the fly brain	21308444	False
-Eschbach2020b	EM L1 Eschbach et al 2020b	21308444	False
-Eschbach2020	EM L1 Eschbach et al 2020	21228207	False
-Andrade2019	EM L1 Andrade et al. 2019	21218996	False
-Heckscher2015	Eve+ neurons, sensorimotor circuit - EM (Heckscher2015)	19756504	False
-Burgos2018	Nociceptive system neurons - EM (Burgos2017)	19862922	False
-Larderet2017	larval visual circuit neurons (Larderet2017)	19711972	False
-Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	19712046	False
-Jovanic2016	larval sensorimotor decision pathways (Jovanic2016)	19712156	False
-Schlegel2016	larval hugin neurons - EM (Schlegel2016)	19712202	False
-Zwart2016	Larval motor circuit neurons (Zwart2016)	19496665	False
-Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	19756692	False
-Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	19712396	False
-Tastekin2018	EM L1 Tastekin et al 2018	21224835	False
-Miroschnikow2018	EM L1 Miroschnikow et al. 2018	20282757	False
-Mark2019	EM L1 Mark et al. 2019	20726939	False
-Jovanic2019	EM L1 Jovanic et al. 2019	20498648	False
-CarreiraRosario2018	EM L1 Carreira-Rosario, Arzan Zarin, Clark et al. 2018	20522905	False
-Eichler2017	Larval MB neurons - EM (Eichler2017)	19711583	False
-Zarin2019	EM L1 Zarin, Mark et al. 2019	20726614	False
-Berck2016	Larval olfactory system neurons - EM (Berk2016)	19711421	False
-Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	19716589	False
-FBrf0252313		21388980	False
-FBrf0253082		22190049	False
-FBrf0255988	Winding et al., 2023	22372397	False
-WindingPedigo2023	EM L1 Winding, Pedigo et al., 2023	22372397	False
-Imambocus2022	EM L1 Imambocus et al., 2022	21388980	False
-Barnes2022	EM L1 Barnes et al., 2022	22190049	False
+VFB_00102247	L1 CNS neuron MN6/7 RP3_a1l(L1EM:14478517)	14478517	False
+VFB_001001s5	BLAv12 pos s 3 Right (L1EM:16698702)	16698702	False
+VFB_0010021c	BAmv12 dor s 8 Left (L1EM:19402006)	19402006	False
+VFB_0010158m	vdaB_a2r (L1EM:2629819)	2629819	False
