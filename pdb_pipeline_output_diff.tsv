@@ -1,1 +1,14 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16119	15921	7005	216	0
+Chiang2010	pipeline_output	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	15929	7008	216	0
+Dickson_VT	pdb	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1101_198648	18010	0	0	7805	0
+Dickson_VT	pipeline_output	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	doi_10_1101_198648	18016	0	0	7807	0
+Dombrovski2023	pdb	EM FAFB Dombrovski et al 2023	CC-BY-SA_4.0		53	0	0	1	0
+Dombrovski2023	pipeline_output	EM FAFB Dombrovski et al 2023	CC-BY-SA_4.0		59	0	0	1	0
+Erginkaya2025	pipeline_output	EM FAFB Erginkaya et al 2025	CC-BY-SA_4.0	doi_10_1038_s41593_025_01948_9	2	0	0	2	0
+FlyLight2019Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	123	0	5	116	0
+FlyLight2019Namiki2018	pipeline_output	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	128	0	5	121	0
+Gen1MCFOJenett2012	pdb	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	15858	0	0	1	0
+Gen1MCFOJenett2012	pipeline_output	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	15861	0	0	1	0
+Gen1MCFOTirian2017	pdb	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	16763	0	0	1	0
+Gen1MCFOTirian2017	pipeline_output	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	16764	0	0	1	0
