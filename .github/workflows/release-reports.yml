@@ -57,7 +57,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Add release report for ${{ github.event.inputs.tag || github.ref_name }}"
-          git push origin main
+          git push origin master
         fi
     
     - name: Push updated tags
