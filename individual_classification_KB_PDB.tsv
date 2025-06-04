@@ -1,7 +1,7 @@
 FBbt_ID	FBbt_label	times_added	times_removed
 FBbt_00058205	adult cholinergic neuron	37343	0
 FBbt_00058208	adult glutamatergic neuron	12142	0
-FBbt_00047095	adult neuron	10954	216015
+FBbt_00047095	adult neuron	11143	216015
 FBbt_00001446	larval neuron	10357	0
 FBbt_00058207	adult GABAergic neuron	8069	0
 FBbt_00058206	adult dopaminergic neuron	7802	0
@@ -394,7 +394,7 @@ FBbt_00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulu
 FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
 FBbt_00111404	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 posterior domain neuron	0	270
 FBbt_00007683	neuroblast lineage clone	0	188
-FBbt_00005106	neuron	0	58102
+FBbt_00005106	neuron	0	58294
 FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
 FBbt_00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	0	20
 FBbt_00110146	adult octopaminergic AL2b1 neuron	0	6
