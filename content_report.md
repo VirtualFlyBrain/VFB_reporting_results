@@ -1,11 +1,11 @@
 
-VFB Content Report 2025-06-05
+VFB Content Report 2025-06-06
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 05 Jun 2025 01:08:02``  
-  
-***``Ontology Content``***  
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 06 Jun 2025 01:09:39``
+
+***``Ontology Content``***
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
@@ -19,29 +19,29 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 05 Jun 2
 |Neuron Projection Bundles|599|124|
 |Cell Body Rinds|132|8|
 |Sense Organs|859|161|
-  
-  
-**157572** formal assertions, of which **68781** are SubClassOf assertions and **88791** are other relationship types  
-  
-**143442** formal assertions on nervous system components, of which **60649** are SubClassOf assertions and **82793** are other relationship types  
-  
-***``Image Content``***  
-*``(excludes hemibrain v1.0.1)``*  
-  
-**360080** total images from **116** datasets  
-**277775** single neuron images of **14015** cell types  
-**44790** images of expression patterns of **17150** drivers  
-**3840** images of expression patterns of **853** split combinations  
-**61162** images of expression pattern fragments of **5105** drivers  
-  
-***``Annotations``***  
-  
-**94940** annotations recording **3297** types of anatomical structure that **12848** specific driver lines are expressed in.  
-**87095** annotations recording **2481** parts of the nervous system that **11703** specific driver lines are expressed in.  
-**11316** annotations recording **1693** types of neuron that **3074** specific driver lines are expressed in.  
-**4487** annotations recording **605** types of neuron that **1148** specific split combinations are expressed in.  
-  
-***``Connectivity``***  
+
+
+**157572** formal assertions, of which **68781** are SubClassOf assertions and **88791** are other relationship types
+
+**143442** formal assertions on nervous system components, of which **60649** are SubClassOf assertions and **82793** are other relationship types
+
+***``Image Content``***
+*``(excludes hemibrain v1.0.1)``*
+
+**360080** total images from **116** datasets
+**277775** single neuron images of **14015** cell types
+**44790** images of expression patterns of **17150** drivers
+**3840** images of expression patterns of **853** split combinations
+**61162** images of expression pattern fragments of **5105** drivers
+
+***``Annotations``***
+
+**94940** annotations recording **3297** types of anatomical structure that **12848** specific driver lines are expressed in.
+**87095** annotations recording **2481** parts of the nervous system that **11703** specific driver lines are expressed in.
+**11316** annotations recording **1693** types of neuron that **3074** specific driver lines are expressed in.
+**4487** annotations recording **605** types of neuron that **1148** specific split combinations are expressed in.
+
+***``Connectivity``***
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
@@ -49,11 +49,11 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 05 Jun 2
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|1661|Muscle (classes)|233|2144|
 |Any neuron (classes)|775|Sense organ (classes)|435|536|
-  
-  
-  
-***``Content by Template``***  
-*``(excludes hemibrain v1.0.1)``*  
+
+
+
+***``Content by Template``***
+*``(excludes hemibrain v1.0.1)``*
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -67,4 +67,4 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 05 Jun 2
 |JRC_FlyEM_Hemibrain|2|22701|22588|22587|0|0|0|114|
 |JRC2018Unisex|71|292539|237862|220851|31789|1766|38796|46|
 |L3 CNS template - Wood2018|4|12876|8638|0|381|381|12177|255|
-  
+
