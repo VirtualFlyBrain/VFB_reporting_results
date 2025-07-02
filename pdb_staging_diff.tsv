@@ -1,7 +1,1 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Dombrovski2023	pdb	EM FAFB Dombrovski et al 2023	CC-BY-SA_4.0		59	0	0	1	0
-Dombrovski2023	staging	EM FAFB Dombrovski et al 2023	CC-BY-SA_4.0		59	0	0	5	0
-Erginkaya2025	pdb	EM FAFB Erginkaya et al 2025	CC-BY-SA_4.0	doi_10_1038_s41593_025_01948_9	91	0	0	3	0
-Erginkaya2025	staging	EM FAFB Erginkaya et al 2025	CC-BY-SA_4.0	doi_10_1038_s41593_025_01948_9	91	0	0	35	0
-Nern2024	pdb	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53402	53400	2665	475	0
-Nern2024	staging	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53402	53400	2665	842	0
