@@ -7,6 +7,8 @@ FBbt_00058206	adult dopaminergic neuron	7817	0
 FBbt_00058207	adult GABAergic neuron	7449	0
 FBbt_00048138	mushroom body dopaminergic neuron	7048	0
 FBbt_00059289	adult VNC neuron	6604	0
+FBbt_00052046	adult interneuron	5831	5
+FBbt_00003770	distal medullary amacrine neuron Dm3	2541	0
 FBbt_00001985	mesothoracic neuron	1994	0
 FBbt_00001984	prothoracic neuron	1801	0
 FBbt_00001986	metathoracic neuron	1713	0
@@ -17,20 +19,31 @@ FBbt_00001987	abdominal neuron	1262	0
 FBbt_00110560	adult MBp2 lineage neuron	1259	0
 FBbt_00049526	adult serotonergic neuron	1177	0
 FBbt_00049828	adult gamma Kenyon cell	1040	0
+FBbt_00051228	adult medulla-tubercle neuron	896	0
 FBbt_00110385	adult VPNd2 lineage neuron	815	0
+FBbt_00110930	alpha/beta surface Kenyon cell	621	0
 FBbt_00050108	adult VPNd1 lineage neuron	594	0
 FBbt_00058249	adult gustatory receptor neuron	589	2
 FBbt_00050254	adult DM4 lineage neuron	588	0
+FBbt_00003767	distal medullary amacrine neuron	523	0
 FBbt_00050102	adult DM3 lineage neuron	515	0
 FBbt_00059273	larval CNS neuron	493	0
 FBbt_00050123	adult DM2 lineage neuron	468	0
-FBbt_00051420	adult mechanosensory neuron	418	0
-FBbt_00058244	adult sensory neuron	376	1
+FBbt_00051420	adult mechanosensory neuron	430	0
+FBbt_00110929	alpha/beta core Kenyon cell	403	0
+FBbt_00013774	distal medullary amacrine neuron Dm8a	401	15
+FBbt_00058244	adult sensory neuron	379	1
 FBbt_00050020	adult DM1 lineage neuron	375	0
+FBbt_00003829	transmedullary Y neuron TmY11	371	0
+FBbt_00003870	lobula columnar neuron	336	31
+FBbt_20007266	adult transmedullary CB3851 neuron	334	80
+FBbt_00003634	adult protocerebral bridge 1 glomerulus-fan-shaped body-nodulus neuron	321	0
+FBbt_00003817	transmedullary Y neuron	316	0
+FBbt_00005127	optic lobe amacrine neuron	313	0
 FBbt_00110388	adult VPNd3 lineage neuron	304	0
 FBbt_00050025	adult ALl1 lineage neuron	286	0
-FBbt_00049466	adult CREa1 lineage neuron	281	0
 FBbt_00067362	antennal lobe projection neuron of ALl1 lineage	281	0
+FBbt_00049466	adult CREa1 lineage neuron	281	0
 FBbt_00059276	adult PNS neuron	278	0
 FBbt_00110403	adult VPNv1 lineage neuron	276	0
 FBbt_00049834	adult alpha'/beta' Kenyon cell	264	0
@@ -38,22 +51,30 @@ FBbt_00110397	adult VPNp3 lineage neuron	257	0
 FBbt_00067350	medial antennal lobe tract projection neuron	248	0
 FBbt_00049826	larval Kenyon cell	218	0
 FBbt_00007441	adult multiglomerular antennal lobe projection neuron	210	95
+FBbt_00111768	medulla columnar neuron MC62	207	0
 FBbt_00050275	adult CREa2 lineage neuron	207	0
 FBbt_00050186	adult DL1 lineage neuron	192	0
 FBbt_00110394	adult VPNp2 lineage neuron	188	0
+FBbt_00051237	adult fan-shaped body 1 column-superior medial protocerebrum neuron	188	0
 FBbt_00050005	adult SLPa&l1 lineage neuron	184	0
+FBbt_00003859	lobula tangential neuron	180	12
+FBbt_00048301	adult ascending neuron	171	2
 FBbt_00007414	adult multiglomerular antennal lobe projection neuron vPN	170	75
 FBbt_00047717	mediolateral antennal lobe tract projection neuron	169	0
 FBbt_00049899	BAmd1 Notch ON hemilineage neuron	166	0
 FBbt_00050168	adult LALv1 lineage neuron	161	0
-FBbt_00048301	adult ascending neuron	159	2
 FBbt_00049895	DALcm1 Notch ON hemilineage neuron	159	0
 FBbt_00050251	adult VPNp1 lineage neuron	157	0
 FBbt_00110406	adult VPNv2 lineage neuron	151	0
+FBbt_20007261	obsolete adult CB3846 neuron	150	0
+FBbt_00003718	lamina monopolar neuron	145	0
+FBbt_00048286	adult visual projection neuron	140	0
 FBbt_00053280	secondary motor neuron	140	0
 FBbt_00100389	adult antennal lobe projection neuron DL2d adPN	139	0
 FBbt_00050227	adult VLPl2 lineage neuron	132	0
 FBbt_00050132	adult VLPp&l1 lineage neuron	127	0
+FBbt_00003882	lobula intrinsic neuron	117	4
+FBbt_00003657	fan-shaped body tangential neuron	116	574
 FBbt_00047105	Notch OFF hemilineage primary neuron	114	0
 FBbt_00007402	GABAergic local interneuron of the adult antennal lobe	112	0
 FBbt_00058203	adult octopaminergic neuron	109	2
@@ -61,78 +82,114 @@ FBbt_00007403	cholinergic local interneuron of the adult antennal lobe	103	0
 FBbt_00050263	adult LHl4 lineage neuron	96	0
 FBbt_00050162	adult VPNp&v1 lineage neuron	95	0
 FBbt_00050064	adult AOTUv4 lineage neuron	94	0
+FBbt_20007264	adult CB3849 neuron	90	0
 FBbt_00050209	adult VLPd&p1 lineage neuron	82	0
+FBbt_00051238	adult fan-shaped body 1 column-crepine neuron	81	0
 FBbt_00050144	adult DM6 lineage neuron	80	1
+FBbt_00004209	dorsal margin photoreceptor cell R8	79	0
+FBbt_00004449	dorsal margin photoreceptor cell R7	78	0
 FBbt_00004252	prothoracic leg sensillum	76	0
 FBbt_00050129	adult AOTUv3 lineage neuron	73	0
+FBbt_00003741	lamina wide-field 1 neuron	73	11
 FBbt_00051463	hemilineage 12A secondary neuron	70	0
+FBbt_00004225	photoreceptor cell R7	70	138
 FBbt_00048900	lineage 15 secondary neuron	68	0
 FBbt_00007440	adult uniglomerular antennal lobe projection neuron	67	23
 FBbt_00050260	adult VLPl4 lineage neuron	64	0
+FBbt_00004227	photoreceptor cell R8	64	158
 FBbt_00050183	adult AOTUv2 lineage neuron	63	0
 FBbt_00050269	adult SLPal2 lineage neuron	62	0
 FBbt_00059274	adult CNS neuron	62	2
+FBbt_00003743	centrifugal neuron C2	61	35
 FBbt_00050242	adult WEDd1 lineage neuron	61	0
-FBbt_00110138	glutamatergic local interneuron of the adult antennal lobe	60	0
+FBbt_00003725	lamina monopolar neuron L5	60	23
 FBbt_00052518	primary motor neuron	60	0
+FBbt_00110138	glutamatergic local interneuron of the adult antennal lobe	60	0
+FBbt_00003784	medulla intrinsic neuron Mi9	58	41
 FBbt_00051299	adult olfactory projection neuron	57	0
+FBbt_00003890	translobula plate neuron	56	0
 FBbt_00049542	Notch OFF hemilineage secondary neuron	54	0
+FBbt_00006007	outer photoreceptor cell	53	126
+FBbt_00100486	lobula columnar neuron LC14	53	0
 FBbt_00100734	DALv3 lineage neuron	52	0
-FBbt_00050111	adult PSa1 lineage neuron	52	0
 FBbt_00050266	adult SLPav1 lineage neuron	52	0
+FBbt_00050111	adult PSa1 lineage neuron	52	0
 FBbt_00049465	adult SMPad1 lineage neuron	50	0
 FBbt_00050138	adult EBa1 lineage neuron	48	0
+FBbt_00003722	lamina monopolar neuron L4	48	54
 FBbt_00048926	NB2-3 lineage neuron	47	0
 FBbt_00050034	adult LHl2 lineage neuron	46	0
-FBbt_00100663	BAlp2 lineage neuron	45	0
+FBbt_00003907	lobula plate tangential neuron	46	2
 FBbt_00050126	adult SLPad1 lineage neuron	45	0
 FBbt_00049825	adult Kenyon cell	45	0
+FBbt_00100663	BAlp2 lineage neuron	45	0
+FBbt_00003779	medulla intrinsic neuron Mi4	44	48
+FBbt_00047048	adult tubercle-inferior bulb neuron	44	0
 FBbt_00050135	adult VLPa2 lineage neuron	44	0
 FBbt_00050114	adult SMPpv2 lineage neuron	42	0
+FBbt_00111759	lobula columnar neuron LC24	41	1
 FBbt_00053100	motor neuron of adult dorsal prothoracic nerve	40	0
 FBbt_00050195	adult SMPp&v1 lineage neuron	40	0
-FBbt_00050094	adult PSp3 lineage neuron	39	0
 FBbt_00050088	adult WEDa1 lineage neuron	39	0
+FBbt_00050094	adult PSp3 lineage neuron	39	0
 FBbt_00050224	adult AOTUv1 lineage neuron	39	0
-FBbt_00100388	adult antennal lobe projection neuron DL2v adPN	37	0
 FBbt_00050197	adult ALv1 lineage neuron	37	0
+FBbt_00100388	adult antennal lobe projection neuron DL2v adPN	37	0
 FBbt_00050067	adult VLPl&p1 lineage neuron	34	0
+FBbt_00003721	lamina monopolar neuron L3	34	54
 FBbt_00100369	adult multiglomerular antennal lobe projection neuron adPN	33	11
 FBbt_00050159	adult VLPa1 lineage neuron	32	0
+FBbt_00047049	adult tubercle-superior bulb neuron	32	0
 FBbt_00050076	adult VLPl&d1 lineage neuron	31	0
 FBbt_00050141	adult LHp2 lineage neuron	31	0
-FBbt_00053177	adult dorsal prothoracic nerve neck motor neuron	30	0
 FBbt_00048922	NB1-1 lineage neuron	30	0
+FBbt_00048356	adult neurosecretory cell of pars intercerebralis	30	0
+FBbt_00053177	adult dorsal prothoracic nerve neck motor neuron	30	0
 FBbt_00110423	adult fruitless aDT-e (female) neuron	30	0
 FBbt_00050233	adult VLPd1 lineage neuron	28	0
-FBbt_00100224	lateral antennal lobe tract projection neuron	27	0
-FBbt_00050046	adult SLPpm1 lineage neuron	27	0
 FBbt_00050200	adult VLPp1 lineage neuron	27	0
-FBbt_00050014	adult VPNl&d1 lineage neuron	27	0
-FBbt_00048942	NB6-1 lineage neuron	27	0
-FBbt_00050061	adult DM5 lineage neuron	27	0
 FBbt_00048864	MNB lineage primary neuron	27	0
+FBbt_00048942	NB6-1 lineage neuron	27	0
+FBbt_00100224	lateral antennal lobe tract projection neuron	27	0
+FBbt_00050014	adult VPNl&d1 lineage neuron	27	0
+FBbt_00050046	adult SLPpm1 lineage neuron	27	0
+FBbt_00050061	adult DM5 lineage neuron	27	0
+FBbt_00051466	hemilineage 11A secondary neuron	26	0
 FBbt_00011534	lineage NB1-1 primary motor neuron	26	0
 FBbt_00051310	NB7-1 Notch OFF hemilineage primary neuron	26	0
+FBbt_00111272	distal medullary amacrine neuron Dm11	26	6
 FBbt_00048913	lineage 5 secondary neuron	26	0
-FBbt_00051466	hemilineage 11A secondary neuron	26	0
 FBbt_00051468	hemilineage 8B secondary neuron	25	0
+FBbt_00003915	Y neuron Y4	24	39
 FBbt_00050177	adult SLPal5 lineage neuron	24	0
 FBbt_00050165	adult PSp2 lineage neuron	23	0
-FBbt_00047106	Notch ON hemilineage primary neuron	22	0
+FBbt_00003727	columnar neuron T1	23	22
 FBbt_00048943	NB6-2 lineage neuron	22	0
+FBbt_00003769	distal medullary amacrine neuron Dm2	22	48
 FBbt_00047319	adult serotonergic SE neuron	22	0
+FBbt_00047106	Notch ON hemilineage primary neuron	22	0
+FBbt_00003720	lamina monopolar neuron L2	21	60
+FBbt_00111285	medulla intrinsic neuron Mi15	21	12
+FBbt_20007247	adult central medulla neuron Cm11	21	5
 FBbt_00110435	adult fruitless aIP-c (female) neuron	21	0
+FBbt_00007516	vertical system neuron	20	0
 FBbt_00100385	adult antennal lobe projection neuron VM5d adPN	20	0
-FBbt_00050017	adult WEDa2 lineage neuron	20	0
+FBbt_00003719	lamina monopolar neuron L1	20	37
+FBbt_00051054	adult descending neuron to esophagus	20	0
 FBbt_00067361	adult antennal lobe projection neuron VA1v adPN	20	0
 FBbt_00001483	lineage NB3-3 primary interneuron	20	0
-FBbt_00050206	adult CLp1 lineage neuron	17	0
+FBbt_00050017	adult WEDa2 lineage neuron	20	0
+FBbt_20007239	adult MeLo8 neuron	19	0
+FBbt_20005397	adult CB1791 neuron	18	0
+FBbt_00003831	transmedullary neuron Tm5Y	18	12
+FBbt_00050236	adult SLPp&v1 lineage neuron	17	0
 FBbt_00050281	adult LHa3 lineage neuron	17	0
-FBbt_00067358	adult antennal lobe projection neuron VM7 adPN	17	0
+FBbt_00050206	adult CLp1 lineage neuron	17	0
 FBbt_00067353	adult antennal lobe projection neuron DL1 adPN	17	0
 FBbt_00050189	adult FLAa2 lineage neuron	17	0
-FBbt_00050236	adult SLPp&v1 lineage neuron	17	0
+FBbt_00003744	centrifugal neuron C3	17	77
+FBbt_00067358	adult antennal lobe projection neuron VM7 adPN	17	0
+FBbt_00052186	Ir94e neuron of large labellar taste bristle	16	0
 FBbt_00001558	lineage NB7-1 primary motor neuron	16	0
 FBbt_00048928	NB2-5 lineage neuron	16	0
 FBbt_00048096	adult antennal lobe projection neuron DA1	16	0
@@ -140,278 +197,720 @@ FBbt_00050257	adult LHl3 lineage neuron	16	0
 FBbt_00007393	adult local interneuron of the ventral ALv2 neuroblast	15	0
 FBbt_00051456	hemilineage 8A secondary neuron	15	0
 FBbt_00050120	adult VESa1 lineage neuron	14	0
-FBbt_00048902	lineage 17 secondary neuron	13	0
+FBbt_20006410	adult CB2901 neuron	13	0
+FBbt_20005205	adult LHPV4a1-LHPV4a2 neuron	13	0
+FBbt_00100386	adult antennal lobe projection neuron VM5v adPN	13	0
+FBbt_00050091	adult SLPpm3 lineage neuron	13	0
 FBbt_00050002	adult LHa2 lineage neuron	13	0
 FBbt_00050073	adult WEDd2 lineage neuron	13	0
-FBbt_00050091	adult SLPpm3 lineage neuron	13	0
-FBbt_00100386	adult antennal lobe projection neuron VM5v adPN	13	0
-FBbt_00110459	adult fruitless aSP-f (female) neuron	13	0
 FBbt_00050070	adult SLPpl2 lineage neuron	13	0
+FBbt_00110459	adult fruitless aSP-f (female) neuron	13	0
 FBbt_00053055	hemilineage 0A secondary neuron	13	0
-FBbt_00048931	NB3-3 lineage neuron	12	0
+FBbt_00048902	lineage 17 secondary neuron	13	0
+FBbt_20001983	adult posterior slope neuron 228	13	0
 FBbt_00058202	adult peptidergic neuron	12	0
-FBbt_00052007	adult neurosecretory neuron	12	0
-FBbt_00050049	adult LHl1 lineage neuron	12	0
-FBbt_00048874	NB3-3 lineage primary neuron	12	2
 FBbt_00048944	NB7-1 lineage neuron	12	0
 FBbt_00050212	adult VLPp2 lineage neuron	12	0
-FBbt_00050085	adult DL2 lineage neuron	12	0
 FBbt_00050055	adult CLp2 lineage neuron	12	0
-FBbt_00052819	DPMm2 lineage neuron	12	0
+FBbt_00048931	NB3-3 lineage neuron	12	0
+FBbt_20006493	adult CB2989 neuron	12	0
+FBbt_00050049	adult LHl1 lineage neuron	12	0
 FBbt_00049467	adult FLAa3 lineage neuron	12	0
+FBbt_00050085	adult DL2 lineage neuron	12	0
 FBbt_00050278	adult SIPa1 lineage neuron	12	0
+FBbt_00052819	DPMm2 lineage neuron	12	0
 FBbt_00050203	adult SMPad2 lineage neuron	12	0
+FBbt_00003735	T4d neuron	12	3
+FBbt_00048874	NB3-3 lineage primary neuron	12	2
+FBbt_00052007	adult neurosecretory neuron	12	0
+FBbt_00003732	T4a neuron	11	5
 FBbt_00048901	lineage 18 secondary neuron	11	0
+FBbt_00100387	adult antennal lobe projection neuron VC3 adPN	11	0
 FBbt_00050147	adult VLPl&p2 lineage neuron	11	0
 FBbt_00052047	larval interneuron	11	0
-FBbt_00100387	adult antennal lobe projection neuron VC3 adPN	11	0
-FBbt_00050028	adult LHa1 lineage neuron	10	0
-FBbt_00048933	NB3-5 lineage neuron	10	0
+FBbt_00003836	medulla tangential neuron	11	0
+FBbt_20003091	adult superior medial protocerebrum neuron 229	10	0
 FBbt_00001520	lineage NB7-1 primary interneuron	10	0
+FBbt_00048933	NB3-5 lineage neuron	10	0
+FBbt_20004696	adult CB1011 neuron	10	0
+FBbt_00003729	T2a neuron	10	3
+FBbt_00003827	transmedullary Y neuron TmY9	10	18
 FBbt_00067360	adult antennal lobe projection neuron DM6 adPN	10	0
+FBbt_00110065	lamina wide-field 2 neuron	10	43
+FBbt_00059244	adult visual centrifugal neuron	10	0
+FBbt_00050028	adult LHa1 lineage neuron	10	0
 FBbt_00050031	adult SMPpv1 lineage neuron	9	0
+FBbt_00111755	lobula columnar neuron LC20	9	2
 FBbt_00067359	adult antennal lobe projection neuron VM2 adPN	9	0
+FBbt_20001982	adult posterior slope neuron 227	9	0
 FBbt_00050174	adult SMPad3 lineage neuron	9	0
 FBbt_00050171	adult PBp1 lineage neuron	9	0
-FBbt_00051472	hemilineage 6B secondary neuron	8	0
-FBbt_00048939	NB5-3 lineage neuron	8	0
+FBbt_00048869	NB2-3 lineage primary neuron	8	0
 FBbt_00051478	hemilineage 11B secondary neuron	8	0
 FBbt_00052346	adult octopaminergic and glutamatergic neuron	8	0
 FBbt_00001546	lineage NB2-5 primary motor neuron	8	0
+FBbt_00048939	NB5-3 lineage neuron	8	0
+FBbt_20001981	adult posterior slope neuron 226	8	0
+FBbt_00048313	ITP neuron	8	0
+FBbt_00003738	T5b neuron	8	2
+FBbt_20006588	adult CB3095 neuron	8	0
+FBbt_00004045	LNd neuron	8	0
+FBbt_00051472	hemilineage 6B secondary neuron	8	0
+FBbt_00003808	transmedullary neuron Tm20	8	14
 FBbt_00100671	TRdm lineage neuron	8	0
-FBbt_00048869	NB2-3 lineage primary neuron	8	0
+FBbt_20003132	adult superior medial protocerebrum neuron 270	8	0
+FBbt_00111640	medulla columnar neuron	7	122
+FBbt_20006958	adult CB3508 neuron	7	0
+FBbt_20006727	adult CB3252 neuron	7	0
+FBbt_00049910	adult multiglomerular antennal lobe projection neuron l2PN	7	4
+FBbt_00111283	medulla intrinsic neuron Mi13	7	3
+FBbt_20007185	adult CB3765 neuron	7	0
 FBbt_00048870	NB2-4 lineage primary neuron	7	0
+FBbt_00007579	optic lobe tangential neuron	7	0
 FBbt_00100225	transverse antennal lobe tract projection neuron	7	0
-FBbt_00001493	lineage NB4-2 primary interneuron	6	0
-FBbt_00050008	adult SLPpl3 lineage neuron	6	0
-FBbt_00050058	adult SLPav3 lineage neuron	6	0
-FBbt_00051311	NB5-2 Notch OFF hemilineage primary neuron	6	0
+FBbt_20006906	adult CB3449 neuron	6	0
+FBbt_00003740	T5d neuron	6	8
 FBbt_00048137	mushroom body octopaminergic neuron	6	0
+FBbt_00051311	NB5-2 Notch OFF hemilineage primary neuron	6	0
+FBbt_00049816	adult antennal lobe local neuron lLN2T	6	0
+FBbt_20005325	adult CB1709 neuron	6	0
+FBbt_20007063	adult CB3626 neuron	6	0
+FBbt_20006607	adult CB3118 neuron	6	0
+FBbt_00003881	lobula-lobula plate columnar neuron LLPC	6	0
+FBbt_20003068	adult superior medial protocerebrum neuron 206	6	0
+FBbt_00110135	distal medullary amacrine neuron Dm10	6	12
+FBbt_00050058	adult SLPav3 lineage neuron	6	0
+FBbt_20007254	adult CB3839 neuron	6	0
+FBbt_00003733	T4b neuron	6	6
+FBbt_00049842	adult atypical mushroom body output neuron	6	0
+FBbt_00050008	adult SLPpl3 lineage neuron	6	0
+FBbt_20006327	adult LHPV4a5-LHPV4k1 neuron	6	0
 FBbt_00051964	adult efferent neuron	6	0
-FBbt_00052834	adult fan-shaped body layer 5 neuron of LALv1 lineage	5	0
+FBbt_00003739	T5c neuron	6	13
+FBbt_00001493	lineage NB4-2 primary interneuron	6	0
 FBbt_00050192	adult FLAa1 lineage neuron	5	0
+FBbt_20007259	adult Cm32 neuron	5	6
+FBbt_00110072	transmedullary neuron Tm5a	5	7
+FBbt_00049942	descending neuron of the posterior brain DNp13 (female)	5	0
+FBbt_20001652	adult posterior lateral protocerebrum neuron 152	5	0
+FBbt_00003702	adult optic lobe neuron	5	0
+FBbt_20006119	adult LHPV4c3-LHPV4c4 neuron	5	0
 FBbt_00051458	hemilineage 13A secondary neuron	4	0
-FBbt_00048266	adult dopaminergic neuron of gnathal ganglion	4	0
-FBbt_00051293	adult thermosensory neuron	4	0
-FBbt_00001496	lineage NB5-2 primary interneuron	4	0
-FBbt_00001482	lineage NB3-2 primary interneuron	4	0
-FBbt_00007394	adult local interneuron of the lateral ALl1 neuroblast	4	95
+FBbt_20005174	adult LHPV4a2-LHPV4a3 neuron	4	0
+FBbt_00047649	descending neuron of the posterior brain DNp16	4	0
+FBbt_00100216	dopaminergic PPM1 neuron	4	0
+FBbt_00100482	lobula columnar neuron LC10	4	0
 FBbt_00050221	adult SLPal1 lineage neuron	4	0
-FBbt_00100383	adult antennal lobe projection neuron VC4 adPN	4	0
+FBbt_20002936	adult superior medial protocerebrum neuron 074	4	0
+FBbt_20001985	adult posterior slope neuron 230	4	0
+FBbt_20007553	adult lobula columnar neuron e01	4	1
 FBbt_00111616	lineage MNB primary interneuron	4	0
+FBbt_20007256	adult Cm31a neuron	4	2
 FBbt_00052517	primary interneuron	4	0
-FBbt_00048235	adult motor neuron	4	0
-FBbt_00048865	NB1-1 lineage primary neuron	4	0
-FBbt_00052113	lateral antennal lobe tract projection neuron 4 (female)	4	0
-FBbt_00047227	hygrosensory projection neuron	4	0
+FBbt_20003401	adult ipsilateral DN1pD neuron	4	0
+FBbt_20004450	adult CB0726 neuron	4	0
+FBbt_20003399	adult contralaterally-projecting DN1pD neuron	4	0
+FBbt_20003464	adult superior medial protocerebrum neuron 602	4	0
+FBbt_00001482	lineage NB3-2 primary interneuron	4	0
+FBbt_20001421	adult lateral accessory lobe neuron 125	4	0
+FBbt_00001496	lineage NB5-2 primary interneuron	4	0
+FBbt_20001337	adult lateral accessory lobe neuron 041	4	0
+FBbt_00110145	octopaminergic AL2b neuron	4	0
+FBbt_00049379	adult lateral horn PV2a1 neuron	4	0
 FBbt_00110376	adult SMPpd2 lineage neuron	4	0
+FBbt_00052839	adult fan-shaped body layer 6 neuron of LALv1 lineage	4	0
+FBbt_00052113	lateral antennal lobe tract projection neuron 4 (female)	4	0
+FBbt_00003823	transmedullary Y neuron TmY5a	4	155
+FBbt_20004998	adult CB1338 neuron	4	0
+FBbt_20007053	adult CB3612 neuron	4	0
+FBbt_00047227	hygrosensory projection neuron	4	0
+FBbt_20004883	adult CB1215 neuron	4	0
+FBbt_20006674	adult CB3192 neuron	4	0
+FBbt_20006127	adult CB2587 neuron	4	0
+FBbt_00048235	adult motor neuron	4	0
+FBbt_20006109	adult CB2568 neuron	4	0
+FBbt_20005991	adult CB2438 neuron	4	0
+FBbt_00048266	adult dopaminergic neuron of gnathal ganglion	4	0
+FBbt_00100383	adult antennal lobe projection neuron VC4 adPN	4	0
+FBbt_00003790	transmedullary neuron Tm2	4	25
+FBbt_00051244	dopaminergic PPM3 fan-shaped body layer 4-nodulus neuron	4	0
+FBbt_00007394	adult local interneuron of the lateral ALl1 neuroblast	4	95
+FBbt_00051245	dopaminergic PPM3 fan-shaped body layer 4 neuron	4	0
+FBbt_20002643	adult superior lateral protocerebrum neuron 249	4	0
+FBbt_00048865	NB1-1 lineage primary neuron	4	0
+FBbt_00003734	T4c neuron	4	22
+FBbt_20007233	adult medulla-lobula neuron MeLo9	4	0
+FBbt_20000830	adult clamp neuron 125	4	0
+FBbt_00003737	T5a neuron	4	5
+FBbt_00051293	adult thermosensory neuron	4	0
+FBbt_20005378	adult CB1770 neuron	4	0
+FBbt_20002857	adult superior lateral protocerebrum neuron 463	3	0
+FBbt_00111271	distal medullary amacrine neuron Dm9	3	5
+FBbt_00003820	transmedullary Y neuron TmY3	3	3
+FBbt_20007240	adult central medulla neuron Cm12	3	2
 FBbt_00067357	adult antennal lobe projection neuron VA1d adPN	3	0
+FBbt_00110074	transmedullary neuron Tm5c	3	18
+FBbt_00007386	adult olfactory receptor neuron	3	125
+FBbt_00003728	T2 neuron	3	15
+FBbt_20002562	adult superior lateral protocerebrum neuron 168	3	0
+FBbt_00003821	transmedullary Y neuron TmY4	3	9
+FBbt_00003796	transmedullary neuron Tm8	3	133
 FBbt_00051464	hemilineage 19A secondary neuron	3	0
-FBbt_00053236	adult metathoracic ventral unpaired median neuron	3	0
-FBbt_00049942	descending neuron of the posterior brain DNp13 (female)	3	0
+FBbt_00111280	distal medullary amacrine neuron Dm19	3	0
 FBbt_00048936	NB4-3 lineage neuron	3	0
-FBbt_00049764	adult antennal lobe projection neuron VL2a vPN	2	0
-FBbt_00067371	adult antennal lobe projection neuron VA1v vPN	2	0
-FBbt_00047685	larval abdominal 9 TePn04 neuron	2	0
-FBbt_00047777	larval abdominal 1 A08d neuron	2	0
-FBbt_00047787	larval abdominal 1 A01n neuron	2	0
-FBbt_00047770	larval abdominal 1 A02m neuron	2	0
-FBbt_00047684	larval abdominal 3 Wave neuron	2	0
-FBbt_00047772	larval abdominal 1 A03o1 neuron	2	0
-FBbt_00053037	adult ExR7 neuron of DM4 lineage	2	0
-FBbt_00050052	adult VESa2 lineage neuron	2	0
-FBbt_00047778	larval abdominal 2 A08m neuron	2	0
-FBbt_00047791	larval metathoracic T05t neuron	2	0
-FBbt_00047776	larval abdominal 1 A14g neuron	2	0
-FBbt_00047775	larval abdominal 2 A14g neuron	2	0
-FBbt_00047789	larval abdominal 1 A23g neuron	2	0
-FBbt_00053034	adult ExR1 neuron of DM3 lineage	2	0
-FBbt_00100378	adult antennal lobe projection neuron VM4 adPN	2	0
-FBbt_00048889	NB6-2 lineage primary neuron	2	0
-FBbt_00059282	adult antennal lobe projection neuron DP1l	2	0
+FBbt_00053236	adult metathoracic ventral unpaired median neuron	3	0
+FBbt_20001980	adult posterior slope neuron 225	3	0
+FBbt_20007184	adult CB3764 neuron	3	0
+FBbt_00003833	proximal medullary amacrine neuron Pm1	3	2
+FBbt_00111273	distal medullary amacrine neuron Dm12	3	5
+FBbt_00003791	transmedullary neuron Tm3	3	13
+FBbt_00003776	medulla intrinsic neuron Mi1	3	4
+FBbt_00003794	transmedullary neuron Tm6	3	3
 FBbt_00053036	adult ExR7 neuron of DM3 lineage	2	0
-FBbt_00053035	adult ExR1 neuron of DM4 lineage	2	0
+FBbt_00059282	adult antennal lobe projection neuron DP1l	2	0
 FBbt_00100368	adult uniglomerular antennal lobe projection neuron adPN	2	5
+FBbt_00049764	adult antennal lobe projection neuron VL2a vPN	2	0
+FBbt_00053037	adult ExR7 neuron of DM4 lineage	2	0
+FBbt_00003828	transmedullary Y neuron TmY10	2	24
+FBbt_00100296	abdominal sensory neuron	2	0
+FBbt_00048927	NB2-4 lineage neuron	2	0
+FBbt_00100378	adult antennal lobe projection neuron VM4 adPN	2	0
+FBbt_20002028	adult posterior slope neuron 273	2	0
+FBbt_00004113	adult sense organ	2	0
+FBbt_00005159	gustatory sensory organ	2	0
+FBbt_00048889	NB6-2 lineage primary neuron	2	0
+FBbt_20007263	adult Li21 neuron	2	31
+FBbt_00047789	larval abdominal 1 A23g neuron	2	0
+FBbt_00047511	adult descending neuron	2	2
+FBbt_00047775	larval abdominal 2 A14g neuron	2	0
+FBbt_00067371	adult antennal lobe projection neuron VA1v vPN	2	0
+FBbt_00051766	adult lateral horn PD4a2 neuron	2	0
+FBbt_20007278	adult lobula visual centrifugal neuron 03	2	0
+FBbt_20004598	adult CB0905 neuron	2	0
+FBbt_00050052	adult VESa2 lineage neuron	2	0
+FBbt_00051243	dopaminergic PPL1 fan-shaped body layer 7 neuron	2	0
 FBbt_00047779	larval abdominal 1 A08m neuron	2	0
-FBbt_00048464	adult dopaminergic neuron of ventral nerve cord	2	0
-FBbt_00047686	larval abdominal 3 A10j neuron	2	0
-FBbt_00047397	larval abdominal 1 Basin-3 neuron	2	0
-FBbt_00053235	adult prothoracic ventral unpaired median neuron	2	0
+FBbt_00053038	adult ExR8 neuron of DM3 lineage	2	0
+FBbt_00053039	adult ExR8 neuron of DM4 lineage	2	0
+FBbt_20000757	adult clamp neuron 052	2	0
+FBbt_00053035	adult ExR1 neuron of DM4 lineage	2	0
+FBbt_00053034	adult ExR1 neuron of DM3 lineage	2	0
+FBbt_20001772	adult posterior slope neuron 017	2	0
+FBbt_00007437	adult antennal lobe projection neuron vPN	2	7
+FBbt_20001769	adult posterior slope neuron 014	2	0
+FBbt_00049819	adult central complex neuron	2	0
+FBbt_00047579	descending neuron of the anterior dorsal brain DNa08	2	0
+FBbt_00003777	medulla intrinsic neuron Mi2	2	24
+FBbt_00007428	adult s-LNv neuron	2	0
+FBbt_20006370	adult PV7c11 neuron	2	0
+FBbt_00003773	distal medullary amacrine neuron Dm6	2	3
+FBbt_00047776	larval abdominal 1 A14g neuron	2	0
+FBbt_00051316	NB5-2 Notch ON hemilineage primary neuron	2	0
+FBbt_00047778	larval abdominal 2 A08m neuron	2	0
+FBbt_00047788	larval abdominal 1 A19c neuron	2	0
+FBbt_00047785	larval abdominal 2 A10l neuron	2	0
+FBbt_00047784	larval abdominal 2 A10f neuron	2	0
+FBbt_00047782	larval abdominal 1 A10a neuron	2	0
+FBbt_00111275	distal medullary amacrine neuron Dm14	2	1
+FBbt_00047404	larval abdominal 4 Basin-4 neuron	2	0
+FBbt_00047401	larval abdominal 1 Basin-4 neuron	2	0
+FBbt_00047383	larval abdominal 1 Basin-1 neuron	2	0
 FBbt_00047386	larval abdominal 4 Basin-1 neuron	2	0
 FBbt_00047391	larval abdominal 1 Basin-2 neuron	2	0
 FBbt_00047394	larval abdominal 4 Basin-2 neuron	2	0
-FBbt_00051145	adult mesothoracic LUL130 neuron	2	0
-FBbt_00052012	adult octopaminergic neuron of abdominal ganglion	2	0
-FBbt_00047511	adult descending neuron	2	2
-FBbt_00052751	adult mesothoracic ventral unpaired median neuron	2	0
+FBbt_00047397	larval abdominal 1 Basin-3 neuron	2	0
 FBbt_00047400	larval abdominal 4 Basin-3 neuron	2	0
 FBbt_00047528	neuron projection bundle of adult ventral nerve cord	2	0
-FBbt_00004113	adult sense organ	2	0
-FBbt_00005159	gustatory sensory organ	2	0
 FBbt_00001500	lineage NB5-3 primary interneuron	2	0
-FBbt_00051316	NB5-2 Notch ON hemilineage primary neuron	2	0
-FBbt_00047383	larval abdominal 1 Basin-1 neuron	2	0
-FBbt_00051127	adult prothoracic LUL130 neuron	2	0
-FBbt_00047786	larval abdominal 1 A12m neuron	2	0
-FBbt_00047785	larval abdominal 2 A10l neuron	2	0
-FBbt_00047780	larval abdominal 1 A08x neuron	2	0
-FBbt_00048927	NB2-4 lineage neuron	2	0
-FBbt_00047788	larval abdominal 1 A19c neuron	2	0
-FBbt_00053038	adult ExR8 neuron of DM3 lineage	2	0
-FBbt_00100296	abdominal sensory neuron	2	0
-FBbt_00051162	adult metathoracic LUL130 neuron	2	0
-FBbt_00053039	adult ExR8 neuron of DM4 lineage	2	0
-FBbt_00047784	larval abdominal 2 A10f neuron	2	0
-FBbt_00047782	larval abdominal 1 A10a neuron	2	0
-FBbt_00047404	larval abdominal 4 Basin-4 neuron	2	0
-FBbt_00047401	larval abdominal 1 Basin-4 neuron	2	0
 FBbt_00001523	lineage NB7-2 primary interneuron	2	0
-FBbt_00050082	adult LHp1 lineage neuron	1	0
-FBbt_00050239	adult SLPav2 lineage neuron	1	0
-FBbt_00048465	adult dopaminergic mesothoracic neuron	1	0
-FBbt_00048935	NB4-2 lineage neuron	1	0
-FBbt_00067354	adult antennal lobe projection neuron DC2 adPN	1	0
-FBbt_00051253	adult doublesex aDN (male) neuron	1	0
-FBbt_00047701	larval abdominal 1 A02n neuron	1	0
-FBbt_00048507	larval metathoracic Ladder-a neuron	1	0
-FBbt_00051254	adult doublesex aDN (female) neuron	1	0
-FBbt_00048920	lineage 23 secondary neuron	1	0
-FBbt_00051475	hemilineage 12B secondary neuron	1	0
-FBbt_00051470	hemilineage 13B secondary neuron	1	0
-FBbt_00100382	adult antennal lobe projection neuron DL4 adPN	1	0
-FBbt_00047792	larval prothoracic T08x neuron	1	0
-FBbt_00047793	larval mesothoracic T08x neuron	1	0
-FBbt_00047774	larval abdominal 1 A05e neuron	1	0
-FBbt_00047773	larval abdominal 2 A05e neuron	1	0
-FBbt_00050099	adult LHd1 lineage neuron	1	0
-FBbt_00110570	adult uniglomerular antennal lobe projection neuron V	1	0
-FBbt_00049765	adult antennal lobe projection neuron VL2p vPN	1	0
+FBbt_00051162	adult metathoracic LUL130 neuron	2	0
+FBbt_00052751	adult mesothoracic ventral unpaired median neuron	2	0
+FBbt_00051127	adult prothoracic LUL130 neuron	2	0
+FBbt_00048464	adult dopaminergic neuron of ventral nerve cord	2	0
+FBbt_00053235	adult prothoracic ventral unpaired median neuron	2	0
+FBbt_00051145	adult mesothoracic LUL130 neuron	2	0
+FBbt_00052012	adult octopaminergic neuron of abdominal ganglion	2	0
+FBbt_20007186	adult CB3766 neuron	2	0
+FBbt_20006357	adult CB2843 neuron	2	0
+FBbt_20005095	adult CB1449 neuron	2	0
+FBbt_20007183	adult CB3763 neuron	2	0
+FBbt_20001976	adult posterior slope neuron 221	2	0
+FBbt_20002644	adult superior lateral protocerebrum neuron 250	2	0
+FBbt_20001580	adult posterior lateral protocerebrum neuron 080	2	0
+FBbt_00047786	larval abdominal 1 A12m neuron	2	0
+FBbt_20007187	adult CB3767 neuron	2	0
+FBbt_00003894	translobula plate neuron Tlp4	2	3
+FBbt_00047791	larval metathoracic T05t neuron	2	0
+FBbt_00047772	larval abdominal 1 A03o1 neuron	2	0
+FBbt_00047684	larval abdominal 3 Wave neuron	2	0
+FBbt_00047770	larval abdominal 1 A02m neuron	2	0
+FBbt_00047787	larval abdominal 1 A01n neuron	2	0
+FBbt_00048012	adult Capability neuron	2	0
+FBbt_00047685	larval abdominal 9 TePn04 neuron	2	0
+FBbt_20007238	adult Li23 neuron	2	11
+FBbt_00111288	lobula plate intrinsic neuron LPi4-3	2	0
+FBbt_20007258	adult Cm35 neuron	2	4
+FBbt_20007253	adult CB3838 neuron	2	2
+FBbt_00047777	larval abdominal 1 A08d neuron	2	0
+FBbt_00047686	larval abdominal 3 A10j neuron	2	0
+FBbt_00047780	larval abdominal 1 A08x neuron	2	0
+FBbt_00003804	transmedullary neuron Tm16	1	2
 FBbt_00067372	adult antennal lobe projection neuron DA1 vPN	1	0
+FBbt_00111276	distal medullary amacrine neuron Dm15	1	16
+FBbt_20001979	adult posterior slope neuron 224	1	0
+FBbt_00047701	larval abdominal 1 A02n neuron	1	0
+FBbt_00050082	adult LHp1 lineage neuron	1	0
+FBbt_20001977	adult posterior slope neuron 222	1	0
+FBbt_00050239	adult SLPav2 lineage neuron	1	0
+FBbt_00048935	NB4-2 lineage neuron	1	0
+FBbt_00049515	transmedullary Y neuron TmY18	1	10
+FBbt_00100382	adult antennal lobe projection neuron DL4 adPN	1	0
+FBbt_00051254	adult doublesex aDN (female) neuron	1	0
+FBbt_00051253	adult doublesex aDN (male) neuron	1	0
+FBbt_00067354	adult antennal lobe projection neuron DC2 adPN	1	0
+FBbt_20007249	adult MeLo10 neuron	1	0
+FBbt_00047773	larval abdominal 2 A05e neuron	1	0
+FBbt_00047774	larval abdominal 1 A05e neuron	1	0
+FBbt_00052137	medulla-lobula neuron 1	1	3
 FBbt_00040000	adult antennal lobe projection neuron DC3 adPN	1	0
-FBbt_00111255	larval A10l neuron	0	2
-FBbt_00111254	larval A10f neuron	0	2
-FBbt_00111253	larval A10a neuron	0	2
-FBbt_00111230	larval Basin-4 neuron	0	4
-FBbt_00111227	larval Basin-1 neuron	0	4
-FBbt_00111229	larval Basin-2 neuron	0	4
+FBbt_00110570	adult uniglomerular antennal lobe projection neuron V	1	0
+FBbt_00048507	larval metathoracic Ladder-a neuron	1	0
+FBbt_00003797	transmedullary neuron Tm9	1	17
+FBbt_00051475	hemilineage 12B secondary neuron	1	0
+FBbt_00049765	adult antennal lobe projection neuron VL2p vPN	1	0
+FBbt_00048920	lineage 23 secondary neuron	1	0
+FBbt_00003789	transmedullary neuron Tm1	1	11
+FBbt_00047793	larval mesothoracic T08x neuron	1	0
+FBbt_00003914	Y neuron Y3	1	28
+FBbt_00003912	Y neuron Y1	1	2
+FBbt_00050099	adult LHd1 lineage neuron	1	0
+FBbt_00003835	proximal medullary amacrine neuron Pm2	1	1
+FBbt_00110073	transmedullary neuron Tm5b	1	51
+FBbt_00051470	hemilineage 13B secondary neuron	1	0
+FBbt_00003792	transmedullary neuron Tm4	1	1
+FBbt_00048465	adult dopaminergic mesothoracic neuron	1	0
+FBbt_00047792	larval prothoracic T08x neuron	1	0
+FBbt_00053281	adult antennal lobe input interneuron	0	18
+FBbt_00053488	accessory medulla neuron aMe6a	0	2
+FBbt_20011389	adult lobula columnar neuron LC31a	0	35
+FBbt_00052758	large central-projecting DN3 neuron	0	2
+FBbt_00053348	adult DN1pD neuron	0	8
+FBbt_00052857	lobula plate intrinsic neuron LPi2b	0	2
+FBbt_00053494	vertical system-like neuron VSm	0	4
+FBbt_20007859	adult AN07B095 neuron	0	6
+FBbt_20007802	adult AN06B025 neuron	0	2
+FBbt_00049822	fan-shaped body extrinsic columnar neuron	0	188
+FBbt_20007815	adult AN06B057 neuron	0	2
+FBbt_20011483	adult lobula tangential neuron LT86	0	2
+FBbt_20007614	adult medulla visual projection neuron MeVP14	0	2
+FBbt_20011472	adult lobula tangential neuron LT76	0	2
+FBbt_00053486	accessory medulla neuron aMe4	0	14
+FBbt_20011463	adult lobula tangential neuron LT66	0	2
+FBbt_00049615	salt-sensing neuron	0	16
+FBbt_00049417	adult lateral horn PV5g1 neuron	0	8
+FBbt_00052777	adult subesophageal Capability neuron	0	2
+FBbt_00049956	zone F Johnston organ neuron	0	13
+FBbt_00053487	accessory medulla neuron aMe5	0	55
+FBbt_20011485	adult medulla visual projection neuron MeVP1	0	99
+FBbt_20011486	adult medulla visual projection neuron MeVP4	0	42
+FBbt_20011399	adult lobula columnar neuron LC41	0	12
+FBbt_20011398	adult lobula columnar neuron LC40	0	37
+FBbt_00049384	adult lateral horn PV4a1 neuron	0	13
+FBbt_20011480	adult lobula tangential neuron LT83	0	2
+FBbt_20002721	adult superior lateral protocerebrum neuron 327	0	6
+FBbt_00052776	adult endocrine corazonin neuron of brain	0	6
+FBbt_20007610	adult medulla visual projection neuron MeVP6	0	1
+FBbt_20011336	descending neuron of the anterior dorsal brain DNa13	0	4
+FBbt_00053405	adult octopaminergic AL2b2 neuron	0	4
+FBbt_20011451	adult lobula tangential neuron LT52	0	31
+FBbt_20011481	adult lobula tangential neuron LT84	0	2
+FBbt_20011478	adult lobula tangential neuron LT82a	0	6
+FBbt_00051220	adult tubercle-bulb neuron 03	0	44
+FBbt_20005129	adult LHPV2a1_a neuron	0	4
+FBbt_20011477	adult lobula tangential neuron LT81	0	9
+FBbt_20011394	adult lobula columnar neuron LC36	0	30
+FBbt_20011395	adult lobula columnar neuron LC37	0	18
+FBbt_20011488	adult medulla visual projection neuron MeVP62	0	6
+FBbt_00053483	accessory medulla neuron aMe25	0	2
+FBbt_00053500	lobula-lobula plate columnar neuron LLPC4	0	6
+FBbt_00053478	accessory medulla neuron aMe17c	0	4
+FBbt_20011401	adult lobula columnar neuron LC44	0	4
+FBbt_20002519	adult superior lateral protocerebrum neuron 125	0	3
+FBbt_20001934	adult lobula visual projection neuron LoVP26	0	2
+FBbt_20000745	adult clamp neuron 040	0	4
+FBbt_00049845	mushroom body output neuron 25	0	6
+FBbt_20011400	adult lobula columnar neuron LC43	0	12
+FBbt_00052133	adult medulla-tubercle neuron of dorsal rim area	0	101
+FBbt_20011373	adult central medulla intrinsic neuron Cm24	0	10
+FBbt_20011495	adult proximal medulla intrinsic neuron Pm13	0	3
+FBbt_00053472	lobula plate intrinsic neuron LPi4b	0	2
+FBbt_00053465	lobula plate intrinsic neuron LPi2c	0	42
+FBbt_20007234	lobula intrinsic neuron Li14	0	7
+FBbt_20011364	adult central medulla intrinsic neuron Cm15	0	39
+FBbt_00052866	translobula plate neuron Tlp14	0	55
+FBbt_00049483	distal medullary amacrine neuron Dm-DRA1	0	47
+FBbt_00052858	lobula plate intrinsic neuron LPi34-12	0	3
+FBbt_00052859	transmedullary Y neuron TmY16	0	1
+FBbt_20011416	adult lobula intrinsic neuron Li35	0	22
+FBbt_00053506	adult medulla-lobula neuron MeLo6	0	48
+FBbt_20011409	adult lobula intrinsic neuron Li19	0	32
+FBbt_20007274	transmedullary neuron Tm37	0	5
+FBbt_00053517	transmedullary neuron Tm35	0	71
+FBbt_00053513	transmedullary neuron Tm31	0	118
+FBbt_20011376	adult central medulla intrinsic neuron Cm27	0	8
+FBbt_00053503	adult medulla-lobula neuron MeLo3b	0	67
+FBbt_20011408	adult lobula intrinsic neuron Li18b	0	26
+FBbt_20011414	adult lobula intrinsic neuron Li32	0	2
+FBbt_00053507	adult medulla-lobula neuron MeLo7	0	89
+FBbt_00053287	central medulla intrinsic neuron	0	35
+FBbt_00053470	lobula plate intrinsic neuron LPi3c	0	13
+FBbt_00053466	lobula plate intrinsic neuron LPi2d	0	87
+FBbt_00053502	adult medulla-lobula neuron MeLo3a	0	103
+FBbt_20011459	adult lobula tangential neuron LT62	0	2
+FBbt_00052145	medulla tangential intrinsic neuron of dorsal rim area 1	0	6
+FBbt_20011406	adult lobula intrinsic neuron Li13	0	67
+FBbt_20011377	adult central medulla intrinsic neuron Cm28	0	11
+FBbt_20007230	adult Li20 neuron	0	10
+FBbt_20011420	adult lobula intrinsic neuron Li39	0	2
+FBbt_20011415	adult lobula intrinsic neuron Li33	0	2
+FBbt_20011405	adult lobula intrinsic neuron Li12	0	4
+FBbt_20011403	adult lobula intrinsic neuron Li11a	0	4
+FBbt_20011494	adult proximal medulla intrinsic neuron Pm12	0	4
+FBbt_20011378	adult central medulla intrinsic neuron Cm29	0	2
+FBbt_20011407	adult lobula intrinsic neuron Li16	0	4
+FBbt_20011412	adult lobula intrinsic neuron Li30	0	10
+FBbt_20011417	adult lobula intrinsic neuron Li36	0	2
+FBbt_20007235	adult CB3820 neuron	0	19
+FBbt_20007243	adult Li34 neuron	0	1
+FBbt_20007611	adult medulla tangential neuron e02	0	3
+FBbt_20011487	adult medulla visual projection neuron MeVP5	0	15
+FBbt_20011497	adult transmedullary Y neuron TmY19a	0	67
+FBbt_20011498	adult transmedullary Y neuron TmY19b	0	35
+FBbt_20007269	medulla intrinsic neuron Mi18	0	6
+FBbt_20011368	adult central medulla intrinsic neuron Cm19	0	23
+FBbt_00052146	medulla tangential intrinsic neuron of dorsal rim area 2	0	4
+FBbt_00053509	adult medulla-tubercle neuron 3	0	276
+FBbt_20007251	adult medulla-lobula neuron MeLo2	0	2
+FBbt_20011366	adult central medulla intrinsic neuron Cm17	0	14
+FBbt_20011372	adult central medulla intrinsic neuron Cm23	0	17
+FBbt_00053511	adult medulla visual projection neuron MeVPMe11	0	2
+FBbt_20011453	adult lobula tangential neuron LT56	0	2
+FBbt_20011475	adult lobula tangential neuron LT79	0	2
+FBbt_00053473	accessory medulla neuron aMe1	0	4
+FBbt_20011466	adult lobula tangential neuron LT69	0	2
+FBbt_20011422	adult lobula visual centrifugal neuron LoVC17	0	4
+FBbt_20011465	adult lobula tangential neuron LT68	0	4
+FBbt_20011474	adult lobula tangential neuron LT78	0	8
+FBbt_20011473	adult lobula tangential neuron LT77	0	6
+FBbt_20011436	adult lobula visual projection neuron LoVP75	0	5
+FBbt_20011391	adult lobula columnar neuron LC34	0	14
+FBbt_20011462	adult lobula tangential neuron LT65	0	2
+FBbt_00053484	accessory medulla neuron aMe26	0	6
+FBbt_00049401	adult lateral horn PV4c3 neuron	0	5
+FBbt_00053474	accessory medulla neuron aMe10	0	3
+FBbt_20011482	adult lobula tangential neuron LT85	0	2
+FBbt_00053331	adult lobula plate tangential neuron LPT28	0	2
+FBbt_20001894	adult posterior slope neuron 139	0	4
+FBbt_20011455	adult lobula tangential neuron LT59	0	2
+FBbt_20011450	adult lobula tangential neuron LT47	0	2
+FBbt_00053388	adult lobula plate tangential neuron LPT51	0	2
+FBbt_00051231	adult ellipsoid body extrinsic ring neuron ExR7	0	4
+FBbt_00052843	adult fan-shaped body layer 7 neuron of CP2 lineage	0	2
+FBbt_20001742	adult posterior lateral protocerebrum neuron 242	0	4
+FBbt_00053491	accessory medulla neuron aMe8	0	4
+FBbt_20011468	adult lobula tangential neuron LT72	0	2
+FBbt_20011449	adult lobula tangential neuron LT43	0	4
+FBbt_20011464	adult lobula tangential neuron LT67	0	2
+FBbt_20011437	adult lobula visual projection neuron LoVP76	0	4
+FBbt_00053476	accessory medulla neuron aMe17a	0	2
+FBbt_20001253	adult inferior bridge neuron 076	0	1
+FBbt_00053407	horizontal twin cell HST	0	2
+FBbt_00053349	adult lobula plate tangential neuron LPT29	0	2
+FBbt_20011457	adult lobula tangential neuron LT61a	0	2
+FBbt_00053350	adult lobula plate tangential neuron LPT30	0	2
+FBbt_00053475	accessory medulla neuron aMe15	0	2
+FBbt_00053353	adult lobula plate tangential neuron LPT49	0	2
+FBbt_20011443	adult lobula tangential neuron LT36	0	2
+FBbt_20011461	adult lobula tangential neuron LT64	0	6
+FBbt_20011467	adult lobula tangential neuron LT70	0	8
+FBbt_20011447	adult lobula tangential neuron LT41	0	2
+FBbt_20007378	adult CB1134 neuron	0	2
+FBbt_00049388	adult lateral horn PV4a5 neuron	0	6
+FBbt_20011402	adult lobula columnar neuron LC46b	0	14
+FBbt_00049385	adult lateral horn PV4a2 neuron	0	4
+FBbt_20011388	adult lobula columnar neuron LC29	0	45
+FBbt_20011469	adult lobula tangential neuron LT73	0	4
+FBbt_20011456	adult lobula tangential neuron LT60	0	2
+FBbt_20011458	adult lobula tangential neuron LT61b	0	2
+FBbt_00051235	adult fan-shaped body 1 column-rubus neuron 1	0	2
+FBbt_20011476	adult lobula tangential neuron LT80	0	4
+FBbt_00053469	lobula plate intrinsic neuron LPi3b	0	40
+FBbt_00051226	adult tubercle-bulb neuron 09	0	32
+FBbt_00052102	adult anterior and posterior ventrolateral protocerebrum neuron AVLP/PVLP_pr01	0	1
+FBbt_00049735	adult antennal lobe projection neuron VP5 l2PN	0	7
+FBbt_00051232	adult ellipsoid body extrinsic ring neuron ExR8	0	4
+FBbt_00053492	accessory medulla neuron aMe9	0	4
+FBbt_00053416	lobula plate tangential neuron Nod5	0	2
+FBbt_00053413	lobula plate tangential neuron Nod2	0	2
+FBbt_00051947	adult tophat subesophageal neuron	0	2
+FBbt_20011442	adult lobula tangential neuron LT34	0	2
+FBbt_00053420	adult lobula plate tangential neuron LPT21	0	2
+FBbt_00053421	adult lobula plate tangential neuron LPT22	0	2
+FBbt_00053412	lobula plate tangential neuron Nod1	0	4
+FBbt_00053419	lobula plate tangential neuron dCal1	0	2
+FBbt_00053425	adult lobula plate tangential neuron LPT57	0	2
+FBbt_00053354	adult lobula plate tangential neuron LPT50	0	2
+FBbt_00052749	unpaired neuron	0	18
+FBbt_20011335	descending neuron of the anterior dorsal brain DNa16	0	2
+FBbt_20001404	adult lateral accessory lobe neuron 108	0	4
+FBbt_20011423	adult lobula visual centrifugal neuron LoVC20	0	2
+FBbt_00053485	accessory medulla neuron aMe3	0	2
+FBbt_20011421	adult lobula visual centrifugal neuron LoVC14	0	2
+FBbt_20011444	adult lobula tangential neuron LT37	0	2
+FBbt_00051200	descending neuron of the anterior dorsal brain DNa12	0	2
+FBbt_00053482	accessory medulla neuron aMe24	0	2
+FBbt_00053415	lobula plate tangential neuron Nod4	0	2
+FBbt_20011484	adult lobula tangential neuron LT87	0	2
+FBbt_20011448	adult lobula tangential neuron LT42	0	2
+FBbt_00058024	adult Ms cell of pars intercerebralis	0	6
+FBbt_00053479	accessory medulla neuron aMe17e	0	2
+FBbt_00053424	adult lobula plate tangential neuron LPT53	0	2
+FBbt_00053493	adult antennal lobe output interneuron	0	8
+FBbt_00053414	lobula plate tangential neuron Nod3	0	2
+FBbt_00053409	vertical system neuron 8	0	2
+FBbt_00052835	adult fan-shaped body layer 6 neuron of DM6 lineage	0	4
+FBbt_20011470	adult lobula tangential neuron LT74	0	5
+FBbt_00053408	vertical system neuron 7	0	2
+FBbt_00053481	accessory medulla neuron aMe22	0	2
+FBbt_20011390	adult lobula columnar neuron LC31b	0	12
+FBbt_20011338	descending neuron of the anterior dorsal brain DNa14	0	2
+FBbt_00053477	accessory medulla neuron aMe17b	0	4
+FBbt_00053423	adult lobula plate tangential neuron LPT26	0	2
+FBbt_20011446	adult lobula tangential neuron LT40	0	2
+FBbt_20011452	adult lobula tangential neuron LT55	0	2
+FBbt_00053480	accessory medulla neuron aMe20	0	2
+FBbt_20011445	adult lobula tangential neuron LT39	0	2
+FBbt_00053417	lobula plate tangential neuron vCal2	0	2
+FBbt_00053389	adult lobula plate tangential neuron LPT52	0	2
+FBbt_00053288	adult lobula plate tangential neuron LPT27	0	2
+FBbt_00053510	adult medulla visual projection neuron MeVPaMe2	0	2
+FBbt_20011424	adult lobula visual centrifugal neuron LoVC21	0	2
+FBbt_20002956	adult superior medial protocerebrum neuron 094	0	4
+FBbt_00053418	lobula plate tangential neuron vCal3	0	2
+FBbt_20011471	adult lobula tangential neuron LT75	0	2
+FBbt_20011425	adult lobula visual centrifugal neuron LoVC23	0	4
+FBbt_20011334	descending neuron of the anterior dorsal brain DNa15	0	2
+FBbt_20011454	adult lobula tangential neuron LT58	0	2
+FBbt_00051967	neck muscle motor neuron of VNC	0	30
+FBbt_00052852	lobula plate columnar neuron LPC2	0	1
+FBbt_00110069	distal medullary amacrine neuron Dm8b	0	400
+FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
+FBbt_00100247	gamma Kenyon cell	0	1057
+FBbt_00047953	mushroom body output neuron	0	26
+FBbt_00005927	gustatory receptor neuron	0	131
+FBbt_00005923	hygrosensory neuron	0	9
+FBbt_00005918	thermosensory neuron	0	4
+FBbt_00016687	fruitless expressing neuron	0	2
+FBbt_00111146	adult fruitless aSG7 neuron	0	6
+FBbt_00047096	secondary neuron	0	10446
+FBbt_00100484	lobula columnar neuron LC12	0	1
+FBbt_00003879	lobula complex columnar neuron	0	372
+FBbt_00003895	translobula plate neuron Tlp5	0	55
+FBbt_00003891	translobula plate neuron Tlp1	0	6
+FBbt_00067031	adult olfactory receptor neuron Or67d	0	1
+FBbt_00003840	medulla tangential neuron Mt4	0	18
+FBbt_00007396	adult antennal lobe local neuron lLN2	0	6
+FBbt_00007390	adult antennal lobe local neuron	0	108
+FBbt_00003811	transmedullary neuron Tm23	0	26
+FBbt_00003812	transmedullary neuron Tm24	0	196
+FBbt_00003800	transmedullary neuron Tm12	0	3
+FBbt_00067123	adult antennal lobe projection neuron	0	2
+FBbt_00110415	adult fruitless aDT-a neuron	0	6
+FBbt_00007392	projection neuron	0	13
 FBbt_00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	0	40
-FBbt_00111228	larval Basin-3 neuron	0	4
-FBbt_00100248	alpha/beta Kenyon cell	0	289
-FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
-FBbt_00005131	dopaminergic neuron	0	12
-FBbt_00100227	mushroom body extrinsic neuron	0	18
-FBbt_00100249	alpha'/beta' Kenyon cell	0	335
-FBbt_00111257	larval A19c neuron	0	2
+FBbt_00111232	larval A23g neuron	0	2
+FBbt_20011499	adult transmedullary Y neuron TmY21	0	282
+FBbt_00111231	larval A14g neuron	0	4
+FBbt_00111277	distal medullary amacrine neuron Dm16	0	91
+FBbt_00111278	distal medullary amacrine neuron Dm17	0	1
+FBbt_00111279	distal medullary amacrine neuron Dm18	0	5
+FBbt_00111281	distal medullary amacrine neuron Dm20	0	2
+FBbt_00111284	medulla intrinsic neuron Mi14	0	4
+FBbt_00111253	larval A10a neuron	0	2
+FBbt_00111254	larval A10f neuron	0	2
+FBbt_00111255	larval A10l neuron	0	2
 FBbt_00111256	larval A12m neuron	0	2
-FBbt_00111245	larval A01n neuron	0	2
+FBbt_00111257	larval A19c neuron	0	2
 FBbt_00111258	larval A08x neuron	0	2
 FBbt_00111260	larval A10j neuron	0	4
 FBbt_00111261	larval T05t neuron	0	2
 FBbt_00111262	larval T08x neuron	0	2
 FBbt_00111263	larval TePn04 neuron	0	2
 FBbt_00111244	larval A08d neuron	0	2
-FBbt_00100214	adult dopaminergic PAM neuron	0	5
+FBbt_00111245	larval A01n neuron	0	2
 FBbt_00111247	larval A02n neuron	0	1
 FBbt_00111248	larval A02m neuron	0	2
 FBbt_00111249	larval Wave neuron	0	2
 FBbt_00111250	larval A03o1 neuron	0	2
 FBbt_00111251	larval A05e neuron	0	2
 FBbt_00111252	larval A08m neuron	0	4
-FBbt_00111231	larval A14g neuron	0	4
-FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
-FBbt_00048999	adult Drosulfakinin neuron	0	6
-FBbt_00049820	fan-shaped body columnar neuron	0	598
-FBbt_00047349	adult doublesex pC1 (female) neuron	0	9
-FBbt_00051232	adult ellipsoid body extrinsic ring neuron ExR8	0	4
-FBbt_00049615	salt-sensing neuron	0	16
-FBbt_00052046	adult interneuron	0	5
-FBbt_00052750	adult VNC ventral unpaired median neuron	0	5
-FBbt_00051097	adult LUL130 neuron of ventral nerve cord	0	6
-FBbt_00048517	wind sensitive wedge projection neuron	0	10
-FBbt_00047512	descending neuron of the anterior dorsal brain	0	10
-FBbt_00047513	descending neuron of the anterior ventral brain	0	6
-FBbt_00047515	descending neuron of the outside anterior cluster	0	2
-FBbt_00047516	descending neuron of the gnathal ganglion	0	13
-FBbt_00047354	adult doublesex aDN neuron	0	2
-FBbt_00047199	larval Ladder-a neuron	0	1
-FBbt_00047946	gustatory projection neuron	0	1
-FBbt_00048516	wedge projection neuron	0	31
-FBbt_00001448	pCC neuron	0	2
-FBbt_00051062	adult tubercle-tubercle neuron	0	8
-FBbt_00047047	adult tubercle-bulb neuron	0	78
-FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
-FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
-FBbt_00049661	adult lateral horn centrifugal neuron	0	12
-FBbt_00047222	adult hygrosensory neuron Ir68a	0	26
-FBbt_00047517	descending neuron of the posterior brain	0	48
-FBbt_00047646	descending neuron of the posterior brain DNp13	0	5
-FBbt_00048057	sensory neuron of campaniform sensillum	0	1
-FBbt_00051967	neck muscle motor neuron of VNC	0	30
-FBbt_00047949	larval thermosensory projection neuron	0	8
-FBbt_00047947	larval gustatory projection neuron	0	9
-FBbt_00048883	NB5-3 lineage primary neuron	0	2
-FBbt_00111232	larval A23g neuron	0	2
-FBbt_00100719	BLD2 lineage neuron	0	1
-FBbt_00111057	adult intrinsic protocerebral bridge 18 glomeruli-2 glomeruli neuron	0	27
-FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	0	20
-FBbt_00003636	adult fan-shaped body delta neuron	0	159
-FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
-FBbt_00049536	adult fan-shaped body layer 9 tangential neuron	0	33
-FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
-FBbt_00007540	adult fan-shaped body layer 1 tangential neuron	0	28
-FBbt_00007542	adult fan-shaped body layer 3 tangential neuron	0	9
-FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	8
-FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	46
-FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	85
-FBbt_00007541	adult fan-shaped body layer 2 tangential neuron	0	84
-FBbt_00007544	adult fan-shaped body layer 5 tangential neuron	0	113
-FBbt_00003657	fan-shaped body tangential neuron	0	574
+FBbt_00049780	adult multiglomerular antennal lobe projection neuron of SEZ	0	2
+FBbt_00047720	transverse antennal lobe tract 4 projection neuron 1	0	3
+FBbt_00049779	adult multiglomerular antennal lobe projection neuron lvPN	0	37
+FBbt_00049778	adult multiglomerular antennal lobe projection neuron lPN	0	10
 FBbt_00003655	adult ellipsoid body extrinsic ring neuron ExR1	0	4
+FBbt_00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	0	20
 FBbt_00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	0	22
-FBbt_00003907	lobula plate tangential neuron	0	2
 FBbt_00003646	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron	0	42
+FBbt_00100719	BLD2 lineage neuron	0	1
 FBbt_00003686	Kenyon cell	0	185
 FBbt_00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	0	18
+FBbt_00110107	adult insulin secreting cell of pars intercerebralis	0	18
 FBbt_00003635	adult protocerebral bridge 1 glomerulus-fan-shaped body-lateral accessory lobe neuron	0	50
 FBbt_00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	0	14
 FBbt_00111424	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body type a neuron	0	29
 FBbt_00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	0	46
 FBbt_00111404	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 posterior domain neuron	0	270
 FBbt_00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	0	58
+FBbt_00003745	lamina tangential neuron	0	6
+FBbt_00003746	lamina intrinsic neuron Lai	0	405
+FBbt_00003768	distal medullary amacrine neuron Dm1	0	5
+FBbt_00003730	T3 neuron	0	61
+FBbt_00003785	medulla intrinsic neuron Mi10	0	5
 FBbt_00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	0	20
-FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	44
+FBbt_00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	0	365
 FBbt_00005106	neuron	0	58205
 FBbt_00007683	neuroblast lineage clone	0	188
-FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
-FBbt_00047097	primary neuron	0	3029
-FBbt_00100247	gamma Kenyon cell	0	1057
-FBbt_00007392	projection neuron	0	13
-FBbt_00047953	mushroom body output neuron	0	26
-FBbt_00005927	gustatory receptor neuron	0	131
-FBbt_00005923	hygrosensory neuron	0	9
-FBbt_00005918	thermosensory neuron	0	4
-FBbt_00047096	secondary neuron	0	10446
-FBbt_00003879	lobula complex columnar neuron	0	372
-FBbt_00003870	lobula columnar neuron	0	31
-FBbt_00003859	lobula tangential neuron	0	12
-FBbt_00111640	medulla columnar neuron	0	122
-FBbt_00007390	adult antennal lobe local neuron	0	108
-FBbt_00007386	adult olfactory receptor neuron	0	125
-FBbt_00067123	adult antennal lobe projection neuron	0	2
-FBbt_00110415	adult fruitless aDT-a neuron	0	6
-FBbt_00007437	adult antennal lobe projection neuron vPN	0	7
-FBbt_00049540	Notch OFF hemilineage neuron	0	7154
-FBbt_00049780	adult multiglomerular antennal lobe projection neuron of SEZ	0	2
-FBbt_00047720	transverse antennal lobe tract 4 projection neuron 1	0	3
-FBbt_00049779	adult multiglomerular antennal lobe projection neuron lvPN	0	37
-FBbt_00049778	adult multiglomerular antennal lobe projection neuron lPN	0	10
-FBbt_00049910	adult multiglomerular antennal lobe projection neuron l2PN	0	4
+FBbt_00007544	adult fan-shaped body layer 5 tangential neuron	0	108
+FBbt_00007541	adult fan-shaped body layer 2 tangential neuron	0	84
+FBbt_00007536	adult fan-shaped body layer 6 tangential neuron	0	85
+FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
 FBbt_00047724	lateral antennal lobe tract projection neuron 4	0	4
 FBbt_00007430	DN1p neuron	0	7
+FBbt_00007432	adult LP neuron	0	6
+FBbt_00007433	adult Pdf negative s-LNv neuron	0	2
+FBbt_00110469	adult fruitless aSP-k (female) neuron	0	1
 FBbt_00110461	adult fruitless aSP-g (female) neuron	0	7
 FBbt_00110443	adult fruitless aIP-g (female) neuron	0	11
 FBbt_00007384	multiglomerular antennal lobe projection neuron	0	412
 FBbt_00100656	BAmas2 lineage neuron	0	5
 FBbt_00049539	Notch ON hemilineage neuron	0	6695
-FBbt_00007383	uniglomerular antennal lobe projection neuron	0	397
-FBbt_00051231	adult ellipsoid body extrinsic ring neuron ExR7	0	4
+FBbt_00049540	Notch OFF hemilineage neuron	0	7154
+FBbt_00049534	adult fan-shaped body layer 7 tangential neuron	0	46
+FBbt_00047097	primary neuron	0	3029
+FBbt_00003630	DN2 neuron	0	3
+FBbt_00007523	adult fan-shaped body horizontal delta neuron	0	190
+FBbt_00003636	adult fan-shaped body delta neuron	0	159
+FBbt_00003654	adult ellipsoid body extrinsic ring neuron	0	14
+FBbt_00049536	adult fan-shaped body layer 9 tangential neuron	0	33
+FBbt_00049535	adult fan-shaped body layer 8 tangential neuron	0	52
+FBbt_00007540	adult fan-shaped body layer 1 tangential neuron	0	28
+FBbt_00007542	adult fan-shaped body layer 3 tangential neuron	0	9
+FBbt_00007543	adult fan-shaped body layer 4 tangential neuron	0	132
+FBbt_00111289	lobula plate intrinsic neuron LPi3-4	0	3
+FBbt_00111287	transmedullary Y neuron TmY13	0	377
+FBbt_00111286	transmedullary Y neuron TmY14	0	1
+FBbt_00048129	vertical system twin neuron 1	0	4
+FBbt_20011379	adult central medulla intrinsic neuron Cm3	0	311
+FBbt_00053468	lobula plate intrinsic neuron LPi3a	0	86
+FBbt_00052144	medulla tangential intrinsic neuron 2	0	20
+FBbt_20011490	adult medulla intrinsic neuron Mi16	0	143
+FBbt_20011385	adult central medulla intrinsic neuron Cm7	0	158
+FBbt_20011363	adult central medulla intrinsic neuron Cm10	0	78
+FBbt_20011374	adult central medulla intrinsic neuron Cm25	0	5
+FBbt_00053515	transmedullary neuron Tm33	0	238
+FBbt_20011491	adult medulla intrinsic neuron Mi17	0	152
+FBbt_00049916	transmedullary neuron Tm29	0	336
+FBbt_20011411	adult lobula intrinsic neuron Li27	0	83
+FBbt_20011410	adult lobula intrinsic neuron Li22	0	167
+FBbt_20011362	adult central medulla intrinsic neuron Cm1	0	389
+FBbt_20011365	adult central medulla intrinsic neuron Cm16	0	36
+FBbt_00053403	distal medullary amacrine neuron Dm3c	0	640
+FBbt_20011382	adult central medulla intrinsic neuron Cm4	0	174
+FBbt_20011369	adult central medulla intrinsic neuron Cm2	0	282
+FBbt_00052750	adult VNC ventral unpaired median neuron	0	5
+FBbt_00051097	adult LUL130 neuron of ventral nerve cord	0	6
+FBbt_00052640	adult CA-LP neuron	0	6
+FBbt_00047054	adult olfactory receptor neuron Ir75d	0	2
+FBbt_00048517	wind sensitive wedge projection neuron	0	10
+FBbt_00048246	transmedullary Y neuron TmY15	0	32
+FBbt_00053516	transmedullary neuron Tm34	0	168
+FBbt_20011386	adult central medulla intrinsic neuron Cm9	0	116
+FBbt_00052862	Y neuron Y12	0	205
+FBbt_00053508	adult medulla-tubercle neuron 1	0	244
+FBbt_00049484	distal medullary amacrine neuron Dm-DRA2	0	24
+FBbt_20011404	adult lobula intrinsic neuron Li11b	0	4
+FBbt_20011381	adult central medulla intrinsic neuron Cm34	0	9
+FBbt_00053464	lobula plate intrinsic neuron LPi1-4	0	38
+FBbt_00053512	transmedullary neuron Tm30	0	107
+FBbt_00052861	Y neuron Y11	0	131
+FBbt_20011419	adult lobula intrinsic neuron Li38	0	2
+FBbt_00053504	adult medulla-lobula neuron MeLo4	0	59
+FBbt_00051218	medulla columnar neuron MC64	0	282
+FBbt_20011387	adult lobula columnar neuron LC28	0	98
+FBbt_00053514	transmedullary neuron Tm32	0	118
+FBbt_20011496	adult transmedullary Y neuron TmY17	0	317
+FBbt_20005420	adult medulla visual projection neuron MeVP3	0	55
+FBbt_00053471	lobula plate intrinsic neuron LPi4a	0	34
+FBbt_00053422	adult lobula plate tangential neuron LPT23	0	6
+FBbt_20011380	adult central medulla intrinsic neuron Cm31b	0	2
+FBbt_20011383	adult central medulla intrinsic neuron Cm5	0	166
+FBbt_20011460	adult lobula tangential neuron LT63	0	4
+FBbt_00053467	lobula plate intrinsic neuron LPi2e	0	76
+FBbt_00053505	adult medulla-lobula neuron MeLo5	0	24
+FBbt_20011384	adult central medulla intrinsic neuron Cm6	0	158
+FBbt_00052143	medulla tangential intrinsic neuron 1	0	185
+FBbt_00048130	vertical system twin neuron 2	0	8
+FBbt_00047512	descending neuron of the anterior dorsal brain	0	10
+FBbt_00111230	larval Basin-4 neuron	0	4
+FBbt_00047513	descending neuron of the anterior ventral brain	0	6
+FBbt_00047517	descending neuron of the posterior brain	0	89
+FBbt_00048999	adult Drosulfakinin neuron	0	6
+FBbt_00047646	descending neuron of the posterior brain DNp13	0	7
+FBbt_00048057	sensory neuron of campaniform sensillum	0	1
+FBbt_00047949	larval thermosensory projection neuron	0	8
+FBbt_00047947	larval gustatory projection neuron	0	9
+FBbt_00048883	NB5-3 lineage primary neuron	0	2
+FBbt_00001448	pCC neuron	0	2
+FBbt_00110501	adult fruitless pMP-b (female) neuron	0	1
+FBbt_00007577	optic lobe intrinsic neuron	0	2
+FBbt_00110568	adult neurosecretory cell of pars lateralis	0	14
+FBbt_00049820	fan-shaped body columnar neuron	0	679
+FBbt_00100214	adult dopaminergic PAM neuron	0	5
+FBbt_00100250	alpha'/beta' anterior-posterior Kenyon cell	0	218
+FBbt_00100249	alpha'/beta' Kenyon cell	0	335
+FBbt_00100227	mushroom body extrinsic neuron	0	18
+FBbt_00005131	dopaminergic neuron	0	12
+FBbt_00049838	alpha/beta surface/core Kenyon cell	0	6
+FBbt_00100248	alpha/beta Kenyon cell	0	1313
+FBbt_00100021	zone E Johnston organ neuron	0	2
+FBbt_00111228	larval Basin-3 neuron	0	4
+FBbt_00111229	larval Basin-2 neuron	0	4
+FBbt_00111227	larval Basin-1 neuron	0	4
+FBbt_00047222	adult hygrosensory neuron Ir68a	0	26
+FBbt_00049661	adult lateral horn centrifugal neuron	0	12
+FBbt_00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	0	18
+FBbt_00111751	lobula columnar neuron LC16	0	1
+FBbt_00047515	descending neuron of the outside anterior cluster	0	2
+FBbt_00047516	descending neuron of the gnathal ganglion	0	13
+FBbt_00047354	adult doublesex aDN neuron	0	2
+FBbt_00047359	adult doublesex pC2l (female) neuron	0	1
+FBbt_00047843	adult ipc-1 neuron	0	8
+FBbt_00047127	adult Dh44 neuron of pars intercerebralis	0	6
+FBbt_00047187	CRY negative LNd neuron	0	6
+FBbt_00047189	ITP and CRY expressing LNd neuron	0	2
+FBbt_00111747	lobula columnar neuron LC10a	0	3
+FBbt_00111760	lobula columnar neuron LC25	0	2
+FBbt_00059242	anterior-projecting DN3 neuron	0	12
+FBbt_00049140	adult superior lateral protocerebrum-asymmetrical body neuron	0	25
+FBbt_00059241	small central-projecting DN3 neuron	0	157
+FBbt_00052342	adult contralateral lobula LC14 neuron	0	53
+FBbt_00052304	distal medullary amacrine neuron Dm3b	0	901
+FBbt_00052303	distal medullary amacrine neuron Dm3a	0	1005
+FBbt_00047199	larval Ladder-a neuron	0	1
+FBbt_00047946	gustatory projection neuron	0	1
+FBbt_00047349	adult doublesex pC1 (female) neuron	0	9
+FBbt_00048516	wedge projection neuron	0	31
+FBbt_00051062	adult tubercle-tubercle neuron	0	8
+FBbt_00047047	adult tubercle-bulb neuron	0	78
+FBbt_20011493	adult visual centrifugal neuron OLVC2	0	2
