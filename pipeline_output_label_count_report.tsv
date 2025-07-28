@@ -60,8 +60,8 @@ node	Mechanosensory_system	7876
 node	Metal_ion_binding	188
 node	Motor_neuron	2942
 node	Muscle	1947
-node	NBLAST	231615
-node	NBLASTexp	43626
+node	NBLAST	266520
+node	NBLASTexp	45130
 node	Nervous_system	398718
 node	Neuroblast	518
 node	Neuromere	79
@@ -434,8 +434,8 @@ relationship	has_sequence_attribute	10
 relationship	has_sequence_feature	3
 relationship	has_sequence_unit	3
 relationship	has_sex_agnostic_part	1
-relationship	has_similar_morphology_to	7016927
-relationship	has_similar_morphology_to_part_of	895589
+relationship	has_similar_morphology_to	7921022
+relationship	has_similar_morphology_to_part_of	916843
 relationship	has_soma_location	204524
 relationship	has_source	389025
 relationship	has_specified_input	1

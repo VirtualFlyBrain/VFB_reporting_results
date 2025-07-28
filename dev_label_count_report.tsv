@@ -60,8 +60,8 @@ node	Mechanosensory_system	7876
 node	Metal_ion_binding	188
 node	Motor_neuron	2942
 node	Muscle	1947
-node	NBLAST	231615
-node	NBLASTexp	43626
+node	NBLAST	266520
+node	NBLASTexp	45130
 node	Nervous_system	398718
 node	Neuroblast	518
 node	Neuromere	79
@@ -360,8 +360,6 @@ node	pub	4629
 node	scRNAseq_DataSet	23
 node	secondary_neuron	82894
 relationship	INSTANCEOF	1429333
-relationship	RO_0002120	110
-relationship	RO_0002292	310
 relationship	SUBCLASSOF	180242
 relationship	achieves_planned_objective	1
 relationship	adjacent_to	13
@@ -401,7 +399,7 @@ relationship	enables	11285
 relationship	existence_ends_during	4071
 relationship	existence_overlaps	115067
 relationship	existence_starts_during	4071
-relationship	expresses	7000980
+relationship	expresses	7001290
 relationship	fasciculates_with	6375
 relationship	guided_by	1
 relationship	happens_during	1
@@ -436,8 +434,8 @@ relationship	has_sequence_attribute	10
 relationship	has_sequence_feature	3
 relationship	has_sequence_unit	3
 relationship	has_sex_agnostic_part	1
-relationship	has_similar_morphology_to	7016927
-relationship	has_similar_morphology_to_part_of	895589
+relationship	has_similar_morphology_to	7921022
+relationship	has_similar_morphology_to_part_of	916843
 relationship	has_soma_location	204524
 relationship	has_source	389025
 relationship	has_specified_input	1
@@ -498,7 +496,7 @@ relationship	sends_synaptic_output_to_region	25010
 relationship	sequence_role	3
 relationship	substage_of	196
 relationship	surrounded_by	2
-relationship	synapsed_to	10563164
+relationship	synapsed_to	10563274
 relationship	synapsed_via_type_III_bouton_to	14
 relationship	synapsed_via_type_II_bouton_to	17
 relationship	synapsed_via_type_Ib_bouton_to	216
