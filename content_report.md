@@ -1,21 +1,21 @@
 
-VFB Content Report 2025-08-08
+VFB Content Report 2025-08-09
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 08 Aug 2025 01:13:53``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 09 Aug 2025 01:10:31``
 
 ***``Ontology Content``***
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|28647|1926|
-|All Nervous System Parts|21745|1415|
-|All Neurons|18220|1126|
-|Characterised Neurons|6800|1123|
-|Provisional Neurons|11420|27|
-|All Nervous System Regions|1434|255|
-|Synaptic Neuropils|625|143|
+|All Terms|28647|1936|
+|All Nervous System Parts|21745|1422|
+|All Neurons|18220|1134|
+|Characterised Neurons|6800|1131|
+|Provisional Neurons|11420|28|
+|All Nervous System Regions|1434|258|
+|Synaptic Neuropils|625|145|
 |Neuron Projection Bundles|599|129|
 |Cell Body Rinds|132|8|
 |Sense Organs|859|165|
@@ -36,16 +36,16 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 08 Aug 2
 
 ***``Annotations``***
 
-**93541** annotations recording **3240** types of anatomical structure that **12774** specific driver lines are expressed in.
-**85582** annotations recording **2405** parts of the nervous system that **11590** specific driver lines are expressed in.
-**10508** annotations recording **1631** types of neuron that **2922** specific driver lines are expressed in.
+**93475** annotations recording **3253** types of anatomical structure that **12777** specific driver lines are expressed in.
+**85542** annotations recording **2418** parts of the nervous system that **11593** specific driver lines are expressed in.
+**10481** annotations recording **1644** types of neuron that **2942** specific driver lines are expressed in.
 **4514** annotations recording **620** types of neuron that **1162** specific split combinations are expressed in.
 
 ***``Connectivity``***
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|107393|Any neuron (individuals)|107393|10561999|
+|Any neuron (individuals)|107393|Any neuron (individuals)|107393|10561884|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|1661|Muscle (classes)|233|2144|
 |Any neuron (classes)|775|Sense organ (classes)|435|536|
