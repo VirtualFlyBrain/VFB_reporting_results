@@ -75,6 +75,12 @@ jobs:
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
           python ./individual_classification_report.py
+          
+      - name: Run EM instance-FBbt conflict report
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
+          cd VFB_reporting/src
+          python ./Instance_FBbt_conflict_report.py
 
       - name: Create curation files
         run: |
