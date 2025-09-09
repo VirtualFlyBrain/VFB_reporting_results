@@ -1,0 +1,162 @@
+FBbt_id	FBbt_label	new_labels	count	existing_labels
+FBbt:00001546	lineage NB2-5 primary motor neuron	lineage_15	2	lineage_17|primary_neuron
+FBbt:00004066	wing basalar muscle b1 motor neuron	lineage_16	2	
+FBbt:00004067	wing axillary muscle III3 motor neuron	lineage_3	2	
+FBbt:00004068	wing basalar muscle b2 motor neuron	lineage_16	2	
+FBbt:00004069	wing axillary muscle III1 motor neuron	lineage_3	2	
+FBbt:00004070	wing axillary muscle I1 motor neuron	lineage_16	2	
+FBbt:00004071	dorsal tp motor neuron	lineage_16	2	
+FBbt:00004072	ventral tp motor neuron	lineage_16	2	
+FBbt:00004079	indirect flight muscle motor neuron DLMN5	lineage_18	2	
+FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALv2	20	
+FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALl1	31	
+FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALv1	3	
+FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALv1	3	
+FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALv2	28	
+FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALl1	3	
+FBbt:00007406	mesothoracic tergotrochanter muscle motor neuron	lineage_8	2	
+FBbt:00007406	mesothoracic tergotrochanter muscle motor neuron	lineage_17	2	
+FBbt:00007408	peripherally synapsing interneuron	lineage_18	2	
+FBbt:00047246	wing axillary muscle hg1 motor neuron	lineage_16	2	
+FBbt:00047248	ps1 motor neuron	lineage_6	2	
+FBbt:00048100	adult doublesex TN1A (male) neuron	lineage_12	26	
+FBbt:00048101	adult doublesex TN1B (male) neuron	lineage_12	11	
+FBbt:00048102	adult doublesex TN1C (male) neuron	lineage_12	13	
+FBbt:00048103	adult doublesex TN1D (male) neuron	lineage_12	6	
+FBbt:00048104	adult doublesex TN1E (male) neuron	lineage_12	6	
+FBbt:00048109	wing axillary muscle I2 motor neuron	lineage_16	2	
+FBbt:00048110	tpn motor neuron	lineage_16	2	
+FBbt:00048111	wing axillary muscle hg2 motor neuron	lineage_16	2	
+FBbt:00048112	DLM motor neuron	lineage_3	8	
+FBbt:00048266	adult dopaminergic neuron of gnathal ganglion	lineage_BAmas1	1	
+FBbt:00048869	NB2-3 lineage primary neuron	lineage_17	2	lineage_15|primary_neuron
+FBbt:00048902	lineage 17 secondary neuron	lineage_15	4	lineage_17|secondary_neuron
+FBbt:00049090	larval mushroom body feedforward neuron 21	primary_neuron	2	
+FBbt:00049571	metathoracic leg muscle motor neuron	secondary_neuron	2	
+FBbt:00049571	metathoracic leg muscle motor neuron	primary_neuron	8	
+FBbt:00049597	giant fiber coupled neuron 1	lineage_18	3	
+FBbt:00049598	giant fiber coupled neuron 2	lineage_18	11	
+FBbt:00049599	giant fiber coupled neuron 3	lineage_11	12	
+FBbt:00049600	giant fiber coupled neuron 4	lineage_11	9	
+FBbt:00049655	adult antennal lobe projection neuron VC5 lvPN	lineage_ALad1	1	lineage_ALlv1|lineage_BAlp4
+FBbt:00051089	adult LBL40 neuron of ventral nerve cord	lineage_7	2	
+FBbt:00051127	adult prothoracic LUL130 neuron	lineage_8	2	
+FBbt:00051145	adult mesothoracic LUL130 neuron	lineage_8	2	
+FBbt:00051162	adult metathoracic LUL130 neuron	lineage_8	2	
+FBbt:00051504	larval nociceptive projection neuron	primary_neuron	4	
+FBbt:00051504	larval nociceptive projection neuron	lineage_DALv1	1	
+FBbt:00051504	larval nociceptive projection neuron	lineage_10	2	
+FBbt:00051504	larval nociceptive projection neuron	lineage_8	2	
+FBbt:00051504	larval nociceptive projection neuron	lineage_DPMpl3	2	
+FBbt:00051504	larval nociceptive projection neuron	lineage_BLVp1	4	
+FBbt:00051967	neck muscle motor neuron of VNC	primary_neuron	2	
+FBbt:00051967	neck muscle motor neuron of VNC	secondary_neuron	2	
+FBbt:00051967	neck muscle motor neuron of VNC	lineage_16	20	
+FBbt:00052012	adult octopaminergic neuron of abdominal ganglion	primary_neuron	2	
+FBbt:00052346	adult octopaminergic and glutamatergic neuron	primary_neuron	3	
+FBbt:00052359	adult metathoracic histaminergic neuron	primary_neuron	2	
+FBbt:00052599	prothoracic tibial pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00052600	prothoracic femoral pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00052608	larval mechanosensory projection neuron	lineage_16	2	
+FBbt:00052614	larval external gustatory projection neuron	lineage_ALl1	4	
+FBbt:00052614	larval external gustatory projection neuron	lineage_BLVp1	2	
+FBbt:00052614	larval external gustatory projection neuron	lineage_BAmd1	4	
+FBbt:00052614	larval external gustatory projection neuron	lineage_BLAvm	2	
+FBbt:00052614	larval external gustatory projection neuron	primary_neuron	2	
+FBbt:00052618	larval pharyngeal gustatory projection neuron	lineage_BLAvm	2	
+FBbt:00052618	larval pharyngeal gustatory projection neuron	lineage_ALl1	6	
+FBbt:00052619	larval chordotonal projection neuron	lineage_BLVp1	2	
+FBbt:00052619	larval chordotonal projection neuron	lineage_DALv1	2	
+FBbt:00052619	larval chordotonal projection neuron	lineage_5	2	
+FBbt:00052619	larval chordotonal projection neuron	lineage_AOTUv2	2	
+FBbt:00052619	larval chordotonal projection neuron	lineage_8	4	
+FBbt:00052622	larval warm cell thermosensory projection neuron	primary_neuron	2	
+FBbt:00052725	wing basalar muscle b3 motor neuron	lineage_16	2	
+FBbt:00052727	wing axillary muscle hg3 motor neuron	lineage_16	2	
+FBbt:00052728	wing axillary muscle hg4 motor neuron	lineage_3	2	
+FBbt:00052729	ps2 motor neuron	lineage_8	2	
+FBbt:00052731	haltere axillary muscle I1	lineage_8	2	
+FBbt:00052747	haltere axillary muscle III2 motor neuron	lineage_16	2	
+FBbt:00052750	adult VNC ventral unpaired median neuron	lineage_0	15	
+FBbt:00052751	adult mesothoracic ventral unpaired median neuron	lineage_0	4	
+FBbt:00052752	adult mesothoracic VUM neuron 1	lineage_0	1	
+FBbt:00052753	adult mesothoracic VUM neuron 2	lineage_0	3	
+FBbt:00052755	adult mesothoracic VUM neuron 4	lineage_0	1	
+FBbt:00052772	dorsal ventral indirect flight muscle motor neuron 1	lineage_16	6	
+FBbt:00052773	dorsal ventral indirect flight muscle motor neuron 2	lineage_3	4	
+FBbt:00052774	dorsal ventral indirect flight muscle motor neuron 3	lineage_3	4	
+FBbt:00053044	adult fruitless dMS9 neuron	lineage_19	2	
+FBbt:00053045	adult fruitless vMS11 neuron	lineage_8	15	
+FBbt:00053046	adult fruitless vMS12 neuron	lineage_12	28	
+FBbt:00053049	adult fruitless dMS10 neuron	lineage_19	2	
+FBbt:00053050	adult fruitless vMS13 neuron	lineage_6	2	
+FBbt:00053053	adult fruitless vPR13 neuron	lineage_8	17	
+FBbt:00053058	satellite tergotrochanter muscle motor neuron	primary_neuron	2	
+FBbt:00053060	pretarsal depressor muscle motor neuron	lineage_15	23	
+FBbt:00053079	contralaterally projecting haltere interneuron	lineage_8	18	
+FBbt:00053080	wing contralaterally projecting haltere interneuron	lineage_3	14	
+FBbt:00053081	neck contralaterally projecting haltere interneuron	lineage_8	6	
+FBbt:00053083	wing projection neuron 1	primary_neuron	2	
+FBbt:00053100	motor neuron of adult dorsal prothoracic nerve	lineage_8	2	
+FBbt:00053100	motor neuron of adult dorsal prothoracic nerve	secondary_neuron	2	
+FBbt:00053101	prothoracic sternal anterior rotator muscle motor neuron	primary_neuron	4	
+FBbt:00053102	prothoracic sternal adductor muscle motor neuron	secondary_neuron	2	
+FBbt:00053103	prothoracic sternal posterior rotator muscle motor neuron	primary_neuron	4	
+FBbt:00053107	prothoracic tergotrochanter extensor muscle motor neuron	lineage_17	2	lineage_15|secondary_neuron
+FBbt:00053108	prothoracic sternotrochanter extensor muscle motor neuron	lineage_17	2	lineage_15|secondary_neuron
+FBbt:00053117	prothoracic femoral reductor muscle motor neuron	secondary_neuron	10	
+FBbt:00053118	mesothoracic femoral reductor muscle motor neuron	secondary_neuron	6	
+FBbt:00053119	metathoracic femoral reductor muscle motor neuron	secondary_neuron	4	
+FBbt:00053121	prothoracic tibial levator muscle motor neuron	primary_neuron	4	
+FBbt:00053122	mesothoracic tibial levator muscle motor neuron	primary_neuron	4	
+FBbt:00053123	metathoracic tibial levator muscle motor neuron	primary_neuron	4	
+FBbt:00053130	prothoracic tibial depressor motor neuron	lineage_15	30	
+FBbt:00053131	mesothoracic tibial depressor motor neuron	lineage_15	23	
+FBbt:00053132	metathoracic tibial depressor motor neuron	lineage_15	21	
+FBbt:00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00053146	metathoracic tibial pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00053148	metathoracic femoral pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00053155	metathoracic sternotrochanter extensor muscle motor neuron	lineage_17	4	
+FBbt:00053156	metathoracic tergotrochanter extensor muscle motor neuron	lineage_17	2	
+FBbt:00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
+FBbt:00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	primary_neuron	2	
+FBbt:00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
+FBbt:00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	primary_neuron	2	
+FBbt:00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
+FBbt:00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	primary_neuron	2	
+FBbt:00053160	prothoracic intracoxal trochanter levator muscle motor neuron	secondary_neuron	16	
+FBbt:00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	secondary_neuron	14	
+FBbt:00053162	metathoracic intracoxal trochanter levator muscle motor neuron	secondary_neuron	12	
+FBbt:00053235	adult prothoracic ventral unpaired median neuron	lineage_0	2	
+FBbt:00053236	adult metathoracic ventral unpaired median neuron	lineage_0	3	
+FBbt:00053280	secondary motor neuron	lineage_15	68	secondary_neuron
+FBbt:00058941	haltere basalar muscle	lineage_16	4	
+FBbt:00059260	haltere dorsal ventral muscle motor neuron	lineage_8	2	
+FBbt:00100387	adult antennal lobe projection neuron VC3 adPN	lineage_ALlv1	1	lineage_ALad1|lineage_BAmv3
+FBbt:00110852	adult fruitless vAB3 (male) neuron	lineage_9	10	
+FBbt:00110856	adult fruitless dPR1 neuron	lineage_8	2	
+FBbt:00110860	adult fruitless vPR6 (male) neuron	secondary_neuron	7	lineage_12
+FBbt:00111095	adult fruitless dMS2 neuron	lineage_17	21	
+FBbt:00111101	adult fruitless dMS5 neuron	lineage_19	2	
+FBbt:00111141	adult fruitless vPR7 neuron	lineage_5	26	
+FBbt:00111145	adult fruitless vPR9 neuron	lineage_0	9	
+FBbt:00111517	adult pheromone projection neuron 1	lineage_5	8	
+FBbt:20007801	adult AN06B023 neuron	primary_neuron	2	lineage_6
+FBbt:20007872	adult AN08B018 neuron	primary_neuron	4	lineage_8
+FBbt:20007882	adult AN08B034 neuron	primary_neuron	2	lineage_8
+FBbt:20008482	adult IN00A007 neuron	primary_neuron	1	lineage_0|lineage_MNB
+FBbt:20008484	adult IN00A009 neuron	primary_neuron	2	lineage_0|lineage_MNB
+FBbt:20008494	adult IN00A020 neuron	secondary_neuron	4	lineage_0|lineage_MNB
+FBbt:20008494	adult IN00A020 neuron	primary_neuron	1	lineage_0|lineage_MNB
+FBbt:20009237	adult IN06B013 neuron	primary_neuron	2	lineage_6
+FBbt:20009241	adult IN06B017 neuron	primary_neuron	2	lineage_6
+FBbt:20009241	adult IN06B017 neuron	secondary_neuron	6	lineage_6
+FBbt:20009304	adult IN07B012 neuron	primary_neuron	2	lineage_7
+FBbt:20009648	adult IN11B004 neuron	primary_neuron	2	lineage_11
+FBbt:20009648	adult IN11B004 neuron	secondary_neuron	8	lineage_11
+FBbt:20009803	adult IN13A014 neuron	primary_neuron	6	lineage_13
+FBbt:20009803	adult IN13A014 neuron	secondary_neuron	2	lineage_13
+FBbt:20010916	adult INXXX204 neuron	secondary_neuron	2	
+FBbt:20010916	adult INXXX204 neuron	primary_neuron	2	
+FBbt:20011254	adult SNpp42 neuron	secondary_neuron	1	
