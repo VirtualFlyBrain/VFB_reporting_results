@@ -1,5 +1,5 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Bates2025	staging	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	19947	25	0	5139	0
+Bates2025	staging	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	33846	93	0	5820	0
 Court2020	pdb	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	22	0
 Court2020	staging	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	20	0
 Dorkenwald2023	pdb	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	139242	0	7494	0
