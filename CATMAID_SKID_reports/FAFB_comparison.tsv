@@ -1,2 +1,27 @@
-Paper_ID	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_CATMAID	neuron_only
-0		0	0	0	0	0
+Paper_ID	CATMAID_name	VFB_name	CATMAID_SKIDs	VFB_SKIDS	CATMAID_not_VFB	VFB_not_CATMAID	neuron_only
+11490509	Paper: Zheng et al 2018	Zheng2018	145	148	0	3	2
+12823574	Paper: Felsenberg et al 2018	Felsenberg2018	3	3	0	0	0
+13040382	Paper: Dolan and Belliart-Guérin et al. 2018	Dolan2018	10	10	0	0	0
+13500459	Paper: Sayin et al 2019	Sayin2019	3	3	0	0	0
+14896682	Paper: Kim et al 2020	Kim2020	95	95	0	0	0
+15579831	Paper: Marin et al 2020	Marin2020	327	328	0	1	0
+15754279	Paper: Bates and Schlegel et al 2020	BatesSchlegel2020	584	585	0	1	0
+15754283	Paper: Dolan et al 2019	FafbDolan2019	110	117	0	7	4
+15754388	Paper: Otto et al 2020	Otto2020	807	807	0	0	556
+15981708	Paper: Coates et al 2020	Coates2020	191	191	0	0	0
+16232065	Paper: Turner-Evans et al 2020	Turner_Evans2020	49	49	0	0	0
+16337677	Paper: Wang et al 2020b	Wang2020b	1	1	0	0	0
+16337827	Paper: Wang et al 2020a	Wang2020a	12	12	0	0	0
+16830656	Paper: Wang et al 2020c	Wang2020c	24	24	0	0	0
+16830912	Paper: Morimoto et al 2020	Morimoto2020	76	76	0	0	0
+16857700	Paper: Hampel and Eichler et al 2020	HampelEichler2020	147	147	0	0	0
+17515091	Paper: Baltruschat et al 2021	Baltruschat2021	20	20	0	0	0
+17673199	Paper: Kind et al 2021	Kind2021	286	286	0	0	0
+17675931	Paper: Taisz and Galili et al 2022	TaiszGalili2022	90	90	0	0	0
+17682008	Paper: Engert et al 2022	Engert2022	144	144	0	0	0
+17684289	Paper: Shiu et al 2022	Shiu2022	25	25	0	0	1
+17684440	Paper: Zheng et al 2022	Zheng2020	1507	1507	0	0	0
+17687355	Paper: Zhao et al 2023	Zhao2023	1194	1194	0	0	0
+17697497	Paper: Gorko et al 2024	Gorko2024	2	2	0	0	0
+17697522	Paper: Dombrovski et al 2023	Dombrovski2023	59	59	0	0	0
+17697839	Paper: Erginkaya et al 2025	Erginkaya2025	91	91	0	0	26
