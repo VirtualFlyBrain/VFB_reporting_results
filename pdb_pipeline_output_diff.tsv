@@ -1,5 +1,6 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Bates2025	pipeline_output	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	33846	93	0	5820	0
+Bates2025	pipeline_output	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	80052	320	0	9082	0
+Berg2025	pipeline_output	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	0	0	0	0	0
 Court2020	pdb	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	22	0
 Court2020	pipeline_output	Adult VNC neuropils (Court2020)	CC-BY-SA_4.0	FBrf0246815	21	0	0	20	0
 Dorkenwald2023	pdb	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_1101_2023_06_27_546656	139255	139242	0	7494	0
@@ -7,4 +8,4 @@ Dorkenwald2023	pipeline_output	FlyWire connectome neurons	CC-BY-NC_4.0	doi_10_11
 Nern2024	pdb	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53402	53400	0	842	0
 Nern2024	pipeline_output	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	CC-BY_4.0	doi_10_1101_2024_04_16_589741	53402	53400	0	844	0
 Takemura2023	pdb	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23722	0	4064	0
-Takemura2023	pipeline_output	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23722	0	4066	0
+Takemura2023	pipeline_output	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23722	0	4067	0

@@ -4,9 +4,10 @@ Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	24	0	3	11	0
 Baltruschat2021	EM FAFB Baltruschat et al 2021	CC-BY-SA_4.0	FBrf0248487	20	20	19	8	0
 Barnes2022	EM L1 Barnes et al., 2022	CC-BY_4.0	FBrf0253082	51	51	0	26	0
-Bates2025	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	33846	93	0	5820	0
+Bates2025	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	80052	320	0	9082	0
 BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	CC-BY-SA_4.0	doi_10_1016_j_cub_2020_06_042	583	583	277	200	0
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	CC-BY-SA_4.0	FBrf0232785	161	150	0	82	0
+Berg2025	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	0	0	0	0	0
 BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY-SA_4.0	FBrf0224194	76	0	0	75	0
 Burgos2018	Nociceptive system neurons - EM (Burgos2017)	CC-BY-SA_4.0	FBrf0238464	95	90	0	54	0
 Cachero2010	Adult Brain fru clones (Cachero2010)	CC-BY-SA_4.0	FBrf0211926	119	0	0	84	0
@@ -134,10 +135,10 @@ SplitXie2021	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	0	0	0	
 SplitYamagata2015	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	0	0	0	0	0
 SplitZhao2023	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	0	0	0	0	0
 Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	17	0	11	9	0
-TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	FBrf0256726	90	90	15	22	0
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	doi_10_1101_2022_05_13_491877v3	90	90	15	22	0
+TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY-SA_4.0	FBrf0256726	90	90	15	22	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY-SA_4.0	FBrf0237618	38	38	0	15	0
-Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23722	0	4066	0
+Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23722	0	4067	0
 Tastekin2018	EM L1 Tastekin et al 2018	CC-BY-SA_4.0	FBrf0240828	10	9	0	5	0
 Truman2016	L3 Larval CNS Template (Truman2016)	CC-BY-SA_4.0		1	0	0	1	0
 TrumanWood2018	Truman Larval Flip-Out Collection	CC-BY-SA_4.0	FBrf0225812	12238	0	0	2	0
