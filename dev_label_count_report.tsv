@@ -14,7 +14,7 @@ node	Channel	461375
 node	Chaperone	94
 node	Chemosensory_system	12215
 node	Cholinergic	172693
-node	Class	132304
+node	Class	132315
 node	Clone	364
 node	Cluster	3290
 node	Connectome	8
@@ -25,9 +25,9 @@ node	DataSet	187
 node	Deprecated	23691
 node	Dopamine_receptor	4
 node	Dopaminergic	7610
-node	Entity	1184844
+node	Entity	1184801
 node	Enzyme	3743
-node	Expression_pattern	71792
+node	Expression_pattern	71803
 node	Expression_pattern_fragment	61214
 node	FAFB	5645
 node	FANC	1472
@@ -48,7 +48,7 @@ node	Histamine_receptor	2
 node	Histaminergic	14909
 node	Hormone	19
 node	Hygrosensory_system	396
-node	Individual	1051724
+node	Individual	1051670
 node	Ion_channel	401
 node	L1EM	5050
 node	Larva	23364
@@ -111,7 +111,7 @@ node	VFB	761890
 node	Visual_system	188451
 node	hasScRNAseq	13388
 node	has_image	461491
-node	has_neuron_connectivity	323761
+node	has_neuron_connectivity	324259
 node	has_region_connectivity	22587
 node	has_subClass	8834
 node	lineage_0	714
@@ -359,8 +359,8 @@ node	primary_neuron	16455
 node	pub	4800
 node	scRNAseq_DataSet	24
 node	secondary_neuron	112345
-relationship	INSTANCEOF	1663628
-relationship	SUBCLASSOF	180970
+relationship	INSTANCEOF	1663574
+relationship	SUBCLASSOF	180981
 relationship	achieves_planned_objective	11
 relationship	adjacent_to	15
 relationship	association_has_object	1
@@ -402,9 +402,9 @@ relationship	enables	11381
 relationship	end	1
 relationship	ends	1
 relationship	existence_ends_during	4109
-relationship	existence_overlaps	115453
+relationship	existence_overlaps	115460
 relationship	existence_starts_during	4109
-relationship	expresses	7060195
+relationship	expresses	7060206
 relationship	fasciculates_with	6381
 relationship	guided_by	1
 relationship	happens_during	1
@@ -487,8 +487,8 @@ relationship	non_functional_homolog_of	4
 relationship	obsolete_formed_as_result_of	7
 relationship	occurs_in	50
 relationship	output_of	3
-relationship	overlaps	556808
-relationship	part_of	774202
+relationship	overlaps	556872
+relationship	part_of	774526
 relationship	partially_surrounded_by	1
 relationship	participates_in	1
 relationship	positively_regulates	431
@@ -507,7 +507,7 @@ relationship	sends_synaptic_output_to_region	22718
 relationship	sequence_role	3
 relationship	substage_of	196
 relationship	surrounded_by	4
-relationship	synapsed_to	20048263
+relationship	synapsed_to	20049777
 relationship	synapsed_via_type_III_bouton_to	14
 relationship	synapsed_via_type_II_bouton_to	17
 relationship	synapsed_via_type_Ib_bouton_to	217
