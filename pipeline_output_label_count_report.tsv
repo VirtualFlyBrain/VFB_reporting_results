@@ -442,7 +442,7 @@ relationship	has_sequence_attribute	10
 relationship	has_sequence_feature	3
 relationship	has_sequence_unit	3
 relationship	has_sex_agnostic_part	1
-relationship	has_similar_morphology_to	7925050
+relationship	has_similar_morphology_to	7924849
 relationship	has_similar_morphology_to_part_of	664699
 relationship	has_soma_location	284303
 relationship	has_source	469385
