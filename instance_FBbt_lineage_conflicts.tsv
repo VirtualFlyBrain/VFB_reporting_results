@@ -1,108 +1,432 @@
 FBbt_id	FBbt_label	new_labels	count	existing_labels
 FBbt:00001546	lineage NB2-5 primary motor neuron	lineage_15	2	lineage_17|primary_neuron
-FBbt:00004066	wing basalar muscle b1 motor neuron	lineage_16	2	
+FBbt:00003657	fan-shaped body tangential neuron	lineage_BAmv1	12	
+FBbt:00003740	T5d neuron	lineage_DPLl3	1	secondary_neuron
+FBbt:00003860	lobula tangential neuron LT1	lineage_BLAv2	9	
+FBbt:00003876	lobula columnar neuron LC6	lineage_VPNd3	217	
+FBbt:00004045	LNd neuron	lineage_BLAl1	13	
+FBbt:00004066	wing basalar muscle b1 motor neuron	lineage_16	3	
 FBbt:00004067	wing axillary muscle III3 motor neuron	lineage_3	2	
 FBbt:00004068	wing basalar muscle b2 motor neuron	lineage_16	2	
 FBbt:00004069	wing axillary muscle III1 motor neuron	lineage_3	2	
 FBbt:00004070	wing axillary muscle I1 motor neuron	lineage_16	2	
-FBbt:00004071	dorsal tp motor neuron	lineage_16	2	
-FBbt:00004072	ventral tp motor neuron	lineage_16	2	
+FBbt:00004071	dorsal tp motor neuron	lineage_16	4	
+FBbt:00004072	ventral tp motor neuron	lineage_16	4	
 FBbt:00004079	indirect flight muscle motor neuron DLMN5	lineage_18	2	
-FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALv2	20	
-FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALl1	31	
-FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALv1	3	
-FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALv1	3	
-FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALv2	28	
-FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALl1	3	
-FBbt:00007406	mesothoracic tergotrochanter muscle motor neuron	lineage_8	2	
+FBbt:00007393	adult local interneuron of the ventral ALv2 neuroblast	lineage_ALv1	30	lineage_ALv2|lineage_BAla2
+FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALv2	2	
+FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALv1	1	
+FBbt:00007402	GABAergic local interneuron of the adult antennal lobe	lineage_ALl1	66	
+FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALv1	1	
+FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALl1	82	
+FBbt:00007403	cholinergic local interneuron of the adult antennal lobe	lineage_ALv2	4	
 FBbt:00007406	mesothoracic tergotrochanter muscle motor neuron	lineage_17	2	
-FBbt:00007408	peripherally synapsing interneuron	lineage_18	2	
+FBbt:00007406	mesothoracic tergotrochanter muscle motor neuron	lineage_8	2	
+FBbt:00007408	peripherally synapsing interneuron	lineage_18	4	
+FBbt:00007432	adult LP neuron	lineage_CP1	6	
+FBbt:00007541	adult fan-shaped body layer 2 tangential neuron	lineage_CREa2	9	
+FBbt:00007541	adult fan-shaped body layer 2 tangential neuron	lineage_BAmd1	7	
+FBbt:00007542	adult fan-shaped body layer 3 tangential neuron	lineage_DALv2	17	
+FBbt:00007542	adult fan-shaped body layer 3 tangential neuron	lineage_BAmv1	40	
+FBbt:00007542	adult fan-shaped body layer 3 tangential neuron	lineage_AOTUv4	23	
+FBbt:00007542	adult fan-shaped body layer 3 tangential neuron	lineage_CM3	15	
+FBbt:00007543	adult fan-shaped body layer 4 tangential neuron	lineage_CM3	30	
+FBbt:00007543	adult fan-shaped body layer 4 tangential neuron	lineage_BAmv1	51	
+FBbt:00007543	adult fan-shaped body layer 4 tangential neuron	lineage_DALv2	14	
+FBbt:00007543	adult fan-shaped body layer 4 tangential neuron	lineage_AOTUv4	27	
+FBbt:00016687	fruitless expressing neuron	lineage_BLD3	2	
+FBbt:00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	lineage_DM2	26	secondary_neuron
+FBbt:00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	lineage_DM3	26	secondary_neuron
+FBbt:00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	lineage_CM4	34	secondary_neuron
+FBbt:00047030	adult ellipsoid body-protocerebral bridge 1 glomerulus-dorsal/ventral gall neuron	lineage_DM1	17	secondary_neuron
+FBbt:00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	lineage_DM3	8	
+FBbt:00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	lineage_DM1	8	
+FBbt:00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	lineage_DM2	7	
+FBbt:00047031	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-gall neuron	lineage_CM4	11	
+FBbt:00047187	CRY negative LNd neuron	lineage_BLAl1	6	
 FBbt:00047246	wing axillary muscle hg1 motor neuron	lineage_16	2	
 FBbt:00047248	ps1 motor neuron	lineage_6	2	
+FBbt:00047319	adult serotonergic SE neuron	primary_neuron	9	
+FBbt:00047319	adult serotonergic SE neuron	lineage_TRdm	4	
+FBbt:00047359	adult doublesex pC2l (female) neuron	lineage_CP3	1	
+FBbt:00047572	descending neuron of the anterior dorsal brain DNa01	lineage_DALd	2	
+FBbt:00047573	descending neuron of the anterior dorsal brain DNa02	lineage_DALd	2	
+FBbt:00047574	descending neuron of the anterior dorsal brain DNa03	lineage_DALd	3	
+FBbt:00047575	descending neuron of the anterior dorsal brain DNa04	lineage_DALd	4	
+FBbt:00047576	descending neuron of the anterior dorsal brain DNa05	lineage_DALd	8	
+FBbt:00047577	descending neuron of the anterior dorsal brain DNa06	lineage_DALd	4	
+FBbt:00047578	descending neuron of the anterior dorsal brain DNa07	lineage_DALd	4	
+FBbt:00047579	descending neuron of the anterior dorsal brain DNa08	lineage_DALd	4	
+FBbt:00047580	descending neuron of the anterior dorsal brain DNa09	lineage_DALd	3	
+FBbt:00047581	descending neuron of the anterior dorsal brain DNa10	lineage_DALd	2	
+FBbt:00047635	descending neuron of the posterior brain DNp02	lineage_CP1	2	
+FBbt:00047637	descending neuron of the posterior brain DNp04	lineage_CP1	3	
+FBbt:00047639	descending neuron of the posterior brain DNp06	lineage_CP1	2	
+FBbt:00047641	descending neuron of the posterior brain DNp08	lineage_DPMl1	4	
+FBbt:00047642	descending neuron of the posterior brain DNp09	lineage_CP1	8	
+FBbt:00047649	descending neuron of the posterior brain DNp16	lineage_CM5	10	
+FBbt:00047650	descending neuron of the posterior brain DNp17	lineage_CM5	26	
+FBbt:00047656	descending neuron of the posterior brain DNp23	lineage_CP1	6	
+FBbt:00047658	descending neuron of the posterior brain DNp25	lineage_DM2	4	
+FBbt:00047668	descending neuron of the posterior brain DNp35	lineage_CP1	2	
 FBbt:00048100	adult doublesex TN1A (male) neuron	lineage_12	26	
-FBbt:00048101	adult doublesex TN1B (male) neuron	lineage_12	11	
+FBbt:00048101	adult doublesex TN1B (male) neuron	lineage_12	15	
 FBbt:00048102	adult doublesex TN1C (male) neuron	lineage_12	13	
 FBbt:00048103	adult doublesex TN1D (male) neuron	lineage_12	6	
 FBbt:00048104	adult doublesex TN1E (male) neuron	lineage_12	6	
 FBbt:00048109	wing axillary muscle I2 motor neuron	lineage_16	2	
-FBbt:00048110	tpn motor neuron	lineage_16	2	
-FBbt:00048111	wing axillary muscle hg2 motor neuron	lineage_16	2	
-FBbt:00048112	DLM motor neuron	lineage_3	8	
-FBbt:00048266	adult dopaminergic neuron of gnathal ganglion	lineage_BAmas1	1	
+FBbt:00048110	tpn motor neuron	lineage_16	4	
+FBbt:00048111	wing axillary muscle hg2 motor neuron	lineage_16	4	
+FBbt:00048112	DLM motor neuron	lineage_3	10	
+FBbt:00048266	adult dopaminergic neuron of gnathal ganglion	lineage_BAmas1	3	
+FBbt:00048296	sensory neuron of haltere campaniform sensillum	lineage_18	4	
+FBbt:00048296	sensory neuron of haltere campaniform sensillum	lineage_19	1	
+FBbt:00048296	sensory neuron of haltere campaniform sensillum	lineage_0	1	
+FBbt:00048465	adult dopaminergic mesothoracic neuron	secondary_neuron	1	
+FBbt:00048516	wedge projection neuron	lineage_DALd	4	
 FBbt:00048869	NB2-3 lineage primary neuron	lineage_17	2	lineage_15|primary_neuron
-FBbt:00048902	lineage 17 secondary neuron	lineage_15	4	lineage_17|secondary_neuron
+FBbt:00048902	lineage 17 secondary neuron	lineage_15	8	lineage_17|secondary_neuron
 FBbt:00049090	larval mushroom body feedforward neuron 21	primary_neuron	2	
+FBbt:00049180	adult ellipsoid body-dorsal gall surround neuron	lineage_DM3	6	
+FBbt:00049180	adult ellipsoid body-dorsal gall surround neuron	lineage_DM2	6	
+FBbt:00049180	adult ellipsoid body-dorsal gall surround neuron	lineage_DM1	5	
+FBbt:00049180	adult ellipsoid body-dorsal gall surround neuron	lineage_CM4	7	
+FBbt:00049286	adult lateral horn output neuron	lineage_BLP4	1	
+FBbt:00049286	adult lateral horn output neuron	lineage_DPLp1	1	
+FBbt:00049286	adult lateral horn output neuron	lineage_BLD4	1	
+FBbt:00049319	adult lateral horn AD1a2 neuron	lineage_DPLal3	28	
+FBbt:00049320	adult lateral horn AD1a3 neuron	lineage_DPLal3	9	
+FBbt:00049321	adult lateral horn AD1a4 neuron	lineage_DPLal3	14	
+FBbt:00049323	adult lateral horn AD1b2 neuron	lineage_DPLal2	52	secondary_neuron
+FBbt:00049327	adult lateral horn AD2a1 neuron	lineage_DPLl3	11	
+FBbt:00049330	adult fruitless aSP-g1 (female) neuron	lineage_DPLal3	11	
+FBbt:00049344	adult lateral horn AV3a1 neuron	lineage_BLVa2	5	
+FBbt:00049345	adult lateral horn AV4a1 neuron	lineage_BLD4	13	secondary_neuron
+FBbt:00049348	adult lateral horn AV4a4 neuron	lineage_BLD3	21	lineage_BLD4|lineage_LHl1|secondary_neuron
+FBbt:00049356	adult lateral horn AV4c1 neuron	lineage_BLD3	8	lineage_BLD4|lineage_LHl1|secondary_neuron
+FBbt:00049372	adult lateral horn PD2c1 neuron	lineage_DPLl2	4	
+FBbt:00049373	adult lateral horn PD2d1 neuron	lineage_DPLl2	3	
+FBbt:00049377	adult lateral horn PD4d1 neuron	lineage_DPLm1	4	
+FBbt:00049382	adult lateral horn PV2d1 neuron	lineage_BLP1	8	
+FBbt:00049397	adult lateral horn PV4b2 neuron	lineage_DPLp2	16	
+FBbt:00049410	adult lateral horn PV5b1 neuron	lineage_CP2	19	lineage_CP3|lineage_DL2
+FBbt:00049411	adult lateral horn PV5b2 neuron	lineage_CP2	20	lineage_CP3|lineage_DL2|secondary_neuron
+FBbt:00049412	adult lateral horn PV5b3 neuron	lineage_CP2	26	lineage_CP3|lineage_DL2|secondary_neuron
+FBbt:00049413	adult lateral horn PV5c1 neuron	lineage_CP2	34	
+FBbt:00049415	adult lateral horn PV5c3 neuron	lineage_CP2	14	lineage_CP3|lineage_DL2|secondary_neuron
+FBbt:00049451	adult mAL-PN lateral horn input neuron	lineage_BAmd1	149	
+FBbt:00049466	adult CREa1 lineage neuron	lineage_CREa2	27	lineage_BAmd1|lineage_CREa1
+FBbt:00049466	adult CREa1 lineage neuron	secondary_neuron	196	lineage_BAmd1|lineage_CREa1
 FBbt:00049571	metathoracic leg muscle motor neuron	secondary_neuron	2	
 FBbt:00049571	metathoracic leg muscle motor neuron	primary_neuron	8	
-FBbt:00049597	giant fiber coupled neuron 1	lineage_18	3	
-FBbt:00049598	giant fiber coupled neuron 2	lineage_18	11	
-FBbt:00049599	giant fiber coupled neuron 3	lineage_11	12	
-FBbt:00049600	giant fiber coupled neuron 4	lineage_11	9	
+FBbt:00049597	giant fiber coupled neuron 1	lineage_18	7	
+FBbt:00049598	giant fiber coupled neuron 2	lineage_18	25	
+FBbt:00049599	giant fiber coupled neuron 3	lineage_11	27	
+FBbt:00049600	giant fiber coupled neuron 4	lineage_11	22	
 FBbt:00049655	adult antennal lobe projection neuron VC5 lvPN	lineage_ALad1	1	lineage_ALlv1|lineage_BAlp4
-FBbt:00051089	adult LBL40 neuron of ventral nerve cord	lineage_7	2	
+FBbt:00049663	adult wedge projection neuron 7	lineage_BAlp2	12	
+FBbt:00049672	adult lateral horn AV3c1 neuron	lineage_BLVa2	3	lineage_BLVa2c|lineage_SLPpl3|secondary_neuron
+FBbt:00049673	adult lateral horn AV3d1 neuron	lineage_BLVa2b	4	lineage_BLVa2c|lineage_SLPpl3|secondary_neuron
+FBbt:00049676	adult lateral horn AV3g1 neuron	lineage_BLVa2	6	lineage_BLVa2c|lineage_SLPpl3|secondary_neuron
+FBbt:00049680	adult lateral horn AV4e7 neuron	lineage_BLD3	11	lineage_BLD4|lineage_LHl1|secondary_neuron
+FBbt:00049682	adult lateral horn AV4i1 neuron	lineage_BLD3	6	lineage_BLD4|lineage_LHl1|secondary_neuron
+FBbt:00049712	adult lateral horn PV6k2 neuron	lineage_CP6	5	lineage_BLP3|secondary_neuron
+FBbt:00049713	adult lateral horn PV6o1 neuron	lineage_CP6	3	lineage_BLP1|secondary_neuron
+FBbt:00049787	gamma-s1 Kenyon cell	lineage_MBp4	4	lineage_MBp
+FBbt:00049788	gamma-s2 Kenyon cell	lineage_MBp4	3	lineage_MBp
+FBbt:00049792	adult lateral horn PV6r1 neuron	lineage_DPLp1	12	
+FBbt:00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	lineage_DM1	6	
+FBbt:00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	lineage_CM4	7	
+FBbt:00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	lineage_DM3	12	
+FBbt:00049803	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 1	lineage_DM2	12	
+FBbt:00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	lineage_DM1	10	
+FBbt:00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	lineage_DM2	12	
+FBbt:00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	lineage_CM4	13	
+FBbt:00049804	adult protocerebral bridge 1 glomerulus-ellipsoid body tile-nodulus 1 neuron 2	lineage_DM3	11	
+FBbt:00049819	adult central complex neuron	lineage_DM3	3	
+FBbt:00049819	adult central complex neuron	lineage_DM1	6	
+FBbt:00049819	adult central complex neuron	lineage_DM2	7	
+FBbt:00049819	adult central complex neuron	lineage_CM4	5	
+FBbt:00049820	fan-shaped body columnar neuron	lineage_DM2	46	
+FBbt:00049820	fan-shaped body columnar neuron	lineage_CM4	68	
+FBbt:00049820	fan-shaped body columnar neuron	lineage_DM1	23	
+FBbt:00049820	fan-shaped body columnar neuron	lineage_DM3	43	
+FBbt:00049821	adult fan-shaped body vertical delta neuron	lineage_DM3	199	
+FBbt:00049821	adult fan-shaped body vertical delta neuron	lineage_DM1	147	
+FBbt:00049821	adult fan-shaped body vertical delta neuron	lineage_DM2	207	
+FBbt:00049821	adult fan-shaped body vertical delta neuron	lineage_CM4	143	
+FBbt:00049822	fan-shaped body extrinsic columnar neuron	lineage_DM1	42	
+FBbt:00049822	fan-shaped body extrinsic columnar neuron	lineage_CM4	134	
+FBbt:00049822	fan-shaped body extrinsic columnar neuron	lineage_DM3	74	
+FBbt:00049822	fan-shaped body extrinsic columnar neuron	lineage_DM2	69	
+FBbt:00049831	gamma-s3 Kenyon cell	lineage_MBp1	1	lineage_MBp
+FBbt:00049836	alpha'/beta' anterior-posterior type 1 Kenyon cell	lineage_MBp1	100	lineage_MBp
+FBbt:00049836	alpha'/beta' anterior-posterior type 1 Kenyon cell	lineage_MBp3	129	lineage_MBp
+FBbt:00049836	alpha'/beta' anterior-posterior type 1 Kenyon cell	lineage_MBp2	135	lineage_MBp
+FBbt:00049836	alpha'/beta' anterior-posterior type 1 Kenyon cell	lineage_MBp4	153	lineage_MBp
+FBbt:00049837	alpha'/beta' anterior-posterior type 2 Kenyon cell	lineage_MBp3	83	lineage_MBp
+FBbt:00049837	alpha'/beta' anterior-posterior type 2 Kenyon cell	lineage_MBp2	96	lineage_MBp
+FBbt:00049837	alpha'/beta' anterior-posterior type 2 Kenyon cell	lineage_MBp4	105	lineage_MBp
+FBbt:00049837	alpha'/beta' anterior-posterior type 2 Kenyon cell	lineage_MBp1	102	lineage_MBp
+FBbt:00049841	dopaminergic PAM neuron 15	lineage_CREa2	1	secondary_neuron
+FBbt:00049845	mushroom body output neuron 25	lineage_DAMd1	12	
+FBbt:00049848	mushroom body output neuron 28	lineage_CP2	3	
+FBbt:00049861	lobula tangential neuron LT51	lineage_BLAl2	40	
+FBbt:00049895	DALcm1 Notch ON hemilineage neuron	secondary_neuron	203	lineage_CREa2|lineage_DALcm1
+FBbt:00049899	BAmd1 Notch ON hemilineage neuron	secondary_neuron	196	lineage_BAmd1|lineage_CREa1
+FBbt:00049899	BAmd1 Notch ON hemilineage neuron	lineage_CREa2	27	lineage_BAmd1|lineage_CREa1
+FBbt:00049915	adult TwoLumps ascending neuron	lineage_17	4	
+FBbt:00049942	descending neuron of the posterior brain DNp13 (female)	lineage_CM5	2	
+FBbt:00049947	vaginal plate opening excitatory neuron	lineage_BLVp2	6	
+FBbt:00050020	adult DM1 lineage neuron	secondary_neuron	17	lineage_DM1|lineage_DPMm1
+FBbt:00050034	adult LHl2 lineage neuron	secondary_neuron	52	lineage_DPLal2|lineage_LHl2
+FBbt:00050049	adult LHl1 lineage neuron	secondary_neuron	13	lineage_BLD4|lineage_LHl1
+FBbt:00050070	adult SLPpl2 lineage neuron	lineage_BLP3	5	lineage_CP6|lineage_SLPpl2
+FBbt:00050070	adult SLPpl2 lineage neuron	lineage_BLP1	3	lineage_CP6|lineage_SLPpl2
+FBbt:00050085	adult DL2 lineage neuron	lineage_CP2	3	lineage_CP3|lineage_DL2
+FBbt:00050102	adult DM3 lineage neuron	secondary_neuron	26	lineage_DM3|lineage_DPMpm2
+FBbt:00050123	adult DM2 lineage neuron	secondary_neuron	26	lineage_DM2|lineage_DPMpm1
+FBbt:00050126	adult SLPad1 lineage neuron	secondary_neuron	1	lineage_DPLl3|lineage_SLPad1
+FBbt:00050186	adult DL1 lineage neuron	lineage_CP3	101	lineage_CP2|lineage_DL1
+FBbt:00050251	adult VPNp1 lineage neuron	secondary_neuron	104	lineage_BLD5|lineage_VPNp1
+FBbt:00050254	adult DM4 lineage neuron	secondary_neuron	43	lineage_CM4|lineage_DM4
+FBbt:00050257	adult LHl3 lineage neuron	lineage_BLVa2c	4	lineage_BLVa2b|lineage_LHl3
+FBbt:00050260	adult VLPl4 lineage neuron	lineage_BLD4	49	lineage_BLD3|lineage_VLPl4
+FBbt:00050269	adult SLPal2 lineage neuron	lineage_DPLal2	6	lineage_DPLal3|lineage_SLPal2
+FBbt:00050275	adult CREa2 lineage neuron	secondary_neuron	203	lineage_CREa2|lineage_DALcm1
+FBbt:00050281	adult LHa3 lineage neuron	lineage_BLVa2c	9	lineage_BLVa2|lineage_LHa3
+FBbt:00051056	adult lateral horn AD1c3 neuron	lineage_DPLal3	6	lineage_DPLal2|lineage_LHl2|secondary_neuron
+FBbt:00051061	adult lateral horn PV5e1 neuron	lineage_CP3	3	lineage_CP2|lineage_DL1
+FBbt:00051089	adult LBL40 neuron of ventral nerve cord	lineage_7	4	
+FBbt:00051097	adult LUL130 neuron of ventral nerve cord	lineage_8	6	
 FBbt:00051127	adult prothoracic LUL130 neuron	lineage_8	2	
 FBbt:00051145	adult mesothoracic LUL130 neuron	lineage_8	2	
 FBbt:00051162	adult metathoracic LUL130 neuron	lineage_8	2	
+FBbt:00051202	descending neuron of the anterior dorsal brain DNa12 (female)	lineage_DALd	4	
+FBbt:00051233	adult protocerebral bridge 1-9 neuron	lineage_CM6	4	
+FBbt:00051235	adult fan-shaped body 1 column-rubus neuron 1	lineage_DM3	7	
+FBbt:00051235	adult fan-shaped body 1 column-rubus neuron 1	lineage_DM1	9	
+FBbt:00051235	adult fan-shaped body 1 column-rubus neuron 1	lineage_DM2	5	
+FBbt:00051235	adult fan-shaped body 1 column-rubus neuron 1	lineage_CM4	15	
+FBbt:00051236	adult fan-shaped body 1 column-rubus neuron 2	lineage_CM4	8	
+FBbt:00051236	adult fan-shaped body 1 column-rubus neuron 2	lineage_DM2	9	
+FBbt:00051236	adult fan-shaped body 1 column-rubus neuron 2	lineage_DM1	10	
+FBbt:00051236	adult fan-shaped body 1 column-rubus neuron 2	lineage_DM3	4	
+FBbt:00051237	adult fan-shaped body 1 column-superior medial protocerebrum neuron	lineage_DM1	16	
+FBbt:00051237	adult fan-shaped body 1 column-superior medial protocerebrum neuron	lineage_CM4	71	
+FBbt:00051237	adult fan-shaped body 1 column-superior medial protocerebrum neuron	lineage_DM2	27	
+FBbt:00051237	adult fan-shaped body 1 column-superior medial protocerebrum neuron	lineage_DM3	39	
+FBbt:00051238	adult fan-shaped body 1 column-crepine neuron	lineage_DM1	45	
+FBbt:00051238	adult fan-shaped body 1 column-crepine neuron	lineage_CM4	112	
+FBbt:00051238	adult fan-shaped body 1 column-crepine neuron	lineage_DM3	66	
+FBbt:00051238	adult fan-shaped body 1 column-crepine neuron	lineage_DM2	68	
+FBbt:00051246	adult mediodorsal antennal lobe neuron D1	lineage_BAmd1	2	
+FBbt:00051247	lobula columnar neuron LC33	lineage_BLAvm	52	
+FBbt:00051255	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body neuron	lineage_DM2	22	
+FBbt:00051255	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body neuron	lineage_CM4	14	
+FBbt:00051255	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body neuron	lineage_DM3	7	
+FBbt:00051255	adult protocerebral bridge 1 glomerulus-fan-shaped body-round body neuron	lineage_DM1	17	
+FBbt:00051504	larval nociceptive projection neuron	lineage_10	2	
+FBbt:00051504	larval nociceptive projection neuron	lineage_BLVp1	4	
+FBbt:00051504	larval nociceptive projection neuron	lineage_DPMpl3	2	
 FBbt:00051504	larval nociceptive projection neuron	primary_neuron	4	
 FBbt:00051504	larval nociceptive projection neuron	lineage_DALv1	1	
-FBbt:00051504	larval nociceptive projection neuron	lineage_10	2	
 FBbt:00051504	larval nociceptive projection neuron	lineage_8	2	
-FBbt:00051504	larval nociceptive projection neuron	lineage_DPMpl3	2	
-FBbt:00051504	larval nociceptive projection neuron	lineage_BLVp1	4	
-FBbt:00051967	neck muscle motor neuron of VNC	primary_neuron	2	
-FBbt:00051967	neck muscle motor neuron of VNC	secondary_neuron	2	
+FBbt:00051506	adult lateral horn centrifugal neuron 12	lineage_DPLm1	11	
+FBbt:00051507	adult lateral horn centrifugal neuron 13	lineage_BLD1	16	
+FBbt:00051513	adult lateral horn PV5b4 neuron	lineage_CP2	5	lineage_CP3|lineage_DL2|secondary_neuron
+FBbt:00051514	adult lateral horn PV5b5 neuron	lineage_CP2	4	lineage_CP3|lineage_DL2|secondary_neuron
+FBbt:00051515	adult lateral horn PV5b6 neuron	lineage_CP2	13	lineage_CP3|lineage_DL2|secondary_neuron
+FBbt:00051551	adult lateral horn AV4i2 neuron	lineage_BLD3	3	lineage_BLD4|lineage_LHl1|secondary_neuron
+FBbt:00051555	adult fruitless aSP-g2 (female) neuron	lineage_DPLal3	13	
+FBbt:00051601	adult lateral horn AV1d1 neuron	lineage_BLAv1	5	
+FBbt:00051602	adult lateral horn AV1d2 neuron	lineage_BLAv1	12	
+FBbt:00051605	adult wedge projection neuron 10A	lineage_BAmd2	4	
+FBbt:00051606	adult wedge projection neuron 10B	lineage_BAmd2	3	
+FBbt:00051608	adult wedge projection neuron 12	lineage_DPLp2	3	
+FBbt:00051611	adult lateral horn AD2c1 neuron	lineage_DPLam	5	
+FBbt:00051612	adult lateral horn AD2c2 neuron	lineage_DPLam	8	
+FBbt:00051613	adult lateral horn AD2c3 neuron	lineage_DPLam	12	
+FBbt:00051632	adult lateral horn AD3g1 neuron	lineage_DPLl2	8	
+FBbt:00051635	adult lateral horn AV2b10 neuron	lineage_BLAv2	9	
+FBbt:00051636	adult lateral horn AV2b11 neuron	lineage_BLAv2	3	
+FBbt:00051640	adult lateral horn AV2b6 neuron	lineage_BLAv2	4	
+FBbt:00051641	adult lateral horn AV2b7 neuron	lineage_BLAv2	20	
+FBbt:00051643	adult lateral horn AV2b9 neuron	lineage_BLAv2	2	
+FBbt:00051650	adult lateral horn AV2f2 neuron	lineage_BLVa2a	9	
+FBbt:00051654	adult lateral horn AV2g1 neuron	lineage_BLAv2	6	
+FBbt:00051655	adult lateral horn AV2g2 neuron	lineage_BLAv2	12	
+FBbt:00051656	adult lateral horn AV2g3 neuron	lineage_BLAv2	8	
+FBbt:00051658	adult lateral horn AV2g5 neuron	lineage_BLAv2	3	
+FBbt:00051668	adult lateral horn AV2k10 neuron	lineage_BLVa1	3	
+FBbt:00051671	adult lateral horn AV2k13 neuron	lineage_BLVa1	2	
+FBbt:00051681	adult lateral horn AV2m1 neuron	lineage_BLVa2b	7	
+FBbt:00051690	adult lateral horn AV3b12 neuron	lineage_BLVa2	2	
+FBbt:00051703	adult lateral horn AV3e2 neuron	lineage_BLAl1	8	
+FBbt:00051708	adult lateral horn AV3g2 neuron	lineage_BLVa1	6	
+FBbt:00051709	adult lateral horn AV3h1 neuron	lineage_BLVa2	3	
+FBbt:00051713	adult lateral horn AV3k2 neuron	lineage_BLVa2b	4	
+FBbt:00051714	adult lateral horn AV3k3 neuron	lineage_BLVa2b	2	
+FBbt:00051715	adult lateral horn AV3k4 neuron	lineage_BLVa2	3	
+FBbt:00051717	adult lateral horn AV3k6 neuron	lineage_BLVa1	4	
+FBbt:00051718	adult lateral horn AV3m1 neuron	lineage_BLVa2b	4	
+FBbt:00051720	adult lateral horn AV3p1 neuron	lineage_BLVa2c	3	
+FBbt:00051722	adult lateral horn AV5a10 neuron	lineage_BLAl2	4	
+FBbt:00051743	adult lateral horn AV7a2 neuron	lineage_AOTUv2	1	
+FBbt:00051744	adult lateral horn AV7a3 neuron	lineage_AOTUv2	11	
+FBbt:00051745	adult lateral horn AV7a4 neuron	lineage_AOTUv2	11	
+FBbt:00051746	adult lateral horn AV7a5 neuron	lineage_AOTUv2	11	
+FBbt:00051747	adult lateral horn AV7a6 neuron	lineage_AOTUv2	2	
+FBbt:00051748	adult lateral horn AV7a7 neuron	lineage_AOTUv2	9	
+FBbt:00051752	adult lateral horn AV9a1 neuron	lineage_CREl1	23	
+FBbt:00051765	adult lateral horn PD4a1 neuron	lineage_DPLm1	11	
+FBbt:00051767	adult lateral horn PD4b1 neuron	lineage_DPLm1	12	
+FBbt:00051770	adult lateral horn PD5b1 neuron	lineage_DPLc3	3	
+FBbt:00051774	adult lateral horn PD5f1 neuron	lineage_DPLc5	2	
+FBbt:00051775	adult lateral horn PV10a1 neuron	lineage_CM4	8	
+FBbt:00051776	adult lateral horn PV10b1 neuron	lineage_CM4	4	
+FBbt:00051778	adult lateral horn PV11a1 neuron	lineage_DPMpl1	10	
+FBbt:00051785	adult lateral horn PV2c2 neuron	lineage_DPLpv	12	
+FBbt:00051791	adult lateral horn PV2e1 neuron	lineage_DPLpv	17	
+FBbt:00051796	adult lateral horn PV2h1 neuron	lineage_BLD1	3	
+FBbt:00051797	adult lateral horn PV2i1 neuron	lineage_BLD1	7	
+FBbt:00051798	adult lateral horn PV2i2 neuron	lineage_BLD1	10	
+FBbt:00051799	adult lateral horn PV3a1 neuron	lineage_BLD5	8	
+FBbt:00051800	adult lateral horn PV3a2 neuron	lineage_BLD5	6	
+FBbt:00051803	adult lateral horn PV6a10 neuron	lineage_DPLp1	2	
+FBbt:00051813	adult lateral horn PV6c2 neuron	lineage_DPLp1	2	
+FBbt:00051814	adult lateral horn PV6d1 neuron	lineage_DPLp1	9	
+FBbt:00051822	adult lateral horn PV6h2 neuron	lineage_DPLp1	7	
+FBbt:00051830	adult lateral horn PV6l1 neuron	lineage_CP6	4	
+FBbt:00051835	adult lateral horn PV7a1 neuron	lineage_BLVp2	8	
+FBbt:00051837	adult lateral horn PV8a1 neuron	lineage_CP2	4	
+FBbt:00051839	adult lateral horn PV8c1 neuron	lineage_CP2	4	
+FBbt:00051947	adult tophat subesophageal neuron	lineage_ALv1	4	
+FBbt:00051964	adult efferent neuron	lineage_13	1	
 FBbt:00051967	neck muscle motor neuron of VNC	lineage_16	20	
-FBbt:00052012	adult octopaminergic neuron of abdominal ganglion	primary_neuron	2	
-FBbt:00052346	adult octopaminergic and glutamatergic neuron	primary_neuron	3	
+FBbt:00051967	neck muscle motor neuron of VNC	secondary_neuron	2	
+FBbt:00051967	neck muscle motor neuron of VNC	primary_neuron	2	
+FBbt:00052012	adult octopaminergic neuron of abdominal ganglion	lineage_3	1	
+FBbt:00052012	adult octopaminergic neuron of abdominal ganglion	primary_neuron	14	
+FBbt:00052012	adult octopaminergic neuron of abdominal ganglion	secondary_neuron	4	
+FBbt:00052102	adult anterior and posterior ventrolateral protocerebrum neuron AVLP/PVLP_pr01	lineage_BAmv1	1	
+FBbt:00052147	adult medulla-medulla neuron of dorsal rim area	lineage_BLAl2	6	
+FBbt:00052181	descending neuron of the posterior brain DNp42	lineage_DPMl1	2	
+FBbt:00052185	adult fruitless aSP-g3 (female) neuron	lineage_DPLal3	5	
+FBbt:00052270	lobula plate tangential neuron V1	lineage_DM1	3	
+FBbt:00052277	adult fan-shaped body horizontal delta neuron A	lineage_DM3	12	
+FBbt:00052277	adult fan-shaped body horizontal delta neuron A	lineage_DM2	11	
+FBbt:00052277	adult fan-shaped body horizontal delta neuron A	lineage_CM4	3	
+FBbt:00052277	adult fan-shaped body horizontal delta neuron A	lineage_DM1	4	
+FBbt:00052278	adult fan-shaped body horizontal delta neuron B	lineage_DM3	14	
+FBbt:00052278	adult fan-shaped body horizontal delta neuron B	lineage_CM4	4	
+FBbt:00052278	adult fan-shaped body horizontal delta neuron B	lineage_DM2	12	
+FBbt:00052278	adult fan-shaped body horizontal delta neuron B	lineage_DM1	11	
+FBbt:00052279	adult fan-shaped body horizontal delta neuron C	lineage_CM4	8	
+FBbt:00052279	adult fan-shaped body horizontal delta neuron C	lineage_DM1	7	
+FBbt:00052279	adult fan-shaped body horizontal delta neuron C	lineage_DM2	11	
+FBbt:00052279	adult fan-shaped body horizontal delta neuron C	lineage_DM3	14	
+FBbt:00052280	adult fan-shaped body horizontal delta neuron D	lineage_DM1	4	
+FBbt:00052280	adult fan-shaped body horizontal delta neuron D	lineage_DM3	5	
+FBbt:00052280	adult fan-shaped body horizontal delta neuron D	lineage_CM4	5	
+FBbt:00052280	adult fan-shaped body horizontal delta neuron D	lineage_DM2	6	
+FBbt:00052281	adult fan-shaped body horizontal delta neuron E	lineage_CM4	3	
+FBbt:00052281	adult fan-shaped body horizontal delta neuron E	lineage_DM2	2	
+FBbt:00052281	adult fan-shaped body horizontal delta neuron E	lineage_DM3	3	
+FBbt:00052281	adult fan-shaped body horizontal delta neuron E	lineage_DM1	4	
+FBbt:00052282	adult fan-shaped body horizontal delta neuron F	lineage_DM1	3	
+FBbt:00052282	adult fan-shaped body horizontal delta neuron F	lineage_CM4	3	
+FBbt:00052282	adult fan-shaped body horizontal delta neuron F	lineage_DM2	8	
+FBbt:00052283	adult fan-shaped body horizontal delta neuron G	lineage_DM3	3	
+FBbt:00052283	adult fan-shaped body horizontal delta neuron G	lineage_DM2	4	
+FBbt:00052283	adult fan-shaped body horizontal delta neuron G	lineage_CM4	4	
+FBbt:00052283	adult fan-shaped body horizontal delta neuron G	lineage_DM1	3	
+FBbt:00052284	adult fan-shaped body horizontal delta neuron H	lineage_DM3	6	
+FBbt:00052284	adult fan-shaped body horizontal delta neuron H	lineage_CM4	3	
+FBbt:00052284	adult fan-shaped body horizontal delta neuron H	lineage_DM2	2	
+FBbt:00052284	adult fan-shaped body horizontal delta neuron H	lineage_DM1	4	
+FBbt:00052285	adult fan-shaped body horizontal delta neuron I	lineage_DM3	8	
+FBbt:00052285	adult fan-shaped body horizontal delta neuron I	lineage_DM2	9	
+FBbt:00052285	adult fan-shaped body horizontal delta neuron I	lineage_DM1	4	
+FBbt:00052285	adult fan-shaped body horizontal delta neuron I	lineage_CM4	6	
+FBbt:00052286	adult fan-shaped body horizontal delta neuron J	lineage_CM4	8	
+FBbt:00052286	adult fan-shaped body horizontal delta neuron J	lineage_DM2	19	
+FBbt:00052286	adult fan-shaped body horizontal delta neuron J	lineage_DM1	12	
+FBbt:00052286	adult fan-shaped body horizontal delta neuron J	lineage_DM3	17	
+FBbt:00052287	adult fan-shaped body horizontal delta neuron K	lineage_DM1	12	
+FBbt:00052287	adult fan-shaped body horizontal delta neuron K	lineage_DM2	18	
+FBbt:00052287	adult fan-shaped body horizontal delta neuron K	lineage_CM4	12	
+FBbt:00052287	adult fan-shaped body horizontal delta neuron K	lineage_DM3	18	
+FBbt:00052288	adult fan-shaped body horizontal delta neuron L	lineage_DM3	9	
+FBbt:00052288	adult fan-shaped body horizontal delta neuron L	lineage_DM1	5	
+FBbt:00052288	adult fan-shaped body horizontal delta neuron L	lineage_CM4	6	
+FBbt:00052288	adult fan-shaped body horizontal delta neuron L	lineage_DM2	8	
+FBbt:00052289	adult fan-shaped body horizontal delta neuron M	lineage_DM1	4	
+FBbt:00052289	adult fan-shaped body horizontal delta neuron M	lineage_DM3	3	
+FBbt:00052289	adult fan-shaped body horizontal delta neuron M	lineage_CM4	4	
+FBbt:00052289	adult fan-shaped body horizontal delta neuron M	lineage_DM2	6	
+FBbt:00052342	adult contralateral lobula LC14 neuron	lineage_BLD5	63	secondary_neuron
+FBbt:00052346	adult octopaminergic and glutamatergic neuron	secondary_neuron	2	
+FBbt:00052346	adult octopaminergic and glutamatergic neuron	primary_neuron	12	
+FBbt:00052346	adult octopaminergic and glutamatergic neuron	lineage_3	1	
+FBbt:00052358	adult mesothoracic histaminergic neuron	primary_neuron	4	
 FBbt:00052359	adult metathoracic histaminergic neuron	primary_neuron	2	
+FBbt:00052589	fast tibial depressor motor neuron	lineage_15	3	
 FBbt:00052599	prothoracic tibial pretarsal depressor muscle motor neuron	lineage_15	4	
-FBbt:00052600	prothoracic femoral pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00052600	prothoracic femoral pretarsal depressor muscle motor neuron	lineage_15	5	
 FBbt:00052608	larval mechanosensory projection neuron	lineage_16	2	
-FBbt:00052614	larval external gustatory projection neuron	lineage_ALl1	4	
 FBbt:00052614	larval external gustatory projection neuron	lineage_BLVp1	2	
-FBbt:00052614	larval external gustatory projection neuron	lineage_BAmd1	4	
-FBbt:00052614	larval external gustatory projection neuron	lineage_BLAvm	2	
 FBbt:00052614	larval external gustatory projection neuron	primary_neuron	2	
-FBbt:00052618	larval pharyngeal gustatory projection neuron	lineage_BLAvm	2	
+FBbt:00052614	larval external gustatory projection neuron	lineage_BLAvm	2	
+FBbt:00052614	larval external gustatory projection neuron	lineage_BAmd1	4	
+FBbt:00052614	larval external gustatory projection neuron	lineage_ALl1	4	
 FBbt:00052618	larval pharyngeal gustatory projection neuron	lineage_ALl1	6	
-FBbt:00052619	larval chordotonal projection neuron	lineage_BLVp1	2	
-FBbt:00052619	larval chordotonal projection neuron	lineage_DALv1	2	
+FBbt:00052618	larval pharyngeal gustatory projection neuron	lineage_BLAvm	2	
 FBbt:00052619	larval chordotonal projection neuron	lineage_5	2	
 FBbt:00052619	larval chordotonal projection neuron	lineage_AOTUv2	2	
 FBbt:00052619	larval chordotonal projection neuron	lineage_8	4	
+FBbt:00052619	larval chordotonal projection neuron	lineage_BLVp1	2	
+FBbt:00052619	larval chordotonal projection neuron	lineage_DALv1	2	
 FBbt:00052622	larval warm cell thermosensory projection neuron	primary_neuron	2	
 FBbt:00052725	wing basalar muscle b3 motor neuron	lineage_16	2	
-FBbt:00052727	wing axillary muscle hg3 motor neuron	lineage_16	2	
+FBbt:00052727	wing axillary muscle hg3 motor neuron	lineage_16	4	
 FBbt:00052728	wing axillary muscle hg4 motor neuron	lineage_3	2	
-FBbt:00052729	ps2 motor neuron	lineage_8	2	
+FBbt:00052729	ps2 motor neuron	lineage_8	4	
 FBbt:00052731	haltere axillary muscle I1	lineage_8	2	
-FBbt:00052747	haltere axillary muscle III2 motor neuron	lineage_16	2	
-FBbt:00052750	adult VNC ventral unpaired median neuron	lineage_0	15	
-FBbt:00052751	adult mesothoracic ventral unpaired median neuron	lineage_0	4	
-FBbt:00052752	adult mesothoracic VUM neuron 1	lineage_0	1	
+FBbt:00052745	haltere axillary muscle I1 motor neuron	lineage_8	2	
+FBbt:00052746	haltere axillary muscle I2 motor neuron	lineage_16	3	
+FBbt:00052747	haltere axillary muscle III2 motor neuron	lineage_16	4	
+FBbt:00052750	adult VNC ventral unpaired median neuron	lineage_0	32	
+FBbt:00052751	adult mesothoracic ventral unpaired median neuron	lineage_0	6	
+FBbt:00052752	adult mesothoracic VUM neuron 1	lineage_0	2	
 FBbt:00052753	adult mesothoracic VUM neuron 2	lineage_0	3	
 FBbt:00052755	adult mesothoracic VUM neuron 4	lineage_0	1	
-FBbt:00052772	dorsal ventral indirect flight muscle motor neuron 1	lineage_16	6	
-FBbt:00052773	dorsal ventral indirect flight muscle motor neuron 2	lineage_3	4	
-FBbt:00052774	dorsal ventral indirect flight muscle motor neuron 3	lineage_3	4	
-FBbt:00053044	adult fruitless dMS9 neuron	lineage_19	2	
-FBbt:00053045	adult fruitless vMS11 neuron	lineage_8	15	
-FBbt:00053046	adult fruitless vMS12 neuron	lineage_12	28	
-FBbt:00053049	adult fruitless dMS10 neuron	lineage_19	2	
-FBbt:00053050	adult fruitless vMS13 neuron	lineage_6	2	
-FBbt:00053053	adult fruitless vPR13 neuron	lineage_8	17	
+FBbt:00052772	dorsal ventral indirect flight muscle motor neuron 1	lineage_16	10	
+FBbt:00052773	dorsal ventral indirect flight muscle motor neuron 2	lineage_3	8	
+FBbt:00052774	dorsal ventral indirect flight muscle motor neuron 3	lineage_3	6	
+FBbt:00052808	bilateral T-shaped neuron	lineage_BAmas2	3	
+FBbt:00052818	ocellar centrifugal neuron	lineage_BAmv1	8	
+FBbt:00053044	adult fruitless dMS9 neuron	lineage_19	4	
+FBbt:00053045	adult fruitless vMS11 neuron	lineage_8	17	
+FBbt:00053046	adult fruitless vMS12 neuron	lineage_12	42	
+FBbt:00053049	adult fruitless dMS10 neuron	lineage_19	4	
+FBbt:00053050	adult fruitless vMS13 neuron	lineage_6	4	
+FBbt:00053053	adult fruitless vPR13 neuron	lineage_8	27	
 FBbt:00053058	satellite tergotrochanter muscle motor neuron	primary_neuron	2	
-FBbt:00053060	pretarsal depressor muscle motor neuron	lineage_15	23	
+FBbt:00053060	pretarsal depressor muscle motor neuron	lineage_3	1	
+FBbt:00053060	pretarsal depressor muscle motor neuron	lineage_15	34	
 FBbt:00053079	contralaterally projecting haltere interneuron	lineage_8	18	
-FBbt:00053080	wing contralaterally projecting haltere interneuron	lineage_3	14	
-FBbt:00053081	neck contralaterally projecting haltere interneuron	lineage_8	6	
+FBbt:00053080	wing contralaterally projecting haltere interneuron	lineage_8	12	
+FBbt:00053080	wing contralaterally projecting haltere interneuron	lineage_3	25	
+FBbt:00053081	neck contralaterally projecting haltere interneuron	lineage_8	19	
 FBbt:00053083	wing projection neuron 1	primary_neuron	2	
 FBbt:00053100	motor neuron of adult dorsal prothoracic nerve	lineage_8	2	
 FBbt:00053100	motor neuron of adult dorsal prothoracic nerve	secondary_neuron	2	
 FBbt:00053101	prothoracic sternal anterior rotator muscle motor neuron	primary_neuron	4	
 FBbt:00053102	prothoracic sternal adductor muscle motor neuron	secondary_neuron	2	
+FBbt:00053103	prothoracic sternal posterior rotator muscle motor neuron	lineage_3	1	
 FBbt:00053103	prothoracic sternal posterior rotator muscle motor neuron	primary_neuron	4	
-FBbt:00053107	prothoracic tergotrochanter extensor muscle motor neuron	lineage_17	2	lineage_15|secondary_neuron
+FBbt:00053107	prothoracic tergotrochanter extensor muscle motor neuron	lineage_17	6	lineage_15|secondary_neuron
 FBbt:00053108	prothoracic sternotrochanter extensor muscle motor neuron	lineage_17	2	lineage_15|secondary_neuron
 FBbt:00053117	prothoracic femoral reductor muscle motor neuron	secondary_neuron	10	
 FBbt:00053118	mesothoracic femoral reductor muscle motor neuron	secondary_neuron	6	
@@ -110,38 +434,355 @@ FBbt:00053119	metathoracic femoral reductor muscle motor neuron	secondary_neuron
 FBbt:00053121	prothoracic tibial levator muscle motor neuron	primary_neuron	4	
 FBbt:00053122	mesothoracic tibial levator muscle motor neuron	primary_neuron	4	
 FBbt:00053123	metathoracic tibial levator muscle motor neuron	primary_neuron	4	
-FBbt:00053130	prothoracic tibial depressor motor neuron	lineage_15	30	
-FBbt:00053131	mesothoracic tibial depressor motor neuron	lineage_15	23	
-FBbt:00053132	metathoracic tibial depressor motor neuron	lineage_15	21	
-FBbt:00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00053130	prothoracic tibial depressor motor neuron	lineage_15	35	
+FBbt:00053131	mesothoracic tibial depressor motor neuron	lineage_15	30	
+FBbt:00053132	metathoracic tibial depressor motor neuron	lineage_15	23	
+FBbt:00053133	prothoracic accessory tibial flexor motor neuron	lineage_15	16	
+FBbt:00053134	mesothoracic accessory tibial flexor motor neuron	lineage_15	13	
+FBbt:00053135	metathoracic accessory tibial flexor motor neuron	lineage_15	11	
+FBbt:00053143	mesothoracic tarsal depressor muscle motor neuron	lineage_15	3	
+FBbt:00053144	metathoracic tarsal depressor muscle motor neuron	lineage_15	1	
+FBbt:00053144	metathoracic tarsal depressor muscle motor neuron	lineage_16	1	
+FBbt:00053145	mesothoracic tibial pretarsal depressor muscle motor neuron	lineage_15	5	
 FBbt:00053146	metathoracic tibial pretarsal depressor muscle motor neuron	lineage_15	4	
-FBbt:00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	lineage_15	4	
+FBbt:00053147	mesothoracic femoral pretarsal depressor muscle motor neuron	lineage_15	5	
 FBbt:00053148	metathoracic femoral pretarsal depressor muscle motor neuron	lineage_15	4	
 FBbt:00053155	metathoracic sternotrochanter extensor muscle motor neuron	lineage_17	4	
 FBbt:00053156	metathoracic tergotrochanter extensor muscle motor neuron	lineage_17	2	
-FBbt:00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
+FBbt:00053156	metathoracic tergotrochanter extensor muscle motor neuron	lineage_16	1	
 FBbt:00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	primary_neuron	2	
+FBbt:00053157	prothoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
 FBbt:00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
 FBbt:00053158	mesothoracic intracoxal trochanter depressor muscle motor neuron	primary_neuron	2	
-FBbt:00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	2	
+FBbt:00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	lineage_19	3	
 FBbt:00053159	metathoracic intracoxal trochanter depressor muscle motor neuron	primary_neuron	2	
 FBbt:00053160	prothoracic intracoxal trochanter levator muscle motor neuron	secondary_neuron	16	
 FBbt:00053161	mesothoracic intracoxal trochanter levator muscle motor neuron	secondary_neuron	14	
 FBbt:00053162	metathoracic intracoxal trochanter levator muscle motor neuron	secondary_neuron	12	
-FBbt:00053235	adult prothoracic ventral unpaired median neuron	lineage_0	2	
-FBbt:00053236	adult metathoracic ventral unpaired median neuron	lineage_0	3	
+FBbt:00053177	adult dorsal prothoracic nerve neck motor neuron	lineage_16	2	
+FBbt:00053235	adult prothoracic ventral unpaired median neuron	lineage_0	3	
+FBbt:00053236	adult metathoracic ventral unpaired median neuron	lineage_0	5	
 FBbt:00053280	secondary motor neuron	lineage_15	68	secondary_neuron
-FBbt:00058941	haltere basalar muscle	lineage_16	4	
-FBbt:00059260	haltere dorsal ventral muscle motor neuron	lineage_8	2	
+FBbt:00053281	adult antennal lobe input interneuron	lineage_BLVp2	8	
+FBbt:00053387	intrinsic neuron of the central complex	lineage_DM3	2	
+FBbt:00053387	intrinsic neuron of the central complex	lineage_DM2	9	
+FBbt:00053387	intrinsic neuron of the central complex	lineage_CM4	1	
+FBbt:00053387	intrinsic neuron of the central complex	lineage_DM1	2	
+FBbt:00053417	lobula plate tangential neuron vCal2	lineage_DPLp2	2	
+FBbt:00053424	adult lobula plate tangential neuron LPT53	lineage_DPLpv	4	
+FBbt:00058084	mechanosensory neuron of prothoracic coxal hair plate CoHP8	lineage_13	1	
+FBbt:00058204	adult tyraminergic neuron	lineage_DM2	44	
+FBbt:00058204	adult tyraminergic neuron	lineage_DM1	45	
+FBbt:00058204	adult tyraminergic neuron	lineage_CM4	56	
+FBbt:00058204	adult tyraminergic neuron	lineage_DM3	37	
+FBbt:00058204	adult tyraminergic neuron	lineage_CM1	1	
+FBbt:00058204	adult tyraminergic neuron	lineage_CM3	3	
+FBbt:00058204	adult tyraminergic neuron	lineage_BLVp2	1	
+FBbt:00058204	adult tyraminergic neuron	lineage_BLAv1	1	
+FBbt:00058204	adult tyraminergic neuron	lineage_AOTUv4	1	
+FBbt:00058204	adult tyraminergic neuron	lineage_AOTUv3	1	
+FBbt:00058204	adult tyraminergic neuron	lineage_BAmv1	4	
+FBbt:00058204	adult tyraminergic neuron	lineage_DPMl1	1	
+FBbt:00058210	adult histaminergic neuron	secondary_neuron	77	
+FBbt:00058210	adult histaminergic neuron	primary_neuron	4	
+FBbt:00058941	haltere basalar muscle	lineage_16	7	
+FBbt:00059220	adult lateral horn AV3 neuron	lineage_BLAl1	4	
+FBbt:00059240	lateral accessory lobe-posterior slope contralateral ascending neuron	lineage_6	4	
+FBbt:00059241	small central-projecting DN3 neuron	lineage_DPLl1	157	
+FBbt:00059242	anterior-projecting DN3 neuron	lineage_DPLl1	20	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_TRdm	4	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPLl2	4	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DALl2	4	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPMpl1	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPLpv	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPLal1	4	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLAd2	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLAvm	36	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPLl3	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BAmd2	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPMm2	4	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BAlp2	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_CM4	7	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPLam	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DAMd1	5	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_CP2	5	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BAmv2	5	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPMpl3	2	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_CM3	8	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BAlv	2	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DPMl1	2	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DM1	15	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BAlp3	5	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DM3	6	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLAv1	3	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BAmv1	3	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLVp1	6	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_CREl1	12	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_AOTUv4	3	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_CM1	10	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLAv2	9	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLVp2	7	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DALv2	6	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLAd5	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLAl2	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DALv1	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_DM2	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLP1	1	
+FBbt:00059245	adult central brain intrinsic neuron	lineage_BLD3	1	
+FBbt:00059260	haltere dorsal ventral muscle motor neuron	lineage_8	4	
+FBbt:00059274	adult CNS neuron	lineage_6	2	
+FBbt:00059274	adult CNS neuron	lineage_0	1	
+FBbt:00059274	adult CNS neuron	lineage_19	1	
+FBbt:00059274	adult CNS neuron	lineage_16	3	
+FBbt:00059274	adult CNS neuron	lineage_BAlp2	62	
+FBbt:00059274	adult CNS neuron	lineage_CREl1	62	
+FBbt:00059274	adult CNS neuron	lineage_18	6	
+FBbt:00100216	dopaminergic PPM1 neuron	lineage_DPMm2	3	
+FBbt:00100230	dopaminergic PAM neuron 12	lineage_BAmd1	13	secondary_neuron
+FBbt:00100230	dopaminergic PAM neuron 12	lineage_CREa2	16	secondary_neuron
+FBbt:00100231	dopaminergic PAM neuron 3	lineage_CREa2	6	secondary_neuron
+FBbt:00100231	dopaminergic PAM neuron 3	lineage_BAmd1	5	secondary_neuron
+FBbt:00100248	alpha/beta Kenyon cell	lineage_MBp2	694	lineage_MBp
+FBbt:00100248	alpha/beta Kenyon cell	lineage_MBp3	592	lineage_MBp
+FBbt:00100248	alpha/beta Kenyon cell	lineage_MBp4	638	lineage_MBp
+FBbt:00100248	alpha/beta Kenyon cell	lineage_MBp1	707	lineage_MBp
+FBbt:00100253	alpha'/beta' middle Kenyon cell	lineage_MBp2	140	lineage_MBp
+FBbt:00100253	alpha'/beta' middle Kenyon cell	lineage_MBp3	103	lineage_MBp
+FBbt:00100253	alpha'/beta' middle Kenyon cell	lineage_MBp4	97	lineage_MBp
+FBbt:00100253	alpha'/beta' middle Kenyon cell	lineage_MBp1	162	lineage_MBp
 FBbt:00100387	adult antennal lobe projection neuron VC3 adPN	lineage_ALlv1	1	lineage_ALad1|lineage_BAmv3
+FBbt:00100480	lobula columnar neuron LC9	lineage_VPNd3	319	
+FBbt:00100482	lobula columnar neuron LC10	lineage_VPNd2	142	
+FBbt:00100483	lobula columnar neuron LC11	lineage_VPNp3	249	
+FBbt:00100484	lobula columnar neuron LC12	lineage_VPNv1	1	
+FBbt:00110138	glutamatergic local interneuron of the adult antennal lobe	lineage_ALv1	13	
+FBbt:00110138	glutamatergic local interneuron of the adult antennal lobe	lineage_ALv2	111	
+FBbt:00110138	glutamatergic local interneuron of the adult antennal lobe	lineage_ALl1	2	
+FBbt:00110385	adult VPNd2 lineage neuron	lineage_BLAv2	6	lineage_VPNd2
+FBbt:00110459	adult fruitless aSP-f (female) neuron	lineage_DPLl3	50	
+FBbt:00110469	adult fruitless aSP-k (female) neuron	lineage_BLD4	8	
+FBbt:00110469	adult fruitless aSP-k (female) neuron	lineage_BLD3	1	
 FBbt:00110852	adult fruitless vAB3 (male) neuron	lineage_9	10	
 FBbt:00110856	adult fruitless dPR1 neuron	lineage_8	2	
 FBbt:00110860	adult fruitless vPR6 (male) neuron	secondary_neuron	7	lineage_12
-FBbt:00111095	adult fruitless dMS2 neuron	lineage_17	21	
-FBbt:00111101	adult fruitless dMS5 neuron	lineage_19	2	
-FBbt:00111141	adult fruitless vPR7 neuron	lineage_5	26	
-FBbt:00111145	adult fruitless vPR9 neuron	lineage_0	9	
-FBbt:00111517	adult pheromone projection neuron 1	lineage_5	8	
+FBbt:00110931	alpha/beta posterior Kenyon cell	lineage_MBp2	57	lineage_MBp
+FBbt:00110931	alpha/beta posterior Kenyon cell	lineage_MBp3	47	lineage_MBp
+FBbt:00110931	alpha/beta posterior Kenyon cell	lineage_MBp4	49	lineage_MBp
+FBbt:00110931	alpha/beta posterior Kenyon cell	lineage_MBp1	51	lineage_MBp
+FBbt:00110932	gamma dorsal Kenyon cell	lineage_MBp3	103	lineage_MBp
+FBbt:00110932	gamma dorsal Kenyon cell	lineage_MBp2	92	lineage_MBp
+FBbt:00110932	gamma dorsal Kenyon cell	lineage_MBp1	88	lineage_MBp
+FBbt:00110932	gamma dorsal Kenyon cell	lineage_MBp4	144	lineage_MBp
+FBbt:00110955	adult serotonergic PMPD neuron	lineage_CM4	4	
+FBbt:00110967	adult serotonergic T2 neuron	secondary_neuron	2	
+FBbt:00110967	adult serotonergic T2 neuron	primary_neuron	1	
+FBbt:00110970	adult serotonergic T1 neuron	lineage_26	1	
+FBbt:00110970	adult serotonergic T1 neuron	primary_neuron	2	
+FBbt:00110993	dopaminergic PAM neuron 4	lineage_BAmd1	22	secondary_neuron
+FBbt:00110993	dopaminergic PAM neuron 4	lineage_CREa2	33	secondary_neuron
+FBbt:00110994	dopaminergic PAM neuron 10	lineage_CREa2	9	secondary_neuron
+FBbt:00110994	dopaminergic PAM neuron 10	lineage_BAmd1	13	secondary_neuron
+FBbt:00111008	mushroom body output neuron 10	lineage_DALv2	20	
+FBbt:00111010	mushroom body output neuron 15	lineage_CP2	13	
+FBbt:00111015	dopaminergic PAM neuron 1	lineage_BAmd1	27	lineage_CREa2|lineage_DALcm1|secondary_neuron
+FBbt:00111016	dopaminergic PAM neuron 2	lineage_CREa2	16	secondary_neuron
+FBbt:00111016	dopaminergic PAM neuron 2	lineage_BAmd1	8	secondary_neuron
+FBbt:00111017	dopaminergic PAM neuron 5	lineage_BAmd1	17	secondary_neuron
+FBbt:00111017	dopaminergic PAM neuron 5	lineage_CREa2	23	secondary_neuron
+FBbt:00111018	dopaminergic PAM neuron 6	lineage_BAmd1	32	secondary_neuron
+FBbt:00111018	dopaminergic PAM neuron 6	lineage_CREa2	22	secondary_neuron
+FBbt:00111019	dopaminergic PAM neuron 7	lineage_CREa2	9	secondary_neuron
+FBbt:00111019	dopaminergic PAM neuron 7	lineage_BAmd1	17	secondary_neuron
+FBbt:00111020	dopaminergic PAM neuron 8	lineage_CREa2	30	secondary_neuron
+FBbt:00111020	dopaminergic PAM neuron 8	lineage_BAmd1	36	secondary_neuron
+FBbt:00111021	dopaminergic PAM neuron 9	lineage_BAmd1	5	secondary_neuron
+FBbt:00111021	dopaminergic PAM neuron 9	lineage_CREa2	9	secondary_neuron
+FBbt:00111022	dopaminergic PAM neuron 11	lineage_CREa2	14	secondary_neuron
+FBbt:00111022	dopaminergic PAM neuron 11	lineage_BAmd1	10	secondary_neuron
+FBbt:00111023	dopaminergic PAM neuron 13	lineage_CREa2	7	secondary_neuron
+FBbt:00111023	dopaminergic PAM neuron 13	lineage_BAmd1	10	secondary_neuron
+FBbt:00111024	dopaminergic PAM neuron 14	lineage_CREa2	8	secondary_neuron
+FBbt:00111024	dopaminergic PAM neuron 14	lineage_BAmd1	8	secondary_neuron
+FBbt:00111061	gamma main Kenyon cell	lineage_MBp4	978	lineage_MBp
+FBbt:00111061	gamma main Kenyon cell	lineage_MBp1	923	lineage_MBp
+FBbt:00111061	gamma main Kenyon cell	lineage_MBp2	841	lineage_MBp
+FBbt:00111061	gamma main Kenyon cell	lineage_MBp3	708	lineage_MBp
+FBbt:00111095	adult fruitless dMS2 neuron	lineage_17	39	
+FBbt:00111101	adult fruitless dMS5 neuron	lineage_19	4	
+FBbt:00111141	adult fruitless vPR7 neuron	lineage_5	49	
+FBbt:00111145	adult fruitless vPR9 neuron	lineage_0	15	
+FBbt:00111146	adult fruitless aSG7 neuron	lineage_TRdm	6	
+FBbt:00111150	adult fruitless vPR6 (female) neuron	lineage_12	8	
+FBbt:00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	lineage_DM2	24	
+FBbt:00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	lineage_DM3	21	
+FBbt:00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	lineage_DM1	18	
+FBbt:00111390	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 dorsal domain neuron	lineage_CM4	14	
+FBbt:00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	lineage_CM4	22	
+FBbt:00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	lineage_DM1	17	
+FBbt:00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	lineage_DM3	26	
+FBbt:00111396	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 anterior domain neuron	lineage_DM2	29	
+FBbt:00111423	adult ellipsoid body-protocerebral bridge glomerulus 9-gall tip neuron	lineage_CM4	9	secondary_neuron
+FBbt:00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	lineage_DM1	8	
+FBbt:00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	lineage_DM2	8	
+FBbt:00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	lineage_CM4	10	
+FBbt:00111433	protocerebral bridge 1 glomerulus-fan-shaped body layer 2-lateral accessory lobe-crepine neuron	lineage_DM3	2	
+FBbt:00111443	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	lineage_DM1	17	
+FBbt:00111443	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	lineage_CM4	18	
+FBbt:00111443	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	lineage_DM2	8	
+FBbt:00111443	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-unilateral lateral accessory lobe neuron	lineage_DM3	6	
+FBbt:00111451	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	lineage_DM2	7	
+FBbt:00111451	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	lineage_DM1	8	
+FBbt:00111451	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	lineage_CM4	8	
+FBbt:00111451	adult protocerebral bridge 1 glomerulus-fan-shaped body layers 4 and 5-bilateral lateral accessory lobe neuron	lineage_DM3	1	
+FBbt:00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	lineage_CM4	7	
+FBbt:00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	lineage_DM3	23	
+FBbt:00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	lineage_DM1	9	
+FBbt:00111457	protocerebral bridge 1 glomerulus-fan-shaped body-ventral gall surround neuron	lineage_DM2	6	
+FBbt:00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	lineage_CM4	7	
+FBbt:00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	lineage_DM3	10	
+FBbt:00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	lineage_DM1	6	
+FBbt:00111512	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 2 ventral domain neuron	lineage_DM2	9	
+FBbt:00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	lineage_CM4	166	
+FBbt:00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	lineage_DM2	149	
+FBbt:00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	lineage_DM1	116	
+FBbt:00111513	protocerebral bridge 1 glomerulus-fan-shaped body-nodulus 3 medial domain neuron	lineage_DM3	177	
+FBbt:00111517	adult pheromone projection neuron 1	lineage_5	14	
+FBbt:00111745	lobula columnar neuron LC10b	lineage_VPNd2	123	
+FBbt:00111746	lobula columnar neuron LC10c	lineage_VPNd2	312	
+FBbt:00111747	lobula columnar neuron LC10a	lineage_VPNd2	400	
+FBbt:00111748	lobula columnar neuron LC10d	lineage_VPNd2	316	
+FBbt:00111749	adult contralateral medulla LC14 neuron	lineage_BLD5	41	secondary_neuron
+FBbt:00111751	lobula columnar neuron LC16	lineage_VPNv2	328	
+FBbt:00111752	lobula columnar neuron LC17	lineage_VPNv1	593	
+FBbt:00111753	lobula columnar neuron LC18	lineage_VPNp2	349	
+FBbt:00111754	lobula columnar neuron LC19	lineage_BLD5	21	
+FBbt:00111756	lobula columnar neuron LC21	lineage_VPNp3	215	
+FBbt:00111757	lobula columnar neuron LC22	lineage_BLD6	159	
+FBbt:00111762	lobula plate-lobula columnar neuron LPLC1	lineage_BLD6	239	
+FBbt:00111763	lobula plate-lobula columnar neuron LPLC2	lineage_BLD6	362	
+FBbt:00111765	lobula plate-lobula columnar neuron LPLC4	lineage_BLD6	195	
+FBbt:20000017	adult anterior optic tubercle neuron 018	lineage_AOTUv4	8	
+FBbt:20000031	adult anterior optic tubercle neuron 032	lineage_BAlp2	21	
+FBbt:20000047	adult anterior optic tubercle neuron 048	lineage_CP2	13	
+FBbt:20000054	adult anterior optic tubercle neuron 055	lineage_CP2	39	
+FBbt:20000069	adult antler neuron 005	lineage_BAmd1	7	
+FBbt:20000120	adult anterior ventrolateral protocerebrum neuron 011	lineage_BLD3	11	
+FBbt:20000146	adult anterior ventrolateral protocerebrum neuron 037	lineage_DPLam	23	
+FBbt:20000205	adult anterior ventrolateral protocerebrum neuron 096	lineage_BAlp2	17	
+FBbt:20000298	adult anterior ventrolateral protocerebrum neuron 189	lineage_BLAv2	16	
+FBbt:20000299	adult anterior ventrolateral protocerebrum neuron 190	lineage_BLAv2	28	
+FBbt:20000333	adult anterior ventrolateral protocerebrum neuron 224	lineage_BLAv1	8	
+FBbt:20000362	adult anterior ventrolateral protocerebrum neuron 253	lineage_BAlp2	6	
+FBbt:20000408	adult anterior ventrolateral protocerebrum neuron 299	lineage_DALl2	32	
+FBbt:20000409	adult anterior ventrolateral protocerebrum neuron 300	lineage_DALl2	20	
+FBbt:20000502	adult anterior ventrolateral protocerebrum neuron 393	lineage_BLD3	7	
+FBbt:20000526	adult anterior ventrolateral protocerebrum neuron 417	lineage_BLAv2	6	
+FBbt:20000529	adult anterior ventrolateral protocerebrum neuron 420	lineage_BLD3	14	
+FBbt:20000542	adult anterior ventrolateral protocerebrum neuron 433	lineage_BLAv2	7	
+FBbt:20000543	adult anterior ventrolateral protocerebrum neuron 434	lineage_BLAv2	6	
+FBbt:20000563	adult anterior ventrolateral protocerebrum neuron 454	lineage_BAmv1	40	
+FBbt:20000639	adult anterior ventrolateral protocerebrum neuron 530	lineage_CP2	8	
+FBbt:20000657	adult anterior ventrolateral protocerebrum neuron 548	lineage_BLP2	23	
+FBbt:20000660	adult anterior ventrolateral protocerebrum neuron 551	lineage_BLP2	14	
+FBbt:20000661	adult anterior ventrolateral protocerebrum neuron 552	lineage_BLP2	5	
+FBbt:20000745	adult clamp neuron 040	lineage_SMPad2	4	
+FBbt:20000767	adult clamp neuron 062	lineage_BLAv2	22	
+FBbt:20000791	adult clamp neuron 086	lineage_BLAvm	35	
+FBbt:20000794	adult clamp neuron 089	lineage_BLAvm	24	
+FBbt:20000795	adult clamp neuron 090	lineage_BLAvm	30	
+FBbt:20000826	adult clamp neuron 121	lineage_BAmv2	57	
+FBbt:20000828	adult clamp neuron 123	lineage_CREl1	27	
+FBbt:20000850	adult clamp neuron 145	lineage_CLp2	5	
+FBbt:20000871	adult clamp neuron 166	lineage_CLp1	13	
+FBbt:20000933	adult clamp neuron 228	lineage_DM1	14	
+FBbt:20000964	adult clamp neuron 259	lineage_BLVp2	8	
+FBbt:20000977	adult clamp neuron 272	lineage_CP2	18	
+FBbt:20001006	adult clamp neuron 301	lineage_DPMl1	16	
+FBbt:20001033	adult clamp neuron 328	lineage_CM1	18	
+FBbt:20001114	adult crepine neuron 045	lineage_AOTUv1	9	
+FBbt:20001129	adult crepine neuron 060	lineage_CREl1	11	
+FBbt:20001299	adult lateral accessory lobe neuron 003	lineage_AOTUv4	7	
+FBbt:20001324	adult lateral accessory lobe neuron 028	lineage_CREa2	18	
+FBbt:20001326	adult lateral accessory lobe neuron 030	lineage_CREa2	25	
+FBbt:20001392	adult lateral accessory lobe neuron 096	lineage_AOTUv3	19	
+FBbt:20001456	adult lateral accessory lobe neuron 160	lineage_CM1	7	
+FBbt:20001472	adult lateral accessory lobe neuron 176	lineage_CM1	8	
+FBbt:20001503	adult posterior lateral protocerebrum neuron 003	lineage_BLD3	3	
+FBbt:20001511	adult posterior lateral protocerebrum neuron 011	lineage_BLVa2b	8	
+FBbt:20001526	adult posterior lateral protocerebrum neuron 026	lineage_BAlp3	11	
+FBbt:20001541	adult posterior lateral protocerebrum neuron 041	lineage_BLAvm	14	
+FBbt:20001564	adult posterior lateral protocerebrum neuron 064	lineage_BLAl1	21	
+FBbt:20001584	adult posterior lateral protocerebrum neuron 084	lineage_DPLpv	11	
+FBbt:20001598	adult posterior lateral protocerebrum neuron 098	lineage_BLD1	17	
+FBbt:20001601	adult posterior lateral protocerebrum neuron 101	lineage_BLD1	10	
+FBbt:20001609	adult posterior lateral protocerebrum neuron 109	lineage_BLD1	10	
+FBbt:20001615	adult posterior lateral protocerebrum neuron 115	lineage_BLD1	44	
+FBbt:20001685	adult posterior lateral protocerebrum neuron 185	lineage_BLP1	16	
+FBbt:20001688	adult posterior lateral protocerebrum neuron 188	lineage_BLD5	27	
+FBbt:20001691	adult posterior lateral protocerebrum neuron 191	lineage_BLD5	23	
+FBbt:20001698	adult posterior lateral protocerebrum neuron 198	lineage_CP2	7	
+FBbt:20001778	adult posterior slope neuron 023	lineage_AOTUv1	10	
+FBbt:20001836	adult posterior slope neuron 081	lineage_AOTUv3	2	
+FBbt:20001837	adult posterior slope neuron 082	lineage_AOTUv3	16	
+FBbt:20002022	adult posterior slope neuron 267	lineage_CM3	34	
+FBbt:20002062	adult posterior ventrolateral protocerebrum neuron 004	lineage_DPLl2	46	
+FBbt:20002214	adult saddle neuron 005	lineage_DALd	21	
+FBbt:20002220	adult saddle neuron 011	lineage_BAlp2	18	
+FBbt:20002224	adult saddle neuron 015	lineage_DALv1	10	
+FBbt:20002230	adult saddle neuron 021	lineage_BAlv	20	
+FBbt:20002254	adult saddle neuron 045	lineage_BAmv1	22	
+FBbt:20002261	adult saddle neuron 052	lineage_ALl1	5	
+FBbt:20002262	adult saddle neuron 053	lineage_ALl1	3	
+FBbt:20002273	adult saddle neuron 064	lineage_ALl1	3	
+FBbt:20002307	adult superior intermediate protocerebrum neuron 003	lineage_AOTUv4	27	
+FBbt:20002318	adult superior intermediate protocerebrum neuron 014	lineage_DPLl2	13	
+FBbt:20002336	adult superior intermediate protocerebrum neuron 032	lineage_DPLl2	8	
+FBbt:20002359	adult superior intermediate protocerebrum neuron 055	lineage_CP2	10	
+FBbt:20002366	adult superior intermediate protocerebrum neuron 062	lineage_DPLl2	15	
+FBbt:20002382	adult superior intermediate protocerebrum neuron 078	lineage_CM3	23	
+FBbt:20002438	adult superior lateral protocerebrum neuron 044	lineage_DPLal3	5	
+FBbt:20002492	adult superior lateral protocerebrum neuron 098	lineage_BLAd2	6	
+FBbt:20002498	adult superior lateral protocerebrum neuron 104	lineage_BLAd2	6	
+FBbt:20002503	adult superior lateral protocerebrum neuron 109	lineage_BLAd5	5	
+FBbt:20002508	adult superior lateral protocerebrum neuron 114	lineage_BLAd1	15	
+FBbt:20002519	adult superior lateral protocerebrum neuron 125	lineage_DPLl3	3	
+FBbt:20002523	adult superior lateral protocerebrum neuron 129	lineage_DPLal2	8	
+FBbt:20002535	adult superior lateral protocerebrum neuron 141	lineage_BLAd5	18	
+FBbt:20002628	adult superior lateral protocerebrum gustatory projection neuron 1	lineage_ALl1	3	
+FBbt:20002634	adult superior lateral protocerebrum neuron 240	lineage_CREl1	24	
+FBbt:20002721	adult superior lateral protocerebrum neuron 327	lineage_DPLl2	6	
+FBbt:20002763	adult superior lateral protocerebrum neuron 369	lineage_CP2	15	
+FBbt:20002796	adult superior lateral protocerebrum neuron 402	lineage_CLp1	18	
+FBbt:20002865	adult superior medial protocerebrum neuron 003	lineage_DPLal2	7	
+FBbt:20002923	adult superior medial protocerebrum neuron 061	lineage_SMPad2	6	
+FBbt:20002925	adult superior medial protocerebrum neuron 063	lineage_SMPad2	7	
+FBbt:20002936	adult superior medial protocerebrum neuron 074	lineage_SMPad2	2	
+FBbt:20002956	adult superior medial protocerebrum neuron 094	lineage_SMPad1	4	
+FBbt:20002966	adult superior medial protocerebrum neuron 104	lineage_SMPad1	58	
+FBbt:20003028	adult superior medial protocerebrum neuron 166	lineage_DALv2	17	
+FBbt:20003068	adult superior medial protocerebrum neuron 206	lineage_DPLl2	4	
+FBbt:20003075	adult superior medial protocerebrum neuron 213	lineage_DPLl3	14	
+FBbt:20003120	adult superior medial protocerebrum neuron 258	lineage_CP1	29	
+FBbt:20003141	adult superior medial protocerebrum neuron 279	lineage_CLp2	16	
+FBbt:20003183	adult superior medial protocerebrum neuron 321	lineage_DM3	15	
+FBbt:20003270	adult superior medial protocerebrum neuron 408	lineage_CM4	32	
+FBbt:20003348	adult superior medial protocerebrum neuron 486	lineage_DPMpl1	4	
+FBbt:20003379	adult superior medial protocerebrum neuron 517	lineage_DM3	9	
+FBbt:20003385	adult superior medial protocerebrum neuron 523	lineage_DM3	11	
+FBbt:20003400	adult superior medial protocerebrum neuron 538	lineage_DPLc6	7	
+FBbt:20003417	adult superior medial protocerebrum neuron 555	lineage_BLVp2	11	
+FBbt:20003441	adult superior medial protocerebrum neuron 579	lineage_CP6	7	
+FBbt:20003464	adult superior medial protocerebrum neuron 602	lineage_SMPad1	2	
+FBbt:20003584	adult wedge neuron 034	lineage_BLAvm	14	
+FBbt:20003630	adult wedge neuron 080	lineage_BAmd2	11	
+FBbt:20003652	adult wedge neuron 102	lineage_DM1	25	
+FBbt:20003678	adult wedge neuron 128	lineage_DPMpl3	11	
+FBbt:20003710	adult wedge neuron 160	lineage_CM6	7	
+FBbt:20003783	adult antennal lobe local neuron vLN24	lineage_ALv2	6	lineage_ALv1|lineage_BAla1
+FBbt:20003784	adult antennal lobe local neuron vLN25	lineage_ALv2	8	lineage_ALv1|lineage_BAla1
+FBbt:20003785	adult antennal lobe local neuron vLN26	lineage_ALv2	4	lineage_ALv1|lineage_BAla1
+FBbt:20003786	adult antennal lobe local neuron vLN27	lineage_ALv2	4	lineage_ALv1|lineage_BAla1
+FBbt:20003787	adult antennal lobe local neuron vLN28	lineage_ALv2	8	lineage_ALv1|lineage_BAla1
 FBbt:20007801	adult AN06B023 neuron	primary_neuron	2	lineage_6
 FBbt:20007872	adult AN08B018 neuron	primary_neuron	4	lineage_8
 FBbt:20007882	adult AN08B034 neuron	primary_neuron	2	lineage_8
@@ -150,13 +791,14 @@ FBbt:20008484	adult IN00A009 neuron	primary_neuron	2	lineage_0|lineage_MNB
 FBbt:20008494	adult IN00A020 neuron	secondary_neuron	4	lineage_0|lineage_MNB
 FBbt:20008494	adult IN00A020 neuron	primary_neuron	1	lineage_0|lineage_MNB
 FBbt:20009237	adult IN06B013 neuron	primary_neuron	2	lineage_6
-FBbt:20009241	adult IN06B017 neuron	primary_neuron	2	lineage_6
 FBbt:20009241	adult IN06B017 neuron	secondary_neuron	6	lineage_6
+FBbt:20009241	adult IN06B017 neuron	primary_neuron	2	lineage_6
 FBbt:20009304	adult IN07B012 neuron	primary_neuron	2	lineage_7
 FBbt:20009648	adult IN11B004 neuron	primary_neuron	2	lineage_11
 FBbt:20009648	adult IN11B004 neuron	secondary_neuron	8	lineage_11
-FBbt:20009803	adult IN13A014 neuron	primary_neuron	6	lineage_13
 FBbt:20009803	adult IN13A014 neuron	secondary_neuron	2	lineage_13
+FBbt:20009803	adult IN13A014 neuron	primary_neuron	6	lineage_13
 FBbt:20010916	adult INXXX204 neuron	secondary_neuron	2	
 FBbt:20010916	adult INXXX204 neuron	primary_neuron	2	
 FBbt:20011254	adult SNpp42 neuron	secondary_neuron	1	
+FBbt:20011437	adult lobula visual projection neuron LoVP76	lineage_VPNd2	6	lineage_BLAv2|lineage_VLPl2
