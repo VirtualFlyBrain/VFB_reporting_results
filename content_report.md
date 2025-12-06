@@ -1,9 +1,9 @@
 
-VFB Content Report 2025-12-05
+VFB Content Report 2025-12-06
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 05 Dec 2025 01:09:22``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 06 Dec 2025 01:07:18``
 
 ***``Ontology Content``***
 
