@@ -1,0 +1,25 @@
+FlyBase_ID	Name	Description	Filtered Gene Count
+FBlc0006361	scRNAseq_2023_Saavedra	Single-cell RNA-seq study of the adult thorax	1726
+FBlc0007532	scRNAseq_2023_AFCA_D70_MALE	Single-nucleus RNA-seq on cells from 70-days old male flies	4835
+FBlc0007348	scRNAseq_2023_AFCA_D70_FEMALE	Single-nucleus RNA-seq on cells from 70-days old female flies	5458
+FBlc0007347	scRNAseq_2023_AFCA_D70	Single-nucleus RNA-seq on cells from 70-days old flies	5592
+FBlc0007071	scRNAseq_2023_AFCA_D50_MALE	Single-nucleus RNA-seq on cells from 50-days old male flies	4878
+FBlc0006888	scRNAseq_2023_AFCA_D50_FEMALE	Single-nucleus RNA-seq on cells from 50-days old female flies	4595
+FBlc0006887	scRNAseq_2023_AFCA_D50	Single-nucleus RNA-seq on cells from 50-days old flies	5015
+FBlc0006611	scRNAseq_2023_AFCA_D30_MALE	Single-nucleus RNA-seq on cells from 30-days old male flies	4857
+FBlc0006424	scRNAseq_2023_AFCA_D30_FEMALE	Single-nucleus RNA-seq on cells from 30-days old female flies	4987
+FBlc0006423	scRNAseq_2023_AFCA_D30	Single-nucleus RNA-seq on cells from 30-days old flies	5312
+FBlc0006404	scRNAseq_2022_Konstantinides	Single-cell RNA-seq study of larval optic lobes	5530
+FBlc0004785	scRNAseq_2022_FCA_MIXED	Single-nucleus RNA-seq on cells from 5-days old female and male flies	11079
+FBlc0004307	scRNAseq_2022_FCA_MALE	Single-nucleus RNA-seq on cells from 5-days old male flies	10978
+FBlc0003846	scRNAseq_2022_FCA_FEMALE	Single-nucleus RNA-seq on cells from 5-days old female flies	8169
+FBlc0007797	scRNAseq_2022_Calderon	The continuum of Drosophila embryonic development at single-cell resolution	2166
+FBlc0005659	scRNAseq_2021_Ozel	Single-cell RNA-seq study of pupal and adult optic lobes	4770
+FBlc0005420	scRNAseq_2021_Mokashi_CTRL	Single-cell RNA-seq study of adult brain without alcohol exposure	3097
+FBlc0006191	scRNAseq_2021_IngSimmons	Single-cell RNA-seq study of gastrulating embryos	6423
+FBlc0005515	scRNAseq_2021_Baker_CTRL	Single-cell RNA-seq study of adult brain without cocaine exposure	3329
+FBlc0006237	scRNAseq_2020_Kurmangaliyev	Single-cell RNA-seq study of the pupal optic lobe	5975
+FBlc0006305	scRNAseq_2020_Hormann	Single-cell RNA-seq study of visual motion-sensing neurons	4014
+FBlc0005603	scRNAseq_2020_Allen	Single-cell RNA-seq study of adult ventral nerve cords	3085
+FBlc0005362	scRNAseq_2019_Avalos	Single-cell RNA-seq study of first instar larval brains upon starvation	6463
+FBlc0006090	scRNAseq_2018_Davie	Single-cell RNA-seq study of the aging brain	6111

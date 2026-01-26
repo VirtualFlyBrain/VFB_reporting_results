@@ -82,6 +82,12 @@ jobs:
           cd VFB_reporting/src
           python ./Instance_FBbt_conflict_report.py
 
+      - name: Run scRNAseq DataSet report
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
+          cd VFB_reporting/src
+          python ./scRNAseq_DataSets.py
+
       - name: Create curation files
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
