@@ -86,7 +86,7 @@ jobs:
         run: |
           export PYTHONPATH=$PYTHONPATH:$PWD/VFB_neo4j/src/
           cd VFB_reporting/src
-          python ./scRNAseq_DataSets.py
+          python ./scRNAseq_datasets.py
 
       - name: Create curation files
         run: |
