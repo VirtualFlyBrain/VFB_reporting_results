@@ -1,19 +1,1 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	2489	0	787	108	0
-Aso2014	staging	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	2548	0	787	108	0
-Berg2025	pdb	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	166691	0	0	10316	0
-Berg2025	staging	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	102885	0	0	10172	0
-Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	290	0	42	110	0
-Dolan2019	staging	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	298	0	42	110	0
-SplitKind2021	pdb	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	1	0	0	1	0
-SplitKind2021	staging	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	3	0	0	2	0
-SplitKlapoetke2022	pdb	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0	FBrf0253524	1	0	0	1	0
-SplitKlapoetke2022	staging	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0	FBrf0253524	3	0	0	2	0
-SplitLongden2023	pdb	Split-GAL4 lines from Longden et al., 2023	CC-BY_4.0	FBrf0258179	0	0	0	0	0
-SplitLongden2023	staging	Split-GAL4 lines from Longden et al., 2023	CC-BY_4.0	FBrf0258179	2	0	0	1	0
-SplitNamiki2022	pdb	Split-GAL4 lines from Namiki et al., 2022	CC-BY_4.0	FBrf0252908	0	0	0	0	0
-SplitNamiki2022	staging	Split-GAL4 lines from Namiki et al., 2022	CC-BY_4.0	FBrf0252908	2	0	0	2	0
-SplitShuai2023	pdb	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	doi_10_1101_2023_09_15_557808	605	0	0	59	0
-SplitShuai2023	staging	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	doi_10_1101_2023_09_15_557808	1103	0	0	129	0
-Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	327	0	159	55	0
-Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	328	0	159	55	0
