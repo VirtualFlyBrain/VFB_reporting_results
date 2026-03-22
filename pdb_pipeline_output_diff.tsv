@@ -1,1 +1,13 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
+Berg2025	pdb	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	102885	0	0	10172	0
+Berg2025	pipeline_output	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	160118	0	0	10198	0
+SplitBogovic2020	pdb	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0	FBrf0247641	21	0	0	4	0
+SplitBogovic2020	pipeline_output	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0	FBrf0247641	28	0	0	7	0
+SplitKind2021	pdb	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	3	0	0	2	0
+SplitKind2021	pipeline_output	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	6	0	0	3	0
+SplitMeissner2024	pdb	Split-GAL4 lines from Meissner et al., 2024	CC-BY_4.0	doi_10_1101_2024_01_09_574419	381	0	0	191	0
+SplitMeissner2024	pipeline_output	Split-GAL4 lines from Meissner et al., 2024	CC-BY_4.0	doi_10_1101_2024_01_09_574419	389	0	0	195	0
+SplitSchretter2020	pdb	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	34	0	4	5	0
+SplitSchretter2020	pipeline_output	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	42	0	4	5	0
+SplitShuai2023	pdb	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	doi_10_1101_2023_09_15_557808	1103	0	0	129	0
+SplitShuai2023	pipeline_output	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	doi_10_1101_2023_09_15_557808	1233	0	0	149	0
