@@ -25,7 +25,7 @@ node	DataSet	211
 node	Deprecated	23663
 node	Dopamine_receptor	4
 node	Dopaminergic	20236
-node	Entity	1525745
+node	Entity	1523300
 node	Enzyme	3733
 node	Expression_pattern	74545
 node	Expression_pattern_fragment	63359
@@ -48,7 +48,7 @@ node	Histamine_receptor	2
 node	Histaminergic	20968
 node	Hormone	21
 node	Hygrosensory_system	536
-node	Individual	1391531
+node	Individual	1389086
 node	Ion_channel	401
 node	L1EM	5050
 node	Larva	23361
@@ -60,7 +60,7 @@ node	Mechanosensory_system	20177
 node	Metal_ion_binding	174
 node	Motor_neuron	4485
 node	Muscle	1956
-node	NBLAST	261821
+node	NBLAST	261815
 node	NBLASTexp	18368
 node	Nervous_system	647257
 node	Neuroblast	518
@@ -240,7 +240,7 @@ node	primary_neuron	21504
 node	pub	5920
 node	scRNAseq_DataSet	24
 node	secondary_neuron	171384
-relationship	INSTANCEOF	2321978
+relationship	INSTANCEOF	2319533
 relationship	SUBCLASSOF	182001
 relationship	achieves_planned_objective	11
 relationship	adjacent_to	15
@@ -250,7 +250,7 @@ relationship	attached_to_part_of	36
 relationship	bearer_of	5047
 relationship	begin	1
 relationship	bounding_layer_of	1
-relationship	capable_of	351404
+relationship	capable_of	348959
 relationship	capable_of_part_of	652
 relationship	causal_agent_in_process	1
 relationship	completely_varies_with	1
@@ -329,7 +329,7 @@ relationship	has_sequence_attribute	10
 relationship	has_sequence_feature	3
 relationship	has_sequence_unit	3
 relationship	has_sex_agnostic_part	1
-relationship	has_similar_morphology_to	7401181
+relationship	has_similar_morphology_to	7400918
 relationship	has_similar_morphology_to_part_of	664699
 relationship	has_soma_location	467638
 relationship	has_source	637766
@@ -405,7 +405,7 @@ relationship	simultaneous_with	6
 relationship	starts	1
 relationship	substage_of	196
 relationship	surrounded_by	4
-relationship	synapsed_to	35291126
+relationship	synapsed_to	34715655
 relationship	synapsed_via_type_III_bouton_to	14
 relationship	synapsed_via_type_II_bouton_to	17
 relationship	synapsed_via_type_Ib_bouton_to	217
