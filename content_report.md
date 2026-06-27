@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-06-26
+VFB Content Report 2026-06-27
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 26 Jun 2026 02:31:53``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 27 Jun 2026 21:23:50``
 
 ***``Ontology Content``***
 
@@ -21,9 +21,9 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 26 Jun 2
 |Sense Organs|854|183|
 
 
-**155171** formal assertions, of which **69533** are SubClassOf assertions and **85638** are other relationship types
+**155175** formal assertions, of which **69533** are SubClassOf assertions and **85642** are other relationship types
 
-**140994** formal assertions on nervous system components, of which **61384** are SubClassOf assertions and **79610** are other relationship types
+**140998** formal assertions on nervous system components, of which **61384** are SubClassOf assertions and **79614** are other relationship types
 
 ***``Image Content``***
 *``(excludes hemibrain v1.0.1)``*
@@ -36,10 +36,10 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 26 Jun 2
 
 ***``Expression Annotations``***
 
-**92414** annotations recording **3199** types of anatomical structure that **12567** specific driver lines are expressed in.
-**85294** annotations recording **2419** parts of the nervous system that **11507** specific driver lines are expressed in.
-**10525** annotations recording **1676** types of neuron that **2908** specific driver lines are expressed in.
-**4698** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
+**93820** annotations recording **3291** types of anatomical structure that **12889** specific driver lines are expressed in.
+**85913** annotations recording **2449** parts of the nervous system that **11698** specific driver lines are expressed in.
+**10823** annotations recording **1694** types of neuron that **3028** specific driver lines are expressed in.
+**4700** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
 
 ***``Connectivity``***
 
