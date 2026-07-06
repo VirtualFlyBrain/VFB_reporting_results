@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-07-04
+VFB Content Report 2026-07-06
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 04 Jul 2026 02:10:29``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 06 Jul 2026 02:28:40``
 
 ***``Ontology Content``***
 
@@ -45,7 +45,7 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 04 Jul 2
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|None|Any neuron (individuals)|None|None|
+|Any neuron (individuals)|488111|Any neuron (individuals)|488111|34715655|
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|3209|Muscle (classes)|243|4422|
 |Any neuron (classes)|785|Sense organ (classes)|434|535|
