@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-07-21
+VFB Content Report 2026-07-23
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 21 Jul 2026 01:50:51``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Thu, 23 Jul 2026 02:11:41``
 
 ***``Ontology Content``***
 
@@ -49,6 +49,19 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 21 Jul 2
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|3209|Muscle (classes)|243|4422|
 |Any neuron (classes)|785|Sense organ (classes)|434|535|
+
+
+
+|EM Project|Neurons|Synapses|Edges|
+| :--- | :--- | :--- | :--- |
+|male_cns_v0_9|164179|110803062|14939685|
+|flywire783|139255|46996837|7595968|
+|BANC626|80003|13329903|1616169|
+|neuprint_JRC_OpticLobe_v1_0_1|53402|24033343|3957844|
+|neuprint_JRC_Manc_1_2_1|23665|28734247|3105275|
+|neuprint_JRC_Hemibrain_1point2point1|22705|13745258|3392973|
+|catmaid_fafb|5601|286949|35542|
+|catmaid_l1em|5019|363927|72199|
 
 
 

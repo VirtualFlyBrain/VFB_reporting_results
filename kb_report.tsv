@@ -6,10 +6,12 @@ Baltruschat2021	EM FAFB Baltruschat et al 2021	True	FBrf0248487	CC-BY-SA_4.0	20
 Barnes2022	EM L1 Barnes et al., 2022	True	FBrf0253082	CC-BY_4.0	51
 Bates2025	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	True	doi_10_1101__2025_07_31_667571	CC-BY_4.0	80832
 Bates2026	Brain and Nerve Cord (BANC) version 888 connectome neurons from Bates et al. (2026).	True	doi_10_1038__s41586_026_10735_w	CC-BY_4.0	146511
+Bates2026roi	BANC neuropil, tract and nerve ROIs	True	doi_10_1038__s41586_026_10735_w	CC-BY_4.0	0
 BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	True	FBrf0246460	CC-BY-SA_4.0	585
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	True	FBrf0232785	CC-BY-SA_4.0	161
 Berg2025	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	True	doi_10_1101__2025_10_09_680999	CC-BY_4.0	166691
 Berg2025a	Male CNS version 1.0 connectome neurons from Berg et al. (2025).	True	doi_10_1101__2025_10_09_680999	CC-BY_4.0	166701
+Berg2025aroi	Male CNS neuropil ROIs	True	doi_10_1101__2025_10_09_680999	CC-BY_4.0	0
 BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	True	FBrf0224194	CC-BY-SA_4.0	76
 Burgos2018	Nociceptive system neurons - EM (Burgos2017)	True	FBrf0238464	CC-BY-SA_4.0	95
 Cachero2010	Adult Brain fru clones (Cachero2010)	True	FBrf0211926	CC-BY-SA_4.0	119
@@ -26,6 +28,7 @@ Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY-S
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	True	FBrf0242477	CC-BY_4.0	4651
 Dombrovski2023	EM FAFB Dombrovski et al 2023	True		CC-BY-SA_4.0	59
 Dorkenwald2023	FlyWire connectome neurons	True	FBrf0260546	CC-BY-NC_4.0	139255
+Dorkenwald2023roi	FlyWire FAFB neuropil ROIs	True	FBrf0260546	CC-BY-NC_4.0	0
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY-SA_4.0	388
 Engert2022	EM FAFB Engert et al. 2022	True	FBrf0253662	CC-BY_4.0	144
 Erginkaya2025	EM FAFB Erginkaya et al 2025	True	FBrf0262578	CC-BY-SA_4.0	91
@@ -84,6 +87,7 @@ Miroschnikow2018	EM L1 Miroschnikow et al. 2018	True	FBrf0240975	CC-BY_4.0	739
 Morimoto2020	EM FAFB Morimoto et al 2020	True	FBrf0247630	CC-BY_4.0	76
 Namiki2018	split-GAL4 lines for descending neurons (Namiki2018)	True	FBrf0239335	CC-BY_4.0	6146
 Nern2024	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024	True	FBrf0262545	CC-BY_4.0	53409
+Nern2024roi	Optic lobe neuropil ROIs	True	FBrf0262545	CC-BY_4.0	0
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	True	FBrf0248430	CC-BY-SA_4.0	15
 Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	True	FBrf0228257	CC-BY-SA_4.0	109
 Otto2020	EM FAFB Otto et al 2020	True	FBrf0246510	CC-BY_4.0	807
@@ -167,6 +171,7 @@ Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	True	FBrf0256726	CC-BY-SA_4.0	90
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY-SA_4.0	38
 Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	23759
+Takemura2023roi	MANC neuropil and tract ROIs	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	0
 Tastekin2018	EM L1 Tastekin et al 2018	True	FBrf0240828	CC-BY-SA_4.0	10
 Truman2016	L3 Larval CNS Template (Truman2016)	True		CC-BY-SA_4.0	1
 TrumanWood2018	Truman Larval Flip-Out Collection	True	FBrf0225812	CC-BY-SA_4.0	12239
