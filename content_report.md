@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-08-02
+VFB Content Report 2026-08-04
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 02 Aug 2026 02:10:56``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 04 Aug 2026 01:42:50``
 
 ***``Ontology Content``***
 
@@ -11,9 +11,9 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 02 Aug 2
 | :--- | :--- | :--- |
 |All Terms|28772|2224|
 |All Nervous System Parts|21825|1682|
-|All Neurons|18303|1298|
-|Characterised Neurons|6895|1291|
-|Provisional Neurons|11408|40|
+|All Neurons|None|None|
+|Characterised Neurons|None|None|
+|Provisional Neurons|None|None|
 |All Nervous System Regions|1435|271|
 |Synaptic Neuropils|625|151|
 |Neuron Projection Bundles|600|142|
@@ -49,19 +49,6 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 02 Aug 2
 |Any neuron (individuals)|22590|Region (individuals)|218|299710|
 |Any neuron (classes)|3209|Muscle (classes)|243|4422|
 |Any neuron (classes)|785|Sense organ (classes)|434|535|
-
-
-
-|EM Project|Neurons|Synapses|Edges|
-| :--- | :--- | :--- | :--- |
-|male_cns_v0_9|164179|110803062|14939685|
-|flywire783|139255|46996837|7595968|
-|BANC626|80003|13329903|1616169|
-|neuprint_JRC_OpticLobe_v1_0_1|53402|24033343|3957844|
-|neuprint_JRC_Manc_1_2_1|23665|28734247|3105275|
-|neuprint_JRC_Hemibrain_1point2point1|22705|13745258|3392973|
-|catmaid_fafb|5601|286949|35542|
-|catmaid_l1em|5019|363927|72199|
 
 
 

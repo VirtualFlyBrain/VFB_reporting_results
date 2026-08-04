@@ -6,7 +6,7 @@ Baltruschat2021	EM FAFB Baltruschat et al 2021	True	FBrf0248487	CC-BY-SA_4.0	20
 Barnes2022	EM L1 Barnes et al., 2022	True	FBrf0253082	CC-BY_4.0	51
 Bates2025	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	True	doi_10_1101__2025_07_31_667571	CC-BY_4.0	80832
 Bates2026	Brain and Nerve Cord (BANC) version 888 connectome neurons from Bates et al. (2026).	True	doi_10_1038__s41586_026_10735_w	CC-BY_4.0	146511
-Bates2026roi	BANC neuropil, tract and nerve ROIs	True	doi_10_1038__s41586_026_10735_w	CC-BY_4.0	0
+Bates2026roi	BANC neuropil, tract and nerve ROIs	True	doi_10_1038__s41586_026_10735_w	CC-BY_4.0	305
 BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	True	FBrf0246460	CC-BY-SA_4.0	585
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	True	FBrf0232785	CC-BY-SA_4.0	161
 Berg2025	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	True	doi_10_1101__2025_10_09_680999	CC-BY_4.0	166691
@@ -90,6 +90,7 @@ Nern2024	Optic Lobe connectome neurons from optic_lobe:v1.0.1, Nern et al., 2024
 Nern2024roi	Optic lobe neuropil ROIs	True	FBrf0262545	CC-BY_4.0	106
 Nojima2021	Split-GAL4 lines from Nojima et al., 2021	True	FBrf0248430	CC-BY-SA_4.0	15
 Ohyama2015	Neurons involved in larval fast escape response - EM (Ohyama2016)	True	FBrf0228257	CC-BY-SA_4.0	109
+Ohyama2015roi	L1 larval CNS painted domains	True	FBrf0228257	CC-BY-SA_4.0	27
 Otto2020	EM FAFB Otto et al 2020	True	FBrf0246510	CC-BY_4.0	807
 Phelps2020	EM FANC Phelps et al 2020	True	FBrf0247998	CC-BY-SA_4.0	2029
 Robie2017	split-GAL4 lines for  EB neurons (Robie2017)	True	FBrf0236042	CC-BY_4.0	176
