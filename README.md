@@ -53,6 +53,17 @@ report = complete report of content
 diff = diff of server to kb, to track progress of data to release
 
 
+## Connectome multiple symbol-bearing class report
+
+#### {server}\_connectome_multi_symbol_class.tsv
+
+Connectome neurons (`Individual:Neuron:has_neuron_connectivity`) that are classified under more than one *symbol-bearing* class, which makes their Circuit Browser node label ambiguous (the label is the class symbol). Generated for `pdb`, `dev` and `staging` so the same check can be made during the release process. This report should ideally shrink toward empty as typings are cleaned up.
+
+Columns: `instance_id`, `instance_label`, `n_symbol_classes`, `resolvable_by_subclass`, `conflict_in_kb`, `symbol_classes`, `kb_typing`, `comment`, `synonyms`.
+
+- **`resolvable_by_subclass = False`** – the competing classes are not linked by subclass in the ontology: either a subclass relationship is missing, or they are genuinely distinct cell types.
+- **`conflict_in_kb = True`** – the knowledge base itself carries the multiple typings → address in curation (kb). **`False`** – the extra class is not in kb, so it is introduced by the pipeline (or pdb is out of date); compare `kb_typing` (the source classification) with `comment`/`synonyms` (the raw source annotation) to decide.
+
 ## EM dataset pipeline reports
 For each EM dataset the following reports are generated:
 
