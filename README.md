@@ -2,7 +2,7 @@
 
 Repo for the results of pipelines reporting dataflow to and within VFB.
 
-Current results are from the latest travis build #968 from commit: 'no change' on master
+Reports here are regenerated nightly by the [Create Reports](.github/workflows/create_reports.yml) GitHub Actions workflow, which runs the scripts in [VFB_reporting](https://github.com/VirtualFlyBrain/VFB_reporting).
 
 ## Release Reports
 
@@ -55,14 +55,21 @@ diff = diff of server to kb, to track progress of data to release
 
 ## Connectome multiple symbol-bearing class report
 
-#### {server}\_connectome_multi_symbol_class.tsv
+`connectome_multi_symbol_class_report.py` → `{server}_connectome_multi_symbol_class.tsv` (generated for `pdb`, `dev` and `staging`).
 
-Connectome neurons (`Individual:Neuron:has_neuron_connectivity`) that are classified under more than one *symbol-bearing* class, which makes their Circuit Browser node label ambiguous (the label is the class symbol). Generated for `pdb`, `dev` and `staging` so the same check can be made during the release process. This report should ideally shrink toward empty as typings are cleaned up.
+The Circuit Browser labels each graph node with the *symbol* of the class the neuron is an instance of, so a connectome neuron (`Individual:Neuron:has_neuron_connectivity`) that is `INSTANCEOF` more than one symbol-bearing class has an ambiguous node label. This report lists every such neuron on each pipeline server and cross-checks the knowledge base (kb) to indicate whether the ambiguity comes from the curation source or is introduced by the pipeline.
 
-Columns: `instance_id`, `instance_label`, `n_symbol_classes`, `resolvable_by_subclass`, `conflict_in_kb`, `symbol_classes`, `kb_typing`, `comment`, `synonyms`.
+Per server, the query finds connectome neurons that are `INSTANCEOF` more than one `Class` carrying a `symbol`, and works out whether one of those classes is a subclass of all the others. kb has neither the `has_neuron_connectivity` label nor class symbols (both added by the pipeline), so the kb cross-check compares the `INSTANCEOF` class set by `short_form` rather than re-running the symbol query.
 
-- **`resolvable_by_subclass = False`** – the competing classes are not linked by subclass in the ontology: either a subclass relationship is missing, or they are genuinely distinct cell types.
-- **`conflict_in_kb = True`** – the knowledge base itself carries the multiple typings → address in curation (kb). **`False`** – the extra class is not in kb, so it is introduced by the pipeline (or pdb is out of date); compare `kb_typing` (the source classification) with `comment`/`synonyms` (the raw source annotation) to decide.
+Columns:
+
+- `instance_id` / `instance_label` – the neuron (VFB id / label)
+- `n_symbol_classes` – number of symbol-bearing classes it is `INSTANCEOF`
+- `resolvable_by_subclass` – `True` if one competing class is a subclass of all the others (the label resolves to that leaf); `False` = the classes are not linked in the ontology hierarchy (candidate missing relationship, or genuinely distinct types)
+- `conflict_in_kb` – `True` = kb itself carries ≥2 of the competing classes (source / curation issue); `False` = the extra symbol-bearing class is not in kb, i.e. added downstream by the pipeline (or pdb is out of date)
+- `symbol_classes` – the competing classes as `symbol [FBbt_id] label`
+- `kb_typing` – the neuron's full `INSTANCEOF` classification in kb, for comparison
+- `comment` / `synonyms` – the raw source annotation on the instance, which usually explains the typing (e.g. connectome "Primary Cell Type" / "Alternative Cell Type(s)")
 
 ## EM dataset pipeline reports
 For each EM dataset the following reports are generated:
@@ -147,4 +154,4 @@ For each EM dataset the following reports are generated:
 
 
 -------------
-Note: the reports readme.md is automatically generated on each run. Please edit [reports.md](https://github.com/VirtualFlyBrain/VFB_reporting/blob/master/reports.md) if changes are needed.
+Note: in the [VFB_reporting_results](https://github.com/VirtualFlyBrain/VFB_reporting_results) repo, `README.md` is regenerated on each report run by concatenating `README_header.md` (the repo overview) with this file (`reports.md`, the report notes). Edit those source files — not the generated `README.md`.
