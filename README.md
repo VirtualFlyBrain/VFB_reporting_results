@@ -40,7 +40,7 @@ kb: knowledge_base
 
 dev: dev pipeline, pre-release - used to drive v2 dev test site. This pipeline should be used for schema changes that require code updates to work.
 
-staging:  data pipeline, pre-release - used to drive v2 staging/a/alpha test site.  This pipeline should be used only to  stage data, the absense of any schema changes. However, schema changes to KB can potentially muddle the data/dev distinction.
+staging:  data pipeline, pre-release - used to drive v2 staging/a/alpha test site.  This pipeline should be used only to  stage data, the absence of any schema changes. However, schema changes to KB can potentially muddle the data/dev distinction.
 
 pdb: production - live database running VFB 2
 
@@ -86,7 +86,7 @@ For each EM dataset the following reports are generated:
   Neurons imported  into VFB - but only annotated as 'neuron'.  These are candidates for curation.
   
 #### EM_CATMAID\_{source}_skids.tsv
-  A complete list of skids published on the relivant VFB CATMAID site with their relivant publications. a simple diff with previous versions in github shows any changes between releases and the dates of thouse changes. 
+  A complete list of skids published on the relevant VFB CATMAID site with their relevant publications. A simple diff with previous versions in github shows any changes between releases and the dates of those changes. 
 
 #### {source}\_CAT_cellType_skids.tsv
 
@@ -118,7 +118,7 @@ For each EM dataset the following reports are generated:
   
   **QUERY2:** 
   
-  iterate of cell type annotations (`entities.name`) to find skids:
+  iterate over cell type annotations (`entities.name`) to find skids:
   
   **endpoint:** annotations/query-targets
   
@@ -128,7 +128,7 @@ For each EM dataset the following reports are generated:
   "annotation_reference": "id", }
   ```
   
-  **Return values used:*
+  **Return values used:**
 
      neurons.skeleton_ids -> skid
   
