@@ -111,6 +111,7 @@ node	Visual_system	293856
 node	hasScRNAseq	13388
 node	has_image	635685
 node	has_neuron_connectivity	490335
+node	has_region_connectivity	392075
 node	has_subClass	8753
 node	lineage_0_MNB	1132
 node	lineage_ALad1_BAmv3	1243
@@ -239,8 +240,6 @@ node	pub	5844
 node	scRNAseq_DataSet	24
 node	secondary_neuron	173492
 relationship	INSTANCEOF	2273092
-relationship	RO_0002110	2787811
-relationship	RO_0002113	2273244
 relationship	SUBCLASSOF	188555
 relationship	achieves_planned_objective	8
 relationship	adjacent_to	15
@@ -309,7 +308,9 @@ relationship	has_origin	29
 relationship	has_output	12
 relationship	has_part	19232
 relationship	has_participant	11
+relationship	has_postsynaptic_terminal_in	2787811
 relationship	has_potential_to_develop_into	3
+relationship	has_presynaptic_terminals_in	2273244
 relationship	has_quality	170
 relationship	has_reference	479153
 relationship	has_role	52
