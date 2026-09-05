@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-09-04
+VFB Content Report 2026-09-05
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 04 Sep 2026 02:08:46``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 05 Sep 2026 02:13:35``
 
 ***``Ontology Content``***
 
@@ -45,10 +45,23 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 04 Sep 2
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|None|Any neuron (individuals)|None|None|
+|Any neuron (individuals)|490275|Any neuron (individuals)|490275|35041060|
 |Any neuron (individuals)|400167|Region (individuals)|852|5061055|
 |Any neuron (classes)|325|Muscle (classes)|228|249|
 |Any neuron (classes)|823|Sense organ (classes)|434|535|
+
+
+
+|EM Project|Neurons|Synapses|Edges|
+| :--- | :--- | :--- | :--- |
+|male_cns_v1_0|166413|113762447|15265098|
+|flywire783|139255|46996837|7595968|
+|BANC888|64541|10525350|1266712|
+|neuprint_JRC_OpticLobe_v1_0_1|53402|24033343|3957844|
+|neuprint_JRC_Manc_1_2_1|23665|28734247|3105275|
+|neuprint_JRC_Hemibrain_1point2point1|22705|13745258|3392973|
+|catmaid_fafb|5626|286949|35542|
+|catmaid_l1em|5045|363927|72199|
 
 
 
