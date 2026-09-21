@@ -1,0 +1,373 @@
+date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
+2025-09-01	(direct)	(none)	60	59	1774
+2025-09-01	(not set)	(not set)	2	0	2549
+2025-09-01	bing	organic	4	4	138
+2025-09-01	chatgpt.com	referral	3	2	139
+2025-09-01	cn.bing.com	referral	4	4	11558
+2025-09-01	codex.flywire.ai	referral	12	12	0
+2025-09-01	flybase.org	referral	1	1	225
+2025-09-01	google	organic	116	113	6167
+2025-09-01	neuronbridge.janelia.org	referral	1	1	45
+2025-09-01	science.org	referral	2	2	86
+2025-09-01	sciencedirect.com	referral	4	4	2
+2025-09-01	splitgal4.janelia.org	referral	2	2	0
+2025-09-02	(direct)	(none)	94	93	1639
+2025-09-02	(not set)	(not set)	5	0	16
+2025-09-02	bing	organic	4	4	18
+2025-09-02	chatgpt.com	referral	2	1	282
+2025-09-02	cn.bing.com	referral	6	6	10693
+2025-09-02	codex.flywire.ai	referral	21	21	1053
+2025-09-02	flweb.janelia.org	referral	1	1	10
+2025-09-02	flylight-raw.janelia.org	referral	1	1	0
+2025-09-02	google	organic	135	128	7371
+2025-09-02	neuronbridge.janelia.org	referral	2	2	2419
+2025-09-02	sciencedirect.com	referral	1	1	0
+2025-09-03	(direct)	(none)	99	98	2043
+2025-09-03	(not set)	(not set)	7	0	45
+2025-09-03	bing	organic	6	5	770
+2025-09-03	chatgpt.com	(not set)	1	1	0
+2025-09-03	chatgpt.com	referral	2	2	637
+2025-09-03	cn.bing.com	referral	11	11	4639
+2025-09-03	codex.flywire.ai	referral	19	19	1310
+2025-09-03	flweb.janelia.org	referral	1	1	37
+2025-09-03	google	organic	119	118	6348
+2025-09-03	janelia.org	referral	1	1	6
+2025-09-03	link.zhihu.com	referral	1	1	55
+2025-09-03	neurobio.uni-muenster.de	referral	1	1	92
+2025-09-03	science.org	referral	1	1	16
+2025-09-03	sciencedirect.com	referral	2	2	193
+2025-09-03	splitgal4.janelia.org	referral	3	3	143
+2025-09-03	yahoo	organic	1	1	39
+2025-09-04	(direct)	(none)	82	79	2304
+2025-09-04	(not set)	(not set)	1	0	0
+2025-09-04	bdsc.indiana.edu	referral	1	1	0
+2025-09-04	bing	organic	5	4	497
+2025-09-04	chatgpt.com	(not set)	1	1	197
+2025-09-04	chatgpt.com	referral	4	4	718
+2025-09-04	cn.bing.com	referral	8	8	1467
+2025-09-04	codex.flywire.ai	referral	15	14	6275
+2025-09-04	flweb.janelia.org	referral	1	1	87
+2025-09-04	google	organic	127	123	9952
+2025-09-04	science.org	referral	5	5	1063
+2025-09-04	splitgal4.janelia.org	referral	1	1	333
+2025-09-05	(direct)	(none)	109	107	2849
+2025-09-05	(not set)	(not set)	5	0	362
+2025-09-05	bing	organic	4	4	67
+2025-09-05	canva.com	referral	1	1	22
+2025-09-05	chatgpt.com	(not set)	1	1	0
+2025-09-05	chatgpt.com	referral	1	1	271
+2025-09-05	claude.ai	referral	1	1	14
+2025-09-05	cn.bing.com	referral	3	3	914
+2025-09-05	codex.flywire.ai	referral	1	1	54
+2025-09-05	elifesciences.org	referral	1	1	0
+2025-09-05	github.com	referral	2	2	33
+2025-09-05	google	organic	136	131	2399
+2025-09-05	janelia.org	referral	1	1	264
+2025-09-05	m.baidu.com	referral	1	1	0
+2025-09-05	science.org	referral	1	1	693
+2025-09-05	splitgal4.janelia.org	referral	1	1	35
+2025-09-06	(direct)	(none)	41	41	442
+2025-09-06	(not set)	(not set)	8	0	26
+2025-09-06	bing	organic	3	3	145
+2025-09-06	canva.com	referral	1	1	0
+2025-09-06	chatgpt.com	referral	1	0	0
+2025-09-06	cn.bing.com	referral	2	1	0
+2025-09-06	facebook.com	referral	1	1	4
+2025-09-06	google	organic	106	104	1376
+2025-09-06	janelia.org	referral	1	1	145
+2025-09-06	neuronbridge.janelia.org	referral	1	1	89
+2025-09-07	(direct)	(none)	32	32	1571
+2025-09-07	bing	organic	2	2	102
+2025-09-07	canva.com	referral	1	1	0
+2025-09-07	cn.bing.com	referral	3	2	85
+2025-09-07	codex.flywire.ai	referral	1	1	12
+2025-09-07	flybase.org	referral	1	1	29
+2025-09-07	google	organic	112	110	1349
+2025-09-07	janelia.org	referral	1	1	1
+2025-09-08	(direct)	(none)	76	75	1969
+2025-09-08	(not set)	(not set)	1	0	9
+2025-09-08	bing	organic	3	3	70
+2025-09-08	cn.bing.com	referral	2	2	3
+2025-09-08	codex.flywire.ai	referral	12	12	380
+2025-09-08	elifesciences.org	referral	5	5	3
+2025-09-08	flybase.org	referral	1	1	0
+2025-09-08	frontiersin.org	referral	1	1	82
+2025-09-08	github.com	referral	1	0	0
+2025-09-08	google	organic	141	138	4278
+2025-09-08	janelia.org	referral	1	1	237
+2025-09-08	splitgal4.janelia.org	referral	2	2	115
+2025-09-09	(direct)	(none)	93	93	1772
+2025-09-09	(not set)	(not set)	3	0	22
+2025-09-09	bing	organic	2	2	0
+2025-09-09	chatgpt.com	(not set)	1	1	78
+2025-09-09	chatgpt.com	referral	2	2	0
+2025-09-09	cn.bing.com	referral	3	2	13
+2025-09-09	codex.flywire.ai	referral	5	4	307
+2025-09-09	flybase.org	referral	3	3	32
+2025-09-09	google	organic	187	184	10189
+2025-09-09	janelia.org	referral	1	1	36
+2025-09-09	neuronbridge.janelia.org	referral	1	1	239
+2025-09-09	sciencedirect.com	referral	6	6	0
+2025-09-09	splitgal4.janelia.org	referral	2	2	39
+2025-09-10	(direct)	(none)	93	91	1467
+2025-09-10	(not set)	(not set)	6	0	24
+2025-09-10	bing	organic	4	3	62
+2025-09-10	chatgpt.com	(not set)	2	2	9
+2025-09-10	chatgpt.com	referral	3	3	243
+2025-09-10	cn.bing.com	referral	1	0	0
+2025-09-10	codex.flywire.ai	referral	5	5	10
+2025-09-10	de.search.yahoo.com	referral	2	2	0
+2025-09-10	ecosia.org	organic	1	1	7
+2025-09-10	en.wikipedia.org	referral	1	1	32
+2025-09-10	flybase.org	referral	2	2	394
+2025-09-10	google	organic	318	317	4722
+2025-09-10	janelia.org	referral	3	3	1756
+2025-09-10	neuronbridge.janelia.org	referral	4	4	1
+2025-09-10	science.org	referral	1	0	0
+2025-09-10	splitgal4.janelia.org	referral	17	16	743
+2025-09-10	yahoo	organic	2	2	125
+2025-09-11	(direct)	(none)	101	100	1328
+2025-09-11	(not set)	(not set)	1	0	0
+2025-09-11	bing	organic	2	2	83
+2025-09-11	chatgpt.com	referral	4	3	117
+2025-09-11	cn.bing.com	referral	1	1	0
+2025-09-11	codex.flywire.ai	referral	2	2	0
+2025-09-11	de.search.yahoo.com	referral	12	12	0
+2025-09-11	flybase.org	referral	1	1	11
+2025-09-11	google	organic	286	281	10575
+2025-09-11	science.org	referral	1	1	140
+2025-09-11	sdbonline.org	referral	1	1	0
+2025-09-11	search.brave.com	referral	1	1	34
+2025-09-11	splitgal4.janelia.org	referral	9	9	235
+2025-09-11	temca2data.org	referral	2	1	0
+2025-09-11	yahoo	organic	4	4	1688
+2025-09-12	(direct)	(none)	149	147	4915
+2025-09-12	bing	organic	2	2	113
+2025-09-12	chatgpt.com	referral	3	3	3
+2025-09-12	codex.flywire.ai	referral	1	1	184
+2025-09-12	de.search.yahoo.com	referral	15	15	0
+2025-09-12	elifesciences.org	referral	2	2	28
+2025-09-12	flybase.org	referral	1	1	32
+2025-09-12	google	organic	124	120	3187
+2025-09-12	neuronbridge.janelia.org	referral	1	1	1474
+2025-09-12	science.org	referral	1	1	593
+2025-09-12	splitgal4.janelia.org	referral	4	4	138
+2025-09-12	yahoo	organic	3	2	520
+2025-09-13	(direct)	(none)	135	134	4243
+2025-09-13	(not set)	(not set)	1	0	15
+2025-09-13	bing	organic	1	1	83
+2025-09-13	de.search.yahoo.com	referral	9	9	0
+2025-09-13	gevciamst.online	referral	1	1	0
+2025-09-13	google	organic	65	65	2247
+2025-09-13	janelia.org	referral	1	1	0
+2025-09-13	splitgal4.janelia.org	referral	9	9	27
+2025-09-13	translate.google.com	referral	1	1	283
+2025-09-14	(direct)	(none)	188	188	424
+2025-09-14	(not set)	(not set)	5	0	150
+2025-09-14	bing	organic	5	5	29
+2025-09-14	codex.flywire.ai	referral	1	1	18
+2025-09-14	de.search.yahoo.com	referral	14	14	0
+2025-09-14	gevciamst.online	referral	1	1	0
+2025-09-14	google	organic	66	65	64
+2025-09-14	janelia.org	referral	1	1	0
+2025-09-14	learn-anything.xyz	referral	1	1	21
+2025-09-14	perplexity.ai	referral	1	1	45
+2025-09-14	splitgal4.janelia.org	referral	33	33	150
+2025-09-15	(direct)	(none)	204	202	3666
+2025-09-15	(not set)	(not set)	5	0	0
+2025-09-15	bing	organic	1	1	0
+2025-09-15	cn.bing.com	referral	5	4	48
+2025-09-15	codex.flywire.ai	referral	9	8	37
+2025-09-15	de.search.yahoo.com	referral	12	12	2
+2025-09-15	elifesciences.org	referral	2	2	288
+2025-09-15	flybase.org	referral	3	3	492
+2025-09-15	google	organic	148	145	5581
+2025-09-15	janelia.org	referral	4	4	689
+2025-09-15	perplexity.ai	referral	1	1	60
+2025-09-15	splitgal4.janelia.org	referral	23	22	64
+2025-09-16	(direct)	(none)	163	162	316
+2025-09-16	(not set)	(not set)	8	0	543
+2025-09-16	bing	organic	2	2	31
+2025-09-16	chatgpt.com	(not set)	2	2	16
+2025-09-16	chatgpt.com	referral	1	1	26
+2025-09-16	codex.flywire.ai	referral	12	12	643
+2025-09-16	de.search.yahoo.com	referral	13	13	0
+2025-09-16	elifesciences.org	referral	2	1	520
+2025-09-16	flybase.org	referral	24	24	3966
+2025-09-16	gevciamst.online	referral	1	1	0
+2025-09-16	google	organic	164	160	4864
+2025-09-16	janelia.org	referral	1	1	0
+2025-09-16	nature.com	referral	1	1	0
+2025-09-16	splitgal4.janelia.org	referral	1	1	58
+2025-09-17	(direct)	(none)	261	260	2129
+2025-09-17	(not set)	(not set)	3	0	10
+2025-09-17	bing	organic	2	2	80
+2025-09-17	chatgpt.com	referral	6	5	779
+2025-09-17	codex.flywire.ai	referral	18	18	247
+2025-09-17	duckduckgo	organic	1	1	12
+2025-09-17	facebook.com	referral	1	1	2
+2025-09-17	flybase.org	referral	26	25	3097
+2025-09-17	gevciamst.online	referral	1	1	0
+2025-09-17	google	organic	178	171	3866
+2025-09-17	janelia.org	referral	1	1	0
+2025-09-17	l.instagram.com	referral	1	1	0
+2025-09-17	neuronbridge.janelia.org	referral	1	1	0
+2025-09-17	science.org	referral	1	1	21
+2025-09-17	splitgal4.janelia.org	referral	7	6	173
+2025-09-17	temca2data.org	referral	1	1	22
+2025-09-18	(direct)	(none)	409	407	1143
+2025-09-18	(not set)	(not set)	4	0	39
+2025-09-18	bing	organic	4	3	52
+2025-09-18	chatgpt.com	referral	8	8	135
+2025-09-18	cn.bing.com	referral	6	6	649
+2025-09-18	codex.flywire.ai	referral	6	6	315
+2025-09-18	de.search.yahoo.com	referral	8	8	0
+2025-09-18	flweb.janelia.org	referral	1	1	85
+2025-09-18	flybase.org	referral	6	6	4736
+2025-09-18	google	organic	155	151	4766
+2025-09-18	janelia.org	referral	3	3	0
+2025-09-18	splitgal4.janelia.org	referral	1	1	16
+2025-09-19	(direct)	(none)	5814	5814	73247
+2025-09-19	(not set)	(not set)	13	0	293
+2025-09-19	bing	organic	2	2	14
+2025-09-19	chatgpt.com	referral	8	6	189
+2025-09-19	codex.flywire.ai	referral	4	2	354
+2025-09-19	de.search.yahoo.com	referral	6	6	0
+2025-09-19	flybase.org	referral	19	19	766
+2025-09-19	google	organic	127	122	1815
+2025-09-19	janelia.org	referral	3	3	5
+2025-09-19	ntp.msn.cn	referral	1	1	54
+2025-09-19	phimarshcer.online	referral	3	3	0
+2025-09-19	science.org	referral	2	1	1257
+2025-09-19	splitgal4.janelia.org	referral	1	1	21
+2025-09-20	(direct)	(none)	495	495	2875
+2025-09-20	(not set)	(not set)	1	0	0
+2025-09-20	bing	organic	1	1	38
+2025-09-20	chatgpt.com	referral	2	2	13
+2025-09-20	codex.flywire.ai	referral	6	6	0
+2025-09-20	flybase.org	referral	1	1	2
+2025-09-20	google	organic	66	66	3118
+2025-09-20	janelia.org	referral	2	2	35
+2025-09-20	science.org	referral	1	1	23
+2025-09-20	sciencedirect.com	referral	1	1	11
+2025-09-20	temca2data.org	referral	1	1	5
+2025-09-21	(direct)	(none)	238	236	3964
+2025-09-21	(not set)	(not set)	4	0	195
+2025-09-21	bing	organic	1	1	0
+2025-09-21	chatgpt.com	referral	4	4	10
+2025-09-21	codex.flywire.ai	referral	3	3	1280
+2025-09-21	de.search.yahoo.com	referral	1	1	1
+2025-09-21	duckduckgo	organic	1	1	22
+2025-09-21	google	organic	59	59	633
+2025-09-21	janelia.org	referral	1	1	0
+2025-09-21	yandex.ru	referral	1	1	0
+2025-09-22	(direct)	(none)	210	208	2350
+2025-09-22	(not set)	(not set)	1	0	0
+2025-09-22	bing	organic	3	3	0
+2025-09-22	chatgpt.com	(not set)	1	1	301
+2025-09-22	chatgpt.com	referral	3	3	308
+2025-09-22	codex.flywire.ai	referral	13	12	479
+2025-09-22	flweb.janelia.org	referral	3	2	23
+2025-09-22	flybase.org	referral	4	4	810
+2025-09-22	gemini.google.com	referral	1	0	0
+2025-09-22	google	organic	56	52	4465
+2025-09-22	janelia.org	referral	4	4	12
+2025-09-22	neuronbridge.janelia.org	referral	4	4	793
+2025-09-22	sciencedirect.com	referral	2	1	0
+2025-09-22	splitgal4.janelia.org	referral	11	11	199
+2025-09-22	translated.turbopages.org	referral	1	1	107
+2025-09-23	(direct)	(none)	225	222	1720
+2025-09-23	(not set)	(not set)	1	0	13
+2025-09-23	bing	organic	3	2	63
+2025-09-23	chatgpt.com	(not set)	1	1	28
+2025-09-23	chatgpt.com	referral	4	3	249
+2025-09-23	codex.flywire.ai	referral	3	2	15
+2025-09-23	doubao.com	referral	1	1	0
+2025-09-23	elifesciences.org	referral	3	3	24
+2025-09-23	en.m.wikipedia.org	referral	1	1	169
+2025-09-23	google	organic	39	35	2401
+2025-09-23	janelia.org	referral	1	1	45
+2025-09-23	neuronbridge.janelia.org	referral	6	6	0
+2025-09-23	science.org	referral	1	1	7
+2025-09-23	splitgal4.janelia.org	referral	20	20	26
+2025-09-24	(direct)	(none)	209	208	8460
+2025-09-24	(not set)	(not set)	8	0	395
+2025-09-24	bing	organic	2	2	25
+2025-09-24	chatgpt.com	(not set)	1	1	0
+2025-09-24	cn.bing.com	referral	1	1	102
+2025-09-24	codex.flywire.ai	referral	3	3	615
+2025-09-24	elifesciences.org	referral	2	2	9
+2025-09-24	flweb.janelia.org	referral	1	1	78
+2025-09-24	flybase.org	referral	1	1	2
+2025-09-24	google	organic	36	34	962
+2025-09-24	nature.com	referral	2	2	1004
+2025-09-24	perplexity.ai	referral	1	1	0
+2025-09-24	sciencedirect.com	referral	1	1	1
+2025-09-24	sdbonline.org	referral	1	1	9
+2025-09-24	splitgal4.janelia.org	referral	12	11	19
+2025-09-25	(direct)	(none)	156	155	1943
+2025-09-25	(not set)	(not set)	4	0	4
+2025-09-25	baidu	organic	8	8	28
+2025-09-25	bing	organic	1	1	0
+2025-09-25	chatgpt.com	referral	1	1	109
+2025-09-25	cn.bing.com	referral	2	2	167
+2025-09-25	codex.flywire.ai	referral	1	1	15
+2025-09-25	flweb.janelia.org	referral	3	2	84
+2025-09-25	flybase.org	referral	3	3	178
+2025-09-25	google	organic	33	30	4167
+2025-09-25	link.zhihu.com	referral	2	2	0
+2025-09-25	nature.com	referral	1	1	0
+2025-09-25	perplexity.ai	referral	1	0	0
+2025-09-26	(direct)	(none)	171	171	1605
+2025-09-26	(not set)	(not set)	4	0	20
+2025-09-26	baidu	organic	2	2	0
+2025-09-26	bing	organic	1	1	5
+2025-09-26	duckduckgo	organic	1	1	123
+2025-09-26	flybase.org	referral	2	2	52
+2025-09-26	flylight-raw.janelia.org	referral	1	1	39
+2025-09-26	google	organic	17	17	450
+2025-09-26	m.baidu.com	referral	1	1	18
+2025-09-26	neuronbridge.janelia.org	referral	3	3	83
+2025-09-26	phimarshcer.online	referral	1	1	0
+2025-09-26	yahoo	organic	1	1	1810
+2025-09-27	(direct)	(none)	169	167	1011
+2025-09-27	(not set)	(not set)	10	0	84
+2025-09-27	bing	organic	2	2	2
+2025-09-27	ca.search.yahoo.com	referral	1	1	3
+2025-09-27	cn.bing.com	referral	1	1	42
+2025-09-27	codex.flywire.ai	referral	1	1	15
+2025-09-27	flybase.org	referral	1	1	2
+2025-09-27	google	organic	13	13	3073
+2025-09-27	neuronbridge.janelia.org	referral	5	5	0
+2025-09-28	(direct)	(none)	144	142	551
+2025-09-28	(not set)	(not set)	6	0	45
+2025-09-28	bing	organic	1	1	9
+2025-09-28	chatgpt.com	referral	1	1	33
+2025-09-28	cn.bing.com	referral	2	2	45
+2025-09-28	codex.flywire.ai	referral	1	1	2
+2025-09-28	facebook.com	referral	2	2	8
+2025-09-28	google	organic	34	31	474
+2025-09-28	l.instagram.com	referral	3	3	131
+2025-09-28	neuronbridge.janelia.org	referral	10	9	0
+2025-09-29	(direct)	(none)	158	157	3273
+2025-09-29	(not set)	(not set)	6	0	19
+2025-09-29	bing	organic	1	1	24
+2025-09-29	cn.bing.com	referral	3	2	49
+2025-09-29	codex.flywire.ai	referral	2	2	179
+2025-09-29	duckduckgo	organic	1	1	7
+2025-09-29	en.wikipedia.org	referral	1	1	81
+2025-09-29	flybase.org	referral	2	2	98
+2025-09-29	google	organic	70	67	1199
+2025-09-29	splitgal4.janelia.org	referral	8	8	163
+2025-09-29	translate.google.com	referral	1	1	0
+2025-09-29	yahoo	organic	9	9	469
+2025-09-30	(direct)	(none)	176	172	2620
+2025-09-30	(not set)	(not set)	7	0	74
+2025-09-30	bing	organic	2	2	0
+2025-09-30	chatgpt.com	referral	4	3	41
+2025-09-30	codex.flywire.ai	referral	4	4	304
+2025-09-30	ecosia.org	organic	1	1	0
+2025-09-30	google	organic	83	80	2219
+2025-09-30	neurobio.uni-muenster.de	referral	1	1	6
+2025-09-30	splitgal4.janelia.org	referral	5	5	210
+2025-09-30	yahoo	organic	6	6	1855

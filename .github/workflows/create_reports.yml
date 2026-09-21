@@ -107,6 +107,18 @@ jobs:
         run: |
           cat README_header.md VFB_reporting/reports.md > README.md
 
+      - name: Run GA4 usage reports
+        # Aggregate counts only. Needs the GA4_SERVICE_ACCOUNT_KEY_JSON repository secret
+        # (Viewer on property 375054915); skipped without it, and never blocks the other reports.
+        continue-on-error: true
+        env:
+          GA4_SERVICE_ACCOUNT_KEY_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY_JSON }}
+        run: |
+          if [ -z "$GA4_SERVICE_ACCOUNT_KEY_JSON" ]; then echo "No GA4 secret set; skipping"; exit 0; fi
+          cd VFB_reporting/src
+          python ./ga4_usage_collect.py
+          python ./ga4_usage_summary.py
+
       - name: Clean up
         run: |
           rm -rfv VFB_reporting

@@ -1,0 +1,912 @@
+date	streamName	hostName	event	eventCount	usersMin
+2023-06-01	virtualflybrain.org - GA4	123456789abcdefghijklmnopq.v2.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	129.215.197.143	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	129.215.197.144	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	8c212b03-94d4-4b64-b132-a3ddc580239c.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	981gwa2l.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	admin.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	dev.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	karenin-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	4	4
+2023-06-01	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	4	4
+2023-06-01	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	4	4
+2023-06-01	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	first_visit	1	1
+2023-06-01	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	page_view	1	1
+2023-06-01	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	session_start	1	1
+2023-06-01	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	natverse1.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	natverse3.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	r.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	sb.virtualflybrain.org	first_visit	1	1
+2023-06-01	virtualflybrain.org - GA4	sb.virtualflybrain.org	page_view	1	1
+2023-06-01	virtualflybrain.org - GA4	sb.virtualflybrain.org	session_start	1	1
+2023-06-01	virtualflybrain.org - GA4	sb.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	solr.p2.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	8	8
+2023-06-01	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	112	47
+2023-06-01	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	72	33
+2023-06-01	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	60	33
+2023-06-01	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	2	2
+2023-06-01	virtualflybrain.org - GA4	virtualflybrain.org	page_view	10	2
+2023-06-01	virtualflybrain.org - GA4	virtualflybrain.org	session_start	3	2
+2023-06-01	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	11	1
+2023-06-01	virtualflybrain.org - GA4	webmail.virtualflybrain.org	user_engagement	1	1
+2023-06-01	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	31	31
+2023-06-01	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	92	38
+2023-06-01	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	44	37
+2023-06-01	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	85	32
+2023-06-02	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-02	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-02	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-02	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	buttermilk.inf.ed.ac.uk	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	debug.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	geppetto-dev1.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	jupyter.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	karenin-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	5	5
+2023-06-02	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	5	5
+2023-06-02	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	5	5
+2023-06-02	virtualflybrain.org - GA4	monitor.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	natverse3.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	solr.virtualflybrain.org	page_view	1	1
+2023-06-02	virtualflybrain.org - GA4	solr.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	user_engagement	1	1
+2023-06-02	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	11	11
+2023-06-02	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	120	54
+2023-06-02	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	53	36
+2023-06-02	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	93	39
+2023-06-02	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	2	2
+2023-06-02	virtualflybrain.org - GA4	virtualflybrain.org	page_view	4	2
+2023-06-02	virtualflybrain.org - GA4	virtualflybrain.org	session_start	2	2
+2023-06-02	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	4	2
+2023-06-02	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	32	32
+2023-06-02	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	81	40
+2023-06-02	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	44	39
+2023-06-02	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	67	30
+2023-06-03	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-03	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-03	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-03	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	3	3
+2023-06-03	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	3	3
+2023-06-03	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	3	3
+2023-06-03	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	3	3
+2023-06-03	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	36	16
+2023-06-03	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	24	12
+2023-06-03	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	13	7
+2023-06-03	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	15	15
+2023-06-03	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	17	17
+2023-06-03	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	18	17
+2023-06-03	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	12	12
+2023-06-04	virtualflybrain.org - GA4	129.215.197.110	first_visit	1	1
+2023-06-04	virtualflybrain.org - GA4	129.215.197.110	page_view	1	1
+2023-06-04	virtualflybrain.org - GA4	129.215.197.110	session_start	1	1
+2023-06-04	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	2	2
+2023-06-04	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	2	2
+2023-06-04	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	2	2
+2023-06-04	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	3	3
+2023-06-04	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	3	3
+2023-06-04	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	3	3
+2023-06-04	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	4	4
+2023-06-04	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	26	14
+2023-06-04	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	20	11
+2023-06-04	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	7	5
+2023-06-04	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	11	11
+2023-06-04	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	18	13
+2023-06-04	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	14	13
+2023-06-04	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	13	8
+2023-06-05	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	first_visit	7	7
+2023-06-05	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	page_view	7	7
+2023-06-05	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	session_start	7	7
+2023-06-05	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	2	2
+2023-06-05	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	2	2
+2023-06-05	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	2	2
+2023-06-05	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	10	10
+2023-06-05	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	81	36
+2023-06-05	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	44	29
+2023-06-05	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	52	24
+2023-06-05	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	2	2
+2023-06-05	virtualflybrain.org - GA4	virtualflybrain.org	page_view	3	3
+2023-06-05	virtualflybrain.org - GA4	virtualflybrain.org	session_start	5	3
+2023-06-05	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	2	2
+2023-06-05	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	28	28
+2023-06-05	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	86	41
+2023-06-05	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	43	39
+2023-06-05	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	68	30
+2023-06-06	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-06	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-06	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-06	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	3	3
+2023-06-06	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	3	3
+2023-06-06	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	3	3
+2023-06-06	virtualflybrain.org - GA4	tosv.byted.org	first_visit	1	1
+2023-06-06	virtualflybrain.org - GA4	tosv.byted.org	page_view	1	1
+2023-06-06	virtualflybrain.org - GA4	tosv.byted.org	session_start	1	1
+2023-06-06	virtualflybrain.org - GA4	tosv.byted.org	user_engagement	2	1
+2023-06-06	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	7	7
+2023-06-06	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	99	41
+2023-06-06	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	66	31
+2023-06-06	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	46	32
+2023-06-06	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-06	virtualflybrain.org - GA4	virtualflybrain.org	page_view	5	2
+2023-06-06	virtualflybrain.org - GA4	virtualflybrain.org	session_start	2	2
+2023-06-06	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	3	1
+2023-06-06	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	25	25
+2023-06-06	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	66	35
+2023-06-06	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	39	35
+2023-06-06	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	66	29
+2023-06-07	virtualflybrain.org - GA4	129.215.197.120	first_visit	1	1
+2023-06-07	virtualflybrain.org - GA4	129.215.197.120	page_view	1	1
+2023-06-07	virtualflybrain.org - GA4	129.215.197.120	session_start	1	1
+2023-06-07	virtualflybrain.org - GA4	129.215.197.144	first_visit	1	1
+2023-06-07	virtualflybrain.org - GA4	129.215.197.144	page_view	1	1
+2023-06-07	virtualflybrain.org - GA4	129.215.197.144	session_start	1	1
+2023-06-07	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	3	3
+2023-06-07	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	3	3
+2023-06-07	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	3	3
+2023-06-07	virtualflybrain.org - GA4	localhost	first_visit	1	1
+2023-06-07	virtualflybrain.org - GA4	localhost	page_view	2	1
+2023-06-07	virtualflybrain.org - GA4	localhost	session_start	1	1
+2023-06-07	virtualflybrain.org - GA4	localhost	user_engagement	2	1
+2023-06-07	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	10	10
+2023-06-07	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	108	45
+2023-06-07	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	69	33
+2023-06-07	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	63	36
+2023-06-07	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	5	5
+2023-06-07	virtualflybrain.org - GA4	virtualflybrain.org	page_view	7	6
+2023-06-07	virtualflybrain.org - GA4	virtualflybrain.org	session_start	6	6
+2023-06-07	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	5	4
+2023-06-07	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	32	32
+2023-06-07	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	90	43
+2023-06-07	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	48	42
+2023-06-07	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	76	40
+2023-06-08	virtualflybrain.org - GA4	129.215.197.120	user_engagement	1	1
+2023-06-08	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-08	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-08	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-08	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	5	5
+2023-06-08	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	5	5
+2023-06-08	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	5	5
+2023-06-08	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	6	6
+2023-06-08	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	110	44
+2023-06-08	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	70	32
+2023-06-08	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	63	36
+2023-06-08	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-08	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	2	1
+2023-06-08	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	21	21
+2023-06-08	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	35	30
+2023-06-08	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	31	29
+2023-06-08	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	27	24
+2023-06-09	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	first_visit	1	1
+2023-06-09	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	1	1
+2023-06-09	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	1	1
+2023-06-09	virtualflybrain.org - GA4	larval.virtualflybrain.org	first_visit	2	2
+2023-06-09	virtualflybrain.org - GA4	larval.virtualflybrain.org	page_view	2	2
+2023-06-09	virtualflybrain.org - GA4	larval.virtualflybrain.org	session_start	2	2
+2023-06-09	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	5	5
+2023-06-09	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	128	40
+2023-06-09	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	83	34
+2023-06-09	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	66	29
+2023-06-09	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	3	3
+2023-06-09	virtualflybrain.org - GA4	virtualflybrain.org	page_view	3	3
+2023-06-09	virtualflybrain.org - GA4	virtualflybrain.org	session_start	3	3
+2023-06-09	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	4	3
+2023-06-09	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	23	23
+2023-06-09	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	48	29
+2023-06-09	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	30	29
+2023-06-09	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	45	22
+2023-06-10	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	2	2
+2023-06-10	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	2	2
+2023-06-10	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	2	2
+2023-06-10	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	3	3
+2023-06-10	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	18	14
+2023-06-10	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	15	11
+2023-06-10	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	15	11
+2023-06-10	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-10	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-10	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-10	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	12	12
+2023-06-10	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	16	14
+2023-06-10	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	16	14
+2023-06-10	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	8	7
+2023-06-11	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-11	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-11	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-11	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	5	5
+2023-06-11	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	34	22
+2023-06-11	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	25	19
+2023-06-11	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	22	14
+2023-06-11	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-11	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-11	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-11	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	12	12
+2023-06-11	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	25	12
+2023-06-11	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	14	12
+2023-06-11	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	24	9
+2023-06-12	virtualflybrain.org - GA4	129.215.197.120	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	129.215.197.120	page_view	1	1
+2023-06-12	virtualflybrain.org - GA4	129.215.197.120	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-12	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	buttermilk.inf.ed.ac.uk	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	buttermilk.inf.ed.ac.uk	page_view	2	1
+2023-06-12	virtualflybrain.org - GA4	buttermilk.inf.ed.ac.uk	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	buttermilk.inf.ed.ac.uk	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	2	1
+2023-06-12	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	dill.inf.ed.ac.uk	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	dill.inf.ed.ac.uk	page_view	2	1
+2023-06-12	virtualflybrain.org - GA4	dill.inf.ed.ac.uk	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	dill.inf.ed.ac.uk	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	jenkins.virtualflybrain.org	page_view	1	1
+2023-06-12	virtualflybrain.org - GA4	jenkins.virtualflybrain.org	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	parsley.inf.ed.ac.uk	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	parsley.inf.ed.ac.uk	page_view	2	1
+2023-06-12	virtualflybrain.org - GA4	parsley.inf.ed.ac.uk	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	parsley.inf.ed.ac.uk	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	sourcream.inf.ed.ac.uk	first_visit	1	1
+2023-06-12	virtualflybrain.org - GA4	sourcream.inf.ed.ac.uk	page_view	2	1
+2023-06-12	virtualflybrain.org - GA4	sourcream.inf.ed.ac.uk	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	sourcream.inf.ed.ac.uk	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	v2.p2.virtualflybrain.org	page_view	1	1
+2023-06-12	virtualflybrain.org - GA4	v2.p2.virtualflybrain.org	user_engagement	1	1
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	1	1
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	88	17
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	7	7
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	2	1
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	284	42
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	62	30
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	31	20
+2023-06-12	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	18	6
+2023-06-12	virtualflybrain.org - GA4	virtualflybrain.org	page_view	3	1
+2023-06-12	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-12	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	2	1
+2023-06-12	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	32	32
+2023-06-12	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	73	37
+2023-06-12	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	43	37
+2023-06-12	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	59	29
+2023-06-13	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	first_visit	1	1
+2023-06-13	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	1	1
+2023-06-13	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	1	1
+2023-06-13	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	user_engagement	1	1
+2023-06-13	virtualflybrain.org - GA4	chive.inf.ed.ac.uk	first_visit	1	1
+2023-06-13	virtualflybrain.org - GA4	chive.inf.ed.ac.uk	page_view	2	1
+2023-06-13	virtualflybrain.org - GA4	chive.inf.ed.ac.uk	session_start	1	1
+2023-06-13	virtualflybrain.org - GA4	chive.inf.ed.ac.uk	user_engagement	1	1
+2023-06-13	virtualflybrain.org - GA4	pdb-dev2.virtualflybrain.org	page_view	1	1
+2023-06-13	virtualflybrain.org - GA4	pdb-dev2.virtualflybrain.org	user_engagement	1	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Dst Range
+error - rejected
+"	1	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Max Size
+error - rejected
+"	1	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Tile Size
+error - rejected
+"	1	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	4	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Minified React error #185; visit 	1	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	218	44
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	8	8
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	46	7
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	724	42
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	1	1
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	59	31
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	3	3
+2023-06-13	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	74	14
+2023-06-13	virtualflybrain.org - GA4	v2a.virtualflybrain.org	addvfbid	51	2
+2023-06-13	virtualflybrain.org - GA4	v2a.virtualflybrain.org	newtemplate	2	1
+2023-06-13	virtualflybrain.org - GA4	v2a.virtualflybrain.org	page_view	131	2
+2023-06-13	virtualflybrain.org - GA4	v2a.virtualflybrain.org	session_start	7	2
+2023-06-13	virtualflybrain.org - GA4	v2a.virtualflybrain.org	websocket-disconnect	20	2
+2023-06-13	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	4	4
+2023-06-13	virtualflybrain.org - GA4	virtualflybrain.org	page_view	5	5
+2023-06-13	virtualflybrain.org - GA4	virtualflybrain.org	session_start	4	4
+2023-06-13	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	2	2
+2023-06-13	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	29	29
+2023-06-13	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	67	37
+2023-06-13	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	39	36
+2023-06-13	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	54	29
+2023-06-14	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	2	2
+2023-06-14	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	2	2
+2023-06-14	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	2	2
+2023-06-14	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	first_visit	1	1
+2023-06-14	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	page_view	1	1
+2023-06-14	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	session_start	1	1
+2023-06-14	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	user_engagement	1	1
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	Cannot read properties of null (reading 	2	1
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	32	2
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	Issue loading: VFB_00022021	2	1
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	365	44
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	8	8
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	26	4
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	1188	43
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	84	35
+2023-06-14	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	203	25
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	"Calling Dst Range
+error - rejected
+"	1	1
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	"Calling Max Size
+error - rejected
+"	1	1
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	"Calling Tile Size
+error - rejected
+"	1	1
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	Error: Failed to load element using: IMG	16	1
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	addvfbid	11	2
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	page_view	24	2
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	session_start	9	2
+2023-06-14	virtualflybrain.org - GA4	v2a.virtualflybrain.org	websocket-disconnect	28	2
+2023-06-14	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	6	6
+2023-06-14	virtualflybrain.org - GA4	virtualflybrain.org	page_view	9	8
+2023-06-14	virtualflybrain.org - GA4	virtualflybrain.org	session_start	6	6
+2023-06-14	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	6	5
+2023-06-14	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	29	29
+2023-06-14	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	72	36
+2023-06-14	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	41	37
+2023-06-14	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	56	27
+2023-06-15	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	first_visit	1	1
+2023-06-15	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	page_view	1	1
+2023-06-15	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	session_start	1	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Each child in a list should hav	1	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `han	3	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `sty	3	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: Tree: prop ty	3	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	addvfbid	5	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	page_view	12	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	session_start	3	1
+2023-06-15	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	websocket-disconnect	2	1
+2023-06-15	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	231	35
+2023-06-15	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	9	9
+2023-06-15	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	28	3
+2023-06-15	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	565	34
+2023-06-15	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	67	31
+2023-06-15	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	153	25
+2023-06-15	virtualflybrain.org - GA4	v2a.virtualflybrain.org	addvfbid	7	1
+2023-06-15	virtualflybrain.org - GA4	v2a.virtualflybrain.org	page_view	14	1
+2023-06-15	virtualflybrain.org - GA4	v2a.virtualflybrain.org	session_start	6	1
+2023-06-15	virtualflybrain.org - GA4	v2a.virtualflybrain.org	websocket-disconnect	16	1
+2023-06-15	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	3	3
+2023-06-15	virtualflybrain.org - GA4	virtualflybrain.org	page_view	7	5
+2023-06-15	virtualflybrain.org - GA4	virtualflybrain.org	session_start	4	4
+2023-06-15	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	4	3
+2023-06-15	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	23	23
+2023-06-15	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	35	29
+2023-06-15	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	31	30
+2023-06-15	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	36	26
+2023-06-16	virtualflybrain.org - GA4	129.215.197.144	first_visit	1	1
+2023-06-16	virtualflybrain.org - GA4	129.215.197.144	page_view	1	1
+2023-06-16	virtualflybrain.org - GA4	129.215.197.144	session_start	1	1
+2023-06-16	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	first_visit	1	1
+2023-06-16	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	1	1
+2023-06-16	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	1	1
+2023-06-16	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	user_engagement	1	1
+2023-06-16	virtualflybrain.org - GA4	natverse1.virtualflybrain.org	user_engagement	1	1
+2023-06-16	virtualflybrain.org - GA4	natverse2.virtualflybrain.org	user_engagement	1	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `han	1	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `sty	1	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: Tree: prop ty	1	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	addvfbid	1	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	page_view	2	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	session_start	2	1
+2023-06-16	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	websocket-disconnect	4	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	9	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Listing Objects
+error - rejected
+"	4	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	Pixi.js Error: Could not initialize shad	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	"THREE.WebGLProgram: shader error: 
+0
+gl."	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	THREE.WebGLShader: Shader couldn't compi	2	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of nul	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of und	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Failed to execute 'getProgram	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	364	41
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	8	8
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	"gl.VALIDATE_STATUS
+false"	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	"gl.getError()
+0"	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	22	4
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	664	36
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	3	2
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	67	27
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	timing_complete	1	1
+2023-06-16	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	117	22
+2023-06-16	virtualflybrain.org - GA4	v2a.virtualflybrain.org	addvfbid	7	1
+2023-06-16	virtualflybrain.org - GA4	v2a.virtualflybrain.org	page_view	14	1
+2023-06-16	virtualflybrain.org - GA4	v2a.virtualflybrain.org	session_start	3	2
+2023-06-16	virtualflybrain.org - GA4	v2a.virtualflybrain.org	websocket-disconnect	4	2
+2023-06-16	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	4	4
+2023-06-16	virtualflybrain.org - GA4	virtualflybrain.org	page_view	18	7
+2023-06-16	virtualflybrain.org - GA4	virtualflybrain.org	session_start	9	7
+2023-06-16	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	13	5
+2023-06-16	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	19	19
+2023-06-16	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	34	26
+2023-06-16	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	29	27
+2023-06-16	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	30	22
+2023-06-17	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-17	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-17	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `han	2	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `sty	2	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: Tree: prop ty	2	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	addvfbid	4	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	page_view	6	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	session_start	1	1
+2023-06-17	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	websocket-disconnect	2	1
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Dst Range
+error - rejected
+"	1	1
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Max Size
+error - rejected
+"	1	1
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Tile Size
+error - rejected
+"	1	1
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	1	1
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	39	14
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	3	3
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	6	3
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	132	13
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	27	13
+2023-06-17	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	145	10
+2023-06-17	virtualflybrain.org - GA4	v2a.virtualflybrain.org	addvfbid	1	1
+2023-06-17	virtualflybrain.org - GA4	v2a.virtualflybrain.org	page_view	2	1
+2023-06-17	virtualflybrain.org - GA4	v2a.virtualflybrain.org	session_start	1	1
+2023-06-17	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	9	9
+2023-06-17	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	13	10
+2023-06-17	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	10	10
+2023-06-17	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	7	5
+2023-06-18	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	2	2
+2023-06-18	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	2	2
+2023-06-18	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	2	2
+2023-06-18	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	build.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	buttermilk.inf.ed.ac.uk	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	debug.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	first_visit	1	1
+2023-06-18	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	page_view	1	1
+2023-06-18	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	session_start	1	1
+2023-06-18	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	geppetto-dev.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	geppetto-dev1.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	geppetto.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	grafana.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	jitsi.virtualflybrain.org	page_view	1	1
+2023-06-18	virtualflybrain.org - GA4	jitsi.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	larval.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	monitor.virtualflybrain.org	page_view	1	1
+2023-06-18	virtualflybrain.org - GA4	monitor.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	mysql.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	natverse2.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	natverse5.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	nblast.virtualflybrain.org	first_visit	1	1
+2023-06-18	virtualflybrain.org - GA4	nblast.virtualflybrain.org	page_view	1	1
+2023-06-18	virtualflybrain.org - GA4	nblast.virtualflybrain.org	session_start	1	1
+2023-06-18	virtualflybrain.org - GA4	sb2.virtualflybrain.orgherd.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	solr-alpha.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	ubuntu.virtualflybrain.org	page_view	1	1
+2023-06-18	virtualflybrain.org - GA4	ubuntu.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	v1-5.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	v1.virtualflybrain.org	user_engagement	1	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Each child in a list should hav	1	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `han	1	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: The prop `sty	1	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	Warning: Failed prop type: Tree: prop ty	1	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	addvfbid	2	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	page_view	4	1
+2023-06-18	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	session_start	1	1
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Dst Range
+error - rejected
+"	2	1
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Max Size
+error - rejected
+"	2	1
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Calling Tile Size
+error - rejected
+"	1	1
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	8	2
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	60	14
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	1	1
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	2	1
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	166	13
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	35	12
+2023-06-18	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	65	11
+2023-06-18	virtualflybrain.org - GA4	v2a.virtualflybrain.org	addvfbid	2	1
+2023-06-18	virtualflybrain.org - GA4	v2a.virtualflybrain.org	page_view	4	1
+2023-06-18	virtualflybrain.org - GA4	v2a.virtualflybrain.org	session_start	3	2
+2023-06-18	virtualflybrain.org - GA4	v2a.virtualflybrain.org	websocket-disconnect	10	2
+2023-06-18	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	10	10
+2023-06-18	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	28	15
+2023-06-18	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	16	14
+2023-06-18	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	21	9
+2023-06-19	virtualflybrain.org - GA4	129.215.197.143	first_visit	1	1
+2023-06-19	virtualflybrain.org - GA4	129.215.197.143	page_view	1	1
+2023-06-19	virtualflybrain.org - GA4	129.215.197.143	session_start	1	1
+2023-06-19	virtualflybrain.org - GA4	129.215.197.144	first_visit	1	1
+2023-06-19	virtualflybrain.org - GA4	129.215.197.144	page_view	1	1
+2023-06-19	virtualflybrain.org - GA4	129.215.197.144	session_start	1	1
+2023-06-19	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	page_view	1	1
+2023-06-19	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	user_engagement	1	1
+2023-06-19	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	first_visit	1	1
+2023-06-19	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	page_view	1	1
+2023-06-19	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	session_start	1	1
+2023-06-19	virtualflybrain.org - GA4	flybrain.inf.ed.ac.uk	user_engagement	1	1
+2023-06-19	virtualflybrain.org - GA4	herd.virtualflybrain.org	user_engagement	1	1
+2023-06-19	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	first_visit	1	1
+2023-06-19	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	page_view	1	1
+2023-06-19	virtualflybrain.org - GA4	mayo.inf.ed.ac.uk	session_start	1	1
+2023-06-19	virtualflybrain.org - GA4	natverse1.virtualflybrain.org	user_engagement	1	1
+2023-06-19	virtualflybrain.org - GA4	p2.virtualflybrain.org	user_engagement	1	1
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of nul	1	1
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	209	25
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	6	6
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	18	4
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	660	24
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	1	1
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	47	23
+2023-06-19	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	71	13
+2023-06-19	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-19	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-19	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	12	12
+2023-06-19	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	21	17
+2023-06-19	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	19	19
+2023-06-19	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	21	17
+2023-06-20	virtualflybrain.org - GA4	129.215.197.101	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	129.215.197.147	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	6ca6ec05-0e7c-414b-ab69-6aba90258b6b.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	76e1bce3-27a5-406f-81cd-32f1152396af.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	981gwa2l.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-20	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-20	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-20	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	first_visit	2	2
+2023-06-20	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	2	2
+2023-06-20	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	2	2
+2023-06-20	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	user_engagement	2	2
+2023-06-20	virtualflybrain.org - GA4	karenin-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	kbw.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	mail.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	meet.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	natverse1.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	natverse2.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	natverse3.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	natverse4.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	natverse5.virtualflybrain.org	page_view	1	1
+2023-06-20	virtualflybrain.org - GA4	natverse5.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	nblast.virtualflybrain.org	page_view	1	1
+2023-06-20	virtualflybrain.org - GA4	nblast.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	owl.virtualflybrain.org	page_view	1	1
+2023-06-20	virtualflybrain.org - GA4	owl.virtualflybrain.org	user_engagement	2	2
+2023-06-20	virtualflybrain.org - GA4	p2.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	r.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	sb.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	sb2.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	smtp.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	10	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Minified React error #185; visit 	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	NotFoundError: Failed to execute 'remove	3	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	ReferenceError: Can't find variable: Mod	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	ReferenceError: Model is not defined	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	The instance VFB_00050432 does not exist	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of nul	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of und	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: i.getParent is not a function	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: null is not an object (evalua	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: this.sliceViewerReference is 	1	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	491	42
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	10	10
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	41	6
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	1574	39
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	11	7
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	36	24
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	timing_complete	2	1
+2023-06-20	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	39	14
+2023-06-20	virtualflybrain.org - GA4	vfbblog.inf.ed.ac.uk	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	3	3
+2023-06-20	virtualflybrain.org - GA4	virtualflybrain.org	page_view	8	3
+2023-06-20	virtualflybrain.org - GA4	virtualflybrain.org	session_start	3	3
+2023-06-20	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	8	2
+2023-06-20	virtualflybrain.org - GA4	vnc.catmaid.virtualflybrain.org	user_engagement	1	1
+2023-06-20	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	39	39
+2023-06-20	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	126	45
+2023-06-20	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	47	44
+2023-06-20	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	115	41
+2023-06-21	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-21	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-21	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-21	virtualflybrain.org - GA4	owl.virtualflybrain.org	first_visit	18	18
+2023-06-21	virtualflybrain.org - GA4	owl.virtualflybrain.org	page_view	68	18
+2023-06-21	virtualflybrain.org - GA4	owl.virtualflybrain.org	session_start	18	18
+2023-06-21	virtualflybrain.org - GA4	owl.virtualflybrain.org	user_engagement	51	18
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	Cannot read properties of null (reading 	1	1
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	47	2
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	Issue loading: VFB_00101567	1	1
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of und	3	1
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	347	44
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	10	10
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	18	5
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	979	41
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	3	1
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	57	30
+2023-06-21	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	126	17
+2023-06-21	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	4	4
+2023-06-21	virtualflybrain.org - GA4	virtualflybrain.org	page_view	14	5
+2023-06-21	virtualflybrain.org - GA4	virtualflybrain.org	session_start	5	5
+2023-06-21	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	10	4
+2023-06-21	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	30	30
+2023-06-21	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	64	41
+2023-06-21	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	44	40
+2023-06-21	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	63	35
+2023-06-22	virtualflybrain.org - GA4	api.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	dev.virtualflybrain.org	page_view	1	1
+2023-06-22	virtualflybrain.org - GA4	dev.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	ids.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	natverse5.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	owl.virtualflybrain.org	first_visit	13	13
+2023-06-22	virtualflybrain.org - GA4	owl.virtualflybrain.org	page_view	52	13
+2023-06-22	virtualflybrain.org - GA4	owl.virtualflybrain.org	session_start	13	13
+2023-06-22	virtualflybrain.org - GA4	owl.virtualflybrain.org	user_engagement	39	13
+2023-06-22	virtualflybrain.org - GA4	sb1.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	40	3
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	NotFoundError: Failed to execute 'remove	1	1
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: i.getParent is not a function	1	1
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	165	31
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	6	6
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	4	2
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	467	29
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	2	2
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	54	26
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	90	14
+2023-06-22	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-22	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-22	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-22	virtualflybrain.org - GA4	webtop.virtualflybrain.org	user_engagement	1	1
+2023-06-22	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	21	21
+2023-06-22	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	51	28
+2023-06-22	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	31	28
+2023-06-22	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	44	22
+2023-06-23	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	2	2
+2023-06-23	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	2	2
+2023-06-23	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	2	2
+2023-06-23	virtualflybrain.org - GA4	owl.virtualflybrain.org	first_visit	12	12
+2023-06-23	virtualflybrain.org - GA4	owl.virtualflybrain.org	page_view	46	12
+2023-06-23	virtualflybrain.org - GA4	owl.virtualflybrain.org	session_start	12	12
+2023-06-23	virtualflybrain.org - GA4	owl.virtualflybrain.org	user_engagement	34	12
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	22	2
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Listing Objects
+error - rejected
+"	1	1
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	211	25
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	7	7
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	28	3
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	667	25
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	46	22
+2023-06-23	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	67	11
+2023-06-23	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-23	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-23	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-23	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	1	1
+2023-06-23	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	19	19
+2023-06-23	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	49	27
+2023-06-23	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	29	26
+2023-06-23	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	42	23
+2023-06-24	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	224	15
+2023-06-24	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	2	2
+2023-06-24	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	70	2
+2023-06-24	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	780	14
+2023-06-24	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	35	15
+2023-06-24	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	96	13
+2023-06-24	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-24	virtualflybrain.org - GA4	virtualflybrain.org	page_view	3	1
+2023-06-24	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-24	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	3	1
+2023-06-24	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	7	7
+2023-06-24	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	15	12
+2023-06-24	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	11	10
+2023-06-24	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	12	9
+2023-06-25	virtualflybrain.org - GA4	8fe35b9b-0117-41a9-a316-ec54860cf39e.catmaid.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	api.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	geppetto-dev1.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	grafana.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	jitsi.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	jupyter.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	kbw.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	larval.virtualflybrain.org	user_engagement	2	2
+2023-06-25	virtualflybrain.org - GA4	mail.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	natverse1.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	nblast.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	r.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	sb.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	solr-dev.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	v1-5.virtualflybrain.org	user_engagement	1	1
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	3	1
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	139	24
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	2	2
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	4	1
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	321	24
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	39	17
+2023-06-25	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	104	15
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.github.io	first_visit	1	1
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.github.io	page_view	1	1
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.github.io	session_start	1	1
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-25	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	3	2
+2023-06-25	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	14	14
+2023-06-25	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	44	22
+2023-06-25	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	25	23
+2023-06-25	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	38	17
+2023-06-26	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-26	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-26	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	3	1
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: n.isSelected is not a functio	1	1
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: r.props.instance.isVisible is	1	1
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	460	47
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	8	8
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	30	5
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	1593	45
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	2	1
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	77	34
+2023-06-26	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	127	21
+2023-06-26	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	3	3
+2023-06-26	virtualflybrain.org - GA4	virtualflybrain.org	page_view	16	4
+2023-06-26	virtualflybrain.org - GA4	virtualflybrain.org	session_start	3	3
+2023-06-26	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	23	2
+2023-06-26	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	21	21
+2023-06-26	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	85	34
+2023-06-26	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	39	30
+2023-06-26	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	80	29
+2023-06-27	virtualflybrain.org - GA4	blog.virtualflybrain.org	first_visit	1	1
+2023-06-27	virtualflybrain.org - GA4	blog.virtualflybrain.org	page_view	3	1
+2023-06-27	virtualflybrain.org - GA4	blog.virtualflybrain.org	session_start	1	1
+2023-06-27	virtualflybrain.org - GA4	blog.virtualflybrain.org	user_engagement	1	1
+2023-06-27	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-27	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-27	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	45	4
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	"Listing Objects
+error - rejected
+"	1	1
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	ReferenceError: Can't find variable: Mod	2	1
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: Cannot read properties of nul	2	2
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: i.getParent is not a function	1	1
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: n.isSelected is not a functio	1	1
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	TypeError: r.props.instance.isVisible is	1	1
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	697	47
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	10	10
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	20	5
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	2340	48
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	react	7	4
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	103	38
+2023-06-27	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	456	28
+2023-06-27	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-27	virtualflybrain.org - GA4	virtualflybrain.org	page_view	3	2
+2023-06-27	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-27	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	1	1
+2023-06-27	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	35	35
+2023-06-27	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	83	46
+2023-06-27	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	55	45
+2023-06-27	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	65	34
+2023-06-28	virtualflybrain.org - GA4	123456789abcdefghijklmnopq.v2.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	129.215.197.144	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	61d21a5c-c24c-4060-9a1d-185c49b8cd22.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	981gwa2l.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	api.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	blanik-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	blog.virtualflybrain.org	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-28	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-28	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-28	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	2	1
+2023-06-28	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	3	1
+2023-06-28	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	dev.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	geppetto-dev1.virtualflybrain.org	page_view	1	1
+2023-06-28	virtualflybrain.org - GA4	geppetto-dev1.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	grafana.virtualflybrain.org	page_view	1	1
+2023-06-28	virtualflybrain.org - GA4	grafana.virtualflybrain.org	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	jitsi.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	jupyter.virtualflybrain.org	page_view	1	1
+2023-06-28	virtualflybrain.org - GA4	jupyter.virtualflybrain.org	session_start	1	1
+2023-06-28	virtualflybrain.org - GA4	jupyter.virtualflybrain.org	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	karenin-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	larval.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	natverse4.virtualflybrain.org	page_view	1	1
+2023-06-28	virtualflybrain.org - GA4	natverse4.virtualflybrain.org	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	owl-dev.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	owl.virtualflybrain.org	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	pdl.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	r.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	sb.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	sb2.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	sb2.virtualflybrain.orgherd.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	solr.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	test-abd1.5.catmaid.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	Error: Failed to load element using: IMG	1	1
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	addvfbid	85	20
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	3	3
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	newtemplate	2	1
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	216	22
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	45	23
+2023-06-28	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	90	19
+2023-06-28	virtualflybrain.org - GA4	v2test1.virtualflybrain.org	user_engagement	2	2
+2023-06-28	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	2	2
+2023-06-28	virtualflybrain.org - GA4	virtualflybrain.org	page_view	11	3
+2023-06-28	virtualflybrain.org - GA4	virtualflybrain.org	session_start	6	3
+2023-06-28	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	11	4
+2023-06-28	virtualflybrain.org - GA4	vnc.catmaid.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	webmail.virtualflybrain.org	user_engagement	1	1
+2023-06-28	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	24	24
+2023-06-28	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	87	38
+2023-06-28	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	47	39
+2023-06-28	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	70	32
+2023-06-29	virtualflybrain.org - GA4	6ca6ec05-0e7c-414b-ab69-6aba90258b6b.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	admin.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	api.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	blanik-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	2	2
+2023-06-29	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	2	2
+2023-06-29	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	2	2
+2023-06-29	virtualflybrain.org - GA4	build.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	first_visit	1	1
+2023-06-29	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	page_view	1	1
+2023-06-29	virtualflybrain.org - GA4	catmaid-fafb.virtualflybrain.org	session_start	1	1
+2023-06-29	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	page_view	1	1
+2023-06-29	virtualflybrain.org - GA4	cayenne.inf.ed.ac.uk	session_start	1	1
+2023-06-29	virtualflybrain.org - GA4	mail.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	natverse5.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	owl.virtualflybrain.org	user_engagement	2	2
+2023-06-29	virtualflybrain.org - GA4	r.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	sb.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	solr.p2.virtualflybrain.org	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	3	3
+2023-06-29	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	6	3
+2023-06-29	virtualflybrain.org - GA4	vfbblog.inf.ed.ac.uk	user_engagement	1	1
+2023-06-29	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	1	1
+2023-06-29	virtualflybrain.org - GA4	virtualflybrain.org	page_view	1	1
+2023-06-29	virtualflybrain.org - GA4	virtualflybrain.org	session_start	1	1
+2023-06-29	virtualflybrain.org - GA4	webtop.virtualflybrain.org	user_engagement	2	2
+2023-06-29	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	29	29
+2023-06-29	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	87	37
+2023-06-29	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	50	37
+2023-06-29	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	73	31
+2023-06-29	virtualflybrain.org - GA4	zip.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	129.215.197.110	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	blog.virtualflybrain.org	page_view	1	1
+2023-06-30	virtualflybrain.org - GA4	blog.virtualflybrain.org	session_start	1	1
+2023-06-30	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	first_visit	1	1
+2023-06-30	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	page_view	1	1
+2023-06-30	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	session_start	1	1
+2023-06-30	virtualflybrain.org - GA4	bocian-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	geppetto.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	grafana.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	karenin-jenkins.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	natverse3.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	v1-5.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	v2-dev2.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	1	1
+2023-06-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-disconnect	2	1
+2023-06-30	virtualflybrain.org - GA4	vfbblog.inf.ed.ac.uk	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	virtualflybrain.org	first_visit	2	2
+2023-06-30	virtualflybrain.org - GA4	virtualflybrain.org	page_view	9	3
+2023-06-30	virtualflybrain.org - GA4	virtualflybrain.org	session_start	3	3
+2023-06-30	virtualflybrain.org - GA4	virtualflybrain.org	user_engagement	8	2
+2023-06-30	virtualflybrain.org - GA4	webtop.virtualflybrain.org	page_view	1	1
+2023-06-30	virtualflybrain.org - GA4	webtop.virtualflybrain.org	user_engagement	1	1
+2023-06-30	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	29	29
+2023-06-30	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	100	43
+2023-06-30	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	51	45
+2023-06-30	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	85	37

@@ -1,0 +1,608 @@
+date	deviceCategory	operatingSystem	browser	activeUsers	sessions	userEngagementDuration
+2026-03-01	desktop	(not set)	(not set)	1	1	0
+2026-03-01	desktop	Linux	Chrome	5	6	555
+2026-03-01	desktop	Linux	Firefox	1	1	0
+2026-03-01	desktop	Macintosh	Chrome	24	72	558
+2026-03-01	desktop	Macintosh	Firefox	2	2	398
+2026-03-01	desktop	Macintosh	Safari	3	3	51
+2026-03-01	desktop	Windows	Chrome	1375	1389	4876
+2026-03-01	desktop	Windows	Edge	4	4	42
+2026-03-01	desktop	Windows	Opera	1	1	302
+2026-03-01	mobile	Android	Android Webview	1	1	0
+2026-03-01	mobile	Android	Chrome	1	1	0
+2026-03-01	mobile	iOS	Chrome	1	1	0
+2026-03-01	mobile	iOS	Safari	21	21	83
+2026-03-02	desktop	(not set)	(not set)	12	8	0
+2026-03-02	desktop	(not set)	Safari	1	1	1
+2026-03-02	desktop	Linux	Chrome	4	4	124
+2026-03-02	desktop	Linux	Firefox	1	1	0
+2026-03-02	desktop	Macintosh	Chrome	51	118	7724
+2026-03-02	desktop	Macintosh	Firefox	1	3	89
+2026-03-02	desktop	Macintosh	Safari	10	14	723
+2026-03-02	desktop	Windows	Chrome	1022	1065	6082
+2026-03-02	desktop	Windows	Edge	5	8	486
+2026-03-02	desktop	Windows	Firefox	1	1	0
+2026-03-02	mobile	Android	Chrome	3	3	8
+2026-03-02	mobile	iOS	Safari	15	17	32
+2026-03-03	desktop	(not set)	(not set)	1	0	0
+2026-03-03	desktop	Chrome OS	Chrome	2	2	465
+2026-03-03	desktop	Linux	Chrome	7	7	19
+2026-03-03	desktop	Linux	Firefox	3	5	618
+2026-03-03	desktop	Macintosh	Chrome	48	127	3931
+2026-03-03	desktop	Macintosh	Firefox	1	1	2
+2026-03-03	desktop	Macintosh	Safari	15	19	1182
+2026-03-03	desktop	Windows	Chrome	1125	1147	3323
+2026-03-03	desktop	Windows	Edge	12	19	2963
+2026-03-03	desktop	Windows	Firefox	4	7	429
+2026-03-03	desktop	Windows	Opera	1	1	40
+2026-03-03	mobile	Android	Android Browser	1	1	5
+2026-03-03	mobile	Android	Android Webview	1	1	0
+2026-03-03	mobile	Android	Chrome	3	3	652
+2026-03-03	mobile	iOS	Chrome	1	1	9
+2026-03-03	mobile	iOS	Safari	28	28	9
+2026-03-04	desktop	(not set)	(not set)	2	0	0
+2026-03-04	desktop	Chrome OS	Chrome	1	1	26
+2026-03-04	desktop	Linux	Chrome	10	12	205
+2026-03-04	desktop	Macintosh	Chrome	48	106	5262
+2026-03-04	desktop	Macintosh	Firefox	1	1	0
+2026-03-04	desktop	Macintosh	Safari	11	18	293
+2026-03-04	desktop	Windows	Chrome	1181	1227	8580
+2026-03-04	desktop	Windows	Edge	6	11	992
+2026-03-04	desktop	Windows	Firefox	2	2	74
+2026-03-04	desktop	Windows	Opera	0	1	0
+2026-03-04	mobile	Android	Android Webview	1	1	0
+2026-03-04	mobile	Android	Chrome	6	6	49
+2026-03-04	mobile	Android	Samsung Internet	1	1	0
+2026-03-04	mobile	Android	UC Browser	1	1	0
+2026-03-04	mobile	iOS	Chrome	1	1	170
+2026-03-04	mobile	iOS	Safari	26	26	25
+2026-03-05	desktop	Linux	Chrome	3	3	30
+2026-03-05	desktop	Linux	Firefox	1	5	1418
+2026-03-05	desktop	Linux	Samsung Internet	1	1	34
+2026-03-05	desktop	Macintosh	Chrome	43	113	859
+2026-03-05	desktop	Macintosh	Firefox	1	6	5
+2026-03-05	desktop	Macintosh	Safari	6	13	324
+2026-03-05	desktop	Windows	Chrome	1111	1162	3614
+2026-03-05	desktop	Windows	Edge	7	8	486
+2026-03-05	desktop	Windows	Firefox	1	3	245
+2026-03-05	mobile	Android	Chrome	2	2	58
+2026-03-05	mobile	Android	Edge	1	1	285
+2026-03-05	mobile	Android	Samsung Internet	1	1	31
+2026-03-05	mobile	iOS	Chrome	1	2	32
+2026-03-05	mobile	iOS	Safari	12	12	2
+2026-03-05	tablet	iOS	Safari	1	1	144
+2026-03-06	desktop	(not set)	(not set)	24	14	0
+2026-03-06	desktop	Linux	Chrome	4	4	20
+2026-03-06	desktop	Linux	Firefox	1	1	1
+2026-03-06	desktop	Macintosh	Chrome	55	98	1588
+2026-03-06	desktop	Macintosh	Firefox	2	4	10
+2026-03-06	desktop	Macintosh	Safari	6	15	673
+2026-03-06	desktop	Windows	Chrome	1006	1054	5547
+2026-03-06	desktop	Windows	Edge	10	12	676
+2026-03-06	desktop	Windows	Firefox	1	1	8
+2026-03-06	desktop	Windows	Opera	2	2	61
+2026-03-06	mobile	Android	Chrome	10	11	565
+2026-03-06	mobile	iOS	Chrome	1	1	0
+2026-03-06	mobile	iOS	Safari	13	14	72
+2026-03-07	desktop	Linux	Chrome	2	3	3
+2026-03-07	desktop	Macintosh	Chrome	50	75	384
+2026-03-07	desktop	Macintosh	Safari	3	6	1176
+2026-03-07	desktop	Windows	Chrome	892	938	5112
+2026-03-07	desktop	Windows	Edge	1	2	4
+2026-03-07	desktop	Windows	Opera	1	3	75
+2026-03-07	mobile	Android	Chrome	10	10	137
+2026-03-07	mobile	iOS	Chrome	8	10	108
+2026-03-07	mobile	iOS	Safari	24	26	400
+2026-03-08	desktop	(not set)	(not set)	3	0	0
+2026-03-08	desktop	Linux	Chrome	21	21	341
+2026-03-08	desktop	Linux	Firefox	2	3	114
+2026-03-08	desktop	Macintosh	Chrome	64	92	1650
+2026-03-08	desktop	Macintosh	Edge	1	1	7
+2026-03-08	desktop	Macintosh	Safari	16	17	718
+2026-03-08	desktop	Windows	Chrome	902	983	5395
+2026-03-08	desktop	Windows	Edge	3	5	325
+2026-03-08	desktop	Windows	Firefox	3	3	176
+2026-03-08	desktop	Windows	Opera	4	4	245
+2026-03-08	desktop	Windows	YaBrowser	2	2	7
+2026-03-08	mobile	Android	Chrome	66	67	1011
+2026-03-08	mobile	Android	Firefox	1	1	10
+2026-03-08	mobile	Android	Opera	1	1	3
+2026-03-08	mobile	iOS	Chrome	22	25	152
+2026-03-08	mobile	iOS	Safari	86	90	1412
+2026-03-08	tablet	Android	Chrome	2	2	45
+2026-03-08	tablet	iOS	Chrome	1	1	0
+2026-03-08	tablet	iOS	Safari	2	2	49
+2026-03-09	desktop	(not set)	(not set)	10	10	7
+2026-03-09	desktop	(not set)	Safari	1	1	2
+2026-03-09	desktop	Chrome OS	Chrome	8	8	1880
+2026-03-09	desktop	Linux	Chrome	28	37	940
+2026-03-09	desktop	Linux	Edge	1	1	33
+2026-03-09	desktop	Linux	Firefox	8	8	284
+2026-03-09	desktop	Linux	Opera	1	1	123
+2026-03-09	desktop	Macintosh	Chrome	110	141	5762
+2026-03-09	desktop	Macintosh	Edge	3	3	52
+2026-03-09	desktop	Macintosh	Firefox	2	3	52
+2026-03-09	desktop	Macintosh	Opera	1	1	103
+2026-03-09	desktop	Macintosh	Safari	30	45	2302
+2026-03-09	desktop	Windows	Chrome	950	1085	9291
+2026-03-09	desktop	Windows	Edge	42	47	4062
+2026-03-09	desktop	Windows	Firefox	15	15	633
+2026-03-09	desktop	Windows	Opera	15	18	1011
+2026-03-09	desktop	Windows	YaBrowser	1	1	20
+2026-03-09	mobile	Android	Android Webview	2	2	1
+2026-03-09	mobile	Android	Chrome	220	228	3280
+2026-03-09	mobile	Android	Edge	2	3	7
+2026-03-09	mobile	Android	Firefox	6	8	77
+2026-03-09	mobile	Android	Opera	5	6	75
+2026-03-09	mobile	Android	Samsung Internet	11	11	236
+2026-03-09	mobile	Android	YaBrowser	1	1	23
+2026-03-09	mobile	iOS	Chrome	40	48	637
+2026-03-09	mobile	iOS	Safari	215	229	2543
+2026-03-09	mobile	iOS	Safari (in-app)	2	2	4
+2026-03-09	tablet	Android	Chrome	4	4	159
+2026-03-09	tablet	iOS	Chrome	2	2	190
+2026-03-10	desktop	(not set)	(not set)	23	14	0
+2026-03-10	desktop	(not set)	Safari	1	1	0
+2026-03-10	desktop	Chrome OS	Chrome	18	20	1195
+2026-03-10	desktop	Linux	Chrome	71	98	3317
+2026-03-10	desktop	Linux	Firefox	14	16	459
+2026-03-10	desktop	Linux	Opera	1	1	363
+2026-03-10	desktop	Linux	Samsung Internet	2	2	27
+2026-03-10	desktop	Macintosh	Chrome	126	170	5660
+2026-03-10	desktop	Macintosh	Edge	2	2	149
+2026-03-10	desktop	Macintosh	Firefox	6	7	213
+2026-03-10	desktop	Macintosh	Mozilla Compatible Agent	1	1	0
+2026-03-10	desktop	Macintosh	Safari	63	76	3638
+2026-03-10	desktop	Windows	Chrome	1050	1187	13200
+2026-03-10	desktop	Windows	Edge	51	72	4067
+2026-03-10	desktop	Windows	Firefox	25	31	1375
+2026-03-10	desktop	Windows	Opera	27	31	2717
+2026-03-10	mobile	Android	Android Webview	3	3	58
+2026-03-10	mobile	Android	Chrome	457	473	6752
+2026-03-10	mobile	Android	Edge	4	4	56
+2026-03-10	mobile	Android	Firefox	12	12	263
+2026-03-10	mobile	Android	Opera	5	5	84
+2026-03-10	mobile	Android	Samsung Internet	17	17	303
+2026-03-10	mobile	Android	YaBrowser	1	1	3
+2026-03-10	mobile	iOS	Chrome	87	95	1967
+2026-03-10	mobile	iOS	Safari	384	421	5173
+2026-03-10	tablet	Android	Chrome	3	4	125
+2026-03-10	tablet	Android	Opera	1	1	1
+2026-03-10	tablet	iOS	Chrome	1	1	29
+2026-03-10	tablet	iOS	Safari	1	1	0
+2026-03-11	desktop	(not set)	(not set)	2	2	0
+2026-03-11	desktop	(not set)	Safari	3	3	0
+2026-03-11	desktop	Chrome OS	Chrome	18	20	1358
+2026-03-11	desktop	Linux	Chrome	45	72	1567
+2026-03-11	desktop	Linux	Firefox	7	7	147
+2026-03-11	desktop	Linux	Samsung Internet	1	1	17
+2026-03-11	desktop	Macintosh	Chrome	121	173	6452
+2026-03-11	desktop	Macintosh	Firefox	2	2	215
+2026-03-11	desktop	Macintosh	Opera	3	3	180
+2026-03-11	desktop	Macintosh	Safari	42	47	1156
+2026-03-11	desktop	Windows	Chrome	1142	1284	16071
+2026-03-11	desktop	Windows	Edge	31	39	5149
+2026-03-11	desktop	Windows	Firefox	19	19	1410
+2026-03-11	desktop	Windows	Opera	17	19	850
+2026-03-11	mobile	Android	Android Webview	3	3	142
+2026-03-11	mobile	Android	Chrome	232	240	4306
+2026-03-11	mobile	Android	Edge	2	2	47
+2026-03-11	mobile	Android	Firefox	5	5	56
+2026-03-11	mobile	Android	Opera	3	5	2
+2026-03-11	mobile	Android	Samsung Internet	16	18	272
+2026-03-11	mobile	iOS	Chrome	44	47	469
+2026-03-11	mobile	iOS	Safari	173	193	2373
+2026-03-11	mobile	iOS	Safari (in-app)	1	2	3
+2026-03-11	tablet	Android	Chrome	5	5	142
+2026-03-11	tablet	iOS	Chrome	3	3	219
+2026-03-11	tablet	iOS	Safari	1	1	35
+2026-03-12	desktop	(not set)	(not set)	10	4	0
+2026-03-12	desktop	(not set)	Safari	1	1	0
+2026-03-12	desktop	Chrome OS	Chrome	24	27	3123
+2026-03-12	desktop	Linux	Chrome	71	73	1691
+2026-03-12	desktop	Linux	Edge	1	2	37
+2026-03-12	desktop	Linux	Firefox	14	17	872
+2026-03-12	desktop	Linux	Opera	2	2	106
+2026-03-12	desktop	Linux	Samsung Internet	2	2	558
+2026-03-12	desktop	Macintosh	Chrome	127	223	14262
+2026-03-12	desktop	Macintosh	Edge	2	2	13
+2026-03-12	desktop	Macintosh	Firefox	5	5	106
+2026-03-12	desktop	Macintosh	Opera	1	2	98
+2026-03-12	desktop	Macintosh	Safari	47	52	2311
+2026-03-12	desktop	Windows	Chrome	1239	1338	18988
+2026-03-12	desktop	Windows	Edge	43	48	10389
+2026-03-12	desktop	Windows	Firefox	27	28	6650
+2026-03-12	desktop	Windows	Opera	18	24	1862
+2026-03-12	mobile	Android	Android Browser	1	1	5
+2026-03-12	mobile	Android	Android Webview	5	5	79
+2026-03-12	mobile	Android	Chrome	266	273	5112
+2026-03-12	mobile	Android	Edge	2	2	96
+2026-03-12	mobile	Android	Firefox	10	11	291
+2026-03-12	mobile	Android	Opera	6	7	83
+2026-03-12	mobile	Android	Samsung Internet	11	11	255
+2026-03-12	mobile	iOS	Chrome	37	46	636
+2026-03-12	mobile	iOS	Safari	192	203	2746
+2026-03-12	mobile	iOS	Safari (in-app)	7	7	0
+2026-03-12	tablet	Android	Chrome	4	4	394
+2026-03-12	tablet	iOS	Chrome	2	6	407
+2026-03-12	tablet	iOS	Safari	5	5	263
+2026-03-12	tablet	iOS	Safari (in-app)	1	1	0
+2026-03-13	desktop	(not set)	(not set)	5	3	0
+2026-03-13	desktop	Chrome OS	Chrome	38	40	2872
+2026-03-13	desktop	Linux	Chrome	66	67	3694
+2026-03-13	desktop	Linux	Edge	1	1	42
+2026-03-13	desktop	Linux	Firefox	6	6	84
+2026-03-13	desktop	Linux	Opera	3	3	86
+2026-03-13	desktop	Macintosh	Chrome	192	257	4139
+2026-03-13	desktop	Macintosh	Firefox	7	13	408
+2026-03-13	desktop	Macintosh	Opera	1	1	22
+2026-03-13	desktop	Macintosh	Safari	49	59	4048
+2026-03-13	desktop	Windows	Chrome	1188	1282	26485
+2026-03-13	desktop	Windows	Edge	46	57	7568
+2026-03-13	desktop	Windows	Firefox	31	40	2060
+2026-03-13	desktop	Windows	Opera	36	42	2290
+2026-03-13	mobile	Android	Android Webview	3	3	0
+2026-03-13	mobile	Android	Chrome	266	281	7726
+2026-03-13	mobile	Android	Firefox	11	15	307
+2026-03-13	mobile	Android	Opera	5	6	96
+2026-03-13	mobile	Android	Samsung Internet	7	7	350
+2026-03-13	mobile	iOS	Chrome	45	53	736
+2026-03-13	mobile	iOS	Safari	198	217	2369
+2026-03-13	mobile	iOS	Safari (in-app)	3	3	2
+2026-03-13	tablet	Android	Android Webview	1	1	86
+2026-03-13	tablet	Android	Chrome	10	10	741
+2026-03-13	tablet	iOS	Chrome	5	6	202
+2026-03-13	tablet	iOS	Safari	6	6	215
+2026-03-14	desktop	(not set)	(not set)	1	1	0
+2026-03-14	desktop	(not set)	Safari	2	2	3
+2026-03-14	desktop	Chrome OS	Chrome	9	11	567
+2026-03-14	desktop	Linux	Chrome	27	32	1926
+2026-03-14	desktop	Linux	Firefox	2	2	35
+2026-03-14	desktop	Linux	Samsung Internet	1	1	34
+2026-03-14	desktop	Macintosh	Chrome	110	164	1967
+2026-03-14	desktop	Macintosh	Firefox	2	3	175
+2026-03-14	desktop	Macintosh	Safari	25	29	2333
+2026-03-14	desktop	Windows	Chrome	781	829	20752
+2026-03-14	desktop	Windows	Edge	22	24	1674
+2026-03-14	desktop	Windows	Firefox	4	4	392
+2026-03-14	desktop	Windows	Opera	16	26	884
+2026-03-14	mobile	Android	Android Webview	4	4	48
+2026-03-14	mobile	Android	Chrome	152	166	4029
+2026-03-14	mobile	Android	Edge	2	2	13
+2026-03-14	mobile	Android	Firefox	4	5	194
+2026-03-14	mobile	Android	Opera	1	1	28
+2026-03-14	mobile	Android	Samsung Internet	6	6	225
+2026-03-14	mobile	iOS	Chrome	33	41	527
+2026-03-14	mobile	iOS	Safari	131	150	2151
+2026-03-14	tablet	Android	Chrome	5	5	207
+2026-03-14	tablet	iOS	Chrome	2	3	454
+2026-03-14	tablet	iOS	Safari	2	4	130
+2026-03-15	desktop	(not set)	Safari	2	2	8
+2026-03-15	desktop	Chrome OS	Chrome	6	9	430
+2026-03-15	desktop	Linux	Chrome	16	20	733
+2026-03-15	desktop	Linux	Firefox	3	4	262
+2026-03-15	desktop	Linux	Opera	1	1	13
+2026-03-15	desktop	Linux	Samsung Internet	1	3	133
+2026-03-15	desktop	Macintosh	Chrome	60	118	1640
+2026-03-15	desktop	Macintosh	Safari	24	30	1136
+2026-03-15	desktop	Windows	Chrome	735	786	10151
+2026-03-15	desktop	Windows	Edge	16	21	2452
+2026-03-15	desktop	Windows	Firefox	3	4	83
+2026-03-15	desktop	Windows	Opera	21	41	1551
+2026-03-15	mobile	Android	Android Webview	2	2	7
+2026-03-15	mobile	Android	Chrome	129	141	2181
+2026-03-15	mobile	Android	Edge	1	2	7
+2026-03-15	mobile	Android	Firefox	4	4	100
+2026-03-15	mobile	Android	Opera	2	2	50
+2026-03-15	mobile	Android	Samsung Internet	8	8	84
+2026-03-15	mobile	Android	YaBrowser	1	1	33
+2026-03-15	mobile	iOS	Chrome	27	32	527
+2026-03-15	mobile	iOS	Safari	107	121	1917
+2026-03-15	mobile	iOS	Safari (in-app)	1	1	0
+2026-03-15	tablet	Android	Chrome	5	5	76
+2026-03-15	tablet	Android	Opera	1	1	11
+2026-03-15	tablet	iOS	Chrome	1	1	84
+2026-03-15	tablet	iOS	Safari	1	1	206
+2026-03-16	desktop	(not set)	(not set)	6	4	0
+2026-03-16	desktop	Chrome OS	Chrome	10	16	545
+2026-03-16	desktop	Linux	Chrome	35	40	61
+2026-03-16	desktop	Linux	Samsung Internet	1	1	59
+2026-03-16	desktop	Macintosh	Chrome	53	103	2792
+2026-03-16	desktop	Macintosh	Edge	1	2	81
+2026-03-16	desktop	Macintosh	Firefox	1	3	56
+2026-03-16	desktop	Macintosh	Opera	1	2	10
+2026-03-16	desktop	Macintosh	Safari	11	15	1950
+2026-03-16	desktop	Windows	Chrome	1145	1181	7619
+2026-03-16	desktop	Windows	Edge	16	26	3414
+2026-03-16	desktop	Windows	Firefox	6	6	90
+2026-03-16	desktop	Windows	Opera	12	21	1365
+2026-03-16	mobile	Android	Chrome	21	32	838
+2026-03-16	mobile	Android	Firefox	1	1	39
+2026-03-16	mobile	Android	Opera	1	2	0
+2026-03-16	mobile	Android	Samsung Internet	2	2	108
+2026-03-16	mobile	iOS	Chrome	4	7	60
+2026-03-16	mobile	iOS	Safari	58	63	349
+2026-03-16	tablet	Android	Chrome	0	1	0
+2026-03-16	tablet	iOS	Chrome	2	2	58
+2026-03-17	desktop	(not set)	(not set)	9	4	0
+2026-03-17	desktop	(not set)	Safari	2	2	2
+2026-03-17	desktop	Chrome OS	Chrome	13	18	1156
+2026-03-17	desktop	Linux	Chrome	12	12	801
+2026-03-17	desktop	Linux	Firefox	2	2	63
+2026-03-17	desktop	Macintosh	Chrome	46	81	3330
+2026-03-17	desktop	Macintosh	Firefox	2	5	368
+2026-03-17	desktop	Macintosh	Safari	13	16	1055
+2026-03-17	desktop	Windows	Chrome	2514	2561	10869
+2026-03-17	desktop	Windows	Edge	24	33	1677
+2026-03-17	desktop	Windows	Firefox	4	8	213
+2026-03-17	desktop	Windows	Opera	7	18	369
+2026-03-17	mobile	Android	Android Webview	1	1	0
+2026-03-17	mobile	Android	Chrome	47	50	783
+2026-03-17	mobile	Android	Firefox	2	4	1
+2026-03-17	mobile	Android	Opera	3	3	86
+2026-03-17	mobile	iOS	Chrome	9	13	111
+2026-03-17	mobile	iOS	Safari	45	52	796
+2026-03-17	tablet	Android	Chrome	1	1	0
+2026-03-18	desktop	(not set)	(not set)	2	1	0
+2026-03-18	desktop	(not set)	Safari	1	1	0
+2026-03-18	desktop	Chrome OS	Chrome	8	9	786
+2026-03-18	desktop	Linux	Chrome	18	23	1097
+2026-03-18	desktop	Linux	Edge	1	1	4
+2026-03-18	desktop	Linux	Firefox	3	3	112
+2026-03-18	desktop	Macintosh	Chrome	43	101	1407
+2026-03-18	desktop	Macintosh	Edge	1	1	9
+2026-03-18	desktop	Macintosh	Firefox	5	11	2035
+2026-03-18	desktop	Macintosh	Opera	2	6	30
+2026-03-18	desktop	Macintosh	Safari	24	31	1935
+2026-03-18	desktop	Windows	Chrome	3207	3247	7653
+2026-03-18	desktop	Windows	Edge	19	22	1248
+2026-03-18	desktop	Windows	Firefox	6	8	179
+2026-03-18	desktop	Windows	Opera	7	13	576
+2026-03-18	mobile	Android	Chrome	43	45	678
+2026-03-18	mobile	Android	Firefox	4	5	212
+2026-03-18	mobile	Android	Samsung Internet	1	1	109
+2026-03-18	mobile	iOS	Chrome	7	10	31
+2026-03-18	mobile	iOS	Safari	40	47	464
+2026-03-18	tablet	Android	Chrome	1	1	0
+2026-03-18	tablet	iOS	Safari	1	1	3
+2026-03-19	desktop	(not set)	(not set)	3	1	0
+2026-03-19	desktop	Chrome OS	Chrome	6	11	282
+2026-03-19	desktop	Linux	Chrome	29	31	621
+2026-03-19	desktop	Linux	Firefox	1	2	296
+2026-03-19	desktop	Macintosh	Chrome	65	120	3225
+2026-03-19	desktop	Macintosh	Edge	1	1	1
+2026-03-19	desktop	Macintosh	Firefox	1	2	92
+2026-03-19	desktop	Macintosh	Safari	23	27	583
+2026-03-19	desktop	Windows	Chrome	2501	2579	13553
+2026-03-19	desktop	Windows	Edge	19	25	800
+2026-03-19	desktop	Windows	Firefox	3	3	128
+2026-03-19	desktop	Windows	Opera	7	9	1363
+2026-03-19	mobile	Android	Chrome	48	51	748
+2026-03-19	mobile	Android	Firefox	1	4	4
+2026-03-19	mobile	Android	Samsung Internet	2	2	74
+2026-03-19	mobile	iOS	Chrome	7	8	66
+2026-03-19	mobile	iOS	Safari	40	42	525
+2026-03-19	mobile	iOS	Safari (in-app)	2	2	2
+2026-03-19	tablet	Android	Chrome	2	2	293
+2026-03-19	tablet	iOS	Chrome	1	1	37
+2026-03-20	desktop	(not set)	(not set)	4	2	0
+2026-03-20	desktop	Chrome OS	Chrome	4	6	195
+2026-03-20	desktop	Linux	Chrome	7	7	157
+2026-03-20	desktop	Linux	Firefox	4	16	902
+2026-03-20	desktop	Macintosh	Chrome	44	95	2628
+2026-03-20	desktop	Macintosh	Firefox	1	1	19
+2026-03-20	desktop	Macintosh	Safari	15	21	1570
+2026-03-20	desktop	Windows	Chrome	2558	2634	9278
+2026-03-20	desktop	Windows	Edge	10	11	483
+2026-03-20	desktop	Windows	Firefox	6	6	347
+2026-03-20	desktop	Windows	Opera	4	6	590
+2026-03-20	mobile	Android	Android Browser	2	2	11
+2026-03-20	mobile	Android	Chrome	21	23	536
+2026-03-20	mobile	iOS	Chrome	3	3	54
+2026-03-20	mobile	iOS	Safari	35	41	133
+2026-03-20	mobile	iOS	Safari (in-app)	1	1	3
+2026-03-20	tablet	iOS	Chrome	1	1	33
+2026-03-20	tablet	iOS	Safari	1	1	2
+2026-03-21	desktop	(not set)	(not set)	2	1	0
+2026-03-21	desktop	Chrome OS	Chrome	2	2	92
+2026-03-21	desktop	Linux	Chrome	10	11	391
+2026-03-21	desktop	Linux	Firefox	1	1	47
+2026-03-21	desktop	Macintosh	Chrome	33	56	1082
+2026-03-21	desktop	Macintosh	Edge	1	2	0
+2026-03-21	desktop	Macintosh	Safari	4	4	5123
+2026-03-21	desktop	Windows	Chrome	2253	2319	4174
+2026-03-21	desktop	Windows	Edge	9	10	1196
+2026-03-21	desktop	Windows	Firefox	2	2	188
+2026-03-21	desktop	Windows	Opera	4	5	191
+2026-03-21	mobile	Android	Chrome	30	30	622
+2026-03-21	mobile	Android	Firefox	1	1	0
+2026-03-21	mobile	Android	Samsung Internet	1	1	60
+2026-03-21	mobile	iOS	Chrome	5	6	111
+2026-03-21	mobile	iOS	Safari	31	35	428
+2026-03-22	desktop	(not set)	(not set)	4	3	0
+2026-03-22	desktop	(not set)	Safari	1	1	3
+2026-03-22	desktop	Chrome OS	Chrome	1	1	5
+2026-03-22	desktop	Linux	Chrome	7	7	91
+2026-03-22	desktop	Linux	Firefox	1	2	32
+2026-03-22	desktop	Macintosh	Chrome	32	53	929
+2026-03-22	desktop	Macintosh	Safari	10	12	359
+2026-03-22	desktop	Windows	Chrome	2602	2647	3259
+2026-03-22	desktop	Windows	Edge	10	12	660
+2026-03-22	desktop	Windows	Firefox	1	1	13
+2026-03-22	desktop	Windows	Opera	2	2	10
+2026-03-22	desktop	Windows	Whale Browser	1	1	21
+2026-03-22	mobile	Android	Chrome	31	32	619
+2026-03-22	mobile	Android	Opera	1	1	29
+2026-03-22	mobile	iOS	Chrome	4	4	102
+2026-03-22	mobile	iOS	Safari	47	49	211
+2026-03-23	desktop	(not set)	(not set)	3	2	0
+2026-03-23	desktop	Chrome OS	Chrome	3	3	204
+2026-03-23	desktop	Linux	Chrome	9	9	1337
+2026-03-23	desktop	Linux	Firefox	2	4	282
+2026-03-23	desktop	Macintosh	Chrome	56	98	5221
+2026-03-23	desktop	Macintosh	Firefox	2	4	324
+2026-03-23	desktop	Macintosh	Safari	11	17	859
+2026-03-23	desktop	Windows	Chrome	5357	5428	4810
+2026-03-23	desktop	Windows	Edge	13	17	2059
+2026-03-23	desktop	Windows	Firefox	1	1	14
+2026-03-23	desktop	Windows	Opera	3	3	462
+2026-03-23	mobile	Android	Amazon Silk	1	1	107
+2026-03-23	mobile	Android	Chrome	18	18	345
+2026-03-23	mobile	Android	Edge	1	2	0
+2026-03-23	mobile	Android	Firefox	0	3	0
+2026-03-23	mobile	iOS	Chrome	3	4	330
+2026-03-23	mobile	iOS	Safari	35	40	311
+2026-03-23	tablet	Android	Chrome	1	1	100
+2026-03-23	tablet	iOS	Safari	1	1	65
+2026-03-23	tablet	iOS	Safari (in-app)	1	1	0
+2026-03-24	desktop	(not set)	(not set)	4	3	0
+2026-03-24	desktop	Chrome OS	Chrome	6	7	787
+2026-03-24	desktop	Linux	Chrome	9	10	413
+2026-03-24	desktop	Linux	Firefox	2	10	440
+2026-03-24	desktop	Macintosh	Chrome	37	109	2631
+2026-03-24	desktop	Macintosh	Firefox	3	16	25
+2026-03-24	desktop	Macintosh	Safari	16	23	2938
+2026-03-24	desktop	Windows	Chrome	1114	1158	2488
+2026-03-24	desktop	Windows	Edge	17	24	6448
+2026-03-24	desktop	Windows	Firefox	7	7	237
+2026-03-24	desktop	Windows	Opera	1	1	60
+2026-03-24	mobile	Android	Chrome	21	24	305
+2026-03-24	mobile	Android	Firefox	2	4	55
+2026-03-24	mobile	Android	Opera	0	1	0
+2026-03-24	mobile	Android	Samsung Internet	3	4	15
+2026-03-24	mobile	iOS	Chrome	5	5	28
+2026-03-24	mobile	iOS	Safari	27	35	278
+2026-03-24	tablet	iOS	Chrome	1	1	0
+2026-03-24	tablet	iOS	Safari	1	2	15
+2026-03-25	desktop	Chrome OS	Chrome	5	5	739
+2026-03-25	desktop	Linux	Chrome	14	14	664
+2026-03-25	desktop	Linux	Firefox	3	4	13
+2026-03-25	desktop	Macintosh	Chrome	190	261	2786
+2026-03-25	desktop	Macintosh	Firefox	5	17	3427
+2026-03-25	desktop	Macintosh	Opera	1	1	42
+2026-03-25	desktop	Macintosh	Safari	9	12	434
+2026-03-25	desktop	Windows	Chrome	7212	7293	9620
+2026-03-25	desktop	Windows	Edge	21	28	1010
+2026-03-25	desktop	Windows	Firefox	3	3	165
+2026-03-25	desktop	Windows	Opera	5	7	990
+2026-03-25	mobile	Android	Android Webview	1	1	0
+2026-03-25	mobile	Android	Chrome	18	19	388
+2026-03-25	mobile	Android	Firefox	2	2	20
+2026-03-25	mobile	Android	Samsung Internet	1	1	11
+2026-03-25	mobile	iOS	Chrome	2	2	208
+2026-03-25	mobile	iOS	Safari	29	32	127
+2026-03-25	tablet	Android	Chrome	0	1	0
+2026-03-25	tablet	iOS	Chrome	1	1	163
+2026-03-26	desktop	(not set)	(not set)	3	2	0
+2026-03-26	desktop	Chrome OS	Chrome	6	6	621
+2026-03-26	desktop	Linux	Chrome	7	9	683
+2026-03-26	desktop	Linux	Firefox	1	1	55
+2026-03-26	desktop	Macintosh	Chrome	263	357	5416
+2026-03-26	desktop	Macintosh	Firefox	5	25	468
+2026-03-26	desktop	Macintosh	Safari	10	13	621
+2026-03-26	desktop	Windows	Chrome	4973	5101	9813
+2026-03-26	desktop	Windows	Edge	14	19	3219
+2026-03-26	desktop	Windows	Firefox	6	7	576
+2026-03-26	desktop	Windows	Opera	7	7	679
+2026-03-26	desktop	Windows	YaBrowser	1	1	3
+2026-03-26	mobile	Android	Android Webview	1	1	47
+2026-03-26	mobile	Android	Chrome	14	14	656
+2026-03-26	mobile	Android	Firefox	0	1	0
+2026-03-26	mobile	Android	Opera	1	1	0
+2026-03-26	mobile	Android	Samsung Internet	2	2	0
+2026-03-26	mobile	iOS	Chrome	1	1	8
+2026-03-26	mobile	iOS	Safari	21	24	140
+2026-03-26	tablet	Android	Chrome	1	1	32
+2026-03-27	desktop	(not set)	(not set)	2	2	0
+2026-03-27	desktop	Chrome OS	Chrome	6	10	1883
+2026-03-27	desktop	Linux	Chrome	8	8	162
+2026-03-27	desktop	Linux	Firefox	1	1	5
+2026-03-27	desktop	Macintosh	Chrome	90	179	5679
+2026-03-27	desktop	Macintosh	Edge	2	2	19
+2026-03-27	desktop	Macintosh	Firefox	3	5	609
+2026-03-27	desktop	Macintosh	Mozilla Compatible Agent	1	1	0
+2026-03-27	desktop	Macintosh	Safari	9	14	751
+2026-03-27	desktop	Windows	Chrome	1969	2044	6135
+2026-03-27	desktop	Windows	Edge	8	11	851
+2026-03-27	desktop	Windows	Firefox	7	8	1093
+2026-03-27	desktop	Windows	Opera	3	4	85
+2026-03-27	mobile	Android	Android Webview	2	2	10
+2026-03-27	mobile	Android	Chrome	15	15	357
+2026-03-27	mobile	Android	Firefox	0	2	0
+2026-03-27	mobile	Android	Samsung Internet	1	1	8
+2026-03-27	mobile	iOS	Chrome	3	3	170
+2026-03-27	mobile	iOS	Safari	19	24	63
+2026-03-27	mobile	iOS	Safari (in-app)	1	1	37
+2026-03-28	desktop	(not set)	(not set)	1	1	0
+2026-03-28	desktop	Chrome OS	Chrome	1	1	0
+2026-03-28	desktop	Linux	Chrome	8	15	249
+2026-03-28	desktop	Linux	Firefox	2	4	1293
+2026-03-28	desktop	Macintosh	Chrome	27	43	880
+2026-03-28	desktop	Macintosh	Firefox	1	1	12
+2026-03-28	desktop	Macintosh	Safari	8	11	318
+2026-03-28	desktop	Windows	Chrome	2201	2247	4788
+2026-03-28	desktop	Windows	Edge	7	9	2839
+2026-03-28	desktop	Windows	Firefox	4	4	148
+2026-03-28	desktop	Windows	Opera	2	3	45
+2026-03-28	mobile	Android	Chrome	16	19	293
+2026-03-28	mobile	Android	Edge	1	1	5
+2026-03-28	mobile	Android	Firefox	1	2	39
+2026-03-28	mobile	Android	Opera	1	1	13
+2026-03-28	mobile	iOS	Chrome	3	3	6
+2026-03-28	mobile	iOS	Safari	23	25	343
+2026-03-28	tablet	iOS	Safari	1	1	59
+2026-03-29	desktop	(not set)	(not set)	1	1	0
+2026-03-29	desktop	Chrome OS	Chrome	1	4	80
+2026-03-29	desktop	Linux	Chrome	9	9	52
+2026-03-29	desktop	Linux	Firefox	2	2	0
+2026-03-29	desktop	Macintosh	Chrome	32	60	1421
+2026-03-29	desktop	Macintosh	Safari	5	6	47
+2026-03-29	desktop	Windows	Chrome	11768	11563	3387
+2026-03-29	desktop	Windows	Edge	10	14	440
+2026-03-29	desktop	Windows	Firefox	4	4	12
+2026-03-29	desktop	Windows	Opera	4	6	659
+2026-03-29	mobile	Android	Android Webview	3	3	0
+2026-03-29	mobile	Android	Chrome	20	20	473
+2026-03-29	mobile	Android	Firefox	2	2	23
+2026-03-29	mobile	Android	Samsung Internet	1	1	12
+2026-03-29	mobile	iOS	Chrome	2	2	83
+2026-03-29	mobile	iOS	Safari	8	13	196
+2026-03-29	tablet	iOS	Chrome	1	1	0
+2026-03-29	tablet	iOS	Safari	1	1	13
+2026-03-30	desktop	(not set)	(not set)	2	2	0
+2026-03-30	desktop	Chrome OS	Chrome	2	2	71
+2026-03-30	desktop	Linux	Chrome	9	12	1126
+2026-03-30	desktop	Linux	Firefox	1	1	0
+2026-03-30	desktop	Macintosh	Chrome	32	100	3728
+2026-03-30	desktop	Macintosh	Edge	1	1	113
+2026-03-30	desktop	Macintosh	Firefox	1	2	8
+2026-03-30	desktop	Macintosh	Safari	13	15	494
+2026-03-30	desktop	Windows	Chrome	10663	11125	8169
+2026-03-30	desktop	Windows	Edge	11	13	867
+2026-03-30	desktop	Windows	Firefox	1	1	1
+2026-03-30	desktop	Windows	Opera	4	13	314
+2026-03-30	mobile	Android	Chrome	13	13	154
+2026-03-30	mobile	Android	Samsung Internet	1	1	8
+2026-03-30	mobile	iOS	Chrome	4	4	134
+2026-03-30	mobile	iOS	Safari	11	16	114
+2026-03-30	tablet	Android	Chrome	1	1	5
+2026-03-30	tablet	iOS	Safari	1	1	5
+2026-03-31	desktop	(not set)	(not set)	10	10	0
+2026-03-31	desktop	Chrome OS	Chrome	7	7	920
+2026-03-31	desktop	Linux	Chrome	9	11	1402
+2026-03-31	desktop	Linux	Firefox	1	1	7
+2026-03-31	desktop	Macintosh	Chrome	42	112	4199
+2026-03-31	desktop	Macintosh	Firefox	1	1	7
+2026-03-31	desktop	Macintosh	Safari	6	9	211
+2026-03-31	desktop	Windows	Chrome	3868	3961	6958
+2026-03-31	desktop	Windows	Edge	7	10	185
+2026-03-31	desktop	Windows	Firefox	9	9	438
+2026-03-31	desktop	Windows	Opera	2	2	38
+2026-03-31	mobile	Android	Chrome	15	15	392
+2026-03-31	mobile	Android	Firefox	0	1	0
+2026-03-31	mobile	Android	Opera	1	1	4
+2026-03-31	mobile	Android	Samsung Internet	1	2	922
+2026-03-31	mobile	iOS	Chrome	3	3	262
+2026-03-31	mobile	iOS	Safari	14	18	136
+2026-03-31	mobile	iOS	Safari (in-app)	1	1	4
+2026-03-31	tablet	iOS	Safari	2	2	1
