@@ -1,0 +1,872 @@
+date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuration
+2023-05-10	v2.virtualflybrain.org	FBbt_00100527		1	1	0.0
+2023-05-10	v2.virtualflybrain.org	FBbt_00100527	VFB_00101567	0	1	15.0
+2023-05-10	v2.virtualflybrain.org	VFB_00063825	VFB_00017894	1	2	24.0
+2023-05-10	v2.virtualflybrain.org	VFB_00063825	VFB_00101567	0	1	62.0
+2023-05-10	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	6	7	115.0
+2023-05-10	v2.virtualflybrain.org	VFB_jrchjymx	VFB_00101567	0	1	110.0
+2023-05-10	v2.virtualflybrain.org	VFBexp_FBtp0099		2	1	62.0
+2023-05-10	v2a.virtualflybrain.org	VFB_00050000	VFB_00050000	2	1	0.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00004052	VFB_00200000	0	1	73.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00005131	VFB_00101567	0	1	260.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00007059	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00013691	VFB_00101567	0	1	63.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	2	0.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00040072	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00045003	VFB_00101567	0	1	9.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00049825	VFB_00017894	0	1	437.0
+2023-05-11	v2.virtualflybrain.org	FBbt_00110101	VFB_00101567	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00022401		1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00022401	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00022825	VFB_00017894	3	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00022825	VFB_00101567	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00022913		1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00022913	VFB_00101567	0	1	24.0
+2023-05-11	v2.virtualflybrain.org	VFB_00023324	VFB_00101567	0	2	565.0
+2023-05-11	v2.virtualflybrain.org	VFB_00023422	VFB_00101567	0	1	157.0
+2023-05-11	v2.virtualflybrain.org	VFB_00028511		1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00030866	VFB_00030866	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	1	4	588.0
+2023-05-11	v2.virtualflybrain.org	VFB_00030867	VFB_00030867	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00030867	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00042755	VFB_00101567	0	1	52.0
+2023-05-11	v2.virtualflybrain.org	VFB_00043283	VFB_00101567	0	1	99.0
+2023-05-11	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	3	5	154.0
+2023-05-11	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	10	6	65.0
+2023-05-11	v2.virtualflybrain.org	VFB_00050505	VFB_00049000	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00050505	VFB_00050000	0	1	25.0
+2023-05-11	v2.virtualflybrain.org	VFB_00069313	VFB_00101567	0	1	86.0
+2023-05-11	v2.virtualflybrain.org	VFB_00070050	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00070074	VFB_00101567	0	1	1036.0
+2023-05-11	v2.virtualflybrain.org	VFB_0010143j	VFB_00101567	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	49	43	1561.0
+2023-05-11	v2.virtualflybrain.org	VFB_00102114	VFB_00101567	0	1	88.0
+2023-05-11	v2.virtualflybrain.org	VFB_00200000		3	2	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	5	2	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchjsmu	VFB_00101384	0	1	114.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchjtd5	VFB_00101384	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchjtfa	VFB_00101567	0	1	482.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchjzn2	VFB_00101567	0	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk0ea	VFB_00101384	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk3bt	VFB_00101384	0	1	50.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk3bt	VFB_jrchk3bt	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk89n	VFB_00101567	0	1	485.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk8bp	VFB_00101567	0	1	5680.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk8gn	VFB_00101567	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFB_jrchk8ht	VFB_00101567	1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFBexp_FBtp0059		1	1	0.0
+2023-05-11	v2.virtualflybrain.org	VFBexp_FBtp0088	VFB_00101567	0	1	224.0
+2023-05-11	v2.virtualflybrain.org	VFBexp_FBtp0099		3	3	0.0
+2023-05-11	v2.virtualflybrain.org	VFBexp_FBtp0099	VFB_00101567	0	1	188.0
+2023-05-11	v2.virtualflybrain.org	VFBexp_FBtp0102		1	1	0.0
+2023-05-11	www.virtualflybrain.org	FBbt_00045050		1	1	9.0
+2023-05-12	v2.virtualflybrain.org	FBbt_00007054	VFB_00101567	0	2	0.0
+2023-05-12	v2.virtualflybrain.org	FBbt_00007059	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	FBbt_00007535	VFB_00101567	0	1	974.0
+2023-05-12	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	1	1	0.0
+2023-05-12	v2.virtualflybrain.org	FBbt_00045040	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	FBbt_00048518	VFB_00101567	0	1	1.0
+2023-05-12	v2.virtualflybrain.org	VFB_00022087	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFB_00022401	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFB_00030670	VFB_00030670	1	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFB_00030670	VFB_00101567	0	1	133.0
+2023-05-12	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	3	0	0.0
+2023-05-12	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	37	29	177.0
+2023-05-12	v2.virtualflybrain.org	VFB_00102139	VFB_00101567	0	1	190.0
+2023-05-12	v2.virtualflybrain.org	VFB_jrchjti0	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFB_jrchjy1z	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFB_jrchk7ii	VFB_00101567	0	1	215.0
+2023-05-12	v2.virtualflybrain.org	VFBexp_FBtp0062	VFB_00101567	0	1	53.0
+2023-05-12	v2.virtualflybrain.org	VFBexp_FBtp0101		1	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFBexp_FBtp0101	VFB_00101567	0	1	0.0
+2023-05-12	v2.virtualflybrain.org	VFBexp_FBtp0117		1	1	0.0
+2023-05-12	www.virtualflybrain.org	VFB_00000001		1	1	19.0
+2023-05-13	v2.virtualflybrain.org	FBbt_00007401	VFB_00101567	0	1	326.0
+2023-05-13	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	1	0.0
+2023-05-13	v2.virtualflybrain.org	FBbt_00040042	VFB_00030786	0	1	8.0
+2023-05-13	v2.virtualflybrain.org	FBbt_00045027	VFB_00101567	0	1	45.0
+2023-05-13	v2.virtualflybrain.org	FBbt_00045040	VFB_00101567	1	0	0.0
+2023-05-13	v2.virtualflybrain.org	VFB_00030828	VFB_00030786	1	1	0.0
+2023-05-13	v2.virtualflybrain.org	VFB_00030828	VFB_00101567	0	1	98.0
+2023-05-13	v2.virtualflybrain.org	VFB_00100xux	VFB_00101567	0	1	0.0
+2023-05-13	v2.virtualflybrain.org	VFB_001013rx	VFB_00101567	1	0	0.0
+2023-05-13	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	25	16	77.0
+2023-05-13	v2.virtualflybrain.org	VFB_jrchk8s1	VFB_00101567	0	1	0.0
+2023-05-13	v2.virtualflybrain.org	VFBexp_FBtp0059		2	1	0.0
+2023-05-13	v2.virtualflybrain.org	VFBexp_FBtp0059	VFB_00101567	0	1	2.0
+2023-05-13	v2.virtualflybrain.org	VFBexp_FBtp0060		2	1	0.0
+2023-05-13	v2.virtualflybrain.org	VFBexp_FBtp0060	VFB_00101567	0	1	13.0
+2023-05-13	v2.virtualflybrain.org	VFBexp_FBtp0102	VFB_00101567	0	1	0.0
+2023-05-14	solr-dev.virtualflybrain.org	VFB_00000001		1	1	1.0
+2023-05-14	v2-dev.virtualflybrain.org	FBbt_00003679	VFB_00101567	0	1	94.0
+2023-05-14	v2-dev.virtualflybrain.org	FBbt_00040037	VFB_00101567	0	1	878.0
+2023-05-14	v2-dev.virtualflybrain.org	VFB_00101567	VFB_00101567	4	3	0.0
+2023-05-14	v2.virtualflybrain.org	FBbt_00047095	VFB_00101567	0	1	0.0
+2023-05-14	v2.virtualflybrain.org	FBbt_00100386	VFB_00101567	1	1	0.0
+2023-05-14	v2.virtualflybrain.org	FBbt_00110297		1	1	0.0
+2023-05-14	v2.virtualflybrain.org	FBbt_00110297	VFB_00101567	0	1	140.0
+2023-05-14	v2.virtualflybrain.org	VFB_00022401	VFB_00101567	0	1	0.0
+2023-05-14	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	1	0	0.0
+2023-05-14	v2.virtualflybrain.org	VFB_001012e3	VFB_00101567	0	1	0.0
+2023-05-14	v2.virtualflybrain.org	VFB_001013rx	VFB_00101567	0	1	0.0
+2023-05-14	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	31	21	348.0
+2023-05-14	v2.virtualflybrain.org	VFB_00102134	VFB_00101567	0	1	0.0
+2023-05-14	v2.virtualflybrain.org	VFB_jrchk8s1	VFB_00101567	0	1	3.0
+2023-05-14	v2.virtualflybrain.org	VFBexp_FBti0033		2	1	4.0
+2023-05-14	v2.virtualflybrain.org	VFBexp_FBtp0101	VFB_00101567	1	0	0.0
+2023-05-14	v2a.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	1	0.0
+2023-05-14	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	1	1	0.0
+2023-05-15	v2-dev.virtualflybrain.org	FBbt_00045048	VFB_00101567	1	1	22.0
+2023-05-15	v2-dev.virtualflybrain.org	VFB_00101567	VFB_00101567	4	1	0.0
+2023-05-15	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	3	51.0
+2023-05-15	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	1	116.0
+2023-05-15	v2.virtualflybrain.org	FBbt_00007102		1	1	6.0
+2023-05-15	v2.virtualflybrain.org	FBbt_00045046		1	1	39.0
+2023-05-15	v2.virtualflybrain.org	FBbt_00100217	VFB_00101567	0	1	1.0
+2023-05-15	v2.virtualflybrain.org	FBbt_00100247	VFB_00101567	1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00000001	VFB_00101567	0	1	157.0
+2023-05-15	v2.virtualflybrain.org	VFB_00013612	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00020696	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00020794		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00022401	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00022781	VFB_00101567	0	1	49.0
+2023-05-15	v2.virtualflybrain.org	VFB_00023421		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	3	3	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	5	2	31.0
+2023-05-15	v2.virtualflybrain.org	VFB_00056507	VFB_00049000	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00065112	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00065496	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00070053	VFB_00017894	1	2	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00070056	VFB_00101567	0	1	3225.0
+2023-05-15	v2.virtualflybrain.org	VFB_00100596	VFB_00050000	1	2	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00100yov	VFB_00101567	0	1	423.0
+2023-05-15	v2.virtualflybrain.org	VFB_001011qt	VFB_00101567	0	1	160.0
+2023-05-15	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	3	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_001014uq	VFB_00101567	0	1	336.0
+2023-05-15	v2.virtualflybrain.org	VFB_001014uq	VFB_00110000	1	2	29.0
+2023-05-15	v2.virtualflybrain.org	VFB_00101567		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	51	42	1728.0
+2023-05-15	v2.virtualflybrain.org	VFB_00102118	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_00102134	VFB_00101567	0	1	1.0
+2023-05-15	v2.virtualflybrain.org	VFB_jrchjvrz	VFB_00101567	1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFB_jrchjxii	VFB_00101567	0	1	954.0
+2023-05-15	v2.virtualflybrain.org	VFB_jrchjxiq	VFB_00101567	0	1	235.0
+2023-05-15	v2.virtualflybrain.org	VFB_jrchk80h	VFB_00101567	0	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0057		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0057	VFB_00101567	0	1	8.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0058		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0058	VFB_00101567	0	1	10.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0059		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0060		2	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0064		1	1	0.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0064	VFB_00101567	0	1	78.0
+2023-05-15	v2.virtualflybrain.org	VFBexp_FBtp0101		1	1	0.0
+2023-05-15	v2a.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	1	2.0
+2023-05-15	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	5	4	0.0
+2023-05-15	www.virtualflybrain.org	VFB_00022798		2	1	3.0
+2023-05-16	v2-dev.virtualflybrain.org	FBbt_00045048	VFB_00101567	1	1	0.0
+2023-05-16	v2-dev.virtualflybrain.org	VFB_00101567	VFB_00101567	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00003623	VFB_00101567	0	1	99.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	1	2	118.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00003881	VFB_00101567	0	1	132.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00004053	VFB_00101567	2	1	0.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00007146	VFB_00101567	0	1	78.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	0	1	35.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00040042	VFB_00101567	0	1	366.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00045047	VFB_00101567	0	1	1299.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00110443		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00110636	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	FBbt_00110639	VFB_00101567	0	1	306.0
+2023-05-16	v2.virtualflybrain.org	VFB_00000818	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00006370	VFB_00006370	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00006370	VFB_00101567	0	1	9.0
+2023-05-16	v2.virtualflybrain.org	VFB_00006637	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00013614	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00013816	VFB_00101567	0	1	184.0
+2023-05-16	v2.virtualflybrain.org	VFB_00022082		1	1	44.0
+2023-05-16	v2.virtualflybrain.org	VFB_00022283		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00022283	VFB_00101567	0	1	136.0
+2023-05-16	v2.virtualflybrain.org	VFB_00022401	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00026047	VFB_00101567	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00026940	VFB_00017894	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00026940	VFB_00101384	0	2	253.0
+2023-05-16	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	3	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00056603	VFB_00049000	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00070036	VFB_00101567	1	2	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00070067	VFB_00101567	0	1	102.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100596	VFB_00049000	0	1	13.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100972	VFB_00050000	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100972	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100991	VFB_00050000	0	1	334.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100vtu	VFB_00101567	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100ytf	VFB_00101567	0	1	48.0
+2023-05-16	v2.virtualflybrain.org	VFB_00100zdf	VFB_00101567	0	1	42.0
+2023-05-16	v2.virtualflybrain.org	VFB_00101020	VFB_00050000	1	2	17.0
+2023-05-16	v2.virtualflybrain.org	VFB_00101020	VFB_00101567	0	1	125.0
+2023-05-16	v2.virtualflybrain.org	VFB_001011rh	VFB_00101567	1	2	15.0
+2023-05-16	v2.virtualflybrain.org	VFB_001011s8	VFB_00101567	4	3	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_0010123s	VFB_00101567	0	1	394.0
+2023-05-16	v2.virtualflybrain.org	VFB_001012ok	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00101434	VFB_00101384	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	80	50	2116.0
+2023-05-16	v2.virtualflybrain.org	VFB_00101f4o	VFB_00101567	0	1	360.0
+2023-05-16	v2.virtualflybrain.org	VFB_00102133	VFB_00101567	0	1	25.0
+2023-05-16	v2.virtualflybrain.org	VFB_00102159	VFB_00101567	0	1	69.0
+2023-05-16	v2.virtualflybrain.org	VFB_00102274	VFB_00101567	2	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00102281	VFB_00101567	0	1	52.0
+2023-05-16	v2.virtualflybrain.org	VFB_00104653	VFB_00200000	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00200000		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00200000	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	2	3	36.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchjtge	VFB_00101567	0	1	2.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchjti1	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchjtqo	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchjttz	VFB_00101567	0	1	111.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchk0vg	VFB_00101567	0	1	74.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchk103	VFB_00017894	0	1	325.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchk103	VFB_00101567	1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchk10d	VFB_00101567	2	4	0.0
+2023-05-16	v2.virtualflybrain.org	VFB_jrchk45e	VFB_00101567	0	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0057		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0057	VFB_00101567	0	1	28.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0059		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0059	VFB_00101567	0	1	11.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0061		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0062		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0117		1	1	0.0
+2023-05-16	v2.virtualflybrain.org	VFBexp_FBtp0123		2	1	6.0
+2023-05-16	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	3	1	0.0
+2023-05-16	www.virtualflybrain.org	FBbt_00110022		1	1	2.0
+2023-05-16	www.virtualflybrain.org	VFB_00022798		1	1	5.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	0	1	110.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00003684	VFB_00101567	0	1	34.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00004053	VFB_00101567	1	0	0.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00007053	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00007054	VFB_00101567	0	1	313.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	0	1	113.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00040037	VFB_00101567	0	1	178.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	1	0	0.0
+2023-05-17	v2.virtualflybrain.org	FBbt_00045051	VFB_00101567	0	1	180.0
+2023-05-17	v2.virtualflybrain.org	VFB_00023631		2	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00023631	VFB_00101567	0	1	1.0
+2023-05-17	v2.virtualflybrain.org	VFB_00029447		1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00029447	VFB_00101567	0	1	24.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030786	VFB_00030786	1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030804	VFB_00030786	1	2	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030804	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030816	VFB_00030786	1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030854	VFB_00030786	0	1	179.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030866	VFB_00017894	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	2	2	2.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030867	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030871	VFB_00017894	1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030871	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00030875	VFB_00017894	1	2	17.0
+2023-05-17	v2.virtualflybrain.org	VFB_00040797	VFB_00101567	0	1	113.0
+2023-05-17	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	1	0	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00050498	VFB_00049000	1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00056507	VFB_00049000	1	2	33.0
+2023-05-17	v2.virtualflybrain.org	VFB_00056507	VFB_00050000	0	1	35.0
+2023-05-17	v2.virtualflybrain.org	VFB_00063700		1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00063700	VFB_00100000	0	1	23.0
+2023-05-17	v2.virtualflybrain.org	VFB_00064781		1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00064781	VFB_00100000	0	1	39.0
+2023-05-17	v2.virtualflybrain.org	VFB_001001n9	VFB_00049000	0	1	33.0
+2023-05-17	v2.virtualflybrain.org	VFB_001001n9	VFB_00050000	1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	65	24	217.0
+2023-05-17	v2.virtualflybrain.org	VFB_00102118	VFB_00101567	2	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00102171	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	2	3	287.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchjti0	VFB_00101567	1	0	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk0w3	VFB_00101567	0	1	498.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk10d	VFB_00101567	1	0	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk1li	VFB_00101567	0	1	228.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk386	VFB_00101567	0	1	286.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk4g5	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk7j5	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk7k3	VFB_00101567	1	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFB_jrchk8ht	VFB_00101567	0	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFBexp_FBtp0101		2	2	0.0
+2023-05-17	v2.virtualflybrain.org	VFBexp_FBtp0110		2	1	0.0
+2023-05-17	v2.virtualflybrain.org	VFBexp_FBtp0110	VFB_00101567	0	1	139.0
+2023-05-18	v2-dev.virtualflybrain.org	FBbt_00045048	VFB_00101567	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00003679	VFB_00101567	0	1	30.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	1	323.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00007385		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	2	186.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	0	1	47.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00047348	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00047603	VFB_00101567	0	1	158.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00110429	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00110548	VFB_00101567	0	1	26.0
+2023-05-18	v2.virtualflybrain.org	FBbt_00110636	VFB_00101567	0	1	138.0
+2023-05-18	v2.virtualflybrain.org	VFB_00023631	VFB_00101567	1	2	24.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030016		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030786	VFB_00030786	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030804	VFB_00030786	0	1	2.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030804	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030810	VFB_00030786	1	2	10.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030856	VFB_00017894	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030856	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00039615	VFB_00017894	0	1	1282.0
+2023-05-18	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	1	0	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00069412	VFB_00101567	0	1	206.0
+2023-05-18	v2.virtualflybrain.org	VFB_00100wog	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_001012mp		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_001012mp	VFB_00101567	0	1	84.0
+2023-05-18	v2.virtualflybrain.org	VFB_001012xc		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_001012zc		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_0010136v		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	0	1	11.0
+2023-05-18	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	67	31	1115.0
+2023-05-18	v2.virtualflybrain.org	VFB_001015a4		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_001015a4	VFB_00050000	0	1	56.0
+2023-05-18	v2.virtualflybrain.org	VFB_00101686	VFB_00050000	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_001018n1	VFB_00101567	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00102098	VFB_00050000	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00102171	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_00102176	VFB_00101567	0	1	84.0
+2023-05-18	v2.virtualflybrain.org	VFB_00103543		1	1	7.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchjrhd	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchjttz	VFB_00101567	0	1	96.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchjx87	VFB_00101567	1	0	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk0fy	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk10d	VFB_00101567	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk10e	VFB_00101567	1	2	16.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk45e	VFB_00101384	1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk70f	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk8dp	VFB_00101567	1	2	0.0
+2023-05-18	v2.virtualflybrain.org	VFB_jrchk8s1	VFB_00101567	0	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFBexp_FBtp0058		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFBexp_FBtp0060	VFB_00101567	0	1	60.0
+2023-05-18	v2.virtualflybrain.org	VFBexp_FBtp0063		1	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFBexp_FBtp0100		3	1	0.0
+2023-05-18	v2.virtualflybrain.org	VFBexp_FBtp0100	VFB_00101567	0	1	32.0
+2023-05-18	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	1	1	0.0
+2023-05-18	v2a.virtualflybrain.org	VFB_jrchk8dc	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00001315	VFB_00049000	0	2	231.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00001315	VFB_00050000	0	1	159.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00001453		2	1	7.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00003852	VFB_00101567	0	1	141.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00003924	VFB_00101567	0	1	151.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00007080	VFB_00101384	0	2	5.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00007677	VFB_00017894	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	1	62.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00040050	VFB_00101567	0	1	110.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00045050	VFB_00101567	1	1	245.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00048404	VFB_00049000	0	1	272.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00052094	VFB_00101567	0	1	46.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00100482	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	FBbt_00100497	VFB_00049000	0	1	484.0
+2023-05-19	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	2	2	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00024648	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00030611	VFB_00017894	1	2	11.0
+2023-05-19	v2.virtualflybrain.org	VFB_00030611	VFB_00110000	0	1	66.0
+2023-05-19	v2.virtualflybrain.org	VFB_00030840	VFB_00017894	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	1	0	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	5	4	98.0
+2023-05-19	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	8	4	332.0
+2023-05-19	v2.virtualflybrain.org	VFB_00050465	VFB_00049000	1	2	19.0
+2023-05-19	v2.virtualflybrain.org	VFB_00050505	VFB_00049000	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00050505	VFB_00050000	0	1	57.0
+2023-05-19	v2.virtualflybrain.org	VFB_0010022w	VFB_00050000	0	1	83.0
+2023-05-19	v2.virtualflybrain.org	VFB_0010024x	VFB_00050000	1	2	13.0
+2023-05-19	v2.virtualflybrain.org	VFB_0010024x	VFB_00101567	0	1	165.0
+2023-05-19	v2.virtualflybrain.org	VFB_00101034	VFB_00050000	1	2	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00101034	VFB_00101567	0	1	75.0
+2023-05-19	v2.virtualflybrain.org	VFB_001011dh	VFB_00101384	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_001011dh	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_001012qf	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00101465	VFB_00049000	0	1	249.0
+2023-05-19	v2.virtualflybrain.org	VFB_00101465	VFB_00050000	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_001014ul	VFB_00110000	0	1	43.0
+2023-05-19	v2.virtualflybrain.org	VFB_001014uq	VFB_00101567	0	1	172.0
+2023-05-19	v2.virtualflybrain.org	VFB_001014uq	VFB_00110000	2	2	8.0
+2023-05-19	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	74	42	382.0
+2023-05-19	v2.virtualflybrain.org	VFB_00102118	VFB_00101567	1	1	3.0
+2023-05-19	v2.virtualflybrain.org	VFB_00102155	VFB_00050000	0	1	639.0
+2023-05-19	v2.virtualflybrain.org	VFB_00102170	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00102171	VFB_00101567	1	2	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_00110000	VFB_00110000	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_jrchjttz	VFB_00101567	1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_jrchju38	VFB_00101567	0	1	31.0
+2023-05-19	v2.virtualflybrain.org	VFB_jrchjx87	VFB_00101567	2	0	0.0
+2023-05-19	v2.virtualflybrain.org	VFB_jrchk88z	VFB_00101567	0	1	208.0
+2023-05-19	v2.virtualflybrain.org	VFB_jrchk8dr	VFB_00101567	0	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFBexp_FBtp0058		2	1	5.0
+2023-05-19	v2.virtualflybrain.org	VFBexp_FBtp0105		1	1	0.0
+2023-05-19	v2.virtualflybrain.org	VFBexp_FBtp0105	VFB_00101567	0	1	10.0
+2023-05-19	v2a.virtualflybrain.org	VFB_00030826	VFB_00030786	1	1	0.0
+2023-05-19	www.virtualflybrain.org	FBbt_00003624		1	1	4.0
+2023-05-20	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	FBbt_00045027	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	0	1	107.0
+2023-05-20	v2.virtualflybrain.org	FBbt_00100247	VFB_00101567	1	1	0.0
+2023-05-20	v2.virtualflybrain.org	FBbt_00111634	VFB_00049000	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	1	0	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	3	2	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_00050498	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_00069359	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_001012qf	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_001012s1	VFB_00101567	0	1	579.0
+2023-05-20	v2.virtualflybrain.org	VFB_001012sp	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	42	22	124.0
+2023-05-20	v2.virtualflybrain.org	VFB_00102135	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_00102280	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_jrchjvrz	VFB_00101567	0	1	0.0
+2023-05-20	v2.virtualflybrain.org	VFB_jrchk8ds	VFB_00101567	1	2	0.0
+2023-05-21	v2-dev.virtualflybrain.org	VFB_00050000	VFB_00050000	1	1	0.0
+2023-05-21	v2-dev.virtualflybrain.org	VFB_00100056	VFB_00050000	0	1	0.0
+2023-05-21	v2-dev.virtualflybrain.org	VFB_00101567	VFB_00101567	1	2	36.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00004052	VFB_00200000	0	1	59.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00007053	VFB_00101567	0	1	0.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00007401	VFB_00101567	0	1	380.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00047176	VFB_00200000	0	1	67.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00100219	VFB_00101567	0	1	0.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00100258	VFB_00101567	2	2	0.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00110174	VFB_00200000	0	2	77.0
+2023-05-21	v2.virtualflybrain.org	FBbt_00110175	VFB_00200000	0	1	93.0
+2023-05-21	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	2	2	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_00023725	VFB_00017894	1	2	39.0
+2023-05-21	v2.virtualflybrain.org	VFB_00030871	VFB_00017894	1	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_00030871	VFB_00101567	0	1	164.0
+2023-05-21	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	1	0	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_00050505	VFB_00101567	0	1	32.0
+2023-05-21	v2.virtualflybrain.org	VFB_001012mh	VFB_00101567	0	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_0010133h	VFB_00101567	1	1	64.0
+2023-05-21	v2.virtualflybrain.org	VFB_001014uq	VFB_00101567	0	2	484.0
+2023-05-21	v2.virtualflybrain.org	VFB_001014uq	VFB_00110000	1	2	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	56	30	89.0
+2023-05-21	v2.virtualflybrain.org	VFB_00101rze	VFB_00101567	4	3	276.0
+2023-05-21	v2.virtualflybrain.org	VFB_00101rze	VFB_00200000	0	1	182.0
+2023-05-21	v2.virtualflybrain.org	VFB_001020b1	VFB_00200000	0	1	129.0
+2023-05-21	v2.virtualflybrain.org	VFB_00102114	VFB_00101567	0	2	1008.0
+2023-05-21	v2.virtualflybrain.org	VFB_00102176	VFB_00101567	0	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_00104640	VFB_00200000	0	1	41.0
+2023-05-21	v2.virtualflybrain.org	VFB_00104652	VFB_00200000	0	1	1733.0
+2023-05-21	v2.virtualflybrain.org	VFB_00110000	VFB_00110000	1	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	12	9	155.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchju3v	VFB_00101567	0	2	520.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchju5o	VFB_00017894	0	2	365.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchju5o	VFB_00101567	1	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchju6l	VFB_00101567	0	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchju6o	VFB_00101567	0	1	0.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchju7u	VFB_00101567	0	1	2637.0
+2023-05-21	v2.virtualflybrain.org	VFB_jrchk87n	VFB_00101567	0	1	96.0
+2023-05-21	v2a.virtualflybrain.org	VFB_00050000	VFB_00050000	1	1	0.0
+2023-05-21	v2a.virtualflybrain.org	VFB_00100056	VFB_00050000	0	1	18.0
+2023-05-22	v2-dev.virtualflybrain.org	FBbt_00049232	VFB_00050000	0	1	52.0
+2023-05-22	v2-dev.virtualflybrain.org	VFB_00050000	VFB_00050000	1	1	0.0
+2023-05-22	v2-dev.virtualflybrain.org	VFB_00101567		1	1	0.0
+2023-05-22	v2-dev.virtualflybrain.org	VFB_00101567	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	1	1	0.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00007115		1	1	0.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00007115	VFB_00101567	0	1	1.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00040049	VFB_00101567	0	1	14.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00047887	VFB_00101567	0	1	167.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00048071		1	1	0.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00048071	VFB_00101567	0	1	1.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00100241	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00111634	VFB_00049000	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	FBbt_00111634	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00020608	VFB_00020608	1	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00020608	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00030855	VFB_00030786	1	2	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	2	3	325.0
+2023-05-22	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	9	10	159.0
+2023-05-22	v2.virtualflybrain.org	VFB_00050314	VFB_00049000	1	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00050314	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00050498	VFB_00101567	1	0	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00050505	VFB_00049000	0	1	332.0
+2023-05-22	v2.virtualflybrain.org	VFB_00069359	VFB_00101567	0	1	389.0
+2023-05-22	v2.virtualflybrain.org	VFB_001010f5		1	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_001012cr	VFB_00101567	0	1	452.0
+2023-05-22	v2.virtualflybrain.org	VFB_001012s1	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	40	29	329.0
+2023-05-22	v2.virtualflybrain.org	VFB_00102119	VFB_00101567	0	1	192.0
+2023-05-22	v2.virtualflybrain.org	VFB_00102121	VFB_00101567	0	2	308.0
+2023-05-22	v2.virtualflybrain.org	VFB_00102146	VFB_00101567	1	0	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_00102201	VFB_00101567	0	1	234.0
+2023-05-22	v2.virtualflybrain.org	VFB_00102272	VFB_00050000	0	1	991.0
+2023-05-22	v2.virtualflybrain.org	VFB_00102275	VFB_00101567	0	1	162.0
+2023-05-22	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	1	2	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_jrchjsmu	VFB_00101567	0	1	251.0
+2023-05-22	v2.virtualflybrain.org	VFB_jrchjt72	VFB_00101567	1	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFB_jrchjvrz	VFB_00101567	0	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFBexp_FBtp0012	VFB_00101567	1	1	131.0
+2023-05-22	v2.virtualflybrain.org	VFBexp_FBtp0058		1	1	0.0
+2023-05-22	v2.virtualflybrain.org	VFBexp_FBtp0058	VFB_00101567	0	1	22.0
+2023-05-22	v2.virtualflybrain.org	VFBexp_FBtp0059	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00003681	VFB_00101384	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00003684	VFB_00101567	0	1	44.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00003731	VFB_00101384	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	1	8.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00004246		1	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00004246	VFB_00101567	0	1	16.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	1	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00048509	VFB_00101567	0	1	64.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00049105	VFB_00101567	0	1	65.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00110620	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	FBbt_00111634	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00013612	VFB_00101567	0	2	177.0
+2023-05-23	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	1	2	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00030855	VFB_00050000	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00030870	VFB_00017894	1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	6	1	61.0
+2023-05-23	v2.virtualflybrain.org	VFB_00068628		1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00068628	VFB_00100000	0	1	47.0
+2023-05-23	v2.virtualflybrain.org	VFB_00069359	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_0010027r	VFB_00050000	1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_0010027r	VFB_00101567	0	1	112.0
+2023-05-23	v2.virtualflybrain.org	VFB_0010028k	VFB_00050000	0	1	269.0
+2023-05-23	v2.virtualflybrain.org	VFB_00100972	VFB_00050000	1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00100972	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_001012lr	VFB_00101567	0	1	787.0
+2023-05-23	v2.virtualflybrain.org	VFB_001012sz	VFB_00101567	1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	4	3	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00101567		1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	63	43	545.0
+2023-05-23	v2.virtualflybrain.org	VFB_00102107		1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00102107	VFB_00101567	0	2	162.0
+2023-05-23	v2.virtualflybrain.org	VFB_00102119	VFB_00101567	0	1	196.0
+2023-05-23	v2.virtualflybrain.org	VFB_00102121	VFB_00101567	0	1	188.0
+2023-05-23	v2.virtualflybrain.org	VFB_00102146	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_00102201	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchjt72	VFB_00101567	1	2	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchjtff	VFB_00101567	0	2	696.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchju38	VFB_00101567	0	1	56.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchjvrz	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchjx87	VFB_00101567	1	0	0.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchk04t	VFB_00101567	0	1	292.0
+2023-05-23	v2.virtualflybrain.org	VFB_jrchk10d	VFB_00101567	0	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFBexp_FBtp0012	VFB_00101567	2	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFBexp_FBtp0099		1	1	0.0
+2023-05-23	v2.virtualflybrain.org	VFBexp_FBtp0099	VFB_00101567	0	1	0.0
+2023-05-23	v2a.virtualflybrain.org	VFB_00049000	VFB_00049000	1	1	0.0
+2023-05-23	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	3	4	454.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00001919	VFB_00049000	0	1	90.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	657.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00006009	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	0	1	229.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00007432	VFB_00101567	0	1	73.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00040043	VFB_00101384	1	1	0.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00045046	VFB_00101567	2	1	0.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	0	1	256.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00048113	VFB_00101567	0	2	100.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00049855	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00049928	VFB_00101567	0	1	204.0
+2023-05-24	v2.virtualflybrain.org	FBbt_00051239	VFB_00101567	0	1	793.0
+2023-05-24	v2.virtualflybrain.org	FBbt_20001109	VFB_00101567	1	2	24.0
+2023-05-24	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00050000		1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_001011m3	VFB_00101567	0	1	125.0
+2023-05-24	v2.virtualflybrain.org	VFB_001012dy	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	2	2	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	70	41	466.0
+2023-05-24	v2.virtualflybrain.org	VFB_00101e4r	VFB_00101567	0	1	173.0
+2023-05-24	v2.virtualflybrain.org	VFB_00101ul0	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102107		1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102107	VFB_00101567	2	4	64.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102119	VFB_00101567	0	1	257.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102121	VFB_00101567	0	1	1706.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102179	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102288	VFB_00101384	1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_00102288	VFB_00101567	0	1	28.0
+2023-05-24	v2.virtualflybrain.org	VFB_jrchjvrz	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_jrchk5e7	VFB_00101567	0	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFB_jrchk8rx	VFB_00101384	0	1	130.0
+2023-05-24	v2.virtualflybrain.org	VFBexp_FBtp0012		1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFBexp_FBtp0012	VFB_00101567	1	2	15.0
+2023-05-24	v2.virtualflybrain.org	VFBexp_FBtp0059		1	1	0.0
+2023-05-24	v2.virtualflybrain.org	VFBexp_FBtp0117		1	1	37.0
+2023-05-24	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	2	3	21.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	100.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00003671	VFB_00101384	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	1	0	0.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00007053	VFB_00101567	0	2	0.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	1	1	0.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00052251	VFB_00101567	0	1	159.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00110985		1	1	0.0
+2023-05-25	v2.virtualflybrain.org	FBbt_00111337	VFB_00101567	0	1	186.0
+2023-05-25	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	1	2	10.0
+2023-05-25	v2.virtualflybrain.org	VFB_00020815	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00020914	VFB_00101567	0	1	100.0
+2023-05-25	v2.virtualflybrain.org	VFB_00021143	VFB_00101567	1	1	2.0
+2023-05-25	v2.virtualflybrain.org	VFB_00021390	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00022468	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00022473	VFB_00101567	0	1	405.0
+2023-05-25	v2.virtualflybrain.org	VFB_00022923	VFB_00101567	1	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00023081	VFB_00101567	0	1	368.0
+2023-05-25	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	11	5	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00064494	VFB_00101567	1	1	6.0
+2023-05-25	v2.virtualflybrain.org	VFB_00066815	VFB_00017894	1	2	58.0
+2023-05-25	v2.virtualflybrain.org	VFB_00066815	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00100032	VFB_00050000	0	1	606.0
+2023-05-25	v2.virtualflybrain.org	VFB_00100178	VFB_00050000	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00100wcn	VFB_00101567	0	1	335.0
+2023-05-25	v2.virtualflybrain.org	VFB_001010zq	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	2	2	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00101491		2	2	4.0
+2023-05-25	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	103	55	547.0
+2023-05-25	v2.virtualflybrain.org	VFB_001015bk	VFB_00050000	2	2	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_001015bk	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00101boo	VFB_00101567	0	1	277.0
+2023-05-25	v2.virtualflybrain.org	VFB_00101t2c	VFB_00101567	0	1	52.0
+2023-05-25	v2.virtualflybrain.org	VFB_00102123	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00102141	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00102154	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00102170	VFB_00101567	1	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_00104106		1	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_jrchjvrz	VFB_00101567	1	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_jrchk102	VFB_00101567	0	1	0.0
+2023-05-25	v2.virtualflybrain.org	VFB_jrchk856	VFB_00101567	0	1	399.0
+2023-05-25	v2.virtualflybrain.org	VFBexp_FBtp0011	VFB_00101567	0	1	762.0
+2023-05-25	v2.virtualflybrain.org	VFBexp_FBtp0012	VFB_00101567	0	1	0.0
+2023-05-25	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	2	2	1.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	0	1	238.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00004223		1	1	0.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00007333	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00007706	VFB_00049000	0	1	148.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	1	137.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00040043	VFB_00101567	0	1	86.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00048405	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00049540	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	FBbt_00051393	VFB_00101567	0	1	72.0
+2023-05-26	v2.virtualflybrain.org	VFB_00000788	VFB_00000788	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00020015	VFB_00020015	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00020229	VFB_00020229	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00020793	VFB_00101567	0	1	36.0
+2023-05-26	v2.virtualflybrain.org	VFB_00022375	VFB_00101567	0	1	153.0
+2023-05-26	v2.virtualflybrain.org	VFB_00023385		1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00023385	VFB_00101567	0	1	68.0
+2023-05-26	v2.virtualflybrain.org	VFB_00023639	VFB_00101567	0	1	424.0
+2023-05-26	v2.virtualflybrain.org	VFB_00025194		1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00029121	VFB_00101567	0	1	218.0
+2023-05-26	v2.virtualflybrain.org	VFB_00030866	VFB_00017894	1	2	3.0
+2023-05-26	v2.virtualflybrain.org	VFB_00040122		2	1	4.0
+2023-05-26	v2.virtualflybrain.org	VFB_00040343	VFB_00101567	0	1	60.0
+2023-05-26	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	2	3	85.0
+2023-05-26	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	6	5	219.0
+2023-05-26	v2.virtualflybrain.org	VFB_00050396	VFB_00101567	0	1	99.0
+2023-05-26	v2.virtualflybrain.org	VFB_00100760	VFB_00050000	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00100ddr	VFB_00200000	1	2	8.0
+2023-05-26	v2.virtualflybrain.org	VFB_00100vkd	VFB_00101567	0	1	169.0
+2023-05-26	v2.virtualflybrain.org	VFB_00100ww0	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00100wwr	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00100x1w	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_001011dc	VFB_00101384	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	69	29	639.0
+2023-05-26	v2.virtualflybrain.org	VFB_001015a8	VFB_00050000	1	3	1358.0
+2023-05-26	v2.virtualflybrain.org	VFB_001015bk	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_001015bo	VFB_00050000	1	2	69.0
+2023-05-26	v2.virtualflybrain.org	VFB_001015br	VFB_00050000	1	2	51.0
+2023-05-26	v2.virtualflybrain.org	VFB_001015br	VFB_00101567	0	1	224.0
+2023-05-26	v2.virtualflybrain.org	VFB_00102123	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_jrchjtss	VFB_00101567	0	1	22.0
+2023-05-26	v2.virtualflybrain.org	VFB_jrchjtss	VFB_jrchjtss	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_jrchk3bp	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_jrchk7xa	VFB_00101567	0	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_jrchk80h	VFB_00101567	1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFB_jrchk80i	VFB_00101567	0	1	656.0
+2023-05-26	v2.virtualflybrain.org	VFBexp_FBti0072	VFB_00101567	0	1	103.0
+2023-05-26	v2.virtualflybrain.org	VFBexp_FBtp0058		1	1	0.0
+2023-05-26	v2.virtualflybrain.org	VFBexp_FBtp0058	VFB_00101567	0	2	0.0
+2023-05-26	v2.virtualflybrain.org	VFBexp_FBtp0100		1	1	0.0
+2023-05-26	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	2	2	1.0
+2023-05-27	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	145.0
+2023-05-27	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	0	1	63.0
+2023-05-27	v2.virtualflybrain.org	FBbt_00110174	VFB_00200000	0	1	373.0
+2023-05-27	v2.virtualflybrain.org	FBbt_00111433	VFB_00101567	0	1	0.0
+2023-05-27	v2.virtualflybrain.org	VFB_00000788	VFB_00101567	0	1	18.0
+2023-05-27	v2.virtualflybrain.org	VFB_00100deh	VFB_00101567	0	1	0.0
+2023-05-27	v2.virtualflybrain.org	VFB_00100deh	VFB_00200000	1	2	0.0
+2023-05-27	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	21	11	828.0
+2023-05-27	v2.virtualflybrain.org	VFB_00102137	VFB_00101567	0	1	0.0
+2023-05-27	v2.virtualflybrain.org	VFB_00102ees	VFB_00120000	0	1	304.0
+2023-05-27	v2.virtualflybrain.org	VFB_00120000	VFB_00120000	1	1	0.0
+2023-05-27	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	2	2	0.0
+2023-05-27	v2a.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	0.0
+2023-05-27	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	1	1	0.0
+2023-05-28	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	1	82.0
+2023-05-28	v2.virtualflybrain.org	FBbt_00045032	VFB_00101567	1	2	96.0
+2023-05-28	v2.virtualflybrain.org	FBbt_00045037	VFB_00101567	0	1	0.0
+2023-05-28	v2.virtualflybrain.org	FBbt_00110171		1	1	9.0
+2023-05-28	v2.virtualflybrain.org	VFB_00021304	VFB_00101567	1	2	0.0
+2023-05-28	v2.virtualflybrain.org	VFB_00023627	VFB_00101567	0	1	444.0
+2023-05-28	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	1	1	0.0
+2023-05-28	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	32	13	587.0
+2023-05-28	v2.virtualflybrain.org	VFB_00102146	VFB_00101567	0	1	0.0
+2023-05-28	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	5	0	0.0
+2023-05-28	v2.virtualflybrain.org	VFB_jrchk6dy	VFB_00101567	0	1	0.0
+2023-05-28	v2a.virtualflybrain.org	FBbt_00007053	VFB_00101567	0	1	0.0
+2023-05-28	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	1	1	0.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	50.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00003748		2	1	0.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	0	2	125.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00007493	VFB_00101384	0	2	0.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	1	0.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	0	1	79.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00050107	VFB_00101567	0	1	49.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00111012		2	1	0.0
+2023-05-29	v2.virtualflybrain.org	FBbt_00111012	VFB_00101567	0	1	612.0
+2023-05-29	v2.virtualflybrain.org	VFB_00000001		3	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_00000001	VFB_00101567	0	1	40.0
+2023-05-29	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	1	1	2.0
+2023-05-29	v2.virtualflybrain.org	VFB_00020036		1	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_00030798	VFB_00101567	0	1	434.0
+2023-05-29	v2.virtualflybrain.org	VFB_00050292	VFB_00101567	0	1	519.0
+2023-05-29	v2.virtualflybrain.org	VFB_00069344		1	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_00069344	VFB_00101567	0	1	209.0
+2023-05-29	v2.virtualflybrain.org	VFB_001001dq	VFB_001001dq	1	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_001001dq	VFB_00101567	0	1	1.0
+2023-05-29	v2.virtualflybrain.org	VFB_001011dh	VFB_00101384	0	1	12.0
+2023-05-29	v2.virtualflybrain.org	VFB_001012rv	VFB_00101567	0	2	304.0
+2023-05-29	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	2	2	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_001013cy	VFB_00101567	0	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_001013k9		1	1	9.0
+2023-05-29	v2.virtualflybrain.org	VFB_001013vl	VFB_00101567	1	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_0010145c	VFB_00101567	0	1	69.0
+2023-05-29	v2.virtualflybrain.org	VFB_00101567		1	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	31	23	418.0
+2023-05-29	v2.virtualflybrain.org	VFB_00101i4v	VFB_00200000	1	1	1.0
+2023-05-29	v2.virtualflybrain.org	VFB_00102114	VFB_00101567	0	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFB_00102123	VFB_00101567	0	2	1345.0
+2023-05-29	v2.virtualflybrain.org	VFB_00102135	VFB_00101567	0	1	445.0
+2023-05-29	v2.virtualflybrain.org	VFB_00102140	VFB_00101567	0	1	9.0
+2023-05-29	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	5	2	552.0
+2023-05-29	v2.virtualflybrain.org	VFB_jrch04dw	VFB_00101567	0	1	347.0
+2023-05-29	v2.virtualflybrain.org	VFB_jrchk7js	VFB_00101567	0	1	126.0
+2023-05-29	v2.virtualflybrain.org	VFBexp_FBtp0057		1	1	0.0
+2023-05-29	v2.virtualflybrain.org	VFBexp_FBtp0099		1	1	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00003678	VFB_00101567	0	1	43.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00003680	VFB_00101567	0	1	137.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00003982	VFB_00101567	0	2	444.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00005899	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00007053	VFB_00101567	0	2	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00007401	VFB_00101567	0	3	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00013695	VFB_00101567	0	1	90.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	0	1	1121.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	0	1	221.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00040042	VFB_00101567	0	1	87.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00045032	VFB_00101567	0	1	114.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00047091	VFB_00017894	0	1	612.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00052353		1	1	0.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00067358	VFB_00101567	0	1	1.0
+2023-05-30	v2.virtualflybrain.org	FBbt_00100622	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00000788	VFB_00101567	1	0	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00010488	VFB_00101567	0	1	202.0
+2023-05-30	v2.virtualflybrain.org	VFB_00013493	VFB_00101567	0	1	227.0
+2023-05-30	v2.virtualflybrain.org	VFB_00013661	VFB_00101567	0	2	100.0
+2023-05-30	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00020054	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00020104	VFB_00101567	0	1	56.0
+2023-05-30	v2.virtualflybrain.org	VFB_00020110	VFB_00101567	0	1	151.0
+2023-05-30	v2.virtualflybrain.org	VFB_00020111	VFB_00101567	0	1	1147.0
+2023-05-30	v2.virtualflybrain.org	VFB_00020363	VFB_00101567	0	2	2019.0
+2023-05-30	v2.virtualflybrain.org	VFB_00020565	VFB_00101567	0	1	26.0
+2023-05-30	v2.virtualflybrain.org	VFB_00021890		1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00021890	VFB_00101567	0	1	31.0
+2023-05-30	v2.virtualflybrain.org	VFB_00023340	VFB_00101567	0	1	39.0
+2023-05-30	v2.virtualflybrain.org	VFB_00023784	VFB_00101567	0	1	137.0
+2023-05-30	v2.virtualflybrain.org	VFB_00026893	VFB_00101567	0	1	110.0
+2023-05-30	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00030867	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00030871	VFB_00017894	1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00030871	VFB_00101567	0	1	514.0
+2023-05-30	v2.virtualflybrain.org	VFB_00068534	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_001010i8	VFB_00101567	0	1	714.0
+2023-05-30	v2.virtualflybrain.org	VFB_001010u1	VFB_00101567	0	1	598.0
+2023-05-30	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_001013r0	VFB_00101567	0	1	86.0
+2023-05-30	v2.virtualflybrain.org	VFB_001014uq	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_001014uq	VFB_00110000	1	2	24.0
+2023-05-30	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	56	39	258.0
+2023-05-30	v2.virtualflybrain.org	VFB_001015bk	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00102118	VFB_00101567	1	2	0.0
+2023-05-30	v2.virtualflybrain.org	VFB_00102159	VFB_00101567	0	2	1374.0
+2023-05-30	v2.virtualflybrain.org	VFB_001029d0	VFB_00101567	0	1	644.0
+2023-05-30	v2.virtualflybrain.org	VFB_jrchjxii	VFB_00101567	0	1	18.0
+2023-05-30	v2.virtualflybrain.org	VFB_jrchjymx	VFB_00101567	1	1	1.0
+2023-05-30	v2.virtualflybrain.org	VFB_jrchk0f4	VFB_00101384	0	1	76.0
+2023-05-30	v2.virtualflybrain.org	VFB_jrchk6dy	VFB_00101567	0	1	145.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0057		1	1	9.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0058		1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0059		2	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0060		1	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0063	VFB_00101567	0	3	2847.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0080		2	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0080	VFB_00101567	0	1	371.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0084	VFB_00101567	0	1	0.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0099		3	2	0.0
+2023-05-30	v2.virtualflybrain.org	VFBexp_FBtp0122	VFB_00101567	1	1	0.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00001919	VFB_00050000	0	1	54.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	0	1	591.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00003719	VFB_00101567	0	2	127.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00003720	VFB_00101567	0	1	28.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	1	2	179.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00003914	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00045027	VFB_00101567	0	1	20.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00047669	VFB_00101567	0	1	166.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00047934	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	FBbt_00049818	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00007319	VFB_00101567	2	2	18.0
+2023-05-31	v2.virtualflybrain.org	VFB_00011319	VFB_00101567	0	1	800.0
+2023-05-31	v2.virtualflybrain.org	VFB_00011801	VFB_00101567	0	1	76.0
+2023-05-31	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	7	3	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00022092	VFB_00101567	0	1	41.0
+2023-05-31	v2.virtualflybrain.org	VFB_00026940	VFB_00101384	0	1	37.0
+2023-05-31	v2.virtualflybrain.org	VFB_00030866	VFB_00017894	0	2	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00030875	VFB_00017894	1	2	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00046760	VFB_00101567	0	1	40.0
+2023-05-31	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	4	5	7.0
+2023-05-31	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	3	4	21.0
+2023-05-31	v2.virtualflybrain.org	VFB_00050314	VFB_00049000	0	1	93.0
+2023-05-31	v2.virtualflybrain.org	VFB_00063700	VFB_00100000	0	1	203.0
+2023-05-31	v2.virtualflybrain.org	VFB_00100014	VFB_00100000	1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00100014	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00100grd		1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00100uxv	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00100z3z	VFB_00101567	0	1	151.0
+2023-05-31	v2.virtualflybrain.org	VFB_00101235	VFB_00101567	1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_0010123b	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00101338	VFB_00101567	1	2	23.0
+2023-05-31	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	48	33	987.0
+2023-05-31	v2.virtualflybrain.org	VFB_0010159s	VFB_00050000	0	1	691.0
+2023-05-31	v2.virtualflybrain.org	VFB_001015ay	VFB_00050000	1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_001015ay	VFB_00101567	0	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_00101sma	VFB_00101567	0	1	469.0
+2023-05-31	v2.virtualflybrain.org	VFB_00102118	VFB_00101567	0	1	15.0
+2023-05-31	v2.virtualflybrain.org	VFB_00102123	VFB_00101567	0	1	1.0
+2023-05-31	v2.virtualflybrain.org	VFB_00102170	VFB_00101567	2	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFB_jrchjtsq	VFB_00101567	0	2	829.0
+2023-05-31	v2.virtualflybrain.org	VFB_jrchjtsr	VFB_00101567	0	1	539.0
+2023-05-31	v2.virtualflybrain.org	VFB_jrchju35	VFB_00101567	0	3	1655.0
+2023-05-31	v2.virtualflybrain.org	VFB_jrchju37	VFB_00101567	0	1	501.0
+2023-05-31	v2.virtualflybrain.org	VFB_jrchjucq	VFB_00101567	0	1	227.0
+2023-05-31	v2.virtualflybrain.org	VFB_jrchk45e	VFB_00101567	3	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0012	VFB_00101567	0	1	96.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0058		1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0058	VFB_00101567	0	1	90.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0063		1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0063	VFB_00101567	0	1	1.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0063	VFB_00200000	0	1	150.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0104		1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0123		1	1	0.0
+2023-05-31	v2.virtualflybrain.org	VFBexp_FBtp0123	VFB_00101567	0	1	59.0

@@ -1,0 +1,235 @@
+date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
+2024-03-01	(direct)	(none)	7	3	142
+2024-03-01	(not set)	(not set)	18	0	102
+2024-03-01	127.0.0.1:3300	referral	1	1	0
+2024-03-01	baidu	organic	7	0	0
+2024-03-01	cn.bing.com	referral	2	1	41
+2024-03-01	en.m.wikipedia.org	referral	1	1	24
+2024-03-01	google	organic	24	8	340
+2024-03-02	(direct)	(none)	9	6	390
+2024-03-02	(not set)	(not set)	3	0	10
+2024-03-02	bing	organic	1	0	0
+2024-03-02	flybase.org	referral	1	1	13
+2024-03-02	google	organic	10	2	59
+2024-03-02	rida.tokyo	referral	43	0	0
+2024-03-03	(direct)	(none)	11	1	25
+2024-03-03	(not set)	(not set)	4	0	23
+2024-03-03	baidu	organic	3	0	0
+2024-03-03	bing	organic	3	0	11
+2024-03-03	en.m.wikipedia.org	referral	1	0	2
+2024-03-03	google	organic	9	4	239
+2024-03-03	rida.tokyo	referral	31	0	0
+2024-03-03	yao-lab.com	referral	1	1	24
+2024-03-04	(direct)	(none)	17	4	175
+2024-03-04	bing	organic	1	1	18
+2024-03-04	flybase.org	referral	1	1	122
+2024-03-04	google	organic	21	7	305
+2024-03-04	neuronbridge.janelia.org	referral	1	1	169
+2024-03-05	(direct)	(none)	6	0	1
+2024-03-05	(not set)	(not set)	1	0	3
+2024-03-05	bing	organic	4	1	8
+2024-03-05	duckduckgo	organic	1	0	4
+2024-03-05	en.wikipedia.org	referral	1	0	2
+2024-03-05	flybase.org	referral	3	3	94
+2024-03-05	google	organic	18	5	123
+2024-03-05	groups.google.com	referral	1	1	411
+2024-03-05	janelia.org	referral	1	1	12
+2024-03-05	temca2data.org	referral	1	1	24
+2024-03-06	(direct)	(none)	3	1	4
+2024-03-06	bing	organic	2	1	65
+2024-03-06	flybase.org	referral	2	1	11
+2024-03-06	google	organic	26	14	227
+2024-03-06	janelia.org	referral	1	1	16
+2024-03-06	neuronbridge.janelia.org	referral	2	2	33
+2024-03-06	re3data.org	referral	1	1	33
+2024-03-06	temca2data.org	referral	2	0	0
+2024-03-07	(direct)	(none)	9	3	53
+2024-03-07	(not set)	(not set)	29	0	156
+2024-03-07	baidu	organic	4	0	0
+2024-03-07	bing	organic	2	1	7
+2024-03-07	cn.bing.com	referral	1	0	0
+2024-03-07	duckduckgo	organic	1	0	1
+2024-03-07	en.wikipedia.org	referral	1	1	55
+2024-03-07	flybase.org	referral	2	2	53
+2024-03-07	google	organic	22	12	332
+2024-03-07	neurobio.uni-muenster.de	referral	1	1	2
+2024-03-07	neuronbridge.janelia.org	referral	3	1	24
+2024-03-08	(direct)	(none)	6	3	127
+2024-03-08	(not set)	(not set)	44	0	264
+2024-03-08	cn.bing.com	referral	1	1	54
+2024-03-08	flybase.org	referral	1	0	0
+2024-03-08	google	organic	19	9	286
+2024-03-08	neuronbridge.janelia.org	referral	1	0	1
+2024-03-09	(direct)	(none)	6	3	73
+2024-03-09	(not set)	(not set)	18	0	122
+2024-03-09	baidu	organic	3	0	0
+2024-03-09	bing	organic	1	1	12
+2024-03-09	flybase.org	referral	1	1	10
+2024-03-09	google	organic	12	7	151
+2024-03-10	(direct)	(none)	17	8	132
+2024-03-10	(not set)	(not set)	1	0	4
+2024-03-11	(direct)	(none)	15	7	233
+2024-03-11	(not set)	(not set)	48	0	255
+2024-03-11	bing	organic	3	1	3
+2024-03-11	flybase.org	referral	2	0	7
+2024-03-11	google	organic	24	13	317
+2024-03-11	janelia.org	referral	2	2	96
+2024-03-11	tw.search.yahoo.com	referral	1	1	10
+2024-03-12	(direct)	(none)	6	0	1
+2024-03-12	bing	organic	1	0	0
+2024-03-12	cn.bing.com	referral	2	2	31
+2024-03-12	elearning.plaksha.edu.in	referral	1	0	0
+2024-03-12	en.wikipedia.org	referral	1	1	5
+2024-03-12	flybase.org	referral	3	2	414
+2024-03-12	google	organic	29	13	1620
+2024-03-12	janelia.org	referral	1	1	14
+2024-03-12	neuronbridge.janelia.org	referral	1	0	1
+2024-03-12	onlinelibrary.wiley.com	referral	1	1	78
+2024-03-13	(direct)	(none)	149	6	288
+2024-03-13	(not set)	(not set)	3	0	15
+2024-03-13	bing	organic	3	1	21
+2024-03-13	cn.bing.com	referral	1	1	11
+2024-03-13	google	organic	27	14	427
+2024-03-13	localhost:3000	referral	2	2	40
+2024-03-14	(direct)	(none)	18	4	123
+2024-03-14	(not set)	(not set)	7	0	52
+2024-03-14	baidu	organic	2	0	0
+2024-03-14	bing	organic	2	1	24
+2024-03-14	cn.bing.com	referral	2	2	31
+2024-03-14	google	organic	42	21	956
+2024-03-14	localhost:3000	referral	6	5	1059
+2024-03-14	neuronbridge.janelia.org	referral	1	1	7
+2024-03-14	statics.teams.cdn.office.net	referral	1	1	13
+2024-03-15	(direct)	(none)	8	2	19
+2024-03-15	(not set)	(not set)	32	0	192
+2024-03-15	baidu	organic	1	0	0
+2024-03-15	flybase.org	referral	1	1	37
+2024-03-15	google	organic	27	14	562
+2024-03-15	janelia.org	referral	4	1	92
+2024-03-15	localhost:3000	referral	5	2	15
+2024-03-15	neuronbridge.janelia.org	referral	1	1	61
+2024-03-16	(direct)	(none)	5	0	0
+2024-03-16	cn.bing.com	referral	1	0	0
+2024-03-16	google	organic	15	4	327
+2024-03-16	janelia.org	referral	1	1	0
+2024-03-16	temca2data.org	referral	1	1	550
+2024-03-17	(direct)	(none)	11	2	31
+2024-03-17	(not set)	(not set)	10	0	47
+2024-03-17	bing	organic	3	2	145
+2024-03-17	google	organic	9	1	16
+2024-03-18	(direct)	(none)	9	5	69
+2024-03-18	(not set)	(not set)	2	0	13
+2024-03-18	baidu	organic	2	0	0
+2024-03-18	bing	organic	2	2	23
+2024-03-18	cn.bing.com	referral	1	1	5
+2024-03-18	flybase.org	referral	2	2	63
+2024-03-18	google	organic	23	15	327
+2024-03-18	janelia.org	referral	1	0	2
+2024-03-18	localhost:3000	referral	4	4	296
+2024-03-18	neuronbridge.janelia.org	referral	1	1	13
+2024-03-19	(direct)	(none)	15	4	90
+2024-03-19	(not set)	(not set)	21	0	155
+2024-03-19	baidu	organic	2	0	0
+2024-03-19	cn.bing.com	referral	4	0	0
+2024-03-19	flybase.org	referral	2	2	91
+2024-03-19	google	organic	22	11	216
+2024-03-19	janelia.org	referral	1	1	692
+2024-03-19	localhost:3000	referral	3	3	89
+2024-03-19	ncbi.nlm.nih.gov	referral	1	0	3
+2024-03-19	neuronbridge.janelia.org	referral	2	2	137
+2024-03-20	(direct)	(none)	9	3	109
+2024-03-20	baidu	organic	1	0	0
+2024-03-20	bing	organic	2	2	41
+2024-03-20	cn.bing.com	referral	3	1	27
+2024-03-20	flybase.org	referral	1	0	0
+2024-03-20	google	organic	36	18	518
+2024-03-20	janelia.org	referral	1	1	27
+2024-03-20	localhost:3000	referral	2	1	216
+2024-03-20	neuronbridge.janelia.org	referral	1	0	4
+2024-03-20	temca2data.org	referral	1	0	3
+2024-03-21	(direct)	(none)	7	5	93
+2024-03-21	(not set)	(not set)	2	0	6
+2024-03-21	baidu	organic	3	0	0
+2024-03-21	bing	organic	2	2	20
+2024-03-21	chat.openai.com	referral	1	0	0
+2024-03-21	cn.bing.com	referral	1	0	2
+2024-03-21	flybase.org	referral	1	0	0
+2024-03-21	google	organic	28	10	605
+2024-03-21	janelia.org	referral	1	0	1
+2024-03-21	localhost:3000	referral	2	1	1003
+2024-03-21	ncbi.nlm.nih.gov	referral	3	0	0
+2024-03-22	(direct)	(none)	20	5	160
+2024-03-22	(not set)	(not set)	16	0	78
+2024-03-22	baidu	organic	1	0	0
+2024-03-22	cn.bing.com	referral	1	1	5
+2024-03-22	google	organic	26	10	138
+2024-03-22	janelia.org	referral	1	0	5
+2024-03-22	link.zhihu.com	referral	1	0	0
+2024-03-22	localhost:3000	referral	1	0	0
+2024-03-22	ncbi.nlm.nih.gov	referral	1	1	14
+2024-03-22	neuronbridge.janelia.org	referral	3	1	5
+2024-03-22	pdn.cam.ac.uk	referral	1	0	6
+2024-03-23	(direct)	(none)	3	0	0
+2024-03-23	(not set)	(not set)	1	0	41638
+2024-03-23	cn.bing.com	referral	1	1	6
+2024-03-23	flybase.org	referral	1	1	4
+2024-03-23	google	organic	5	4	94
+2024-03-23	janelia.org	referral	1	0	2
+2024-03-23	localhost:3000	referral	3	1	47
+2024-03-24	(direct)	(none)	8	1	13
+2024-03-24	(not set)	(not set)	11	0	53
+2024-03-24	cn.bing.com	referral	1	0	6
+2024-03-24	flybase.org	referral	1	0	0
+2024-03-24	google	organic	6	3	39
+2024-03-24	janelia.org	referral	1	1	34
+2024-03-24	localhost:3000	referral	1	1	198
+2024-03-25	(direct)	(none)	8	2	97
+2024-03-25	(not set)	(not set)	9	0	77
+2024-03-25	bing	organic	2	1	478
+2024-03-25	cn.bing.com	referral	1	1	15
+2024-03-25	edgeservices.bing.com	referral	1	1	47
+2024-03-25	flybase.org	referral	1	0	5
+2024-03-25	google	organic	32	16	1069
+2024-03-25	janelia.org	referral	1	0	4
+2024-03-25	ncbi.nlm.nih.gov	referral	3	1	1118
+2024-03-25	neuronbridge.janelia.org	referral	1	0	4
+2024-03-26	(direct)	(none)	15	7	110
+2024-03-26	baidu	organic	3	0	0
+2024-03-26	cn.bing.com	referral	6	1	138
+2024-03-26	en.m.wikipedia.org	referral	1	0	0
+2024-03-26	flybase.org	referral	2	0	4
+2024-03-26	google	organic	43	24	888
+2024-03-26	janelia.org	referral	1	0	2
+2024-03-26	localhost:3000	referral	1	0	0
+2024-03-26	temca2data.org	referral	1	0	6
+2024-03-27	(direct)	(none)	13	3	164
+2024-03-27	cn.bing.com	referral	1	1	13
+2024-03-27	en.m.wikipedia.org	referral	1	0	0
+2024-03-27	flybase.org	referral	1	1	9
+2024-03-27	google	organic	30	20	428
+2024-03-27	janelia.org	referral	1	1	19
+2024-03-27	neuronbridge.janelia.org	referral	2	2	482
+2024-03-28	(direct)	(none)	7	2	94
+2024-03-28	(not set)	(not set)	4	0	14
+2024-03-28	baidu	organic	1	0	0
+2024-03-28	bing	organic	1	1	21
+2024-03-28	google	organic	29	13	221
+2024-03-28	janelia.org	referral	1	0	4
+2024-03-28	localhost:3000	referral	1	1	6
+2024-03-29	(direct)	(none)	7	2	43
+2024-03-29	(not set)	(not set)	24	0	119
+2024-03-29	baidu	organic	2	0	0
+2024-03-29	bing	organic	2	1	15
+2024-03-29	flybase.org	referral	1	0	0
+2024-03-29	google	organic	16	5	165
+2024-03-30	(direct)	(none)	4	0	0
+2024-03-30	bing	organic	1	0	0
+2024-03-30	cn.bing.com	referral	1	1	20
+2024-03-30	ecosia.org	organic	1	1	34
+2024-03-30	flybase.org	referral	1	1	67
+2024-03-30	google	organic	11	4	102
+2024-03-31	(direct)	(none)	4	1	12
+2024-03-31	(not set)	(not set)	2	0	7
+2024-03-31	bing	organic	3	2	472
+2024-03-31	google	organic	8	5	149
+2024-03-31	in.search.yahoo.com	referral	1	0	8
