@@ -24,7 +24,7 @@ node	DataSet	219
 node	Deprecated	39060
 node	Dopamine_receptor	4
 node	Dopaminergic	20237
-node	Entity	1704637
+node	Entity	1704675
 node	Enzyme	3727
 node	Expression_pattern	77239
 node	Expression_pattern_fragment	67074
@@ -47,7 +47,7 @@ node	Histamine_receptor	2
 node	Histaminergic	24512
 node	Hormone	21
 node	Hygrosensory_system	579
-node	Individual	1570499
+node	Individual	1570537
 node	Ion_channel	396
 node	L1EM	5051
 node	Larva	23420
@@ -239,7 +239,7 @@ node	primary_neuron	24497
 node	pub	5849
 node	scRNAseq_DataSet	24
 node	secondary_neuron	186604
-relationship	INSTANCEOF	2584342
+relationship	INSTANCEOF	2584380
 relationship	SUBCLASSOF	188817
 relationship	achieves_planned_objective	8
 relationship	adjacent_to	15
@@ -366,7 +366,7 @@ relationship	non_functional_homolog_of	4
 relationship	occurs_in	48
 relationship	only_in_taxon	8
 relationship	output_of	3
-relationship	overlaps	557190
+relationship	overlaps	557214
 relationship	part_of	1052449
 relationship	partially_surrounded_by	1
 relationship	participates_in	1
