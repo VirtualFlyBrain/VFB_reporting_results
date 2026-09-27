@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-09-26
+VFB Content Report 2026-09-27
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 26 Sep 2026 16:40:07``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 27 Sep 2026 02:47:54``
 
 ***``Ontology Content``***
 
@@ -28,25 +28,25 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 26 Sep 2
 ***``Image Content``***
 *``(excludes hemibrain v1.0.1)``*
 
-**614289** total images from **153** datasets
-**524190** single neuron images of **14395** cell types
-**48080** images of expression patterns of **17887** drivers
-**7131** images of expression patterns of **1590** split combinations
-**24718** images of expression pattern fragments of **1264** drivers
+**699318** total images from **153** datasets
+**605872** single neuron images of **14409** cell types
+**49135** images of expression patterns of **17956** drivers
+**8186** images of expression patterns of **1659** split combinations
+**66975** images of expression pattern fragments of **5878** drivers
 
 ***``Expression Annotations``***
 
-**92889** annotations recording **3250** types of anatomical structure that **12726** specific driver lines are expressed in.
-**85530** annotations recording **2433** parts of the nervous system that **11621** specific driver lines are expressed in.
-**10595** annotations recording **1682** types of neuron that **2991** specific driver lines are expressed in.
-**4700** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
+**94244** annotations recording **3279** types of anatomical structure that **12962** specific driver lines are expressed in.
+**86788** annotations recording **2506** parts of the nervous system that **11788** specific driver lines are expressed in.
+**11141** annotations recording **1746** types of neuron that **3102** specific driver lines are expressed in.
+**4698** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
 
 ***``Connectivity``***
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|490275|Any neuron (individuals)|490275|35041060|
-|Any neuron (individuals)|400167|Region (individuals)|852|5061055|
+|Any neuron (individuals)|491070|Any neuron (individuals)|491070|35190795|
+|Any neuron (individuals)|400440|Region (individuals)|852|5061893|
 |Any neuron (classes)|325|Muscle (classes)|228|249|
 |Any neuron (classes)|823|Sense organ (classes)|434|535|
 
@@ -54,9 +54,9 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 26 Sep 2
 
 |EM Project|Neurons|Synapses|Edges|
 | :--- | :--- | :--- | :--- |
-|male_cns_v1_0|166413|113762447|15265098|
+|male_cns_v1_0|166693|113873724|15282714|
+|BANC888|145943|12087780|1387128|
 |flywire783|139255|46996837|7595968|
-|BANC888|64541|10525350|1266712|
 |neuprint_JRC_OpticLobe_v1_0_1|53402|24033343|3957844|
 |neuprint_JRC_Manc_1_2_1|23665|28734247|3105275|
 |neuprint_JRC_Hemibrain_1point2point1|22705|13745258|3392973|
@@ -70,12 +70,12 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 26 Sep 2
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|JRC2018Unisex|106|505826|444492|281223|34418|4395|16144|761|
-|JRC2018UnisexVNC|56|148399|128124|49747|9565|1876|5|249|
+|JRC2018Unisex|107|586118|522546|359277|34643|4620|44116|761|
+|JRC2018UnisexVNC|59|154132|132748|53782|10395|2706|10739|249|
 |L1 larval CNS ssTEM - Cardona/Janelia|27|5046|5019|5019|0|0|0|27|
 |adult brain template JFRC2|21|41939|16419|0|25271|600|16127|58|
 |adult VNS template - Court2018|9|3194|1|0|3171|480|0|21|
-|L3 CNS template - Wood2018|4|12876|8638|0|381|381|8626|255|
+|L3 CNS template - Wood2018|4|12876|8638|0|381|381|12177|255|
 |Adult T1 Leg (Kuan2020)|2|678|464|0|0|0|0|4|
 |JRC_FlyEM_Hemibrain|2|22702|22589|22587|0|0|0|114|
 |Adult Head (McKellar2020)|1|18|0|0|0|0|0|0|
