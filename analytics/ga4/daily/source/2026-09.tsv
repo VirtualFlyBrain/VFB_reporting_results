@@ -1159,12 +1159,11 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-25	yahoo	organic	14	12	1226
 2026-09-25	yandex.by	referral	2	2	378
 2026-09-25	yandex.ru	referral	3	3	56
-2026-09-26	(direct)	(none)	1976	1953	14777
-2026-09-26	(not set)	(not set)	52	1	211
-2026-09-26	(other)	(other)	9	0	17
+2026-09-26	(direct)	(none)	1977	1956	14791
+2026-09-26	(not set)	(not set)	37	0	168
 2026-09-26	127.0.0.1:8765	referral	1	1	103
 2026-09-26	baidu	organic	1	1	24
-2026-09-26	bing	organic	230	219	16701
+2026-09-26	bing	organic	231	220	16701
 2026-09-26	blog.flywire.ai	referral	2	1	0
 2026-09-26	br.search.yahoo.com	referral	2	2	50
 2026-09-26	ca.search.yahoo.com	referral	3	3	0
@@ -1178,12 +1177,12 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-26	es.search.yahoo.com	referral	2	2	146
 2026-09-26	flybrain.info	referral	1	1	8
 2026-09-26	flybrain.zeabur.app	referral	1	1	0
-2026-09-26	gemini		4	4	152
+2026-09-26	gemini	(not set)	4	4	152
 2026-09-26	gemini	ai-assistant	3	3	3549
 2026-09-26	gemini.google.com	ai-assistant	1	1	0
 2026-09-26	gen1mcfo.janelia.org	referral	2	1	184
 2026-09-26	github.com	referral	4	4	103
-2026-09-26	google	organic	2217	2128	94705
+2026-09-26	google	organic	2242	2151	94916
 2026-09-26	kagi.com	referral	1	1	27
 2026-09-26	l.instagram.com	referral	3	3	0
 2026-09-26	linkedin.com	referral	1	1	131
@@ -1194,7 +1193,7 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-26	search.brave.com	referral	10	9	860
 2026-09-26	splitgal4.janelia.org	referral	5	4	0
 2026-09-26	t.co	referral	2	2	0
-2026-09-26	temca2data.org	referral	1	1	10
+2026-09-26	temca2data.org	referral	2	2	111
 2026-09-26	translate.google.com	referral	2	2	124
 2026-09-26	uk.search.yahoo.com	referral	1	1	16
 2026-09-26	v2-virtualflybrain-org.translate.goog	referral	3	3	229
@@ -1202,3 +1201,49 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-26	www-virtualflybrain-org.translate.goog	referral	1	1	10
 2026-09-26	yahoo	organic	13	12	1095
 2026-09-26	yandex.ru	referral	1	1	75
+2026-09-27	(data not available)	(data not available)	1	1	12
+2026-09-27	(direct)	(none)	1230	1196	17547
+2026-09-27	(not set)	(not set)	67	4	1205
+2026-09-27	(other)	(other)	8	0	40
+2026-09-27	127.0.0.1:8765	referral	1	0	0
+2026-09-27	alice.yandex.ru	referral	2	2	35
+2026-09-27	baidu	organic	1	1	42
+2026-09-27	bing	organic	238	228	19208
+2026-09-27	ca.search.yahoo.com	referral	3	3	10
+2026-09-27	cell.com	referral	3	2	129
+2026-09-27	chatgpt.com	(none)	1	1	0
+2026-09-27	chatgpt.com	ai-assistant	14	14	677
+2026-09-27	cn.bing.com	referral	5	4	42
+2026-09-27	co.search.yahoo.com	referral	1	1	32
+2026-09-27	coccoc.com	referral	1	1	14
+2026-09-27	codex.flywire.ai	referral	4	4	168
+2026-09-27	duckduckgo	organic	32	31	1768
+2026-09-27	ecosia.org	organic	4	4	174
+2026-09-27	en.wikipedia.org	referral	1	1	0
+2026-09-27	fr.search.yahoo.com	referral	2	2	106
+2026-09-27	gemini		1	1	0
+2026-09-27	gemini	ai-assistant	2	2	1
+2026-09-27	gemini.google.com	ai-assistant	2	2	0
+2026-09-27	github.com	referral	6	6	154
+2026-09-27	google	organic	1987	1906	75012
+2026-09-27	id.search.yahoo.com	referral	1	1	27
+2026-09-27	linkedin.com	referral	1	1	5
+2026-09-27	m.baidu.com	referral	1	1	0
+2026-09-27	m.facebook.com	referral	2	2	46
+2026-09-27	mail.google.com	referral	1	1	31
+2026-09-27	nature.com	referral	2	1	43
+2026-09-27	nextgeeker.com	referral	1	1	41
+2026-09-27	nl.search.yahoo.com	referral	1	1	23
+2026-09-27	qwant.com	organic	1	1	35
+2026-09-27	reddit.com	referral	1	1	61
+2026-09-27	search.brave.com	referral	2	2	69
+2026-09-27	t.co	referral	1	1	0
+2026-09-27	temca2data.org	referral	1	1	231
+2026-09-27	translate.google.com	referral	1	1	70
+2026-09-27	uk.search.yahoo.com	referral	6	6	1300
+2026-09-27	v2-virtualflybrain-org.translate.goog	referral	6	6	352
+2026-09-27	www-virtualflybrain-org.translate.goog	referral	1	1	47
+2026-09-27	yahoo	organic	20	18	1052
+2026-09-27	yandex	organic	1	1	221
+2026-09-27	yandex.ru	referral	3	3	56
+2026-09-27	youtube.com	referral	7	5	1288
