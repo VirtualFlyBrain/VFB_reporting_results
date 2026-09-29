@@ -1201,17 +1201,14 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-26	www-virtualflybrain-org.translate.goog	referral	1	1	10
 2026-09-26	yahoo	organic	13	12	1095
 2026-09-26	yandex.ru	referral	1	1	75
-2026-09-27	(data not available)	(data not available)	1	1	12
-2026-09-27	(direct)	(none)	1230	1196	17547
-2026-09-27	(not set)	(not set)	67	4	1205
-2026-09-27	(other)	(other)	8	0	40
+2026-09-27	(direct)	(none)	1232	1200	17557
+2026-09-27	(not set)	(not set)	31	0	78
 2026-09-27	127.0.0.1:8765	referral	1	0	0
 2026-09-27	alice.yandex.ru	referral	2	2	35
 2026-09-27	baidu	organic	1	1	42
-2026-09-27	bing	organic	238	228	19208
+2026-09-27	bing	organic	237	228	19272
 2026-09-27	ca.search.yahoo.com	referral	3	3	10
 2026-09-27	cell.com	referral	3	2	129
-2026-09-27	chatgpt.com	(none)	1	1	0
 2026-09-27	chatgpt.com	ai-assistant	14	14	677
 2026-09-27	cn.bing.com	referral	5	4	42
 2026-09-27	co.search.yahoo.com	referral	1	1	32
@@ -1221,11 +1218,11 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-27	ecosia.org	organic	4	4	174
 2026-09-27	en.wikipedia.org	referral	1	1	0
 2026-09-27	fr.search.yahoo.com	referral	2	2	106
-2026-09-27	gemini		1	1	0
+2026-09-27	gemini	(not set)	1	1	0
 2026-09-27	gemini	ai-assistant	2	2	1
 2026-09-27	gemini.google.com	ai-assistant	2	2	0
 2026-09-27	github.com	referral	6	6	154
-2026-09-27	google	organic	1987	1906	75012
+2026-09-27	google	organic	1999	1922	76106
 2026-09-27	id.search.yahoo.com	referral	1	1	27
 2026-09-27	linkedin.com	referral	1	1	5
 2026-09-27	m.baidu.com	referral	1	1	0
@@ -1245,5 +1242,59 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-27	www-virtualflybrain-org.translate.goog	referral	1	1	47
 2026-09-27	yahoo	organic	20	18	1052
 2026-09-27	yandex	organic	1	1	221
-2026-09-27	yandex.ru	referral	3	3	56
+2026-09-27	yandex.ru	referral	4	4	67
 2026-09-27	youtube.com	referral	7	5	1288
+2026-09-28	(direct)	(none)	1432	1400	16953
+2026-09-28	(not set)	(not set)	207	2	6575
+2026-09-28	(other)	(other)	3	0	0
+2026-09-28	aocr.org	referral	6	6	47
+2026-09-28	au.search.yahoo.com	referral	1	1	67
+2026-09-28	bing	organic	216	199	17991
+2026-09-28	bsky.app	referral	1	1	24
+2026-09-28	ca.search.yahoo.com	referral	3	2	59
+2026-09-28	catmaid.readthedocs.io	referral	1	1	155
+2026-09-28	cats.iku.edu.tr	referral	5	5	1
+2026-09-28	chatgpt.com	(none)	3	3	1936
+2026-09-28	chatgpt.com	ai-assistant	15	13	1519
+2026-09-28	cl.search.yahoo.com	referral	1	1	504
+2026-09-28	claude.ai	ai-assistant	1	1	53
+2026-09-28	cn.bing.com	referral	15	13	637
+2026-09-28	codex.flywire.ai	referral	3	3	174
+2026-09-28	colab.research.google.com	referral	1	0	31
+2026-09-28	copilot.com	ai-assistant	1	1	34
+2026-09-28	duckduckgo	organic	38	31	1607
+2026-09-28	ecosia.org	organic	10	9	811
+2026-09-28	en.wikipedia.org	referral	6	6	171
+2026-09-28	facebook.com	referral	1	1	5
+2026-09-28	flybase.org	referral	1	1	0
+2026-09-28	gemini		1	1	0
+2026-09-28	gemini	ai-assistant	6	6	1109
+2026-09-28	gemini.google.com	ai-assistant	1	1	0
+2026-09-28	github.com	referral	3	3	12
+2026-09-28	google	organic	2349	2211	102842
+2026-09-28	habr.com	referral	2	2	0
+2026-09-28	id.search.yahoo.com	referral	1	1	123
+2026-09-28	in.search.yahoo.com	referral	1	1	618
+2026-09-28	janelia.org	referral	1	1	582
+2026-09-28	l.instagram.com	referral	1	1	0
+2026-09-28	learn-anything.xyz	referral	1	1	103
+2026-09-28	login.microsoftonline.com	referral	1	1	159
+2026-09-28	malaysia.search.yahoo.com	referral	1	1	16
+2026-09-28	noai.duckduckgo.com	referral	2	1	0
+2026-09-28	qrcreator.dev	referral	1	1	69
+2026-09-28	qwant.com	organic	1	1	125
+2026-09-28	reddit.com	referral	3	2	38
+2026-09-28	safe.duckduckgo.com	referral	1	1	18
+2026-09-28	sciencedirect.com	referral	1	1	22
+2026-09-28	search.brave.com	referral	6	5	517
+2026-09-28	search.google.com	referral	2	2	249
+2026-09-28	splitgal4.janelia.org	referral	7	7	204
+2026-09-28	teams.public.onecdn.static.microsoft	referral	5	5	666
+2026-09-28	temca2data.org	referral	1	1	70
+2026-09-28	translate.google.com	referral	3	2	117
+2026-09-28	uk.search.yahoo.com	referral	1	1	29
+2026-09-28	v2-virtualflybrain-org.translate.goog	referral	2	2	93
+2026-09-28	yahoo	organic	18	15	883
+2026-09-28	yandex.kz	referral	2	2	16
+2026-09-28	yandex.ru	referral	1	1	7
+2026-09-28	youtube.com	referral	5	5	67
