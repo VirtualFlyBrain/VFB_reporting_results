@@ -1,0 +1,42 @@
+date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
+2026-10-01	(data not available)	(data not available)	2	2	120
+2026-10-01	(direct)	(none)	2574	2558	10520
+2026-10-01	(not set)	(not set)	134	1	2790
+2026-10-01	(other)	(other)	7	0	0
+2026-10-01	aocr.org	referral	26	26	260
+2026-10-01	au.search.yahoo.com	referral	3	3	182
+2026-10-01	bing	organic	179	176	10663
+2026-10-01	ca.search.yahoo.com	referral	2	1	0
+2026-10-01	cell.com	referral	2	2	843
+2026-10-01	chatgpt.com	ai-assistant	26	23	1723
+2026-10-01	cn.bing.com	referral	4	4	2480
+2026-10-01	codex.flywire.ai	referral	3	3	12
+2026-10-01	copilot.com		1	1	65
+2026-10-01	copilot.com	(none)	1	1	45
+2026-10-01	copilot.com	ai-assistant	1	1	18
+2026-10-01	doubao.com	referral	1	1	17
+2026-10-01	duckduckgo	organic	31	26	473
+2026-10-01	ecosia.org	organic	6	6	134
+2026-10-01	es.search.yahoo.com	referral	2	2	0
+2026-10-01	flweb.janelia.org	referral	1	1	7
+2026-10-01	flylight-raw.janelia.org	referral	1	1	0
+2026-10-01	gemini.google.com	ai-assistant	4	3	30
+2026-10-01	github.com	referral	7	7	157
+2026-10-01	google	organic	1439	1360	64803
+2026-10-01	janelia.org	referral	1	1	0
+2026-10-01	mx.search.yahoo.com	referral	1	1	33
+2026-10-01	nature.com	referral	1	1	177
+2026-10-01	perplexity.ai	ai-assistant	1	1	0
+2026-10-01	ph.search.yahoo.com	referral	1	1	20
+2026-10-01	qwant.com	organic	1	1	86
+2026-10-01	safe.menlosecurity.com	referral	2	2	98
+2026-10-01	science.org	referral	3	3	281
+2026-10-01	search.brave.com	referral	1	1	4
+2026-10-01	search.google.com	referral	1	0	0
+2026-10-01	splitgal4.janelia.org	referral	5	4	84
+2026-10-01	teams.public.onecdn.static.microsoft	referral	1	1	27
+2026-10-01	translate.google.com	referral	1	1	47
+2026-10-01	v2-virtualflybrain-org.translate.goog	referral	2	2	330
+2026-10-01	yahoo	organic	5	5	372
+2026-10-01	yandex.ru	referral	2	2	126
+2026-10-01	youtube.com	referral	2	2	119

@@ -2359,8 +2359,8 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-09-29	www.v2.virtualflybrain.org	2	2	2	2	2	0	6
 2026-09-29	www.virtualflybrain.org	3479	3352	3846	3772	4537	34686	14104
 2026-09-29	zip.virtualflybrain.org	9	9	9	9	9	0	27
-2026-09-30		844	0	945	912	13659	10207	13885
-2026-09-30	(other)	11	2	13	0	102	198	432
+2026-09-30		828	0	935	915	13727	10207	13729
+2026-09-30	(not set)	16	0	10	0	0	0	224
 2026-09-30	129.215.197.110	4	4	4	4	4	0	12
 2026-09-30	129.215.197.120	3	3	3	3	3	0	9
 2026-09-30	129.215.197.143	3	3	3	3	3	0	10
@@ -2386,7 +2386,7 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-09-30	dill.inf.ed.ac.uk	26	25	26	25	25	12	82
 2026-09-30	dill.virtualflybrain.org	1	0	1	1	1	0	1
 2026-09-30	fafb.catmaid.virtualflybrain.org	1	1	1	1	1	15	5
-2026-09-30	fanc.catmaid.virtualflybrain.org	5	4	6	5	5	38	23
+2026-09-30	fanc.catmaid.virtualflybrain.org	4	4	6	5	5	38	23
 2026-09-30	flybrain-ndb.virtualflybrain.org	4	4	4	4	4	16	14
 2026-09-30	flybrain.inf.ed.ac.uk	20	18	20	18	18	1	57
 2026-09-30	generasia.com	1	1	1	1	1	0	4
@@ -2410,6 +2410,7 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-09-30	m.virtualflybrain.org	5	5	5	5	5	0	17
 2026-09-30	mayo.inf.ed.ac.uk	12	12	12	12	12	0	39
 2026-09-30	meet.virtualflybrain.org	6	6	6	6	6	0	18
+2026-09-30	money.cnn.com	1	1	1	1	1	0	4
 2026-09-30	mysql.virtualflybrain.org	2	2	2	2	2	0	6
 2026-09-30	natverse.virtualflybrain.org	5	4	5	4	4	0	13
 2026-09-30	natverse1.virtualflybrain.org	6	6	6	6	6	0	19
@@ -2420,13 +2421,13 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-09-30	nblast.virtualflybrain.org	13	12	13	12	12	0	38
 2026-09-30	out.easycounter.com	1	1	1	1	1	0	4
 2026-09-30	owl-preview.virtualflybrain.org	2	2	2	2	2	0	6
-2026-09-30	owl.virtualflybrain.org	57	55	57	55	55	0	207
+2026-09-30	owl.virtualflybrain.org	58	56	58	56	56	0	211
 2026-09-30	p2.virtualflybrain.org	3	3	3	3	3	0	9
 2026-09-30	parsley.inf.ed.ac.uk	3	3	3	3	3	0	9
 2026-09-30	pdb-jimdemo981gwa2l.virtualflybrain.org	2	2	2	2	2	0	6
 2026-09-30	pdb.p2.virtualflybrain.org	7	6	7	6	6	0	19
 2026-09-30	pdb.u3.virtualflybrain.org	3	3	3	3	3	3	10
-2026-09-30	pypi.org	2	0	2	2	2	91	2
+2026-09-30	pypi.org	3	0	3	3	3	106	3
 2026-09-30	r.virtualflybrain.org	3	3	3	3	3	0	10
 2026-09-30	rancher.virtualflybrain.org	2	2	2	2	2	0	6
 2026-09-30	raw.larval.flylight.virtualflybrain.org	5	5	5	5	8	15	24
@@ -2445,16 +2446,16 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-09-30	v2-debug.virtualflybrain.org	1	1	1	1	1	0	3
 2026-09-30	v2-preview.virtualflybrain.org	21	21	21	21	21	0	63
 2026-09-30	v2-virtualflybrain-org.translate.goog	2	2	2	2	3	90	19
-2026-09-30	v2.virtualflybrain.org	1454	655	1710	1621	4503	139824	37333
+2026-09-30	v2.virtualflybrain.org	1441	656	1709	1622	4533	139959	37684
 2026-09-30	v2a.virtualflybrain.org	3	0	3	3	10	105	39
 2026-09-30	vfb-connect.readthedocs.io	2	0	2	2	2	323	2
 2026-09-30	vfb3-mcp-preview.virtualflybrain.org	9	7	9	7	7	1	25
 2026-09-30	vfb3-mcp.virtualflybrain.org	1	1	1	1	1	0	3
 2026-09-30	vfbquerycache.virtualflybrain.org	1	1	1	1	1	0	3
-2026-09-30	virtualflybrain.org	157	126	162	155	184	836	529
+2026-09-30	virtualflybrain.org	155	126	162	156	184	836	529
 2026-09-30	website.meet.virtualflybrain.org	1	1	1	1	1	5	4
 2026-09-30	wilmu2.trglib.gov.my	1	1	1	1	1	0	3
-2026-09-30	workshop.virtualflybrain.org	42	33	55	51	82	791	237
+2026-09-30	workshop.virtualflybrain.org	34	33	55	51	82	791	237
 2026-09-30	www-virtualflybrain-org.translate.goog	15	15	15	15	23	154	72
 2026-09-30	www.amazon.com	1	1	1	1	1	0	3
 2026-09-30	www.collserola.org	1	1	1	1	1	0	4
@@ -2462,10 +2463,10 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-09-30	www.gopjn.com	1	1	1	1	1	0	4
 2026-09-30	www.kent-yangzhou.com	1	1	1	1	1	0	4
 2026-09-30	www.kqzyfj.com	1	1	1	1	1	0	3
-2026-09-30	www.ncbi.nlm.nih.gov	1	1	1	1	1	0	4
+2026-09-30	www.ncbi.nlm.nih.gov	2	2	2	2	2	0	8
 2026-09-30	www.tablyricfm.com	1	1	1	1	1	0	4
 2026-09-30	www.thenation.com	1	1	1	1	1	0	4
 2026-09-30	www.truehealthinitiative.org	1	1	1	1	1	0	4
 2026-09-30	www.v2.virtualflybrain.org	4	4	4	4	4	4	13
-2026-09-30	www.virtualflybrain.org	2983	2725	3096	3038	4200	36852	12846
+2026-09-30	www.virtualflybrain.org	2856	2727	3145	3050	4204	36884	12860
 2026-09-30	zip.virtualflybrain.org	4	4	4	4	4	0	12

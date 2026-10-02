@@ -12688,17 +12688,16 @@ background"	7	1
 2026-09-29	virtualflybrain.org - GA4	zip.virtualflybrain.org	first_visit	9	9
 2026-09-29	virtualflybrain.org - GA4	zip.virtualflybrain.org	page_view	9	9
 2026-09-29	virtualflybrain.org - GA4	zip.virtualflybrain.org	session_start	9	9
-2026-09-30	VFB MCP		chat_query	4	4
-2026-09-30	VFB MCP		mcp_tool_call	220	16
+2026-09-30	VFB MCP	(not set)	chat_query	4	4
+2026-09-30	VFB MCP	(not set)	mcp_tool_call	220	16
 2026-09-30	VFB MCP	workshop.virtualflybrain.org	click	14	9
 2026-09-30	VFB MCP	workshop.virtualflybrain.org	first_visit	32	32
 2026-09-30	VFB MCP	workshop.virtualflybrain.org	page_view	81	41
 2026-09-30	VFB MCP	workshop.virtualflybrain.org	scroll	18	16
 2026-09-30	VFB MCP	workshop.virtualflybrain.org	session_start	53	43
 2026-09-30	VFB MCP	workshop.virtualflybrain.org	user_engagement	34	21
-2026-09-30	virtualflybrain.org - GA4		page_view	13659	828
+2026-09-30	virtualflybrain.org - GA4		page_view	13727	828
 2026-09-30	virtualflybrain.org - GA4		session_start	2	2
-2026-09-30	virtualflybrain.org - GA4	(other)	(other)	432	12
 2026-09-30	virtualflybrain.org - GA4	129.215.197.110	first_visit	4	4
 2026-09-30	virtualflybrain.org - GA4	129.215.197.110	page_view	4	4
 2026-09-30	virtualflybrain.org - GA4	129.215.197.110	session_start	4	4
@@ -12879,6 +12878,10 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	meet.virtualflybrain.org	first_visit	6	6
 2026-09-30	virtualflybrain.org - GA4	meet.virtualflybrain.org	page_view	6	6
 2026-09-30	virtualflybrain.org - GA4	meet.virtualflybrain.org	session_start	6	6
+2026-09-30	virtualflybrain.org - GA4	money.cnn.com	first_visit	1	1
+2026-09-30	virtualflybrain.org - GA4	money.cnn.com	page_view	1	1
+2026-09-30	virtualflybrain.org - GA4	money.cnn.com	scroll	1	1
+2026-09-30	virtualflybrain.org - GA4	money.cnn.com	session_start	1	1
 2026-09-30	virtualflybrain.org - GA4	mysql.virtualflybrain.org	first_visit	2	2
 2026-09-30	virtualflybrain.org - GA4	mysql.virtualflybrain.org	page_view	2	2
 2026-09-30	virtualflybrain.org - GA4	mysql.virtualflybrain.org	session_start	2	2
@@ -12915,10 +12918,10 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	owl-preview.virtualflybrain.org	first_visit	2	2
 2026-09-30	virtualflybrain.org - GA4	owl-preview.virtualflybrain.org	page_view	2	2
 2026-09-30	virtualflybrain.org - GA4	owl-preview.virtualflybrain.org	session_start	2	2
-2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	first_visit	55	55
-2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	page_view	55	55
-2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	scroll	42	42
-2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	session_start	55	55
+2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	first_visit	56	56
+2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	page_view	56	56
+2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	scroll	43	43
+2026-09-30	virtualflybrain.org - GA4	owl.virtualflybrain.org	session_start	56	56
 2026-09-30	virtualflybrain.org - GA4	p2.virtualflybrain.org	first_visit	3	3
 2026-09-30	virtualflybrain.org - GA4	p2.virtualflybrain.org	page_view	3	3
 2026-09-30	virtualflybrain.org - GA4	p2.virtualflybrain.org	session_start	3	3
@@ -12936,7 +12939,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	pdb.u3.virtualflybrain.org	page_view	3	3
 2026-09-30	virtualflybrain.org - GA4	pdb.u3.virtualflybrain.org	session_start	3	3
 2026-09-30	virtualflybrain.org - GA4	pdb.u3.virtualflybrain.org	user_engagement	1	1
-2026-09-30	virtualflybrain.org - GA4	pypi.org	page_view	2	2
+2026-09-30	virtualflybrain.org - GA4	pypi.org	page_view	3	3
 2026-09-30	virtualflybrain.org - GA4	r.virtualflybrain.org	first_visit	3	3
 2026-09-30	virtualflybrain.org - GA4	r.virtualflybrain.org	page_view	3	3
 2026-09-30	virtualflybrain.org - GA4	r.virtualflybrain.org	scroll	1	1
@@ -13011,19 +13014,19 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2-virtualflybrain-org.translate.goog	user_engagement	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	cancelled	38	17
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	click	57	47
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:obj:fallback	147	4
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:obj:ok	2242	100
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:obj:fallback	148	4
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:obj:ok	2315	100
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:swc:fallback	1	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:swc:ok	14	3
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-geom:swc:ok	15	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-query:count:ok	20	3
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-query:run:ok	232	23
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-query:run:ok	233	23
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-terminfo:fallback	5	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-terminfo:ok	4017	326
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	disconnected	1427	260
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	direct-terminfo:ok	4095	327
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	disconnected	1428	261
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	error-report-clicked	16	16
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	errorlog	1006	220
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	errorlog	1008	220
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	exception	9	9
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	655	655
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	first_visit	656	656
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:na:na:f0:pna:na	14	14
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v0:o1:f0:p0:4g	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v0:o1:f0:p25:4g	1	1
@@ -13032,7 +13035,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v0:o1:f1:pna:4g	2	2
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p0:4g	27	19
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p0:na	5	3
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p25:4g	15	15
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p25:4g	16	16
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p25:na	4	4
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p50:3g	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomdiag:obj:v1:o1:f0:p50:4g	9	9
@@ -13047,7 +13050,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00017894:a1	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00030872:a1	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:0010139j:a1	1	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00101567:a1	125	61
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00101567:a1	126	62
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00102134:a1	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00102135:a1	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	geomfail:obj:unload:00110000:a1	1	1
@@ -13057,7 +13060,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	georecover:obj:00101567:a3	2	2
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	georecover:obj:00108w0p:a2	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	opening	10	9
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	4503	1438
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	page_view	4533	1439
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:compound:neuronsparthere:0	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:compound:neuronsparthere:10k_	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:aligneddatasets:1-9	2	2
@@ -13078,7 +13081,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronneuronconnectivi	4	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronsparthere:0	5	5
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronsparthere:10-99	1	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronsparthere:100-99	2	2
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronsparthere:100-99	3	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronsparthere:10k_	5	5
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronsparthere:1k-10k	5	5
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-rows:single:neuronspostsynapticher	3	3
@@ -13111,7 +13114,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:lineageclonesin	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:listallavailableimages:	18	18
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:neuronneuronconnectivit	4	3
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:neuronsparthere	18	3
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:neuronsparthere	19	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:neuronspostsynaptichere	3	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:neuronssynaptic	7	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:painteddomains	4	2
@@ -13123,39 +13126,39 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:tractsnervesinnervating	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:transgeneexpressionhere	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	query-run:single:upstreamclassconnectivi	2	2
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:1	339	95
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:1	340	96
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:10	3	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:12	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:14	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:16	1	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:2	1087	178
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:2	1088	178
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:20	1	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:3	18	15
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:3	20	16
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:4	35	34
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:5	12	9
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:5	14	10
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:6	25	25
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:7	10	8
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:7	11	9
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:8	11	11
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-attempt:9	6	4
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:0-2s	242	97
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:0-2s	243	98
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:10-30s	20	8
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:2-10s	427	88
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:30-60s	7	5
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:60s+	44	26
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-downtime:60s+	45	27
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-exhausted	16	13
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-failed-reloading	776	127
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-retry-auto	45	30
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnect-session-lost	782	127
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnected-reestablished	155	76
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnected-resumed	585	119
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	request	4289	932
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnected-reestablished	156	76
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	reconnected-resumed	586	120
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	request	4327	932
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	request-failed	55	9
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	scroll	2482	1247
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	1023	855
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	startup-first-term	1747	50
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	startup-model	1997	100
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	scroll	2486	1247
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	session_start	1024	856
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	startup-first-term	1754	50
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	startup-model	2008	100
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	term-load:failed	7	2
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	term-load:ok	3720	193
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	term-load:ok	3805	194
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	tidiag:v0:o1:f0:4g	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	tidiag:v1:o1:f0:4g	4	3
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	tifail:network:00101567:a4	1	1
@@ -13166,7 +13169,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	user_engagement	695	534
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	websocket-connection-failed	9	9
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:reest:0-2s:a1:r0	27	17
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:reest:0-2s:a2:r0	3	3
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:reest:0-2s:a2:r0	4	4
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:reest:0-2s:a2:r1	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:reest:10-30s:a1:r0	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:reest:10-30s:a5:r0	2	2
@@ -13202,7 +13205,7 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:30-60s:a7:r0	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a10:r0	1	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a17:r0	1	1
-2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a1:r0	6	4
+2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a1:r0	7	5
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a1:r2	7	5
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a2:r0	2	1
 2026-09-30	virtualflybrain.org - GA4	v2.virtualflybrain.org	ws-back:resumed:60s_:a3:r0	3	3
@@ -13281,10 +13284,10 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	www.kqzyfj.com	first_visit	1	1
 2026-09-30	virtualflybrain.org - GA4	www.kqzyfj.com	page_view	1	1
 2026-09-30	virtualflybrain.org - GA4	www.kqzyfj.com	session_start	1	1
-2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	first_visit	1	1
-2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	page_view	1	1
-2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	scroll	1	1
-2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	session_start	1	1
+2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	first_visit	2	2
+2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	page_view	2	2
+2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	scroll	2	2
+2026-09-30	virtualflybrain.org - GA4	www.ncbi.nlm.nih.gov	session_start	2	2
 2026-09-30	virtualflybrain.org - GA4	www.tablyricfm.com	first_visit	1	1
 2026-09-30	virtualflybrain.org - GA4	www.tablyricfm.com	page_view	1	1
 2026-09-30	virtualflybrain.org - GA4	www.tablyricfm.com	scroll	1	1
@@ -13301,12 +13304,12 @@ background"	7	1
 2026-09-30	virtualflybrain.org - GA4	www.v2.virtualflybrain.org	page_view	4	4
 2026-09-30	virtualflybrain.org - GA4	www.v2.virtualflybrain.org	scroll	1	1
 2026-09-30	virtualflybrain.org - GA4	www.v2.virtualflybrain.org	session_start	4	4
-2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	click	34	29
-2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	2725	2718
-2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	4200	2957
+2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	click	35	30
+2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	first_visit	2727	2720
+2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	page_view	4204	2959
 2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	scroll	513	406
-2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	3095	2960
-2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	2279	1165
+2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	session_start	3099	2964
+2026-09-30	virtualflybrain.org - GA4	www.virtualflybrain.org	user_engagement	2282	1168
 2026-09-30	virtualflybrain.org - GA4	zip.virtualflybrain.org	first_visit	4	4
 2026-09-30	virtualflybrain.org - GA4	zip.virtualflybrain.org	page_view	4	4
 2026-09-30	virtualflybrain.org - GA4	zip.virtualflybrain.org	session_start	4	4

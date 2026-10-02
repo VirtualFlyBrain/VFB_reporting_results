@@ -44220,8 +44220,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		FBbt_00001427	VFB_00101567	1	1	0.0
 2026-09-30		FBbt_00001919		6	3	22.0
 2026-09-30		FBbt_00001919	VFB_00049000	6	4	0.0
-2026-09-30		FBbt_00003004		117	34	155.0
-2026-09-30		FBbt_00003004	VFB_00101567	97	55	0.0
+2026-09-30		FBbt_00003004		118	34	155.0
+2026-09-30		FBbt_00003004	VFB_00101567	97	56	0.0
 2026-09-30		FBbt_00003004	VFB_00110000	2	2	0.0
 2026-09-30		FBbt_00003624		453	133	982.0
 2026-09-30		FBbt_00003624	VFB_00101567	522	277	0.0
@@ -44303,8 +44303,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		FBbt_00007401		9	4	0.0
 2026-09-30		FBbt_00007401	VFB_00101567	10	9	0.0
 2026-09-30		FBbt_00007453		13	4	1.0
-2026-09-30		FBbt_00007453	VFB_00101567	12	8	0.0
-2026-09-30		FBbt_00007685		2	1	0.0
+2026-09-30		FBbt_00007453	VFB_00101567	13	9	0.0
+2026-09-30		FBbt_00007685		3	2	0.0
+2026-09-30		FBbt_00007685	VFB_00101567	2	2	0.0
 2026-09-30		FBbt_00007688		4	1	0.0
 2026-09-30		FBbt_00007688	VFB_00101567	4	2	0.0
 2026-09-30		FBbt_00013688		10	3	1.0
@@ -44409,6 +44410,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		FBbt_00110073		2	1	0.0
 2026-09-30		FBbt_00110073	VFB_00101567	2	2	0.0
 2026-09-30		FBbt_00110127		2	1	0.0
+2026-09-30		FBbt_00110127	VFB_00101567	1	1	0.0
 2026-09-30		FBbt_00110192		2	1	0.0
 2026-09-30		FBbt_00110192	VFB_00101567	2	2	0.0
 2026-09-30		FBbt_00110595		2	1	0.0
@@ -44422,8 +44424,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		FBbt_00110657		2	1	0.0
 2026-09-30		FBbt_00110657	VFB_00101567	2	2	0.0
 2026-09-30		FBbt_00111355		2	1	0.0
+2026-09-30		FBbt_00111355	VFB_00101567	2	2	0.0
 2026-09-30		FBbt_00111358		2	1	0.0
-2026-09-30		FBbt_00111358	VFB_00101567	2	1	0.0
+2026-09-30		FBbt_00111358	VFB_00101567	3	2	0.0
 2026-09-30		FBbt_10000000		2	1	0.0
 2026-09-30		FBbt_10000000	VFB_00101567	2	2	0.0
 2026-09-30		FBbt_20000702		2	1	0.0
@@ -44504,15 +44507,20 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		GO_0098926	VFB_00101567	2	2	0.0
 2026-09-30		GO_1903790		2	1	0.0
 2026-09-30		GO_1903790	VFB_00101567	2	2	0.0
-2026-09-30		VFB_00002120		2	1	0.0
+2026-09-30		VFB_00002120		3	1	0.0
+2026-09-30		VFB_00002120	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00004139		2	1	0.0
+2026-09-30		VFB_00004139	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00006733		2	1	0.0
-2026-09-30		VFB_00006733	VFB_00101567	2	1	0.0
-2026-09-30		VFB_00007422		2	1	0.0
+2026-09-30		VFB_00006733	VFB_00101567	3	2	0.0
+2026-09-30		VFB_00007422		3	1	0.0
+2026-09-30		VFB_00007422	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00007783		2	1	0.0
-2026-09-30		VFB_00007783	VFB_00101567	2	1	0.0
-2026-09-30		VFB_00011895		2	1	0.0
+2026-09-30		VFB_00007783	VFB_00101567	3	2	0.0
+2026-09-30		VFB_00011895		3	1	0.0
+2026-09-30		VFB_00011895	VFB_00101567	1	1	0.0
 2026-09-30		VFB_00012000		2	1	0.0
+2026-09-30		VFB_00012000	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00017894		5	3	0.0
 2026-09-30		VFB_00017894	VFB_00017894	6	6	21.0
 2026-09-30		VFB_00023723		4	1	0.0
@@ -44522,7 +44530,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_00030746		3	1	0.0
 2026-09-30		VFB_00030746	VFB_00017894	3	1	0.0
 2026-09-30		VFB_00030747		4	2	0.0
-2026-09-30		VFB_00030747	VFB_00101567	4	3	0.0
+2026-09-30		VFB_00030747	VFB_00101567	5	4	0.0
 2026-09-30		VFB_00030815		4	1	0.0
 2026-09-30		VFB_00030815	VFB_00101567	4	2	0.0
 2026-09-30		VFB_00030856		4	1	0.0
@@ -44568,15 +44576,20 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_00063929	VFB_00101567	10	5	0.0
 2026-09-30		VFB_00068747		8	3	0.0
 2026-09-30		VFB_00068747	VFB_00101567	8	5	0.0
-2026-09-30		VFB_0010000k		2	1	0.0
-2026-09-30		VFB_0010000k	VFB_00101567	2	1	0.0
+2026-09-30		VFB_0010000k		3	1	0.0
+2026-09-30		VFB_0010000k	VFB_00101567	3	2	0.0
+2026-09-30		VFB_0010001k		2	1	0.0
+2026-09-30		VFB_0010001k	VFB_00101567	1	1	0.0
+2026-09-30		VFB_0010002b		1	1	0.0
 2026-09-30		VFB_0010002b	VFB_00101567	2	1	0.0
-2026-09-30		VFB_0010002m		2	1	0.0
+2026-09-30		VFB_0010002m		3	1	0.0
+2026-09-30		VFB_0010002m	VFB_00101567	2	2	0.0
 2026-09-30		VFB_0010002u		2	1	0.0
-2026-09-30		VFB_0010002u	VFB_00101567	2	1	0.0
-2026-09-30		VFB_0010002v		2	1	0.0
+2026-09-30		VFB_0010002u	VFB_00101567	3	2	0.0
+2026-09-30		VFB_0010002v		3	1	0.0
+2026-09-30		VFB_0010002v	VFB_00101567	2	2	0.0
 2026-09-30		VFB_0010003b		2	1	0.0
-2026-09-30		VFB_0010003b	VFB_00101567	2	1	0.0
+2026-09-30		VFB_0010003b	VFB_00101567	3	2	0.0
 2026-09-30		VFB_0010003u		8	1	0.0
 2026-09-30		VFB_0010003u	VFB_00101567	8	2	0.0
 2026-09-30		VFB_0010022p		8	1	0.0
@@ -44584,7 +44597,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_00100954		10	1	0.0
 2026-09-30		VFB_00100954	VFB_00050000	4	1	0.0
 2026-09-30		VFB_00100954	VFB_00101567	6	2	0.0
-2026-09-30		VFB_00101368		2	1	0.0
+2026-09-30		VFB_00101368		3	1	0.0
+2026-09-30		VFB_00101368	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00101382		2	1	0.0
 2026-09-30		VFB_00101382	VFB_00101567	1	1	0.0
 2026-09-30		VFB_001013to		17	1	2.0
@@ -44613,8 +44627,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_00101538	VFB_00101567	4	3	0.0
 2026-09-30		VFB_00101566		3	1	0.0
 2026-09-30		VFB_00101566	VFB_00049000	3	2	0.0
-2026-09-30		VFB_00101567		2131	654	3659.0
-2026-09-30		VFB_00101567	VFB_00101567	2318	1030	603.0
+2026-09-30		VFB_00101567		2132	655	3659.0
+2026-09-30		VFB_00101567	VFB_00101567	2320	1030	603.0
 2026-09-30		VFB_00101739		3	1	0.0
 2026-09-30		VFB_00101739	VFB_00101567	4	2	0.0
 2026-09-30		VFB_00101fiu		21	1	8.0
@@ -44687,6 +44701,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_00102fic		3	1	0.0
 2026-09-30		VFB_00102fic	VFB_00101567	4	2	0.0
 2026-09-30		VFB_00102gvv		2	1	0.0
+2026-09-30		VFB_00102gvv	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00102n2d		4	1	0.0
 2026-09-30		VFB_00102n2d	VFB_00101567	4	2	0.0
 2026-09-30		VFB_001038wx		3	1	0.0
@@ -44694,9 +44709,11 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_00104244		4	2	7.0
 2026-09-30		VFB_00104244	VFB_00101567	3	2	0.0
 2026-09-30		VFB_00105bos		2	1	0.0
+2026-09-30		VFB_00105bos	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00105l5h		4	1	0.0
-2026-09-30		VFB_00105l5h	VFB_00101567	2	1	0.0
+2026-09-30		VFB_00105l5h	VFB_00101567	4	2	0.0
 2026-09-30		VFB_00105wp7		2	1	0.0
+2026-09-30		VFB_00105wp7	VFB_00101567	2	2	0.0
 2026-09-30		VFB_00108f0f		4	1	20.0
 2026-09-30		VFB_00108f0f	VFB_00101567	7	2	0.0
 2026-09-30		VFB_00108f4t		3	1	0.0
@@ -44722,6 +44739,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_fw000608		2	1	0.0
 2026-09-30		VFB_fw000608	VFB_00101567	2	1	0.0
 2026-09-30		VFB_fw001886		2	1	0.0
+2026-09-30		VFB_fw001886	VFB_00101567	2	2	0.0
 2026-09-30		VFB_fw002409		3	1	0.0
 2026-09-30		VFB_fw002409	VFB_00101567	3	2	0.0
 2026-09-30		VFB_fw002609		4	1	0.0
@@ -44731,32 +44749,35 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30		VFB_fw006689		6	1	0.0
 2026-09-30		VFB_fw006689	VFB_00101567	6	4	0.0
 2026-09-30		VFB_fw027554		2	1	0.0
-2026-09-30		VFB_fw027554	VFB_00101567	2	1	0.0
+2026-09-30		VFB_fw027554	VFB_00101567	3	2	0.0
 2026-09-30		VFB_fw036930		2	1	0.0
 2026-09-30		VFB_fw036930	VFB_00101567	2	1	0.0
 2026-09-30		VFB_fw038786		2	1	0.0
 2026-09-30		VFB_fw038786	VFB_00101567	3	2	0.0
 2026-09-30		VFB_fw048393		5	1	0.0
-2026-09-30		VFB_fw048393	VFB_00101567	4	1	0.0
-2026-09-30		VFB_fw049773		2	1	0.0
+2026-09-30		VFB_fw048393	VFB_00101567	5	2	0.0
+2026-09-30		VFB_fw049773		3	1	0.0
+2026-09-30		VFB_fw049773	VFB_00101567	2	2	0.0
 2026-09-30		VFB_jrch0ghy		3	1	0.0
 2026-09-30		VFB_jrch0ghy	VFB_00101567	3	2	0.0
 2026-09-30		VFB_jrchjrcz		2	1	0.0
+2026-09-30		VFB_jrchjrcz	VFB_00101567	2	2	0.0
 2026-09-30		VFB_jrchk0es		2	1	0.0
 2026-09-30		VFB_jrchk0es	VFB_00101567	1	1	0.0
 2026-09-30		VFB_jrchk7yg		40	40	8.0
 2026-09-30		VFB_jrchk7yg	VFB_00101567	38	38	0.0
 2026-09-30		VFB_jrchk8dt		2	1	0.0
+2026-09-30		VFB_jrchk8dt	VFB_00101567	2	2	0.0
 2026-09-30		VFB_jrmc03hc		15	1	27.0
-2026-09-30		VFB_jrmc03hc	VFB_00101567	13	4	0.0
+2026-09-30		VFB_jrmc03hc	VFB_00101567	15	6	0.0
 2026-09-30		VFB_jrmc14q6		21	3	19.0
 2026-09-30		VFB_jrmc14q6	VFB_00101567	20	4	0.0
 2026-09-30		VFB_jrmc16dr		14	3	1.0
 2026-09-30		VFB_jrmc16dr	VFB_00101567	13	5	0.0
 2026-09-30		VFB_jrmc1bp5		4	1	0.0
 2026-09-30		VFB_jrmc1bp5	VFB_00101567	4	2	0.0
-2026-09-30		VFB_jrmc2hkc		10	1	1.0
-2026-09-30		VFB_jrmc2hkc	VFB_00101567	7	1	0.0
+2026-09-30		VFB_jrmc2hkc		11	1	1.0
+2026-09-30		VFB_jrmc2hkc	VFB_00101567	9	3	0.0
 2026-09-30		VFB_jrmc3bkh		2	1	0.0
 2026-09-30		VFB_jrmc3bkh	VFB_00101567	2	1	0.0
 2026-09-30		VFB_jrmc3hrw		2	1	0.0
@@ -44802,10 +44823,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	FBbt_00001642		1	1	44.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00001919	VFB_00049000	2	4	125.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00001987		1	1	0.0
-2026-09-30	v2.virtualflybrain.org	FBbt_00003004	VFB_00101567	37	47	192.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00003004	VFB_00101567	37	48	192.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003004	VFB_00110000	1	2	1.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003624		23	23	26.0
-2026-09-30	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	154	287	1379.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	154	286	1379.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003632	VFB_00101567	11	23	66.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003657	VFB_00101567	1	2	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003668	VFB_00101567	17	17	119.0
@@ -44817,7 +44838,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	FBbt_00003684	VFB_00017894	1	3	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003684	VFB_00101567	17	27	152.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003701	VFB_00101567	5	13	10.0
-2026-09-30	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	69	126	246.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	69	125	246.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003852	VFB_00101567	4	11	3.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003855		1	1	6.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00003885	VFB_00101567	2	4	6.0
@@ -44829,7 +44850,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	FBbt_00004856	VFB_00101567	1	1	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00005093		1	1	5.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00005093	VFB_00050000	1	2	0.0
-2026-09-30	v2.virtualflybrain.org	FBbt_00005093	VFB_00101567	47	62	228.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00005093	VFB_00101567	47	61	228.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00005095	VFB_00101567	1	1	4.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00005106	VFB_00101567	4	4	79.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00005124	VFB_00101567	1	2	1.0
@@ -44851,8 +44872,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	FBbt_00007385	VFB_00101567	9	18	43.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00007386		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00007401	VFB_00101567	4	9	18.0
-2026-09-30	v2.virtualflybrain.org	FBbt_00007453	VFB_00101567	4	7	6.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00007453	VFB_00101567	4	8	6.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00007670		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00007685	VFB_00101567	1	2	1.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00007688	VFB_00101567	1	2	1.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00013688	VFB_00101567	3	6	11.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00013695	VFB_00101567	1	2	1.0
@@ -44930,6 +44952,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	FBbt_00110657	VFB_00101567	1	2	19.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00110932		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00111061		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00111355	VFB_00101567	1	2	1.0
+2026-09-30	v2.virtualflybrain.org	FBbt_00111358	VFB_00101567	1	2	1.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00111745		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_00111748		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	FBbt_10000000	VFB_00101567	1	2	3.0
@@ -45041,6 +45065,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	GO_0008534		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	GO_0008610		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	GO_0008988		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	GO_0009060		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	GO_0009170		1	1	2.0
 2026-09-30	v2.virtualflybrain.org	GO_0009170	VFB_00101567	1	2	4.0
 2026-09-30	v2.virtualflybrain.org	GO_0009205		1	1	0.0
@@ -45216,13 +45241,20 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	GO_1905145		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	GO_1990756		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	GO_2000142		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00002120	VFB_00101567	1	2	1.0
+2026-09-30	v2.virtualflybrain.org	VFB_00004139	VFB_00101567	0	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00006733	VFB_00101567	0	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00007422	VFB_00101567	1	2	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00007783	VFB_00101567	0	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00011895	VFB_00101567	1	2	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00012000	VFB_00101567	0	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	7	12	85.0
 2026-09-30	v2.virtualflybrain.org	VFB_00020394		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00023723		1	1	9.0
 2026-09-30	v2.virtualflybrain.org	VFB_00023723	VFB_00017894	1	2	22.0
 2026-09-30	v2.virtualflybrain.org	VFB_00030600	VFB_00101567	1	2	2.0
 2026-09-30	v2.virtualflybrain.org	VFB_00030746	VFB_00017894	2	1	182.0
-2026-09-30	v2.virtualflybrain.org	VFB_00030747	VFB_00101567	1	2	11.0
+2026-09-30	v2.virtualflybrain.org	VFB_00030747	VFB_00101567	1	3	11.0
 2026-09-30	v2.virtualflybrain.org	VFB_00030815	VFB_00030786	2	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00030815	VFB_00101567	1	1	2.0
 2026-09-30	v2.virtualflybrain.org	VFB_00030829		1	1	0.0
@@ -45260,13 +45292,19 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	VFB_00067031		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00067201		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00068747	VFB_00101567	3	3	124.0
+2026-09-30	v2.virtualflybrain.org	VFB_0010000k	VFB_00101567	1	2	1.0
+2026-09-30	v2.virtualflybrain.org	VFB_0010001k	VFB_00101567	1	2	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_0010002m	VFB_00101567	0	2	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_0010002u	VFB_00101567	0	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_0010002v	VFB_00101567	1	2	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_0010003b	VFB_00101567	0	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_0010003u	VFB_00101567	2	2	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_0010022p	VFB_00050000	30	15	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00100954	VFB_00050000	2	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00100954	VFB_00101567	2	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00100fvd	VFB_00101567	0	1	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_00100zy8	VFB_00101567	0	1	5.0
-2026-09-30	v2.virtualflybrain.org	VFB_00101381	VFB_00101567	0	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00101368	VFB_00101567	1	2	7.0
 2026-09-30	v2.virtualflybrain.org	VFB_00101382		1	1	8.0
 2026-09-30	v2.virtualflybrain.org	VFB_00101382	VFB_00101567	3	21	516.0
 2026-09-30	v2.virtualflybrain.org	VFB_0010139j		1	1	22.0
@@ -45286,7 +45324,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	VFB_00101538	VFB_00101567	1	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00101566	VFB_00049000	1	2	25.0
 2026-09-30	v2.virtualflybrain.org	VFB_00101567		3	3	4.0
-2026-09-30	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	2106	2050	38623.0
+2026-09-30	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	2109	2074	38741.0
 2026-09-30	v2.virtualflybrain.org	VFB_00101739	VFB_00101567	1	2	27.0
 2026-09-30	v2.virtualflybrain.org	VFB_00101fiu	VFB_00101567	1	1	8.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102107	VFB_00101567	17	19	179.0
@@ -45297,7 +45335,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	VFB_00102119	VFB_00101567	2	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102134	VFB_00101567	5	7	14.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102135	VFB_00101567	6	11	13.0
-2026-09-30	v2.virtualflybrain.org	VFB_00102137	VFB_00101567	4	9	77.0
+2026-09-30	v2.virtualflybrain.org	VFB_00102137	VFB_00101567	4	8	77.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102139	VFB_00101567	11	15	59.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102140	VFB_00101567	9	3	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102141	VFB_00101567	2	3	0.0
@@ -45310,7 +45348,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	VFB_00102185	VFB_00101567	1	3	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102190	VFB_00101567	2	5	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102201	VFB_00101567	3	6	3.0
-2026-09-30	v2.virtualflybrain.org	VFB_00102212	VFB_00101567	5	5	5.0
+2026-09-30	v2.virtualflybrain.org	VFB_00102212	VFB_00101567	5	4	5.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102213	VFB_00101567	4	4	48.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102271	VFB_00101567	8	14	15.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102274	VFB_00101567	12	19	42.0
@@ -45325,11 +45363,15 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	VFB_00102fhd	VFB_00049000	1	1	4.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102fhd	VFB_00050000	2	2	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102fic	VFB_00101567	1	2	22.0
+2026-09-30	v2.virtualflybrain.org	VFB_00102gvv	VFB_00101567	0	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00102n2d	VFB_00101567	1	1	10.0
 2026-09-30	v2.virtualflybrain.org	VFB_001038wx	VFB_00101567	2	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00104244	VFB_00101567	1	1	25.0
+2026-09-30	v2.virtualflybrain.org	VFB_00105bos	VFB_00101567	1	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00105e9g		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00105i5s		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_00105l5h	VFB_00101567	1	2	1.0
+2026-09-30	v2.virtualflybrain.org	VFB_00105wp7	VFB_00101567	0	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00105xq2		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_00108f0f	VFB_00101567	2	2	2.0
 2026-09-30	v2.virtualflybrain.org	VFB_00108f4t	VFB_00101567	1	2	15.0
@@ -45344,24 +45386,31 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2.virtualflybrain.org	VFB_fw000107	VFB_00101567	2	3	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw000587	VFB_00101567	1	2	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw000608	VFB_00101567	1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_fw001886	VFB_00101567	1	2	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw002409	VFB_00101567	2	2	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw002609	VFB_00101567	4	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw004252	VFB_00101567	4	2	311.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw006689	VFB_00101567	2	3	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw009990		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_fw027554	VFB_00101567	0	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw036930	VFB_00101567	1	1	12.0
 2026-09-30	v2.virtualflybrain.org	VFB_fw038786	VFB_00101567	1	2	5.0
+2026-09-30	v2.virtualflybrain.org	VFB_fw048393	VFB_00101567	1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_fw049773	VFB_00101567	1	2	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrch0ghy	VFB_00101567	1	1	36.0
+2026-09-30	v2.virtualflybrain.org	VFB_jrchjrcz	VFB_00101567	0	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrchjtdb	VFB_00101567	2	2	24.0
-2026-09-30	v2.virtualflybrain.org	VFB_jrchju3j	VFB_00101384	1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_jrchju3j	VFB_00101384	1	0	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrchjvfd		1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrchk7yg	VFB_00101567	38	38	37.0
-2026-09-30	v2.virtualflybrain.org	VFB_jrmc03hc	VFB_00101567	0	3	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_jrchk8dt	VFB_00101567	1	2	1.0
+2026-09-30	v2.virtualflybrain.org	VFB_jrmc03hc	VFB_00101567	8	6	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc14q6	VFB_00101567	6	4	127.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc16dr	VFB_00101567	11	15	199.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc1bp5	VFB_00101567	2	2	12.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc23xp	VFB_00101567	1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc28n8		1	1	0.0
+2026-09-30	v2.virtualflybrain.org	VFB_jrmc2hkc	VFB_00101567	2	3	1.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc2zz8	VFB_00101567	1	1	14.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc3bkh	VFB_00101567	1	1	0.0
 2026-09-30	v2.virtualflybrain.org	VFB_jrmc3hrw	VFB_00101567	1	2	1.0
@@ -45405,4 +45454,4 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-09-30	v2a.virtualflybrain.org	VFB_00102213	VFB_00101567	2	1	29.0
 2026-09-30	www.virtualflybrain.org	FBbt_00007428		1	1	6.0
 2026-09-30	www.virtualflybrain.org	FBbt_00007430		1	1	8.0
-2026-09-30	www.virtualflybrain.org	FBbt_00049537		2	2	1.0
+2026-09-30	www.virtualflybrain.org	FBbt_00049537		2	1	1.0

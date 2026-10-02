@@ -1,0 +1,36 @@
+date	deviceCategory	operatingSystem	browser	activeUsers	sessions	userEngagementDuration
+2026-10-01	desktop			29	18	0
+2026-10-01	desktop		Safari	2	2	3
+2026-10-01	desktop	Chrome OS	Chrome	121	146	9481
+2026-10-01	desktop	Linux	Chrome	89	93	1968
+2026-10-01	desktop	Linux	Edge	2	2	0
+2026-10-01	desktop	Linux	Firefox	11	11	674
+2026-10-01	desktop	Linux	Meta Quest Browser	5	7	438
+2026-10-01	desktop	Linux	Opera	1	1	44
+2026-10-01	desktop	Linux	Safari	1	1	2
+2026-10-01	desktop	Linux	Samsung Internet	1	1	259
+2026-10-01	desktop	Macintosh	Chrome	163	245	6120
+2026-10-01	desktop	Macintosh	Edge	9	9	307
+2026-10-01	desktop	Macintosh	Firefox	4	5	187
+2026-10-01	desktop	Macintosh	Opera	3	4	61
+2026-10-01	desktop	Macintosh	Safari	112	142	6945
+2026-10-01	desktop	Macintosh	YaBrowser	1	1	0
+2026-10-01	desktop	Windows	Chrome	2649	2768	34408
+2026-10-01	desktop	Windows	Edge	180	214	16876
+2026-10-01	desktop	Windows	Firefox	39	45	1591
+2026-10-01	desktop	Windows	Opera	80	99	4175
+2026-10-01	mobile	Android	Amazon Silk	1	1	8
+2026-10-01	mobile	Android	Android Webview	8	8	182
+2026-10-01	mobile	Android	Chrome	208	223	5861
+2026-10-01	mobile	Android	Edge	4	5	334
+2026-10-01	mobile	Android	Firefox	6	6	92
+2026-10-01	mobile	Android	Opera	4	4	61
+2026-10-01	mobile	Android	Samsung Internet	7	8	112
+2026-10-01	mobile	Android	YaBrowser	2	3	0
+2026-10-01	mobile	iOS	Chrome	29	46	1249
+2026-10-01	mobile	iOS	Safari	200	244	4730
+2026-10-01	mobile	iOS	Safari (in-app)	9	9	0
+2026-10-01	tablet	Android	Amazon Silk	2	3	25
+2026-10-01	tablet	Android	Chrome	20	21	476
+2026-10-01	tablet	iOS	Chrome	11	11	426
+2026-10-01	tablet	iOS	Safari	7	7	51

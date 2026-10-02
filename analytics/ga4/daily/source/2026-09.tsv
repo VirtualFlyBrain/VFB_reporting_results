@@ -1335,14 +1335,13 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-29	yahoo	organic	9	9	178
 2026-09-29	yandex.ru	referral	1	1	136
 2026-09-29	youtube.com	referral	3	2	251
-2026-09-30	(direct)	(none)	2879	2865	13911
-2026-09-30	(not set)	(not set)	190	3	2273
-2026-09-30	(other)	(other)	1	0	0
+2026-09-30	(direct)	(none)	2971	2959	14117
+2026-09-30	(not set)	(not set)	94	0	485
 2026-09-30	alice.yandex.ru	referral	1	1	42
-2026-09-30	aocr.org	referral	13	13	266
+2026-09-30	aocr.org	referral	13	13	274
 2026-09-30	au.search.yahoo.com	referral	1	1	12
 2026-09-30	baidu	organic	1	1	60
-2026-09-30	bing	organic	177	166	11317
+2026-09-30	bing	organic	178	167	11571
 2026-09-30	cell.com	referral	1	1	74
 2026-09-30	chatgpt.com	ai-assistant	19	19	994
 2026-09-30	cn.bing.com	referral	7	7	375
@@ -1360,9 +1359,9 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-09-30	flybrain.info	referral	1	1	0
 2026-09-30	flylight-raw.janelia.org	referral	1	1	15
 2026-09-30	gemini.google.com	ai-assistant	3	3	82
-2026-09-30	google	organic	1538	1469	159026
+2026-09-30	google	organic	1545	1473	160327
 2026-09-30	janelia.org	referral	2	2	35
-2026-09-30	karmasearch.org	referral	1	1	0
+2026-09-30	karmasearch.org	referral	1	1	3
 2026-09-30	lm.facebook.com	referral	1	1	30
 2026-09-30	localhost:63342	referral	1	1	21
 2026-09-30	m.facebook.com	referral	3	3	4
