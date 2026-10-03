@@ -1,6 +1,6 @@
 # VFB usage report
 
-Generated 2026-10-02 from aggregate Google Analytics 4 counts for property 375054915, covering 2023-05-10 to 2026-10-01. Source tables: [`analytics/ga4/`](analytics/ga4/). Only summed counts are stored; nothing here identifies a user.
+Generated 2026-10-03 from aggregate Google Analytics 4 counts for property 375054915, covering 2023-05-10 to 2026-10-02. Source tables: [`analytics/ga4/`](analytics/ga4/). Only summed counts are stored; nothing here identifies a user.
 
 **Reading the numbers.** A large and growing share of 'users' and 'sessions' is automated traffic that loads one page and leaves within a second. Engaged hours (time with the page in the foreground) is barely touched by that traffic and is the most reliable measure of real use; seconds per session shows how bot-heavy a row is.
 
@@ -11,7 +11,7 @@ Generated 2026-10-02 from aggregate Google Analytics 4 counts for property 37505
 | 2023 | 1,332 | 13,668 | 42,490 | 172.9 | 45.5 |
 | 2024 | 4,045 | 62,091 | 465,976 | 1,046.3 | 60.7 |
 | 2025 | 53,078 | 174,980 | 961,769 | 1,240.7 | 25.5 |
-| 2026 | 330,801 | 1,275,262 | 3,318,004 | 3,453.2 | 9.7 |
+| 2026 | 330,801 | 1,280,694 | 3,343,909 | 3,504.0 | 9.8 |
 
 ## Monthly trend
 
@@ -20,7 +20,7 @@ xychart-beta
     title "Engaged hours per month"
     x-axis ["2023-05", "2023-06", "2023-07", "2023-08", "2023-09", "2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "hours"
-    line [34.4, 51.4, 14.5, 5.6, 16.4, 27.8, 17.3, 5.6, 16.0, 5.2, 18.8, 66.8, 117.3, 88.8, 215.3, 51.6, 109.2, 145.8, 131.2, 80.3, 94.5, 130.5, 93.3, 107.5, 203.4, 60.9, 67.9, 113.5, 97.7, 89.3, 97.5, 84.8, 93.1, 89.5, 189.0, 110.6, 495.2, 120.8, 141.3, 223.3, 1963.3, 27.0]
+    line [34.4, 51.4, 14.5, 5.6, 16.4, 27.8, 17.3, 5.6, 16.0, 5.2, 18.8, 66.8, 117.3, 88.8, 215.3, 51.6, 109.2, 145.8, 131.2, 80.3, 94.5, 130.5, 93.3, 107.5, 203.4, 60.9, 67.9, 113.5, 97.7, 89.3, 97.5, 84.8, 93.1, 89.5, 189.0, 110.6, 495.2, 120.8, 141.3, 223.3, 1963.3, 77.8]
 ```
 
 ```mermaid
@@ -28,7 +28,7 @@ xychart-beta
     title "Monthly active users"
     x-axis ["2023-05", "2023-06", "2023-07", "2023-08", "2023-09", "2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "users"
-    line [967, 1268, 1332, 960, 1106, 1297, 1242, 1087, 1362, 1557, 1492, 1863, 2053, 2072, 2280, 2479, 2250, 4045, 2756, 2996, 2711, 2483, 2594, 2961, 2634, 2044, 1950, 3396, 8753, 15773, 53078, 27089, 35882, 33896, 90461, 81384, 330801, 118372, 202893, 114152, 180888, 4006]
+    line [967, 1268, 1332, 960, 1106, 1297, 1242, 1087, 1362, 1557, 1492, 1863, 2053, 2072, 2280, 2479, 2250, 4045, 2756, 2996, 2711, 2483, 2594, 2961, 2634, 2044, 1950, 3396, 8753, 15773, 53078, 27089, 35882, 33896, 90461, 81384, 330801, 118372, 202893, 114152, 180888, 8741]
 ```
 
 | month | activeUsers | newUsers | sessions | screenPageViews | engaged hours | sec/session |
@@ -56,7 +56,7 @@ xychart-beta
 | 2026-07 | 202,893 | 200,564 | 203,206 | 285,273 | 141.3 | 2.5 |
 | 2026-08 | 114,152 | 116,038 | 121,133 | 261,249 | 223.3 | 6.6 |
 | 2026-09 | 180,888 | 183,665 | 230,953 | 1,586,357 | 1,963.3 | 30.6 |
-| 2026-10 | 4,006 | 3,666 | 4,386 | 26,995 | 27.0 | 22.1 |
+| 2026-10 | 8,741 | 8,291 | 9,816 | 52,900 | 77.8 | 28.5 |
 
 ## By site, last 12 months
 
@@ -64,13 +64,13 @@ Page views with no host name are the v2 viewer's in-app term changes and are cou
 
 | site | sessions | screenPageViews | engaged hours | sec/session |
 |---|---|---|---|---|
-| v2 viewer | 535,617 | 2,377,522 | 2,329.1 | 15.7 |
-| www / docs | 693,972 | 778,172 | 875.3 | 4.5 |
-| other VFB services | 189,851 | 200,344 | 449.1 | 8.5 |
-| CATMAID | 37,941 | 37,772 | 37.0 | 3.5 |
-| other / mirrors | 83,118 | 8,758 | 18.3 | 0.8 |
-| legacy Edinburgh hosts | 138,707 | 139,164 | 15.8 | 0.4 |
-| VFBchat | 11 | 15 | 0.0 | 0.8 |
+| v2 viewer | 538,524 | 2,398,703 | 2,350.4 | 15.7 |
+| www / docs | 697,504 | 782,850 | 904.5 | 4.7 |
+| other VFB services | 190,455 | 201,002 | 449.9 | 8.5 |
+| CATMAID | 37,991 | 37,823 | 37.7 | 3.6 |
+| other / mirrors | 83,143 | 7,946 | 17.3 | 0.7 |
+| legacy Edinburgh hosts | 138,855 | 139,312 | 15.8 | 0.4 |
+| VFBchat | 12 | 16 | 0.0 | 0.8 |
 
 ## Countries, last 12 months
 
@@ -78,36 +78,36 @@ Ranked by engaged hours. 209 countries in total.
 
 | country | users (sum of months) | sessions | engaged hours | sec/session |
 |---|---|---|---|---|
-| United States | 100,708 | 138,398 | 1,151.9 | 30.0 |
-| United Kingdom | 14,656 | 24,271 | 623.0 | 92.4 |
-| Germany | 13,230 | 20,833 | 176.7 | 30.5 |
-| India | 13,404 | 16,133 | 165.4 | 36.9 |
-| Puerto Rico | 209 | 1,636 | 154.3 | 339.5 |
-| China | 221,557 | 224,508 | 129.7 | 2.1 |
-| Canada | 6,735 | 10,030 | 90.7 | 32.6 |
-| Brazil | 18,104 | 19,567 | 74.6 | 13.7 |
-| Russia | 5,744 | 7,280 | 67.8 | 33.5 |
-| Australia | 3,515 | 5,365 | 61.9 | 41.6 |
-| Singapore | 790,653 | 784,664 | 59.6 | 0.3 |
-| Japan | 9,286 | 11,160 | 53.0 | 17.1 |
-| Türkiye | 4,833 | 5,973 | 44.0 | 26.5 |
-| France | 3,894 | 5,333 | 42.5 | 28.7 |
-| Mexico | 6,023 | 6,717 | 40.4 | 21.6 |
-| Poland | 3,129 | 4,088 | 39.2 | 34.5 |
-| Spain | 2,724 | 3,645 | 35.6 | 35.2 |
-| Italy | 2,313 | 2,920 | 33.0 | 40.7 |
-| South Korea | 1,438 | 2,818 | 31.5 | 40.3 |
-| Pakistan | 3,996 | 4,196 | 29.9 | 25.7 |
-| Indonesia | 12,228 | 12,731 | 27.5 | 7.8 |
-| Netherlands | 2,908 | 3,547 | 26.8 | 27.2 |
+| United States | 101,660 | 139,662 | 1,183.7 | 30.5 |
+| United Kingdom | 14,765 | 24,446 | 624.8 | 92.0 |
+| Germany | 13,274 | 20,909 | 177.1 | 30.5 |
+| India | 13,473 | 16,221 | 166.5 | 37.0 |
+| Puerto Rico | 211 | 1,638 | 154.5 | 339.5 |
+| China | 223,465 | 226,407 | 131.0 | 2.1 |
+| Canada | 6,810 | 10,138 | 92.4 | 32.8 |
+| Brazil | 18,151 | 19,626 | 75.2 | 13.8 |
+| Russia | 5,788 | 7,347 | 68.6 | 33.6 |
+| Australia | 3,535 | 5,398 | 62.2 | 41.5 |
+| Singapore | 791,460 | 785,476 | 59.7 | 0.3 |
+| Japan | 9,292 | 11,170 | 53.7 | 17.3 |
+| Türkiye | 4,854 | 6,013 | 44.3 | 26.5 |
+| France | 3,908 | 5,350 | 42.8 | 28.8 |
+| Mexico | 6,050 | 6,752 | 41.3 | 22.0 |
+| Poland | 3,154 | 4,129 | 39.4 | 34.3 |
+| Spain | 2,746 | 3,677 | 35.8 | 35.1 |
+| Italy | 2,318 | 2,930 | 33.2 | 40.8 |
+| South Korea | 1,446 | 2,829 | 31.6 | 40.2 |
+| Pakistan | 4,006 | 4,209 | 30.0 | 25.7 |
+| Indonesia | 12,248 | 12,757 | 27.9 | 7.9 |
+| Netherlands | 2,932 | 3,583 | 27.0 | 27.1 |
 | (not set) | 927 | 885 | 26.4 | 107.4 |
-| Chile | 2,360 | 2,828 | 25.1 | 31.9 |
-| Philippines | 4,618 | 4,912 | 22.5 | 16.5 |
-| Israel | 1,422 | 2,058 | 22.0 | 38.5 |
-| Argentina | 4,502 | 4,877 | 21.0 | 15.5 |
-| Taiwan | 868 | 1,516 | 20.7 | 49.3 |
-| Ukraine | 3,404 | 3,866 | 18.8 | 17.5 |
-| Czechia | 991 | 1,344 | 16.3 | 43.5 |
+| Chile | 2,372 | 2,844 | 25.3 | 32.1 |
+| Philippines | 4,636 | 4,933 | 22.6 | 16.5 |
+| Israel | 1,434 | 2,071 | 22.4 | 38.9 |
+| Argentina | 4,518 | 4,900 | 21.3 | 15.6 |
+| Taiwan | 874 | 1,527 | 20.8 | 48.9 |
+| Ukraine | 3,417 | 3,884 | 18.9 | 17.5 |
+| Czechia | 997 | 1,355 | 16.5 | 43.9 |
 
 ## Cities, last 12 months
 
@@ -117,54 +117,54 @@ GA4 has no institution or network dimension, so city is the nearest proxy for wh
 |---|---|---|---|---|---|
 | Dunblane | United Kingdom | 1 | 84 | 361.1 | 15,475.0 |
 | San Juan | Puerto Rico | 6 | 688 | 51.8 | 270.8 |
-| Singapore | Singapore | 13 | 764,217 | 50.4 | 0.2 |
-| London | United Kingdom | 13 | 4,465 | 37.8 | 30.4 |
-| New York | United States | 13 | 3,840 | 31.8 | 29.8 |
-| Los Angeles | United States | 13 | 2,636 | 26.1 | 35.6 |
+| Singapore | Singapore | 13 | 765,026 | 50.5 | 0.2 |
+| London | United Kingdom | 13 | 4,499 | 37.9 | 30.3 |
+| New York | United States | 13 | 3,888 | 32.1 | 29.7 |
+| Los Angeles | United States | 13 | 2,662 | 26.6 | 35.9 |
+| Chicago | United States | 13 | 4,846 | 24.8 | 18.4 |
 | Frederick | United States | 1 | 17 | 24.7 | 5,235.5 |
-| Chicago | United States | 13 | 4,682 | 24.4 | 18.8 |
 | Munich | Germany | 10 | 449 | 24.3 | 195.0 |
-| Moscow | Russia | 11 | 2,119 | 22.6 | 38.3 |
-| Karachi | Pakistan | 8 | 844 | 20.9 | 89.1 |
-| Bengaluru | India | 10 | 1,694 | 20.6 | 43.8 |
+| Moscow | Russia | 11 | 2,141 | 22.7 | 38.1 |
+| Karachi | Pakistan | 9 | 850 | 20.9 | 88.6 |
+| Bengaluru | India | 11 | 1,712 | 20.8 | 43.8 |
 | Cambridge | United Kingdom | 12 | 1,818 | 18.7 | 37.0 |
-| San Jose | United States | 13 | 4,275 | 16.5 | 13.9 |
-| Istanbul | Türkiye | 12 | 2,025 | 16.4 | 29.2 |
+| Istanbul | Türkiye | 12 | 2,041 | 16.5 | 29.1 |
+| San Jose | United States | 13 | 4,292 | 16.5 | 13.9 |
 | Cologne | Germany | 10 | 700 | 15.7 | 80.9 |
-| Sydney | Australia | 9 | 1,627 | 15.1 | 33.5 |
-| Miami | United States | 10 | 624 | 15.0 | 86.7 |
-| Boston | United States | 13 | 1,805 | 14.3 | 28.5 |
-| Toronto | Canada | 13 | 1,441 | 14.3 | 35.7 |
-| Phoenix | United States | 9 | 3,403 | 14.2 | 15.0 |
+| Sydney | Australia | 9 | 1,633 | 15.2 | 33.4 |
+| Miami | United States | 10 | 629 | 15.1 | 86.4 |
+| Toronto | Canada | 13 | 1,457 | 14.4 | 35.7 |
+| Boston | United States | 13 | 1,826 | 14.4 | 28.4 |
+| Phoenix | United States | 9 | 3,406 | 14.2 | 15.0 |
 | Edinburgh | United Kingdom | 9 | 350 | 14.1 | 145.1 |
-| Athens | United States | 3 | 283 | 13.6 | 172.8 |
-| Santiago | Chile | 11 | 1,495 | 13.5 | 32.5 |
-| Dallas | United States | 13 | 1,534 | 13.2 | 30.9 |
-| Melbourne | Australia | 9 | 1,207 | 13.1 | 39.2 |
-| Houston | United States | 13 | 1,831 | 13.0 | 25.5 |
+| Santiago | Chile | 11 | 1,510 | 13.8 | 32.9 |
+| Athens | United States | 4 | 293 | 13.8 | 169.4 |
+| Houston | United States | 13 | 1,835 | 13.2 | 26.0 |
+| Melbourne | Australia | 9 | 1,217 | 13.2 | 39.0 |
+| Dallas | United States | 13 | 1,548 | 13.2 | 30.8 |
 | Flint Hill | United States | 7 | 3,945 | 12.9 | 11.8 |
-| Atlanta | United States | 12 | 988 | 12.3 | 44.8 |
-| Philadelphia | United States | 12 | 1,158 | 12.1 | 37.7 |
-| Hong Kong | Hong Kong | 13 | 12,962 | 11.7 | 3.3 |
-| Shanghai | China | 12 | 7,639 | 11.5 | 5.4 |
-| Seoul | South Korea | 13 | 1,013 | 11.3 | 40.0 |
-| Berlin | Germany | 13 | 939 | 11.0 | 42.1 |
-| Warsaw | Poland | 13 | 1,358 | 10.8 | 28.7 |
+| Atlanta | United States | 12 | 995 | 12.3 | 44.6 |
+| Philadelphia | United States | 13 | 1,186 | 12.2 | 37.1 |
+| Hong Kong | Hong Kong | 13 | 12,973 | 11.8 | 3.3 |
+| Shanghai | China | 13 | 7,647 | 11.5 | 5.4 |
+| Seoul | South Korea | 13 | 1,015 | 11.3 | 39.9 |
+| Berlin | Germany | 13 | 947 | 11.0 | 41.8 |
+| Warsaw | Poland | 13 | 1,375 | 10.9 | 28.6 |
 | Rostock | Germany | 2 | 144 | 10.7 | 268.7 |
-| Brisbane | Australia | 8 | 787 | 10.6 | 48.4 |
-| Paris | France | 13 | 1,025 | 10.1 | 35.4 |
-| Beijing | China | 13 | 2,222 | 10.1 | 16.4 |
-| Vienna | Austria | 12 | 621 | 9.7 | 56.2 |
-| Seattle | United States | 12 | 1,174 | 9.6 | 29.5 |
+| Brisbane | Australia | 8 | 792 | 10.7 | 48.5 |
+| Beijing | China | 13 | 2,267 | 10.2 | 16.1 |
+| Paris | France | 13 | 1,027 | 10.1 | 35.5 |
+| Vienna | Austria | 13 | 629 | 9.8 | 55.8 |
+| Seattle | United States | 12 | 1,182 | 9.6 | 29.4 |
 | Shenzhen | China | 12 | 1,772 | 9.2 | 18.6 |
-| Mexico City | Mexico | 9 | 1,261 | 8.7 | 25.0 |
-| Sao Paulo | Brazil | 10 | 1,692 | 8.4 | 17.9 |
+| Mexico City | Mexico | 10 | 1,271 | 8.8 | 25.1 |
+| Sao Paulo | Brazil | 11 | 1,700 | 8.6 | 18.1 |
+| Ashburn | United States | 13 | 4,710 | 8.4 | 6.4 |
+| Mumbai | India | 12 | 861 | 8.4 | 35.1 |
 | San Francisco | United States | 10 | 1,314 | 8.3 | 22.7 |
-| Mumbai | India | 11 | 848 | 8.3 | 35.3 |
-| Ashburn | United States | 13 | 4,684 | 8.3 | 6.4 |
-| Delhi | India | 8 | 1,055 | 8.0 | 27.3 |
+| Delhi | India | 9 | 1,060 | 8.1 | 27.4 |
 | Leipzig | Germany | 11 | 452 | 7.8 | 62.1 |
-| Bristol | United Kingdom | 9 | 309 | 7.7 | 89.9 |
+| Des Moines | United States | 9 | 2,865 | 7.7 | 9.6 |
 
 ## Most viewed terms
 
@@ -174,141 +174,141 @@ Taken from the term id in viewer URLs and `/reports/` and `/term/` pages. The ad
 
 | term | label | views | engaged hours | days seen |
 |---|---|---|---|---|
-| VFB_00101567 | JRC2018Unisex | 480,500 | 833.4 | 30 |
-| FBbt_00003624 | adult brain | 52,789 | 25.7 | 30 |
-| FBbt_00003748 | medulla | 43,898 | 20.1 | 30 |
-| FBbt_00003681 | adult lateral accessory lobe | 38,524 | 15.5 | 30 |
-| FBbt_00040041 | vest | 32,200 | 12.1 | 30 |
-| FBbt_00005093 | nervous system | 26,858 | 10.6 | 30 |
-| FBbt_00040043 | anterior ventrolateral protocerebrum | 26,551 | 11.1 | 30 |
-| FBbt_00045048 | saddle | 26,294 | 8.1 | 30 |
-| FBbt_00003004 | adult | 25,638 | 9.8 | 30 |
-| FBbt_00003680 | nodulus | 23,447 | 4.4 | 30 |
-| FBbt_00047887 | adult central brain | 20,148 | 5.1 | 30 |
-| FBbt_00040042 | posterior ventrolateral protocerebrum | 19,049 | 6.7 | 30 |
-| FBbt_00003678 | ellipsoid body | 14,147 | 5.5 | 29 |
-| FBbt_00014013 | adult gnathal ganglion | 14,032 | 5.0 | 30 |
-| FBbt_00045027 | wedge | 13,798 | 4.6 | 30 |
-| FBbt_00007050 | adult cerebrum | 11,664 | 3.0 | 30 |
-| VFB_00108w0p | BANC:brain_neuropil on JRC2018Unisex | 11,503 | 4.8 | 25 |
-| FBbt_00045050 | flange | 10,322 | 3.7 | 30 |
-| FBbt_00003632 | adult central complex | 9,679 | 2.0 | 30 |
-| VFB_00102140 | LAL on JRC2018Unisex adult brain | 9,388 | 3.1 | 28 |
-| VFB_00102107 | ME on JRC2018Unisex adult brain | 9,320 | 4.2 | 30 |
-| FBbt_00110636 | adult cerebral ganglion | 8,775 | 2.7 | 30 |
-| FBbt_00003679 | fan-shaped body | 8,765 | 3.5 | 30 |
-| VFB_00102212 | VES on JRC2018Unisex adult brain | 8,600 | 3.1 | 27 |
-| FBbt_00053384 | adult primary visual center | 8,547 | 3.5 | 30 |
+| VFB_00101567 | JRC2018Unisex | 485,221 | 846.0 | 30 |
+| FBbt_00003624 | adult brain | 54,066 | 26.6 | 30 |
+| FBbt_00003748 | medulla | 44,460 | 20.5 | 30 |
+| FBbt_00003681 | adult lateral accessory lobe | 38,794 | 15.6 | 30 |
+| FBbt_00040041 | vest | 32,958 | 12.2 | 30 |
+| FBbt_00005093 | nervous system | 27,351 | 10.9 | 30 |
+| FBbt_00040043 | anterior ventrolateral protocerebrum | 26,828 | 11.3 | 30 |
+| FBbt_00045048 | saddle | 26,577 | 8.2 | 30 |
+| FBbt_00003004 | adult | 25,962 | 9.9 | 30 |
+| FBbt_00003680 | nodulus | 24,188 | 4.4 | 30 |
+| FBbt_00047887 | adult central brain | 20,348 | 5.1 | 30 |
+| FBbt_00040042 | posterior ventrolateral protocerebrum | 19,223 | 6.7 | 30 |
+| FBbt_00003678 | ellipsoid body | 14,331 | 5.6 | 30 |
+| FBbt_00014013 | adult gnathal ganglion | 14,235 | 5.0 | 30 |
+| FBbt_00045027 | wedge | 13,958 | 4.9 | 30 |
+| VFB_00108w0p | BANC:brain_neuropil on JRC2018Unisex | 11,954 | 4.9 | 26 |
+| FBbt_00007050 | adult cerebrum | 11,790 | 3.0 | 30 |
+| FBbt_00045050 | flange | 10,444 | 3.7 | 30 |
+| FBbt_00003632 | adult central complex | 9,767 | 2.1 | 30 |
+| VFB_00102140 | LAL on JRC2018Unisex adult brain | 9,481 | 3.1 | 28 |
+| VFB_00102107 | ME on JRC2018Unisex adult brain | 9,393 | 4.3 | 30 |
+| FBbt_00003679 | fan-shaped body | 8,894 | 3.6 | 30 |
+| FBbt_00110636 | adult cerebral ganglion | 8,840 | 2.6 | 30 |
+| FBbt_00053384 | adult primary visual center | 8,691 | 3.6 | 30 |
+| VFB_00102212 | VES on JRC2018Unisex adult brain | 8,659 | 3.1 | 27 |
 
 ### Last 12 months
 
 | term | label | views | engaged hours | days seen |
 |---|---|---|---|---|
-| VFB_00101567 | JRC2018Unisex | 712,692 | 1,436.3 | 365 |
-| FBbt_00003624 | adult brain | 61,936 | 37.0 | 328 |
-| FBbt_00003748 | medulla | 55,674 | 34.8 | 342 |
-| FBbt_00003681 | adult lateral accessory lobe | 45,136 | 25.2 | 336 |
-| FBbt_00040041 | vest | 38,016 | 20.7 | 322 |
-| FBbt_00040043 | anterior ventrolateral protocerebrum | 32,290 | 17.4 | 293 |
-| FBbt_00005093 | nervous system | 32,193 | 16.9 | 300 |
-| FBbt_00045048 | saddle | 30,794 | 14.1 | 298 |
-| FBbt_00003004 | adult | 29,236 | 14.4 | 276 |
-| FBbt_00003680 | nodulus | 26,598 | 7.3 | 241 |
-| FBbt_00047887 | adult central brain | 23,669 | 8.4 | 271 |
-| FBbt_00040042 | posterior ventrolateral protocerebrum | 21,977 | 10.8 | 277 |
-| FBbt_00003678 | ellipsoid body | 17,892 | 11.6 | 281 |
-| VFB_jrchk7yg | WEDPN2A_R (FlyEM-HB:885788485) | 17,463 | 5.5 | 136 |
-| FBbt_00014013 | adult gnathal ganglion | 17,018 | 11.5 | 271 |
-| VFB_00050000 | L1 larval CNS ssTEM - Cardona/Janelia | 16,517 | 27.0 | 317 |
-| FBbt_00045027 | wedge | 16,175 | 7.5 | 270 |
-| FBbt_00007050 | adult cerebrum | 14,361 | 5.6 | 255 |
-| VFB_00102107 | ME on JRC2018Unisex adult brain | 13,544 | 10.2 | 234 |
-| FBbt_00045050 | flange | 12,252 | 6.0 | 236 |
-| VFB_00102140 | LAL on JRC2018Unisex adult brain | 11,607 | 5.8 | 182 |
-| FBbt_00003632 | adult central complex | 11,573 | 4.1 | 190 |
-| VFB_00108w0p | BANC:brain_neuropil on JRC2018Unisex | 11,503 | 4.8 | 25 |
-| FBbt_00110636 | adult cerebral ganglion | 11,191 | 4.2 | 234 |
-| FBbt_00003679 | fan-shaped body | 11,050 | 6.2 | 252 |
+| VFB_00101567 | JRC2018Unisex | 718,406 | 1,450.0 | 365 |
+| FBbt_00003624 | adult brain | 63,359 | 37.9 | 328 |
+| FBbt_00003748 | medulla | 56,315 | 35.1 | 342 |
+| FBbt_00003681 | adult lateral accessory lobe | 45,899 | 25.4 | 336 |
+| FBbt_00040041 | vest | 38,800 | 20.7 | 322 |
+| FBbt_00005093 | nervous system | 32,683 | 17.3 | 300 |
+| FBbt_00040043 | anterior ventrolateral protocerebrum | 32,583 | 17.5 | 293 |
+| FBbt_00045048 | saddle | 31,099 | 14.2 | 298 |
+| FBbt_00003004 | adult | 29,560 | 14.5 | 276 |
+| FBbt_00003680 | nodulus | 27,457 | 7.3 | 241 |
+| FBbt_00047887 | adult central brain | 23,880 | 8.4 | 271 |
+| FBbt_00040042 | posterior ventrolateral protocerebrum | 22,157 | 10.8 | 277 |
+| FBbt_00003678 | ellipsoid body | 18,061 | 11.6 | 281 |
+| VFB_jrchk7yg | WEDPN2A_R (FlyEM-HB:885788485) | 17,577 | 5.6 | 137 |
+| FBbt_00014013 | adult gnathal ganglion | 17,220 | 11.5 | 271 |
+| VFB_00050000 | L1 larval CNS ssTEM - Cardona/Janelia | 16,637 | 27.4 | 317 |
+| FBbt_00045027 | wedge | 16,356 | 7.8 | 270 |
+| FBbt_00007050 | adult cerebrum | 14,491 | 5.6 | 255 |
+| VFB_00102107 | ME on JRC2018Unisex adult brain | 13,641 | 10.2 | 235 |
+| FBbt_00045050 | flange | 12,393 | 6.0 | 236 |
+| VFB_00108w0p | BANC:brain_neuropil on JRC2018Unisex | 11,954 | 4.9 | 26 |
+| VFB_00102140 | LAL on JRC2018Unisex adult brain | 11,715 | 5.8 | 183 |
+| FBbt_00003632 | adult central complex | 11,669 | 4.1 | 190 |
+| FBbt_00110636 | adult cerebral ganglion | 11,274 | 4.2 | 234 |
+| FBbt_00003679 | fan-shaped body | 11,184 | 6.2 | 253 |
 
 ### All time
 
 | term | label | views | engaged hours | days seen |
 |---|---|---|---|---|
-| VFB_00101567 | JRC2018Unisex | 903,023 | 1,663.5 | 960 |
-| FBbt_00003624 | adult brain | 74,644 | 59.9 | 847 |
-| FBbt_00003748 | medulla | 64,988 | 54.6 | 838 |
-| FBbt_00003681 | adult lateral accessory lobe | 51,385 | 38.8 | 810 |
-| FBbt_00040041 | vest | 44,041 | 31.7 | 782 |
-| FBbt_00040043 | anterior ventrolateral protocerebrum | 37,368 | 27.0 | 705 |
-| FBbt_00045048 | saddle | 35,040 | 22.5 | 716 |
-| FBbt_00005093 | nervous system | 33,608 | 19.0 | 418 |
-| FBbt_00003004 | adult | 31,501 | 16.7 | 458 |
-| FBbt_00003680 | nodulus | 28,276 | 11.0 | 511 |
-| FBbt_00047887 | adult central brain | 28,081 | 14.6 | 632 |
-| FBbt_00040042 | posterior ventrolateral protocerebrum | 25,175 | 17.8 | 658 |
-| VFB_00050000 | L1 larval CNS ssTEM - Cardona/Janelia | 24,051 | 39.6 | 778 |
-| FBbt_00003678 | ellipsoid body | 20,842 | 17.9 | 617 |
-| FBbt_00014013 | adult gnathal ganglion | 20,594 | 19.5 | 617 |
-| FBbt_00045027 | wedge | 18,744 | 13.4 | 613 |
-| VFB_jrchk7yg | WEDPN2A_R (FlyEM-HB:885788485) | 17,634 | 6.3 | 149 |
-| VFB_00102107 | ME on JRC2018Unisex adult brain | 17,106 | 14.8 | 507 |
-| FBbt_00007050 | adult cerebrum | 17,096 | 9.8 | 531 |
-| VFB_00030867 | adult mushroom body on adult brain template JFRC2 | 16,570 | 12.8 | 423 |
-| FBbt_00003679 | fan-shaped body | 16,142 | 12.1 | 573 |
-| VFB_00102140 | LAL on JRC2018Unisex adult brain | 14,160 | 8.7 | 399 |
-| FBbt_00045050 | flange | 14,145 | 10.2 | 512 |
-| FBbt_00110636 | adult cerebral ganglion | 13,640 | 7.2 | 517 |
-| FBbt_00003632 | adult central complex | 13,428 | 7.7 | 385 |
+| VFB_00101567 | JRC2018Unisex | 909,001 | 1,677.6 | 961 |
+| FBbt_00003624 | adult brain | 76,148 | 60.8 | 848 |
+| FBbt_00003748 | medulla | 65,634 | 55.0 | 839 |
+| FBbt_00003681 | adult lateral accessory lobe | 52,150 | 38.9 | 811 |
+| FBbt_00040041 | vest | 44,837 | 31.8 | 783 |
+| FBbt_00040043 | anterior ventrolateral protocerebrum | 37,676 | 27.1 | 706 |
+| FBbt_00045048 | saddle | 35,347 | 22.7 | 717 |
+| FBbt_00005093 | nervous system | 34,145 | 19.5 | 419 |
+| FBbt_00003004 | adult | 31,854 | 16.9 | 459 |
+| FBbt_00003680 | nodulus | 29,139 | 11.0 | 512 |
+| FBbt_00047887 | adult central brain | 28,314 | 14.6 | 633 |
+| FBbt_00040042 | posterior ventrolateral protocerebrum | 25,357 | 17.8 | 659 |
+| VFB_00050000 | L1 larval CNS ssTEM - Cardona/Janelia | 24,171 | 39.9 | 779 |
+| FBbt_00003678 | ellipsoid body | 21,026 | 18.0 | 618 |
+| FBbt_00014013 | adult gnathal ganglion | 20,808 | 19.6 | 618 |
+| FBbt_00045027 | wedge | 18,927 | 13.6 | 614 |
+| VFB_jrchk7yg | WEDPN2A_R (FlyEM-HB:885788485) | 17,748 | 6.3 | 150 |
+| FBbt_00007050 | adult cerebrum | 17,230 | 9.8 | 532 |
+| VFB_00102107 | ME on JRC2018Unisex adult brain | 17,203 | 14.8 | 508 |
+| VFB_00030867 | adult mushroom body on adult brain template JFRC2 | 16,625 | 12.9 | 424 |
+| FBbt_00003679 | fan-shaped body | 16,276 | 12.2 | 574 |
+| FBbt_00045050 | flange | 14,288 | 10.2 | 513 |
+| VFB_00102140 | LAL on JRC2018Unisex adult brain | 14,268 | 8.8 | 400 |
+| FBbt_00110636 | adult cerebral ganglion | 13,729 | 7.2 | 518 |
+| FBbt_00003632 | adult central complex | 13,526 | 7.7 | 386 |
 
 ### Templates in use, last 12 months
 
 | template | label | views |
 |---|---|---|
-| VFB_00101567 | JRC2018Unisex | 1,157,916 |
-| VFB_00050000 | L1 larval CNS ssTEM - Cardona/Janelia | 32,515 |
-| VFB_00017894 | adult brain template JFRC2 | 17,001 |
-| VFB_00200000 | JRC2018UnisexVNC | 11,844 |
-| VFB_00049000 | L3 CNS template - Wood2018 | 8,773 |
-| VFB_00110000 | Adult Head (McKellar2020) | 3,024 |
-| VFB_00101384 | JRC_FlyEM_Hemibrain | 2,094 |
+| VFB_00101567 | JRC2018Unisex | 1,169,044 |
+| VFB_00050000 | L1 larval CNS ssTEM - Cardona/Janelia | 32,620 |
+| VFB_00017894 | adult brain template JFRC2 | 17,136 |
+| VFB_00200000 | JRC2018UnisexVNC | 11,843 |
+| VFB_00049000 | L3 CNS template - Wood2018 | 8,839 |
+| VFB_00110000 | Adult Head (McKellar2020) | 3,069 |
+| VFB_00101384 | JRC_FlyEM_Hemibrain | 2,115 |
 | FBbt_00003624 | adult brain | 1,383 |
-| VFB_00120000 | Adult T1 Leg (Kuan2020) | 1,233 |
-| VFB_00030786 | adult brain template Ito2014 | 869 |
+| VFB_00120000 | Adult T1 Leg (Kuan2020) | 1,248 |
+| VFB_00030786 | adult brain template Ito2014 | 887 |
 
 ## Website and documentation pages, last 12 months
 
 | pagePath | screenPageViews | engaged hours |
 |---|---|---|
-| / | 167,932 | 511.8 |
-| /docs/ | 15,881 | 36.3 |
-| /about/ | 5,471 | 24.1 |
-| /docs/overview/ | 3,492 | 20.4 |
-| /docs/data/ | 5,155 | 17.0 |
-| /docs/tutorials/vfb-mcp-guide/ | 1,528 | 9.1 |
-| /docs/website-features/3dviewer/ | 2,207 | 8.4 |
-| /hosted/ | 2,477 | 5.0 |
-| /docs/tutorials/ | 2,099 | 4.8 |
-| /about/whichfly/ | 409 | 4.5 |
-| /docs/contribution-guidelines/ | 1,064 | 4.2 |
-| /docs/concepts/flylight_tiles/ | 572 | 3.3 |
-| /docs/tutorials/apis/ | 699 | 3.2 |
-| /about/hosted/ | 940 | 3.1 |
-| /docs/apis/ | 622 | 3.1 |
-| /blog/news/ | 1,272 | 2.9 |
-| /docs/website-features/search_query/ | 661 | 2.8 |
-| /blog/2026/09/06/vfb-self-led-learning-sessions-a-free-online-workshop-open-to-everyone/ | 809 | 2.5 |
-| /docs/website-features/ | 884 | 2.5 |
-| /docs/concepts/ | 502 | 2.4 |
+| / | 169,883 | 517.6 |
+| /docs/ | 16,072 | 36.7 |
+| /about/ | 5,511 | 24.2 |
+| /blog/releases/catmaid/ | 505 | 22.0 |
+| /docs/overview/ | 3,520 | 20.5 |
+| /docs/data/ | 5,231 | 17.2 |
+| /docs/tutorials/vfb-mcp-guide/ | 1,541 | 9.1 |
+| /docs/website-features/3dviewer/ | 2,241 | 8.5 |
+| /hosted/ | 2,522 | 5.0 |
+| /docs/tutorials/ | 2,126 | 4.9 |
+| /about/whichfly/ | 414 | 4.5 |
+| /docs/contribution-guidelines/ | 1,086 | 4.4 |
+| /docs/tutorials/apis/ | 704 | 3.3 |
+| /docs/concepts/flylight_tiles/ | 575 | 3.3 |
+| /docs/apis/ | 632 | 3.1 |
+| /about/hosted/ | 939 | 3.1 |
+| /blog/news/ | 1,293 | 2.9 |
+| /docs/website-features/search_query/ | 670 | 2.9 |
+| /blog/2026/09/06/vfb-self-led-learning-sessions-a-free-online-workshop-open-to-everyone/ | 834 | 2.6 |
+| /docs/website-features/ | 897 | 2.5 |
+| /docs/concepts/ | 507 | 2.4 |
+| /docs/concepts/neuron-counts/ | 263 | 2.2 |
+| /docs/concepts/cell_types/ | 349 | 2.1 |
+| /docs/data/em/ | 393 | 2.1 |
 | /docs/tutorials/apis/vfb_api_overview/ | 319 | 2.1 |
-| /docs/concepts/neuron-counts/ | 259 | 2.1 |
-| /docs/concepts/cell_types/ | 341 | 2.1 |
-| /docs/data/em/ | 389 | 2.1 |
 | /search/ | 597 | 2.0 |
-| /docs/tools/ | 346 | 1.9 |
-| /docs/concepts/bridging/ | 218 | 1.9 |
-| /blog/releases/catmaid/ | 499 | 1.8 |
-| /docs/tutorials/website/similarityscore/ | 305 | 1.7 |
+| /docs/concepts/bridging/ | 217 | 1.9 |
+| /docs/tools/ | 350 | 1.9 |
 | /blog/2025/12/17/neurofly-2026-21st-biennial-european-drosophila-neurobiology-conference/ | 461 | 1.7 |
+| /docs/data/connectivity/ | 256 | 1.7 |
 
 ## How people arrive
 
@@ -316,76 +316,75 @@ Engaged sessions by channel and year.
 
 | channel | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|
-| (other) | 0 | 0 | 0 | 0 |
-| AI Assistant | 0 | 0 | 0 | 2,171 |
-| Cross-network | 0 | 0 | 0 | 2 |
-| Direct | 1,628 | 10,737 | 124,445 | 1,087,636 |
-| Organic Search | 3,198 | 18,605 | 30,520 | 161,157 |
+| AI Assistant | 0 | 0 | 0 | 2,191 |
+| Cross-network | 0 | 0 | 0 | 1 |
+| Direct | 1,628 | 10,737 | 124,445 | 1,091,079 |
+| Organic Search | 3,198 | 18,605 | 30,520 | 162,942 |
 | Organic Shopping | 0 | 3 | 2 | 0 |
-| Organic Social | 7 | 454 | 125 | 1,238 |
-| Organic Video | 0 | 2 | 0 | 31 |
-| Referral | 495 | 18,973 | 11,071 | 8,403 |
-| Unassigned | 0 | 6 | 60 | 1,458 |
+| Organic Social | 7 | 454 | 125 | 1,264 |
+| Organic Video | 0 | 2 | 0 | 34 |
+| Referral | 495 | 18,973 | 11,071 | 8,459 |
+| Unassigned | 0 | 6 | 60 | 1,464 |
 
 Top sources, last 12 months.
 
 | sessionSource | sessions | engaged hours |
 |---|---|---|
-| google | 158,615 | 2,008.4 |
-| (direct) | 1,184,278 | 1,151.2 |
-| bing | 10,224 | 217.3 |
-| chatgpt.com | 2,595 | 38.6 |
-| (not set) | 8,833 | 30.5 |
-| yahoo | 625 | 27.3 |
-| cn.bing.com | 764 | 27.2 |
-| duckduckgo | 2,139 | 25.1 |
-| splitgal4.janelia.org | 1,605 | 15.8 |
-| flybase.org | 954 | 15.8 |
-| codex.flywire.ai | 1,933 | 13.8 |
-| gemini.google.com | 500 | 11.6 |
-| ecosia.org | 700 | 8.6 |
-| github.com | 589 | 8.4 |
+| google | 160,178 | 2,028.2 |
+| (direct) | 1,187,576 | 1,153.2 |
+| bing | 10,418 | 220.4 |
+| (not set) | 8,814 | 50.7 |
+| chatgpt.com | 2,605 | 38.8 |
+| cn.bing.com | 768 | 27.5 |
+| yahoo | 636 | 27.4 |
+| duckduckgo | 2,175 | 25.4 |
+| flybase.org | 956 | 15.8 |
+| splitgal4.janelia.org | 1,606 | 15.8 |
+| codex.flywire.ai | 1,931 | 13.7 |
+| gemini.google.com | 507 | 11.7 |
+| ecosia.org | 706 | 8.6 |
+| github.com | 595 | 8.6 |
 | moodle.carleton.edu | 120 | 6.3 |
 | science.org | 152 | 5.9 |
 | trafficheap.cc | 502 | 5.8 |
 | trafficheap.com | 502 | 5.8 |
-| en.wikipedia.org | 313 | 5.1 |
-| janelia.org | 238 | 4.5 |
-| neuronbridge.janelia.org | 125 | 4.3 |
-| search.brave.com | 237 | 3.8 |
-| yandex.ru | 228 | 3.8 |
-| doubao.com | 74 | 3.4 |
+| en.wikipedia.org | 317 | 5.2 |
+| janelia.org | 240 | 4.6 |
+| neuronbridge.janelia.org | 124 | 4.3 |
+| yandex.ru | 231 | 3.9 |
+| search.brave.com | 239 | 3.8 |
 | flweb.janelia.org | 249 | 3.4 |
+| doubao.com | 76 | 3.4 |
 
 ## Queries run in the viewer, last 12 months
 
 | query | runs |
 |---|---|
-| allalignedimages | 3,227 |
-| imagesneurons | 885 |
-| alldatasets | 468 |
-| aligneddatasets | 433 |
-| listallavailableimages | 352 |
-| neuronsparthere | 343 |
-| partsof | 194 |
-| painteddomains | 192 |
-| neuronssynaptic | 102 |
-| subclassesof | 99 |
-| neuronspresynaptichere | 71 |
-| neuronneuronconnectivit | 69 |
-| neuronspostsynaptichere | 62 |
-| datasetimages | 57 |
+| allalignedimages | 3,350 |
+| imagesneurons | 921 |
+| alldatasets | 481 |
+| aligneddatasets | 451 |
+| neuronsparthere | 377 |
+| listallavailableimages | 369 |
+| partsof | 215 |
+| painteddomains | 202 |
+| subclassesof | 108 |
+| neuronssynaptic | 108 |
+| neuronneuronconnectivit | 77 |
+| neuronspresynaptichere | 74 |
+| neuronspostsynaptichere | 65 |
+| datasetimages | 60 |
+| transgeneexpressionhere | 54 |
 | expressioncluster | 50 |
-| transgeneexpressionhere | 49 |
-| tractsnervesinnervating | 36 |
-| similarmorphologyto | 33 |
-| lineageclonesin | 28 |
-| termsforpub | 23 |
-| findstocks | 22 |
-| neuronregionconnectivit | 18 |
-| upstreamclassconnectivi | 16 |
+| tractsnervesinnervating | 41 |
+| similarmorphologyto | 35 |
+| lineageclonesin | 29 |
+| termsforpub | 25 |
+| findstocks | 23 |
+| neuronregionconnectivit | 19 |
+| upstreamclassconnectivi | 17 |
 | anatscrnaseqquery | 14 |
-| splitstargeting | 11 |
+| splitstargeting | 12 |
 
 ## VFBchat and MCP
 
@@ -399,7 +398,7 @@ Top sources, last 12 months.
 | 2026-07 | 9 | 18,938 |
 | 2026-08 | 1,017 | 89,583 |
 | 2026-09 | 797 | 84,835 |
-| 2026-10 | 2 | 240 |
+| 2026-10 | 14 | 498 |
 
 ## Viewer reliability
 
@@ -422,44 +421,44 @@ Top sources, last 12 months.
 | 2026-07 | 45,208 | 2,280 | 0 | 49 | 0 | 5.0 |
 | 2026-08 | 24,841 | 3,675 | 0 | 530 | 0 | 14.8 |
 | 2026-09 | 51,588 | 75,199 | 30,436 | 38,791 | 1,919 | 145.8 |
-| 2026-10 | 817 | 2,008 | 332 | 1,640 | 11 | 245.8 |
+| 2026-10 | 1,909 | 3,188 | 783 | 2,308 | 34 | 167.0 |
 
 Load times from the timing suffix on viewer events (months with at least 100 samples).
 
 | month | event | n | median s | p95 s |
 |---|---|---|---|---|
 | 2026-09 | direct-geom:obj:ok | 61,923 | 1.4 | 25.4 |
-| 2026-10 | direct-geom:obj:ok | 2,602 | 1.5 | 55.1 |
+| 2026-10 | direct-geom:obj:ok | 4,970 | 1.6 | 55.0 |
 | 2026-09 | direct-terminfo:ok | 109,210 | 0.4 | 3.0 |
-| 2026-10 | direct-terminfo:ok | 4,912 | 0.5 | 54.3 |
+| 2026-10 | direct-terminfo:ok | 9,691 | 0.5 | 54.0 |
 | 2026-09 | startup-first-term | 50,164 | 5.2 | 58.0 |
-| 2026-10 | startup-first-term | 2,208 | 13.0 | 58.0 |
+| 2026-10 | startup-first-term | 4,186 | 6.6 | 58.0 |
 | 2026-09 | startup-model | 54,086 | 2.8 | 25.0 |
-| 2026-10 | startup-model | 2,673 | 2.8 | 8.0 |
+| 2026-10 | startup-model | 4,869 | 2.8 | 8.9 |
 | 2026-09 | term-load:ok | 104,726 | 1.0 | 45.0 |
-| 2026-10 | term-load:ok | 4,284 | 1.3 | 55.0 |
+| 2026-10 | term-load:ok | 8,589 | 1.0 | 55.0 |
 
 ## Outbound links clicked, last 12 months
 
 | linkDomain | clicks |
 |---|---|
 | neuronbridge.janelia.org | 1,413 |
-| pypi.org | 1,130 |
-| virtualflybrain.org | 804 |
-| github.com | 787 |
-| v2.virtualflybrain.org | 600 |
-| insectbraindb.org | 518 |
+| pypi.org | 1,143 |
+| virtualflybrain.org | 845 |
+| github.com | 797 |
+| v2.virtualflybrain.org | 610 |
+| insectbraindb.org | 529 |
 | flweb.janelia.org | 428 |
-| colab.research.google.com | 319 |
-| translate.google.com | 275 |
-| doi.org | 264 |
+| colab.research.google.com | 324 |
+| translate.google.com | 282 |
+| doi.org | 269 |
 | flybase.org | 179 |
-| virtualflybrain.bsky.social | 74 |
-| chat.virtualflybrain.org | 74 |
-| codex.flywire.ai | 71 |
+| virtualflybrain.bsky.social | 75 |
+| chat.virtualflybrain.org | 75 |
+| codex.flywire.ai | 72 |
 | google.com | 57 |
 | vfb3-mcp.virtualflybrain.org | 50 |
-| neurofly.org | 47 |
+| neurofly.org | 48 |
 | neuprint.janelia.org | 39 |
 | janelia.org | 38 |
 | ncbi.nlm.nih.gov | 21 |
@@ -468,18 +467,18 @@ Load times from the timing suffix on viewer events (months with at least 100 sam
 
 | deviceCategory | browser | sessions | engaged hours |
 |---|---|---|---|
-| desktop | Chrome | 1,252,997 | 2,326.5 |
-| desktop | Edge | 17,059 | 371.5 |
-| mobile | Chrome | 40,658 | 288.0 |
-| desktop | Safari | 12,324 | 185.8 |
-| desktop | Firefox | 10,432 | 181.8 |
-| desktop | Opera | 12,002 | 148.0 |
-| mobile | Safari | 28,329 | 135.1 |
-| tablet | Chrome | 2,170 | 28.1 |
-| mobile | Firefox | 1,113 | 9.9 |
-| mobile | Samsung Internet | 1,320 | 9.7 |
-| tablet | Safari | 788 | 8.6 |
-| desktop | YaBrowser | 455 | 7.2 |
+| desktop | Chrome | 1,256,917 | 2,362.3 |
+| desktop | Edge | 17,312 | 376.0 |
+| mobile | Chrome | 40,926 | 289.8 |
+| desktop | Safari | 12,474 | 184.5 |
+| desktop | Firefox | 10,506 | 183.6 |
+| desktop | Opera | 12,136 | 149.6 |
+| mobile | Safari | 28,625 | 136.4 |
+| tablet | Chrome | 2,205 | 28.4 |
+| mobile | Firefox | 1,123 | 9.9 |
+| mobile | Samsung Internet | 1,326 | 9.7 |
+| tablet | Safari | 802 | 8.8 |
+| desktop | YaBrowser | 466 | 7.2 |
 
 ## What this data cannot show
 

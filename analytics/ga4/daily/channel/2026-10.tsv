@@ -1,9 +1,16 @@
 date	sessionDefaultChannelGroup	sessions	engagedSessions	userEngagementDuration
-2026-10-01	(other)	7	0	0
-2026-10-01	AI Assistant	32	28	1771
-2026-10-01	Cross-network	2	2	120
-2026-10-01	Direct	2574	2558	10520
-2026-10-01	Organic Search	1674	1586	79372
+2026-10-01	AI Assistant	34	30	1856
+2026-10-01	Direct	3034	3017	11055
+2026-10-01	Organic Search	1892	1789	91563
+2026-10-01	Organic Social	2	2	45
 2026-10-01	Organic Video	2	2	119
-2026-10-01	Referral	58	57	2344
-2026-10-01	Unassigned	135	2	2900
+2026-10-01	Referral	65	64	2512
+2026-10-01	Unassigned	63	1	425
+2026-10-02	AI Assistant	20	18	910
+2026-10-02	Cross-network	1	1	20
+2026-10-02	Direct	3004	2984	13763
+2026-10-02	Organic Search	1680	1582	79920
+2026-10-02	Organic Social	24	24	13
+2026-10-02	Organic Video	4	3	137
+2026-10-02	Referral	55	49	2646
+2026-10-02	Unassigned	57	7	75255
