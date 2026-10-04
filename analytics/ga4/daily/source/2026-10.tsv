@@ -42,12 +42,11 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-01	yahoo	organic	6	5	372
 2026-10-01	yandex.ru	referral	3	3	152
 2026-10-01	youtube.com	referral	2	2	119
-2026-10-02	(data not available)	(data not available)	1	1	20
-2026-10-02	(direct)	(none)	3004	2984	13763
-2026-10-02	(not set)	(not set)	57	7	75255
+2026-10-02	(direct)	(none)	3069	3044	14134
+2026-10-02	(not set)	(not set)	47	0	75128
 2026-10-02	aocr.org	referral	17	17	266
 2026-10-02	au.search.yahoo.com	referral	3	3	0
-2026-10-02	bing	organic	176	162	10406
+2026-10-02	bing	organic	187	172	11442
 2026-10-02	br.search.yahoo.com	referral	1	1	34
 2026-10-02	ca.search.yahoo.com	referral	1	1	0
 2026-10-02	cell.com	referral	1	1	0
@@ -55,8 +54,8 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-02	cn.bing.com	referral	4	4	734
 2026-10-02	codex.flywire.ai	referral	2	2	36
 2026-10-02	doubao.com	referral	2	1	12
-2026-10-02	duckduckgo	organic	34	31	1108
-2026-10-02	ecosia.org	organic	6	6	89
+2026-10-02	duckduckgo	organic	35	32	1135
+2026-10-02	ecosia.org	organic	7	7	92
 2026-10-02	en.wikipedia.org	referral	4	3	101
 2026-10-02	es.search.yahoo.com	referral	1	1	0
 2026-10-02	facebook.com	referral	10	10	0
@@ -64,12 +63,12 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-02	flybrain.info	referral	1	1	116
 2026-10-02	flylight-raw.janelia.org	referral	1	1	78
 2026-10-02	gateway.zscalerone.net	referral	1	1	5
-2026-10-02	gemini.google.com	ai-assistant	7	6	146
+2026-10-02	gemini.google.com	ai-assistant	8	7	146
 2026-10-02	github.com	referral	5	4	663
-2026-10-02	google	organic	1434	1356	66938
+2026-10-02	google	organic	1509	1427	69651
 2026-10-02	janelia.org	referral	2	2	338
 2026-10-02	l.facebook.com	referral	1	1	11
-2026-10-02	l.instagram.com	referral	1	1	0
+2026-10-02	l.instagram.com	referral	2	2	0
 2026-10-02	learn-anything.xyz	referral	1	1	16
 2026-10-02	linkedin.com	referral	1	1	0
 2026-10-02	lm.facebook.com	referral	6	6	2
@@ -84,9 +83,45 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-02	teams.public.onecdn.static.microsoft	referral	6	4	67
 2026-10-02	translate.google.com	referral	1	1	72
 2026-10-02	uk.search.yahoo.com	referral	3	2	88
-2026-10-02	v2-virtualflybrain-org.translate.goog	referral	2	2	565
+2026-10-02	v2-virtualflybrain-org.translate.goog	referral	3	3	604
 2026-10-02	wenxin.baidu.com	referral	1	1	11
 2026-10-02	workshop-virtualflybrain-org.translate.goog	referral	1	1	19
-2026-10-02	yahoo	organic	11	9	366
+2026-10-02	yahoo	organic	15	13	3316
 2026-10-02	yandex.ru	referral	2	2	81
 2026-10-02	youtube.com	referral	4	3	137
+2026-10-03	(data not available)	(data not available)	2	2	3
+2026-10-03	(direct)	(none)	3638	3627	12579
+2026-10-03	(not set)	(not set)	94	0	1620
+2026-10-03	(other)	(other)	5	0	8
+2026-10-03	baidu	organic	1	1	130
+2026-10-03	bing	organic	142	138	10042
+2026-10-03	ca.search.yahoo.com	referral	3	3	66
+2026-10-03	chatgpt.com	ai-assistant	27	26	292
+2026-10-03	ciencia1.com	referral	2	2	0
+2026-10-03	cn.bing.com	referral	3	2	113
+2026-10-03	codex.flywire.ai	referral	4	4	30
+2026-10-03	duckduckgo	organic	25	23	591
+2026-10-03	ecosia.org	organic	2	2	14
+2026-10-03	en.wikipedia.org	referral	4	4	559
+2026-10-03	facebook.com	referral	19	19	11
+2026-10-03	fruitflybrain.org	referral	1	1	0
+2026-10-03	gemini		1	1	0
+2026-10-03	gemini.google.com	ai-assistant	3	3	71
+2026-10-03	google	organic	1246	1216	51726
+2026-10-03	in.search.yahoo.com	referral	1	1	0
+2026-10-03	janelia.org	referral	1	1	0
+2026-10-03	l.facebook.com	referral	4	4	40
+2026-10-03	lm.facebook.com	referral	7	7	245
+2026-10-03	m.facebook.com	referral	1	1	0
+2026-10-03	pe.search.yahoo.com	referral	1	1	32
+2026-10-03	ph.search.yahoo.com	referral	2	1	0
+2026-10-03	pl.search.yahoo.com	referral	1	1	0
+2026-10-03	search.brave.com	referral	9	7	186
+2026-10-03	search.google.com	referral	1	1	0
+2026-10-03	t.co	referral	2	2	0
+2026-10-03	translate.google.com	referral	2	2	105
+2026-10-03	tw.search.yahoo.com	referral	1	1	0
+2026-10-03	v2-virtualflybrain-org.translate.goog	referral	1	1	0
+2026-10-03	yahoo	organic	22	21	2941
+2026-10-03	yandex.ru	referral	1	1	0
+2026-10-03	youtube.com	referral	5	4	468

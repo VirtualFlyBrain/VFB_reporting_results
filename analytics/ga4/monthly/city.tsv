@@ -12136,123 +12136,189 @@ month	country	region	city	activeUsers	newUsers	sessions	engagedSessions	screenPa
 2026-09	Vietnam	Tuyen Quang	(not set)	8	5	8	7	20	220	56
 2026-09	Vietnam	Vinh Long	(not set)	17	14	17	16	14	16	49
 2026-09	Zimbabwe	Harare Province	Harare	11	11	19	18	105	416	284
-2026-10				5	5	5	5	5	124	30
-2026-10	Argentina	Buenos Aires	Buenos Aires	6	6	6	6	16	309	66
-2026-10	Australia	New South Wales	Sydney	14	12	16	15	113	384	308
-2026-10	Australia	Queensland	Brisbane	12	10	15	15	100	612	273
-2026-10	Australia	Victoria	Melbourne	14	12	25	21	81	722	306
-2026-10	Australia	Western Australia	Perth	6	4	6	6	25	74	67
-2026-10	Austria	Vienna	Vienna	5	4	8	7	35	186	98
-2026-10	Bangladesh	Dhaka Division	Dhaka	5	4	7	7	89	1084	161
-2026-10	Brazil	State of Sao Paulo	Sao Paulo	6	6	8	8	97	569	201
-2026-10	Canada	Alberta	Edmonton	5	6	10	9	81	352	345
-2026-10	Canada	British Columbia	Vancouver	5	5	5	5	12	64	42
-2026-10	Canada	Ontario	Toronto	17	18	22	21	75	622	297
-2026-10	Canada	Quebec	Montreal	15	15	17	17	335	2087	639
-2026-10	Chile	Santiago Metropolitan Region	Santiago	16	17	20	19	98	1119	277
-2026-10	China			1638	1638	1639	1639	2307	2069	6103
-2026-10	China	(not set)	(not set)	1570	1569	1575	1575	1582	82	4862
-2026-10	China	Beijing	Beijing	74	4	76	75	24	132	159
-2026-10	China	Heilongjiang	Harbin	59	2	60	60	103	3025	291
-2026-10	China	Shanghai	Shanghai	6	5	8	7	6	19	23
-2026-10	China	Zhejiang	Hangzhou	5	3	5	4	5	22	18
-2026-10	Colombia	Antioquia	Medellin	6	5	15	13	134	1082	392
-2026-10	Colombia	Bogota	Bogota	11	7	14	12	83	300	223
-2026-10	Colombia	Valle del Cauca	Cali	6	6	7	7	116	228	229
-2026-10	Czechia	Prague	Prague	6	5	9	9	12	53	87
-2026-10	Estonia	Harju County	Tallinn	5	4	7	7	79	204	165
+2026-10	(not set)	(not set)	(not set)	5	5	5	5	5	124	34
+2026-10	Argentina	Buenos Aires	Buenos Aires	8	8	8	8	34	349	102
+2026-10	Australia	New South Wales	Sydney	26	23	31	29	374	1315	840
+2026-10	Australia	Queensland	Brisbane	17	15	20	20	217	1075	505
+2026-10	Australia	Victoria	Melbourne	24	22	35	31	251	1322	632
+2026-10	Australia	Western Australia	Perth	11	8	12	11	80	434	213
+2026-10	Austria	Vienna	Vienna	7	6	12	11	51	197	134
+2026-10	Bangladesh	Dhaka Division	Dhaka	6	5	10	9	131	1256	235
+2026-10	Belgium	Flanders	Antwerp	5	5	5	5	29	87	96
+2026-10	Brazil	State of Parana	Curitiba	5	5	5	5	40	228	105
+2026-10	Brazil	State of Rio de Janeiro	Rio de Janeiro	8	7	8	8	103	627	201
+2026-10	Brazil	State of Sao Paulo	Sao Paulo	11	10	14	14	103	633	221
+2026-10	Bulgaria	Sofia	Sofia	6	4	6	6	74	188	146
+2026-10	Canada	Alberta	Calgary	9	9	12	12	95	610	265
+2026-10	Canada	Alberta	Edmonton	6	7	13	11	94	437	439
+2026-10	Canada	British Columbia	Vancouver	8	8	8	8	19	408	91
+2026-10	Canada	Manitoba	Winnipeg	5	5	27	27	22	268	199
+2026-10	Canada	Ontario	Mississauga	5	4	6	6	52	105	119
+2026-10	Canada	Ontario	Toronto	25	25	30	29	84	671	332
+2026-10	Canada	Quebec	Montreal	21	21	25	23	481	3641	974
+2026-10	Chile	Santiago Metropolitan Region	Santiago	25	23	31	28	147	1447	449
+2026-10	China			2368	2368	2372	2372	2389	161	7375
+2026-10	China	(not set)	(not set)	3274	3273	3287	3287	3955	2153	11166
+2026-10	China	Beijing	Beijing	116	4	118	117	41	279	250
+2026-10	China	Guangdong Province	Shenzhen	6	6	9	8	53	370	137
+2026-10	China	Hainan	Sanya	5	2	5	5	30	167	57
+2026-10	China	Heilongjiang	Harbin	107	2	108	106	103	3095	347
+2026-10	China	Shanghai	Shanghai	9	8	11	10	27	346	80
+2026-10	China	Zhejiang	Hangzhou	9	7	9	8	9	22	30
+2026-10	Colombia	Antioquia	Medellin	7	6	32	29	231	1167	779
+2026-10	Colombia	Bogota	Bogota	12	8	15	13	84	300	226
+2026-10	Colombia	Valle del Cauca	Cali	7	7	8	8	117	228	233
+2026-10	Czechia	Prague	Prague	10	7	13	13	23	79	116
+2026-10	Ecuador	Pichincha	Quito	5	5	7	6	83	335	200
+2026-10	Estonia	Harju County	Tallinn	6	4	8	8	83	228	179
+2026-10	Finland	Uusimaa	Helsinki	7	7	10	9	36	540	101
 2026-10	France	Ile-de-France	Paris	5	4	7	6	89	966	236
-2026-10	Germany			9	7	13	11	26	62	116
-2026-10	Germany	(not set)	(not set)	15	15	17	17	140	472	358
-2026-10	Germany	Berlin	Berlin	11	9	17	15	90	403	219
-2026-10	Germany	Hessen	Frankfurt am Main	12	10	13	13	54	200	155
-2026-10	Hong Kong		Hong Kong	11	9	11	10	17	161	71
-2026-10	Hong Kong	(not set)	Hong Kong	8	7	8	7	23	164	72
-2026-10	Hungary	Budapest	Budapest	8	7	10	9	56	207	124
-2026-10	India	Delhi	Delhi	5	5	5	5	70	311	172
-2026-10	India	Karnataka	Bengaluru	11	10	18	14	281	826	513
-2026-10	India	Maharashtra	Mumbai	9	3	13	12	76	347	215
-2026-10	India	Telangana	Hyderabad	8	7	11	10	36	227	98
-2026-10	Indonesia	Jakarta	Jakarta	14	12	18	17	194	517	722
-2026-10	Iran	(not set)	Tehran	13	11	14	14	156	423	288
-2026-10	Ireland	County Dublin	Dublin	9	7	10	10	39	201	229
-2026-10	Israel	Tel Aviv District	Tel Aviv-Yafo	6	6	6	6	38	363	100
-2026-10	Italy	Lombardy	Milan	5	4	5	5	19	925	70
-2026-10	Kazakhstan	Almaty Region	Almaty	6	5	6	6	247	456	453
+2026-10	Georgia	Tbilisi	Tbilisi	8	7	8	8	61	102	137
+2026-10	Germany			15	11	16	14	157	333	335
+2026-10	Germany	(not set)	(not set)	23	22	30	28	166	534	474
+2026-10	Germany	Bavaria	Munich	5	4	5	5	4	31	17
+2026-10	Germany	Berlin	Berlin	17	14	23	21	108	462	266
+2026-10	Germany	Hamburg	Hamburg	5	5	8	8	76	333	195
+2026-10	Germany	Hessen	Frankfurt am Main	17	13	18	18	59	213	183
+2026-10	Germany	North Rhine-Westphalia	Bonn	5	3	15	13	107	79	284
+2026-10	Germany	North Rhine-Westphalia	Cologne	6	5	6	6	66	232	149
+2026-10	Guatemala	Guatemala Department	Guatemala City	6	5	8	8	14	54	44
+2026-10	Hong Kong		Hong Kong	8	7	9	9	22	43	74
+2026-10	Hong Kong	(not set)	Hong Kong	19	16	19	17	40	325	143
+2026-10	Hungary	Budapest	Budapest	11	9	15	14	195	598	371
+2026-10	India	Bihar	Patna	7	7	7	7	14	185	66
+2026-10	India	Delhi	Delhi	8	8	8	8	97	500	250
+2026-10	India	Karnataka	Bengaluru	20	16	35	29	348	974	845
+2026-10	India	Madhya Pradesh	Indore	5	5	6	6	132	292	239
+2026-10	India	Maharashtra	Mumbai	13	8	21	20	108	436	329
+2026-10	India	Tamil Nadu	Chennai	7	5	11	11	586	209	2227
+2026-10	India	Telangana	Hyderabad	11	9	15	14	40	236	109
+2026-10	Indonesia	Jakarta	Jakarta	20	18	25	24	219	564	782
+2026-10	Indonesia	Special Region of Yogyakarta	Wonosari	5	5	5	5	5	0	16
+2026-10	Indonesia	West Java	Bandung	5	4	5	5	116	374	223
+2026-10	Iran	(not set)	Tehran	17	15	18	18	233	597	432
+2026-10	Ireland	County Dublin	Dublin	12	9	13	13	46	214	244
+2026-10	Israel	Center District	Rishon LeZion	5	5	5	5	156	280	283
+2026-10	Israel	Tel Aviv District	Tel Aviv-Yafo	8	8	9	9	41	383	110
+2026-10	Italy	Lombardy	Milan	10	7	10	10	27	953	95
+2026-10	Kazakhstan	Almaty Region	Almaty	9	8	15	14	405	822	794
+2026-10	Malaysia	Federal Territory of Kuala Lumpur	Kuala Lumpur	5	5	6	6	32	138	80
 2026-10	Mexico	Jalisco	Zapopan	5	5	5	5	91	665	213
-2026-10	Mexico	Mexico City	Mexico City	9	8	10	10	192	352	391
-2026-10	Netherlands	North Holland	Amsterdam	8	8	12	11	72	241	202
-2026-10	Pakistan	Sindh	Karachi	5	5	6	5	12	143	60
-2026-10	Peru	Lima Province		5	4	5	5	10	112	34
-2026-10	Poland	Lower Silesian Voivodeship	Wroclaw	9	9	10	10	43	102	248
-2026-10	Poland	Masovian Voivodeship	Warsaw	20	14	29	25	115	476	273
-2026-10	Russia	Moscow	Moscow	35	31	39	38	322	1634	709
-2026-10	Russia	Saint Petersburg	Saint Petersburg	9	11	11	10	96	587	232
-2026-10	Serbia	Vojvodina	Belgrade	5	3	7	7	36	50	104
-2026-10	Singapore		Singapore	718	715	722	722	835	398	2590
-2026-10	Singapore	(not set)	Singapore	761	760	764	764	793	134	2458
-2026-10	South Korea	Seoul	Seoul	6	6	7	7	9	45	31
-2026-10	Spain	Community of Madrid	Madrid	9	9	9	9	123	442	253
-2026-10	Spain	Valencian Community	Valencia	10	7	13	10	188	342	383
-2026-10	Thailand	Bangkok	Bangkok	157	156	193	179	1201	7202	2912
-2026-10	Thailand	Chiang Mai	Chiang Mai	9	8	9	9	80	445	188
-2026-10	Türkiye	Ankara	Ankara	8	9	10	10	118	361	226
-2026-10	Türkiye	Istanbul	Istanbul	16	15	24	23	85	482	476
-2026-10	Ukraine	Kyiv city	Kyiv	9	10	11	10	73	240	128
-2026-10	United Arab Emirates	Dubai	Dubai	12	9	13	13	82	241	205
-2026-10	United Kingdom			7	5	6	5	5	7	79
-2026-10	United Kingdom	(not set)	(not set)	7	4	5	4	5	32	44
-2026-10	United Kingdom	England		15	11	18	17	208	699	440
-2026-10	United Kingdom	England	(not set)	12	10	16	14	280	668	654
-2026-10	United Kingdom	England	Bath	11	9	17	16	81	400	260
-2026-10	United Kingdom	England	London	39	33	65	59	473	2401	1257
-2026-10	United States			32	21	31	28	97	281	322
-2026-10	United States	(not set)	(not set)	47	19	42	22	73	378	388
-2026-10	United States	Arizona	Mesa	5	5	5	5	72	716	164
-2026-10	United States	Arizona	Phoenix	8	6	9	9	23	188	92
-2026-10	United States	California		7	3	8	8	12	0	26
-2026-10	United States	California	Los Angeles	29	17	48	44	288	2526	801
-2026-10	United States	California	Merced	5	3	12	11	289	623	598
-2026-10	United States	California	San Diego	5	4	5	5	9	94	39
-2026-10	United States	California	San Jose	24	19	35	30	143	211	774
-2026-10	United States	California	Santa Clara	45	45	46	46	51	204	233
-2026-10	United States	Colorado		75	73	75	73	83	163	354
-2026-10	United States	Colorado	(not set)	77	77	77	77	77	83	299
-2026-10	United States	Colorado	Denver	16	15	16	16	94	973	277
-2026-10	United States	District of Columbia	Washington	7	5	14	10	109	747	333
+2026-10	Mexico	Mexico City	Mexico City	12	10	15	15	838	454	3610
+2026-10	Mexico	Puebla	Puebla	5	6	8	8	40	554	97
+2026-10	Mongolia	Ulaanbaatar	Ulaanbaatar	7	7	8	7	36	171	104
+2026-10	Morocco	Casablanca-Settat	Casablanca	6	6	8	7	131	778	274
+2026-10	Netherlands	(not set)	(not set)	8	8	11	10	25	157	82
+2026-10	Netherlands	North Holland	Amsterdam	12	11	16	15	77	250	218
+2026-10	New Zealand	Auckland	Auckland	6	6	6	6	32	305	91
+2026-10	Pakistan	Islamabad Capital Territory	Islamabad	6	5	11	9	33	215	128
+2026-10	Pakistan	Punjab	Lahore	5	5	5	5	13	113	43
+2026-10	Pakistan	Sindh	Karachi	6	6	7	6	13	143	63
+2026-10	Peru	Lima Province		7	6	7	7	28	125	63
+2026-10	Peru	Lima Province	(not set)	7	7	12	11	18	121	56
+2026-10	Philippines	Metro Manila	Manila	5	4	5	5	9	140	37
+2026-10	Philippines	Metro Manila	Quezon City	7	7	11	11	106	265	328
+2026-10	Poland	Lower Silesian Voivodeship	Wroclaw	11	11	12	12	48	132	266
+2026-10	Poland	Masovian Voivodeship	Warsaw	32	29	47	43	309	1201	690
+2026-10	Poland	Silesian Voivodeship	Katowice	5	4	5	5	14	71	54
+2026-10	Romania	Bucharest	Bucharest	6	5	9	9	104	410	213
+2026-10	Russia	Moscow	Moscow	45	39	55	53	1083	3127	2135
+2026-10	Russia	Saint Petersburg	Saint Petersburg	12	14	16	15	328	1212	621
+2026-10	Saudi Arabia	Eastern Province	Dammam	5	5	5	5	33	450	106
+2026-10	Saudi Arabia	Riyadh Province	Riyadh	5	5	9	9	106	235	230
+2026-10	Serbia	Vojvodina	Belgrade	7	5	9	9	38	50	110
+2026-10	Singapore		Singapore	642	639	645	645	664	78	2089
+2026-10	Singapore	(not set)	Singapore	1512	1509	1522	1522	1672	550	5186
+2026-10	Slovakia	Bratislava Region	Bratislava	5	5	6	5	83	256	160
+2026-10	South Africa	Western Cape	Cape Town	6	5	16	14	104	435	449
+2026-10	South Korea	Seoul	Seoul	7	7	8	8	14	129	71
+2026-10	Spain	Catalonia	Barcelona	5	2	11	8	67	534	245
+2026-10	Spain	Community of Madrid	Madrid	9	9	10	10	124	453	256
+2026-10	Spain	Valencian Community	Valencia	11	8	14	11	206	495	431
+2026-10	Thailand	Bangkok	Bangkok	198	198	238	223	1355	8163	3356
+2026-10	Thailand	Chiang Mai	Chiang Mai	11	10	11	11	84	472	206
+2026-10	Thailand	Kamphaeng Phet	Nai Mueang	5	3	5	5	61	126	113
+2026-10	Thailand	Nakhon Sawan	Nakhon Sawan	5	5	5	5	41	397	98
+2026-10	Thailand	Prachuap Khiri Khan	Prachuap Khiri Khan	6	3	7	7	11	99	43
+2026-10	Thailand	Samut Prakan	Bang Phli Yai	5	6	10	9	25	162	90
+2026-10	Thailand	Surat Thani	(not set)	7	8	8	8	25	245	110
+2026-10	Türkiye	Ankara	Ankara	10	11	12	12	125	390	255
+2026-10	Türkiye	Istanbul	Istanbul	28	24	38	36	213	781	728
+2026-10	Ukraine	Dnipropetrovsk Oblast	Dnipro	5	4	5	5	74	193	144
+2026-10	Ukraine	Kyiv city	Kyiv	14	15	17	16	111	321	209
+2026-10	United Arab Emirates	Abu Dhabi	Abu Dhabi	8	4	9	8	31	374	69
+2026-10	United Arab Emirates	Dubai	Dubai	13	11	15	15	85	278	223
+2026-10	United Arab Emirates	Sharjah	Sharjah	6	4	6	6	13	63	64
+2026-10	United Kingdom	(not set)	(not set)	12	9	10	9	10	39	123
+2026-10	United Kingdom	England		8	5	8	8	12	27	39
+2026-10	United Kingdom	England	(not set)	23	21	34	31	488	1367	1094
+2026-10	United Kingdom	England	Bath	20	15	26	25	115	683	415
+2026-10	United Kingdom	England	Birmingham	13	11	14	14	165	645	402
+2026-10	United Kingdom	England	London	53	46	86	80	621	3232	1671
+2026-10	United Kingdom	England	Manchester	5	4	6	5	76	396	190
+2026-10	United Kingdom	England	Norwich	5	5	7	7	77	175	187
+2026-10	United States			35	11	27	17	166	571	433
+2026-10	United States	(not set)	(not set)	75	40	73	51	171	659	712
+2026-10	United States	Alabama	Birmingham	6	5	6	6	6	15	18
+2026-10	United States	Arizona	Mesa	6	6	6	6	77	822	182
+2026-10	United States	Arizona	Phoenix	148	217	150	150	945	1049	2815
+2026-10	United States	California		6	1	6	5	20	102	52
+2026-10	United States	California	(not set)	7	4	13	12	79	257	294
+2026-10	United States	California	Irvine	5	5	5	5	78	902	172
+2026-10	United States	California	Los Angeles	37	27	63	58	345	2806	972
+2026-10	United States	California	Merced	6	4	15	13	302	656	677
+2026-10	United States	California	Sacramento	5	3	6	6	10	30	42
+2026-10	United States	California	San Diego	6	5	7	6	17	138	60
+2026-10	United States	California	San Jose	31	27	49	44	170	712	881
+2026-10	United States	California	Santa Clara	48	48	49	49	54	204	244
+2026-10	United States	Colorado		8	8	8	8	8	0	28
+2026-10	United States	Colorado	(not set)	152	150	152	150	160	246	653
+2026-10	United States	Colorado	Colorado Springs	6	4	8	7	60	266	164
+2026-10	United States	Colorado	Denver	18	18	19	19	106	1022	309
+2026-10	United States	District of Columbia	Washington	8	6	19	15	115	749	350
+2026-10	United States	Florida	(not set)	7	6	9	9	60	499	181
+2026-10	United States	Florida	Daytona Beach	5	5	5	5	30	160	108
 2026-10	United States	Florida	Jacksonville	5	4	6	6	7	76	29
-2026-10	United States	Florida	Miami	11	11	12	11	33	400	117
-2026-10	United States	Georgia	Athens	6	1	10	7	39	740	108
-2026-10	United States	Georgia	Atlanta	11	9	12	11	48	224	166
-2026-10	United States	Illinois	Chicago	174	163	188	183	1013	1998	3044
-2026-10	United States	Illinois	Glenview	7	8	7	7	9	0	32
-2026-10	United States	Indiana	Indianapolis	6	5	7	7	45	209	122
-2026-10	United States	Iowa	Council Bluffs	56	56	56	56	59	19	186
-2026-10	United States	Massachusetts	Boston	13	11	31	23	104	431	417
+2026-10	United States	Florida	Miami	15	14	19	18	57	492	219
+2026-10	United States	Georgia	Athens	7	1	14	10	43	1100	122
+2026-10	United States	Georgia	Atlanta	16	13	18	16	56	377	200
+2026-10	United States	Illinois	Chicago	192	180	221	216	1138	2329	3528
+2026-10	United States	Illinois	Glenview	9	10	9	9	11	0	39
+2026-10	United States	Indiana	Indianapolis	11	10	12	12	80	388	235
+2026-10	United States	Iowa	Council Bluffs	84	84	84	84	87	19	273
+2026-10	United States	Maryland	Baltimore	5	5	6	6	116	239	225
+2026-10	United States	Massachusetts	Boston	21	16	48	37	139	610	578
+2026-10	United States	Michigan	Detroit	7	7	8	8	76	129	159
 2026-10	United States	Michigan	Kalamazoo	5	7	5	5	68	454	161
-2026-10	United States	Minnesota	Minneapolis	7	6	14	12	62	581	209
-2026-10	United States	Missouri	Kansas City	5	2	13	8	20	45	129
-2026-10	United States	Nevada	Las Vegas Valley	6	6	8	6	142	422	297
-2026-10	United States	New Jersey	Newark	6	5	7	7	23	93	86
-2026-10	United States	New York		8	6	11	11	123	352	240
-2026-10	United States	New York	New York	51	43	71	65	422	2024	1211
-2026-10	United States	North Carolina	Charlotte	9	7	10	9	48	238	118
+2026-10	United States	Minnesota	Minneapolis	11	9	18	16	72	643	251
+2026-10	United States	Nevada	Las Vegas Valley	12	10	14	12	250	1194	540
+2026-10	United States	New Jersey	Newark	10	7	13	12	28	95	101
+2026-10	United States	New York	(not set)	11	9	17	16	131	488	268
+2026-10	United States	New York	New York	76	62	98	90	621	2927	1761
+2026-10	United States	North Carolina	Charlotte	8	7	10	9	48	238	118
 2026-10	United States	North Carolina	Durham	5	4	6	5	16	191	52
-2026-10	United States	Ohio	Columbus	9	8	11	10	47	298	187
-2026-10	United States	Oklahoma	Oklahoma City	6	5	6	6	122	524	242
-2026-10	United States	Oregon	Boardman	8	8	8	8	8	15	32
-2026-10	United States	Pennsylvania		7	5	7	7	233	232	831
-2026-10	United States	Pennsylvania	Philadelphia	7	4	28	22	48	346	549
-2026-10	United States	Texas	Austin	5	4	5	5	62	158	108
-2026-10	United States	Texas	Dallas	17	12	20	20	72	306	204
-2026-10	United States	Texas	El Paso	5	5	5	5	10	204	50
-2026-10	United States	Texas	Houston	12	11	15	15	59	1056	196
-2026-10	United States	Virginia		7	6	7	7	36	160	83
-2026-10	United States	Virginia	(not set)	6	6	6	6	38	128	100
-2026-10	United States	Virginia	Alexandria	5	2	6	6	29	207	101
-2026-10	United States	Virginia	Ashburn	42	39	49	48	107	1140	416
+2026-10	United States	North Carolina	Raleigh	5	3	6	6	93	117	166
+2026-10	United States	Ohio	Columbus	10	9	12	11	50	338	195
+2026-10	United States	Oklahoma	Oklahoma City	9	8	10	10	136	567	280
+2026-10	United States	Oregon	Boardman	13	13	13	13	14	42	62
+2026-10	United States	Oregon	The Dalles	5	3	7	6	21	11	69
+2026-10	United States	Pennsylvania	(not set)	9	6	10	9	252	287	879
+2026-10	United States	Pennsylvania	Philadelphia	9	6	31	25	64	360	605
+2026-10	United States	South Carolina	Taylors	5	5	5	5	5	53	17
+2026-10	United States	Texas	(not set)	6	6	7	7	35	392	97
+2026-10	United States	Texas	Austin	9	7	10	9	103	302	193
+2026-10	United States	Texas	Dallas	32	24	38	38	113	490	381
+2026-10	United States	Texas	El Paso	6	6	6	6	18	862	81
+2026-10	United States	Texas	Houston	23	18	26	26	314	1619	656
+2026-10	United States	Texas	San Antonio	6	5	7	6	144	719	249
+2026-10	United States	Virginia	(not set)	12	12	14	13	77	288	200
+2026-10	United States	Virginia	Alexandria	7	3	8	8	40	250	135
+2026-10	United States	Virginia	Ashburn	62	58	70	68	146	1669	548
 2026-10	United States	Virginia	Flint Hill	134	134	134	134	845	1009	2348
-2026-10	United States	Washington		5	3	8	7	49	291	146
-2026-10	United States	Washington	Seattle	10	8	16	14	50	300	213
-2026-10	Vietnam	Ha Noi	Hanoi	9	9	11	10	49	374	137
-2026-10	Vietnam	Ho Chi Minh	Ho Chi Minh City	7	7	7	7	12	115	66
+2026-10	United States	Virginia	Virginia Beach	5	4	5	5	99	308	176
+2026-10	United States	Washington	(not set)	7	5	10	9	54	314	169
+2026-10	United States	Washington	Seattle	14	11	23	20	134	560	410
+2026-10	United States	Wisconsin	Beloit	5	5	7	6	25	143	83
+2026-10	Uruguay	Montevideo Department	Montevideo	5	4	5	5	26	71	52
+2026-10	Vietnam	Ha Noi	Hanoi	12	12	14	13	55	408	160
+2026-10	Vietnam	Ho Chi Minh	Ho Chi Minh City	9	9	10	10	20	142	98
