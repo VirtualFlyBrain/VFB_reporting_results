@@ -153,15 +153,13 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-04	yahoo	organic	18	16	1172
 2026-10-04	yandex.ru	referral	2	2	51
 2026-10-04	youtube.com	referral	1	1	17
-2026-10-05	(data not available)	(data not available)	8	8	629
-2026-10-05	(direct)	(none)	3925	3907	11701
-2026-10-05	(not set)	(not set)	96	2	1280
+2026-10-05	(direct)	(none)	3956	3930	11768
+2026-10-05	(not set)	(not set)	61	0	314
 2026-10-05	aocr.org	referral	5	5	44
-2026-10-05	bing	organic	166	154	8679
+2026-10-05	bing	organic	167	155	8895
 2026-10-05	ca.search.yahoo.com	referral	1	1	0
 2026-10-05	cell.com	referral	6	5	369
-2026-10-05	chatgpt.com	(none)	1	1	5
-2026-10-05	chatgpt.com	ai-assistant	13	10	545
+2026-10-05	chatgpt.com	ai-assistant	13	10	550
 2026-10-05	cn.bing.com	referral	11	10	92
 2026-10-05	codex.flywire.ai	referral	4	4	726
 2026-10-05	doubao.com	referral	1	1	0
@@ -174,7 +172,7 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-05	fruitflybrain.org	referral	1	1	0
 2026-10-05	gemini.google.com	ai-assistant	3	3	26
 2026-10-05	github.com	referral	2	2	251
-2026-10-05	google	organic	1359	1279	58090
+2026-10-05	google	organic	1370	1289	59403
 2026-10-05	hume.google.com	referral	1	1	0
 2026-10-05	in.search.yahoo.com	referral	1	1	114
 2026-10-05	informatics.ktalk.ru	referral	1	1	0
@@ -193,3 +191,36 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-05	yahoo	organic	8	7	600
 2026-10-05	yandex.ru	referral	1	1	0
 2026-10-05	youtube.com	referral	1	1	15
+2026-10-06	(data not available)	(data not available)	157	157	7190
+2026-10-06	(direct)	(none)	2612	2601	6856
+2026-10-06	(not set)	(not set)	310	1	9567
+2026-10-06	(other)	(other)	3	0	0
+2026-10-06	aocr.org	referral	14	14	66
+2026-10-06	bing	organic	120	110	7209
+2026-10-06	ca.search.yahoo.com	referral	1	1	2
+2026-10-06	cell.com	referral	1	1	6
+2026-10-06	chatgpt.com	ai-assistant	13	10	234
+2026-10-06	cn.bing.com	referral	3	3	150
+2026-10-06	codex.flywire.ai	referral	2	1	0
+2026-10-06	doubao.com	referral	2	2	0
+2026-10-06	duckduckgo	organic	31	27	806
+2026-10-06	ecosia.org	organic	3	3	33
+2026-10-06	en.wikipedia.org	referral	1	1	45
+2026-10-06	es.search.yahoo.com	referral	1	1	13
+2026-10-06	facebook.com	referral	1	1	40
+2026-10-06	flybase.org	referral	1	1	41
+2026-10-06	flylight-raw.janelia.org	referral	1	1	0
+2026-10-06	fr.search.yahoo.com	referral	1	1	128
+2026-10-06	gemini.google.com	ai-assistant	1	1	43
+2026-10-06	github.com	referral	2	1	0
+2026-10-06	google	organic	931	888	40183
+2026-10-06	l.facebook.com	referral	1	1	0
+2026-10-06	l.instagram.com	referral	1	1	0
+2026-10-06	larva.neuronlp.fruitflybrain.org	referral	1	1	202
+2026-10-06	qianwen.com	referral	1	1	4
+2026-10-06	safe.menlosecurity.com	referral	1	1	73
+2026-10-06	science.org	referral	2	1	180
+2026-10-06	search.brave.com	referral	2	2	0
+2026-10-06	search.google.com	referral	2	2	15
+2026-10-06	teams.public.onecdn.static.microsoft	referral	4	3	34
+2026-10-06	yahoo	organic	10	8	451
