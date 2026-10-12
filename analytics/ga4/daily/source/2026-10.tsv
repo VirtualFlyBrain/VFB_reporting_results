@@ -341,9 +341,8 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-09	yandex.ru	referral	4	4	351
 2026-10-09	yvbdun.aitianhu2.top	(not set)	1	1	16
 2026-10-09	yvbdun.aitianhu2.top	referral	1	1	4
-2026-10-10	(direct)	(none)	1600	1586	7720
-2026-10-10	(not set)	(not set)	41	1	1073
-2026-10-10	(other)	(other)	1	0	0
+2026-10-10	(direct)	(none)	1600	1585	7731
+2026-10-10	(not set)	(not set)	37	0	749
 2026-10-10	baidu	organic	1	1	0
 2026-10-10	bing	organic	83	80	8705
 2026-10-10	br.search.yahoo.com	referral	1	1	13
@@ -351,15 +350,15 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-10	cell.com	referral	5	5	36
 2026-10-10	chatgpt.com	ai-assistant	3	3	10
 2026-10-10	cn.bing.com	referral	2	2	48
-2026-10-10	codex.flywire.ai	referral	1	1	37
+2026-10-10	codex.flywire.ai	referral	2	2	37
 2026-10-10	doubao.com	referral	1	1	5
-2026-10-10	duckduckgo	organic	33	29	553
+2026-10-10	duckduckgo	organic	33	30	834
 2026-10-10	ecosia.org	organic	5	4	1179
 2026-10-10	en.wikipedia.org	referral	1	0	0
 2026-10-10	es.search.yahoo.com	referral	1	1	31
 2026-10-10	gemini.google.com	ai-assistant	3	3	101
 2026-10-10	github.com	referral	3	3	601
-2026-10-10	google	organic	920	881	39671
+2026-10-10	google	organic	917	880	39702
 2026-10-10	it.search.yahoo.com	referral	1	1	112
 2026-10-10	l.facebook.com	referral	1	1	94
 2026-10-10	learn-anything.xyz	referral	1	1	87
@@ -368,10 +367,42 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-10	search.brave.com	referral	1	1	37
 2026-10-10	search.google.com	referral	4	2	303
 2026-10-10	splitgal4.janelia.org	referral	1	1	48
-2026-10-10	teams.public.onecdn.static.microsoft	referral	5	3	0
+2026-10-10	teams.public.onecdn.static.microsoft	referral	5	2	0
 2026-10-10	translate.google.com	referral	1	1	0
 2026-10-10	v2-virtualflybrain-org.translate.goog	referral	2	2	35
 2026-10-10	viralrecast.com	referral	1	1	27
 2026-10-10	yahoo	organic	14	12	937
 2026-10-10	youtube.com	referral	10	8	397
-2026-10-10	yvbdun.aitianhu2.top		1	1	0
+2026-10-10	yvbdun.aitianhu2.top	(not set)	1	1	0
+2026-10-11	(direct)	(none)	1335	1311	10426
+2026-10-11	(not set)	(not set)	42	2	400
+2026-10-11	baidu	organic	1	0	0
+2026-10-11	bing	organic	79	76	6082
+2026-10-11	ca.search.yahoo.com	referral	1	1	10
+2026-10-11	cell.com	referral	2	2	3
+2026-10-11	chatgpt.com	ai-assistant	2	1	20
+2026-10-11	claude.ai	ai-assistant	2	1	4
+2026-10-11	cn.bing.com	referral	4	4	748
+2026-10-11	codex.flywire.ai	referral	4	4	302
+2026-10-11	duckduckgo	organic	20	20	712
+2026-10-11	ecosia.org	organic	1	1	153
+2026-10-11	en.wikipedia.org	referral	1	1	7
+2026-10-11	facebook.com	referral	1	1	0
+2026-10-11	flybase.org	referral	1	1	10
+2026-10-11	flybrain.inf.ed.ac.uk	referral	1	1	0
+2026-10-11	flybrain.info	referral	1	1	52
+2026-10-11	gemini.google.com	ai-assistant	1	1	3
+2026-10-11	github.com	referral	1	1	4
+2026-10-11	google	organic	802	759	50680
+2026-10-11	login.microsoftonline.com	referral	1	1	42
+2026-10-11	noai.duckduckgo.com	referral	1	1	3
+2026-10-11	qwant.com	organic	1	1	0
+2026-10-11	search.google.com	referral	4	3	208
+2026-10-11	statics.dod.teams.microsoft.us	referral	1	1	171
+2026-10-11	translate.google.com	referral	1	1	29
+2026-10-11	uk.search.yahoo.com	referral	2	1	0
+2026-10-11	v2-virtualflybrain-org.translate.goog	referral	1	1	183
+2026-10-11	wenxin.baidu.com	referral	1	1	0
+2026-10-11	yahoo	organic	6	5	581
+2026-10-11	yandex.ru	referral	1	1	16
+2026-10-11	youtube.com	referral	1	1	36
