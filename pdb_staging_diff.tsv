@@ -1,139 +1,139 @@
 ds.short_form	server	ds.label	license	pub	individuals	NBLAST	NBLASTexp	ontology_terms	exp_cur
-Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	3195	0	787	109	0
+Aso2014	pdb	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	4606	0	787	112	0
 Aso2014	staging	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227179	4110	0	787	112	0
-AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	31	0	3	12	0
+AsoRubin2016	pdb	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	49	0	3	12	0
 AsoRubin2016	staging	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	33	0	3	12	0
-Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	358	0	42	111	0
+Chiang2010	pdb	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	15929	5952	215	0
+Chiang2010	staging	FlyCircuit 1.0 - single neurons (Chiang2010)	FlyCircuit License	FBrf0212704	16127	15929	5952	216	0
+Dickson_VT	pdb	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	FBrf0236875	18016	0	0	7806	0
+Dickson_VT	staging	Dickson lab VT line collection - VDRC images	CC-BY-NC-SA_4.0	FBrf0236875	18016	0	0	7807	0
+Dolan2019	pdb	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	4371	0	42	114	0
 Dolan2019	staging	GAL4 Split expression patterns from Dolan et al. 2019	CC-BY_4.0	FBrf0242477	4034	0	42	114	0
-Gen1MCFOJenett2012	pdb	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	15861	0	0	1	0
+FlyLightGen1Set2019	pdb	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13587	0	0	7967	0
+FlyLightGen1Set2019	staging	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	CC-BY-NC-SA_4.0	FBrf0219813	13587	0	0	7968	0
+Gen1MCFODionne2018	pdb	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY_4.0	FBrf0236874	155	0	0	1	0
+Gen1MCFODionne2018	staging	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	CC-BY_4.0	FBrf0236874	151	0	0	1	0
+Gen1MCFOJenett2012	pdb	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	19849	0	0	1	0
 Gen1MCFOJenett2012	staging	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	CC-BY_4.0	FBrf0219813	15964	0	0	1	0
-Gen1MCFOTirian2017	pdb	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	17149	0	0	1	0
+Gen1MCFOPfeiffer2010	pdb	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	CC-BY_4.0	FBrf0212052	10	0	0	1	0
+Gen1MCFOPfeiffer2010	staging	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	CC-BY_4.0	FBrf0212052	4	0	0	1	0
+Gen1MCFOTirian2017	pdb	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	27940	0	0	1	0
 Gen1MCFOTirian2017	staging	MCFO images of VT-GAL4 lines from Tirian et al., 2017	CC-BY_4.0	FBrf0236875	23831	0	0	1	0
-Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	17	0	3	4	0
+Jenett2012	pdb	FlyLight - GMR GAL4 collection (Jenett2012)	CC-BY-NC-SA_4.0	FBrf0219813	3469	0	0	3473	0
+Jenett2012	staging	FlyLight - GMR GAL4 collection (Jenett2012)	CC-BY-NC-SA_4.0	FBrf0219813	3469	0	0	3474	0
+Klapoetke2017	pdb	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	92	0	3	4	0
 Klapoetke2017	staging	Split-GAL4 lines from Klapoetke et al. 2017	CC-BY_4.0	FBrf0237184	80	0	3	4	0
-Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	396	0	106	134	0
+Knowles_Barley2010	pdb	BrainTrap lines (Knowles-Barley2010)	CC-BY_4.0	FBrf0211243	501	0	0	501	0
+Knowles_Barley2010	staging	BrainTrap lines (Knowles-Barley2010)	CC-BY_4.0	FBrf0211243	501	0	0	502	0
+McKellar2020	pdb	GAL4 lines from McKellar et al., 2020	CC-BY_4.0	FBrf0246028	5	0	0	6	0
+McKellar2020	staging	GAL4 lines from McKellar et al., 2020	CC-BY_4.0	FBrf0246028	5	0	0	7	0
+Namiki2018	pdb	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	5604	0	106	185	0
 Namiki2018	staging	split-GAL4 lines for descending neurons (Namiki2018)	CC-BY_4.0	FBrf0239335	5134	0	106	185	0
-SplitAso2014b	pdb	Split-GAL4 lines from Aso et al., 2014b	CC-BY_4.0	FBrf0227178	0	0	0	0	0
-SplitAso2014b	staging	Split-GAL4 lines from Aso et al., 2014b	CC-BY_4.0	FBrf0227178	36	0	0	2	0
-SplitBaker2022	pdb	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0	FBrf0254226	16	0	0	3	0
+Nojima2021	pdb	Split-GAL4 lines from Nojima et al., 2021	CC-BY_4.0	FBrf0248430	15	0	0	14	0
+Nojima2021	staging	Split-GAL4 lines from Nojima et al., 2021	CC-BY_4.0	FBrf0248430	15	0	0	15	0
+Robie2017	pdb	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	176	0	14	20	0
+Robie2017	staging	split-GAL4 lines for  EB neurons (Robie2017)	CC-BY_4.0	FBrf0236042	84	0	14	20	0
+SplitBaker2022	pdb	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0	FBrf0254226	1741	0	0	65	0
 SplitBaker2022	staging	Split-GAL4 lines from Baker et al., 2022	CC-BY_4.0	FBrf0254226	920	0	0	41	0
-SplitBidaye2014	pdb	Split-GAL4 lines from Bidaye et al., 2014	CC-BY_4.0	FBrf0224613	0	0	0	0	0
+SplitBidaye2014	pdb	Split-GAL4 lines from Bidaye et al., 2014	CC-BY_4.0	FBrf0224613	73	0	0	9	0
 SplitBidaye2014	staging	Split-GAL4 lines from Bidaye et al., 2014	CC-BY_4.0	FBrf0224613	64	0	0	2	0
-SplitBogovic2020	pdb	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0	FBrf0247641	79	0	0	9	0
+SplitBidaye2020	pdb	Split-GAL4 lines from Bidaye et al., 2020	CC-BY_4.0		20	0	0	2	0
+SplitBidaye2020	staging	Split-GAL4 lines from Bidaye et al., 2020	CC-BY_4.0		0	0	0	0	0
+SplitBogovic2020	pdb	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0	FBrf0247641	217	0	0	9	0
 SplitBogovic2020	staging	Split-GAL4 lines from Bogovic et al., 2020	CC-BY_4.0	FBrf0247641	164	0	0	9	0
-SplitCheong2023	pdb	Split-GAL4 lines from Cheong et al., 2023	CC-BY_4.0	doi_10_1101_2023_06_07_543976	42	0	0	6	0
+SplitCheong2023	pdb	Split-GAL4 lines from Cheong et al., 2023	CC-BY_4.0	doi_10_1101_2023_06_07_543976	365	0	0	18	0
 SplitCheong2023	staging	Split-GAL4 lines from Cheong et al., 2023	CC-BY_4.0	doi_10_1101_2023_06_07_543976	60	0	0	7	0
-SplitDavis2020	pdb	Split-GAL4 lines from Davis et al., 2020	CC-BY_4.0	FBrf0244935	106	0	82	38	0
+SplitCheong2024	pdb	Split-GAL4 lines from Cheong et al., 2024	CC-BY_4.0	FBrf0258993	8	0	0	1	0
+SplitCheong2024	staging	Split-GAL4 lines from Cheong et al., 2024	CC-BY_4.0	FBrf0258993	0	0	0	0	0
+SplitDag2019	pdb	Split-GAL4 lines from Dag et al., 2019	CC-BY_4.0	FBrf0241877	10	0	0	2	0
+SplitDag2019	staging	Split-GAL4 lines from Dag et al., 2019	CC-BY_4.0	FBrf0241877	0	0	0	0	0
+SplitDavis2020	pdb	Split-GAL4 lines from Davis et al., 2020	CC-BY_4.0	FBrf0244935	775	0	82	47	0
 SplitDavis2020	staging	Split-GAL4 lines from Davis et al., 2020	CC-BY_4.0	FBrf0244935	549	0	82	40	0
-SplitEhrhardt2023	pdb	Split-GAL4 lines from Ehrhardt et al., 2023	CC-BY_4.0	doi_10_1101_2023_05_31_542897	117	0	0	41	0
+SplitEhrhardt2023	pdb	Split-GAL4 lines from Ehrhardt et al., 2023	CC-BY_4.0	doi_10_1101_2023_05_31_542897	4667	0	0	198	0
 SplitEhrhardt2023	staging	Split-GAL4 lines from Ehrhardt et al., 2023	CC-BY_4.0	doi_10_1101_2023_05_31_542897	2217	0	0	77	0
-SplitFeng2014	pdb	Split-GAL4 lines from Feng et al., 2014	CC-BY_4.0	FBrf0225544	0	0	0	0	0
+SplitFeng2014	pdb	Split-GAL4 lines from Feng et al., 2014	CC-BY_4.0	FBrf0225544	22	0	0	2	0
 SplitFeng2014	staging	Split-GAL4 lines from Feng et al., 2014	CC-BY_4.0	FBrf0225544	2	0	0	1	0
-SplitFeng2020	pdb	Split-GAL4 lines from Feng et al., 2020	CC-BY_4.0	FBrf0247391	35	0	0	7	0
+SplitFeng2020	pdb	Split-GAL4 lines from Feng et al., 2020	CC-BY_4.0	FBrf0247391	2012	0	0	83	0
 SplitFeng2020	staging	Split-GAL4 lines from Feng et al., 2020	CC-BY_4.0	FBrf0247391	155	0	0	19	0
-SplitGao2019	pdb	Split-GAL4 lines from Gao et al., 2019	CC-BY_4.0	FBrf0241234	5	0	0	2	0
+SplitGao2019	pdb	Split-GAL4 lines from Gao et al., 2019	CC-BY_4.0	FBrf0241234	44	0	0	3	0
 SplitGao2019	staging	Split-GAL4 lines from Gao et al., 2019	CC-BY_4.0	FBrf0241234	7	0	0	2	0
-SplitGarner2023	pdb	Split-GAL4 lines from Garner et al., 2023	CC-BY_4.0	FBrf0260534	0	0	0	0	0
+SplitGarner2023	pdb	Split-GAL4 lines from Garner et al., 2023	CC-BY_4.0	FBrf0260534	120	0	0	6	0
 SplitGarner2023	staging	Split-GAL4 lines from Garner et al., 2023	CC-BY_4.0	FBrf0260534	100	0	0	6	0
-SplitGiraldo2018	pdb	Split-GAL4 lines from Giraldo et al., 2018	CC-BY_4.0	FBrf0240038	5	0	0	1	0
+SplitGiraldo2018	pdb	Split-GAL4 lines from Giraldo et al., 2018	CC-BY_4.0	FBrf0240038	34	0	0	2	0
 SplitGiraldo2018	staging	Split-GAL4 lines from Giraldo et al., 2018	CC-BY_4.0	FBrf0240038	33	0	0	2	0
-SplitHattori2017	pdb	Split-GAL4 lines from Hattori et al., 2017	CC-BY_4.0	FBrf0235553	0	0	0	0	0
-SplitHattori2017	staging	Split-GAL4 lines from Hattori et al., 2017	CC-BY_4.0	FBrf0235553	4	0	0	1	0
-SplitIsaacson2023	pdb	Split-GAL4 lines from Isaacson et al., 2023	CC-BY_4.0	doi_10_1101_2023_06_21_546024	8	0	0	2	0
+SplitGorko2024	pdb	Split-GAL4 lines from Gorko et al., 2024	CC-BY_4.0	FBrf0259326	9	0	0	3	0
+SplitGorko2024	staging	Split-GAL4 lines from Gorko et al., 2024	CC-BY_4.0	FBrf0259326	0	0	0	0	0
+SplitHulse2021	pdb	Split-GAL4 lines from Hulse et al., 2021	CC-BY_4.0	FBrf0254510	24	0	0	2	0
+SplitHulse2021	staging	Split-GAL4 lines from Hulse et al., 2021	CC-BY_4.0	FBrf0254510	0	0	0	0	0
+SplitIsaacson2023	pdb	Split-GAL4 lines from Isaacson et al., 2023	CC-BY_4.0	doi_10_1101_2023_06_21_546024	143	0	0	8	0
 SplitIsaacson2023	staging	Split-GAL4 lines from Isaacson et al., 2023	CC-BY_4.0	doi_10_1101_2023_06_21_546024	119	0	0	8	0
-SplitJovanic2019	pdb	Split-GAL4 lines from Jovanic et al., 2019	CC-BY_4.0	FBrf0241547	13	0	0	2	0
+SplitJovanic2019	pdb	Split-GAL4 lines from Jovanic et al., 2019	CC-BY_4.0	FBrf0241547	75	0	0	6	0
 SplitJovanic2019	staging	Split-GAL4 lines from Jovanic et al., 2019	CC-BY_4.0	FBrf0241547	31	0	0	5	0
-SplitKind2021	pdb	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	13	0	0	4	0
+SplitKind2021	pdb	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	63	0	0	4	0
 SplitKind2021	staging	Split-GAL4 lines from Kind et al., 2021	CC-BY_4.0	FBrf0252485	53	0	0	4	0
-SplitKlapoetke2022	pdb	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0	FBrf0253524	8	0	0	4	0
+SplitKlapoetke2022	pdb	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0	FBrf0253524	110	0	0	4	0
 SplitKlapoetke2022	staging	Split-GAL4 lines from Klapoetke et al., 2022	CC-BY_4.0	FBrf0253524	102	0	0	4	0
-SplitLiang2017	pdb	Split-GAL4 lines from Liang et al., 2017	CC-BY_4.0	FBrf0235909	0	0	0	0	0
-SplitLiang2017	staging	Split-GAL4 lines from Liang et al., 2017	CC-BY_4.0	FBrf0235909	2	0	0	1	0
-SplitLillvis2022	pdb	Split-GAL4 lines from Lillvis et al., 2022	CC-BY_4.0	FBrf0255018	0	0	0	0	0
-SplitLillvis2022	staging	Split-GAL4 lines from Lillvis et al., 2022	CC-BY_4.0	FBrf0255018	10	0	0	1	0
-SplitLillvis2024	pdb	Split-GAL4 lines from Lillvis et al., 2024	CC-BY_4.0	FBrf0258823	0	0	0	0	0
+SplitLillvis2024	pdb	Split-GAL4 lines from Lillvis et al., 2024	CC-BY_4.0	FBrf0258823	820	0	0	54	0
 SplitLillvis2024	staging	Split-GAL4 lines from Lillvis et al., 2024	CC-BY_4.0	FBrf0258823	110	0	0	4	0
-SplitLiu2019	pdb	Split-GAL4 lines from Liu et al., 2019	CC-BY_4.0	FBrf0243395	0	0	0	0	0
-SplitLiu2019	staging	Split-GAL4 lines from Liu et al., 2019	CC-BY_4.0	FBrf0243395	13	0	0	2	0
-SplitLongden2023	pdb	Split-GAL4 lines from Longden et al., 2023	CC-BY_4.0	FBrf0258179	4	0	0	1	0
+SplitLongden2023	pdb	Split-GAL4 lines from Longden et al., 2023	CC-BY_4.0	FBrf0258179	25	0	0	2	0
 SplitLongden2023	staging	Split-GAL4 lines from Longden et al., 2023	CC-BY_4.0	FBrf0258179	21	0	0	2	0
-SplitMasek2015	pdb	Split-GAL4 lines from Masek et al., 2015	CC-BY_4.0	FBrf0228601	6	0	0	2	0
-SplitMasek2015	staging	Split-GAL4 lines from Masek et al., 2015	CC-BY_4.0	FBrf0228601	16	0	0	2	0
-SplitMeissner2018	pdb	Split-GAL4 lines from Meissner et al., 2018	CC-BY_4.0	FBrf0239816	0	0	0	0	0
-SplitMeissner2018	staging	Split-GAL4 lines from Meissner et al., 2018	CC-BY_4.0	FBrf0239816	18	0	0	2	0
-SplitMeissner2024	pdb	Split-GAL4 lines from Meissner et al., 2024	CC-BY_4.0	FBrf0261487	1555	0	0	378	0
+SplitMais2021	pdb	Split-GAL4 lines from Mais et al., 2021	CC-BY_4.0	doi_10_1101_2021_07_23_453511	34	0	0	2	0
+SplitMais2021	staging	Split-GAL4 lines from Mais et al., 2021	CC-BY_4.0	doi_10_1101_2021_07_23_453511	0	0	0	0	0
+SplitMeissner2024	pdb	Split-GAL4 lines from Meissner et al., 2024	CC-BY_4.0	FBrf0261487	22368	0	0	1486	0
 SplitMeissner2024	staging	Split-GAL4 lines from Meissner et al., 2024	CC-BY_4.0	FBrf0261487	8059	0	0	623	0
-SplitMinegishi2023	pdb	Split-GAL4 lines from Minegishi et al., 2023	CC-BY_4.0	doi_10_25378_janelia_23726103	55	0	0	12	0
+SplitMinegishi2023	pdb	Split-GAL4 lines from Minegishi et al., 2023	CC-BY_4.0	doi_10_25378_janelia_23726103	2765	0	0	90	0
 SplitMinegishi2023	staging	Split-GAL4 lines from Minegishi et al., 2023	CC-BY_4.0	doi_10_25378_janelia_23726103	388	0	0	63	0
-SplitMontague2019	pdb	Split-GAL4 lines from Montague et al., 2019	CC-BY_4.0	FBrf0233805	23	0	0	3	0
-SplitMontague2019	staging	Split-GAL4 lines from Montague et al., 2019	CC-BY_4.0	FBrf0233805	43	0	0	4	0
-SplitMorimoto2020	pdb	Split-GAL4 lines from Morimoto et al., 2020	CC-BY_4.0	FBrf0247630	27	0	0	10	0
+SplitMorimoto2020	pdb	Split-GAL4 lines from Morimoto et al., 2020	CC-BY_4.0	FBrf0247630	223	0	0	11	0
 SplitMorimoto2020	staging	Split-GAL4 lines from Morimoto et al., 2020	CC-BY_4.0	FBrf0247630	206	0	0	11	0
-SplitNamiki2022	pdb	Split-GAL4 lines from Namiki et al., 2022	CC-BY_4.0	FBrf0252908	21	0	0	6	0
+SplitNamiki2022	pdb	Split-GAL4 lines from Namiki et al., 2022	CC-BY_4.0	FBrf0252908	458	0	0	12	0
 SplitNamiki2022	staging	Split-GAL4 lines from Namiki et al., 2022	CC-BY_4.0	FBrf0252908	388	0	0	12	0
-SplitNern2025	pdb	Split-GAL4 lines from Nern et al., 2025	CC-BY_4.0	FBrf0262545	0	0	0	0	0
+SplitNern2025	pdb	Split-GAL4 lines from Nern et al., 2025	CC-BY_4.0	FBrf0262545	5911	0	0	318	0
 SplitNern2025	staging	Split-GAL4 lines from Nern et al., 2025	CC-BY_4.0	FBrf0262545	4675	0	0	227	0
-SplitReyn2017	pdb	Split-GAL4 lines from Reyn et al., 2017	CC-BY_4.0	FBrf0235910	0	0	0	0	0
+SplitReyn2017	pdb	Split-GAL4 lines from Reyn et al., 2017	CC-BY_4.0	FBrf0235910	35	0	0	3	0
 SplitReyn2017	staging	Split-GAL4 lines from Reyn et al., 2017	CC-BY_4.0	FBrf0235910	29	0	0	3	0
-SplitRibeiro2018	pdb	Split-GAL4 lines from Ribeiro et al., 2018	CC-BY_4.0	FBrf0239559	0	0	0	0	0
-SplitRibeiro2018	staging	Split-GAL4 lines from Ribeiro et al., 2018	CC-BY_4.0	FBrf0239559	30	0	0	3	0
-SplitRubin2024	pdb	Split-GAL4 lines from Rubin et al., 2024	CC-BY_4.0	FBrf0258605	17	0	0	9	0
+SplitRubin2024	pdb	Split-GAL4 lines from Rubin et al., 2024	CC-BY_4.0	FBrf0258605	226	0	0	26	0
 SplitRubin2024	staging	Split-GAL4 lines from Rubin et al., 2024	CC-BY_4.0	FBrf0258605	20	0	0	9	0
-SplitSchlichting2019	pdb	Split-GAL4 lines from Schlichting et al., 2019	CC-BY_4.0	FBrf0243752	4	0	0	1	0
+SplitSchlichting2019	pdb	Split-GAL4 lines from Schlichting et al., 2019	CC-BY_4.0	FBrf0243752	206	0	0	4	0
 SplitSchlichting2019	staging	Split-GAL4 lines from Schlichting et al., 2019	CC-BY_4.0	FBrf0243752	155	0	0	4	0
-SplitSchretter2020	pdb	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	95	0	4	11	0
+SplitSchretter2020	pdb	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	1281	0	4	13	0
 SplitSchretter2020	staging	Split-GAL4 lines from Schretter et al., 2020	CC-BY_4.0	FBrf0247707	209	0	4	12	0
-SplitShao2017	pdb	Split-GAL4 lines from Shao et al., 2017	CC-BY_4.0	FBrf0236762	0	0	0	0	0
-SplitShao2017	staging	Split-GAL4 lines from Shao et al., 2017	CC-BY_4.0	FBrf0236762	53	0	0	2	0
-SplitShuai2023	pdb	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	FBrf0261563	4316	0	0	298	0
+SplitSchretter2024	pdb	Split-GAL4 lines from Schretter et al., 2024	CC-BY_4.0	FBrf0261440	9	0	0	3	0
+SplitSchretter2024	staging	Split-GAL4 lines from Schretter et al., 2024	CC-BY_4.0	FBrf0261440	0	0	0	0	0
+SplitShuai2023	pdb	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	FBrf0261563	8761	0	0	673	0
 SplitShuai2023	staging	Split-GAL4 lines from Shuai et al., 2023	CC-BY_4.0	FBrf0261563	6665	0	0	547	0
-SplitSitaraman2015	pdb	Split-GAL4 lines from Sitaraman et al., 2015	CC-BY_4.0	FBrf0230181	27	0	0	3	0
-SplitSitaraman2015	staging	Split-GAL4 lines from Sitaraman et al., 2015	CC-BY_4.0	FBrf0230181	136	0	0	7	0
-SplitSterne2021	pdb	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0	FBrf0251280	2082	0	0	194	0
+SplitSterne2021	pdb	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0	FBrf0251280	3989	0	0	264	0
 SplitSterne2021	staging	Split-GAL4 lines from Sterne et al., 2021	CC-BY_4.0	FBrf0251280	3692	0	0	261	0
-SplitSun2017	pdb	Split-GAL4 lines from Sun et al., 2017	CC-BY_4.0	FBrf0236205	0	0	0	0	0
-SplitSun2017	staging	Split-GAL4 lines from Sun et al., 2017	CC-BY_4.0	FBrf0236205	20	0	0	2	0
-SplitTakagi2017	pdb	Split-GAL4 lines from Takagi et al., 2017	CC-BY_4.0	FBrf0237618	0	0	0	0	0
-SplitTakagi2017	staging	Split-GAL4 lines from Takagi et al., 2017	CC-BY_4.0	FBrf0237618	2	0	0	1	0
-SplitTakemura2017	pdb	Split-GAL4 lines from Takemura et al., 2017	CC-BY_4.0	FBrf0235606	0	0	0	0	0
+SplitTakemura2017	pdb	Split-GAL4 lines from Takemura et al., 2017	CC-BY_4.0	FBrf0235606	30	0	0	2	0
 SplitTakemura2017	staging	Split-GAL4 lines from Takemura et al., 2017	CC-BY_4.0	FBrf0235606	26	0	0	2	0
-SplitTanaka2008	pdb	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0	FBrf0205263	0	0	0	0	0
-SplitTanaka2008	staging	Split-GAL4 lines from Tanaka et al., 2008	CC-BY_4.0	FBrf0205263	8	0	0	1	0
-SplitTriphan2016	pdb	Split-GAL4 lines from Triphan et al., 2016	CC-BY_4.0	FBrf0232532	0	0	0	0	0
-SplitTriphan2016	staging	Split-GAL4 lines from Triphan et al., 2016	CC-BY_4.0	FBrf0232532	6	0	0	2	0
-SplitTurner_Evans2017	pdb	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY_4.0	FBrf0235609	3	0	0	1	0
-SplitTurner_Evans2017	staging	Split-GAL4 lines from Turner-Evans et al., 2017	CC-BY_4.0	FBrf0235609	13	0	0	2	0
-SplitTurner_Evans2020	pdb	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	13	0	4	5	0
+SplitTurner_Evans2020	pdb	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	110	0	4	6	0
 SplitTurner_Evans2020	staging	Split-GAL4 lines from Turner-Evans et al., 2020	CC-BY_4.0	FBrf0246945	80	0	4	6	0
-SplitTuthill2013	pdb	Split-GAL4 lines from Tuthill et al., 2013	CC-BY_4.0	FBrf0222783	0	0	0	0	0
+SplitTuthill2013	pdb	Split-GAL4 lines from Tuthill et al., 2013	CC-BY_4.0	FBrf0222783	239	0	0	24	0
 SplitTuthill2013	staging	Split-GAL4 lines from Tuthill et al., 2013	CC-BY_4.0	FBrf0222783	151	0	0	23	0
-SplitVogt2014	pdb	Split-GAL4 lines from Vogt et al., 2014	CC-BY_4.0	FBrf0226027	0	0	0	0	0
-SplitVogt2014	staging	Split-GAL4 lines from Vogt et al., 2014	CC-BY_4.0	FBrf0226027	15	0	0	2	0
-SplitVogt2016	pdb	Split-GAL4 lines from Vogt et al., 2016	CC-BY_4.0	FBrf0232492	34	0	0	2	0
-SplitVogt2016	staging	Split-GAL4 lines from Vogt et al., 2016	CC-BY_4.0	FBrf0232492	42	0	0	2	0
-SplitWang2020a	pdb	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	88	0	16	11	0
+SplitVijayan2023	pdb	Split-GAL4 lines from Vijayan et al., 2023	CC-BY_4.0	FBrf0257087	102	0	0	17	0
+SplitVijayan2023	staging	Split-GAL4 lines from Vijayan et al., 2023	CC-BY_4.0	FBrf0257087	0	0	0	0	0
+SplitWang2020a	pdb	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	427	0	16	11	0
 SplitWang2020a	staging	Split-GAL4 lines from Wang et al., 2020a	CC-BY_4.0	FBrf0245074	308	0	16	11	0
-SplitWang2020b	pdb	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	15	0	1	5	0
+SplitWang2020b	pdb	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	34	0	1	6	0
 SplitWang2020b	staging	Split-GAL4 lines from Wang et al., 2020b	CC-BY_4.0	FBrf0246914	26	0	1	6	0
-SplitWang2020c	pdb	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	0	0	0	0	0
+SplitWang2020c	pdb	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	156	0	0	9	0
 SplitWang2020c	staging	Split-GAL4 lines from Wang et al., 2020c	CC-BY_4.0	FBrf0247919	23	0	0	5	0
-SplitWolff2025	pdb	Split-GAL4 lines from Wolff et al., 2025	CC-BY_4.0	FBrf0262171	0	0	0	0	0
+SplitWolff2025	pdb	Split-GAL4 lines from Wolff et al., 2025	CC-BY_4.0	FBrf0262171	2823	0	0	231	0
 SplitWolff2025	staging	Split-GAL4 lines from Wolff et al., 2025	CC-BY_4.0	FBrf0262171	706	0	0	46	0
-SplitXie2021	pdb	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	5	0	0	2	0
+SplitXie2021	pdb	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	19	0	0	4	0
 SplitXie2021	staging	Split-GAL4 lines from Xie et al., 2021	CC-BY_4.0	FBrf0247975	15	0	0	4	0
-SplitYamagata2015	pdb	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	5	0	0	2	0
+SplitYamagata2015	pdb	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	11	0	0	2	0
 SplitYamagata2015	staging	Split-GAL4 lines from Yamagata et al., 2015	CC-BY_4.0	FBrf0227330	7	0	0	2	0
-SplitYoo2023	pdb	Split-GAL4 lines from Yoo et al., 2023	CC-BY_4.0	FBrf0257622	0	0	0	0	0
-SplitYoo2023	staging	Split-GAL4 lines from Yoo et al., 2023	CC-BY_4.0	FBrf0257622	60	0	0	4	0
-SplitZhao2023	pdb	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	10	0	0	2	0
+SplitZhao2023	pdb	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	29	0	0	3	0
 SplitZhao2023	staging	Split-GAL4 lines from Zhao et al., 2023	CC-BY_4.0	doi_10_1101_2023_10_16_562634	19	0	0	3	0
-SplitZhao2025	pdb	Split-GAL4 lines from Zhao et al., 2025	CC-BY_4.0	FBrf0263566	0	0	0	0	0
+SplitZhao2025	pdb	Split-GAL4 lines from Zhao et al., 2025	CC-BY_4.0	FBrf0263566	16	0	0	2	0
 SplitZhao2025	staging	Split-GAL4 lines from Zhao et al., 2025	CC-BY_4.0	FBrf0263566	14	0	0	2	0
-SplitZung2025	pdb	Split-GAL4 lines from Zung et al., 2025	CC-BY_4.0	doi_10_1101_2025_02_22_639679	0	0	0	0	0
+SplitZung2025	pdb	Split-GAL4 lines from Zung et al., 2025	CC-BY_4.0	doi_10_1101_2025_02_22_639679	56	0	0	20	0
 SplitZung2025	staging	Split-GAL4 lines from Zung et al., 2025	CC-BY_4.0	doi_10_1101_2025_02_22_639679	11	0	0	1	0
-Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	28	0	11	10	0
+Strother2017	pdb	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	148	0	11	10	0
 Strother2017	staging	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	125	0	11	10	0
-Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	265	0	6	91	0
+TrumanWood2018public	pdb	Truman Larval Flip-Out Collection	CC-BY_4.0	FBrf0225812	2	0	0	1	0
+TrumanWood2018public	staging	Truman Larval Flip-Out Collection	CC-BY_4.0	FBrf0225812	2	0	0	2	0
+Wolff2018	pdb	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	2156	0	6	102	0
 Wolff2018	staging	Splits targetting CX neurons, Wolff2018	CC-BY_4.0	FBrf0240744	1338	0	6	95	0
-Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	338	0	159	55	0
+Wu2016	pdb	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	2448	0	159	60	0
 Wu2016	staging	split-GAL4 lines for LC VPNs (Wu2016)	CC-BY_4.0	FBrf0234700	2231	0	159	60	0

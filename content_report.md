@@ -1,43 +1,43 @@
 
-VFB Content Report 2026-10-12
+VFB Content Report 2026-10-13
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 12 Oct 2026 03:28:02``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 13 Oct 2026 04:19:23``
 
 ***``Ontology Content``***
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|28772|2224|
-|All Nervous System Parts|21825|1682|
-|All Neurons|18303|1298|
-|Characterised Neurons|6895|1291|
+|All Terms|28795|2216|
+|All Nervous System Parts|21845|1675|
+|All Neurons|18304|1294|
+|Characterised Neurons|6896|1287|
 |Provisional Neurons|11408|40|
-|All Nervous System Regions|1435|271|
-|Synaptic Neuropils|625|151|
-|Neuron Projection Bundles|600|142|
-|Cell Body Rinds|132|11|
-|Sense Organs|854|183|
+|All Nervous System Regions|1435|269|
+|Synaptic Neuropils|625|150|
+|Neuron Projection Bundles|600|139|
+|Cell Body Rinds|132|8|
+|Sense Organs|854|178|
 
 
-**155027** formal assertions, of which **69494** are SubClassOf assertions and **85533** are other relationship types
+**155092** formal assertions, of which **69523** are SubClassOf assertions and **85569** are other relationship types
 
-**140852** formal assertions on nervous system components, of which **61345** are SubClassOf assertions and **79507** are other relationship types
+**140916** formal assertions on nervous system components, of which **61371** are SubClassOf assertions and **79545** are other relationship types
 
 ***``Image Content``***
 *``(excludes hemibrain v1.0.1)``*
 
-**699318** total images from **153** datasets
+**782415** total images from **187** datasets
 **605872** single neuron images of **14409** cell types
-**49135** images of expression patterns of **17956** drivers
-**8186** images of expression patterns of **1659** split combinations
-**66975** images of expression pattern fragments of **5878** drivers
+**82220** images of expression patterns of **20684** drivers
+**41271** images of expression patterns of **4387** split combinations
+**92269** images of expression pattern fragments of **7908** drivers
 
 ***``Expression Annotations``***
 
-**94244** annotations recording **3279** types of anatomical structure that **12962** specific driver lines are expressed in.
-**86788** annotations recording **2506** parts of the nervous system that **11788** specific driver lines are expressed in.
+**94246** annotations recording **3279** types of anatomical structure that **12963** specific driver lines are expressed in.
+**86776** annotations recording **2506** parts of the nervous system that **11788** specific driver lines are expressed in.
 **11141** annotations recording **1746** types of neuron that **3102** specific driver lines are expressed in.
 **4698** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
 
@@ -70,16 +70,16 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 12 Oct 2
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|JRC2018Unisex|107|586118|522546|359277|34643|4620|44116|761|
-|JRC2018UnisexVNC|59|154132|132748|53782|10395|2706|10739|249|
+|JRC2018Unisex|141|631376|522546|359277|54494|24471|53381|761|
+|JRC2018UnisexVNC|99|191971|132748|53782|23629|15940|35343|249|
 |L1 larval CNS ssTEM - Cardona/Janelia|27|5046|5019|5019|0|0|0|27|
-|adult brain template JFRC2|21|41939|16419|0|25271|600|16127|58|
+|adult brain template JFRC2|21|41939|16419|0|25271|600|0|58|
 |adult VNS template - Court2018|9|3194|1|0|3171|480|0|21|
-|L3 CNS template - Wood2018|4|12876|8638|0|381|381|12177|255|
-|Adult T1 Leg (Kuan2020)|2|678|464|0|0|0|0|4|
+|L3 CNS template - Wood2018|4|12876|8638|0|381|381|3602|255|
 |JRC_FlyEM_Hemibrain|2|22702|22589|22587|0|0|0|114|
-|Adult Head (McKellar2020)|1|18|0|0|0|0|0|0|
+|Adult T1 Leg (Kuan2020)|2|678|464|0|0|0|0|4|
 |adult brain template Ito2014|1|75|1|0|0|0|0|75|
+|Adult Head (McKellar2020)|1|18|0|0|0|0|0|0|
 
 
 
@@ -87,6 +87,6 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 12 Oct 2
 
 **3290** clusters from **24** datasets
 **345** distinct anatomy (FBbt) annotations on clusters
-**12762** distinct genes expressed across all clusters
+**12761** distinct genes expressed across all clusters
 
 See the [scRNAseq dataset report](scRNAseq_DataSets.tsv) for per-dataset cluster and gene counts.
