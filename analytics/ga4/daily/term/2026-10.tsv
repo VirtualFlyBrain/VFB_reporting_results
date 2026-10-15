@@ -14884,7 +14884,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00001911		6	2	3.0
 2026-10-13		FBbt_00001911	VFB_00101567	5	2	0.0
 2026-10-13		FBbt_00001919		2	1	0.0
+2026-10-13		FBbt_00001919	VFB_00050000	2	2	0.0
 2026-10-13		FBbt_00001985		2	1	0.0
+2026-10-13		FBbt_00001985	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00001989		3	2	5.0
 2026-10-13		FBbt_00001989	VFB_00101567	2	1	0.0
 2026-10-13		FBbt_00002176		2	1	0.0
@@ -14893,9 +14895,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00002952	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00003004		117	36	280.0
 2026-10-13		FBbt_00003004	VFB_00101384	3	2	0.0
-2026-10-13		FBbt_00003004	VFB_00101567	93	60	0.0
+2026-10-13		FBbt_00003004	VFB_00101567	94	61	0.0
 2026-10-13		FBbt_00003004	VFB_00120000	6	2	0.0
-2026-10-13		FBbt_00003004	VFB_00200000	2	1	0.0
+2026-10-13		FBbt_00003004	VFB_00200000	3	2	0.0
 2026-10-13		FBbt_00003011		2	1	0.0
 2026-10-13		FBbt_00003011	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00003465		2	1	0.0
@@ -14903,9 +14905,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00003559		4	1	0.0
 2026-10-13		FBbt_00003559	VFB_00101567	4	2	0.0
 2026-10-13		FBbt_00003623		2	1	0.0
-2026-10-13		FBbt_00003624		284	81	602.0
+2026-10-13		FBbt_00003623	VFB_00200000	2	2	0.0
+2026-10-13		FBbt_00003624		286	82	602.0
 2026-10-13		FBbt_00003624	VFB_00017894	4	2	0.0
-2026-10-13		FBbt_00003624	VFB_00101567	319	162	0.0
+2026-10-13		FBbt_00003624	VFB_00101567	323	164	0.0
 2026-10-13		FBbt_00003632		13	5	0.0
 2026-10-13		FBbt_00003632	VFB_00101567	14	13	0.0
 2026-10-13		FBbt_00003668		18	5	2.0
@@ -14916,16 +14919,16 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00003679	VFB_00101567	25	20	0.0
 2026-10-13		FBbt_00003680		44	10	24.0
 2026-10-13		FBbt_00003680	VFB_00101567	46	27	0.0
-2026-10-13		FBbt_00003681		145	53	270.0
-2026-10-13		FBbt_00003681	VFB_00101567	139	117	0.0
+2026-10-13		FBbt_00003681		147	54	270.0
+2026-10-13		FBbt_00003681	VFB_00101567	142	120	0.0
 2026-10-13		FBbt_00003682		14	6	16.0
 2026-10-13		FBbt_00003682	VFB_00101567	15	13	0.0
 2026-10-13		FBbt_00003684		23	7	17.0
 2026-10-13		FBbt_00003684	VFB_00101567	25	21	0.0
 2026-10-13		FBbt_00003701		24	5	18.0
 2026-10-13		FBbt_00003701	VFB_00101567	27	12	0.0
-2026-10-13		FBbt_00003748		148	46	94.0
-2026-10-13		FBbt_00003748	VFB_00101567	146	99	0.0
+2026-10-13		FBbt_00003748		156	48	114.0
+2026-10-13		FBbt_00003748	VFB_00101567	155	106	0.0
 2026-10-13		FBbt_00003771		4	1	0.0
 2026-10-13		FBbt_00003771	VFB_00101567	4	2	0.0
 2026-10-13		FBbt_00003804		11	1	17.0
@@ -14935,10 +14938,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00003852	VFB_00101567	13	8	0.0
 2026-10-13		FBbt_00003982		4	2	0.0
 2026-10-13		FBbt_00003982	VFB_00101567	4	4	0.0
-2026-10-13		FBbt_00004020		29	15	0.0
-2026-10-13		FBbt_00004020	VFB_00101567	44	29	0.0
+2026-10-13		FBbt_00004020		30	15	0.0
+2026-10-13		FBbt_00004020	VFB_00101567	45	30	0.0
 2026-10-13		FBbt_00004052		4	2	0.0
-2026-10-13		FBbt_00004052	VFB_00200000	5	3	0.0
+2026-10-13		FBbt_00004052	VFB_00200000	6	4	0.0
 2026-10-13		FBbt_00004059		2	1	0.0
 2026-10-13		FBbt_00004059	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00004204		2	1	0.0
@@ -14951,8 +14954,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00004626	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00004856		2	1	0.0
 2026-10-13		FBbt_00004856	VFB_00101567	2	1	0.0
-2026-10-13		FBbt_00005093		177	57	207.0
-2026-10-13		FBbt_00005093	VFB_00101567	150	94	0.0
+2026-10-13		FBbt_00005093		182	58	207.0
+2026-10-13		FBbt_00005093	VFB_00017894	2	2	0.0
+2026-10-13		FBbt_00005093	VFB_00101567	151	95	0.0
 2026-10-13		FBbt_00005095		4	2	0.0
 2026-10-13		FBbt_00005095	VFB_00101567	4	2	0.0
 2026-10-13		FBbt_00005097		2	1	0.0
@@ -14995,8 +14999,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00007053	VFB_00101567	3	3	0.0
 2026-10-13		FBbt_00007054		26	10	16.0
 2026-10-13		FBbt_00007054	VFB_00101567	29	25	0.0
-2026-10-13		FBbt_00007055		41	13	2.0
-2026-10-13		FBbt_00007055	VFB_00101567	39	24	0.0
+2026-10-13		FBbt_00007055		42	13	2.0
+2026-10-13		FBbt_00007055	VFB_00101567	41	26	0.0
 2026-10-13		FBbt_00007059		21	5	1.0
 2026-10-13		FBbt_00007059	VFB_00101567	21	13	0.0
 2026-10-13		FBbt_00007060		2	1	0.0
@@ -15006,9 +15010,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00007145		3	1	0.0
 2026-10-13		FBbt_00007145	VFB_00101567	3	3	0.0
 2026-10-13		FBbt_00007146		8	3	0.0
-2026-10-13		FBbt_00007146	VFB_00101567	7	7	0.0
-2026-10-13		FBbt_00007147		18	6	82.0
-2026-10-13		FBbt_00007147	VFB_00101567	19	15	0.0
+2026-10-13		FBbt_00007146	VFB_00101567	8	8	0.0
+2026-10-13		FBbt_00007147		21	7	82.0
+2026-10-13		FBbt_00007147	VFB_00101567	22	17	0.0
 2026-10-13		FBbt_00007173		4	2	0.0
 2026-10-13		FBbt_00007173	VFB_00101567	5	4	0.0
 2026-10-13		FBbt_00007385		5	2	0.0
@@ -15037,6 +15041,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00013688	VFB_00101567	8	6	0.0
 2026-10-13		FBbt_00013691		4	2	0.0
 2026-10-13		FBbt_00013691	VFB_00101567	4	4	0.0
+2026-10-13		FBbt_00013695		3	1	6.0
+2026-10-13		FBbt_00013695	VFB_00101567	3	2	0.0
 2026-10-13		FBbt_00013774		2	1	0.0
 2026-10-13		FBbt_00013774	VFB_00101567	3	2	0.0
 2026-10-13		FBbt_00014013		40	16	21.0
@@ -15063,8 +15069,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00040040	VFB_00101567	9	7	0.0
 2026-10-13		FBbt_00040041		73	27	76.0
 2026-10-13		FBbt_00040041	VFB_00101567	74	59	0.0
-2026-10-13		FBbt_00040042		71	28	87.0
-2026-10-13		FBbt_00040042	VFB_00101567	69	56	0.0
+2026-10-13		FBbt_00040042		74	29	88.0
+2026-10-13		FBbt_00040042	VFB_00101567	74	60	0.0
 2026-10-13		FBbt_00040043		61	24	38.0
 2026-10-13		FBbt_00040043	VFB_00101567	61	50	0.0
 2026-10-13		FBbt_00040044		5	2	0.0
@@ -15083,8 +15089,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00040072	VFB_00101567	3	3	0.0
 2026-10-13		FBbt_00045003		13	5	0.0
 2026-10-13		FBbt_00045003	VFB_00101567	13	13	0.0
-2026-10-13		FBbt_00045004		7	3	0.0
-2026-10-13		FBbt_00045004	VFB_00101567	7	6	0.0
+2026-10-13		FBbt_00045004		8	3	0.0
+2026-10-13		FBbt_00045004	VFB_00101567	9	8	0.0
 2026-10-13		FBbt_00045021		7	2	4.0
 2026-10-13		FBbt_00045021	VFB_00101567	7	5	0.0
 2026-10-13		FBbt_00045027		30	12	42.0
@@ -15092,17 +15098,17 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00045030		13	4	2.0
 2026-10-13		FBbt_00045030	VFB_00101567	13	11	0.0
 2026-10-13		FBbt_00045032		24	9	6.0
-2026-10-13		FBbt_00045032	VFB_00101567	23	20	0.0
+2026-10-13		FBbt_00045032	VFB_00101567	24	21	0.0
 2026-10-13		FBbt_00045040		3	1	0.0
 2026-10-13		FBbt_00045040	VFB_00101567	3	3	0.0
 2026-10-13		FBbt_00045047		8	4	3.0
 2026-10-13		FBbt_00045047	VFB_00101567	7	7	0.0
-2026-10-13		FBbt_00045048		120	43	159.0
-2026-10-13		FBbt_00045048	VFB_00101567	117	88	0.0
-2026-10-13		FBbt_00045050		33	11	16.0
-2026-10-13		FBbt_00045050	VFB_00101567	34	24	0.0
+2026-10-13		FBbt_00045048		127	44	180.0
+2026-10-13		FBbt_00045048	VFB_00101567	125	93	0.0
+2026-10-13		FBbt_00045050		38	13	42.0
+2026-10-13		FBbt_00045050	VFB_00101567	39	28	0.0
 2026-10-13		FBbt_00045051		72	31	4.0
-2026-10-13		FBbt_00045051	VFB_00101567	94	63	0.0
+2026-10-13		FBbt_00045051	VFB_00101567	95	63	0.0
 2026-10-13		FBbt_00047095		4	1	0.0
 2026-10-13		FBbt_00047095	VFB_00101567	4	2	0.0
 2026-10-13		FBbt_00047117		2	1	0.0
@@ -15180,6 +15186,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00053587	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00058689		2	1	0.0
 2026-10-13		FBbt_00058689	VFB_00101567	2	2	0.0
+2026-10-13		FBbt_00059005		2	1	0.0
+2026-10-13		FBbt_00059005	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00059145		2	1	0.0
 2026-10-13		FBbt_00059145	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00059277		2	1	0.0
@@ -15201,8 +15209,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00110035	VFB_00101567	1	1	0.0
 2026-10-13		FBbt_00110073		4	1	0.0
 2026-10-13		FBbt_00110073	VFB_00101567	4	2	0.0
-2026-10-13		FBbt_00110176		2	1	0.0
-2026-10-13		FBbt_00110176	VFB_00200000	1	1	0.0
+2026-10-13		FBbt_00110173		2	1	3.0
+2026-10-13		FBbt_00110173	VFB_00200000	2	2	0.0
+2026-10-13		FBbt_00110176		3	1	0.0
+2026-10-13		FBbt_00110176	VFB_00200000	3	3	0.0
 2026-10-13		FBbt_00110221		2	1	0.0
 2026-10-13		FBbt_00110221	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00110594		2	1	0.0
@@ -15219,6 +15229,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		FBbt_00111029		2	1	0.0
 2026-10-13		FBbt_00111029	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00111031		2	1	0.0
+2026-10-13		FBbt_00111031	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_00111638		2	1	0.0
 2026-10-13		FBbt_00111638	VFB_00101567	2	2	0.0
 2026-10-13		FBbt_20001133		2	1	0.0
@@ -15248,8 +15259,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		GO_0002790	VFB_00101567	2	2	0.0
 2026-10-13		GO_0005310		2	1	0.0
 2026-10-13		GO_0005310	VFB_00101567	2	2	0.0
-2026-10-13		GO_0005343		1	1	0.0
-2026-10-13		GO_0005343	VFB_00101567	1	1	0.0
+2026-10-13		GO_0005343		2	1	0.0
+2026-10-13		GO_0005343	VFB_00101567	2	2	0.0
 2026-10-13		GO_0006835		2	1	0.0
 2026-10-13		GO_0006835	VFB_00101567	2	2	0.0
 2026-10-13		GO_0007617		2	1	0.0
@@ -15276,7 +15287,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		GO_0022414	VFB_00101567	2	2	0.0
 2026-10-13		GO_0022857		4	2	0.0
 2026-10-13		GO_0022857	VFB_00101567	4	4	0.0
-2026-10-13		GO_0032504	VFB_00101567	1	1	0.0
+2026-10-13		GO_0032504		2	1	0.0
+2026-10-13		GO_0032504	VFB_00101567	2	2	0.0
 2026-10-13		GO_0042330		1	1	0.0
 2026-10-13		GO_0042803		2	1	0.0
 2026-10-13		GO_0042803	VFB_00101567	2	1	0.0
@@ -15298,15 +15310,20 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		GO_1905039	VFB_00101567	2	2	0.0
 2026-10-13		VFB_00003594		1	1	0.0
 2026-10-13		VFB_00003594	VFB_00101567	1	1	0.0
+2026-10-13		VFB_00005781		1	1	0.0
 2026-10-13		VFB_00005781	VFB_00101567	1	1	0.0
+2026-10-13		VFB_00007622		1	1	0.0
+2026-10-13		VFB_00007622	VFB_00017894	1	1	0.0
 2026-10-13		VFB_00009877	VFB_00101567	1	1	0.0
 2026-10-13		VFB_00017142	VFB_00017142	1	1	0.0
 2026-10-13		VFB_00017894		6	3	31.0
-2026-10-13		VFB_00017894	VFB_00017894	8	5	114.0
+2026-10-13		VFB_00017894	VFB_00017894	10	7	114.0
 2026-10-13		VFB_00020133		1	1	0.0
 2026-10-13		VFB_00020133	VFB_00017894	1	1	0.0
 2026-10-13		VFB_00020319		9	2	178.0
 2026-10-13		VFB_00020319	VFB_00101567	6	3	0.0
+2026-10-13		VFB_00028601		1	1	0.0
+2026-10-13		VFB_00028601	VFB_00101567	1	1	0.0
 2026-10-13		VFB_00030621		2	1	0.0
 2026-10-13		VFB_00030621	VFB_00017894	2	1	0.0
 2026-10-13		VFB_00030786		3	2	0.0
@@ -15321,7 +15338,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_00030870	VFB_00101567	10	4	0.0
 2026-10-13		VFB_00030877		11	1	7.0
 2026-10-13		VFB_00030877	VFB_00017894	4	1	0.0
-2026-10-13		VFB_00030877	VFB_00101567	5	2	0.0
+2026-10-13		VFB_00030877	VFB_00101567	7	2	0.0
 2026-10-13		VFB_00049000		1	1	0.0
 2026-10-13		VFB_00049000	VFB_00049000	2	2	11.0
 2026-10-13		VFB_00050000		10	8	0.0
@@ -15361,8 +15378,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_001014bt	VFB_00200000	3	2	0.0
 2026-10-13		VFB_001014uq		6	1	0.0
 2026-10-13		VFB_001014uq	VFB_00101567	6	2	0.0
-2026-10-13		VFB_00101567		1633	720	2768.0
-2026-10-13		VFB_00101567	VFB_00101567	1775	1044	276.0
+2026-10-13		VFB_00101567		1703	747	2904.0
+2026-10-13		VFB_00101567	VFB_00101567	1859	1084	276.0
 2026-10-13		VFB_0010159g		8	1	62.0
 2026-10-13		VFB_0010159g	VFB_00050000	5	1	0.0
 2026-10-13		VFB_0010159g	VFB_00101567	3	2	0.0
@@ -15441,7 +15458,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_00102280		40	5	15.0
 2026-10-13		VFB_00102280	VFB_00101567	39	8	0.0
 2026-10-13		VFB_00102282		38	5	20.0
-2026-10-13		VFB_00102282	VFB_00101567	33	9	0.0
+2026-10-13		VFB_00102282	VFB_00101567	34	9	0.0
 2026-10-13		VFB_001026tw		1	1	0.0
 2026-10-13		VFB_001026tw	VFB_001026tw	2	1	0.0
 2026-10-13		VFB_001027si		1	1	0.0
@@ -15457,8 +15474,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_00103en8	VFB_00101567	6	2	0.0
 2026-10-13		VFB_00103qaq		2	1	0.0
 2026-10-13		VFB_00103qaq	VFB_00101567	1	1	0.0
-2026-10-13		VFB_00104643		18	1	12.0
-2026-10-13		VFB_00104643	VFB_00200000	13	2	0.0
+2026-10-13		VFB_00104643		19	1	16.0
+2026-10-13		VFB_00104643	VFB_00200000	16	2	0.0
 2026-10-13		VFB_001063qq		1	1	0.0
 2026-10-13		VFB_00106auk		1	1	0.0
 2026-10-13		VFB_00106auk	VFB_00101567	1	1	0.0
@@ -15477,7 +15494,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_00108vzi		3	1	0.0
 2026-10-13		VFB_00108vzi	VFB_00101567	3	2	0.0
 2026-10-13		VFB_00108w0p		70	12	207.0
-2026-10-13		VFB_00108w0p	VFB_00101567	65	23	0.0
+2026-10-13		VFB_00108w0p	VFB_00101567	66	24	0.0
 2026-10-13		VFB_00108w4d		9	2	3.0
 2026-10-13		VFB_00108w4d	VFB_00101567	9	4	0.0
 2026-10-13		VFB_001091rp		22	6	8.0
@@ -15489,7 +15506,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_001091sc		3	1	0.0
 2026-10-13		VFB_001091sc	VFB_00101567	3	2	0.0
 2026-10-13		VFB_001091yb		14	1	10.0
-2026-10-13		VFB_001091yb	VFB_00050000	13	1	0.0
+2026-10-13		VFB_001091yb	VFB_00050000	14	2	0.0
 2026-10-13		VFB_00110000		1	1	0.0
 2026-10-13		VFB_00110000	VFB_00110000	2	2	17.0
 2026-10-13		VFB_00120000		2	2	0.0
@@ -15497,6 +15514,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_00200000		9	4	0.0
 2026-10-13		VFB_00200000	VFB_00101567	3	2	0.0
 2026-10-13		VFB_00200000	VFB_00200000	11	8	13.0
+2026-10-13		VFB_fw001538		1	1	0.0
+2026-10-13		VFB_fw001538	VFB_00101567	1	1	0.0
 2026-10-13		VFB_fw010717		1	1	0.0
 2026-10-13		VFB_fw010717	VFB_00101567	1	1	0.0
 2026-10-13		VFB_fw011658		1	1	0.0
@@ -15542,7 +15561,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_jrchk7rv		1	1	0.0
 2026-10-13		VFB_jrchk7wx		1	1	0.0
 2026-10-13		VFB_jrchk7wx	VFB_00101567	1	1	0.0
-2026-10-13		VFB_jrchk7yg		78	78	5.0
+2026-10-13		VFB_jrchk7yg		79	79	5.0
 2026-10-13		VFB_jrchk7yg	VFB_00101567	75	75	0.0
 2026-10-13		VFB_jrchk8bl		13	1	2.0
 2026-10-13		VFB_jrchk8bl	VFB_00101384	11	2	0.0
@@ -15576,10 +15595,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_jrmc2py9	VFB_00101567	3	2	0.0
 2026-10-13		VFB_jrmc2s9c		1	1	0.0
 2026-10-13		VFB_jrmc2v1p		10	1	0.0
-2026-10-13		VFB_jrmc2v1p	VFB_00101567	7	1	0.0
+2026-10-13		VFB_jrmc2v1p	VFB_00101567	8	2	0.0
 2026-10-13		VFB_jrmc2v1p	VFB_00200000	2	1	0.0
 2026-10-13		VFB_jrmc2vik		3	1	0.0
-2026-10-13		VFB_jrmc2vik	VFB_00017894	1	1	0.0
+2026-10-13		VFB_jrmc2vik	VFB_00017894	3	2	0.0
 2026-10-13		VFB_jrmc2ygt		14	1	1.0
 2026-10-13		VFB_jrmc2ygt	VFB_00101567	14	2	0.0
 2026-10-13		VFB_jrmc34cj		2	1	0.0
@@ -15599,6 +15618,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFB_jrmc3jgw	VFB_00101567	3	2	0.0
 2026-10-13		VFB_jrmc3ju4		3	1	0.0
 2026-10-13		VFB_jrmc3ju4	VFB_00101567	2	2	0.0
+2026-10-13		VFBc_00000128		2	1	0.0
+2026-10-13		VFBc_00000128	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_00001311		2	1	0.0
 2026-10-13		VFBc_00001311	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_00002345		2	1	0.0
@@ -15643,6 +15664,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFBc_00066957	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_00068092		2	1	0.0
 2026-10-13		VFBc_00068092	VFB_00101567	2	2	0.0
+2026-10-13		VFBc_00100013		2	1	0.0
+2026-10-13		VFBc_00100013	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_0010024z		2	1	0.0
 2026-10-13		VFBc_0010024z	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_00100cla		2	1	0.0
@@ -15657,6 +15680,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFBc_00100eh9		2	1	0.0
 2026-10-13		VFBc_00100eh9	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_00100f42	VFB_00101567	1	1	0.0
+2026-10-13		VFBc_00100fwc		2	1	0.0
+2026-10-13		VFBc_00100fwc	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_00100gxd	VFB_00101567	1	1	0.0
 2026-10-13		VFBc_00100hap		2	1	0.0
 2026-10-13		VFBc_00100hap	VFB_00101567	2	2	0.0
@@ -15736,6 +15761,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFBc_jrcv0ey8	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_jrcv0h43		2	1	0.0
 2026-10-13		VFBc_jrcv0h43	VFB_00101567	2	2	0.0
+2026-10-13		VFBc_jrcv0i8v		2	1	0.0
+2026-10-13		VFBc_jrcv0i8v	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_jrcv0lp7		2	1	0.0
 2026-10-13		VFBc_jrcv0lp7	VFB_00101567	2	2	0.0
 2026-10-13		VFBc_jrcv10xn		2	1	0.0
@@ -15762,8 +15789,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13		VFBexp_FBtp0099	VFB_00101567	6	6	0.0
 2026-10-13		VFBexp_FBtp0100		4	2	0.0
 2026-10-13		VFBexp_FBtp0100	VFB_00101567	5	5	0.0
-2026-10-13		VFBexp_FBtp0101		6	3	0.0
-2026-10-13		VFBexp_FBtp0101	VFB_00101567	6	6	0.0
+2026-10-13		VFBexp_FBtp0101		8	4	0.0
+2026-10-13		VFBexp_FBtp0101	VFB_00101567	8	8	0.0
 2026-10-13		VFBexp_FBtp0102		2	1	0.0
 2026-10-13		VFBexp_FBtp0102	VFB_00101567	2	2	0.0
 2026-10-13		VFBexp_FBtp0105		2	1	0.0
@@ -15825,6 +15852,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00001830		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00001830	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00001911	VFB_00101567	1	2	72.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00001919	VFB_00050000	1	2	2.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00001985		1	1	1.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00001985	VFB_00101567	1	2	5.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00001989	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00002141		1	1	5.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00002176		1	1	2.0
@@ -15832,26 +15862,27 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00002952		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00002952	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003004	VFB_00101384	1	2	7.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003004	VFB_00101567	34	48	181.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003004	VFB_00101567	35	50	185.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003004	VFB_00120000	1	2	9.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003004	VFB_00200000	0	1	0.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003004	VFB_00200000	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003011	VFB_00101567	2	2	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003465		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003465	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003559	VFB_00101567	1	2	1.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003623	VFB_00200000	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003624		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003624	VFB_00017894	1	2	0.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	94	165	748.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003632	VFB_00101567	5	14	54.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	95	167	884.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003632	VFB_00101567	5	14	59.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003668	VFB_00101567	5	10	20.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003678	VFB_00101567	19	36	96.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003678	VFB_00101567	19	35	96.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003679	VFB_00101567	12	20	44.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003680	VFB_00101567	19	31	121.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	61	120	382.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	63	123	491.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003682	VFB_00101567	5	12	10.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003684	VFB_00101567	7	20	6.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003701	VFB_00101567	6	12	102.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	54	100	110.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	57	106	112.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003761		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003771		2	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003771	VFB_00101567	2	4	88.0
@@ -15860,8 +15891,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00003804	VFB_00101567	4	4	91.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003852	VFB_00101567	4	8	73.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00003982	VFB_00101567	2	4	3.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00004020	VFB_00101567	14	28	14.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00004052	VFB_00200000	1	3	3.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00004020	VFB_00101567	15	30	15.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00004052	VFB_00200000	2	4	4.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00004059		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00004059	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00004204		1	1	3.0
@@ -15874,7 +15905,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00004626	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00004728		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00004856	VFB_00101567	1	1	2.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00005093	VFB_00101567	54	76	113.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00005093	VFB_00017894	1	2	0.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00005093	VFB_00101567	54	77	113.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00005095	VFB_00101567	2	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00005097		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00005097	VFB_00101567	1	2	0.0
@@ -15911,14 +15943,14 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00007050	VFB_00101567	16	36	294.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007053	VFB_00101567	1	3	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007054	VFB_00101567	10	24	12.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	10	25	145.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	11	27	146.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007059	VFB_00101567	3	11	5.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007060	VFB_00101567	1	2	13.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007084		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007084	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007145	VFB_00101567	1	3	1.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00007146	VFB_00101567	2	7	1.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00007147	VFB_00101567	6	15	4.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00007146	VFB_00101567	3	8	3.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00007147	VFB_00101567	7	17	5.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007173	VFB_00101567	2	4	3.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007344		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00007385	VFB_00101567	2	5	4.0
@@ -15942,8 +15974,9 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00013688	VFB_00101567	2	5	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00013691		1	1	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00013691	VFB_00101567	2	4	1.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00013695	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00013774	VFB_00101567	1	2	2.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	17	33	320.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	17	33	323.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00015004		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00015004	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00015006		1	1	2.0
@@ -15953,13 +15986,13 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00040004		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040005	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040006	VFB_00101567	1	2	21.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00040007	VFB_00101567	5	12	27.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00040007	VFB_00101567	5	12	120.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040037	VFB_00101567	4	11	4.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040039	VFB_00101567	4	9	3.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040040	VFB_00101567	6	7	2.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00040041	VFB_00017894	1	1	0.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00040041	VFB_00017894	1	0	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	26	58	160.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00040042	VFB_00101567	31	57	214.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00040042	VFB_00101567	34	61	217.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040043	VFB_00101567	28	49	114.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040044	VFB_00101567	2	4	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040048	VFB_00101567	1	2	15.0
@@ -15969,16 +16002,16 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00040071	VFB_00101567	0	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00040072	VFB_00101567	1	3	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00045003	VFB_00101567	5	13	4.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00045004	VFB_00101567	1	5	1.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00045004	VFB_00101567	2	7	4.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00045021	VFB_00101567	3	5	10.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00045027	VFB_00101567	13	23	99.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00045030	VFB_00101567	4	11	12.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00045032	VFB_00101567	7	18	9.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00045032	VFB_00101567	7	19	9.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00045040	VFB_00101567	1	3	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00045047	VFB_00101567	3	7	15.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	42	87	162.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00045050	VFB_00101567	7	24	18.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00045051	VFB_00101567	31	61	109.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	44	92	163.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00045050	VFB_00101567	9	28	20.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00045051	VFB_00101567	32	63	110.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00046007		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00047004		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00047095	VFB_00101567	1	2	1.0
@@ -15990,7 +16023,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00047620	VFB_00101567	3	3	19.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00047735	VFB_00101567	5	6	7.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00047887	VFB_00017894	2	4	0.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00047887	VFB_00101567	18	41	46.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00047887	VFB_00101567	18	40	46.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00047889		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00047889	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00048245		1	1	1.0
@@ -16042,6 +16075,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00058639		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00058689		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00058689	VFB_00101567	1	2	4.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00059005		1	1	1.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00059005	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00059104		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00059145		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00059145	VFB_00101567	1	2	1.0
@@ -16058,6 +16093,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00110000	VFB_00101567	11	22	11.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00110035		0	1	1.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00110073	VFB_00101567	2	2	0.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00110173	VFB_00200000	2	2	7.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00110176	VFB_00200000	2	3	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00110221		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00110221	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00110594		1	1	2.0
@@ -16071,8 +16108,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_00111015	VFB_00101567	0	1	21.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00111029		1	1	5.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00111029	VFB_00101567	1	2	1.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00111031		0	1	1.0
-2026-10-13	v2.virtualflybrain.org	FBbt_00111031	VFB_00101567	1	1	1.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00111031		1	1	5.0
+2026-10-13	v2.virtualflybrain.org	FBbt_00111031	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00111638		1	1	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_00111638	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	FBbt_20000157	VFB_00101567	0	1	0.0
@@ -16102,13 +16139,13 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	FBbt_20010283	VFB_00101567	0	1	0.0
 2026-10-13	v2.virtualflybrain.org	FBbt_20010661		0	1	13.0
 2026-10-13	v2.virtualflybrain.org	GO_0000003		1	1	2.0
-2026-10-13	v2.virtualflybrain.org	GO_0000003	VFB_00101567	1	2	0.0
+2026-10-13	v2.virtualflybrain.org	GO_0000003	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	GO_0000280		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0000280	VFB_00101567	1	1	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0002790		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0002790	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0005310		1	1	2.0
-2026-10-13	v2.virtualflybrain.org	GO_0005310	VFB_00101567	0	1	0.0
+2026-10-13	v2.virtualflybrain.org	GO_0005310	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	GO_0005343		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	GO_0005343	VFB_00101567	0	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0006835		1	1	2.0
@@ -16122,7 +16159,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	GO_0010466		1	1	8.0
 2026-10-13	v2.virtualflybrain.org	GO_0010466	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0015711		1	1	2.0
-2026-10-13	v2.virtualflybrain.org	GO_0015711	VFB_00101567	1	2	0.0
+2026-10-13	v2.virtualflybrain.org	GO_0015711	VFB_00101567	1	2	3.0
 2026-10-13	v2.virtualflybrain.org	GO_0015849		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0015849	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0016236		1	1	1.0
@@ -16138,6 +16175,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	GO_0022857		2	2	2.0
 2026-10-13	v2.virtualflybrain.org	GO_0022857	VFB_00101567	2	4	2.0
 2026-10-13	v2.virtualflybrain.org	GO_0032504		1	1	2.0
+2026-10-13	v2.virtualflybrain.org	GO_0032504	VFB_00101567	1	2	10.0
 2026-10-13	v2.virtualflybrain.org	GO_0042330		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0042803	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0042908		1	1	0.0
@@ -16154,20 +16192,24 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	GO_0061534	VFB_00101384	1	3	12.0
 2026-10-13	v2.virtualflybrain.org	GO_0070696		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0071702		1	1	1.0
-2026-10-13	v2.virtualflybrain.org	GO_0071702	VFB_00101567	1	2	0.0
+2026-10-13	v2.virtualflybrain.org	GO_0071702	VFB_00101567	1	2	2.0
 2026-10-13	v2.virtualflybrain.org	GO_0097237		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	GO_0097237	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0097747		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_0141124		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_1905039		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	GO_1905039	VFB_00101567	1	2	3.0
+2026-10-13	v2.virtualflybrain.org	VFB_00000628		1	1	4.0
+2026-10-13	v2.virtualflybrain.org	VFB_00000720		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_00003594		1	1	7.0
-2026-10-13	v2.virtualflybrain.org	VFB_00005781		1	1	6.0
+2026-10-13	v2.virtualflybrain.org	VFB_00005781		1	1	9.0
+2026-10-13	v2.virtualflybrain.org	VFB_00007622		2	2	10.0
+2026-10-13	v2.virtualflybrain.org	VFB_00007622	VFB_00017894	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00007689		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_00009877		0	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_00010155	VFB_00010155	2	2	5.0
 2026-10-13	v2.virtualflybrain.org	VFB_00017280	VFB_00017280	1	1	5.0
-2026-10-13	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	5	6	7.0
+2026-10-13	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	6	7	16.0
 2026-10-13	v2.virtualflybrain.org	VFB_00020133		1	1	7.0
 2026-10-13	v2.virtualflybrain.org	VFB_00020133	VFB_00017894	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00020319	VFB_00101567	3	3	2.0
@@ -16177,7 +16219,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00026013		0	1	7.0
 2026-10-13	v2.virtualflybrain.org	VFB_00028601		1	1	9.0
 2026-10-13	v2.virtualflybrain.org	VFB_00030621	VFB_00017894	3	3	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_00030786	VFB_00030786	5	4	12.0
+2026-10-13	v2.virtualflybrain.org	VFB_00030786	VFB_00030786	5	4	13.0
 2026-10-13	v2.virtualflybrain.org	VFB_00030813		0	1	2.0
 2026-10-13	v2.virtualflybrain.org	VFB_00030849	VFB_00017894	3	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00030849	VFB_00101567	3	3	27.0
@@ -16187,8 +16229,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00030867	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00030870	VFB_00017894	3	2	12.0
 2026-10-13	v2.virtualflybrain.org	VFB_00030870	VFB_00101567	4	3	6.0
-2026-10-13	v2.virtualflybrain.org	VFB_00030877	VFB_00017894	3	3	24.0
-2026-10-13	v2.virtualflybrain.org	VFB_00030877	VFB_00101567	1	2	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_00030877	VFB_00017894	5	5	128.0
+2026-10-13	v2.virtualflybrain.org	VFB_00030877	VFB_00101567	2	2	13.0
 2026-10-13	v2.virtualflybrain.org	VFB_00039201		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00041488		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00043739		1	1	0.0
@@ -16200,6 +16242,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00063445		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00063510	VFB_00101567	0	1	12.0
 2026-10-13	v2.virtualflybrain.org	VFB_00063821	VFB_00101567	22	22	22.0
+2026-10-13	v2.virtualflybrain.org	VFB_00064658		2	2	4.0
+2026-10-13	v2.virtualflybrain.org	VFB_00064658	VFB_00100000	0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00064758		1	1	2.0
 2026-10-13	v2.virtualflybrain.org	VFB_00065512		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00067089		0	1	8.0
@@ -16231,7 +16275,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00100zqn	VFB_00101567	1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_001010af	VFB_00101567	4	7	171.0
 2026-10-13	v2.virtualflybrain.org	VFB_001010fc		0	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_001010go	VFB_00101567	1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_001010go	VFB_00101567	1	0	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001010qx		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00101384	VFB_00101384	6	5	28.0
 2026-10-13	v2.virtualflybrain.org	VFB_00101430	VFB_00050000	2	2	19.0
@@ -16241,10 +16285,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_001014bt	VFB_00200000	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_001014uq	VFB_00101567	6	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00101567		1	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	1272	1882	26703.0
+2026-10-13	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	1320	1933	27775.0
 2026-10-13	v2.virtualflybrain.org	VFB_0010159g	VFB_00050000	1	1	3.0
 2026-10-13	v2.virtualflybrain.org	VFB_0010159g	VFB_00101567	1	2	1.0
-2026-10-13	v2.virtualflybrain.org	VFB_001015a2	VFB_00050000	0	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_001015a2	VFB_00050000	1	2	46.0
 2026-10-13	v2.virtualflybrain.org	VFB_00101626	VFB_00050000	0	1	78.0
 2026-10-13	v2.virtualflybrain.org	VFB_00101655	VFB_00050000	0	1	37.0
 2026-10-13	v2.virtualflybrain.org	VFB_00101889		1	1	0.0
@@ -16284,8 +16328,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00102148	VFB_00101567	5	7	45.0
 2026-10-13	v2.virtualflybrain.org	VFB_0010214y		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102152	VFB_00101567	1	2	1.0
-2026-10-13	v2.virtualflybrain.org	VFB_00102154	VFB_00101567	10	9	65.0
-2026-10-13	v2.virtualflybrain.org	VFB_00102162	VFB_00101567	4	3	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_00102154	VFB_00101567	11	9	65.0
+2026-10-13	v2.virtualflybrain.org	VFB_00102162	VFB_00101567	4	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102164	VFB_00101567	4	6	4.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102170	VFB_00101567	5	2	5.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102174	VFB_00101567	0	2	0.0
@@ -16295,33 +16339,35 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00102212	VFB_00101567	7	8	49.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102213	VFB_00101567	7	7	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102214	VFB_00101567	1	2	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_00102271	VFB_00101567	5	7	6.0
+2026-10-13	v2.virtualflybrain.org	VFB_00102271	VFB_00101567	5	7	84.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102274	VFB_00101567	3	6	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102275	VFB_00101567	5	8	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102276	VFB_00101567	2	4	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102280	VFB_00101567	7	7	3.0
-2026-10-13	v2.virtualflybrain.org	VFB_00102282	VFB_00101567	5	8	1.0
+2026-10-13	v2.virtualflybrain.org	VFB_00102282	VFB_00101567	6	8	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_001024hq		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001026tw		1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_001026tw	VFB_001026tw	0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001027di		1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_001027si		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001028hm		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001028jk		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_001029ln		1	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_00102dps	VFB_00050000	1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_00102dps	VFB_00050000	1	0	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102efi	VFB_00101567	1	1	32.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102efi	VFB_00120000	3	3	10.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102fhd	VFB_00050000	2	2	12.0
 2026-10-13	v2.virtualflybrain.org	VFB_00102fms	VFB_00050000	2	2	13.0
 2026-10-13	v2.virtualflybrain.org	VFB_00103975		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_00103en8	VFB_00101567	1	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_00104643	VFB_00200000	3	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_00104643	VFB_00200000	4	2	27.0
 2026-10-13	v2.virtualflybrain.org	VFB_00104yp9		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001050t1		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001054mn		1	1	2.0
 2026-10-13	v2.virtualflybrain.org	VFB_00105jn0		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001063iw		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_001063qq		1	1	3.0
+2026-10-13	v2.virtualflybrain.org	VFB_001064q8		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	VFB_00106auk		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00106auk	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00106cjc		1	1	0.0
@@ -16333,17 +16379,19 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_00108s0d		3	3	10.0
 2026-10-13	v2.virtualflybrain.org	VFB_00108s0d	VFB_00200000	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00108vzi	VFB_00101567	2	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_00108w0p	VFB_00101567	11	13	40.0
+2026-10-13	v2.virtualflybrain.org	VFB_00108w0p	VFB_00101567	12	13	40.0
 2026-10-13	v2.virtualflybrain.org	VFB_00108w4d	VFB_00101567	3	2	1.0
-2026-10-13	v2.virtualflybrain.org	VFB_001091rp	VFB_00101567	5	6	14.0
+2026-10-13	v2.virtualflybrain.org	VFB_001091rp	VFB_00101567	5	5	14.0
 2026-10-13	v2.virtualflybrain.org	VFB_001091rv	VFB_00101567	1	1	15.0
 2026-10-13	v2.virtualflybrain.org	VFB_001091s1	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_001091sc	VFB_00101567	1	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_001091yb	VFB_00050000	0	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_001091yb	VFB_00050000	1	1	70.0
 2026-10-13	v2.virtualflybrain.org	VFB_00110000	VFB_00110000	2	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_00120000	VFB_00120000	4	4	6.0
 2026-10-13	v2.virtualflybrain.org	VFB_00200000	VFB_00101567	1	2	4.0
-2026-10-13	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	6	11	96.0
+2026-10-13	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	8	12	402.0
+2026-10-13	v2.virtualflybrain.org	VFB_fw001538		1	1	9.0
+2026-10-13	v2.virtualflybrain.org	VFB_fw001538	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw003469		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw004656		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw005501		1	1	0.0
@@ -16356,7 +16404,7 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_fw020175		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw021756		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw023307		0	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_fw028764		1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_fw028764		2	2	2.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw029673		1	1	4.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw032231		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_fw032231	VFB_00101567	1	1	0.0
@@ -16461,8 +16509,10 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc25o9		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc25r8		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc27tg		1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc28m2		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc28sk		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2df3		1	1	5.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc2ihh		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2jer		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2ke3		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2kr3		1	1	0.0
@@ -16474,16 +16524,19 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2poo		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2py9	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2s9c		0	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_jrmc2v1p	VFB_00101567	0	1	0.0
-2026-10-13	v2.virtualflybrain.org	VFB_jrmc2v1p	VFB_00200000	0	1	109.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc2sy3		1	1	1.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc2v1p	VFB_00101567	1	1	7.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc2v1p	VFB_00200000	2	8	301.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2vfw		0	1	5.0
-2026-10-13	v2.virtualflybrain.org	VFB_jrmc2vik	VFB_00017894	0	1	3.0
-2026-10-13	v2.virtualflybrain.org	VFB_jrmc2vik	VFB_00200000	0	1	1.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc2vik	VFB_00017894	1	2	3.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc2vik	VFB_00200000	2	2	31.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2vw6		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc2ygt	VFB_00101567	1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc34cj	VFB_00101567	4	3	29.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc36jp	VFB_00101567	2	3	3.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3844		0	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc3965		1	1	4.0
+2026-10-13	v2.virtualflybrain.org	VFB_jrmc39q1		1	1	6.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3a4q		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3aiw		0	1	9.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3bkh	VFB_00101567	2	2	70.0
@@ -16496,6 +16549,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3jgw	VFB_00101567	1	1	42.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3ju4	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFB_jrmc3k52		1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFBc_00000128		1	1	0.0
+2026-10-13	v2.virtualflybrain.org	VFBc_00000128	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00001311		1	1	3.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00001311	VFB_00101567	1	2	9.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00002345		1	1	4.0
@@ -16555,6 +16610,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFBc_00068092	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00069002		0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00069034		1	1	1.0
+2026-10-13	v2.virtualflybrain.org	VFBc_00100013		1	1	1.0
+2026-10-13	v2.virtualflybrain.org	VFBc_00100013	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_001001fv		1	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_0010024z		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_0010024z	VFB_00101567	1	2	0.0
@@ -16571,6 +16628,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFBc_00100eh9	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00100f42		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00100f42	VFB_00101567	0	1	7.0
+2026-10-13	v2.virtualflybrain.org	VFBc_00100fwc		1	1	2.0
+2026-10-13	v2.virtualflybrain.org	VFBc_00100fwc	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00100fxl		0	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00100fxl	VFB_00101567	0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_00100gxd		0	1	0.0
@@ -16676,6 +16735,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0grz	VFB_00101567	1	2	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0h43		1	1	10.0
 2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0h43	VFB_00101567	1	2	0.0
+2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0i8v		1	1	2.0
+2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0i8v	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0kqe	VFB_00101567	0	1	0.0
 2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0lp7		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFBc_jrcv0lp7	VFB_00101567	1	2	1.0
@@ -16708,8 +16769,8 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0099	VFB_00101567	3	8	39.0
 2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0100		3	3	7.0
 2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0100	VFB_00101567	3	5	5.0
-2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0101		3	3	4.0
-2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0101	VFB_00101567	3	6	2.0
+2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0101		4	4	5.0
+2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0101	VFB_00101567	4	8	3.0
 2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0102		1	1	1.0
 2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0102	VFB_00101567	1	2	1.0
 2026-10-13	v2.virtualflybrain.org	VFBexp_FBtp0105		1	1	0.0
@@ -16728,3 +16789,1643 @@ date	hostName	term	template	screenPageViews	activeUsersSum	userEngagementDuratio
 2026-10-13	v2.virtualflybrain.org	VFBext_0000010	VFB_00101567	1	2	1.0
 2026-10-13	v2a.virtualflybrain.org	VFB_00101567	VFB_00101567	1	2	46.0
 2026-10-13	v2a.virtualflybrain.org	VFB_00102107	VFB_00101567	1	2	15.0
+2026-10-14		FBbt_00000052		3	2	3.0
+2026-10-14		FBbt_00000052	VFB_00050000	2	1	0.0
+2026-10-14		FBbt_00001084		2	1	0.0
+2026-10-14		FBbt_00001084	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00001426		1	1	0.0
+2026-10-14		FBbt_00001426	VFB_00050000	1	1	0.0
+2026-10-14		FBbt_00001727		2	1	0.0
+2026-10-14		FBbt_00001727	VFB_00050000	2	1	0.0
+2026-10-14		FBbt_00001911		2	1	0.0
+2026-10-14		FBbt_00001911	VFB_00050000	1	1	0.0
+2026-10-14		FBbt_00001972		2	1	0.0
+2026-10-14		FBbt_00001972	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00002996		2	1	0.0
+2026-10-14		FBbt_00002996	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00003004		103	34	168.0
+2026-10-14		FBbt_00003004	VFB_00101567	111	75	0.0
+2026-10-14		FBbt_00003008		2	1	0.0
+2026-10-14		FBbt_00003008	VFB_00101567	4	2	0.0
+2026-10-14		FBbt_00003624		445	122	897.0
+2026-10-14		FBbt_00003624	VFB_00101567	512	259	0.0
+2026-10-14		FBbt_00003626		2	1	0.0
+2026-10-14		FBbt_00003626	VFB_00101567	2	1	0.0
+2026-10-14		FBbt_00003632		33	8	10.0
+2026-10-14		FBbt_00003632	VFB_00101567	33	19	0.0
+2026-10-14		FBbt_00003668		19	8	37.0
+2026-10-14		FBbt_00003668	VFB_00101567	18	14	0.0
+2026-10-14		FBbt_00003678		52	22	47.0
+2026-10-14		FBbt_00003678	VFB_00101567	49	42	0.0
+2026-10-14		FBbt_00003679		33	11	4.0
+2026-10-14		FBbt_00003679	VFB_00101567	31	21	0.0
+2026-10-14		FBbt_00003680		38	15	12.0
+2026-10-14		FBbt_00003680	VFB_00101567	40	33	0.0
+2026-10-14		FBbt_00003681		149	49	68.0
+2026-10-14		FBbt_00003681	VFB_00101567	146	109	0.0
+2026-10-14		FBbt_00003682		4	2	0.0
+2026-10-14		FBbt_00003682	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_00003684		19	9	0.0
+2026-10-14		FBbt_00003684	VFB_00017894	2	2	0.0
+2026-10-14		FBbt_00003684	VFB_00101567	17	17	0.0
+2026-10-14		FBbt_00003701		26	10	24.0
+2026-10-14		FBbt_00003701	VFB_00101567	28	24	0.0
+2026-10-14		FBbt_00003748		191	62	129.0
+2026-10-14		FBbt_00003748	VFB_00101567	192	137	0.0
+2026-10-14		FBbt_00003852		6	2	1.0
+2026-10-14		FBbt_00003852	VFB_00101567	6	6	0.0
+2026-10-14		FBbt_00003924		3	1	149.0
+2026-10-14		FBbt_00003924	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00003982		7	1	5.0
+2026-10-14		FBbt_00003982	VFB_00101567	8	3	0.0
+2026-10-14		FBbt_00004013		2	1	0.0
+2026-10-14		FBbt_00004013	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00004020		16	8	0.0
+2026-10-14		FBbt_00004020	VFB_00101567	23	16	0.0
+2026-10-14		FBbt_00004091		2	1	0.0
+2026-10-14		FBbt_00004091	VFB_00200000	2	2	0.0
+2026-10-14		FBbt_00005093		151	52	92.0
+2026-10-14		FBbt_00005093	VFB_00050000	3	2	0.0
+2026-10-14		FBbt_00005093	VFB_00101567	100	74	0.0
+2026-10-14		FBbt_00005093	VFB_00200000	2	2	0.0
+2026-10-14		FBbt_00005131		3	1	42.0
+2026-10-14		FBbt_00005131	VFB_00101567	3	2	0.0
+2026-10-14		FBbt_00005137		2	1	0.0
+2026-10-14		FBbt_00005137	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00006007		2	1	0.0
+2026-10-14		FBbt_00006007	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00007011		1	1	0.0
+2026-10-14		FBbt_00007011	VFB_00101567	1	1	0.0
+2026-10-14		FBbt_00007016		1	1	0.0
+2026-10-14		FBbt_00007016	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00007050		47	18	30.0
+2026-10-14		FBbt_00007050	VFB_00101567	53	40	0.0
+2026-10-14		FBbt_00007053		3	1	3.0
+2026-10-14		FBbt_00007053	VFB_00101567	3	2	0.0
+2026-10-14		FBbt_00007054		24	9	90.0
+2026-10-14		FBbt_00007054	VFB_00101567	23	17	0.0
+2026-10-14		FBbt_00007055		7	4	0.0
+2026-10-14		FBbt_00007055	VFB_00101567	8	8	0.0
+2026-10-14		FBbt_00007058		4	2	0.0
+2026-10-14		FBbt_00007058	VFB_00101567	5	4	0.0
+2026-10-14		FBbt_00007059		14	6	3.0
+2026-10-14		FBbt_00007059	VFB_00101567	14	13	0.0
+2026-10-14		FBbt_00007092		2	1	0.0
+2026-10-14		FBbt_00007092	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00007145		2	1	0.0
+2026-10-14		FBbt_00007145	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00007146		13	5	2.0
+2026-10-14		FBbt_00007146	VFB_00101567	14	10	0.0
+2026-10-14		FBbt_00007147		17	6	149.0
+2026-10-14		FBbt_00007147	VFB_00101567	18	14	0.0
+2026-10-14		FBbt_00007385		7	2	0.0
+2026-10-14		FBbt_00007385	VFB_00101567	7	5	0.0
+2026-10-14		FBbt_00007401		5	2	0.0
+2026-10-14		FBbt_00007401	VFB_00101567	6	5	0.0
+2026-10-14		FBbt_00007453		27	5	37.0
+2026-10-14		FBbt_00007453	VFB_00101567	28	12	0.0
+2026-10-14		FBbt_00007677		4	2	0.0
+2026-10-14		FBbt_00007677	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_00007683		2	1	0.0
+2026-10-14		FBbt_00007683	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00007685		3	2	31.0
+2026-10-14		FBbt_00007685	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00013688		2	1	0.0
+2026-10-14		FBbt_00013688	VFB_00101567	1	1	0.0
+2026-10-14		FBbt_00014013		53	20	24.0
+2026-10-14		FBbt_00014013	VFB_00101567	57	42	0.0
+2026-10-14		FBbt_00015407		3	1	1.0
+2026-10-14		FBbt_00015407	VFB_00101567	3	2	0.0
+2026-10-14		FBbt_00040001		15	7	1.0
+2026-10-14		FBbt_00040001	VFB_00017894	4	3	0.0
+2026-10-14		FBbt_00040001	VFB_00101567	11	10	0.0
+2026-10-14		FBbt_00040002		2	1	0.0
+2026-10-14		FBbt_00040002	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00040005		2	1	0.0
+2026-10-14		FBbt_00040005	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00040007		8	4	0.0
+2026-10-14		FBbt_00040007	VFB_00017894	2	2	0.0
+2026-10-14		FBbt_00040007	VFB_00101567	5	4	0.0
+2026-10-14		FBbt_00040037		15	6	1.0
+2026-10-14		FBbt_00040037	VFB_00101567	15	14	0.0
+2026-10-14		FBbt_00040038		2	1	0.0
+2026-10-14		FBbt_00040038	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00040039		3	1	0.0
+2026-10-14		FBbt_00040039	VFB_00101567	3	3	0.0
+2026-10-14		FBbt_00040040		4	2	0.0
+2026-10-14		FBbt_00040040	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_00040041		102	38	148.0
+2026-10-14		FBbt_00040041	VFB_00101567	100	76	0.0
+2026-10-14		FBbt_00040042		75	31	118.0
+2026-10-14		FBbt_00040042	VFB_00017894	2	2	0.0
+2026-10-14		FBbt_00040042	VFB_00101567	74	61	0.0
+2026-10-14		FBbt_00040043		103	38	196.0
+2026-10-14		FBbt_00040043	VFB_00101567	100	79	0.0
+2026-10-14		FBbt_00040044		3	1	0.0
+2026-10-14		FBbt_00040044	VFB_00101567	3	3	0.0
+2026-10-14		FBbt_00040049		4	2	0.0
+2026-10-14		FBbt_00040049	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_00040051		10	4	0.0
+2026-10-14		FBbt_00040051	VFB_00101567	11	10	0.0
+2026-10-14		FBbt_00040060		2	1	0.0
+2026-10-14		FBbt_00040060	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00040072		3	1	0.0
+2026-10-14		FBbt_00040072	VFB_00101567	3	3	0.0
+2026-10-14		FBbt_00045003		9	4	31.0
+2026-10-14		FBbt_00045003	VFB_00101567	9	6	0.0
+2026-10-14		FBbt_00045004		4	1	1.0
+2026-10-14		FBbt_00045004	VFB_00101567	4	2	0.0
+2026-10-14		FBbt_00045021		2	1	0.0
+2026-10-14		FBbt_00045021	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00045027		46	19	78.0
+2026-10-14		FBbt_00045027	VFB_00101567	45	38	0.0
+2026-10-14		FBbt_00045030		6	3	0.0
+2026-10-14		FBbt_00045030	VFB_00101567	7	6	0.0
+2026-10-14		FBbt_00045032		14	6	0.0
+2026-10-14		FBbt_00045032	VFB_00101567	13	10	0.0
+2026-10-14		FBbt_00045037		4	1	0.0
+2026-10-14		FBbt_00045037	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_00045040		4	2	0.0
+2026-10-14		FBbt_00045040	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_00045047		5	2	0.0
+2026-10-14		FBbt_00045047	VFB_00101567	5	5	0.0
+2026-10-14		FBbt_00045048		96	33	255.0
+2026-10-14		FBbt_00045048	VFB_00101567	94	75	0.0
+2026-10-14		FBbt_00045050		31	12	33.0
+2026-10-14		FBbt_00045050	VFB_00101567	31	27	0.0
+2026-10-14		FBbt_00045051		46	20	9.0
+2026-10-14		FBbt_00045051	VFB_00101567	56	38	0.0
+2026-10-14		FBbt_00047132		2	1	0.0
+2026-10-14		FBbt_00047132	VFB_00101567	1	1	0.0
+2026-10-14		FBbt_00047174		2	1	0.0
+2026-10-14		FBbt_00047174	VFB_00200000	2	2	0.0
+2026-10-14		FBbt_00047486		5	1	22.0
+2026-10-14		FBbt_00047486	VFB_00101567	5	2	0.0
+2026-10-14		FBbt_00047516		2	1	0.0
+2026-10-14		FBbt_00047516	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00047541		2	1	0.0
+2026-10-14		FBbt_00047541	VFB_00200000	2	2	0.0
+2026-10-14		FBbt_00047814		2	1	0.0
+2026-10-14		FBbt_00047814	VFB_00050000	3	2	0.0
+2026-10-14		FBbt_00047887		83	25	76.0
+2026-10-14		FBbt_00047887	VFB_00101567	93	60	0.0
+2026-10-14		FBbt_00047907		2	1	0.0
+2026-10-14		FBbt_00047907	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00048190		2	1	0.0
+2026-10-14		FBbt_00048190	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00048449		2	1	0.0
+2026-10-14		FBbt_00048449	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00048509		2	1	0.0
+2026-10-14		FBbt_00048509	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00049008		2	1	0.0
+2026-10-14		FBbt_00049008	VFB_00050000	3	2	0.0
+2026-10-14		FBbt_00049143		10	5	324.0
+2026-10-14		FBbt_00049143	VFB_00101567	4	2	0.0
+2026-10-14		FBbt_00049781		2	1	0.0
+2026-10-14		FBbt_00049781	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00049815		2	1	0.0
+2026-10-14		FBbt_00049815	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00050042		2	1	0.0
+2026-10-14		FBbt_00050042	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00050144		9	1	2.0
+2026-10-14		FBbt_00050144	VFB_00101567	9	3	0.0
+2026-10-14		FBbt_00051067		2	1	0.0
+2026-10-14		FBbt_00051067	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00051240		2	1	0.0
+2026-10-14		FBbt_00051240	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00052032		2	1	0.0
+2026-10-14		FBbt_00052032	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00052538		2	1	0.0
+2026-10-14		FBbt_00052538	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00052680		2	1	0.0
+2026-10-14		FBbt_00052680	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00052824		5	4	581.0
+2026-10-14		FBbt_00052824	VFB_00101567	1	1	0.0
+2026-10-14		FBbt_00053038		2	1	0.0
+2026-10-14		FBbt_00053038	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00053334		2	1	0.0
+2026-10-14		FBbt_00053334	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00053339		3	1	25.0
+2026-10-14		FBbt_00053339	VFB_00101567	3	2	0.0
+2026-10-14		FBbt_00053384		36	12	120.0
+2026-10-14		FBbt_00053384	VFB_00101567	37	31	0.0
+2026-10-14		FBbt_00058440		2	1	0.0
+2026-10-14		FBbt_00058440	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00059274		2	1	0.0
+2026-10-14		FBbt_00059274	VFB_00101567	3	2	0.0
+2026-10-14		FBbt_00067063		2	1	0.0
+2026-10-14		FBbt_00067063	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00100138		2	1	0.0
+2026-10-14		FBbt_00100138	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00100163		15	8	2.0
+2026-10-14		FBbt_00100163	VFB_00101567	21	14	0.0
+2026-10-14		FBbt_00100191		2	1	0.0
+2026-10-14		FBbt_00100191	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00100210		2	1	0.0
+2026-10-14		FBbt_00100210	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00100313		2	1	0.0
+2026-10-14		FBbt_00100313	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00110000		10	5	0.0
+2026-10-14		FBbt_00110000	VFB_00101567	15	10	0.0
+2026-10-14		FBbt_00110034		2	1	0.0
+2026-10-14		FBbt_00110034	VFB_00017894	3	2	0.0
+2026-10-14		FBbt_00110174		2	1	0.0
+2026-10-14		FBbt_00110174	VFB_00200000	2	2	0.0
+2026-10-14		FBbt_00110176		4	2	0.0
+2026-10-14		FBbt_00110176	VFB_00200000	4	4	0.0
+2026-10-14		FBbt_00110587		2	1	0.0
+2026-10-14		FBbt_00110587	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_00110636		37	14	1418.0
+2026-10-14		FBbt_00110636	VFB_00101567	37	29	0.0
+2026-10-14		FBbt_00110638		12	4	38.0
+2026-10-14		FBbt_00110638	VFB_00101567	13	10	0.0
+2026-10-14		FBbt_00110639		14	5	0.0
+2026-10-14		FBbt_00110639	VFB_00101567	14	13	0.0
+2026-10-14		FBbt_00110657		20	5	4.0
+2026-10-14		FBbt_00110657	VFB_00101567	20	11	0.0
+2026-10-14		FBbt_00111086		2	1	0.0
+2026-10-14		FBbt_00111086	VFB_00101567	2	1	0.0
+2026-10-14		FBbt_00111746		2	1	0.0
+2026-10-14		FBbt_00111746	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_10000000		2	1	0.0
+2026-10-14		FBbt_10000000	VFB_00101567	2	1	0.0
+2026-10-14		FBbt_20000042		2	1	0.0
+2026-10-14		FBbt_20000042	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20000076		3	1	0.0
+2026-10-14		FBbt_20000076	VFB_00101567	7	3	0.0
+2026-10-14		FBbt_20000249		4	2	0.0
+2026-10-14		FBbt_20000249	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_20000863		4	2	0.0
+2026-10-14		FBbt_20000863	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_20001827		2	1	0.0
+2026-10-14		FBbt_20001827	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20002011		2	1	0.0
+2026-10-14		FBbt_20002011	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20002902		2	1	0.0
+2026-10-14		FBbt_20002902	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20003147	VFB_00101567	1	1	0.0
+2026-10-14		FBbt_20003375		2	1	0.0
+2026-10-14		FBbt_20003375	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20003443		2	1	0.0
+2026-10-14		FBbt_20003443	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20003946		2	1	0.0
+2026-10-14		FBbt_20003946	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20004058		2	1	0.0
+2026-10-14		FBbt_20004058	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20005652		3	2	4.0
+2026-10-14		FBbt_20005652	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20006411		4	2	0.0
+2026-10-14		FBbt_20006411	VFB_00101567	4	4	0.0
+2026-10-14		FBbt_20006682		2	1	0.0
+2026-10-14		FBbt_20006682	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20007256		3	1	0.0
+2026-10-14		FBbt_20007256	VFB_00101567	3	3	0.0
+2026-10-14		FBbt_20007396		2	1	0.0
+2026-10-14		FBbt_20007396	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20007433		2	1	0.0
+2026-10-14		FBbt_20007433	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20007470		2	1	0.0
+2026-10-14		FBbt_20007470	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20007599		2	1	0.0
+2026-10-14		FBbt_20007599	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20008858		2	1	0.0
+2026-10-14		FBbt_20008858	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20009237		2	1	0.0
+2026-10-14		FBbt_20009237	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20009327		2	1	0.0
+2026-10-14		FBbt_20009327	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20009580		2	1	0.0
+2026-10-14		FBbt_20009580	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20010290		2	1	0.0
+2026-10-14		FBbt_20010290	VFB_00101567	2	2	0.0
+2026-10-14		FBbt_20011041		2	1	0.0
+2026-10-14		FBbt_20011041	VFB_00101567	2	2	0.0
+2026-10-14		FBcv_0003023		3	1	0.0
+2026-10-14		FBcv_0003023	VFB_00101567	3	3	0.0
+2026-10-14		GO_0000287		2	1	0.0
+2026-10-14		GO_0000287	VFB_00101567	2	2	0.0
+2026-10-14		GO_0014055		5	1	9.0
+2026-10-14		GO_0014055	VFB_00101567	7	3	0.0
+2026-10-14		GO_0032794		2	1	0.0
+2026-10-14		GO_0032794	VFB_00101567	2	2	0.0
+2026-10-14		GO_0048029		2	1	0.0
+2026-10-14		GO_0048029	VFB_00101567	2	2	0.0
+2026-10-14		GO_0050840		2	1	0.0
+2026-10-14		GO_0050840	VFB_00101567	2	2	0.0
+2026-10-14		GO_0051053		2	1	0.0
+2026-10-14		GO_0051053	VFB_00101567	2	2	0.0
+2026-10-14		GO_0061534		3	1	0.0
+2026-10-14		GO_0061534	VFB_00101567	4	2	0.0
+2026-10-14		GO_1903047		4	2	0.0
+2026-10-14		GO_1903047	VFB_00101567	4	4	0.0
+2026-10-14		GO_1904538		2	1	0.0
+2026-10-14		GO_1904538	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00011604		14	1	12.0
+2026-10-14		VFB_00011604	VFB_00017894	14	2	0.0
+2026-10-14		VFB_00011624		2	1	0.0
+2026-10-14		VFB_00011624	VFB_00101567	1	1	0.0
+2026-10-14		VFB_00015484		4	1	0.0
+2026-10-14		VFB_00015484	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00017894		1	1	0.0
+2026-10-14		VFB_00017894	VFB_00017894	1	1	0.0
+2026-10-14		VFB_00022309		4	1	9.0
+2026-10-14		VFB_00022309	VFB_00101567	4	1	0.0
+2026-10-14		VFB_00030804		10	2	2.0
+2026-10-14		VFB_00030804	VFB_00101567	9	3	0.0
+2026-10-14		VFB_00030849		4	1	0.0
+2026-10-14		VFB_00030849	VFB_00101567	4	2	0.0
+2026-10-14		VFB_00030867		10	2	0.0
+2026-10-14		VFB_00030867	VFB_00017894	4	2	0.0
+2026-10-14		VFB_00030867	VFB_00101567	5	3	0.0
+2026-10-14		VFB_00030870		12	1	3.0
+2026-10-14		VFB_00030870	VFB_00017894	8	1	0.0
+2026-10-14		VFB_00030870	VFB_00101567	4	2	0.0
+2026-10-14		VFB_00030875		16	1	44.0
+2026-10-14		VFB_00030875	VFB_00017894	3	2	0.0
+2026-10-14		VFB_00030875	VFB_00101567	12	2	0.0
+2026-10-14		VFB_00044456		26	4	67.0
+2026-10-14		VFB_00044456	VFB_00017894	2	1	0.0
+2026-10-14		VFB_00044456	VFB_00101567	23	8	0.0
+2026-10-14		VFB_00045726		7	2	35.0
+2026-10-14		VFB_00045726	VFB_00101567	6	2	0.0
+2026-10-14		VFB_00046293		1	1	0.0
+2026-10-14		VFB_00046293	VFB_00017894	1	1	0.0
+2026-10-14		VFB_00049000		2	2	0.0
+2026-10-14		VFB_00049000	VFB_00049000	4	4	33.0
+2026-10-14		VFB_00050000		20	15	0.0
+2026-10-14		VFB_00050000	VFB_00050000	31	26	438.0
+2026-10-14		VFB_00050508		1	1	0.0
+2026-10-14		VFB_00050508	VFB_00049000	1	1	0.0
+2026-10-14		VFB_00063821		8	8	0.0
+2026-10-14		VFB_00063821	VFB_00101567	8	8	0.0
+2026-10-14		VFB_00064325		1	1	0.0
+2026-10-14		VFB_00064325	VFB_00101567	1	1	0.0
+2026-10-14		VFB_00100214		1	1	0.0
+2026-10-14		VFB_00100214	VFB_00050000	1	1	0.0
+2026-10-14		VFB_0010023n		2	1	0.0
+2026-10-14		VFB_0010023n	VFB_00050000	2	1	0.0
+2026-10-14		VFB_0010024j		5	1	3.0
+2026-10-14		VFB_0010024j	VFB_00050000	6	1	0.0
+2026-10-14		VFB_0010024x		3	1	0.0
+2026-10-14		VFB_0010024x	VFB_00050000	3	2	0.0
+2026-10-14		VFB_0010025t		3	1	0.0
+2026-10-14		VFB_0010025t	VFB_00101567	3	2	0.0
+2026-10-14		VFB_0010027z		7	1	0.0
+2026-10-14		VFB_0010027z	VFB_00050000	5	1	0.0
+2026-10-14		VFB_0010027z	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100661		3	1	0.0
+2026-10-14		VFB_00100661	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00100670		15	3	200.0
+2026-10-14		VFB_00100670	VFB_00050000	11	3	0.0
+2026-10-14		VFB_00100672		4	2	1.0
+2026-10-14		VFB_00100672	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00100828		8	1	0.0
+2026-10-14		VFB_00100828	VFB_00050000	2	1	0.0
+2026-10-14		VFB_00100828	VFB_00101567	4	2	0.0
+2026-10-14		VFB_00100922		4	2	2.0
+2026-10-14		VFB_00100922	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00100962		3	2	6.0
+2026-10-14		VFB_00100962	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00100980		4	2	325.0
+2026-10-14		VFB_00100980	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00100990		6	1	51.0
+2026-10-14		VFB_00100990	VFB_00050000	5	2	0.0
+2026-10-14		VFB_00100eof		1	1	0.0
+2026-10-14		VFB_00100eof	VFB_00200000	1	1	0.0
+2026-10-14		VFB_00100wul		4	1	0.0
+2026-10-14		VFB_00100wul	VFB_00101567	5	3	0.0
+2026-10-14		VFB_00100wum		3	1	0.0
+2026-10-14		VFB_00100wum	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wun		3	1	0.0
+2026-10-14		VFB_00100wun	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wuo		2	1	4.0
+2026-10-14		VFB_00100wuo	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wuq		2	1	0.0
+2026-10-14		VFB_00100wuq	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wur		3	1	0.0
+2026-10-14		VFB_00100wur	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wus		3	1	0.0
+2026-10-14		VFB_00100wus	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wux		3	1	0.0
+2026-10-14		VFB_00100wux	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wv0		2	1	1.0
+2026-10-14		VFB_00100wv0	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wv2		3	1	0.0
+2026-10-14		VFB_00100wv2	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wv3		3	1	0.0
+2026-10-14		VFB_00100wv3	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wv4		3	1	0.0
+2026-10-14		VFB_00100wv4	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wv8		3	1	0.0
+2026-10-14		VFB_00100wv8	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wvc		2	1	0.0
+2026-10-14		VFB_00100wvc	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wvf		2	1	1.0
+2026-10-14		VFB_00100wvf	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvg		3	1	0.0
+2026-10-14		VFB_00100wvg	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvh		3	1	0.0
+2026-10-14		VFB_00100wvh	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvi		3	1	0.0
+2026-10-14		VFB_00100wvi	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvo		3	1	0.0
+2026-10-14		VFB_00100wvo	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvq		3	1	0.0
+2026-10-14		VFB_00100wvq	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvu		3	1	0.0
+2026-10-14		VFB_00100wvu	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wvv		2	1	0.0
+2026-10-14		VFB_00100wvv	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wvw		3	1	0.0
+2026-10-14		VFB_00100wvw	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wvx		2	1	0.0
+2026-10-14		VFB_00100wvx	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100ww0		3	1	0.0
+2026-10-14		VFB_00100ww0	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100ww1		3	1	0.0
+2026-10-14		VFB_00100ww1	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100ww4		2	1	0.0
+2026-10-14		VFB_00100ww4	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100ww5		2	1	0.0
+2026-10-14		VFB_00100ww5	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100ww7		2	1	0.0
+2026-10-14		VFB_00100ww7	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100ww8		2	1	0.0
+2026-10-14		VFB_00100ww8	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwd		2	1	0.0
+2026-10-14		VFB_00100wwd	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwh		2	1	0.0
+2026-10-14		VFB_00100wwh	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwi		2	1	0.0
+2026-10-14		VFB_00100wwi	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwj		2	1	0.0
+2026-10-14		VFB_00100wwj	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwl		2	1	0.0
+2026-10-14		VFB_00100wwl	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wwp		3	1	0.0
+2026-10-14		VFB_00100wwp	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwq		2	1	0.0
+2026-10-14		VFB_00100wwq	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwr		2	1	0.0
+2026-10-14		VFB_00100wwr	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wws		2	1	0.0
+2026-10-14		VFB_00100wws	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wwu		2	1	0.0
+2026-10-14		VFB_00100wwu	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100www		2	1	0.0
+2026-10-14		VFB_00100www	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wwx		3	1	0.0
+2026-10-14		VFB_00100wwx	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wwy		3	1	0.0
+2026-10-14		VFB_00100wwy	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wwz		3	1	0.0
+2026-10-14		VFB_00100wwz	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wx0		2	1	0.0
+2026-10-14		VFB_00100wx0	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wx2		2	1	0.0
+2026-10-14		VFB_00100wx2	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wx3		3	1	0.0
+2026-10-14		VFB_00100wx3	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wx5		2	1	0.0
+2026-10-14		VFB_00100wx5	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wx6		3	1	0.0
+2026-10-14		VFB_00100wx6	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wx8		2	1	0.0
+2026-10-14		VFB_00100wx8	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wx9		3	1	0.0
+2026-10-14		VFB_00100wx9	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wxb		3	1	0.0
+2026-10-14		VFB_00100wxb	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wxd		3	1	0.0
+2026-10-14		VFB_00100wxd	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wxf		2	1	0.0
+2026-10-14		VFB_00100wxf	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wxg		3	1	0.0
+2026-10-14		VFB_00100wxg	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wxi		2	1	0.0
+2026-10-14		VFB_00100wxi	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wxl		3	1	0.0
+2026-10-14		VFB_00100wxl	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wxq		2	1	0.0
+2026-10-14		VFB_00100wxq	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wxr		3	1	0.0
+2026-10-14		VFB_00100wxr	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00100wxs		3	1	0.0
+2026-10-14		VFB_00100wxs	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wxt		2	1	0.0
+2026-10-14		VFB_00100wxt	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00100wxu		2	1	0.0
+2026-10-14		VFB_00100wxu	VFB_00101567	1	1	0.0
+2026-10-14		VFB_00101013		4	2	2.0
+2026-10-14		VFB_00101013	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101017		4	2	1.0
+2026-10-14		VFB_00101017	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101020		4	2	2.0
+2026-10-14		VFB_00101020	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101027		4	2	1.0
+2026-10-14		VFB_00101027	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101049		7	2	24.0
+2026-10-14		VFB_00101049	VFB_00050000	5	2	0.0
+2026-10-14		VFB_00101065		4	2	103.0
+2026-10-14		VFB_00101065	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101069		2	1	0.0
+2026-10-14		VFB_00101069	VFB_00050000	3	2	0.0
+2026-10-14		VFB_001013qi		5	2	2.0
+2026-10-14		VFB_001013qi	VFB_00101567	4	2	0.0
+2026-10-14		VFB_001013qq		1	1	0.0
+2026-10-14		VFB_001013qq	VFB_00101567	1	1	0.0
+2026-10-14		VFB_00101419		6	1	0.0
+2026-10-14		VFB_00101419	VFB_00101384	2	1	0.0
+2026-10-14		VFB_00101419	VFB_00101567	4	2	0.0
+2026-10-14		VFB_00101534		1	1	0.0
+2026-10-14		VFB_00101544		4	2	19.0
+2026-10-14		VFB_00101544	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101567		1544	702	2268.0
+2026-10-14		VFB_00101567	VFB_00101567	1633	987	402.0
+2026-10-14		VFB_00101572		4	2	17.0
+2026-10-14		VFB_00101572	VFB_00050000	3	2	0.0
+2026-10-14		VFB_00101oi3		1	1	0.0
+2026-10-14		VFB_00101oi3	VFB_00101oi3	2	1	0.0
+2026-10-14		VFB_00102107		57	19	68.0
+2026-10-14		VFB_00102107	VFB_00101567	43	26	0.0
+2026-10-14		VFB_00102108		17	6	3.0
+2026-10-14		VFB_00102108	VFB_00101567	16	11	0.0
+2026-10-14		VFB_00102109		9	3	0.0
+2026-10-14		VFB_00102109	VFB_00101567	5	4	0.0
+2026-10-14		VFB_00102110		3	1	0.0
+2026-10-14		VFB_00102110	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00102114		9	3	0.0
+2026-10-14		VFB_00102114	VFB_00101567	10	6	0.0
+2026-10-14		VFB_00102118		8	2	0.0
+2026-10-14		VFB_00102118	VFB_00101567	8	4	0.0
+2026-10-14		VFB_00102119		6	2	0.0
+2026-10-14		VFB_00102119	VFB_00101567	5	4	0.0
+2026-10-14		VFB_00102133		3	1	39.0
+2026-10-14		VFB_00102133	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00102134		8	2	0.0
+2026-10-14		VFB_00102134	VFB_00101567	7	5	0.0
+2026-10-14		VFB_00102135		17	6	0.0
+2026-10-14		VFB_00102135	VFB_00101567	19	10	0.0
+2026-10-14		VFB_00102139		5	2	0.0
+2026-10-14		VFB_00102139	VFB_00101567	5	5	0.0
+2026-10-14		VFB_00102141		21	6	0.0
+2026-10-14		VFB_00102141	VFB_00101567	19	15	0.0
+2026-10-14		VFB_00102146		14	4	30.0
+2026-10-14		VFB_00102146	VFB_00101567	11	5	0.0
+2026-10-14		VFB_00102148		36	4	86.0
+2026-10-14		VFB_00102148	VFB_00101567	32	8	0.0
+2026-10-14		VFB_00102152		8	2	3.0
+2026-10-14		VFB_00102152	VFB_00101567	9	3	0.0
+2026-10-14		VFB_00102154		16	6	0.0
+2026-10-14		VFB_00102154	VFB_00101567	15	10	0.0
+2026-10-14		VFB_00102159		5	2	0.0
+2026-10-14		VFB_00102159	VFB_00101567	4	4	0.0
+2026-10-14		VFB_00102162		5	2	0.0
+2026-10-14		VFB_00102162	VFB_00101567	4	3	0.0
+2026-10-14		VFB_00102164		6	2	0.0
+2026-10-14		VFB_00102164	VFB_00101567	5	4	0.0
+2026-10-14		VFB_00102170		3	1	0.0
+2026-10-14		VFB_00102170	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00102174		5	2	0.0
+2026-10-14		VFB_00102174	VFB_00101567	5	3	0.0
+2026-10-14		VFB_00102201		13	4	4.0
+2026-10-14		VFB_00102201	VFB_00101567	10	6	0.0
+2026-10-14		VFB_00102212		24	4	5.0
+2026-10-14		VFB_00102212	VFB_00101567	21	7	0.0
+2026-10-14		VFB_00102213		2	1	0.0
+2026-10-14		VFB_00102213	VFB_00101567	2	2	0.0
+2026-10-14		VFB_00102271		30	10	80.0
+2026-10-14		VFB_00102271	VFB_00101567	26	14	0.0
+2026-10-14		VFB_00102274		6	2	0.0
+2026-10-14		VFB_00102274	VFB_00101567	5	5	0.0
+2026-10-14		VFB_00102275		8	3	0.0
+2026-10-14		VFB_00102275	VFB_00101567	8	6	0.0
+2026-10-14		VFB_00102276		8	2	2.0
+2026-10-14		VFB_00102276	VFB_00101567	7	4	0.0
+2026-10-14		VFB_00102280		6	2	0.0
+2026-10-14		VFB_00102280	VFB_00101567	7	3	0.0
+2026-10-14		VFB_00102281		5	1	2.0
+2026-10-14		VFB_00102281	VFB_00101567	5	2	0.0
+2026-10-14		VFB_00102282		26	9	47.0
+2026-10-14		VFB_00102282	VFB_00101567	19	13	0.0
+2026-10-14		VFB_001023hb		1	1	0.0
+2026-10-14		VFB_001023hb	VFB_00200000	1	1	0.0
+2026-10-14		VFB_001026sz		1	1	0.0
+2026-10-14		VFB_001026sz	VFB_001026sz	2	1	0.0
+2026-10-14		VFB_00102757		4	1	0.0
+2026-10-14		VFB_00102757	VFB_00101567	6	2	0.0
+2026-10-14		VFB_00102761		8	1	32.0
+2026-10-14		VFB_00102761	VFB_00101567	6	3	0.0
+2026-10-14		VFB_001027kg		1	1	0.0
+2026-10-14		VFB_001027kg	VFB_00200000	1	1	0.0
+2026-10-14		VFB_00102e0y		2	1	0.0
+2026-10-14		VFB_00102e0y	VFB_00120000	2	1	0.0
+2026-10-14		VFB_001038f3		3	1	8.0
+2026-10-14		VFB_001038f3	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00103cpg		10	3	100.0
+2026-10-14		VFB_00103cpg	VFB_00200000	9	2	0.0
+2026-10-14		VFB_00107u4g		1	1	0.0
+2026-10-14		VFB_00107u4g	VFB_00200000	1	1	0.0
+2026-10-14		VFB_00108cg2		18	2	7.0
+2026-10-14		VFB_00108cg2	VFB_00101567	18	5	0.0
+2026-10-14		VFB_00108rzf		6	3	11.0
+2026-10-14		VFB_00108rzf	VFB_00101567	3	2	0.0
+2026-10-14		VFB_00108w0p		123	25	137.0
+2026-10-14		VFB_00108w0p	VFB_00101567	118	52	0.0
+2026-10-14		VFB_00108w4d		12	2	0.0
+2026-10-14		VFB_00108w4d	VFB_00101567	11	5	0.0
+2026-10-14		VFB_001091r4		6	2	18.0
+2026-10-14		VFB_001091r4	VFB_00101567	4	2	0.0
+2026-10-14		VFB_001091rp		40	9	53.0
+2026-10-14		VFB_001091rp	VFB_00101567	38	16	0.0
+2026-10-14		VFB_001091s1		13	3	85.0
+2026-10-14		VFB_001091s1	VFB_00101567	11	2	0.0
+2026-10-14		VFB_001091s4		4	2	128.0
+2026-10-14		VFB_001091s4	VFB_00101567	3	2	0.0
+2026-10-14		VFB_001091xz		5	1	21.0
+2026-10-14		VFB_001091xz	VFB_00101567	5	2	0.0
+2026-10-14		VFB_00110000		1	1	0.0
+2026-10-14		VFB_00110000	VFB_00110000	2	2	24.0
+2026-10-14		VFB_00120000		1	1	0.0
+2026-10-14		VFB_00120000	VFB_00120000	2	2	35.0
+2026-10-14		VFB_00200000		6	5	0.0
+2026-10-14		VFB_00200000	VFB_00200000	10	10	72.0
+2026-10-14		VFB_fw002671		2	1	0.0
+2026-10-14		VFB_fw002671	VFB_00101567	2	2	0.0
+2026-10-14		VFB_fw033737		1	1	0.0
+2026-10-14		VFB_fw033737	VFB_00101567	1	1	0.0
+2026-10-14		VFB_fw036574		4	1	0.0
+2026-10-14		VFB_fw036574	VFB_00101567	4	3	0.0
+2026-10-14		VFB_fw043532		9	1	8.0
+2026-10-14		VFB_fw043532	VFB_00101567	12	3	0.0
+2026-10-14		VFB_fw062037		1	1	0.0
+2026-10-14		VFB_fw062037	VFB_00101567	1	1	0.0
+2026-10-14		VFB_fw130623		6	1	3.0
+2026-10-14		VFB_fw130623	VFB_00101567	2	1	0.0
+2026-10-14		VFB_jrch088s		1	1	0.0
+2026-10-14		VFB_jrch088s	VFB_00101384	1	1	0.0
+2026-10-14		VFB_jrch08px		1	1	0.0
+2026-10-14		VFB_jrch08px	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrchjrpn		1	1	0.0
+2026-10-14		VFB_jrchjrpn	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrchjugx		1	1	0.0
+2026-10-14		VFB_jrchjugx	VFB_00101384	1	1	0.0
+2026-10-14		VFB_jrchjxl7		1	1	0.0
+2026-10-14		VFB_jrchjxl7	VFB_00101384	1	1	0.0
+2026-10-14		VFB_jrchjzff		1	1	0.0
+2026-10-14		VFB_jrchjzff	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrchk4es		1	1	0.0
+2026-10-14		VFB_jrchk4es	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrchk7sr		1	1	0.0
+2026-10-14		VFB_jrchk7sr	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrchk7yg		40	40	4.0
+2026-10-14		VFB_jrchk7yg	VFB_00101567	38	38	0.0
+2026-10-14		VFB_jrcv09zg		6	1	0.0
+2026-10-14		VFB_jrcv09zg	VFB_00101567	5	2	0.0
+2026-10-14		VFB_jrcv09zg	VFB_00200000	1	1	0.0
+2026-10-14		VFB_jrcv0fpo		1	1	0.0
+2026-10-14		VFB_jrcv0fpo	VFB_00200000	1	1	0.0
+2026-10-14		VFB_jrmc0nip		8	1	8.0
+2026-10-14		VFB_jrmc0nip	VFB_00101567	7	2	0.0
+2026-10-14		VFB_jrmc0nip	VFB_00200000	2	1	0.0
+2026-10-14		VFB_jrmc10fc		1	1	0.0
+2026-10-14		VFB_jrmc10fc	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrmc1joa		6	1	0.0
+2026-10-14		VFB_jrmc1joa	VFB_00101567	6	3	0.0
+2026-10-14		VFB_jrmc22he		6	1	56.0
+2026-10-14		VFB_jrmc22he	VFB_00101567	6	2	0.0
+2026-10-14		VFB_jrmc2dbv		1	1	0.0
+2026-10-14		VFB_jrmc2dbv	VFB_00101567	1	1	0.0
+2026-10-14		VFB_jrmc2u90		5	1	0.0
+2026-10-14		VFB_jrmc2u90	VFB_00101567	6	2	0.0
+2026-10-14		VFB_jrmc2umq		3	1	0.0
+2026-10-14		VFB_jrmc2umq	VFB_00101567	2	2	0.0
+2026-10-14		VFB_jrmc2zzg		26	1	30.0
+2026-10-14		VFB_jrmc2zzg	VFB_00101567	27	2	0.0
+2026-10-14		VFB_jrmc300h		2	1	0.0
+2026-10-14		VFB_jrmc300h	VFB_00101567	2	2	0.0
+2026-10-14		VFB_jrmc30g3		3	1	0.0
+2026-10-14		VFB_jrmc30g3	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc35vd		6	1	33.0
+2026-10-14		VFB_jrmc35vd	VFB_00101567	6	3	0.0
+2026-10-14		VFB_jrmc37ii		12	1	9.0
+2026-10-14		VFB_jrmc37ii	VFB_00101567	12	2	0.0
+2026-10-14		VFB_jrmc37tx		9	1	5.0
+2026-10-14		VFB_jrmc37tx	VFB_00101567	10	3	0.0
+2026-10-14		VFB_jrmc3g06		3	1	0.0
+2026-10-14		VFB_jrmc3g06	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3goe		7	1	4.0
+2026-10-14		VFB_jrmc3goe	VFB_00101567	5	3	0.0
+2026-10-14		VFB_jrmc3hau		11	1	5.0
+2026-10-14		VFB_jrmc3hau	VFB_00101567	11	3	0.0
+2026-10-14		VFB_jrmc3hqb		29	2	129.0
+2026-10-14		VFB_jrmc3hqb	VFB_00101567	25	3	0.0
+2026-10-14		VFB_jrmc3j6d		3	1	112.0
+2026-10-14		VFB_jrmc3j6d	VFB_00101567	4	2	0.0
+2026-10-14		VFB_jrmc3j6i		3	1	0.0
+2026-10-14		VFB_jrmc3j6i	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3j6s		3	1	0.0
+2026-10-14		VFB_jrmc3j6s	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3j6t		3	1	0.0
+2026-10-14		VFB_jrmc3j6t	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3j6v		2	1	0.0
+2026-10-14		VFB_jrmc3j6v	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3j71		3	1	0.0
+2026-10-14		VFB_jrmc3j71	VFB_00101567	2	2	0.0
+2026-10-14		VFB_jrmc3j73		3	1	0.0
+2026-10-14		VFB_jrmc3j73	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3j74		7	1	0.0
+2026-10-14		VFB_jrmc3j74	VFB_00101567	8	2	0.0
+2026-10-14		VFB_jrmc3j7j		5	1	0.0
+2026-10-14		VFB_jrmc3j7j	VFB_00101567	5	4	0.0
+2026-10-14		VFB_jrmc3j7t		2	1	0.0
+2026-10-14		VFB_jrmc3j7t	VFB_00101567	2	2	0.0
+2026-10-14		VFB_jrmc3j86		18	3	2.0
+2026-10-14		VFB_jrmc3j86	VFB_00101567	18	6	0.0
+2026-10-14		VFB_jrmc3jgx		13	1	1.0
+2026-10-14		VFB_jrmc3jgx	VFB_00101567	13	3	0.0
+2026-10-14		VFB_jrmc3jgy		21	1	4.0
+2026-10-14		VFB_jrmc3jgy	VFB_00101567	21	2	0.0
+2026-10-14		VFB_jrmc3jv4		3	1	0.0
+2026-10-14		VFB_jrmc3jv4	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3jxr		2	1	0.0
+2026-10-14		VFB_jrmc3jxr	VFB_00101567	3	2	0.0
+2026-10-14		VFB_jrmc3ley		2	1	0.0
+2026-10-14		VFB_jrmc3ley	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00000451		2	1	0.0
+2026-10-14		VFBc_00000451	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00001221		2	1	0.0
+2026-10-14		VFBc_00001221	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00012842		2	1	0.0
+2026-10-14		VFBc_00012842	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00020126		2	1	0.0
+2026-10-14		VFBc_00020126	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00020506		2	1	0.0
+2026-10-14		VFBc_00020506	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00021389		2	1	0.0
+2026-10-14		VFBc_00021389	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00026379		2	1	0.0
+2026-10-14		VFBc_00026379	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00039202		2	1	0.0
+2026-10-14		VFBc_00039202	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00041849		2	1	0.0
+2026-10-14		VFBc_00041849	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00045773		2	1	0.0
+2026-10-14		VFBc_00045773	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00047054		2	1	0.0
+2026-10-14		VFBc_00047054	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00047824		1	1	0.0
+2026-10-14		VFBc_00048180		2	1	0.0
+2026-10-14		VFBc_00048180	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00058320		2	1	0.0
+2026-10-14		VFBc_00058320	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00064123		2	1	0.0
+2026-10-14		VFBc_00064123	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00064998		2	1	0.0
+2026-10-14		VFBc_00064998	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00068791		2	1	0.0
+2026-10-14		VFBc_00068791	VFB_00101567	1	1	0.0
+2026-10-14		VFBc_00069251		2	1	0.0
+2026-10-14		VFBc_00069251	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00100151		1	1	0.0
+2026-10-14		VFBc_00100151	VFB_00101567	1	1	0.0
+2026-10-14		VFBc_00100h98		2	1	0.0
+2026-10-14		VFBc_00100h98	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00100wwd		2	1	0.0
+2026-10-14		VFBc_00100wwd	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00100yro		2	1	0.0
+2026-10-14		VFBc_00100yro	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00101170		2	1	0.0
+2026-10-14		VFBc_00101170	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00101379		2	1	0.0
+2026-10-14		VFBc_00101379	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00101stf		2	1	0.0
+2026-10-14		VFBc_00101stf	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00101uns		2	1	0.0
+2026-10-14		VFBc_00101uns	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_001023ck		2	1	0.0
+2026-10-14		VFBc_001023ck	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_00102ezw		4	2	0.0
+2026-10-14		VFBc_00102ezw	VFB_00101567	4	4	0.0
+2026-10-14		VFBc_00104085		2	1	0.0
+2026-10-14		VFBc_00104085	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch03ui		2	1	0.0
+2026-10-14		VFBc_jrch03ui	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch07dm		2	1	0.0
+2026-10-14		VFBc_jrch07dm	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch07i5		2	1	0.0
+2026-10-14		VFBc_jrch07i5	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch07rj		2	1	0.0
+2026-10-14		VFBc_jrch07rj	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch090v		2	1	0.0
+2026-10-14		VFBc_jrch090v	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch0c8l		2	1	0.0
+2026-10-14		VFBc_jrch0c8l	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch0gf0		2	1	0.0
+2026-10-14		VFBc_jrch0gf0	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrch0gm5		2	1	0.0
+2026-10-14		VFBc_jrch0gm5	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchjspm		2	1	0.0
+2026-10-14		VFBc_jrchjspm	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchjsst		2	1	0.0
+2026-10-14		VFBc_jrchjsst	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchjuut		2	1	0.0
+2026-10-14		VFBc_jrchjuut	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchjyo1		2	1	0.0
+2026-10-14		VFBc_jrchjyo1	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchjzc4		2	1	0.0
+2026-10-14		VFBc_jrchjzc4	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchjzxl		2	1	0.0
+2026-10-14		VFBc_jrchjzxl	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchk0es		4	2	0.0
+2026-10-14		VFBc_jrchk0es	VFB_00101567	4	4	0.0
+2026-10-14		VFBc_jrchk2db		2	1	0.0
+2026-10-14		VFBc_jrchk2db	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchk43l		2	1	0.0
+2026-10-14		VFBc_jrchk43l	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchk56r		2	1	0.0
+2026-10-14		VFBc_jrchk56r	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrchk8ci		2	1	0.0
+2026-10-14		VFBc_jrchk8ci	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrcv08es		2	1	0.0
+2026-10-14		VFBc_jrcv08es	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrcv09u0		4	2	0.0
+2026-10-14		VFBc_jrcv09u0	VFB_00101567	4	4	0.0
+2026-10-14		VFBc_jrcv0c05		2	1	0.0
+2026-10-14		VFBc_jrcv0c05	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrcv0ctr		2	1	0.0
+2026-10-14		VFBc_jrcv0ctr	VFB_00101567	2	2	0.0
+2026-10-14		VFBc_jrcv0igl		2	1	0.0
+2026-10-14		VFBc_jrcv0igl	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBti0003		2	1	0.0
+2026-10-14		VFBexp_FBti0003	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBtp0022		7	1	141.0
+2026-10-14		VFBexp_FBtp0022	VFB_00101567	7	3	0.0
+2026-10-14		VFBexp_FBtp0058		6	3	0.0
+2026-10-14		VFBexp_FBtp0058	VFB_00101567	6	6	0.0
+2026-10-14		VFBexp_FBtp0059		2	1	0.0
+2026-10-14		VFBexp_FBtp0059	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBtp0060		4	2	0.0
+2026-10-14		VFBexp_FBtp0060	VFB_00101567	4	4	0.0
+2026-10-14		VFBexp_FBtp0062		6	3	0.0
+2026-10-14		VFBexp_FBtp0062	VFB_00101567	5	5	0.0
+2026-10-14		VFBexp_FBtp0063		4	1	0.0
+2026-10-14		VFBexp_FBtp0063	VFB_00101567	4	2	0.0
+2026-10-14		VFBexp_FBtp0104		2	1	0.0
+2026-10-14		VFBexp_FBtp0104	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBtp0106		2	1	0.0
+2026-10-14		VFBexp_FBtp0106	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBtp0107		2	1	0.0
+2026-10-14		VFBexp_FBtp0107	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBtp0112		2	1	0.0
+2026-10-14		VFBexp_FBtp0112	VFB_00101567	2	2	0.0
+2026-10-14		VFBexp_FBtp0117		2	1	0.0
+2026-10-14		VFBexp_FBtp0117	VFB_00101567	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00000052	VFB_00050000	1	1	8.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001084		1	1	10.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001084	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001426	VFB_00050000	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001727	VFB_00050000	1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001911	VFB_00050000	1	1	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001972		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00001972	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00002996		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00002996	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003004	VFB_00101567	44	72	523.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003008	VFB_00101567	1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003323		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003480		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003624		5	5	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003624	VFB_00101567	140	262	1242.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003626	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003632	VFB_00101567	7	20	5.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003668	VFB_00101567	8	15	6.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003678	VFB_00101567	20	42	11.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003679	VFB_00101567	10	21	9.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003680	VFB_00101567	16	32	27.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003681	VFB_00101567	52	106	527.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003682	VFB_00101567	1	3	11.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003684	VFB_00017894	1	2	11.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003684	VFB_00101567	7	15	19.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003701	VFB_00101567	11	24	15.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003748	VFB_00101567	73	145	805.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003852	VFB_00101567	2	5	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003924	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00003982	VFB_00101567	1	3	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00004013		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00004013	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00004020	VFB_00101567	8	16	7.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00004029		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00004091	VFB_00200000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00005093	VFB_00050000	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00005093	VFB_00101567	37	62	213.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00005093	VFB_00200000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00005131	VFB_00101567	1	2	16.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00005137	VFB_00101567	1	2	34.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00006007	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007011	VFB_00101567	1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007016	VFB_00101567	1	1	168.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007050	VFB_00101567	14	34	18.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007053	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007054	VFB_00101567	8	17	11.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007055	VFB_00101567	3	7	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007058	VFB_00101567	2	4	30.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007059	VFB_00101567	4	11	15.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007092		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007092	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007145	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007146	VFB_00101567	6	11	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007147	VFB_00101567	5	14	4.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007385	VFB_00101567	4	7	47.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007401	VFB_00101567	1	4	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007453	VFB_00101567	6	12	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007677	VFB_00101567	2	4	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007683	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00007685	VFB_00101567	1	2	24.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00014013		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00014013	VFB_00101567	19	41	94.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00015407	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040001	VFB_00017894	1	3	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040001	VFB_00101567	3	9	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040002	VFB_00101567	1	2	43.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040005	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040007	VFB_00017894	1	2	11.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040007	VFB_00101567	3	5	4.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040037	VFB_00101567	6	17	153.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040038	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040039	VFB_00101567	0	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040040	VFB_00101567	2	4	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040041	VFB_00101567	37	75	120.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040042	VFB_00017894	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040042	VFB_00101567	32	62	560.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040043	VFB_00101567	39	79	185.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040044	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040049	VFB_00101567	2	4	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040051	VFB_00101567	4	10	6.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040060	VFB_00101567	2	4	19.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00040072	VFB_00101567	0	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045003	VFB_00101567	6	10	126.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045004	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045021	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045027	VFB_00101567	17	38	135.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045030	VFB_00101567	1	5	23.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045032	VFB_00101567	7	11	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045037	VFB_00101567	1	3	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045040	VFB_00101567	2	4	20.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045047	VFB_00101567	2	5	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045048	VFB_00101567	36	74	609.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045050	VFB_00101567	11	26	5.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00045051	VFB_00101567	25	36	20.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047110		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047174	VFB_00200000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047486	VFB_00101567	3	2	1320.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047516		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047516	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047541	VFB_00200000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047814	VFB_00050000	1	2	7.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047887	VFB_00101567	27	64	995.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00047907	VFB_00101567	1	2	77.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00048190		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00048190	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00048449		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00048449	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00048509	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00049143		3	3	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00049143	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00049781		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00049781	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00049815		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00049815	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00050042		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00050042	VFB_00101567	1	3	34.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00050144	VFB_00101567	1	3	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00051067		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00051067	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00051240	VFB_00101567	2	3	12.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00052032		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00052032	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00052538	VFB_00101567	1	2	9.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00052680		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00052680	VFB_00101567	1	5	31.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00052824		2	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00053038	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00053334		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00053334	VFB_00101567	3	5	368.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00053339	VFB_00101567	2	2	9.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00053384	VFB_00101567	13	27	7.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00058440		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00058440	VFB_00101567	1	2	23.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00059274	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00067063	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100138		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100138	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100163	VFB_00101567	7	14	8.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100191		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100191	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100210		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100210	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100313	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00100734		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110000	VFB_00101567	5	10	5.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110034	VFB_00017894	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110174	VFB_00200000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110176	VFB_00200000	2	4	81.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110587	VFB_00101567	3	2	8.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110636	VFB_00101567	12	29	743.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110638	VFB_00101567	4	10	58.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110639	VFB_00101567	5	13	5.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00110657	VFB_00101567	8	13	31.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00111086	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00111746		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_00111746	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_10000000	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000042		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000042	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000076	VFB_00101567	2	3	12.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000249		2	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000249	VFB_00101567	2	4	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000748		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000863		2	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20000863	VFB_00101567	2	4	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20001827		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20001827	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20002011		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20002011	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20002902		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20002902	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003147		0	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003147	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003375		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003375	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003443		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003443	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20003946	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20004037		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20004058		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20004058	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20005652	VFB_00101567	1	2	91.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20006018		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20006411		2	2	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20006411	VFB_00101567	2	4	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20006682	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20006945		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007256		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007256	VFB_00101567	1	3	6.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007396		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007396	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007433		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007433	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007470	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007599		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007599	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20007860		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20008793		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20008858		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20008858	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20009237		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20009237	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20009327		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20009327	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20009580		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20009580	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20010290		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20010290	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20010558		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20011014		1	1	11.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20011041		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20011041	VFB_00101567	1	2	9.0
+2026-10-14	v2.virtualflybrain.org	FBbt_20011373		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	FBcv_0003023	VFB_00101567	1	3	1.0
+2026-10-14	v2.virtualflybrain.org	GO_0000287		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0000287	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0004532		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0004784		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0014055	VFB_00101567	2	3	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0016411		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0030971		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0032794		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0032794	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0034763		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	GO_0045309		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0048029		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	GO_0048029	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	GO_0050840		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	GO_0050840	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0051053		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	GO_0051053	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	GO_0051254		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	GO_0061534	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	GO_1903047		2	2	2.0
+2026-10-14	v2.virtualflybrain.org	GO_1903047	VFB_00101567	2	4	0.0
+2026-10-14	v2.virtualflybrain.org	GO_1904538		2	2	4.0
+2026-10-14	v2.virtualflybrain.org	GO_1904538	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00000606		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00004340	VFB_00004340	2	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00011604	VFB_00017894	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00011624		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00011624	VFB_00101567	1	2	41.0
+2026-10-14	v2.virtualflybrain.org	VFB_00015484	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00017894	VFB_00017894	1	1	109.0
+2026-10-14	v2.virtualflybrain.org	VFB_00020342		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00020806		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00021501		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00022309	VFB_00101567	7	2	92.0
+2026-10-14	v2.virtualflybrain.org	VFB_00027126		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00028317		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030633		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030804	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030821		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030849	VFB_00101567	1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030867	VFB_00017894	1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030867	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030870	VFB_00017894	2	2	29.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030870	VFB_00101567	1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030875	VFB_00017894	2	7	118.0
+2026-10-14	v2.virtualflybrain.org	VFB_00030875	VFB_00101567	1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_00040103		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00042116		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00042872		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00044456	VFB_00017894	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00044456	VFB_00101567	5	4	65.0
+2026-10-14	v2.virtualflybrain.org	VFB_00044525		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00045221		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFB_00045726	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00046293		1	1	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_00046449		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00046883		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00048460		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00049000	VFB_00049000	4	4	28.0
+2026-10-14	v2.virtualflybrain.org	VFB_00050000	VFB_00050000	37	47	1192.0
+2026-10-14	v2.virtualflybrain.org	VFB_00050295		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00050508		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_00050508	VFB_00049000	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00063821	VFB_00101567	8	8	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_00064325		1	1	15.0
+2026-10-14	v2.virtualflybrain.org	VFB_00065634		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00066490		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00069447		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00069630		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100214		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010023n	VFB_00050000	2	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010024j	VFB_00050000	1	4	56.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010024x	VFB_00050000	0	1	41.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010025t	VFB_00101567	1	2	25.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010027z	VFB_00050000	2	3	12.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010027z	VFB_00101567	1	3	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100661	VFB_00050000	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100670	VFB_00050000	2	3	56.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100672	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100828	VFB_00050000	2	2	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100828	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100922	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100954	VFB_00050000	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100954	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100962	VFB_00050000	1	2	278.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100980	VFB_00050000	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100990	VFB_00050000	1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100eof		1	1	11.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100eof	VFB_00200000	1	7	64.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100i5o		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100iab		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ux7		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wul	VFB_00101567	7	3	379.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wum	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wun	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wuo	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wuq	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wur	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wus	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wux	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wv0	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wv2	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wv3	VFB_00101567	1	2	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wv4	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wv8	VFB_00101567	1	2	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvc	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvf	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvg	VFB_00101567	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvh	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvi	VFB_00101567	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvo	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvq	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvu	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvv	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvw	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wvx	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ww0	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ww1	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ww4	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ww5	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ww7	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100ww8	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwd	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwh	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwi	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwj	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwl	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwp	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwq	VFB_00101567	0	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwr	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wws	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwu	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100www	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwx	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwy	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wwz	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx0	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx2	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx3	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx5	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx6	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx8	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wx9	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxb	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxd	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxf	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxg	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxi	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxl	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxq	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxr	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxs	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100wxt	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00100yul		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101013	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101017	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101020	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101027	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101049	VFB_00050000	2	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101065	VFB_00050000	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101069	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_001011xg		2	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_001013qi	VFB_00101567	1	1	9.0
+2026-10-14	v2.virtualflybrain.org	VFB_001013qq		1	1	9.0
+2026-10-14	v2.virtualflybrain.org	VFB_001013qq	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101419	VFB_00101384	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101419	VFB_00101567	1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101441		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_001014sp		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101534		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101544	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101567		2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101567	VFB_00101567	1210	1898	24712.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101572	VFB_00050000	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101d3e		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101fj0		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101oi3		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101oi3	VFB_00101oi3	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101s0l		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00101yuw		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102072		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102107	VFB_00101567	16	22	66.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102108	VFB_00101567	7	11	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102109	VFB_00101567	2	5	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102110	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102114	VFB_00101567	3	6	111.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102118	VFB_00101567	1	3	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102119	VFB_00101567	1	4	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102133	VFB_00101567	5	4	88.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102134	VFB_00101567	2	3	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102135	VFB_00101567	7	8	35.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102139	VFB_00101567	1	4	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102141	VFB_00101567	6	15	45.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102146	VFB_00101567	3	3	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102148	VFB_00101567	4	5	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102152	VFB_00101567	3	3	14.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102154	VFB_00101567	5	7	100.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102159	VFB_00101567	2	4	11.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102162	VFB_00101567	3	4	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102164	VFB_00101567	1	3	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102170	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102174	VFB_00101567	1	3	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102201	VFB_00101567	3	6	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102212	VFB_00101567	3	4	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102213	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102271	VFB_00101567	8	11	13.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102274	VFB_00101567	1	4	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102275	VFB_00101567	2	4	24.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102276	VFB_00101567	1	4	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102280	VFB_00101567	1	3	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102281	VFB_00101567	2	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102282	VFB_00101567	8	11	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001023hb		1	1	14.0
+2026-10-14	v2.virtualflybrain.org	VFB_001026sz		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_001026sz	VFB_001026sz	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102757	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102761	VFB_00101567	2	3	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_001027kg		1	1	9.0
+2026-10-14	v2.virtualflybrain.org	VFB_001027kg	VFB_00200000	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001028u4		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_001029ih		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102e0y	VFB_00102e0y	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00102e0y	VFB_00120000	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001038f3	VFB_00101567	1	2	10.0
+2026-10-14	v2.virtualflybrain.org	VFB_00103cpg	VFB_00200000	1	2	13.0
+2026-10-14	v2.virtualflybrain.org	VFB_001050xi		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00105b3n		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_0010644l		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001064uj		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001066dy		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001067oe		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00106daf		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00107u4g		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_00107u4g	VFB_00200000	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00108cg2	VFB_00101567	3	3	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00108rzf	VFB_00101567	1	1	17.0
+2026-10-14	v2.virtualflybrain.org	VFB_00108s0d		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_00108w0p	VFB_00101567	28	35	90.0
+2026-10-14	v2.virtualflybrain.org	VFB_00108w4d	VFB_00101567	2	3	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001091r4	VFB_00101567	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001091rp	VFB_00101567	8	8	21.0
+2026-10-14	v2.virtualflybrain.org	VFB_001091s1	VFB_00101567	2	2	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_001091s4	VFB_00101567	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_001091xz	VFB_00101567	1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_00110000	VFB_00110000	2	2	35.0
+2026-10-14	v2.virtualflybrain.org	VFB_00120000	VFB_00120000	2	2	13.0
+2026-10-14	v2.virtualflybrain.org	VFB_00200000	VFB_00200000	10	12	88.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw002259		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw002671	VFB_00101567	0	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw003647		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw006149		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw006478		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw011266		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw012322		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw012987		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw014722		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw022022		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw027869		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw033737		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw033737	VFB_00101567	1	1	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw034944		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw036574	VFB_00101567	1	3	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw036628		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw043532	VFB_00101567	2	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw062037		1	1	20.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw062037	VFB_00101567	2	2	41.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw122000		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw124398		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw129874		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw130623	VFB_00101567	1	1	29.0
+2026-10-14	v2.virtualflybrain.org	VFB_fw133513		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch00yk	VFB_jrch00yk	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch040k	VFB_jrch040k	2	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch04z8	VFB_jrch04z8	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch05jv		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch06kv	VFB_jrch06kv	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch07f2		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch088s		1	1	10.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch08px		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch09n2		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch0awe		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch0cry		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch0d9p		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch0ec9	VFB_jrch0ec9	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrch0emf		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjrpn		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjrpn	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjs0s		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjsp6		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjsyp		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjtnb		1	1	15.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjuee		1	1	10.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjugx		1	1	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjugx	VFB_00101384	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjuxk		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjxl7		1	1	11.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjxl7	VFB_00101384	1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjytu		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjzff		1	1	9.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjzff	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjznr		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchjzpv		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchk3ra		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchk4es		1	1	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchk4es	VFB_00101567	1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchk5qu		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchk7sr		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrchk7yg	VFB_00101567	34	34	35.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv09ap		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv09zg	VFB_00101567	2	3	14.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv09zg	VFB_00200000	3	3	47.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0b80		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0dem		3	3	10.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0dsc		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0evg		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0fpo		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0fpo	VFB_00200000	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv0it4		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrcv3bd4		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc005w		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc006f		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc0nip	VFB_00101567	2	2	8.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc0nip	VFB_00200000	1	1	14.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc10fc		1	1	11.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc10fc	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc1joa	VFB_00101567	2	3	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc20b9	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc20lp		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc20pp		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc22he	VFB_00101567	2	2	20.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc25r9		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc25ro		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc25ui		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc27is		0	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc27kp		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc27r9		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2dbv		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2dbv	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2hii	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2jch		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2jv5		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2jvf		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2kak		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2kul		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2m26		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2n0i		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2q3e		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2qjt		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2u90	VFB_00101567	2	2	103.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2umq	VFB_00101567	1	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2vsm		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc2zzg	VFB_00101567	2	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc300h	VFB_00101567	1	2	29.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc30g3	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc35vd	VFB_00101567	2	3	34.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc37hv		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc37ii	VFB_00101567	1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc37tx	VFB_00101567	3	3	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc38ma		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3g06	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3g7h		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3goe	VFB_00101567	3	3	4.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3hau	VFB_00101567	3	3	22.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3hqb	VFB_00101567	4	2	88.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3idt		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j6d	VFB_00101567	2	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j6i	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j6s	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j6t	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j6v	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j71	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j73	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j74	VFB_00101567	2	2	10.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j7j	VFB_00101567	2	4	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j7t	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3j86	VFB_00101567	4	6	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3jgx	VFB_00101567	2	2	25.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3jgy	VFB_00101567	3	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3jv4	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3jxr	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFB_jrmc3ley	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00000451		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00000451	VFB_00101567	1	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00001221		1	1	8.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00001221	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00004056		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00007745		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00012842		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00012842	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00020126		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00020126	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00020506		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00020506	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00021389		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00021389	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00021766		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00024657		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00026379		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00026379	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00039202		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00039202	VFB_00101567	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00040705		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00041488		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00041849		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00041849	VFB_00101567	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00042080		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00045255		1	1	7.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00045773		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00045773	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00045830		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00047054		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00047054	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00047734		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00048180		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00048180	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00058320		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00058320	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00064123		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00064123	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00064998		1	1	11.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00064998	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00067704		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00068791		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00068791	VFB_00101567	0	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00069251		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00069251	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00069440		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100151		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100151	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100h98		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100h98	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100wwd		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100wwd	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100yro		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00100yro	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101117		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101170		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101170	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101379		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101379	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101stf		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101stf	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101uck		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101uns		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00101uns	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00102268		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_001022bx		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_001023ck		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_001023ck	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00102ezw		2	2	5.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00102ezw	VFB_00101567	2	4	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00104085		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_00104085	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch015j		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch01ym		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch03ui		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch03ui	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch06id		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch07dm		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch07dm	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch07i5		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch07i5	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch07rj		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch07rj	VFB_00101567	1	2	4.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch090v		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch090v	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0c2l		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0c8l		1	1	4.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0c8l	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0dax		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0fk7		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0g34		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0gf0		0	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0gf0	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0gg4		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0gm5		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrch0gm5	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjspm		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjspm	VFB_00101567	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjsst		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjsst	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjtwz		1	1	11.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjuut		1	1	9.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjuut	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjw4j		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjyo1		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjyo1	VFB_00101567	1	2	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjzc4		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjzc4	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjzxl		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchjzxl	VFB_00101567	1	2	10.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk0es		2	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk0es	VFB_00101567	2	4	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk2db		1	1	5.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk2db	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk38g		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk43l		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk43l	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk56r		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk56r	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk8ci		1	1	3.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrchk8ci	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv08es		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv08es	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv09u0		3	3	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv09u0	VFB_00101567	2	4	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv0c05		1	1	9.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv0c05	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv0ctr		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv0ctr	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv0igl		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBc_jrcv0igl	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBti0003	VFB_00101567	1	2	1.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0022	VFB_00101567	3	2	6.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0058		3	3	8.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0058	VFB_00101567	4	7	38.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0059		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0059	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0060		2	2	2.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0060	VFB_00101567	2	4	8.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0062	VFB_00101567	2	4	81.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0063		1	1	6.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0063	VFB_00101567	6	4	355.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0104		1	1	2.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0104	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0106		1	1	1.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0106	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0107	VFB_00101567	3	2	39.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0112	VFB_00101567	1	2	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0117		1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0117	VFB_00101567	1	2	8.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0121	VFB_00101567	1	1	0.0
+2026-10-14	v2.virtualflybrain.org	VFBexp_FBtp0122		2	2	0.0
