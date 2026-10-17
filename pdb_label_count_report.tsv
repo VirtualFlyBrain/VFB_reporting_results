@@ -3,7 +3,7 @@ node	API	8
 node	Acetylcholine_receptor	13
 node	Adult	808557
 node	Anatomy	798239
-node	AnnotationProperty	344
+node	AnnotationProperty	348
 node	Assay	108
 node	Auditory_system	1777
 node	Calcium_binding	75
@@ -24,7 +24,7 @@ node	DataSet	219
 node	Deprecated	39051
 node	Dopamine_receptor	4
 node	Dopaminergic	20237
-node	Entity	1871158
+node	Entity	1871202
 node	Enzyme	3734
 node	Expression_pattern	110359
 node	Expression_pattern_fragment	92399
@@ -47,7 +47,7 @@ node	Histamine_receptor	2
 node	Histaminergic	24512
 node	Hormone	23
 node	Hygrosensory_system	579
-node	Individual	1736762
+node	Individual	1736802
 node	Ion_channel	395
 node	L1EM	5051
 node	Larva	23439
@@ -79,7 +79,7 @@ node	Peptide_or_protein_hormone_receptor	71
 node	Peptidergic	20177
 node	Person	6
 node	Photoreceptor	12
-node	Property	737
+node	Property	741
 node	Proprioceptive_system	3134
 node	RNA_binding	490
 node	Receptor	592
@@ -111,7 +111,7 @@ node	Visual_system	352466
 node	hasScRNAseq	13387
 node	has_image	803845
 node	has_neuron_connectivity	491130
-node	has_region_connectivity	392249
+node	has_region_connectivity	528127
 node	has_subClass	8832
 node	lineage_0_MNB	1190
 node	lineage_10_NB2-2	1484
@@ -274,13 +274,13 @@ node	lineage_WEDa1_BAlv	633
 node	lineage_WEDa2_BAlp3	810
 node	lineage_WEDd1_DALd	795
 node	lineage_WEDd2_BAmd2	287
-node	neuronbridge	44696
+node	neuronbridge	286639
 node	preferred_root	5
 node	primary_neuron	24500
 node	pub	5917
 node	scRNAseq_DataSet	24
 node	secondary_neuron	186604
-relationship	INSTANCEOF	2773352
+relationship	INSTANCEOF	2773392
 relationship	SUBCLASSOF	206687
 relationship	achieves_planned_objective	8
 relationship	adjacent_to	15
@@ -349,9 +349,9 @@ relationship	has_origin	29
 relationship	has_output	12
 relationship	has_part	19248
 relationship	has_participant	11
-relationship	has_postsynaptic_terminal_in	2788256
+relationship	has_postsynaptic_terminal_in	3298416
 relationship	has_potential_to_develop_into	3
-relationship	has_presynaptic_terminals_in	2273637
+relationship	has_presynaptic_terminals_in	2749610
 relationship	has_quality	170
 relationship	has_reference	517156
 relationship	has_role	105
@@ -361,7 +361,7 @@ relationship	has_sequence	2
 relationship	has_sequence_attribute	2
 relationship	has_sequence_feature	3
 relationship	has_similar_morphology_to	47501032
-relationship	has_similar_morphology_to_part_of	664699
+relationship	has_similar_morphology_to_part_of	6806275
 relationship	has_soma_location	549961
 relationship	has_source	1043394
 relationship	has_specified_input	3
@@ -407,8 +407,8 @@ relationship	non_functional_homolog_of	4
 relationship	occurs_in	48
 relationship	only_in_taxon	8
 relationship	output_of	3
-relationship	overlaps	557216
-relationship	part_of	1268714
+relationship	overlaps	557174
+relationship	part_of	1268715
 relationship	partially_surrounded_by	1
 relationship	participates_in	1
 relationship	positively_regulates	409
