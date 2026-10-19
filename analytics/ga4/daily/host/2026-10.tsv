@@ -1112,15 +1112,42 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-10-16	workshop.virtualflybrain.org	28	25	38	37	66	707	186
 2026-10-16	www-virtualflybrain-org.translate.goog	5	5	6	6	15	205	47
 2026-10-16	www.virtualflybrain.org	6964	6969	7356	7287	7964	25471	24365
-2026-10-17		746	0	757	715	5095	2164	5276
-2026-10-17	buttermilk.inf.ed.ac.uk	14	14	14	14	14	0	42
-2026-10-17	dill.inf.ed.ac.uk	29	29	29	29	29	1	89
-2026-10-17	flybrain.inf.ed.ac.uk	10	10	10	10	10	0	30
-2026-10-17	l1em.catmaid.virtualflybrain.org	1	0	1	1	1	7	4
-2026-10-17	mayo.inf.ed.ac.uk	16	16	16	16	16	0	48
-2026-10-17	v2.virtualflybrain.org	2177	1697	2203	1967	3220	22661	18733
+2026-10-17		1309	0	1357	1310	10935	5518	10938
+2026-10-17	(not set)	1	0	0	0	0	0	359
+2026-10-17	buttermilk.inf.ed.ac.uk	18	18	18	18	18	0	54
+2026-10-17	catmaid-fafb.virtualflybrain.org	1	1	1	1	1	4	5
+2026-10-17	dill.inf.ed.ac.uk	45	45	45	45	45	3	139
+2026-10-17	flybrain.inf.ed.ac.uk	17	17	17	17	17	0	51
+2026-10-17	flybrain.mrc-lmb.cam.ac.uk	1	0	1	1	1	19	1
+2026-10-17	l1em.catmaid.virtualflybrain.org	3	0	3	3	3	36	12
+2026-10-17	localhost	1	1	2	2	2	0	5
+2026-10-17	mayo.inf.ed.ac.uk	18	18	18	18	18	0	54
+2026-10-17	owl.virtualflybrain.org	1	1	1	1	1	8	4
+2026-10-17	pypi.org	1	0	1	1	1	37	1
+2026-10-17	raw.larval.flylight.virtualflybrain.org	1	1	1	1	1	5	5
+2026-10-17	v2.virtualflybrain.org	3674	2831	3713	3475	5818	42503	34495
 2026-10-17	vfbk8s11.inf.ed.ac.uk	1	1	1	1	1	3	4
-2026-10-17	virtualflybrain.org	237	222	239	228	232	256	731
-2026-10-17	workshop.virtualflybrain.org	6	3	9	7	18	21	40
-2026-10-17	www-virtualflybrain-org.translate.goog	2	2	2	2	2	5	7
-2026-10-17	www.virtualflybrain.org	2685	2603	2720	2682	2888	6764	8947
+2026-10-17	virtualflybrain.org	558	534	564	552	610	1291	1855
+2026-10-17	workshop-virtualflybrain-org.translate.goog	1	1	1	1	4	39	13
+2026-10-17	workshop.virtualflybrain.org	13	12	24	22	51	461	123
+2026-10-17	www-virtualflybrain-org.translate.goog	7	7	7	7	8	37	28
+2026-10-17	www.virtualflybrain.org	4097	4007	4218	4165	4725	15142	14652
+2026-10-18		597	0	604	603	4588	2940	4755
+2026-10-18	buttermilk.inf.ed.ac.uk	3	3	3	3	3	0	9
+2026-10-18	dill.inf.ed.ac.uk	8	8	8	8	8	0	24
+2026-10-18	flybrain.inf.ed.ac.uk	7	7	7	7	7	1	23
+2026-10-18	iav-tnt.catmaid.virtualflybrain.org	1	1	1	1	1	1	5
+2026-10-18	mayo.inf.ed.ac.uk	7	7	7	7	7	9	23
+2026-10-18	v2-virtualflybrain-org.translate.goog	1	1	1	1	15	64	90
+2026-10-18	v2.virtualflybrain.org	993	810	1012	1002	1935	12188	10986
+2026-10-18	v2a.virtualflybrain.org	1	0	1	1	3	32	15
+2026-10-18	vfbk8s10.inf.ed.ac.uk	1	1	1	1	2	10	6
+2026-10-18	vfbk8s11.inf.ed.ac.uk	2	2	2	2	2	0	6
+2026-10-18	vfbk8s7.inf.ed.ac.uk	2	2	2	2	2	0	6
+2026-10-18	vfbk8s9.inf.ed.ac.uk	3	3	3	3	3	0	9
+2026-10-18	virtualflybrain-org.translate.goog	1	1	1	1	1	23	5
+2026-10-18	virtualflybrain.org	450	442	451	449	464	267	1401
+2026-10-18	workshop-virtualflybrain-org.translate.goog	1	1	1	1	1	36	5
+2026-10-18	workshop.virtualflybrain.org	11	7	11	11	18	196	50
+2026-10-18	www-virtualflybrain-org.translate.goog	5	4	5	5	8	300	23
+2026-10-18	www.virtualflybrain.org	1387	1345	1406	1395	1547	4925	4897
