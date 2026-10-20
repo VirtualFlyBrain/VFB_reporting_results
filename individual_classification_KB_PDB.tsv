@@ -5,9 +5,9 @@ FBbt_00058206	adult dopaminergic neuron	14405	0
 FBbt_00059289	adult VNC neuron	13525	1
 FBbt_00048138	mushroom body dopaminergic neuron	11108	0
 FBbt_00058207	adult GABAergic neuron	10979	0
-FBbt_00047095	adult neuron	10930	544081
+FBbt_00047095	adult neuron	10930	544066
 FBbt_00001446	larval neuron	10357	0
-FBbt_00001985	mesothoracic neuron	4206	0
+FBbt_00001985	mesothoracic neuron	4207	0
 FBbt_00001984	prothoracic neuron	3621	0
 FBbt_00001986	metathoracic neuron	3580	0
 FBbt_00110385	adult VPNd2 lineage neuron	2750	0
@@ -78,7 +78,7 @@ FBbt_00007441	adult multiglomerular antennal lobe projection neuron	210	4
 FBbt_00050138	adult EBa1 lineage neuron	206	0
 FBbt_00050242	adult WEDd1 lineage neuron	204	0
 FBbt_00100734	DALv3 lineage neuron	200	0
-FBbt_00051964	adult efferent neuron	194	0
+FBbt_00051964	adult efferent neuron	193	0
 FBbt_00050165	adult PSp2 lineage neuron	190	0
 FBbt_00048301	adult ascending neuron	185	7
 FBbt_00050141	adult LHp2 lineage neuron	184	0
@@ -426,7 +426,7 @@ FBbt_00111260	larval A10j neuron	0	4
 FBbt_00003686	Kenyon cell	0	185
 FBbt_00110172	asymmetrical body	0	4
 FBbt_00047097	primary neuron	0	3748
-FBbt_00049540	Notch OFF hemilineage neuron	0	21253
+FBbt_00049540	Notch OFF hemilineage neuron	0	21255
 FBbt_00047096	secondary neuron	0	12732
 FBbt_00005106	neuron	0	58209
 FBbt_00007683	neuroblast lineage clone	0	188

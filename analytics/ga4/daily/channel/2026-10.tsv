@@ -118,6 +118,11 @@ date	sessionDefaultChannelGroup	sessions	engagedSessions	userEngagementDuration
 2026-10-18	Organic Video	13	13	202
 2026-10-18	Referral	17	16	530
 2026-10-18	Unassigned	19	0	377
-2026-10-19	Direct	77	77	419
-2026-10-19	Organic Search	31	27	2221
-2026-10-19	Organic Video	1	1	0
+2026-10-19	(other)	2	0	0
+2026-10-19	AI Assistant	1	1	1
+2026-10-19	Direct	1671	1667	7571
+2026-10-19	Organic Search	309	291	14807
+2026-10-19	Organic Social	5	5	21
+2026-10-19	Organic Video	3	3	21
+2026-10-19	Referral	4	3	106
+2026-10-19	Unassigned	10	4	145

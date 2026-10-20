@@ -623,8 +623,19 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-18	yahoo	organic	5	4	303
 2026-10-18	yandex.ru	referral	2	2	42
 2026-10-18	youtube.com	referral	12	12	184
-2026-10-19	(direct)	(none)	77	77	419
-2026-10-19	bing	organic	5	3	102
-2026-10-19	duckduckgo	organic	2	1	13
-2026-10-19	google	organic	24	23	2106
-2026-10-19	youtube.com	referral	1	1	0
+2026-10-19	(direct)	(none)	1671	1667	7571
+2026-10-19	(not set)	(not set)	10	4	145
+2026-10-19	(other)	(other)	2	0	0
+2026-10-19	bing	organic	37	34	1636
+2026-10-19	cn.bing.com	referral	2	1	0
+2026-10-19	codex.flywire.ai	referral	1	1	23
+2026-10-19	coracle.social	referral	1	0	0
+2026-10-19	duckduckgo	organic	7	6	185
+2026-10-19	ecosia.org	organic	1	1	328
+2026-10-19	euc-word-edit.officeapps.live.com	referral	1	1	6
+2026-10-19	facebook.com	referral	5	5	21
+2026-10-19	gemini.google.com	ai-assistant	1	1	1
+2026-10-19	google	organic	260	248	12658
+2026-10-19	search.brave.com	referral	1	1	77
+2026-10-19	yahoo	organic	2	1	0
+2026-10-19	youtube.com	referral	3	3	21
