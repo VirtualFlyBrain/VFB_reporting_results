@@ -4903,7 +4903,7 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-09	zhifu.virtualflybrain.org	2	2	2	2	2	8	8
 2026-09	zip.virtualflybrain.org	59	59	59	59	59	0	178
 2026-09	zobrogaming.home.blog	1	1	1	1	1	0	4
-2026-10		14750	0	17842	17565	232014	176366	232608
+2026-10		15275	0	18280	18005	236274	178389	236933
 2026-10	(not set)	114	0	69	0	0	0	4384
 2026-10	(other)	21	15	21	0	127	1201	380
 2026-10	129.215.197.110	33	33	33	33	33	0	106
@@ -4935,11 +4935,11 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	blog.virtualflybrain.org	82	82	82	82	83	7	250
 2026-10	bocian-jenkins.virtualflybrain.org	42	42	42	42	42	11	138
 2026-10	bolt.pdb-next.k8s.virtualflybrain.org	1	1	1	1	1	0	3
-2026-10	buttermilk.inf.ed.ac.uk	228	228	228	228	229	6	694
+2026-10	buttermilk.inf.ed.ac.uk	233	233	233	233	234	6	709
 2026-10	buttermilk.virtualflybrain.org	2	3	2	2	4	1	12
 2026-10	c30dadc4-5912-4c52-8368-d4d4fbd6ea4e.virtualflybrain.org	1	1	1	1	1	3	4
 2026-10	c30dadc4-5912-4c52-8368-d4d4fbd6ea4e.www.virtualflybrain.org	3	4	3	3	4	4	13
-2026-10	catmaid-fafb.virtualflybrain.org	128	127	128	127	127	74	405
+2026-10	catmaid-fafb.virtualflybrain.org	130	128	130	128	128	76	411
 2026-10	cayenne.inf.ed.ac.uk	164	164	164	164	164	6	511
 2026-10	cayenne.virtualflybrain.org	4	4	4	4	4	13	14
 2026-10	chat.virtualflybrain.org	15	15	15	15	15	1	47
@@ -4950,7 +4950,7 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	covidmemorial.virtualflybrain.org	2	2	2	2	2	8	10
 2026-10	debug.virtualflybrain.org	44	44	44	44	44	0	138
 2026-10	dev.virtualflybrain.org	4	5	4	4	5	0	15
-2026-10	dill.inf.ed.ac.uk	426	425	425	424	426	23	1315
+2026-10	dill.inf.ed.ac.uk	427	426	426	425	427	23	1318
 2026-10	dill.virtualflybrain.org	4	4	4	4	5	32	18
 2026-10	event.virtualflybrain.org	2	2	2	2	2	2	7
 2026-10	example.virtualflybrain.org	2	2	2	2	2	31	7
@@ -4958,11 +4958,11 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	fafb.virtualflybrain.org	4	4	5	5	18	409	46
 2026-10	fanc.catmaid.virtualflybrain.org	48	38	49	49	57	812	195
 2026-10	flybrain-ndb.virtualflybrain.org	148	137	165	162	170	476	495
-2026-10	flybrain.inf.ed.ac.uk	418	418	419	419	419	71	1307
+2026-10	flybrain.inf.ed.ac.uk	427	427	428	428	428	71	1334
 2026-10	flybrain.mrc-lmb.cam.ac.uk	27	0	27	27	27	742	27
 2026-10	flylight.virtualflybrain.org	1	1	1	1	1	4	4
 2026-10	geppetto-dev.virtualflybrain.org	2	2	2	2	2	6	7
-2026-10	github.com	26	0	26	25	26	987	26
+2026-10	github.com	27	0	27	25	27	1004	27
 2026-10	gopro.com	3	3	4	0	0	0	11
 2026-10	grafana.virtualflybrain.org	3	3	3	3	3	11	12
 2026-10	groups.google.com	5	0	5	5	5	114	5
@@ -4982,7 +4982,7 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	karenin-jenkins.virtualflybrain.org	53	53	53	53	53	6	169
 2026-10	kb.p2.virtualflybrain.org	1	1	1	1	1	3	4
 2026-10	kbw.virtualflybrain.org	54	54	55	54	54	4	169
-2026-10	l1em.catmaid.virtualflybrain.org	100	74	199	172	205	12641	744
+2026-10	l1em.catmaid.virtualflybrain.org	101	75	207	178	214	12917	778
 2026-10	l3vnc.catmaid.virtualflybrain.org	6	1	7	7	7	209	21
 2026-10	larva1099.catmaid.virtualflybrain.org	4	0	5	5	7	283	19
 2026-10	larval-app1.virtualflybrain.org	34	34	34	34	34	1	105
@@ -4993,7 +4993,7 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	longhorn.contol.virtualflybrain.org	1	0	1	1	1	1	2
 2026-10	longhorn.contols.virtualflybrain.org	2	1	2	2	3	6	9
 2026-10	m.virtualflybrain.org	24	24	24	24	25	8	75
-2026-10	mayo.inf.ed.ac.uk	203	203	203	203	204	23	627
+2026-10	mayo.inf.ed.ac.uk	223	223	223	223	224	23	687
 2026-10	mayo.virtualflybrain.org	3	4	3	3	5	25	17
 2026-10	measure-apindev.virtualflybrain.org	2	2	2	2	2	13	10
 2026-10	meet.virtualflybrain.org	108	108	108	108	108	8	336
@@ -5032,7 +5032,7 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	radagast.hms.harvard.edu	1	0	1	1	1	20	1
 2026-10	rancher.control.virtualflybrain.org	1	0	1	1	1	1	3
 2026-10	rancher.virtualflybrain.org	43	43	43	43	43	4	138
-2026-10	raw.larval.flylight.virtualflybrain.org	266	258	278	273	294	8837	908
+2026-10	raw.larval.flylight.virtualflybrain.org	267	258	279	274	296	8865	913
 2026-10	results.p3.k8s.virtualflybrain.org	1	0	1	1	1	1	3
 2026-10	rstudio.virtualflybrain.org	9	8	9	9	9	11	28
 2026-10	s1745993project.virtualflybrain.org	5	5	5	5	5	0	15
@@ -5058,34 +5058,34 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	v2-debug.virtualflybrain.org	2	2	2	2	2	0	6
 2026-10	v2-dev.virtualflybrain.org	4	1	10	8	52	391	371
 2026-10	v2-preview.virtualflybrain.org	118	118	118	118	118	0	355
-2026-10	v2-virtualflybrain-org.translate.goog	35	35	36	35	106	1543	811
+2026-10	v2-virtualflybrain-org.translate.goog	36	36	37	36	112	1561	842
 2026-10	v2.alpha.k8s.virtualflybrain.org	1	1	1	1	2	3	11
 2026-10	v2.dev.k8s.virtualflybrain.org	29	28	29	29	48	88	268
 2026-10	v2.k8s.virtualflybrain.org	9	9	9	9	13	36	76
-2026-10	v2.virtualflybrain.org	28665	18064	33017	31607	77538	904840	577199
-2026-10	v2a.virtualflybrain.org	33	9	55	55	110	2360	561
+2026-10	v2.virtualflybrain.org	29740	18918	34238	32846	79514	918262	589004
+2026-10	v2a.virtualflybrain.org	35	10	57	57	113	2364	574
 2026-10	v3-cached.virtualflybrain.org	2	2	2	2	2	0	6
 2026-10	v3.virtualflybrain.org	3	3	3	3	3	0	9
 2026-10	v4.virtualflybrain.org	3	3	3	3	4	13	14
 2026-10	vfb-connect.readthedocs.io	23	0	23	23	23	833	23
 2026-10	vfb3-mcp-preview.virtualflybrain.org	33	33	33	33	33	1	102
 2026-10	vfb3-mcp.virtualflybrain.org	15	14	15	14	14	9	44
-2026-10	vfbk8s10.inf.ed.ac.uk	7	7	7	7	8	10	24
+2026-10	vfbk8s10.inf.ed.ac.uk	8	8	8	8	9	10	27
 2026-10	vfbk8s11.inf.ed.ac.uk	6	6	6	6	6	3	19
-2026-10	vfbk8s12.inf.ed.ac.uk	10	10	10	10	11	3	32
+2026-10	vfbk8s12.inf.ed.ac.uk	13	13	13	13	14	3	41
 2026-10	vfbk8s7.inf.ed.ac.uk	6	6	6	6	6	23	20
-2026-10	vfbk8s9.inf.ed.ac.uk	4	4	4	4	4	0	12
+2026-10	vfbk8s9.inf.ed.ac.uk	5	5	5	5	5	0	15
 2026-10	vfbquerycache.virtualflybrain.org	2	2	2	2	2	0	6
 2026-10	virtualflybrain-org.translate.goog	2	2	2	2	2	37	10
-2026-10	virtualflybrain.org	8450	8156	8702	8625	9190	17831	28242
+2026-10	virtualflybrain.org	8799	8496	9044	8968	9540	18203	29334
 2026-10	vnc1.catmaid.virtualflybrain.org	2	2	2	2	2	0	7
 2026-10	web01.virtualflybrain.org	1	1	1	1	1	2	4
 2026-10	website.virtualflybrain.org	3	3	3	3	3	22	12
 2026-10	webtop.virtualflybrain.org	4	5	6	5	7	13	23
 2026-10	workshop-virtualflybrain-org.translate.goog	20	20	20	20	41	893	161
-2026-10	workshop.virtualflybrain.org	471	456	690	658	1185	12872	3378
+2026-10	workshop.virtualflybrain.org	481	465	702	670	1202	12961	3440
 2026-10	ww.virtualflybrain.org	1	1	1	1	1	7	5
-2026-10	www-virtualflybrain-org.translate.goog	209	205	224	222	333	2954	1108
+2026-10	www-virtualflybrain-org.translate.goog	212	208	227	225	336	2998	1122
 2026-10	www.facebook.com	5	0	5	5	5	85	5
 2026-10	www.k8s.virtualflybrain.org	2	1	5	4	6	197	19
 2026-10	www.natverse.virtualflybrain.org	1	1	1	1	1	4	4
@@ -5097,6 +5097,6 @@ month	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	use
 2026-10	www.techsmith.com	1	1	1	0	0	0	3
 2026-10	www.v2.virtualflybrain.org	1	1	1	1	1	4	4
 2026-10	www.vfb3-mcp.virtualflybrain.org	1	0	1	1	1	0	1
-2026-10	www.virtualflybrain.org	53440	52525	56740	55455	69669	468056	215196
+2026-10	www.virtualflybrain.org	54735	53928	58303	56989	71347	474020	220452
 2026-10	zenec0a75.v3.virtualflybrain.org	2	2	2	2	2	11	8
 2026-10	zip.virtualflybrain.org	41	41	41	41	41	0	127
