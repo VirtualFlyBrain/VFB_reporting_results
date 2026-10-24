@@ -24,7 +24,7 @@ node	DataSet	219
 node	Deprecated	39051
 node	Dopamine_receptor	4
 node	Dopaminergic	20237
-node	Entity	1890105
+node	Entity	1890149
 node	Enzyme	3734
 node	Expression_pattern	115189
 node	Expression_pattern_fragment	97039
@@ -47,7 +47,7 @@ node	Histamine_receptor	2
 node	Histaminergic	24506
 node	Hormone	23
 node	Hygrosensory_system	579
-node	Individual	1755705
+node	Individual	1755749
 node	Ion_channel	395
 node	L1EM	5051
 node	Larva	23439
@@ -110,7 +110,7 @@ node	VFB	1624615
 node	Visual_system	352461
 node	hasScRNAseq	13387
 node	has_image	813298
-node	has_neuron_connectivity	556579
+node	has_neuron_connectivity	556676
 node	has_region_connectivity	528125
 node	has_subClass	8832
 node	lineage_0_MNB	1190
@@ -280,7 +280,7 @@ node	primary_neuron	24500
 node	pub	5918
 node	scRNAseq_DataSet	24
 node	secondary_neuron	186606
-relationship	INSTANCEOF	2801747
+relationship	INSTANCEOF	2801791
 relationship	SUBCLASSOF	206687
 relationship	achieves_planned_objective	8
 relationship	adjacent_to	15
@@ -373,7 +373,7 @@ relationship	has_variant_part	1
 relationship	immediate_transformation_of	1
 relationship	immediately_preceded_by	250
 relationship	immediately_precedes	20
-relationship	in_register_with	906992
+relationship	in_register_with	907011
 relationship	in_subset	11219
 relationship	in_taxon	4
 relationship	increased_in_magnitude_relative_to	1
@@ -407,7 +407,7 @@ relationship	non_functional_homolog_of	4
 relationship	occurs_in	48
 relationship	only_in_taxon	8
 relationship	output_of	3
-relationship	overlaps	557197
+relationship	overlaps	557228
 relationship	part_of	1292274
 relationship	partially_surrounded_by	1
 relationship	participates_in	1
@@ -433,7 +433,7 @@ relationship	simultaneous_with	6
 relationship	starts	1
 relationship	substage_of	196
 relationship	surrounded_by	4
-relationship	synapsed_to	38921743
+relationship	synapsed_to	37257078
 relationship	synapsed_via_type_III_bouton_to	14
 relationship	synapsed_via_type_II_bouton_to	17
 relationship	synapsed_via_type_Ib_bouton_to	217

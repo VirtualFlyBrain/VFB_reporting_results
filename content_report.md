@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-10-23
+VFB Content Report 2026-10-24
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 23 Oct 2026 00:21:37``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 24 Oct 2026 00:20:11``
 
 ***``Ontology Content``***
 
@@ -36,8 +36,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 23 Oct 2
 
 ***``Expression Annotations``***
 
-**94228** annotations recording **3279** types of anatomical structure that **12963** specific driver lines are expressed in.
-**86769** annotations recording **2506** parts of the nervous system that **11788** specific driver lines are expressed in.
+**94259** annotations recording **3279** types of anatomical structure that **12967** specific driver lines are expressed in.
+**86770** annotations recording **2506** parts of the nervous system that **11788** specific driver lines are expressed in.
 **11141** annotations recording **1746** types of neuron that **3102** specific driver lines are expressed in.
 **4698** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
 
@@ -45,7 +45,7 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 23 Oct 2
 
 |Neuron|Number of Neurons|Input/Output Entity|Number of Entities|Connections|
 | :--- | :--- | :--- | :--- | :--- |
-|Any neuron (individuals)|556519|Any neuron (individuals)|556519|38921723|
+|Any neuron (individuals)|556616|Any neuron (individuals)|556616|37257058|
 |Any neuron (individuals)|550136|Region (individuals)|938|6048046|
 |Any neuron (classes)|325|Muscle (classes)|228|249|
 |Any neuron (classes)|823|Sense organ (classes)|434|535|
@@ -54,14 +54,14 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 23 Oct 2
 
 |EM Project|Neurons|Synapses|Edges|
 | :--- | :--- | :--- | :--- |
-|male_cns_v1_0|166678|113875580|15282961|
-|BANC888|145943|31825064|5478961|
-|flywire783|139255|46996837|7595968|
-|neuprint_JRC_OpticLobe_v1_0_1|53402|24033343|3957844|
-|neuprint_JRC_Manc_1_2_1|23665|28734247|3105275|
-|neuprint_JRC_Hemibrain_1point2point1|22705|13745258|3392973|
-|catmaid_fafb|5626|286949|35542|
-|catmaid_l1em|5045|363927|72199|
+|male_cns_v1_0|166678|113875580.0|15282961|
+|BANC888|145943|31825064.0|5478961|
+|flywire783|139255|46996906.0|7595967|
+|neuprint_JRC_OpticLobe_v1_0_1|53402|24033343.0|3957844|
+|neuprint_JRC_Manc_1_2_1|23665|28734247.0|3105275|
+|neuprint_JRC_Hemibrain_1point2point1|22705|12318207.0|1728309|
+|catmaid_fafb|5626|286949.0|35542|
+|catmaid_l1em|5045|363927.0|72199|
 
 
 
@@ -70,7 +70,7 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 23 Oct 2
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|JRC2018Unisex|141|635785|522528|359277|56037|26014|56265|761|
+|JRC2018Unisex|142|635804|522528|359277|56037|26014|56265|780|
 |JRC2018UnisexVNC|102|142186|77922|53782|26916|19227|37097|249|
 |L1 larval CNS ssTEM - Cardona/Janelia|27|5046|5019|5019|0|0|0|27|
 |adult brain template JFRC2|21|41939|16419|0|25271|600|0|58|
