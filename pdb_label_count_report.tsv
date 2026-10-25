@@ -59,7 +59,7 @@ node	Mechanosensory_system	23423
 node	Metal_ion_binding	162
 node	Motor_neuron	4639
 node	Muscle	1941
-node	NBLAST	450637
+node	NBLAST	583297
 node	NBLASTexp	18411
 node	Nervous_system	830628
 node	Neuroblast	518
@@ -360,7 +360,7 @@ relationship	has_sensory_dendrite_in	692
 relationship	has_sequence	2
 relationship	has_sequence_attribute	2
 relationship	has_sequence_feature	3
-relationship	has_similar_morphology_to	47501381
+relationship	has_similar_morphology_to	257149528
 relationship	has_similar_morphology_to_part_of	6806275
 relationship	has_soma_location	549960
 relationship	has_source	1052832
