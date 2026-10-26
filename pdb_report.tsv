@@ -4,13 +4,13 @@ Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	CC-BY_4.0	FBrf0227
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	CC-BY_4.0	FBrf0233230	63	0	3	12	0
 Baltruschat2021	EM FAFB Baltruschat et al 2021	CC-BY_4.0	FBrf0248487	20	20	19	8	0
 Barnes2022	EM L1 Barnes et al., 2022	CC-BY_4.0	FBrf0253082	51	51	0	26	0
-Bates2025	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	80505	67892	0	9617	0
-Bates2026	Brain and Nerve Cord (BANC) version 888 connectome neurons from Bates et al. (2026).	CC-BY_4.0	doi_10_1038_s41586_026_10735_w	145948	145920	0	10672	0
+Bates2025	Brain and Nerve Cord (BANC) version 626 connectome neurons from Bates et al. (2025).	CC-BY_4.0	doi_10_1101_2025_07_31_667571	80505	65020	0	9617	0
+Bates2026	Brain and Nerve Cord (BANC) version 888 connectome neurons from Bates et al. (2026).	CC-BY_4.0	doi_10_1038_s41586_026_10735_w	145948	145900	0	10672	0
 Bates2026roi	BANC neuropil, tract and nerve ROIs	CC-BY_4.0	doi_10_1038_s41586_026_10735_w	305	0	0	155	0
 BatesSchlegel2020	EM FAFB Bates and Schlegel et al 2020	CC-BY_4.0	FBrf0246460	583	582	277	200	0
 Berck2016	Larval olfactory system neurons - EM (Berk2016)	CC-BY_4.0	FBrf0232785	161	161	0	82	0
-Berg2025	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	166666	166657	0	10348	0
-Berg2025a	Male CNS version 1.0 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	166678	166671	0	10348	0
+Berg2025	Male CNS version 0.9 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	166666	166653	0	10348	0
+Berg2025a	Male CNS version 1.0 connectome neurons from Berg et al. (2025).	CC-BY_4.0	doi_10_1101_2025_10_09_680999	166678	166669	0	10348	0
 Berg2025aroi	Male CNS neuropil ROIs	CC-BY_4.0	doi_10_1101_2025_10_09_680999	396	0	0	212	0
 BrainName_Ito_half_brain	BrainName neuropils and tracts - Ito half-brain	CC-BY_4.0	FBrf0224194	76	0	0	75	0
 Burgos2018	Nociceptive system neurons - EM (Burgos2017)	CC-BY_4.0	FBrf0238464	95	95	0	54	0
@@ -167,11 +167,11 @@ SplitZung2025	Split-GAL4 lines from Zung et al., 2025	CC-BY_4.0	doi_10_1101_2025
 Strother2017	Splits targetting the visual motion pathway, Strother2017	CC-BY_4.0	FBrf0235230	204	0	11	10	0
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	CC-BY_4.0	FBrf0256726	90	90	15	22	0
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	CC-BY_4.0	FBrf0237618	38	38	0	15	0
-Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23738	0	4063	0
+Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	CC-BY_4.0	doi_10_1101_2023_06_05_543757	23759	23735	0	4063	0
 Takemura2023roi	MANC neuropil and tract ROIs	CC-BY_4.0	doi_10_1101_2023_06_05_543757	59	0	0	33	0
 Tastekin2018	EM L1 Tastekin et al 2018	CC-BY_4.0	FBrf0240828	10	10	0	5	0
 Truman2016	L3 Larval CNS Template (Truman2016)	CC-BY_4.0		1	0	0	1	0
-TrumanWood2018	Truman Larval Flip-Out Collection	CC-BY_4.0	FBrf0225812	12238	0	0	2	0
+TrumanWood2018	Truman Larval Flip-Out Collection	CC-BY_4.0	FBrf0225812	12238	8561	0	2	0
 TrumanWood2018public	Truman Larval Flip-Out Collection	CC-BY_4.0	FBrf0225812	2	0	0	1	0
 Turner_Evans2020	EM FAFB Turner-Evans et al 2020	CC-BY_4.0	FBrf0246945	49	49	36	17	0
 Valdes_Aleman2021	Comparative Connectomics Reveals How Partner Identity, Location, and Activity Specify Synaptic Connectivity in Drosophila (Valdes-Aleman et al. 2021)	CC-BY_4.0	FBrf0247750	37	37	0	20	0

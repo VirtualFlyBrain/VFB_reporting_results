@@ -576,8 +576,8 @@ VFB_001000pf	8799774	"[""alpha'/beta' anterior-posterior Kenyon cell""]"
 VFB_001000pg	8802820	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000ph	8805938	['adult gamma Kenyon cell']
 VFB_001000pi	8808565	['adult gamma Kenyon cell']
-VFB_001000pr	8885301	['alpha/beta Kenyon cell']
 VFB_001000r4	9097930	['alpha/beta Kenyon cell']
+VFB_001000pr	8885301	['alpha/beta Kenyon cell']
 VFB_001000ps	8885849	['alpha/beta Kenyon cell']
 VFB_001000r5	9107369	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000pt	8890986	"[""adult alpha'/beta' Kenyon cell""]"
@@ -586,10 +586,10 @@ VFB_001000pu	8894477	['alpha/beta Kenyon cell']
 VFB_001000r7	9111219	['adult gamma Kenyon cell']
 VFB_001000pn	8854652	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000r0	9065418	"[""adult alpha'/beta' Kenyon cell""]"
-VFB_001000r1	9069405	['adult gamma Kenyon cell']
 VFB_001000po	8870254	['adult gamma Kenyon cell']
-VFB_001000pp	8875041	['adult gamma Kenyon cell']
+VFB_001000r1	9069405	['adult gamma Kenyon cell']
 VFB_001000r2	9094724	['adult gamma Kenyon cell']
+VFB_001000pp	8875041	['adult gamma Kenyon cell']
 VFB_001000pq	8879917	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000r3	9096278	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000pz	8936254	['alpha/beta Kenyon cell']
@@ -614,16 +614,16 @@ VFB_001000qg	8986192	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000qh	8991203	['adult gamma Kenyon cell']
 VFB_001000qi	8992272	['alpha/beta Kenyon cell']
 VFB_001000qj	8996437	['adult gamma Kenyon cell']
-VFB_001000qs	9052628	['alpha/beta Kenyon cell']
 VFB_001000s5	9258758	['adult gamma Kenyon cell']
-VFB_001000qt	9052637	"[""adult alpha'/beta' Kenyon cell""]"
+VFB_001000qs	9052628	['alpha/beta Kenyon cell']
 VFB_001000s6	9268737	"[""adult alpha'/beta' Kenyon cell""]"
+VFB_001000qt	9052637	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000qu	9052644	['alpha/beta Kenyon cell']
 VFB_001000s7	9271793	['adult gamma Kenyon cell']
 VFB_001000qv	9052648	['alpha/beta Kenyon cell']
 VFB_001000s8	9271827	['alpha/beta Kenyon cell']
-VFB_001000s1	9248222	['adult gamma Kenyon cell']
 VFB_001000qo	9025227	['adult gamma Kenyon cell']
+VFB_001000s1	9248222	['adult gamma Kenyon cell']
 VFB_001000qp	9028038	['alpha/beta Kenyon cell']
 VFB_001000s2	9249035	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000qq	9029906	['alpha/beta Kenyon cell']
@@ -648,25 +648,25 @@ VFB_001000nf	8387679	['adult Kenyon cell']
 VFB_001000ng	8390388	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000np	8398870	['adult Kenyon cell']
 VFB_001000p2	8680461	['adult gamma Kenyon cell']
-VFB_001000p3	8681055	['adult Kenyon cell']
 VFB_001000nq	8406463	['adult gamma Kenyon cell']
-VFB_001000nr	8408663	['adult gamma Kenyon cell']
+VFB_001000p3	8681055	['adult Kenyon cell']
 VFB_001000p4	8731716	['adult gamma Kenyon cell']
+VFB_001000nr	8408663	['adult gamma Kenyon cell']
 VFB_001000ns	8409714	['adult Kenyon cell']
 VFB_001000p5	8755280	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000nl	8396796	['adult Kenyon cell']
 VFB_001000nm	8397248	"[""adult alpha'/beta' Kenyon cell""]"
-VFB_001000nn	8398470	['alpha/beta Kenyon cell']
 VFB_001000p0	8670582	['adult Kenyon cell']
-VFB_001000p1	8674752	['adult Kenyon cell']
+VFB_001000nn	8398470	['alpha/beta Kenyon cell']
 VFB_001000no	8398660	['adult Kenyon cell']
+VFB_001000p1	8674752	['adult Kenyon cell']
 VFB_001000nx	8419995	['adult Kenyon cell']
 VFB_001000ny	8420057	['adult Kenyon cell']
 VFB_001000nz	8420625	['adult gamma Kenyon cell']
-VFB_001000p6	8761046	['adult gamma Kenyon cell']
 VFB_001000nt	8410988	['adult Kenyon cell']
-VFB_001000p7	8762682	"[""adult alpha'/beta' Kenyon cell""]"
+VFB_001000p6	8761046	['adult gamma Kenyon cell']
 VFB_001000nu	8411125	['adult Kenyon cell']
+VFB_001000p7	8762682	"[""adult alpha'/beta' Kenyon cell""]"
 VFB_001000p8	8762686	['alpha/beta Kenyon cell']
 VFB_001000nv	8412340	['alpha/beta Kenyon cell']
 VFB_001000p9	8763460	['adult gamma Kenyon cell']
@@ -687,10 +687,10 @@ VFB_001000oq	8473714	['adult Kenyon cell']
 VFB_001000q3	8949847	['alpha/beta Kenyon cell']
 VFB_001000or	8474260	['alpha/beta Kenyon cell']
 VFB_001000q4	8950668	['alpha/beta Kenyon cell']
-VFB_001000os	8478498	['alpha/beta Kenyon cell']
 VFB_001000q5	8951977	['adult gamma Kenyon cell']
-VFB_001000ot	8484737	['adult Kenyon cell']
+VFB_001000os	8478498	['alpha/beta Kenyon cell']
 VFB_001000q6	8956373	"[""adult alpha'/beta' Kenyon cell""]"
+VFB_001000ot	8484737	['adult Kenyon cell']
 VFB_001000om	8462524	['adult Kenyon cell']
 VFB_001000on	8463672	['adult Kenyon cell']
 VFB_001000q0	8936856	['alpha/beta Kenyon cell']
@@ -702,8 +702,8 @@ VFB_001000oy	8670439	['adult Kenyon cell']
 VFB_001000oz	8670454	['adult Kenyon cell']
 VFB_001000ou	8496988	['adult gamma Kenyon cell']
 VFB_001000q7	8957584	['adult gamma Kenyon cell']
-VFB_001000q8	8957689	['alpha/beta Kenyon cell']
 VFB_001000ov	8592524	"[""adult alpha'/beta' Kenyon cell""]"
+VFB_001000q8	8957689	['alpha/beta Kenyon cell']
 VFB_001000ow	8652603	['adult Kenyon cell']
 VFB_001000q9	8957972	['adult gamma Kenyon cell']
 VFB_001000ox	8662622	['adult Kenyon cell']
@@ -718,8 +718,8 @@ VFB_001000lb	4169596	['adult gamma Kenyon cell']
 VFB_001000lc	4181431	"[""alpha'/beta' anterior-posterior Kenyon cell""]"
 VFB_001000ld	4205164	['alpha/beta surface/core Kenyon cell']
 VFB_001000le	4205169	['adult gamma Kenyon cell']
-VFB_001000n0	8279765	['alpha/beta surface/core Kenyon cell']
 VFB_001000ln	4494616	['adult gamma Kenyon cell']
+VFB_001000n0	8279765	['alpha/beta surface/core Kenyon cell']
 VFB_001000lo	4522123	['adult gamma Kenyon cell']
 VFB_001000n1	8280422	['adult gamma Kenyon cell']
 VFB_001000lp	4525827	['alpha/beta surface/core Kenyon cell']
@@ -755,12 +755,12 @@ VFB_001000mc	5824641	"[""alpha'/beta' anterior-posterior Kenyon cell""]"
 VFB_001000md	6826598	['adult gamma Kenyon cell']
 VFB_001000me	7053684	['alpha/beta Kenyon cell']
 VFB_001000mf	7698540	['adult gamma Kenyon cell']
-VFB_001000mo	8076373	"[""alpha'/beta' middle Kenyon cell""]"
 VFB_001000o1	8423134	['adult Kenyon cell']
-VFB_001000o2	8426264	['adult Kenyon cell']
+VFB_001000mo	8076373	"[""alpha'/beta' middle Kenyon cell""]"
 VFB_001000mp	8139894	"[""alpha'/beta' anterior-posterior Kenyon cell""]"
-VFB_001000mq	8189134	"[""alpha'/beta' middle Kenyon cell""]"
+VFB_001000o2	8426264	['adult Kenyon cell']
 VFB_001000o3	8426633	['alpha/beta Kenyon cell']
+VFB_001000mq	8189134	"[""alpha'/beta' middle Kenyon cell""]"
 VFB_001000mr	8198124	"[""alpha'/beta' anterior-posterior Kenyon cell""]"
 VFB_001000o4	8429008	['adult Kenyon cell']
 VFB_001000mk	7904181	['adult gamma Kenyon cell']
@@ -2398,8 +2398,8 @@ VFB_0010126t	4586967	['adult antennal lobe projection neuron VC3 adPN']
 VFB_00101286	1420974	['mushroom body output neuron 18']
 VFB_0010126u	4624321	['mediolateral antennal lobe tract projection neuron 2']
 VFB_00101287	488055	['adult lateral horn AV4c1 neuron']
-VFB_00101288	533772	['adult lateral horn AD3b1 neuron']
 VFB_0010126v	4624325	['adult antennal lobe projection neuron DC4 vPN']
+VFB_00101288	533772	['adult lateral horn AD3b1 neuron']
 VFB_0010127a	4624374	['adult antennal lobe projection neuron VM2 vPN']
 VFB_0010127b	4624378	['mediolateral antennal lobe tract projection neuron 2']
 VFB_0010127c	4631791	['mediolateral antennal lobe tract projection neuron 2']

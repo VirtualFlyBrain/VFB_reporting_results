@@ -24,7 +24,7 @@ node	DataSet	219
 node	Deprecated	39051
 node	Dopamine_receptor	4
 node	Dopaminergic	20237
-node	Entity	1890149
+node	Entity	1890131
 node	Enzyme	3734
 node	Expression_pattern	115189
 node	Expression_pattern_fragment	97039
@@ -47,7 +47,7 @@ node	Histamine_receptor	2
 node	Histaminergic	24506
 node	Hormone	23
 node	Hygrosensory_system	579
-node	Individual	1755749
+node	Individual	1755731
 node	Ion_channel	395
 node	L1EM	5051
 node	Larva	23439
@@ -59,7 +59,7 @@ node	Mechanosensory_system	23423
 node	Metal_ion_binding	162
 node	Motor_neuron	4639
 node	Muscle	1941
-node	NBLAST	583297
+node	NBLAST	588980
 node	NBLASTexp	18411
 node	Nervous_system	830628
 node	Neuroblast	518
@@ -280,7 +280,7 @@ node	primary_neuron	24500
 node	pub	5918
 node	scRNAseq_DataSet	24
 node	secondary_neuron	186606
-relationship	INSTANCEOF	2801791
+relationship	INSTANCEOF	2801773
 relationship	SUBCLASSOF	206687
 relationship	achieves_planned_objective	8
 relationship	adjacent_to	15
@@ -360,7 +360,7 @@ relationship	has_sensory_dendrite_in	692
 relationship	has_sequence	2
 relationship	has_sequence_attribute	2
 relationship	has_sequence_feature	3
-relationship	has_similar_morphology_to	257149528
+relationship	has_similar_morphology_to	239789850
 relationship	has_similar_morphology_to_part_of	6806275
 relationship	has_soma_location	549960
 relationship	has_source	1052832
@@ -407,8 +407,8 @@ relationship	non_functional_homolog_of	4
 relationship	occurs_in	48
 relationship	only_in_taxon	8
 relationship	output_of	3
-relationship	overlaps	557228
-relationship	part_of	1292274
+relationship	overlaps	557203
+relationship	part_of	1292273
 relationship	partially_surrounded_by	1
 relationship	participates_in	1
 relationship	positively_regulates	409

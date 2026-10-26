@@ -723,31 +723,58 @@ date	deviceCategory	operatingSystem	browser	activeUsers	sessions	userEngagementD
 2026-10-23	tablet	Android	Chrome	6	7	390
 2026-10-23	tablet	iOS	Chrome	7	8	105
 2026-10-23	tablet	iOS	Safari	5	5	1034
-2026-10-24	desktop			1	0	0
-2026-10-24	desktop		(not set)	1	1	0
-2026-10-24	desktop	Chrome OS	Chrome	15	17	1996
-2026-10-24	desktop	Linux	Chrome	54	55	644
+2026-10-24	desktop	(not set)	(not set)	2	1	0
+2026-10-24	desktop	Chrome OS	Chrome	16	18	2016
+2026-10-24	desktop	Linux	Chrome	58	59	712
 2026-10-24	desktop	Linux	Firefox	7	7	676
 2026-10-24	desktop	Linux	Meta Quest Browser	5	5	390
-2026-10-24	desktop	Macintosh	Chrome	96	101	2701
+2026-10-24	desktop	Macintosh	Chrome	97	104	2715
 2026-10-24	desktop	Macintosh	Edge	1	1	176
 2026-10-24	desktop	Macintosh	Firefox	2	3	521
 2026-10-24	desktop	Macintosh	Mozilla Compatible Agent	2	2	0
 2026-10-24	desktop	Macintosh	Opera	1	4	709
-2026-10-24	desktop	Macintosh	Safari	32	36	1785
-2026-10-24	desktop	Windows	Chrome	25331	24931	220878
-2026-10-24	desktop	Windows	Edge	66	80	6493
-2026-10-24	desktop	Windows	Firefox	8	9	607
-2026-10-24	desktop	Windows	Opera	32	44	1372
+2026-10-24	desktop	Macintosh	Safari	31	36	1785
+2026-10-24	desktop	Windows	Chrome	26585	26245	223200
+2026-10-24	desktop	Windows	Edge	68	86	6823
+2026-10-24	desktop	Windows	Firefox	7	9	607
+2026-10-24	desktop	Windows	Opera	31	45	1794
+2026-10-24	desktop	Windows	YaBrowser	1	1	0
 2026-10-24	mobile	Android	Android Webview	1	1	0
-2026-10-24	mobile	Android	Chrome	132	139	3983
+2026-10-24	mobile	Android	Chrome	144	153	4161
 2026-10-24	mobile	Android	Edge	3	3	59
 2026-10-24	mobile	Android	Firefox	3	3	84
-2026-10-24	mobile	Android	Samsung Internet	8	8	97
+2026-10-24	mobile	Android	Samsung Internet	7	8	97
 2026-10-24	mobile	iOS	Chrome	8	11	127
-2026-10-24	mobile	iOS	Safari	115	126	2286
+2026-10-24	mobile	iOS	Safari	109	131	2303
 2026-10-24	mobile	iOS	Safari (in-app)	2	2	0
-2026-10-24	tablet	Android	Amazon Silk	1	1	0
+2026-10-24	tablet	Android	Amazon Silk	0	1	0
 2026-10-24	tablet	Android	Chrome	9	10	482
 2026-10-24	tablet	iOS	Chrome	1	1	11
 2026-10-24	tablet	iOS	Safari	2	2	35
+2026-10-25	desktop			1	0	0
+2026-10-25	desktop		(not set)	14	14	0
+2026-10-25	desktop	Android	Chrome	1	1	1
+2026-10-25	desktop	Chrome OS	Chrome	10	10	1386
+2026-10-25	desktop	Linux	Chrome	60	64	938
+2026-10-25	desktop	Linux	Edge	1	1	0
+2026-10-25	desktop	Linux	Firefox	7	8	191
+2026-10-25	desktop	Linux	Meta Quest Browser	1	1	0
+2026-10-25	desktop	Macintosh	Chrome	210	221	3081
+2026-10-25	desktop	Macintosh	Firefox	2	2	5
+2026-10-25	desktop	Macintosh	Opera	3	4	118
+2026-10-25	desktop	Macintosh	Safari	36	40	950
+2026-10-25	desktop	Windows	Chrome	13009	12698	19704
+2026-10-25	desktop	Windows	Edge	54	65	2744
+2026-10-25	desktop	Windows	Firefox	13	15	833
+2026-10-25	desktop	Windows	Opera	29	33	789
+2026-10-25	mobile	Android	Android Webview	2	2	0
+2026-10-25	mobile	Android	Chrome	113	122	4457
+2026-10-25	mobile	Android	Edge	2	2	95
+2026-10-25	mobile	Android	Samsung Internet	3	3	87
+2026-10-25	mobile	Android	UC Browser	1	1	2
+2026-10-25	mobile	iOS	Chrome	11	13	552
+2026-10-25	mobile	iOS	Safari	116	128	2085
+2026-10-25	mobile	iOS	Safari (in-app)	2	2	24
+2026-10-25	tablet	Android	Chrome	7	9	607
+2026-10-25	tablet	iOS	Chrome	2	2	39
+2026-10-25	tablet	iOS	Safari	3	3	132

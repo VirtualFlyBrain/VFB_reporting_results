@@ -761,25 +761,54 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-10-23	uk.search.yahoo.com	referral	1	1	74
 2026-10-23	yahoo	organic	3	2	399
 2026-10-23	youtube.com	referral	3	3	739
-2026-10-24		Scamadviser.com	1	1	0
-2026-10-24	(direct)	(none)	23808	23808	36005
-2026-10-24	(not set)	(not set)	1391	6	4295
-2026-10-24	aocr.org	referral	7	7	36
-2026-10-24	bing	organic	59	55	6142
+2026-10-24	(direct)	(none)	25434	25425	37490
+2026-10-24	(not set)	(not set)	1108	0	3510
+2026-10-24	(not set)	Scamadviser.com	1	1	0
+2026-10-24	aocr.org	referral	14	14	36
+2026-10-24	bing	organic	62	58	6329
 2026-10-24	ca.search.yahoo.com	referral	1	1	40
 2026-10-24	cell.com	referral	1	1	159
 2026-10-24	chatgpt.com	ai-assistant	3	3	226
-2026-10-24	claude.ai	ai-assistant	2	2	692
+2026-10-24	claude.ai	ai-assistant	3	3	1521
 2026-10-24	cn.bing.com	referral	2	2	150
 2026-10-24	codex.flywire.ai	referral	1	1	0
 2026-10-24	duckduckgo	organic	6	6	207
 2026-10-24	ecosia.org	organic	5	4	197
 2026-10-24	en.wikipedia.org	referral	1	1	50
 2026-10-24	gemini.google.com	ai-assistant	1	1	1254
-2026-10-24	google	organic	506	484	195762
+2026-10-24	google	organic	535	510	197417
 2026-10-24	l.instagram.com	referral	1	1	0
 2026-10-24	localhost:8765	referral	3	3	282
 2026-10-24	search.brave.com	referral	1	1	55
 2026-10-24	translate.google.com	referral	2	2	418
 2026-10-24	yahoo	organic	6	6	103
+2026-10-24	yandex.ru	referral	1	1	0
 2026-10-24	youtube.com	referral	1	1	39
+2026-10-25	(direct)	(none)	12820	12820	15068
+2026-10-25	(not set)	(not set)	661	5	1497
+2026-10-25	(other)	(other)	1	0	0
+2026-10-25	aocr.org	referral	98	98	240
+2026-10-25	bing	organic	48	44	2346
+2026-10-25	campusvirtualtrimestral.unah.edu.hn	referral	1	1	14
+2026-10-25	chatgpt.com	(none)	2	2	223
+2026-10-25	chatgpt.com	ai-assistant	6	6	135
+2026-10-25	classroom.google.com	referral	1	1	17
+2026-10-25	claude.ai	ai-assistant	3	2	695
+2026-10-25	codex.flywire.ai	referral	1	1	0
+2026-10-25	duckduckgo	organic	11	11	328
+2026-10-25	ecosia.org	organic	3	3	92
+2026-10-25	en.wikipedia.org	referral	1	1	153
+2026-10-25	gemini.google.com	ai-assistant	1	1	48
+2026-10-25	google	organic	459	441	16833
+2026-10-25	localhost:8765	referral	1	0	0
+2026-10-25	metacrawler.com	referral	1	1	0
+2026-10-25	re3data.org	referral	1	1	44
+2026-10-25	science.org	referral	1	1	0
+2026-10-25	search.brave.com	referral	3	3	106
+2026-10-25	splitgal4.janelia.org	referral	1	1	236
+2026-10-25	t.co	referral	1	1	0
+2026-10-25	teams.public.onecdn.static.microsoft	referral	1	1	42
+2026-10-25	translate.google.com	referral	1	1	103
+2026-10-25	uk.search.yahoo.com	referral	1	1	108
+2026-10-25	web.telegram.org	referral	1	1	13
+2026-10-25	yahoo	organic	6	5	479
