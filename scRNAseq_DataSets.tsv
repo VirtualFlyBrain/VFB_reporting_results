@@ -1,4 +1,4 @@
-FlyBase_ID	Name	Description	Filtered Gene Count	Cluster Count
+ID	Name	Description	Filtered Gene Count	Cluster Count
 FBlc0006361	scRNAseq_2023_Saavedra	Single-cell RNA-seq study of the adult thorax	1726	11
 FBlc0007532	scRNAseq_2023_AFCA_D70_MALE	Single-nucleus RNA-seq on cells from 70-days old male flies	4835	161
 FBlc0007348	scRNAseq_2023_AFCA_D70_FEMALE	Single-nucleus RNA-seq on cells from 70-days old female flies	5458	176
