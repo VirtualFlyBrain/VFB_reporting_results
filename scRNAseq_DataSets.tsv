@@ -1,25 +1,18 @@
 ID	Name	Description	Filtered Gene Count	Cluster Count
-FBlc0006361	scRNAseq_2023_Saavedra	Single-cell RNA-seq study of the adult thorax	1726	11
-FBlc0007532	scRNAseq_2023_AFCA_D70_MALE	Single-nucleus RNA-seq on cells from 70-days old male flies	4835	161
-FBlc0007348	scRNAseq_2023_AFCA_D70_FEMALE	Single-nucleus RNA-seq on cells from 70-days old female flies	5458	176
-FBlc0007347	scRNAseq_2023_AFCA_D70	Single-nucleus RNA-seq on cells from 70-days old flies	5592	95
-FBlc0007071	scRNAseq_2023_AFCA_D50_MALE	Single-nucleus RNA-seq on cells from 50-days old male flies	4878	172
-FBlc0006888	scRNAseq_2023_AFCA_D50_FEMALE	Single-nucleus RNA-seq on cells from 50-days old female flies	4595	175
-FBlc0006887	scRNAseq_2023_AFCA_D50	Single-nucleus RNA-seq on cells from 50-days old flies	5015	95
-FBlc0006611	scRNAseq_2023_AFCA_D30_MALE	Single-nucleus RNA-seq on cells from 30-days old male flies	4857	168
-FBlc0006424	scRNAseq_2023_AFCA_D30_FEMALE	Single-nucleus RNA-seq on cells from 30-days old female flies	4987	179
-FBlc0006423	scRNAseq_2023_AFCA_D30	Single-nucleus RNA-seq on cells from 30-days old flies	5312	99
-FBlc0006404	scRNAseq_2022_Konstantinides	Single-cell RNA-seq study of larval optic lobes	5530	14
-FBlc0004785	scRNAseq_2022_FCA_MIXED	Single-nucleus RNA-seq on cells from 5-days old female and male flies	11079	497
-FBlc0004307	scRNAseq_2022_FCA_MALE	Single-nucleus RNA-seq on cells from 5-days old male flies	10978	422
-FBlc0003846	scRNAseq_2022_FCA_FEMALE	Single-nucleus RNA-seq on cells from 5-days old female flies	8169	411
-FBlc0007797	scRNAseq_2022_Calderon	The continuum of Drosophila embryonic development at single-cell resolution	2166	274
-FBlc0005659	scRNAseq_2021_Ozel	Single-cell RNA-seq study of pupal and adult optic lobes	4770	66
-FBlc0005420	scRNAseq_2021_Mokashi_CTRL	Single-cell RNA-seq study of adult brain without alcohol exposure	3097	39
-FBlc0006191	scRNAseq_2021_IngSimmons	Single-cell RNA-seq study of gastrulating embryos	6423	9
-FBlc0005515	scRNAseq_2021_Baker_CTRL	Single-cell RNA-seq study of adult brain without cocaine exposure	3329	36
-FBlc0006237	scRNAseq_2020_Kurmangaliyev	Single-cell RNA-seq study of the pupal optic lobe	5975	62
-FBlc0006305	scRNAseq_2020_Hormann	Single-cell RNA-seq study of visual motion-sensing neurons	4014	40
-FBlc0005603	scRNAseq_2020_Allen	Single-cell RNA-seq study of adult ventral nerve cords	3085	20
-FBlc0005362	scRNAseq_2019_Avalos	Single-cell RNA-seq study of first instar larval brains upon starvation	6463	10
-FBlc0006090	scRNAseq_2018_Davie	Single-cell RNA-seq study of the aging brain	6111	59
+VFBseq_00001758	scRNAseq data from Özel (2021)	Neuronal diversity and convergence in a visual system developmental atlas	8138	522
+VFBseq_00002581	scRNAseq data from Xie (2021)	Temporal evolution of single-cell transcriptomes of Drosophila olfactory projection neurons	8317	92
+VFBseq_00003198	scRNAseq data from Saavedra (2023)	REPTOR and CREBRF encode key regulators of muscle energy metabolism	1402	14
+VFBseq_00003188	scRNAseq data from Mokashi (2021)	Developmental Alcohol Exposure in Drosophila: Effects on Adult Phenotypes and Gene Expression in the Brain	3664	26
+VFBseq_00001468	scRNAseq data from Lu (2023)	Aging Fly Cell Atlas identifies exhaustive aging features at cellular resolution	5399	143
+VFBseq_00000777	scRNAseq data from Li (2022), Smart-seq2	Fly Cell Atlas: A single-nucleus transcriptomic atlas of the adult fruit fly	15011	211
+VFBseq_00000538	scRNAseq data from Li (2022), 10x	Fly Cell Atlas: A single-nucleus transcriptomic atlas of the adult fruit fly	12747	335
+VFBseq_00002527	scRNAseq data from Li (2017)	Classifying Drosophila Olfactory Projection Neuron Subtypes by Single-Cell RNA Sequencing	7562	22
+VFBseq_00000001	scRNAseq data from Kurmangaliyev (2020)	Transcriptional Programs of Circuit Assembly in the Drosophila Visual System	7473	232
+VFBseq_00002364	scRNAseq data from Konstantinides (2022)	A complete temporal transcription factor series in the fly visual system	7154	75
+VFBseq_00002844	scRNAseq data from Ing-Simmons (2021)	Independence of chromatin conformation and gene regulation during Drosophila dorsoventral patterning	6763	13
+VFBseq_00002461	scRNAseq data from Hörmann (2020)	A combinatorial code of transcription factors specifies subtypes of visual motion-sensing neurons in Drosophila	3874	40
+VFBseq_00000243	scRNAseq data from Davie (2018)	A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain	6704	82
+VFBseq_00002863	scRNAseq data from Calderon (2022)	The continuum of Drosophila embryonic development at single-cell resolution	4539	223
+VFBseq_00003150	scRNAseq data from Brunet Avalos (2019)	Single cell transcriptome atlas of the Drosophila larval brain	6772	28
+VFBseq_00003265	scRNAseq data from Baker (2021)	The Drosophila brain on cocaine at single-cell resolution	3634	22
+VFBseq_00002728	scRNAseq data from Allen (2020)	A single-cell transcriptomic atlas of the adult Drosophila ventral nerve cord	6264	106
