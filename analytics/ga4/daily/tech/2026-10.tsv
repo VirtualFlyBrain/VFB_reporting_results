@@ -921,30 +921,30 @@ date	deviceCategory	operatingSystem	browser	activeUsers	sessions	userEngagementD
 2026-10-30	tablet	Android	Chrome	10	10	662
 2026-10-30	tablet	iOS	Chrome	7	8	117
 2026-10-30	tablet	iOS	Safari	6	6	182
-2026-10-31	desktop			1	0	0
-2026-10-31	desktop	Chrome OS	Chrome	13	18	1067
-2026-10-31	desktop	Linux	Chrome	100	101	662
+2026-10-31	desktop	(not set)	(not set)	1	0	0
+2026-10-31	desktop	Chrome OS	Chrome	14	19	1169
+2026-10-31	desktop	Linux	Chrome	110	111	708
 2026-10-31	desktop	Linux	Firefox	9	11	357
 2026-10-31	desktop	Linux	Meta Quest Browser	2	2	115
-2026-10-31	desktop	Macintosh	Chrome	41	49	4119
-2026-10-31	desktop	Macintosh	Edge	1	1	0
+2026-10-31	desktop	Macintosh	Chrome	45	56	4292
+2026-10-31	desktop	Macintosh	Edge	0	2	0
 2026-10-31	desktop	Macintosh	Firefox	2	2	285
 2026-10-31	desktop	Macintosh	Mozilla Compatible Agent	3	3	0
 2026-10-31	desktop	Macintosh	Opera	4	4	95
-2026-10-31	desktop	Macintosh	Safari	65	73	4020
-2026-10-31	desktop	Windows	Chrome	9892	9815	32757
-2026-10-31	desktop	Windows	Edge	70	80	5993
-2026-10-31	desktop	Windows	Firefox	16	21	1321
-2026-10-31	desktop	Windows	Opera	41	55	2403
+2026-10-31	desktop	Macintosh	Safari	64	79	4259
+2026-10-31	desktop	Windows	Chrome	10606	10442	35082
+2026-10-31	desktop	Windows	Edge	74	86	6134
+2026-10-31	desktop	Windows	Firefox	14	21	1321
+2026-10-31	desktop	Windows	Opera	43	59	2573
 2026-10-31	desktop	Windows	YaBrowser	3	3	507
-2026-10-31	mobile	Android	Chrome	186	195	6322
+2026-10-31	mobile	Android	Chrome	199	210	6806
 2026-10-31	mobile	Android	Edge	2	2	10
 2026-10-31	mobile	Android	Firefox	3	3	32
 2026-10-31	mobile	Android	Opera	3	3	80
-2026-10-31	mobile	Android	Samsung Internet	8	8	106
-2026-10-31	mobile	iOS	Chrome	17	17	432
-2026-10-31	mobile	iOS	Safari	127	150	3173
+2026-10-31	mobile	Android	Samsung Internet	7	8	106
+2026-10-31	mobile	iOS	Chrome	17	19	436
+2026-10-31	mobile	iOS	Safari	123	161	3419
 2026-10-31	tablet	Android	Amazon Silk	2	2	72
 2026-10-31	tablet	Android	Chrome	12	12	686
 2026-10-31	tablet	iOS	Chrome	7	7	193
-2026-10-31	tablet	iOS	Safari	8	8	331
+2026-10-31	tablet	iOS	Safari	9	9	331
