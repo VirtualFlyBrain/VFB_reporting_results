@@ -173,28 +173,30 @@ date	deviceCategory	operatingSystem	browser	activeUsers	sessions	userEngagementD
 2026-11-06	tablet	iOS	Chrome	6	6	218
 2026-11-06	tablet	iOS	Safari	3	4	99
 2026-11-07	desktop			1	0	0
-2026-11-07	desktop		(not set)	294	294	0
+2026-11-07	desktop		(not set)	321	321	0
 2026-11-07	desktop		Chrome	1	1	20
-2026-11-07	desktop	Chrome OS	Chrome	9	10	393
-2026-11-07	desktop	Linux	Chrome	42	44	398
+2026-11-07	desktop	Chrome OS	Chrome	10	11	406
+2026-11-07	desktop	Linux	Chrome	46	48	407
 2026-11-07	desktop	Linux	Edge	2	2	19
-2026-11-07	desktop	Linux	Firefox	2	2	565
+2026-11-07	desktop	Linux	Firefox	3	3	605
 2026-11-07	desktop	Linux	Meta Quest Browser	2	2	65
-2026-11-07	desktop	Macintosh	Chrome	65	74	1157
+2026-11-07	desktop	Macintosh	Chrome	71	82	1236
 2026-11-07	desktop	Macintosh	Firefox	1	1	19
 2026-11-07	desktop	Macintosh	Mozilla Compatible Agent	1	1	0
-2026-11-07	desktop	Macintosh	Opera	1	1	32
-2026-11-07	desktop	Macintosh	Safari	41	47	3247
-2026-11-07	desktop	Windows	Chrome	13498	13906	34091
-2026-11-07	desktop	Windows	Edge	50	63	2719
-2026-11-07	desktop	Windows	Firefox	8	10	180
-2026-11-07	desktop	Windows	Opera	15	19	716
+2026-11-07	desktop	Macintosh	Opera	2	2	48
+2026-11-07	desktop	Macintosh	Safari	48	58	3917
+2026-11-07	desktop	Windows	Chrome	15101	15618	38552
+2026-11-07	desktop	Windows	Edge	56	69	2869
+2026-11-07	desktop	Windows	Firefox	10	12	213
+2026-11-07	desktop	Windows	Opera	16	23	762
 2026-11-07	desktop	Windows	YaBrowser	1	1	3
 2026-11-07	mobile	Android	Android Webview	1	1	0
-2026-11-07	mobile	Android	Chrome	123	133	2668
+2026-11-07	mobile	Android	Chrome	133	145	2942
 2026-11-07	mobile	Android	Edge	1	1	33
-2026-11-07	mobile	iOS	Chrome	12	12	206
-2026-11-07	mobile	iOS	Safari	73	83	932
-2026-11-07	mobile	iOS	Safari (in-app)	4	5	123
+2026-11-07	mobile	Android	Firefox	1	1	33
+2026-11-07	mobile	iOS	Chrome	14	15	298
+2026-11-07	mobile	iOS	Safari	89	100	1658
+2026-11-07	mobile	iOS	Safari (in-app)	5	6	123
+2026-11-07	tablet	Android	Amazon Silk	1	1	11
 2026-11-07	tablet	Android	Chrome	11	11	781
 2026-11-07	tablet	iOS	Chrome	3	3	500
