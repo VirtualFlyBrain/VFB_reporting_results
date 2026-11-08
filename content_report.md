@@ -1,45 +1,45 @@
 
-VFB Content Report 2026-11-07
+VFB Content Report 2026-11-08
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 07 Nov 2026 00:21:14``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sun, 08 Nov 2026 00:17:18``
 
 ***``Ontology Content``***
 
 |Anatomy|Classes|Publications|
 | :--- | :--- | :--- |
-|All Terms|28795|2214|
-|All Nervous System Parts|21845|1674|
-|All Neurons|18304|1294|
-|Characterised Neurons|6896|1288|
+|All Terms|28849|2235|
+|All Nervous System Parts|21890|1686|
+|All Neurons|18349|1303|
+|Characterised Neurons|6941|1296|
 |Provisional Neurons|11408|39|
-|All Nervous System Regions|1435|270|
-|Synaptic Neuropils|625|152|
-|Neuron Projection Bundles|600|140|
+|All Nervous System Regions|1435|272|
+|Synaptic Neuropils|625|153|
+|Neuron Projection Bundles|600|142|
 |Cell Body Rinds|132|10|
-|Sense Organs|854|180|
+|Sense Organs|854|182|
 
 
-**155092** formal assertions, of which **69523** are SubClassOf assertions and **85569** are other relationship types
+**155342** formal assertions, of which **69658** are SubClassOf assertions and **85684** are other relationship types
 
-**140916** formal assertions on nervous system components, of which **61371** are SubClassOf assertions and **79545** are other relationship types
+**141136** formal assertions on nervous system components, of which **61494** are SubClassOf assertions and **79642** are other relationship types
 
 ***``Image Content``***
 *``(excludes hemibrain v1.0.1)``*
 
-**792279** total images from **188** datasets
-**606268** single neuron images of **14409** cell types
+**802699** total images from **189** datasets
+**616687** single neuron images of **14410** cell types
 **87050** images of expression patterns of **20736** drivers
 **46101** images of expression patterns of **4439** split combinations
 **96907** images of expression pattern fragments of **8038** drivers
 
 ***``Expression Annotations``***
 
-**94205** annotations recording **3279** types of anatomical structure that **12960** specific driver lines are expressed in.
-**86768** annotations recording **2506** parts of the nervous system that **11788** specific driver lines are expressed in.
-**11141** annotations recording **1746** types of neuron that **3102** specific driver lines are expressed in.
-**4698** annotations recording **665** types of neuron that **1232** specific split combinations are expressed in.
+**99903** annotations recording **3690** types of anatomical structure that **13391** specific driver lines are expressed in.
+**91697** annotations recording **2766** parts of the nervous system that **12241** specific driver lines are expressed in.
+**13193** annotations recording **1910** types of neuron that **3538** specific driver lines are expressed in.
+**4679** annotations recording **660** types of neuron that **1230** specific split combinations are expressed in.
 
 ***``Connectivity``***
 
@@ -70,9 +70,9 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 07 Nov 2
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|JRC2018Unisex|142|635804|522528|359277|56037|26014|56265|780|
+|JRC2018Unisex|143|646223|532947|359277|56037|26014|56265|780|
 |JRC2018UnisexVNC|102|142186|77922|53782|26916|19227|37097|249|
-|L1 larval CNS ssTEM - Cardona/Janelia|28|5457|5430|5019|0|0|0|27|
+|L1 larval CNS ssTEM - Cardona/Janelia|28|5458|5430|5019|0|0|0|27|
 |adult brain template JFRC2|21|41939|16419|0|25271|600|0|58|
 |adult VNS template - Court2018|9|3194|1|0|3171|480|0|21|
 |L3 CNS template - Wood2018|4|12876|8638|0|381|381|3602|255|
