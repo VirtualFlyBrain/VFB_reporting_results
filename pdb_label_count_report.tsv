@@ -13,9 +13,9 @@ node	Cell_adhesion	76
 node	Channel	823943
 node	Chemosensory_system	19643
 node	Cholinergic	313359
-node	Class	134158
+node	Class	138942
 node	Clone	308
-node	Cluster	2186
+node	Cluster	2194
 node	Clustering	88
 node	Connectome	8
 node	Cytoskeleton_binding	287
@@ -25,9 +25,9 @@ node	DataSet	214
 node	Deprecated	39051
 node	Dopamine_receptor	4
 node	Dopaminergic	20237
-node	Entity	1913381
+node	Entity	1918204
 node	Enzyme	3735
-node	Expression_pattern	115581
+node	Expression_pattern	120379
 node	Expression_pattern_fragment	97039
 node	FAFB	5645
 node	FANC	1472
@@ -48,7 +48,7 @@ node	Histamine_receptor	2
 node	Histaminergic	24506
 node	Hormone	23
 node	Hygrosensory_system	579
-node	Individual	1778477
+node	Individual	1778516
 node	Ion_channel	395
 node	L1EM	5051
 node	Larva	23881
@@ -62,7 +62,7 @@ node	Motor_neuron	4639
 node	Muscle	1941
 node	NBLAST	592271
 node	NBLASTexp	230897
-node	Nervous_system	841263
+node	Nervous_system	841271
 node	Neuroblast	518
 node	Neuromere	108
 node	Neuron	656358
@@ -90,9 +90,9 @@ node	Sense_organ	931
 node	Sensory_neuron	69707
 node	Serotonergic	2686
 node	Serotonin_receptor	5
-node	Site	52
+node	Site	58
 node	Small_molecule_binding	434
-node	Split	54433
+node	Split	55148
 node	Stage	222
 node	Stock	36
 node	Strain	37
@@ -111,7 +111,7 @@ node	Tyraminergic	176
 node	UnknownType	11
 node	VFB	1646277
 node	Visual_system	352461
-node	hasScRNAseq	16244
+node	hasScRNAseq	16296
 node	hasScRNAseqSample	92
 node	has_image	824131
 node	has_neuron_connectivity	556676
@@ -284,8 +284,8 @@ node	primary_neuron	24502
 node	pub	5948
 node	scRNAseq_DataSet	17
 node	secondary_neuron	229972
-relationship	INSTANCEOF	2834206
-relationship	SUBCLASSOF	207306
+relationship	INSTANCEOF	2834247
+relationship	SUBCLASSOF	212090
 relationship	achieves_planned_objective	8
 relationship	adjacent_to	19
 relationship	attached_to	189
@@ -296,7 +296,7 @@ relationship	capable_of	303252
 relationship	capable_of_part_of	608
 relationship	causal_agent_in_process	1
 relationship	completely_varies_with	1
-relationship	composed_primarily_of	2304
+relationship	composed_primarily_of	2312
 relationship	concretizes	1
 relationship	connected_to	2
 relationship	consider	628
@@ -308,7 +308,7 @@ relationship	contributes_to_morphology_of	1
 relationship	contributor	965834
 relationship	created_by	33
 relationship	creator	7
-relationship	database_cross_reference	2040593
+relationship	database_cross_reference	2040599
 relationship	decreased_in_magnitude_relative_to	2
 relationship	depicts	823941
 relationship	derives_from	65
@@ -329,7 +329,7 @@ relationship	existence_overlaps	114739
 relationship	existence_starts_during	4126
 relationship	existence_starts_during_or_after	1
 relationship	existence_starts_with	3
-relationship	expresses	7270512
+relationship	expresses	7301889
 relationship	fasciculates_with	55270
 relationship	formed_as_result_of	9
 relationship	guided_by	1
@@ -343,7 +343,7 @@ relationship	has_disposition	1
 relationship	has_fasciculating_neuron_projection	233
 relationship	has_genotype	75
 relationship	has_habitat	1
-relationship	has_hemidriver	15633
+relationship	has_hemidriver	17060
 relationship	has_increased_levels_of	5
 relationship	has_input	513
 relationship	has_license	214
@@ -358,7 +358,7 @@ relationship	has_postsynaptic_terminal_in	3298420
 relationship	has_potential_to_develop_into	3
 relationship	has_presynaptic_terminals_in	2749626
 relationship	has_quality	172
-relationship	has_reference	519656
+relationship	has_reference	519657
 relationship	has_role	105
 relationship	has_scope	2
 relationship	has_sensory_dendrite_in	692
@@ -368,7 +368,7 @@ relationship	has_sequence_feature	3
 relationship	has_similar_morphology_to	252795881
 relationship	has_similar_morphology_to_part_of	13230489
 relationship	has_soma_location	549960
-relationship	has_source	1063103
+relationship	has_source	1063111
 relationship	has_specified_input	3
 relationship	has_specified_output	3
 relationship	has_subsequence	1
@@ -413,8 +413,8 @@ relationship	non_functional_homolog_of	4
 relationship	occurs_in	47
 relationship	only_in_taxon	8
 relationship	output_of	3
-relationship	overlaps	560623
-relationship	part_of	1315098
+relationship	overlaps	571526
+relationship	part_of	1324416
 relationship	partially_surrounded_by	1
 relationship	participates_in	1
 relationship	positively_regulates	409

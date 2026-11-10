@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-11-09
+VFB Content Report 2026-11-10
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 09 Nov 2026 00:15:40``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Tue, 10 Nov 2026 00:16:18``
 
 ***``Ontology Content``***
 
@@ -36,10 +36,10 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 09 Nov 2
 
 ***``Expression Annotations``***
 
-**99903** annotations recording **3690** types of anatomical structure that **13391** specific driver lines are expressed in.
-**91697** annotations recording **2766** parts of the nervous system that **12241** specific driver lines are expressed in.
-**13193** annotations recording **1910** types of neuron that **3538** specific driver lines are expressed in.
-**4679** annotations recording **660** types of neuron that **1230** specific split combinations are expressed in.
+**120314** annotations recording **4197** types of anatomical structure that **18085** specific driver lines are expressed in.
+**103315** annotations recording **3074** parts of the nervous system that **15358** specific driver lines are expressed in.
+**19446** annotations recording **2114** types of neuron that **5559** specific driver lines are expressed in.
+**6745** annotations recording **788** types of neuron that **1921** specific split combinations are expressed in.
 
 ***``Connectivity``***
 
@@ -85,8 +85,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Mon, 09 Nov 2
 
 ***``scRNAseq Data``***
 
-**2186** clusters from **17** datasets
-**433** distinct anatomy (FBbt) annotations on clusters
-**15516** distinct genes expressed across all clusters
+**2194** clusters from **17** datasets
+**477** distinct anatomy (FBbt) annotations on clusters
+**15520** distinct genes expressed across all clusters
 
 See the [scRNAseq dataset report](scRNAseq_DataSets.tsv) for per-dataset cluster and gene counts.
