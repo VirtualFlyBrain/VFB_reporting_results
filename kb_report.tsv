@@ -1,6 +1,6 @@
 ds.short_form	ds.label	ds.production	pub	license	individuals
 Andrade2019	EM L1 Andrade et al. 2019	True	FBrf0241389	CC-BY_4.0	847
-Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	True	FBrf0227179	CC-BY_4.0	6183
+Aso2014	MBONs and split-GAL4 lines that target them (Aso2014)	True	FBrf0227179	CC-BY_4.0	6199
 AsoRubin2016	split-GAL4 lines for dopaminergic neurons (AsoRubin2016)	True	FBrf0233230	CC-BY_4.0	65
 Baltruschat2021	EM FAFB Baltruschat et al 2021	True	FBrf0248487	CC-BY_4.0	20
 Barnes2022	EM L1 Barnes et al., 2022	True	FBrf0253082	CC-BY_4.0	51
@@ -26,7 +26,7 @@ Dickson2017	Dickson lab VT lines - FlyLight/Janelia images (2017)	True	FBrf02368
 Dickson_VT	Dickson lab VT line collection - VDRC images	True	FBrf0236875	CC-BY-NC-SA_4.0	18016
 Dolan2018	EM FAFB Dolan and Belliart-Guerin et al. 2018	True	FBrf0240600	CC-BY_4.0	10
 Dolan2019	GAL4 Split expression patterns from Dolan et al. 2019	True	FBrf0242477	CC-BY_4.0	4651
-Dombrovski2023	EM FAFB Dombrovski et al 2023	True		CC-BY_4.0	59
+Dombrovski2023	EM FAFB Dombrovski et al 2023	True	FBrf0255530	CC-BY_4.0	59
 Dorkenwald2023	FlyWire connectome neurons	True	FBrf0260546	CC-BY-NC_4.0	139255
 Dorkenwald2023roi	FlyWire FAFB neuropil ROIs	True	FBrf0260546	CC-BY-NC_4.0	78
 Eichler2017	Larval MB neurons - EM (Eichler2017)	True	FBrf0236359	CC-BY_4.0	388
@@ -47,13 +47,13 @@ FlyLight2019Wolff2018	Splits targetting CX neurons, Wolff2018	True	FBrf0240744	C
 FlyLight2019Wu2016	split-GAL4 lines for LC VPNs (Wu2016)	True	FBrf0234700	CC-BY_4.0	87
 FlyLightGen1Set2019	FlyLight - Gen1 GAL4/LexA collection (exported 2019)	True	FBrf0219813	CC-BY-NC-SA_4.0	15888
 Fushiki2016	Larval peristaltic locomotor system neurons - EM (Fushiki2016)	True	FBrf0231611	CC-BY_4.0	83
-Gen1MCFODionne2018	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	True	FBrf0236874	CC-BY_4.0	155
-Gen1MCFOJenett2012	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	True	FBrf0219813	CC-BY_4.0	19866
-Gen1MCFOJovanic2019	MCFO images of GMR-GAL4 lines from Jovanic et al., 2019		FBrf0241547	CC-BY_4.0	0
-Gen1MCFOPfeiffer2010	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	True	FBrf0212052	CC-BY_4.0	10
-Gen1MCFOTirian2017	MCFO images of VT-GAL4 lines from Tirian et al., 2017	True	FBrf0236875	CC-BY_4.0	28460
+Gen1MCFODionne2018	MCFO images of GMR-GAL4 lines from Dionne et al., 2018	True	FBrf0236874	CC-BY_4.0	311
+Gen1MCFOJenett2012	MCFO images of GMR-GAL4 lines from Jenett et al., 2012	True	FBrf0219813	CC-BY_4.0	50319
+Gen1MCFOJovanic2019	MCFO images of GMR-GAL4 lines from Jovanic et al., 2019		FBrf0241547	CC-BY_4.0	9
+Gen1MCFOPfeiffer2010	MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010	True	FBrf0212052	CC-BY_4.0	15
+Gen1MCFOTirian2017	MCFO images of VT-GAL4 lines from Tirian et al., 2017	True	FBrf0236875	CC-BY_4.0	65630
 Gerhard2017	Nociceptive circuit neurons - EM (Gerhard2017)	True	FBrf0237057	CC-BY_4.0	55
-Gorko2024	EM FAFB Gorko et al 2024	True	FBrf0251280	CC-BY_4.0	2
+Gorko2024	EM FAFB Gorko et al 2024	True	FBrf0259326	CC-BY_4.0	2
 Hampel2015	Grooming neurons and drivers (Hampel 2015)	True	FBrf0229838	CC-BY_4.0	6
 Hampel2017	LexA driver targetting mechanosensory eye bristles (Hampel2017)	True	FBrf0236775	CC-BY_4.0	1
 HampelEichler2020	EM FAFB Hampel and Eichler et al 2020	True	FBrf0247223	CC-BY_4.0	147
@@ -115,7 +115,7 @@ SplitFeng2020	Split-GAL4 lines from Feng et al., 2020	True	FBrf0247391	CC-BY_4.0
 SplitGao2019	Split-GAL4 lines from Gao et al., 2019	True	FBrf0241234	CC-BY_4.0	45
 SplitGarner2023	Split-GAL4 lines from Garner et al., 2023	True	FBrf0260534	CC-BY_4.0	136
 SplitGiraldo2018	Split-GAL4 lines from Giraldo et al., 2018	True	FBrf0240038	CC-BY_4.0	57
-SplitGorko2024	Split-GAL4 lines from Gorko et al., 2024	True	FBrf0259326	CC-BY_4.0	20
+SplitGorko2024	Split-GAL4 lines from Gorko et al., 2024	True	FBrf0259326	CC-BY_4.0	132
 SplitHattori2017	Split-GAL4 lines from Hattori et al., 2017	True	FBrf0235553	CC-BY_4.0	4
 SplitHulse2021	Split-GAL4 lines from Hulse et al., 2021	True	FBrf0254510	CC-BY_4.0	26
 SplitIsaacson2023	Split-GAL4 lines from Isaacson et al., 2023	True	doi_10_1101__2023_06_21_546024	CC-BY_4.0	151
@@ -131,7 +131,7 @@ SplitLongden2023	Split-GAL4 lines from Longden et al., 2023	True	FBrf0258179	CC-
 SplitMais2021	Split-GAL4 lines from Mais et al., 2021	True	doi_10_1101__2021_07_23_453511	CC-BY_4.0	60
 SplitMasek2015	Split-GAL4 lines from Masek et al., 2015	True	FBrf0228601	CC-BY_4.0	22
 SplitMeissner2018	Split-GAL4 lines from Meissner et al., 2018	True	FBrf0239816	CC-BY_4.0	18
-SplitMeissner2024	Split-GAL4 lines from Meissner et al., 2024	True	FBrf0261487	CC-BY_4.0	27002
+SplitMeissner2024	Split-GAL4 lines from Meissner et al., 2024	True	FBrf0261487	CC-BY_4.0	97999
 SplitMinegishi2023	Split-GAL4 lines from Minegishi et al., 2023	True	doi_10_25378__janelia_23726103	CC-BY_4.0	3107
 SplitMontague2019	Split-GAL4 lines from Montague et al., 2019	True	FBrf0233805	CC-BY_4.0	77
 SplitMorimoto2020	Split-GAL4 lines from Morimoto et al., 2020	True	FBrf0247630	CC-BY_4.0	237
@@ -143,10 +143,10 @@ SplitRibeiro2018	Split-GAL4 lines from Ribeiro et al., 2018	True	FBrf0239559	CC-
 SplitRubin2024	Split-GAL4 lines from Rubin et al., 2024	True	FBrf0258605	CC-BY_4.0	245
 SplitSchlichting2019	Split-GAL4 lines from Schlichting et al., 2019	True	FBrf0243752	CC-BY_4.0	229
 SplitSchretter2020	Split-GAL4 lines from Schretter et al., 2020	True	FBrf0247707	CC-BY_4.0	1323
-SplitSchretter2024	Split-GAL4 lines from Schretter et al., 2024	True	FBrf0261440	CC-BY_4.0	27
+SplitSchretter2024	Split-GAL4 lines from Schretter et al., 2024	True	FBrf0261440	CC-BY_4.0	37
 SplitShao2017	Split-GAL4 lines from Shao et al., 2017	True	FBrf0236762	CC-BY_4.0	64
-SplitShuai2023	Split-GAL4 lines from Shuai et al., 2023	True	FBrf0261563	CC-BY_4.0	9993
-SplitSitaraman2015	Split-GAL4 lines from Sitaraman et al., 2015	True	FBrf0230181	CC-BY_4.0	213
+SplitShuai2023	Split-GAL4 lines from Shuai et al., 2023	True	FBrf0261563	CC-BY_4.0	10004
+SplitSitaraman2015	Split-GAL4 lines from Sitaraman et al., 2015	True	FBrf0230181	CC-BY_4.0	214
 SplitSterne2021	Split-GAL4 lines from Sterne et al., 2021	True	FBrf0251280	CC-BY_4.0	4220
 SplitSun2017	Split-GAL4 lines from Sun et al., 2017	True	FBrf0236205	CC-BY_4.0	20
 SplitTakagi2017	Split-GAL4 lines from Takagi et al., 2017	True	FBrf0237618	CC-BY_4.0	8
@@ -162,13 +162,13 @@ SplitVogt2016	Split-GAL4 lines from Vogt et al., 2016	True	FBrf0232492	CC-BY_4.0
 SplitWang2020a	Split-GAL4 lines from Wang et al., 2020a	True	FBrf0245074	CC-BY_4.0	449
 SplitWang2020b	Split-GAL4 lines from Wang et al., 2020b	True	FBrf0246914	CC-BY_4.0	61
 SplitWang2020c	Split-GAL4 lines from Wang et al., 2020c	True	FBrf0247919	CC-BY_4.0	156
-SplitWolff2025	Split-GAL4 lines from Wolff et al., 2025	True	FBrf0262171	CC-BY_4.0	3976
+SplitWolff2025	Split-GAL4 lines from Wolff et al., 2025	True	FBrf0262171	CC-BY_4.0	5577
 SplitXie2021	Split-GAL4 lines from Xie et al., 2021	True	FBrf0247975	CC-BY_4.0	21
 SplitYamagata2015	Split-GAL4 lines from Yamagata et al., 2015	True	FBrf0227330	CC-BY_4.0	18
 SplitYoo2023	Split-GAL4 lines from Yoo et al., 2023	True	FBrf0257622	CC-BY_4.0	60
 SplitZhao2023	Split-GAL4 lines from Zhao et al., 2023	True	doi_10_1101__2023_10_16_562634	CC-BY_4.0	30
 SplitZhao2025	Split-GAL4 lines from Zhao et al., 2025	True	FBrf0263566	CC-BY_4.0	18
-SplitZung2025	Split-GAL4 lines from Zung et al., 2025	True	doi_10_1101__2025_02_22_639679	CC-BY_4.0	318
+SplitZung2025	Split-GAL4 lines from Zung et al., 2025	True	doi_10_1101__2025_02_22_639679	CC-BY_4.0	4392
 Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY_4.0	211
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	True	FBrf0256726	CC-BY_4.0	90
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY_4.0	38
