@@ -239,8 +239,8 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-10	word-edit.officeapps.live.com	referral	1	0	0
 2026-11-10	yahoo	organic	4	4	294
 2026-11-10	youtube.com	referral	1	1	0
-2026-11-11	(direct)	(none)	39355	39347	68823
-2026-11-11	(not set)	(not set)	3118	9	7924
+2026-11-11	(direct)	(none)	40647	40630	69986
+2026-11-11	(not set)	(not set)	2433	0	6584
 2026-11-11	aocr.org	referral	1	1	0
 2026-11-11	bing	organic	41	41	1759
 2026-11-11	cats.iku.edu.tr	referral	1	1	3
@@ -251,39 +251,79 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-11	ecosia.org	organic	2	2	137
 2026-11-11	elifesciences.org	referral	1	1	0
 2026-11-11	en.wikipedia.org	referral	1	1	242
-2026-11-11	gemini		1	1	0
+2026-11-11	gemini	(not set)	1	1	0
 2026-11-11	gemini.google.com	ai-assistant	1	0	0
 2026-11-11	github.com	referral	1	1	50
-2026-11-11	google	organic	458	433	20980
+2026-11-11	google	organic	460	435	21143
 2026-11-11	m.baidu.com	referral	1	1	0
 2026-11-11	m.facebook.com	referral	2	2	0
 2026-11-11	mail.google.com	referral	1	1	4
-2026-11-11	miragenews	miragenews	1	1	0
+2026-11-11	miragenews	miragenews	1	1	6
 2026-11-11	pueblo-brain-science.github.io	referral	1	1	10
 2026-11-11	qwantjunior.com	referral	1	1	19
 2026-11-11	splitgal4.janelia.org	referral	1	1	8
 2026-11-11	t.co	referral	2	2	0
 2026-11-11	yahoo	organic	5	5	40
-2026-11-12	(direct)	(none)	30388	30385	53588
-2026-11-12	(not set)	(not set)	1704	9	4059
-2026-11-12	bing	organic	40	36	4074
+2026-11-12	(direct)	(none)	36069	36069	64999
+2026-11-12	(not set)	(not set)	1950	0	4652
+2026-11-12	bing	organic	65	60	5917
 2026-11-12	br.search.yahoo.com	referral	1	1	5
-2026-11-12	cell.com	referral	1	1	11
-2026-11-12	chatgpt.com	(none)	1	1	0
+2026-11-12	cell.com	referral	2	2	11
 2026-11-12	chatgpt.com	ai-assistant	7	7	200
 2026-11-12	cn.bing.com	referral	1	1	9
-2026-11-12	codex.flywire.ai	referral	2	2	76
-2026-11-12	duckduckgo	organic	3	3	93
-2026-11-12	en.wikipedia.org	referral	1	1	0
+2026-11-12	codex.flywire.ai	referral	4	3	204
+2026-11-12	duckduckgo	organic	9	9	181
+2026-11-12	en.wikipedia.org	referral	2	2	91
+2026-11-12	flweb.janelia.org	referral	1	1	0
 2026-11-12	flybase.org	referral	4	4	231
-2026-11-12	flylight-raw.janelia.org	referral	1	1	4
 2026-11-12	gemini.google.com	ai-assistant	1	1	7
 2026-11-12	github.com	referral	1	1	93
-2026-11-12	google	organic	331	313	14255
+2026-11-12	google	organic	498	472	22842
 2026-11-12	in.search.yahoo.com	referral	1	1	196
 2026-11-12	localhost:8765	referral	1	1	36
 2026-11-12	search.brave.com	referral	2	2	71
-2026-11-12	splitgal4.janelia.org	referral	3	3	87
-2026-11-12	translate.google.com	referral	1	1	66
-2026-11-12	yahoo	organic	6	5	141
+2026-11-12	splitgal4.janelia.org	referral	4	4	91
+2026-11-12	translate.google.com	referral	4	4	125
+2026-11-12	yahoo	organic	7	6	142
 2026-11-12	youtube.com	referral	1	1	21
+2026-11-13	(data not available)	(data not available)	3	3	234
+2026-11-13	(direct)	(none)	26425	26406	49867
+2026-11-13	(not set)	(not set)	2516	10	6994
+2026-11-13	bing	organic	56	52	3900
+2026-11-13	biorxiv.org	referral	1	1	123
+2026-11-13	cell.com	referral	1	1	256
+2026-11-13	chatgpt.com	(none)	2	2	760
+2026-11-13	chatgpt.com	ai-assistant	10	6	459
+2026-11-13	cn.bing.com	referral	1	1	12
+2026-11-13	codex.flywire.ai	referral	3	3	364
+2026-11-13	duckduckgo	organic	6	6	168
+2026-11-13	ecosia.org	organic	1	1	6
+2026-11-13	en.wikipedia.org	referral	2	1	0
+2026-11-13	flweb.janelia.org	referral	1	1	8
+2026-11-13	google	organic	458	440	25846
+2026-11-13	reddit.com	referral	1	1	14
+2026-11-13	search.brave.com	referral	2	2	91
+2026-11-13	splitgal4.janelia.org	referral	3	3	12
+2026-11-13	usc-word-edit.officeapps.live.com	referral	1	1	0
+2026-11-13	yahoo	organic	1	1	0
+2026-11-14	(direct)	(none)	31861	31861	58562
+2026-11-14	(not set)	(not set)	2196	24	5604
+2026-11-14	at.search.yahoo.com	referral	1	1	0
+2026-11-14	bing	organic	49	47	4536
+2026-11-14	brainglobe.info	referral	1	1	15
+2026-11-14	chatgpt.com	(none)	1	1	24
+2026-11-14	chatgpt.com	ai-assistant	9	9	1724
+2026-11-14	cn.bing.com	referral	1	1	12
+2026-11-14	duckduckgo	organic	4	4	65
+2026-11-14	ecosia.org	organic	1	1	26
+2026-11-14	facebook.com	referral	5	5	15
+2026-11-14	google	organic	400	388	17747
+2026-11-14	lm.facebook.com	referral	1	1	25
+2026-11-14	m.facebook.com	referral	4	4	0
+2026-11-14	science.org	referral	1	1	219
+2026-11-14	search.brave.com	referral	1	1	30
+2026-11-14	t.co	referral	2	2	0
+2026-11-14	translate.google.com	referral	2	2	194
+2026-11-14	uk.search.yahoo.com	referral	3	3	87
+2026-11-14	v3-virtualflybrain-org.translate.goog	referral	1	1	448
+2026-11-14	yahoo	organic	1	1	45
