@@ -286,21 +286,19 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-12	translate.google.com	referral	4	4	125
 2026-11-12	yahoo	organic	7	6	142
 2026-11-12	youtube.com	referral	1	1	21
-2026-11-13	(data not available)	(data not available)	3	3	234
-2026-11-13	(direct)	(none)	26425	26406	49867
-2026-11-13	(not set)	(not set)	2516	10	6994
+2026-11-13	(direct)	(none)	25855	25855	49869
+2026-11-13	(not set)	(not set)	2502	0	6988
 2026-11-13	bing	organic	56	52	3900
 2026-11-13	biorxiv.org	referral	1	1	123
 2026-11-13	cell.com	referral	1	1	256
-2026-11-13	chatgpt.com	(none)	2	2	760
-2026-11-13	chatgpt.com	ai-assistant	10	6	459
+2026-11-13	chatgpt.com	ai-assistant	10	6	1219
 2026-11-13	cn.bing.com	referral	1	1	12
 2026-11-13	codex.flywire.ai	referral	3	3	364
 2026-11-13	duckduckgo	organic	6	6	168
 2026-11-13	ecosia.org	organic	1	1	6
 2026-11-13	en.wikipedia.org	referral	2	1	0
 2026-11-13	flweb.janelia.org	referral	1	1	8
-2026-11-13	google	organic	458	440	25846
+2026-11-13	google	organic	464	446	26080
 2026-11-13	reddit.com	referral	1	1	14
 2026-11-13	search.brave.com	referral	2	2	91
 2026-11-13	splitgal4.janelia.org	referral	3	3	12
@@ -327,3 +325,28 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-14	uk.search.yahoo.com	referral	3	3	87
 2026-11-14	v3-virtualflybrain-org.translate.goog	referral	1	1	448
 2026-11-14	yahoo	organic	1	1	45
+2026-11-15	(direct)	(none)	39386	39386	50730
+2026-11-15	(not set)	(not set)	2566	6	6260
+2026-11-15	bing	organic	37	37	3159
+2026-11-15	biorxiv.org	referral	1	1	350
+2026-11-15	cats.iku.edu.tr	referral	1	1	0
+2026-11-15	chatgpt.com	ai-assistant	7	6	56
+2026-11-15	cn.bing.com	referral	1	1	0
+2026-11-15	codex.flywire.ai	referral	2	2	93
+2026-11-15	duckduckgo	organic	6	5	136
+2026-11-15	ecosia.org	organic	2	2	41
+2026-11-15	en.wikipedia.org	referral	2	2	84
+2026-11-15	google	organic	360	352	12641
+2026-11-15	homepages.inf.ed.ac.uk	referral	1	1	7
+2026-11-15	m.facebook.com	referral	1	1	0
+2026-11-15	nature.com	referral	1	1	0
+2026-11-15	noai.duckduckgo.com	referral	1	1	0
+2026-11-15	science.org	referral	1	1	79
+2026-11-15	splitgal4.janelia.org	referral	1	0	0
+2026-11-15	temca2data.org	referral	1	1	1051
+2026-11-15	uk.search.yahoo.com	referral	1	1	0
+2026-11-15	v3-virtualflybrain-org.translate.goog	referral	1	1	12
+2026-11-15	wenxin.baidu.com	referral	1	1	3
+2026-11-15	workshop-virtualflybrain-org.translate.goog	referral	1	1	0
+2026-11-15	yahoo	organic	2	2	2
+2026-11-15	youtube.com	referral	2	2	125
