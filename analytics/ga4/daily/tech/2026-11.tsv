@@ -486,30 +486,56 @@ date	deviceCategory	operatingSystem	browser	activeUsers	sessions	userEngagementD
 2026-11-18	tablet	Android	Chrome	5	5	112
 2026-11-18	tablet	iOS	Chrome	4	5	923
 2026-11-18	tablet	iOS	Safari	2	2	36
-2026-11-19	desktop			1	0	0
-2026-11-19	desktop		(not set)	5	5	1
-2026-11-19	desktop	Chrome OS	Chrome	53	60	4932
-2026-11-19	desktop	Linux	Chrome	401	404	1290
+2026-11-19	desktop	(not set)	(not set)	6	5	1
+2026-11-19	desktop	Chrome OS	Chrome	60	68	5570
+2026-11-19	desktop	Linux	Chrome	408	412	1324
 2026-11-19	desktop	Linux	Firefox	8	10	666
 2026-11-19	desktop	Linux	Meta Quest Browser	1	1	110
-2026-11-19	desktop	Macintosh	Chrome	105	116	3463
+2026-11-19	desktop	Linux	Samsung Internet	1	1	33
+2026-11-19	desktop	Macintosh	Chrome	109	123	3485
 2026-11-19	desktop	Macintosh	Firefox	1	2	136
 2026-11-19	desktop	Macintosh	Mozilla Compatible Agent	4	4	0
-2026-11-19	desktop	Macintosh	Opera	3	6	72
-2026-11-19	desktop	Macintosh	Safari	40	48	1832
-2026-11-19	desktop	Windows	Chrome	35031	36005	76312
-2026-11-19	desktop	Windows	Edge	44	53	3335
+2026-11-19	desktop	Macintosh	Opera	2	7	99
+2026-11-19	desktop	Macintosh	Safari	42	55	3883
+2026-11-19	desktop	Windows	Chrome	39175	40574	86826
+2026-11-19	desktop	Windows	Edge	47	58	3489
 2026-11-19	desktop	Windows	Firefox	16	18	1329
-2026-11-19	desktop	Windows	Opera	20	22	1138
+2026-11-19	desktop	Windows	Opera	25	29	1221
 2026-11-19	mobile	Android	Android Webview	3	3	101
-2026-11-19	mobile	Android	Chrome	105	108	2033
+2026-11-19	mobile	Android	Chrome	111	122	2113
 2026-11-19	mobile	Android	Edge	1	1	0
-2026-11-19	mobile	Android	Firefox	1	1	25
+2026-11-19	mobile	Android	Firefox	2	2	72
 2026-11-19	mobile	Android	Opera	1	2	27
-2026-11-19	mobile	Android	Samsung Internet	2	2	3
-2026-11-19	mobile	iOS	Chrome	9	11	268
-2026-11-19	mobile	iOS	Safari	69	78	1189
-2026-11-19	smart tv		Safari	1	1	1
+2026-11-19	mobile	Android	Samsung Internet	3	3	27
+2026-11-19	mobile	iOS	Chrome	11	14	290
+2026-11-19	mobile	iOS	Safari	91	107	1628
+2026-11-19	smart tv	(not set)	Safari	1	1	1
 2026-11-19	tablet	Android	Chrome	3	3	54
 2026-11-19	tablet	iOS	Chrome	1	1	28
 2026-11-19	tablet	iOS	Safari	2	2	9
+2026-11-20	desktop			1	0	0
+2026-11-20	desktop	Chrome OS	Chrome	52	64	5013
+2026-11-20	desktop	Linux	Chrome	152	154	850
+2026-11-20	desktop	Linux	Firefox	6	6	330
+2026-11-20	desktop	Linux	Meta Quest Browser	2	2	158
+2026-11-20	desktop	Macintosh	Chrome	734	742	5411
+2026-11-20	desktop	Macintosh	Edge	1	1	153
+2026-11-20	desktop	Macintosh	Firefox	3	6	3714
+2026-11-20	desktop	Macintosh	Mozilla Compatible Agent	4	4	0
+2026-11-20	desktop	Macintosh	Safari	32	35	1883
+2026-11-20	desktop	Windows	Chrome	38955	39995	80380
+2026-11-20	desktop	Windows	Edge	51	57	3341
+2026-11-20	desktop	Windows	Firefox	11	13	1322
+2026-11-20	desktop	Windows	Opera	20	24	944
+2026-11-20	mobile	Android	Android Webview	4	4	35
+2026-11-20	mobile	Android	Chrome	97	103	3321
+2026-11-20	mobile	Android	Firefox	3	3	140
+2026-11-20	mobile	Android	Opera	3	3	121
+2026-11-20	mobile	Android	Samsung Internet	4	4	34
+2026-11-20	mobile	Android	UC Browser	2	2	30
+2026-11-20	mobile	iOS	Chrome	15	16	185
+2026-11-20	mobile	iOS	Safari	76	88	1437
+2026-11-20	mobile	iOS	Safari (in-app)	5	5	0
+2026-11-20	tablet	Android	Chrome	4	4	58
+2026-11-20	tablet	iOS	Chrome	2	2	42
+2026-11-20	tablet	iOS	Safari	1	1	64

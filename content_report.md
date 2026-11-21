@@ -1,9 +1,9 @@
 
-VFB Content Report 2026-11-20
+VFB Content Report 2026-11-21
 =============================
 
 
-Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 20 Nov 2026 00:18:43``
+Report of content found at ``http://pdb.virtualflybrain.org`` on ``Sat, 21 Nov 2026 00:19:55``
 
 ***``Ontology Content``***
 
@@ -28,16 +28,16 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 20 Nov 2
 ***``Image Content``***
 *``(excludes hemibrain v1.0.1)``*
 
-**802539** total images from **189** datasets
+**803991** total images from **189** datasets
 **616687** single neuron images of **14410** cell types
-**87009** images of expression patterns of **20736** drivers
-**46060** images of expression patterns of **4439** split combinations
-**96788** images of expression pattern fragments of **8036** drivers
+**87012** images of expression patterns of **20739** drivers
+**46063** images of expression patterns of **4442** split combinations
+**98237** images of expression pattern fragments of **8205** drivers
 
 ***``Expression Annotations``***
 
-**120327** annotations recording **4197** types of anatomical structure that **18089** specific driver lines are expressed in.
-**103315** annotations recording **3074** parts of the nervous system that **15358** specific driver lines are expressed in.
+**120312** annotations recording **4197** types of anatomical structure that **18092** specific driver lines are expressed in.
+**103280** annotations recording **3074** parts of the nervous system that **15357** specific driver lines are expressed in.
 **19446** annotations recording **2114** types of neuron that **5559** specific driver lines are expressed in.
 **6745** annotations recording **788** types of neuron that **1921** specific split combinations are expressed in.
 
@@ -70,8 +70,8 @@ Report of content found at ``http://pdb.virtualflybrain.org`` on ``Fri, 20 Nov 2
 
 |Template Name|Datasets|Images|Single Neurons|EM Neurons|Full Expression Patterns|Split Expression Patterns|Partial Expression Patterns|Painted domains|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|JRC2018Unisex|143|646122|532947|359277|56018|25995|56183|780|
-|JRC2018UnisexVNC|102|142127|77922|53782|26894|19205|37060|249|
+|JRC2018Unisex|143|647571|532947|359277|56021|25998|57629|780|
+|JRC2018UnisexVNC|102|142130|77922|53782|26894|19205|37063|249|
 |L1 larval CNS ssTEM - Cardona/Janelia|28|5458|5430|5019|0|0|0|27|
 |adult brain template JFRC2|21|41939|16419|0|25271|600|0|58|
 |adult VNS template - Court2018|9|3194|1|0|3171|480|0|21|
