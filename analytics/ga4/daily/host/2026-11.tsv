@@ -738,15 +738,16 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-11-23	workshop.virtualflybrain.org	5	4	6	6	8	35	21
 2026-11-23	www-virtualflybrain-org.translate.goog	1	1	1	1	1	5	4
 2026-11-23	www.virtualflybrain.org	15927	15291	15348	14890	15598	13907	48605
-2026-11-24		13503	0	13522	10524	33130	7850	33192
+2026-11-24		16284	0	16188	13082	39065	8777	39068
+2026-11-24	(not set)	1	0	0	0	0	0	64
 2026-11-24	abd1.5.catmaid.virtualflybrain.org	2	1	2	2	2	0	6
 2026-11-24	api.virtualflybrain.org	6	6	6	6	6	0	18
-2026-11-24	braintrap.virtualflybrain.org	18	18	18	18	18	0	56
-2026-11-24	catmaid-fafb.virtualflybrain.org	4	3	4	3	3	0	13
-2026-11-24	dill.inf.ed.ac.uk	58	58	58	58	58	5	177
-2026-11-24	fafb.catmaid.virtualflybrain.org	5	5	5	5	5	15	20
+2026-11-24	braintrap.virtualflybrain.org	21	21	21	21	21	0	65
+2026-11-24	catmaid-fafb.virtualflybrain.org	5	4	5	4	4	0	17
+2026-11-24	dill.inf.ed.ac.uk	63	63	63	63	63	5	192
+2026-11-24	fafb.catmaid.virtualflybrain.org	9	7	9	9	10	47	37
 2026-11-24	flybrain.inf.ed.ac.uk	23	23	23	23	23	5	77
-2026-11-24	fruitfly.inf.ed.ac.uk	714	714	715	715	714	0	2142
+2026-11-24	fruitfly.inf.ed.ac.uk	808	808	808	808	808	0	2424
 2026-11-24	groups.google.com	1	0	1	1	1	4	1
 2026-11-24	iav-robo.catmaid.virtualflybrain.org	1	1	1	1	1	0	4
 2026-11-24	l1em.catmaid.virtualflybrain.org	7	4	8	7	7	5	27
@@ -756,14 +757,39 @@ date	hostName	activeUsers	newUsers	sessions	engagedSessions	screenPageViews	user
 2026-11-24	r.virtualflybrain.org	6	6	6	6	6	0	18
 2026-11-24	raw.larval.flylight.virtualflybrain.org	4	1	5	3	3	27	13
 2026-11-24	v2-dev.virtualflybrain.org	1	0	2	1	4	55	36
-2026-11-24	v2.virtualflybrain.org	19252	15335	19697	15531	23428	54930	178032
+2026-11-24	v2.virtualflybrain.org	22767	18497	22789	18580	28541	65687	219232
 2026-11-24	v2a.virtualflybrain.org	2	0	5	3	10	104	85
 2026-11-24	v3-dev.virtualflybrain.org	2	0	4	2	6	234	49
 2026-11-24	v3-virtualflybrain-org.translate.goog	1	1	1	1	2	51	14
-2026-11-24	v3.virtualflybrain.org	428	255	455	431	1370	16250	8359
+2026-11-24	v3.virtualflybrain.org	483	284	517	489	1548	19283	9811
 2026-11-24	virtualflybrain.github.io	1	1	1	1	1	0	3
-2026-11-24	virtualflybrain.org	515	500	516	512	527	677	1611
+2026-11-24	virtualflybrain.org	582	570	587	583	598	695	1828
 2026-11-24	workshop-virtualflybrain-org.translate.goog	1	1	1	1	2	11	7
-2026-11-24	workshop.virtualflybrain.org	12	8	13	12	15	126	45
+2026-11-24	workshop.virtualflybrain.org	9	8	13	12	15	126	45
 2026-11-24	www-virtualflybrain-org.translate.goog	3	3	3	3	3	30	14
-2026-11-24	www.virtualflybrain.org	8642	8158	8786	8383	8439	9707	26499
+2026-11-24	www.virtualflybrain.org	9245	8785	9349	8948	9100	10973	28539
+2026-11-25		7707	0	7767	5731	18930	3582	19037
+2026-11-25	abd1.5.catmaid.virtualflybrain.org	2	1	2	2	2	0	6
+2026-11-25	api.virtualflybrain.org	2	1	2	2	2	0	4
+2026-11-25	braintrap.virtualflybrain.org	4	4	4	4	4	0	12
+2026-11-25	buttermilk.inf.ed.ac.uk	11	11	11	11	11	0	34
+2026-11-25	catmaid-fafb.virtualflybrain.org	4	4	4	4	4	0	14
+2026-11-25	dill.inf.ed.ac.uk	28	28	28	28	28	0	85
+2026-11-25	fafb.catmaid.virtualflybrain.org	5	5	5	5	5	0	20
+2026-11-25	flybrain.inf.ed.ac.uk	13	13	13	13	13	0	41
+2026-11-25	fruitfly.inf.ed.ac.uk	191	191	190	190	191	0	574
+2026-11-25	l1em.catmaid.virtualflybrain.org	9	5	11	9	10	100	29
+2026-11-25	larva1099.catmaid.virtualflybrain.org	1	0	1	1	1	38	3
+2026-11-25	mayo.inf.ed.ac.uk	3	3	3	3	3	11	10
+2026-11-25	pypi.org	1	0	1	1	1	67	1
+2026-11-25	query.virtualflybrain.org	1	1	1	1	1	0	3
+2026-11-25	r.virtualflybrain.org	1	1	1	1	1	0	3
+2026-11-25	raw.larval.flylight.virtualflybrain.org	2	2	2	2	2	0	6
+2026-11-25	twitter.com	1	0	1	1	1	10	1
+2026-11-25	v2-dev.virtualflybrain.org	2	1	2	2	2	9	13
+2026-11-25	v2.virtualflybrain.org	11417	8778	11468	8703	13817	34185	102375
+2026-11-25	v2a.virtualflybrain.org	4	4	4	4	4	5	13
+2026-11-25	v3.virtualflybrain.org	362	244	389	380	1171	12812	7891
+2026-11-25	virtualflybrain.org	263	254	267	265	290	692	886
+2026-11-25	workshop.virtualflybrain.org	6	5	10	9	16	271	44
+2026-11-25	www.virtualflybrain.org	3039	2976	3082	3050	3196	7311	9819

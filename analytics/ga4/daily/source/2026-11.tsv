@@ -536,17 +536,17 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-23	splitgal4.janelia.org	referral	6	4	226
 2026-11-23	temca2data.org	referral	1	1	58
 2026-11-23	yahoo	organic	4	3	78
-2026-11-24	(direct)	(none)	24651	24651	59404
-2026-11-24	(not set)	(not set)	4705	9	10812
-2026-11-24	bing	organic	44	41	1739
-2026-11-24	chatgpt.com	ai-assistant	13	12	459
+2026-11-24	(direct)	(none)	28662	28647	72616
+2026-11-24	(not set)	(not set)	4801	0	11288
+2026-11-24	bing	organic	54	51	2274
+2026-11-24	chatgpt.com	ai-assistant	14	13	688
 2026-11-24	cn.bing.com	referral	7	5	302
-2026-11-24	duckduckgo	organic	10	10	411
+2026-11-24	duckduckgo	organic	13	13	754
 2026-11-24	ecosia.org	organic	1	1	59
 2026-11-24	en.wikipedia.org	referral	1	1	0
-2026-11-24	flylight-raw.janelia.org	referral	3	3	42
+2026-11-24	flylight-raw.janelia.org	referral	3	3	63
 2026-11-24	github.com	referral	1	1	0
-2026-11-24	google	organic	306	287	14924
+2026-11-24	google	organic	350	330	16141
 2026-11-24	l.facebook.com	referral	1	1	0
 2026-11-24	login.microsoftonline.com	referral	1	1	22
 2026-11-24	m.facebook.com	referral	3	3	0
@@ -559,3 +559,21 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-24	v3-virtualflybrain-org.translate.goog	referral	1	1	42
 2026-11-24	yahoo	organic	1	1	0
 2026-11-24	youtube.com	referral	1	1	94
+2026-11-25	(direct)	(none)	12292	12292	32834
+2026-11-25	(not set)	(not set)	3116	16	7147
+2026-11-25	bing	organic	33	31	1580
+2026-11-25	chatgpt.com	ai-assistant	8	7	450
+2026-11-25	cn.bing.com	referral	2	1	142
+2026-11-25	codex.flywire.ai	referral	1	1	0
+2026-11-25	duckduckgo	organic	6	6	28
+2026-11-25	ecosia.org	organic	1	1	5
+2026-11-25	en.wikipedia.org	referral	1	1	41
+2026-11-25	fr.search.yahoo.com	referral	1	1	12
+2026-11-25	gemini.google.com	ai-assistant	1	1	0
+2026-11-25	google	organic	272	257	16434
+2026-11-25	l.facebook.com	referral	1	1	13
+2026-11-25	nature.com	referral	1	1	0
+2026-11-25	perplexity.ai	ai-assistant	3	2	295
+2026-11-25	science.org	referral	2	0	85
+2026-11-25	secretome.mathwhittakerdesign.co.uk	referral	1	1	0
+2026-11-25	youtube.com	referral	1	1	27

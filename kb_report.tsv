@@ -172,7 +172,8 @@ SplitZung2025	Split-GAL4 lines from Zung et al., 2025	True	doi_10_1101__2025_02_
 Strother2017	Splits targetting the visual motion pathway, Strother2017	True	FBrf0235230	CC-BY_4.0	211
 TaiszGalili2022	EM FAFB Taisz and Galili et al., 2022	True	FBrf0256726	CC-BY_4.0	90
 Takagi2017	Larval wave neurons and circuit partners - EM  (Takagi2017)	True	FBrf0237618	CC-BY_4.0	38
-Takemura2023	Male Adult Nerve Cord (MANC) connectome neurons	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	23759
+Takemura2023	Male Adult Nerve Cord (MANC) version 1.2.1 connectome neurons	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	94
+Takemura2023a	Male Adult Nerve Cord (MANC) version 1.2.3 connectome neurons	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	23665
 Takemura2023roi	MANC neuropil and tract ROIs	True	doi_10_1101__2023_06_05_543757	CC-BY_4.0	59
 Tastekin2018	EM L1 Tastekin et al 2018	True	FBrf0240828	CC-BY_4.0	10
 Truman2016	L3 Larval CNS Template (Truman2016)	True		CC-BY_4.0	1
