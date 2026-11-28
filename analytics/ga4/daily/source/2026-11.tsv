@@ -577,21 +577,20 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-25	science.org	referral	2	0	85
 2026-11-25	secretome.mathwhittakerdesign.co.uk	referral	1	1	0
 2026-11-25	youtube.com	referral	1	1	27
-2026-11-26		Scamadviser.com	1	1	0
-2026-11-26	(direct)	(none)	27993	27928	47526
-2026-11-26	(not set)	(not set)	2536	44	4833
-2026-11-26	bing	organic	32	30	2662
-2026-11-26	chatgpt.com	(none)	1	1	4
-2026-11-26	chatgpt.com	ai-assistant	8	6	604
+2026-11-26	(direct)	(none)	31932	31932	55321
+2026-11-26	(not set)	(not set)	2668	0	5318
+2026-11-26	(not set)	Scamadviser.com	1	1	0
+2026-11-26	bing	organic	34	32	2698
+2026-11-26	chatgpt.com	ai-assistant	9	7	608
 2026-11-26	cn.bing.com	referral	6	6	2162
 2026-11-26	codex.flywire.ai	referral	1	1	0
-2026-11-26	duckduckgo	organic	3	3	210
+2026-11-26	duckduckgo	organic	4	4	261
 2026-11-26	en.wikipedia.org	referral	2	2	59
 2026-11-26	facebook.com	referral	3	3	14
 2026-11-26	flylight-raw.janelia.org	referral	1	1	0
 2026-11-26	gemini.google.com	ai-assistant	1	1	0
 2026-11-26	github.com	referral	3	3	172
-2026-11-26	google	organic	293	276	12513
+2026-11-26	google	organic	329	311	14277
 2026-11-26	m.facebook.com	referral	1	1	0
 2026-11-26	perplexity.ai	ai-assistant	2	2	0
 2026-11-26	qwant.com	organic	1	1	62
@@ -601,5 +600,29 @@ date	sessionSource	sessionMedium	sessions	engagedSessions	userEngagementDuration
 2026-11-26	teams.public.onecdn.static.microsoft	referral	1	1	23
 2026-11-26	temca2data.org	referral	1	1	0
 2026-11-26	yahoo	organic	1	1	53
-2026-11-26	yandex.kz	referral	1	1	42
+2026-11-26	yandex.kz	referral	1	1	43
 2026-11-26	yandex.tm	referral	1	1	1
+2026-11-27	(direct)	(none)	20815	20812	40440
+2026-11-27	(not set)	(not set)	2032	9	5296
+2026-11-27	127.0.0.1:52888	referral	1	1	1
+2026-11-27	bing	organic	24	22	1839
+2026-11-27	buttermilk.inf.ed.ac.uk	referral	1	1	69
+2026-11-27	chatgpt.com	ai-assistant	6	5	100
+2026-11-27	cn.bing.com	referral	2	2	67
+2026-11-27	codex.flywire.ai	referral	3	3	0
+2026-11-27	doubao.com	referral	1	1	21
+2026-11-27	duckduckgo	organic	7	7	201
+2026-11-27	ecosia.org	organic	1	1	1
+2026-11-27	en.wikipedia.org	referral	2	2	29
+2026-11-27	flylight-raw.janelia.org	referral	1	1	0
+2026-11-27	github.com	referral	5	5	0
+2026-11-27	google	organic	278	268	14045
+2026-11-27	perplexity.ai	ai-assistant	3	2	7
+2026-11-27	qwant.com	organic	1	0	0
+2026-11-27	reddit.com	referral	1	1	58
+2026-11-27	splitgal4.janelia.org	referral	2	1	340
+2026-11-27	teams.public.onecdn.static.microsoft	referral	4	4	104
+2026-11-27	uk.search.yahoo.com	referral	1	1	15
+2026-11-27	ukc-word-edit.officeapps.live.com	referral	1	1	135
+2026-11-27	yahoo	organic	1	1	0
+2026-11-27	youtube.com	referral	1	0	0
